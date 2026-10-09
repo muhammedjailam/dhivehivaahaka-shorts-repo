@@ -1,0 +1,2571 @@
+{
+ "series": "Sector7",
+ "episode": 406,
+ "beats": [
+  {
+   "id": "beat_001",
+   "startMs": 0,
+   "endMs": 35011,
+   "new_image_reason": "episode opening: the Revival vans race through Sector 7 towards the lift gate",
+   "characters": [],
+   "location": "a wide rough tunnel road deep in Sector 7 of an underground bunker city, rusted riveted steel walls, thick pipes along the ceiling, oily puddles on cracked concrete, drifting steam, dim flickering bulbs",
+   "location_key": "tunnel_road",
+   "mood": "underground night, harsh white van headlights cutting through steam, amber work lights, deep teal shadows, wild excited energy",
+   "visual": "three heavy battered armoured vans speeding one after another through the wide steam-filled tunnel road towards the camera, harsh headlights blazing, young Revival men in worn jackets leaning out of the open side doors with raised fists, shouting with wild joy; their hands are empty",
+   "camera": "wide low-angle shot, the vans in the upper two-thirds, the wet concrete road as a calm lower third",
+   "image": "images/beat_001.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": "violence",
+   "safe_substitution": "'raising weapons' shown as raised empty fists; no weapons visible",
+   "ambience": "bunker_machinery",
+   "shots": [
+    {
+     "id": "shot_001",
+     "startMs": 0,
+     "endMs": 8120,
+     "narration_dhivehi": "ސެކްޓަރ 7 ގެ ހަނި، ތެތްފިނި މަގުތަކުގައި ދުއްވާފައި ދިޔަ ބަރު ވޭންތަކުގެ އިންޖީނުގެ އަޑު މުޅި ސަރަހައްދުގައި ގުގުމަމުން ދިޔައެވެ.",
+     "narration_english": "The roar of heavy vans speeding through the narrow, damp roads of Sector 7 echoed across the whole area.",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [
+      {
+       "name": "engine_rev",
+       "atMs": 4820,
+       "gainDb": -16,
+       "word": "އިންޖީނުގެ"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_002",
+     "startMs": 8120,
+     "endMs": 17840,
+     "narration_dhivehi": "ވޭންތަކުގެ އެތެރޭގައި ތިބި \"ރިވައިވަލް\" ގެ ސަތޭކައަށް ވުރެ ގިނަ ޒުވާނުން ތިބީ އުފަލާއި ޖޯޝުން ފުރިގެން، ހަތިޔާރުތައް އުފުލައި އަޑުގެ ކޮޅަށް ހަޅޭއްލަވަމުންނެވެ.",
+     "narration_english": "Inside the vans, more than a hundred young men of 'Revival', filled with joy and passion, were raising their weapons and shouting at the top of their voices.",
+     "crop": "tight",
+     "motion": "pan left",
+     "sfx": [
+      {
+       "name": "crowd_roar",
+       "atMs": 16460,
+       "gainDb": -20,
+       "word": "ހަޅޭއްލަވަމުންނެވެ."
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      10.5,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_003",
+     "startMs": 17840,
+     "endMs": 26720,
+     "narration_dhivehi": "އެމީހުންގެ ހިތްތަކުގައި ވަނީ އެތައް ޖީލެއްގެ އަޅުވެތިކަމާއި ބަނޑުހައިހޫނުކަމުން ސަލާމަތްވެ، މަތީ ފަންތި ފުނޑުފުނޑުކޮށްލުމުގެ އަނދިރި ޖަޒުބާތެވެ.",
+     "narration_english": "In their hearts were the dark feelings of escaping generations of slavery and hunger, and of tearing the upper level to pieces.",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_004",
+     "startMs": 26720,
+     "endMs": 35011,
+     "narration_dhivehi": "އެމީހުން ދަތުރުކުރަމުން ދިޔައީ މަތީ ފަންތިތަކަށް އަރަން އޮތް ހަމައެކަނި މަގު ކަމުގައިވާ، ސެކްޓަރ 1 ގެ މައި ލިފްޓް ގޭޓާ ދިމާއަށެވެ.",
+     "narration_english": "They were heading for the main lift gate of Sector 1, the only way up to the upper levels.",
+     "crop": "medium",
+     "motion": "pan right",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      4.5,
+      0.0,
+      71.5,
+      84.7
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Cinematic semi-realistic digital illustration in a dark gritty dystopian sci-fi style matching a post-apocalyptic underground bunker city: rusted steel walls, pipes, steam and haze, warm amber and sodium-orange work lights against cold steel-blue and teal shadows, the luxurious upper levels in clean white, glass and soft gold light, volumetric light shafts, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and calm, uncluttered space at the bottom (floor, grating, table top, soft shadow) for a logo.\nScene: three heavy battered armoured vans speeding one after another through the wide steam-filled tunnel road towards the camera, harsh headlights blazing, young Revival men in worn jackets leaning out of the open side doors with raised fists, shouting with wild joy; their hands are empty. Location: a wide rough tunnel road deep in Sector 7 of an underground bunker city, rusted riveted steel walls, thick pipes along the ceiling, oily puddles on cracked concrete, drifting steam, dim flickering bulbs. Camera: wide low-angle shot, the vans in the upper two-thirds, the wet concrete road as a calm lower third.\nMood/lighting: underground night, harsh white van headlights cutting through steam, amber work lights, deep teal shadows, wild excited energy.\nModest clothing (women in loose long-sleeved ankle-length clothing with a hijab fully covering hair and neck; men in long-sleeved shirts or jackets and long trousers), culturally respectful, no guns, no knives, no weapons visible, no violence shown, no blood, no wounds, no gore, no dead bodies, no text, no letters, no numbers, no writing, no screens with readable text, no symbols, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.24,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 40.2,
+    "y_pct": 29.1,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_002",
+   "startMs": 35011,
+   "endMs": 51511,
+   "new_image_reason": "scene change: the storage complex and the death trap prepared by Kyle's soldiers",
+   "characters": [],
+   "location": "the approach to the Sector 1 storage complex deep underground: a wide concrete forecourt ending at a colossal riveted steel door set in a towering rust-streaked steel wall, high dark gantries and catwalks above it, thick pipes and vent grilles in the walls",
+   "location_key": "lift_complex",
+   "mood": "underground, cold white floodlight on the door, deep blue-black shadows above, a faint red indicator glow, ominous silent menace",
+   "visual": "the colossal sealed steel door of the storage complex at the end of an empty concrete forecourt, and high above it on a dark gantry a row of motionless commando silhouettes in black full armour and helmets with dark visors, waiting in the shadows, hands empty at their sides",
+   "camera": "wide shot, low angle, the gantry and silhouettes in the upper third, the empty forecourt as the calm lower third",
+   "image": "images/beat_002.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": "violence",
+   "safe_substitution": "the waiting ambush shown as still silhouettes with empty hands; no weapons",
+   "ambience": "storage_hall",
+   "shots": [
+    {
+     "id": "shot_005",
+     "startMs": 35011,
+     "endMs": 44451,
+     "narration_dhivehi": "ނަމަވެސް އެމީހުންނަށް ނޭނގޭ ހަގީގަތަކީ، އެ ލިފްޓާ ހަމައަށް ދެވެން އޮތީ ސަލާމަތީ ފިޔަވަޅުތައް ވަރުގަދަ މައި ގުދަން ކޮމްޕްލެކްސްގެ ތެރެއިން ކަމާއި،",
+     "narration_english": "But the truth they did not know was that the lift could only be reached through the heavily secured main storage complex,",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_006",
+     "startMs": 44451,
+     "endMs": 51511,
+     "narration_dhivehi": "އެތަނުގައި ސީދާ ކޮމާންޑަރ ކައިލްގެ ސިފައިން ވަނީ މަރުގެ ދަންމައްޗެއް ތައްޔާރުކޮށްފައި ކަމެވެ. ހަމަ އެވަގުތު،",
+     "narration_english": "and that Commander Kyle's own soldiers had prepared a death trap there. At that very moment,",
+     "crop": "tight",
+     "motion": "pan up",
+     "sfx": [
+      {
+       "name": "heartbeat",
+       "atMs": 48301,
+       "gainDb": -20,
+       "word": "ދަންމައްޗެއް"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      8.3,
+      0.0,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Cinematic semi-realistic digital illustration in a dark gritty dystopian sci-fi style matching a post-apocalyptic underground bunker city: rusted steel walls, pipes, steam and haze, warm amber and sodium-orange work lights against cold steel-blue and teal shadows, the luxurious upper levels in clean white, glass and soft gold light, volumetric light shafts, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and calm, uncluttered space at the bottom (floor, grating, table top, soft shadow) for a logo.\nScene: the colossal sealed steel door of the storage complex at the end of an empty concrete forecourt, and high above it on a dark gantry a row of motionless commando silhouettes in black full armour and helmets with dark visors, waiting in the shadows, hands empty at their sides. Location: the approach to the Sector 1 storage complex deep underground: a wide concrete forecourt ending at a colossal riveted steel door set in a towering rust-streaked steel wall, high dark gantries and catwalks above it, thick pipes and vent grilles in the walls. Camera: wide shot, low angle, the gantry and silhouettes in the upper third, the empty forecourt as the calm lower third.\nMood/lighting: underground, cold white floodlight on the door, deep blue-black shadows above, a faint red indicator glow, ominous silent menace.\nModest clothing (women in loose long-sleeved ankle-length clothing with a hijab fully covering hair and neck; men in long-sleeved shirts or jackets and long trousers), culturally respectful, no guns, no knives, no weapons visible, no violence shown, no blood, no wounds, no gore, no dead bodies, no text, no letters, no numbers, no writing, no screens with readable text, no symbols, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.226,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 38.0,
+    "y_pct": 10.2,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_003",
+   "startMs": 51511,
+   "endMs": 94582,
+   "new_image_reason": "characters and scene change: Aira and Zail chase the vans and find the secret vent route",
+   "characters": [
+    "aira",
+    "zail"
+   ],
+   "location": "a narrow damp side tunnel in Sector 7, rusted pipes dripping water along curved steel walls, puddles on the grated floor, a single caged bulb",
+   "location_key": "side_tunnel",
+   "mood": "underground, dim amber caged bulb and the soft green glow of a handheld screen, cold teal shadows, urgent and breathless",
+   "visual": "Aira standing in a narrow dripping tunnel holding a small rugged black communicator whose screen glows with an abstract green line map without any text, pointing at it with determination; Zail an arm's length beside her, bent forward breathless with one gloved hand on the rusted wall, glasses glinting; far behind them the red tail lights of vans fading away",
+   "camera": "medium shot, eye level",
+   "image": "images/beat_003.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "corridor_drip",
+   "shots": [
+    {
+     "id": "shot_007",
+     "startMs": 51511,
+     "endMs": 60741,
+     "narration_dhivehi": "ބްރެންޓްގެ ބޮލުގައި ޖަހައި ބިމަށް ވައްޓާލުމަށްފަހު، އައިރާއާއި ޒައިލް ދުވަމުން ދިޔައީ އެ ވޭންތަކުގެ ފަހަތުންނެވެ. \"އަހަރެމެން މާ ލަސްވެއްޖެ!\"",
+     "narration_english": "after striking Brent on the head and knocking him down, Aira and Zail were running after those vans. \"We're too late!\"",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [
+      {
+       "name": "footsteps_pavement",
+       "atMs": 56181,
+       "gainDb": -20,
+       "word": "ދުވަމުން"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_008",
+     "startMs": 60741,
+     "endMs": 68392,
+     "narration_dhivehi": "ޒައިލް ނޭވާ ކޮޅަށް ހިފަހައްޓަމުން ބުންޏެވެ. \"އެމީހުން ލިފްޓް ކޮމްޕްލެކްސްއާ ހަމައަށް ފޯރާކަށް ދެނެއް މާ ގިނަ ވަގުތެއް ނެތް!\"",
+     "narration_english": "Zail said, catching his breath. \"There isn't much time left before they reach the lift complex!\"",
+     "crop": "tight",
+     "motion": "pan down",
+     "sfx": [
+      {
+       "name": "breath_heavy",
+       "atMs": 61441,
+       "gainDb": -20,
+       "word": "ނޭވާ"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      29.5,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_009",
+     "startMs": 68392,
+     "endMs": 77422,
+     "narration_dhivehi": "\"މައި މަގުން ދާން އުޅެފިއްޔާ އަހަރެމެންނަށް އެމީހުންނާ ހަމައެއް ނުކުރެވޭނެ،\" އައިރާ ދަބަހުގައި އޮތް އަސްކަރީ ކޮމިއުނިކޭޓަރަށް ބަލައިލަމުން ބުންޏެވެ.",
+     "narration_english": "\"If we go by the main road we'll never catch up with them,\" Aira said, looking at the military communicator in her bag.",
+     "crop": "full",
+     "motion": "static drift",
+     "sfx": [
+      {
+       "name": "computer_beep",
+       "atMs": 75002,
+       "gainDb": -22,
+       "word": "ކޮމިއުނިކޭޓަރަށް"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_010",
+     "startMs": 77422,
+     "endMs": 85882,
+     "narration_dhivehi": "އޭގެ ސްކްރީނުން ފެންނަ ސިއްރު ޗާޓަށް ބަލައި އޭނާ އިނގިލި ދިއްކޮށްލިއެވެ. \"މިތަނުން މައްޗަށް ދާން އޮތް ވައިދަތުރުކުރާ ސިއްރު ހޮޅިތަކެއް އެބައޮތް.",
+     "narration_english": "She looked at the secret chart on its screen and pointed with her finger. \"There are secret ventilation ducts from here going up.",
+     "crop": "medium",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      23.4,
+      0.0,
+      71.5,
+      84.7
+     ]
+    },
+    {
+     "id": "shot_011",
+     "startMs": 85882,
+     "endMs": 94582,
+     "narration_dhivehi": "އެއީ މައި ލިފްޓް ގޭޓް ހުރި ގުދަނުގެ މައި ހޯލާ ސީދާ ގުޅިފައިވާ މަގެއް. އެމީހުން އެތެރެއަށް ވަނުމުގެ ކުރިން އަހަރެމެންނަށް އެތަނަށް ދެވިދާނެ!\"",
+     "narration_english": "It's a route that connects directly to the main hall of the storage where the main lift gate is. We can get there before they go in!\"",
+     "crop": "tight",
+     "motion": "pan left",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      29.5,
+      0.0,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Aira; reference image 2 is Zail), create a new scene: Cinematic semi-realistic digital illustration in a dark gritty dystopian sci-fi style matching a post-apocalyptic underground bunker city: rusted steel walls, pipes, steam and haze, warm amber and sodium-orange work lights against cold steel-blue and teal shadows, the luxurious upper levels in clean white, glass and soft gold light, volumetric light shafts, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and calm, uncluttered space at the bottom (floor, grating, table top, soft shadow) for a logo.\nScene: Aira standing in a narrow dripping tunnel holding a small rugged black communicator whose screen glows with an abstract green line map without any text, pointing at it with determination; Zail an arm's length beside her, bent forward breathless with one gloved hand on the rusted wall, glasses glinting; far behind them the red tail lights of vans fading away. Location: a narrow damp side tunnel in Sector 7, rusted pipes dripping water along curved steel walls, puddles on the grated floor, a single caged bulb. Camera: medium shot, eye level.\nCharacters: Aira: a slim athletic Maldivian young woman of 26 with warm brown skin, a determined oval face, large dark intense eyes, straight dark eyebrows and a faint grease smudge on one cheek; wears a loose ankle-length dark olive-brown canvas work coat buttoned to the neck with long sleeves, loose dark trousers and scuffed boots, a charcoal-grey hijab wrapped snugly and fully covering her hair and neck, and a small worn steel tag pendant on a thin chain over her hijab at the chest. Zail: a lean slightly stooped Maldivian man about 65 with weathered warm brown skin, a lined thoughtful face, sharp piercing dark eyes behind small round wire-rimmed glasses, untidy short grey-white hair and a thick bushy grey-white beard; wears a patched long dark-brown coat over a faded grey long-sleeved shirt, dark trousers and fingerless wool gloves.\nMood/lighting: underground, dim amber caged bulb and the soft green glow of a handheld screen, cold teal shadows, urgent and breathless.\nModest clothing (women in loose long-sleeved ankle-length clothing with a hijab fully covering hair and neck; men in long-sleeved shirts or jackets and long trousers), culturally respectful, no guns, no knives, no weapons visible, no violence shown, no blood, no wounds, no gore, no dead bodies, no text, no letters, no numbers, no writing, no screens with readable text, no symbols, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.084,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 59.2,
+    "y_pct": 31.1,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_004",
+   "startMs": 94582,
+   "endMs": 138934,
+   "new_image_reason": "action change: they open a vent hatch and climb up the shaft; Kyle's message in her mind",
+   "characters": [
+    "aira",
+    "zail"
+   ],
+   "location": "the inside of a large square vertical steel ventilation duct, rusty riveted walls streaked with damp, condensation drops, faint light from a grille high above",
+   "location_key": "vent_duct",
+   "mood": "underground, near darkness, a dim red glow from a small device lighting her face from below, cold steel-blue edges, claustrophobic tension",
+   "visual": "looking up inside a narrow vertical steel ventilation duct: Aira climbing upward with her boots braced against the rusty walls and hands on the rivets, her ankle-length coat and hijab neat, her determined face lit from below by the dim red glow of the communicator clipped to her coat; Zail climbing below her with a gap between them, his round glasses catching the light",
+   "camera": "low angle looking up the shaft, faces in the upper half, dark duct walls framing a calm lower third",
+   "image": "images/beat_004.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "vent_shaft",
+   "shots": [
+    {
+     "id": "shot_012",
+     "startMs": 94582,
+     "endMs": 104353,
+     "narration_dhivehi": "އެމީހުން ވަގުތުން ވައިދަތުރުކުރާ ބިޔަ ދަގަނޑު ހޮޅިއެއްގެ ދޮރު ނައްޓާލައި، އޭގެ ތެރެއަށް ދެމިގަތެވެ. އެ ހޮޅިތަކުގެ އެތެރެ ވަނީ އިންތިހާއަށް ތެތްފިނިވެ،",
+     "narration_english": "At once they pulled off the door of a huge steel ventilation duct and plunged inside. The inside of those ducts was extremely damp,",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [
+      {
+       "name": "metal_clang",
+       "atMs": 98422,
+       "gainDb": -18,
+       "word": "ނައްޓާލައި،"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_013",
+     "startMs": 104353,
+     "endMs": 118823,
+     "narration_dhivehi": "ދަގަނޑު ދަބަރާއި ނާމާން އަޑުތަކުން ފުރިފައެވެ. ދަގަނޑު ހޮޅީގެ ފާރުތަކުގައި ފައި އަޅުވަމުން، އުނދަގުލާއެކު މައްޗަށް އަރަމުން ދިޔައިރު، އައިރާގެ ސިކުނޑީގައި އެނބުރެމުން ދިޔައީ ކޮމާންޑަރ ކައިލްގެ އެ އަނިޔާވެރި މެސެޖެވެ:",
+     "narration_english": "full of rust and eerie noises. As they climbed up with difficulty, bracing their feet against the steel walls of the duct, Commander Kyle's cruel message kept circling in Aira's mind:",
+     "crop": "tight",
+     "motion": "pan right",
+     "sfx": [
+      {
+       "name": "vent_knock",
+       "atMs": 106083,
+       "gainDb": -22,
+       "word": "އަޑުތަކުން"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      13.1,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_014",
+     "startMs": 118823,
+     "endMs": 129473,
+     "narration_dhivehi": "[FROM: COMMANDER KYLE - STATUS: AMBUSH READY AT SECTOR-1 ELEVATOR GATE. BRING THEM ALL. NO SURVIVORS.]",
+     "narration_english": "[FROM: COMMANDER KYLE — STATUS: AMBUSH READY AT SECTOR-1 ELEVATOR GATE. BRING THEM ALL. NO SURVIVORS.]",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [
+      {
+       "name": "computer_beep",
+       "atMs": 120203,
+       "gainDb": -22,
+       "word": "COMMANDER"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_015",
+     "startMs": 129473,
+     "endMs": 138934,
+     "narration_dhivehi": "މުޅި ރިވައިވަލް ފައުޖު އެއްކޮށް ނައްތާލުމަށް ރާވާފައިވާ މަކަރުވެރި ދަންތުރައެކެވެ. މިއީ މަތީ ފަންތިއަށް އެރުމުގެ މަގެއް ނޫނެވެ؛ މިއީ ޤަތުލުޢާންމެކެވެ.",
+     "narration_english": "A treacherous trap planned to wipe out the whole Revival army at once. This was not a way up to the upper level; this was a massacre.",
+     "crop": "medium",
+     "motion": "pan up",
+     "sfx": [],
+     "hum": true,
+     "crop_rect_pct": [
+      7.0,
+      0.0,
+      71.5,
+      84.7
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Aira; reference image 2 is Zail), create a new scene: Cinematic semi-realistic digital illustration in a dark gritty dystopian sci-fi style matching a post-apocalyptic underground bunker city: rusted steel walls, pipes, steam and haze, warm amber and sodium-orange work lights against cold steel-blue and teal shadows, the luxurious upper levels in clean white, glass and soft gold light, volumetric light shafts, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and calm, uncluttered space at the bottom (floor, grating, table top, soft shadow) for a logo.\nScene: looking up inside a narrow vertical steel ventilation duct: Aira climbing upward with her boots braced against the rusty walls and hands on the rivets, her ankle-length coat and hijab neat, her determined face lit from below by the dim red glow of the communicator clipped to her coat; Zail climbing below her with a gap between them, his round glasses catching the light. Location: the inside of a large square vertical steel ventilation duct, rusty riveted walls streaked with damp, condensation drops, faint light from a grille high above. Camera: low angle looking up the shaft, faces in the upper half, dark duct walls framing a calm lower third.\nCharacters: Aira: a slim athletic Maldivian young woman of 26 with warm brown skin, a determined oval face, large dark intense eyes, straight dark eyebrows and a faint grease smudge on one cheek; wears a loose ankle-length dark olive-brown canvas work coat buttoned to the neck with long sleeves, loose dark trousers and scuffed boots, a charcoal-grey hijab wrapped snugly and fully covering her hair and neck, and a small worn steel tag pendant on a thin chain over her hijab at the chest. Zail: a lean slightly stooped Maldivian man about 65 with weathered warm brown skin, a lined thoughtful face, sharp piercing dark eyes behind small round wire-rimmed glasses, untidy short grey-white hair and a thick bushy grey-white beard; wears a patched long dark-brown coat over a faded grey long-sleeved shirt, dark trousers and fingerless wool gloves.\nMood/lighting: underground, near darkness, a dim red glow from a small device lighting her face from below, cold steel-blue edges, claustrophobic tension.\nModest clothing (women in loose long-sleeved ankle-length clothing with a hijab fully covering hair and neck; men in long-sleeved shirts or jackets and long trousers), culturally respectful, no guns, no knives, no weapons visible, no violence shown, no blood, no wounds, no gore, no dead bodies, no text, no letters, no numbers, no writing, no screens with readable text, no symbols, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.092,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 42.8,
+    "y_pct": 14.2,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_005",
+   "startMs": 138934,
+   "endMs": 158844,
+   "new_image_reason": "action and scene change: through the grille they see the vans arrive and the youths at the steel door",
+   "characters": [
+    "aira"
+   ],
+   "location": "the approach to the Sector 1 storage complex deep underground: a wide concrete forecourt ending at a colossal riveted steel door set in a towering rust-streaked steel wall, high dark gantries and catwalks above it, thick pipes and vent grilles in the walls",
+   "location_key": "lift_complex",
+   "mood": "underground, cold white floodlight on the door, deep blue-black shadows above, a faint red indicator glow, ominous silent menace",
+   "visual": "over Aira's shoulder as she peers down through a vent grille high in the wall: far below, heavy vans parked with headlights on, dozens of young Revival men in worn jackets crowding around the colossal steel door, stacking heavy gas cylinders against its base; Aira's tense face in profile in the upper part of the frame",
+   "camera": "high-angle over-the-shoulder shot looking down",
+   "image": "images/beat_005.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": "violence",
+   "safe_substitution": "the explosive charges are shown only as stacked gas cylinders; no wires, fuses or explosives",
+   "ambience": "storage_hall",
+   "shots": [
+    {
+     "id": "shot_016",
+     "startMs": 138934,
+     "endMs": 147044,
+     "narration_dhivehi": "ހޮޅިތަކުގެ ތެރެއިން ގުދަނުގެ މައި ދޮރުގެ މައްޗަށް އެމީހުންނަށް ފޯރުނު ވަގުތަކީ، ތިރިން ޒުވާނުންގެ ވޭންތައް އައިސް މަޑުކުރި ވަގުތެވެ.",
+     "narration_english": "The moment they reached the space above the main door of the storage through the ducts was the moment the youths' vans arrived below and stopped.",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [
+      {
+       "name": "engine_rev",
+       "atMs": 145204,
+       "gainDb": -22,
+       "word": "ވޭންތައް"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_017",
+     "startMs": 147044,
+     "endMs": 158844,
+     "narration_dhivehi": "މައި ލިފްޓް ހުރި ސަރަހައްދަށް ވަންނަން އޮތް ހަމައެކަނި ދޮރަކީ ގުދަނުގެ ބޯ ދަގަނޑު ދޮރެވެ. ޒުވާނުން ފައިބައިގެން އައިސް އެ ދޮރުގައި ބާރުގަދަ ގޮވާތަކެތި ހަރުކުރަން ފެށިއެވެ.",
+     "narration_english": "The only door into the main lift area was the storage's thick steel door. The youths got out and began fixing powerful explosives to that door.",
+     "crop": "tight",
+     "motion": "pan down",
+     "sfx": [
+      {
+       "name": "metal_clang",
+       "atMs": 155904,
+       "gainDb": -22,
+       "word": "ހަރުކުރަން"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      20.3,
+      4.8,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Aira), create a new scene: Cinematic semi-realistic digital illustration in a dark gritty dystopian sci-fi style matching a post-apocalyptic underground bunker city: rusted steel walls, pipes, steam and haze, warm amber and sodium-orange work lights against cold steel-blue and teal shadows, the luxurious upper levels in clean white, glass and soft gold light, volumetric light shafts, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and calm, uncluttered space at the bottom (floor, grating, table top, soft shadow) for a logo.\nScene: over Aira's shoulder as she peers down through a vent grille high in the wall: far below, heavy vans parked with headlights on, dozens of young Revival men in worn jackets crowding around the colossal steel door, stacking heavy gas cylinders against its base; Aira's tense face in profile in the upper part of the frame. Location: the approach to the Sector 1 storage complex deep underground: a wide concrete forecourt ending at a colossal riveted steel door set in a towering rust-streaked steel wall, high dark gantries and catwalks above it, thick pipes and vent grilles in the walls. Camera: high-angle over-the-shoulder shot looking down.\nCharacters: Aira: a slim athletic Maldivian young woman of 26 with warm brown skin, a determined oval face, large dark intense eyes, straight dark eyebrows and a faint grease smudge on one cheek; wears a loose ankle-length dark olive-brown canvas work coat buttoned to the neck with long sleeves, loose dark trousers and scuffed boots, a charcoal-grey hijab wrapped snugly and fully covering her hair and neck, and a small worn steel tag pendant on a thin chain over her hijab at the chest.\nMood/lighting: underground, cold white floodlight on the door, deep blue-black shadows above, a faint red indicator glow, ominous silent menace.\nModest clothing (women in loose long-sleeved ankle-length clothing with a hijab fully covering hair and neck; men in long-sleeved shirts or jackets and long trousers), culturally respectful, no guns, no knives, no weapons visible, no violence shown, no blood, no wounds, no gore, no dead bodies, no text, no letters, no numbers, no writing, no screens with readable text, no symbols, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.25,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 50.0,
+    "y_pct": 40.0,
+    "face_detected": false
+   }
+  },
+  {
+   "id": "beat_006",
+   "startMs": 158844,
+   "endMs": 176905,
+   "new_image_reason": "action change: the door is blasted open, the youths storm in, Brent appears with a bandaged head",
+   "characters": [
+    "brent"
+   ],
+   "location": "the colossal steel door of the Sector 1 storage complex, now buckled and torn open, the concrete forecourt in front of it with parked heavy vans",
+   "location_key": "door_blast",
+   "mood": "underground, a huge cloud of grey smoke and dust lit orange-amber by work lights and white headlights from behind, chaotic",
+   "visual": "the buckled steel door torn open with a huge cloud of grey smoke and dust billowing out, young men in worn jackets running into the smoke with raised fists, figures small and far back; behind them, striding out of the haze, tall Brent with a clean white bandage wrapped around his head and a cold grim face",
+   "camera": "wide shot from above, slightly high angle",
+   "image": "images/beat_006.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": "violence",
+   "safe_substitution": "the blast shown as billowing smoke and dust from a buckled door, figures far back, nobody hurt",
+   "ambience": "storage_hall",
+   "shots": [
+    {
+     "id": "shot_018",
+     "startMs": 158844,
+     "endMs": 165814,
+     "narration_dhivehi": "3... 2... 1... ކަބޫމް! ގޮވައިގެން ދިޔަ ބާރު އަޑާއެކު މުޅި ސަރަހައްދު ގުޑައިގެން ދިޔައެވެ. ދޮރު ފުނޑުފުނޑުވެ ބިމަށް ވެއްޓި،",
+     "narration_english": "3... 2... 1... Kaboom! With a mighty blast the whole area shook. The door shattered and fell to the ground,",
+     "crop": "full",
+     "motion": "static drift",
+     "sfx": [
+      {
+       "name": "distant_boom",
+       "atMs": 159064,
+       "gainDb": -18,
+       "word": "ކަބޫމް!"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_019",
+     "startMs": 165814,
+     "endMs": 176905,
+     "narration_dhivehi": "ދުމުގެ ތެރެއިން ޒުވާނުން ހަޅޭއްލަވަމުން އެތެރެއަށް ދެމިގަތް ވަގުތު، ހޮޅީގެ ވައިގޮޅިން އައިރާއަށް ފެނުނީ އެމީހުންގެ ފަހަތުން ބޮލުގައި ބެންޑޭޖެއް އަޅައިގެން ވަން ބްރެންޓެވެ.",
+     "narration_english": "and as the youths charged inside through the smoke, shouting, Aira saw through the duct's vent Brent coming in behind them with a bandage on his head.",
+     "crop": "tight",
+     "motion": "slow push-in",
+     "sfx": [
+      {
+       "name": "crowd_roar",
+       "atMs": 167505,
+       "gainDb": -20,
+       "word": "ހަޅޭއްލަވަމުން"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      40.6,
+      24.1,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Brent), create a new scene: Cinematic semi-realistic digital illustration in a dark gritty dystopian sci-fi style matching a post-apocalyptic underground bunker city: rusted steel walls, pipes, steam and haze, warm amber and sodium-orange work lights against cold steel-blue and teal shadows, the luxurious upper levels in clean white, glass and soft gold light, volumetric light shafts, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and calm, uncluttered space at the bottom (floor, grating, table top, soft shadow) for a logo.\nScene: the buckled steel door torn open with a huge cloud of grey smoke and dust billowing out, young men in worn jackets running into the smoke with raised fists, figures small and far back; behind them, striding out of the haze, tall Brent with a clean white bandage wrapped around his head and a cold grim face. Location: the colossal steel door of the Sector 1 storage complex, now buckled and torn open, the concrete forecourt in front of it with parked heavy vans. Camera: wide shot from above, slightly high angle.\nCharacters: Brent: a tall broad-shouldered powerful Maldivian man about 30 with warm brown skin, a hard handsome angular face, intense narrow dark eyes, a short black stubble beard and short black hair shaved at the sides; wears a long-sleeved dark rust-red canvas jacket with a high collar over a black shirt, dark cargo trousers and heavy boots.\nMood/lighting: underground, a huge cloud of grey smoke and dust lit orange-amber by work lights and white headlights from behind, chaotic.\nModest clothing (women in loose long-sleeved ankle-length clothing with a hijab fully covering hair and neck; men in long-sleeved shirts or jackets and long trousers), culturally respectful, no guns, no knives, no weapons visible, no violence shown, no blood, no wounds, no gore, no dead bodies, no text, no letters, no numbers, no writing, no screens with readable text, no symbols, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.143,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 88.2,
+    "y_pct": 59.3,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_007",
+   "startMs": 176905,
+   "endMs": 207436,
+   "new_image_reason": "action and location change: they kick out the grille, land on the catwalk and look down",
+   "characters": [
+    "aira",
+    "zail"
+   ],
+   "location": "a narrow steel catwalk bridge with railings high under the ceiling of a vast underground storage hall, a loose ventilation grille hanging open behind it, the enormous hall stretching below",
+   "location_key": "catwalk",
+   "mood": "underground, cold white industrial light rising from below through drifting smoke, amber rim light on faces, breathless shock",
+   "visual": "Aira and Zail crouching on the narrow steel catwalk high above the vast hall, the kicked-out vent grille hanging behind them, gripping the railing and staring down through drifting smoke; Aira's hand pressed to her chest, her breath caught in shock; Zail at an arm's length beside her",
+   "camera": "medium shot, slightly low angle, the hall dropping away below",
+   "image": "images/beat_007.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": "other",
+   "safe_substitution": "'Aira held Zail's arm' shown as her turning urgently to him at an arm's length; no touching",
+   "ambience": "storage_hall",
+   "shots": [
+    {
+     "id": "shot_020",
+     "startMs": 176905,
+     "endMs": 186415,
+     "narration_dhivehi": "އޭނާ ބިމުން ތެދުވެގެން، މި މީހުން މަރުގެ ތެރެއަށް ވައްޓާލަން އައީއެވެ. އައިރާ ޒައިލްގެ އަތުގައި ހިފަހައްޓައިލިއެވެ. \"އަހަރެމެން އެމީހުން ހުއްޓުވަން ޖެހޭނެ...",
+     "narration_english": "He had got up off the ground and come to lead these people into death. Aira held on to Zail's arm. \"We have to stop them...",
+     "crop": "full",
+     "motion": "pan left",
+     "sfx": [],
+     "hum": true,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_021",
+     "startMs": 186415,
+     "endMs": 195525,
+     "narration_dhivehi": "މިހާރު!\" ވައިހޮޅީގެ ދަގަނޑު ދާގަނޑު ކޮށްޕާލުމަށްފަހު އައިރާއާއި ޒައިލް ފުންމާލީ މައި ގުދަނުގެ މަތީގައި ހުރި ދަގަނޑު ބްރިޖްމައްޗަށެވެ.",
+     "narration_english": "now!\" After kicking out the steel grating of the vent, Aira and Zail jumped down onto the steel bridge above the main storage.",
+     "crop": "tight",
+     "motion": "slow pull-out",
+     "sfx": [
+      {
+       "name": "metal_clang",
+       "atMs": 188765,
+       "gainDb": -18,
+       "word": "ކޮށްޕާލުމަށްފަހު"
+      },
+      {
+       "name": "soft_thud",
+       "atMs": 191285,
+       "gainDb": -22,
+       "word": "ފުންމާލީ"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      4.1,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_022",
+     "startMs": 195525,
+     "endMs": 203346,
+     "narration_dhivehi": "އެއީ ގުދަނުގެ ހުރިހާ ދިމާއެއް ރީއްޗަށް ފެންނަ އުސް ތަނެކެވެ. ދޮރު ގޮއްވާލުމަށްފަހު އުފެދުނު ބޯ ދުމުގެ ތެރެއިން ތިރިއަށް ބަލައިލި ވަގުތު،",
+     "narration_english": "It was a high place from which every corner of the storage could be seen clearly. When they looked down through the thick smoke left by the blast,",
+     "crop": "full",
+     "motion": "pan right",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_023",
+     "startMs": 203346,
+     "endMs": 207436,
+     "narration_dhivehi": "ފެނުނު މަންޒަރުން އައިރާގެ ނޭވާ ހިފަހައްޓައިލަން މަޖުބޫރުވިއެވެ.",
+     "narration_english": "the sight they saw made Aira hold her breath.",
+     "crop": "medium",
+     "motion": "slow push-in",
+     "sfx": [
+      {
+       "name": "gasp",
+       "atMs": 205226,
+       "gainDb": -20,
+       "word": "ނޭވާ"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      0.0,
+      0.0,
+      71.5,
+      84.7
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Aira; reference image 2 is Zail), create a new scene: Cinematic semi-realistic digital illustration in a dark gritty dystopian sci-fi style matching a post-apocalyptic underground bunker city: rusted steel walls, pipes, steam and haze, warm amber and sodium-orange work lights against cold steel-blue and teal shadows, the luxurious upper levels in clean white, glass and soft gold light, volumetric light shafts, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and calm, uncluttered space at the bottom (floor, grating, table top, soft shadow) for a logo.\nScene: Aira and Zail crouching on the narrow steel catwalk high above the vast hall, the kicked-out vent grille hanging behind them, gripping the railing and staring down through drifting smoke; Aira's hand pressed to her chest, her breath caught in shock; Zail at an arm's length beside her. Location: a narrow steel catwalk bridge with railings high under the ceiling of a vast underground storage hall, a loose ventilation grille hanging open behind it, the enormous hall stretching below. Camera: medium shot, slightly low angle, the hall dropping away below.\nCharacters: Aira: a slim athletic Maldivian young woman of 26 with warm brown skin, a determined oval face, large dark intense eyes, straight dark eyebrows and a faint grease smudge on one cheek; wears a loose ankle-length dark olive-brown canvas work coat buttoned to the neck with long sleeves, loose dark trousers and scuffed boots, a charcoal-grey hijab wrapped snugly and fully covering her hair and neck, and a small worn steel tag pendant on a thin chain over her hijab at the chest. Zail: a lean slightly stooped Maldivian man about 65 with weathered warm brown skin, a lined thoughtful face, sharp piercing dark eyes behind small round wire-rimmed glasses, untidy short grey-white hair and a thick bushy grey-white beard; wears a patched long dark-brown coat over a faded grey long-sleeved shirt, dark trousers and fingerless wool gloves.\nMood/lighting: underground, cold white industrial light rising from below through drifting smoke, amber rim light on faces, breathless shock.\nModest clothing (women in loose long-sleeved ankle-length clothing with a hijab fully covering hair and neck; men in long-sleeved shirts or jackets and long trousers), culturally respectful, no guns, no knives, no weapons visible, no violence shown, no blood, no wounds, no gore, no dead bodies, no text, no letters, no numbers, no writing, no screens with readable text, no symbols, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.23,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 33.8,
+    "y_pct": 14.5,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_008",
+   "startMs": 207436,
+   "endMs": 248557,
+   "new_image_reason": "new view: the upper level's wasted abundance in the storage hall",
+   "characters": [],
+   "location": "the vast clean storage hall of Sector 1: towering steel shelves stacked with supplies, crates of clear bottled water, open containers heaped with red apples, sacks of rice, a row of glass-fronted refrigerators holding fresh fish on ice, polished concrete floor, a gigantic closed lift gate at the far end, a thick glass control room glowing blue on one side",
+   "location_key": "hall",
+   "mood": "underground, bright clean white industrial light and a soft gold glow over the abundance, cool blue glow from the glass room, a cruel contrast with Sector 7's grime",
+   "visual": "the vast storage hall seen from high above, an empty steel railing in the near foreground with nobody on it: towering shelves stacked with crates of clear bottled water, open containers heaped with shining red apples, sacks of fragrant rice, a long row of glass-fronted refrigerators holding fresh fish on ice; tiny figures of young Revival men frozen in amazement in the aisles below, smoke drifting at the entrance; no text on any box",
+   "camera": "wide high-angle establishing shot",
+   "image": "images/beat_008.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "storage_hall",
+   "shots": [
+    {
+     "id": "shot_024",
+     "startMs": 207436,
+     "endMs": 220396,
+     "narration_dhivehi": "މަތީ ފަންތިތަކަށް އަރަން އޮތް ބިޔަ ލިފްޓް ގޭޓްގެ ކުރިމަތީގައި އޮތް އެ ބޮޑު ގުދަނުގައި ފުނިޖަހާފައި ހުރީ، ސެކްޓަރ 7 ގެ ނިކަމެތި ރައްޔިތުން މުޅި އުމުރުގައިވެސް ދެކެފައިނުވާ ފަދަ ބޭކާރު މުއްސަނދިކަމެކެވެ.",
+     "narration_english": "Piled up in that huge storage in front of the giant lift gate to the upper levels was a wasteful wealth that the poor people of Sector 7 had never seen in their whole lives.",
+     "crop": "full",
+     "motion": "pan up",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_025",
+     "startMs": 220396,
+     "endMs": 230126,
+     "narration_dhivehi": "މަތީ ފަންތީގެ މީހުން ކޮންމެ ދުވަހަކު ބޭނުންކޮށްފައި ބާކީ އުކާލާ މިންވަރެވެ. ބިއްލޫރި ފުޅިތަކުގައި ބަންދުކޮށްފައި ހުރި ސާފު، މީރު ފެނުގެ ކޯރުތަކެވެ.",
+     "narration_english": "It was what the upper level threw away every day as leftovers. Crates of clean, sweet water sealed in glass bottles.",
+     "crop": "tight",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      40.6,
+      22.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_026",
+     "startMs": 230126,
+     "endMs": 236487,
+     "narration_dhivehi": "ކޮންޓޭނަރުތަކުން ފެންނަ ރަތްކަން ގަދަ ތާޒާ އާފަލުތަކާއި، މީރުވަސް ދުވާ އަސްލު ބާސްމަތީ ހަނޑުލެވެ.",
+     "narration_english": "Bright red fresh apples spilling from containers, and real fragrant basmati rice.",
+     "crop": "full",
+     "motion": "pan down",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_027",
+     "startMs": 236487,
+     "endMs": 248557,
+     "narration_dhivehi": "އަދި ފިނިކުރި ކަބަޑުތަކުގައި ފުނިޖަހާފައި ހުރި އަސްލު މަހުގެ ބާވަތްތަކެވެ. ލިފްޓް ގޭޓް ފޫއަޅުވާލަން އައި ޒުވާނުންނަށް މި މަންޒަރު ފެނުމާއެކު، ހަނގުރާމައިގެ މަތިން ހަނދާން ނެތުނު ކަހަލައެވެ.",
+     "narration_english": "And real kinds of fish piled up in refrigerated cabinets. When the youths who had come to take the lift gate saw this, it was as if they forgot all about the war.",
+     "crop": "medium",
+     "motion": "static drift",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      28.5,
+      14.9,
+      71.5,
+      84.7
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Cinematic semi-realistic digital illustration in a dark gritty dystopian sci-fi style matching a post-apocalyptic underground bunker city: rusted steel walls, pipes, steam and haze, warm amber and sodium-orange work lights against cold steel-blue and teal shadows, the luxurious upper levels in clean white, glass and soft gold light, volumetric light shafts, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and calm, uncluttered space at the bottom (floor, grating, table top, soft shadow) for a logo.\nScene: the vast storage hall seen from high above, an empty steel railing in the near foreground with nobody on it: towering shelves stacked with crates of clear bottled water, open containers heaped with shining red apples, sacks of fragrant rice, a long row of glass-fronted refrigerators holding fresh fish on ice; tiny figures of young Revival men frozen in amazement in the aisles below, smoke drifting at the entrance; no text on any box. Location: the vast clean storage hall of Sector 1: towering steel shelves stacked with supplies, crates of clear bottled water, open containers heaped with red apples, sacks of rice, a row of glass-fronted refrigerators holding fresh fish on ice, polished concrete floor, a gigantic closed lift gate at the far end, a thick glass control room glowing blue on one side. Camera: wide high-angle establishing shot.\nMood/lighting: underground, bright clean white industrial light and a soft gold glow over the abundance, cool blue glow from the glass room, a cruel contrast with Sector 7's grime.\nModest clothing (women in loose long-sleeved ankle-length clothing with a hijab fully covering hair and neck; men in long-sleeved shirts or jackets and long trousers), culturally respectful, no guns, no knives, no weapons visible, no violence shown, no blood, no wounds, no gore, no dead bodies, no text, no letters, no numbers, no writing, no screens with readable text, no symbols, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.195,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 89.9,
+    "y_pct": 57.3,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_009",
+   "startMs": 248557,
+   "endMs": 264407,
+   "new_image_reason": "action change: the starving youths fall on the food, weeping with joy",
+   "characters": [],
+   "location": "the vast clean storage hall of Sector 1: towering steel shelves stacked with supplies, crates of clear bottled water, open containers heaped with red apples, sacks of rice, a row of glass-fronted refrigerators holding fresh fish on ice, polished concrete floor, a gigantic closed lift gate at the far end, a thick glass control room glowing blue on one side",
+   "location_key": "hall",
+   "mood": "underground, bright clean white industrial light and a soft gold glow over the abundance, cool blue glow from the glass room, a cruel contrast with Sector 7's grime",
+   "visual": "young Revival men in worn jackets and a few young women in hijabs kneeling among opened crates on the hall floor, holding red apples and bread, eating hungrily, tears of joy on their thin faces, some laughing and shouting with arms raised",
+   "camera": "medium wide shot, eye level",
+   "image": "images/beat_009.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "storage_hall",
+   "shots": [
+    {
+     "id": "shot_028",
+     "startMs": 248557,
+     "endMs": 255947,
+     "narration_dhivehi": "އެތައް އަހަރެއްގެ ބަނޑުހައިހޫނުކަމުގައި ތިބި އެ ނިކަމެތިން މޮޔައިން ފަދައިން ކާބޯތަކެތީގެ ފޮށިތަކުގެ މައްޗަށް ވެއްޓިގަތެވެ.",
+     "narration_english": "Those poor people, who had lived in hunger for so many years, threw themselves onto the food boxes like madmen.",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [
+      {
+       "name": "crowd_roar",
+       "atMs": 255107,
+       "gainDb": -22,
+       "word": "ވެއްޓިގަތެވެ."
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_029",
+     "startMs": 255947,
+     "endMs": 264407,
+     "narration_dhivehi": "މޭވާތަކާއި ކާތަކެތި އަނގަޔަށް އަޅަމުން، އުފަލުން ރޮމުން ހަޅޭއްލަވަން ފެށިއެވެ. އެމީހުން ހީކުރީ އެމީހުންގެ ހައްގުތައް ހޯދުނީ ކަމަށެވެ.",
+     "narration_english": "Stuffing fruit and food into their mouths, they began crying and shouting with joy. They thought they had won their rights.",
+     "crop": "tight",
+     "motion": "pan left",
+     "sfx": [
+      {
+       "name": "sob_breath",
+       "atMs": 259227,
+       "gainDb": -22,
+       "word": "ރޮމުން"
+      }
+     ],
+     "hum": true,
+     "crop_rect_pct": [
+      16.5,
+      3.2,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Cinematic semi-realistic digital illustration in a dark gritty dystopian sci-fi style matching a post-apocalyptic underground bunker city: rusted steel walls, pipes, steam and haze, warm amber and sodium-orange work lights against cold steel-blue and teal shadows, the luxurious upper levels in clean white, glass and soft gold light, volumetric light shafts, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and calm, uncluttered space at the bottom (floor, grating, table top, soft shadow) for a logo.\nScene: young Revival men in worn jackets and a few young women in hijabs kneeling among opened crates on the hall floor, holding red apples and bread, eating hungrily, tears of joy on their thin faces, some laughing and shouting with arms raised. Location: the vast clean storage hall of Sector 1: towering steel shelves stacked with supplies, crates of clear bottled water, open containers heaped with red apples, sacks of rice, a row of glass-fronted refrigerators holding fresh fish on ice, polished concrete floor, a gigantic closed lift gate at the far end, a thick glass control room glowing blue on one side. Camera: medium wide shot, eye level.\nMood/lighting: underground, bright clean white industrial light and a soft gold glow over the abundance, cool blue glow from the glass room, a cruel contrast with Sector 7's grime.\nModest clothing (women in loose long-sleeved ankle-length clothing with a hijab fully covering hair and neck; men in long-sleeved shirts or jackets and long trousers), culturally respectful, no guns, no knives, no weapons visible, no violence shown, no blood, no wounds, no gore, no dead bodies, no text, no letters, no numbers, no writing, no screens with readable text, no symbols, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.328,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 46.2,
+    "y_pct": 38.4,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_010",
+   "startMs": 264407,
+   "endMs": 293628,
+   "new_image_reason": "focus change: Aira spots the glowing blue central terminal — her chance to find her father's records",
+   "characters": [
+    "aira",
+    "zail"
+   ],
+   "location": "a narrow steel catwalk bridge with railings high under the ceiling of a vast underground storage hall, a loose ventilation grille hanging open behind it, the enormous hall stretching below",
+   "location_key": "catwalk",
+   "mood": "underground, cold white industrial light rising from below through drifting smoke, amber rim light on faces, breathless shock",
+   "visual": "Aira on the catwalk pointing across the hall towards a thick glass control room glowing bright blue with a large terminal of abstract light panels and no text, her eyes wide with sudden hope, whispering; Zail an arm's length beside her, frowning and looking down into the hall",
+   "camera": "medium shot over the railing, the glowing glass room in the background",
+   "image": "images/beat_010.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "storage_hall",
+   "shots": [
+    {
+     "id": "shot_030",
+     "startMs": 264407,
+     "endMs": 275288,
+     "narration_dhivehi": "ނަމަވެސް، އައިރާގެ ލޮލުގައި އަޅައިގަތީ ގުދަނުގެ އެއްފަރާތުގައި، ބޯ ބިއްލޫރި ކޮޓަރިއެއްގެ ތެރޭގައި ދިއްލިފައި ހުރި ނޫކުލައިގެ \"ލެވެލް 3 ގެ ސެންޓްރަލް ޓާމިނަލް\" އެވެ.",
+     "narration_english": "But what caught Aira's eye was the blue-glowing 'Level 3 Central Terminal' inside a thick glass room on one side of the storage.",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [
+      {
+       "name": "computer_beep",
+       "atMs": 271428,
+       "gainDb": -22,
+       "word": "ދިއްލިފައި"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_031",
+     "startMs": 275288,
+     "endMs": 284858,
+     "narration_dhivehi": "އެއީ އޭނާގެ ބައްޕަގެ ސިއްރު ރެކޯޑްތައް ހޯދުމަށް އޮތް ހަމައެކަނި ފުރުސަތެވެ. \"ޒައިލް، ބަލާބަލަ!\" އައިރާ މަޑުމަޑުން ބުންޏެވެ. \"އެ ޓާމިނަލް އެހެރީ.",
+     "narration_english": "It was the only chance to find her father's secret records. \"Zail, look!\" Aira whispered. \"There's the terminal.",
+     "crop": "tight",
+     "motion": "pan right",
+     "sfx": [],
+     "hum": true,
+     "crop_rect_pct": [
+      3.1,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_032",
+     "startMs": 284858,
+     "endMs": 293628,
+     "narration_dhivehi": "އަހަރެން އެތަނަށް ދާންޖެހޭ... އެކަމަކު މި އެންމެން މިތަނުން ނުނެރެފިއްޔާ އެންމެން މަރުވާނެ!\" ޒައިލް ގުދަނުގެ އެތެރެއަށް ބަލައިލަމުން ބުންޏެވެ.",
+     "narration_english": "I have to get there... but if we don't get everyone out of here, they'll all die!\" Zail said, looking into the storage.",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Aira; reference image 2 is Zail), create a new scene: Cinematic semi-realistic digital illustration in a dark gritty dystopian sci-fi style matching a post-apocalyptic underground bunker city: rusted steel walls, pipes, steam and haze, warm amber and sodium-orange work lights against cold steel-blue and teal shadows, the luxurious upper levels in clean white, glass and soft gold light, volumetric light shafts, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and calm, uncluttered space at the bottom (floor, grating, table top, soft shadow) for a logo.\nScene: Aira on the catwalk pointing across the hall towards a thick glass control room glowing bright blue with a large terminal of abstract light panels and no text, her eyes wide with sudden hope, whispering; Zail an arm's length beside her, frowning and looking down into the hall. Location: a narrow steel catwalk bridge with railings high under the ceiling of a vast underground storage hall, a loose ventilation grille hanging open behind it, the enormous hall stretching below. Camera: medium shot over the railing, the glowing glass room in the background.\nCharacters: Aira: a slim athletic Maldivian young woman of 26 with warm brown skin, a determined oval face, large dark intense eyes, straight dark eyebrows and a faint grease smudge on one cheek; wears a loose ankle-length dark olive-brown canvas work coat buttoned to the neck with long sleeves, loose dark trousers and scuffed boots, a charcoal-grey hijab wrapped snugly and fully covering her hair and neck, and a small worn steel tag pendant on a thin chain over her hijab at the chest. Zail: a lean slightly stooped Maldivian man about 65 with weathered warm brown skin, a lined thoughtful face, sharp piercing dark eyes behind small round wire-rimmed glasses, untidy short grey-white hair and a thick bushy grey-white beard; wears a patched long dark-brown coat over a faded grey long-sleeved shirt, dark trousers and fingerless wool gloves.\nMood/lighting: underground, cold white industrial light rising from below through drifting smoke, amber rim light on faces, breathless shock.\nModest clothing (women in loose long-sleeved ankle-length clothing with a hijab fully covering hair and neck; men in long-sleeved shirts or jackets and long trousers), culturally respectful, no guns, no knives, no weapons visible, no violence shown, no blood, no wounds, no gore, no dead bodies, no text, no letters, no numbers, no writing, no screens with readable text, no symbols, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.065,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 32.8,
+    "y_pct": 23.3,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_011",
+   "startMs": 293628,
+   "endMs": 314309,
+   "new_image_reason": "characters change: the only people on duty are unarmed lab and medical staff, terrified",
+   "characters": [],
+   "location": "the vast clean storage hall of Sector 1: towering steel shelves stacked with supplies, crates of clear bottled water, open containers heaped with red apples, sacks of rice, a row of glass-fronted refrigerators holding fresh fish on ice, polished concrete floor, a gigantic closed lift gate at the far end, a thick glass control room glowing blue on one side",
+   "location_key": "hall",
+   "mood": "underground, bright clean white industrial light and a soft gold glow over the abundance, cool blue glow from the glass room, a cruel contrast with Sector 7's grime",
+   "visual": "a small group of unarmed laboratory and medical staff in white coats huddled together against a pale wall of the hall, crouching, their hands raised in fear and pleading, frightened faces; a clipboard on the floor beside them",
+   "camera": "medium wide shot, eye level",
+   "image": "images/beat_011.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "storage_hall",
+   "shots": [
+    {
+     "id": "shot_033",
+     "startMs": 293628,
+     "endMs": 302539,
+     "narration_dhivehi": "\"އެކަމަކު މިތާ ފާރައަށް މިތިބީ އެއްވެސް ހަތިޔާރެއް ނެތް އާދައިގެ މީހުންތަކެއް. އެމީހުން ތިބީ ބިރުން ހަލާކުވެފަ.\" ހަގީގަތުގައިވެސް،",
+     "narration_english": "\"But the ones guarding this place are ordinary people with no weapons. They're scared to death.\" And in truth,",
+     "crop": "full",
+     "motion": "pan up",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_034",
+     "startMs": 302539,
+     "endMs": 314309,
+     "narration_dhivehi": "ގުދަނުގެ ޑިއުޓީގައި ތިބީ ހަތިޔާރެއް ނެތް އާދައިގެ ލެބޯޓްރީ ވޯކަރުންނާއި މެޑިކަލް މުވައްޒަފުންނެވެ. އެމީހުން ތިބީ ފާރު ކައިރީގައި ކުރުގެޅި، ފުރާނައިގެ ސަލާމަތަށް އެދި އާދޭސްކުރާ ހާލުގައެވެ.",
+     "narration_english": "the ones on duty in the storage were unarmed ordinary laboratory workers and medical staff. They were crouched against the wall, begging for their lives.",
+     "crop": "tight",
+     "motion": "slow pull-out",
+     "sfx": [
+      {
+       "name": "sob_breath",
+       "atMs": 312669,
+       "gainDb": -22,
+       "word": "އާދޭސްކުރާ"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      34.7,
+      21.3,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Cinematic semi-realistic digital illustration in a dark gritty dystopian sci-fi style matching a post-apocalyptic underground bunker city: rusted steel walls, pipes, steam and haze, warm amber and sodium-orange work lights against cold steel-blue and teal shadows, the luxurious upper levels in clean white, glass and soft gold light, volumetric light shafts, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and calm, uncluttered space at the bottom (floor, grating, table top, soft shadow) for a logo.\nScene: a small group of unarmed laboratory and medical staff in white coats huddled together against a pale wall of the hall, crouching, their hands raised in fear and pleading, frightened faces; a clipboard on the floor beside them. Location: the vast clean storage hall of Sector 1: towering steel shelves stacked with supplies, crates of clear bottled water, open containers heaped with red apples, sacks of rice, a row of glass-fronted refrigerators holding fresh fish on ice, polished concrete floor, a gigantic closed lift gate at the far end, a thick glass control room glowing blue on one side. Camera: medium wide shot, eye level.\nMood/lighting: underground, bright clean white industrial light and a soft gold glow over the abundance, cool blue glow from the glass room, a cruel contrast with Sector 7's grime.\nModest clothing (women in loose long-sleeved ankle-length clothing with a hijab fully covering hair and neck; men in long-sleeved shirts or jackets and long trousers), culturally respectful, no guns, no knives, no weapons visible, no violence shown, no blood, no wounds, no gore, no dead bodies, no text, no letters, no numbers, no writing, no screens with readable text, no symbols, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.365,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 64.5,
+    "y_pct": 56.5,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_012",
+   "startMs": 314309,
+   "endMs": 335680,
+   "new_image_reason": "character enters: Brent strides in through the main door and gives the cruel order",
+   "characters": [
+    "brent"
+   ],
+   "location": "the vast clean storage hall of Sector 1: towering steel shelves stacked with supplies, crates of clear bottled water, open containers heaped with red apples, sacks of rice, a row of glass-fronted refrigerators holding fresh fish on ice, polished concrete floor, a gigantic closed lift gate at the far end, a thick glass control room glowing blue on one side",
+   "location_key": "hall",
+   "mood": "underground, bright clean white industrial light and a soft gold glow over the abundance, cool blue glow from the glass room, a cruel contrast with Sector 7's grime",
+   "visual": "Brent striding in through the blasted doorway with haze swirling behind him, a perfectly clean spotless plain white bandage wrapped around his forehead, cold merciless narrow eyes, one arm thrust forward commanding; several hard-faced young men in worn jackets following behind him, hands empty",
+   "camera": "medium low-angle shot",
+   "image": "images/beat_012.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": "violence",
+   "safe_substitution": "the order to kill shown only as his commanding gesture and cold face; no weapons",
+   "ambience": "storage_hall",
+   "shots": [
+    {
+     "id": "shot_035",
+     "startMs": 314309,
+     "endMs": 325289,
+     "narration_dhivehi": "ކުއްލިއަކަށް ގުދަނުގެ މައި ދޮރުން އެތެރެއަށް ވަދެގެން އައީ ބްރެންޓެވެ. އޭނާގެ ބޮލުގައި ބެންޑޭޖެއް އޮތް ނަމަވެސް، އޭނާގެ ލޮލުގައި ހުރީ އިންސާނިއްޔަތުކަމެއް ނެތް އަނިޔާވެރި ވިދުމެކެވެ.",
+     "narration_english": "Suddenly Brent came in through the main door of the storage. Though there was a bandage on his head, his eyes shone with a cruel, inhuman gleam.",
+     "crop": "full",
+     "motion": "pan down",
+     "sfx": [
+      {
+       "name": "footsteps_pavement",
+       "atMs": 316649,
+       "gainDb": -20,
+       "word": "ވަދެގެން"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_036",
+     "startMs": 325289,
+     "endMs": 335680,
+     "narration_dhivehi": "މިއީ ސިފައިންގެ ދަންތުރަ ފެށުމުގެ ކުރިން، އޭނާ ރާވާފައިވާ ޖަރީމާގެ ފުރަތަމަ ފިޔަވަޅެވެ. \"އެކަކުވެސް ދޫނުކުރާތި! މަތީ ފަންތީގެ ހުރިހާ މީހުންނަކީ ކުށްވެރިން.",
+     "narration_english": "This was the first step of the crime he had planned, before the soldiers' trap began. \"Let no one go! Everyone on the upper level is a criminal.",
+     "crop": "tight",
+     "motion": "static drift",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      16.1,
+      0.0,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Brent), create a new scene: Cinematic semi-realistic digital illustration in a dark gritty dystopian sci-fi style matching a post-apocalyptic underground bunker city: rusted steel walls, pipes, steam and haze, warm amber and sodium-orange work lights against cold steel-blue and teal shadows, the luxurious upper levels in clean white, glass and soft gold light, volumetric light shafts, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and calm, uncluttered space at the bottom (floor, grating, table top, soft shadow) for a logo.\nScene: Brent striding in through the blasted doorway with haze swirling behind him, a perfectly clean spotless plain white bandage wrapped around his forehead, cold merciless narrow eyes, one arm thrust forward commanding; several hard-faced young men in worn jackets following behind him, hands empty. Location: the vast clean storage hall of Sector 1: towering steel shelves stacked with supplies, crates of clear bottled water, open containers heaped with red apples, sacks of rice, a row of glass-fronted refrigerators holding fresh fish on ice, polished concrete floor, a gigantic closed lift gate at the far end, a thick glass control room glowing blue on one side. Camera: medium low-angle shot.\nCharacters: Brent: a tall broad-shouldered powerful Maldivian man about 30 with warm brown skin, a hard handsome angular face, intense narrow dark eyes, a short black stubble beard and short black hair shaved at the sides; wears a long-sleeved dark rust-red canvas jacket with a high collar over a black shirt, dark cargo trousers and heavy boots.\nMood/lighting: underground, bright clean white industrial light and a soft gold glow over the abundance, cool blue glow from the glass room, a cruel contrast with Sector 7's grime.\nModest clothing (women in loose long-sleeved ankle-length clothing with a hijab fully covering hair and neck; men in long-sleeved shirts or jackets and long trousers), culturally respectful, no guns, no knives, no weapons visible, no violence shown, no blood, no wounds, no gore, no dead bodies, no text, no letters, no numbers, no writing, no screens with readable text, no symbols, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.132,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 45.8,
+    "y_pct": 18.5,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_013",
+   "startMs": 335680,
+   "endMs": 358800,
+   "new_image_reason": "action change: the attack on the unarmed staff (massacre) shown only through shadows and fear",
+   "characters": [],
+   "location": "the vast clean storage hall of Sector 1: towering steel shelves stacked with supplies, crates of clear bottled water, open containers heaped with red apples, sacks of rice, a row of glass-fronted refrigerators holding fresh fish on ice, polished concrete floor, a gigantic closed lift gate at the far end, a thick glass control room glowing blue on one side",
+   "location_key": "hall",
+   "mood": "underground, bright clean white industrial light and a soft gold glow over the abundance, cool blue glow from the glass room, a cruel contrast with Sector 7's grime",
+   "visual": "huge looming shadows of advancing men cast across a pale wall above the huddled white-coated staff, who cover their faces in terror; the attackers themselves stay out of frame; a dropped clipboard and an overturned crate with apples rolling on the clean floor in the foreground; nobody is hurt",
+   "camera": "medium wide shot, eye level",
+   "image": "images/beat_013.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": "violence",
+   "safe_substitution": "massacre replaced by looming shadows on the wall, terrified staff covering their faces, a dropped clipboard and spilled apples; no blades, no blood, no bodies",
+   "ambience": "storage_hall",
+   "shots": [
+    {
+     "id": "shot_037",
+     "startMs": 335680,
+     "endMs": 347530,
+     "narration_dhivehi": "އެންމެން މަރާލާ!\" ބްރެންޓް އޭނާގެ އަރިސް ހަރުކަށި ސަޕޯޓަރުންނަށް ބާރަށް އަމުރުކުރިއެވެ. ބްރެންޓްގެ އަމުރަށް، އޭނާގެ މީހުން އެއްވެސް ހަތިޔާރެއް ނެތް ނިކަމެތި މުވައްޒަފުންގެ ގައިގައި ތަޅައިގަތެވެ.",
+     "narration_english": "Kill them all!\" Brent ordered his close, hardline supporters loudly. At Brent's order, his men fell upon the unarmed, helpless staff.",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [
+      {
+       "name": "crowd_panic",
+       "atMs": 346910,
+       "gainDb": -22,
+       "word": "ތަޅައިގަތެވެ."
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_038",
+     "startMs": 347530,
+     "endMs": 358800,
+     "narration_dhivehi": "އާދޭހުގެ އަޑުތަކަށް ބެލުމެއް ނެތި، ތޫނު ވަޅިތަކުން އެމީހުންގެ ކަރުތައް ބުރިކުރަން ފެށިއެވެ. ސިކުންތުކޮޅެއްގެ ތެރޭގައި ތަޅުންގަނޑުމައްޗަށް ރަތް ލޭގެ ކޯރުތައް ދެމިގެން ދިޔައެވެ.",
+     "narration_english": "Ignoring their pleas, they began to cut them down with sharp blades. Within seconds, pools of red blood spread across the floor.",
+     "crop": "tight",
+     "motion": "pan left",
+     "sfx": [],
+     "hum": true,
+     "crop_rect_pct": [
+      20.3,
+      4.8,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Cinematic semi-realistic digital illustration in a dark gritty dystopian sci-fi style matching a post-apocalyptic underground bunker city: rusted steel walls, pipes, steam and haze, warm amber and sodium-orange work lights against cold steel-blue and teal shadows, the luxurious upper levels in clean white, glass and soft gold light, volumetric light shafts, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and calm, uncluttered space at the bottom (floor, grating, table top, soft shadow) for a logo.\nScene: huge looming shadows of advancing men cast across a pale wall above the huddled white-coated staff, who cover their faces in terror; the attackers themselves stay out of frame; a dropped clipboard and an overturned crate with apples rolling on the clean floor in the foreground; nobody is hurt. Location: the vast clean storage hall of Sector 1: towering steel shelves stacked with supplies, crates of clear bottled water, open containers heaped with red apples, sacks of rice, a row of glass-fronted refrigerators holding fresh fish on ice, polished concrete floor, a gigantic closed lift gate at the far end, a thick glass control room glowing blue on one side. Camera: medium wide shot, eye level.\nMood/lighting: underground, bright clean white industrial light and a soft gold glow over the abundance, cool blue glow from the glass room, a cruel contrast with Sector 7's grime.\nModest clothing (women in loose long-sleeved ankle-length clothing with a hijab fully covering hair and neck; men in long-sleeved shirts or jackets and long trousers), culturally respectful, no guns, no knives, no weapons visible, no violence shown, no blood, no wounds, no gore, no dead bodies, no text, no letters, no numbers, no writing, no screens with readable text, no symbols, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.271,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 50.0,
+    "y_pct": 40.0,
+    "face_detected": false
+   }
+  },
+  {
+   "id": "beat_014",
+   "startMs": 358800,
+   "endMs": 368681,
+   "new_image_reason": "action change: the Sector 7 youths recoil in horror",
+   "characters": [],
+   "location": "the vast clean storage hall of Sector 1: towering steel shelves stacked with supplies, crates of clear bottled water, open containers heaped with red apples, sacks of rice, a row of glass-fronted refrigerators holding fresh fish on ice, polished concrete floor, a gigantic closed lift gate at the far end, a thick glass control room glowing blue on one side",
+   "location_key": "hall",
+   "mood": "underground, bright clean white industrial light and a soft gold glow over the abundance, cool blue glow from the glass room, a cruel contrast with Sector 7's grime",
+   "visual": "young Revival men and a young woman in hijab stumbling backwards in horror among overturned crates, apples tumbling from their hands, eyes wide, hands over their mouths; spilled red apples and a dropped clipboard on the floor in the foreground",
+   "camera": "medium wide shot, eye level",
+   "image": "images/beat_014.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": "violence",
+   "safe_substitution": "aftermath without wounds: spilled apples, overturned crates, a dropped clipboard and horrified faces",
+   "ambience": "storage_hall",
+   "shots": [
+    {
+     "id": "shot_039",
+     "startMs": 358800,
+     "endMs": 368681,
+     "narration_dhivehi": "ކާބޯތަކެތި ކަމުން ދިޔަ ސެކްޓަރ 7 ގެ އާދައިގެ ޒުވާނުން ސިހި، ބިރުން ފަހަތަށް ޖެހުނެވެ. މިއީ އެމީހުން ބޭނުންވި މިނިވަންކަމެއް ނޫނެވެ؛ މިއީ ބޮޑު ޤަތުލުޢާންމެކެވެ.",
+     "narration_english": "The ordinary youths of Sector 7, who had been eating, startled and stepped back in fear. This was not the freedom they wanted; this was a great massacre.",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [
+      {
+       "name": "crowd_gasp",
+       "atMs": 361850,
+       "gainDb": -20,
+       "word": "ސިހި،"
+      }
+     ],
+     "hum": true,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Cinematic semi-realistic digital illustration in a dark gritty dystopian sci-fi style matching a post-apocalyptic underground bunker city: rusted steel walls, pipes, steam and haze, warm amber and sodium-orange work lights against cold steel-blue and teal shadows, the luxurious upper levels in clean white, glass and soft gold light, volumetric light shafts, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and calm, uncluttered space at the bottom (floor, grating, table top, soft shadow) for a logo.\nScene: young Revival men and a young woman in hijab stumbling backwards in horror among overturned crates, apples tumbling from their hands, eyes wide, hands over their mouths; spilled red apples and a dropped clipboard on the floor in the foreground. Location: the vast clean storage hall of Sector 1: towering steel shelves stacked with supplies, crates of clear bottled water, open containers heaped with red apples, sacks of rice, a row of glass-fronted refrigerators holding fresh fish on ice, polished concrete floor, a gigantic closed lift gate at the far end, a thick glass control room glowing blue on one side. Camera: medium wide shot, eye level.\nMood/lighting: underground, bright clean white industrial light and a soft gold glow over the abundance, cool blue glow from the glass room, a cruel contrast with Sector 7's grime.\nModest clothing (women in loose long-sleeved ankle-length clothing with a hijab fully covering hair and neck; men in long-sleeved shirts or jackets and long trousers), culturally respectful, no guns, no knives, no weapons visible, no violence shown, no blood, no wounds, no gore, no dead bodies, no text, no letters, no numbers, no writing, no screens with readable text, no symbols, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.416,
+    "halo": true
+   },
+   "focus": {
+    "x_pct": 50.9,
+    "y_pct": 50.8,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_015",
+   "startMs": 368681,
+   "endMs": 383571,
+   "new_image_reason": "action change: Aira jumps down the stairs and confronts Brent",
+   "characters": [
+    "aira",
+    "brent"
+   ],
+   "location": "the vast clean storage hall of Sector 1: towering steel shelves stacked with supplies, crates of clear bottled water, open containers heaped with red apples, sacks of rice, a row of glass-fronted refrigerators holding fresh fish on ice, polished concrete floor, a gigantic closed lift gate at the far end, a thick glass control room glowing blue on one side",
+   "location_key": "hall",
+   "mood": "underground, bright clean white industrial light and a soft gold glow over the abundance, cool blue glow from the glass room, a cruel contrast with Sector 7's grime",
+   "visual": "at the foot of a steel staircase Aira standing an arm's length in front of Brent, shouting at him and pointing at his face, her eyes blazing with fury; Brent towering over her with a bandaged head, throwing his head back in a mocking laugh; they do not touch",
+   "camera": "medium two-shot, eye level",
+   "image": "images/beat_015.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": "violence",
+   "safe_substitution": "'she grabbed his arm' shown as her stepping in front of him and pointing/shouting; no touching",
+   "ambience": "storage_hall",
+   "shots": [
+    {
+     "id": "shot_040",
+     "startMs": 368681,
+     "endMs": 376281,
+     "narration_dhivehi": "\"ހުއްޓާލާ! ބްރެންޓް، މިއީ އަހަރެމެން ކުރަން އައި ކަމެއް ނޫން!\" އައިރާ ދަގަނޑު ސިޑިން ތިރިއަށް ފުންމާލައި،",
+     "narration_english": "\"Stop! Brent, this is not what we came to do!\" Aira jumped down the steel stairs,",
+     "crop": "full",
+     "motion": "pan right",
+     "sfx": [
+      {
+       "name": "metal_clang",
+       "atMs": 375331,
+       "gainDb": -20,
+       "word": "ފުންމާލައި،"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_041",
+     "startMs": 376281,
+     "endMs": 383571,
+     "narration_dhivehi": "ސީދާ ބްރެންޓްގެ ކުރިމައްޗަށް އަރައި އޭނާގެ އަތުގައި ހިފައި ދަމައިގަތެވެ. ބްރެންޓް މަލާމާތުގެ ހިނިގަނޑެއް ޖަހައިލަމުން،",
+     "narration_english": "went straight up in front of Brent and grabbed his arm and pulled. With a mocking laugh, Brent",
+     "crop": "tight",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      18.9,
+      29.6,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Aira; reference image 2 is Brent), create a new scene: Cinematic semi-realistic digital illustration in a dark gritty dystopian sci-fi style matching a post-apocalyptic underground bunker city: rusted steel walls, pipes, steam and haze, warm amber and sodium-orange work lights against cold steel-blue and teal shadows, the luxurious upper levels in clean white, glass and soft gold light, volumetric light shafts, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and calm, uncluttered space at the bottom (floor, grating, table top, soft shadow) for a logo.\nScene: at the foot of a steel staircase Aira standing an arm's length in front of Brent, shouting at him and pointing at his face, her eyes blazing with fury; Brent towering over her with a bandaged head, throwing his head back in a mocking laugh; they do not touch. Location: the vast clean storage hall of Sector 1: towering steel shelves stacked with supplies, crates of clear bottled water, open containers heaped with red apples, sacks of rice, a row of glass-fronted refrigerators holding fresh fish on ice, polished concrete floor, a gigantic closed lift gate at the far end, a thick glass control room glowing blue on one side. Camera: medium two-shot, eye level.\nCharacters: Aira: a slim athletic Maldivian young woman of 26 with warm brown skin, a determined oval face, large dark intense eyes, straight dark eyebrows and a faint grease smudge on one cheek; wears a loose ankle-length dark olive-brown canvas work coat buttoned to the neck with long sleeves, loose dark trousers and scuffed boots, a charcoal-grey hijab wrapped snugly and fully covering her hair and neck, and a small worn steel tag pendant on a thin chain over her hijab at the chest. Brent: a tall broad-shouldered powerful Maldivian man about 30 with warm brown skin, a hard handsome angular face, intense narrow dark eyes, a short black stubble beard and short black hair shaved at the sides; wears a long-sleeved dark rust-red canvas jacket with a high collar over a black shirt, dark cargo trousers and heavy boots.\nMood/lighting: underground, bright clean white industrial light and a soft gold glow over the abundance, cool blue glow from the glass room, a cruel contrast with Sector 7's grime.\nModest clothing (women in loose long-sleeved ankle-length clothing with a hijab fully covering hair and neck; men in long-sleeved shirts or jackets and long trousers), culturally respectful, no guns, no knives, no weapons visible, no violence shown, no blood, no wounds, no gore, no dead bodies, no text, no letters, no numbers, no writing, no screens with readable text, no symbols, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.301,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 48.6,
+    "y_pct": 74.9,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_016",
+   "startMs": 383571,
+   "endMs": 415792,
+   "new_image_reason": "action change: Brent strikes Aira and she falls to the floor",
+   "characters": [
+    "aira",
+    "brent"
+   ],
+   "location": "the vast clean storage hall of Sector 1: towering steel shelves stacked with supplies, crates of clear bottled water, open containers heaped with red apples, sacks of rice, a row of glass-fronted refrigerators holding fresh fish on ice, polished concrete floor, a gigantic closed lift gate at the far end, a thick glass control room glowing blue on one side",
+   "location_key": "hall",
+   "mood": "underground, bright clean white industrial light and a soft gold glow over the abundance, cool blue glow from the glass room, a cruel contrast with Sector 7's grime",
+   "visual": "Aira on the concrete floor propped on one arm, the back of her other hand near her mouth, looking up with furious defiant eyes; Brent standing a few steps away above her, teeth gritted, eyes cold and inhuman; her coat and hijab neat; no wound",
+   "camera": "medium shot, slightly high angle from behind Brent's shoulder",
+   "image": "images/beat_016.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": "violence",
+   "safe_substitution": "the blow is not shown; Aira on the floor with a hand near her mouth and furious eyes; no blood, no wound",
+   "ambience": "storage_hall",
+   "shots": [
+    {
+     "id": "shot_042",
+     "startMs": 383571,
+     "endMs": 392381,
+     "narration_dhivehi": "އެނބުރި އައިރާގެ މޫނުމަތީގައި ބާރު އެތިފަހަރެއް ޖެހިއެވެ. އައިރާ ވިއްސައިގެން ގޮސް ބިންމައްޗަށް ވެއްޓުނެވެ. \"މިއީ ބަދަލުހިފުން، އައިރާ!\"",
+     "narration_english": "turned and struck Aira hard across the face. Aira reeled and fell to the floor. \"This is revenge, Aira!\"",
+     "crop": "full",
+     "motion": "pan up",
+     "sfx": [
+      {
+       "name": "soft_thud",
+       "atMs": 386671,
+       "gainDb": -22,
+       "word": "ޖެހިއެވެ."
+      },
+      {
+       "name": "cloth_rustle",
+       "atMs": 389371,
+       "gainDb": -22,
+       "word": "ވެއްޓުނެވެ."
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_043",
+     "startMs": 392381,
+     "endMs": 400372,
+     "narration_dhivehi": "ބްރެންޓް ދަތްކުނޑިވިކައިގަތެވެ. \"މަތީ ފަންތީގެ އެއްވެސް މީހަކީ މައުސޫމު މީހެއް ނޫން. މިއަދު އަހަރެމެން ބޯނީ އެމީހުންގެ ލޭ!\"",
+     "narration_english": "Brent ground his teeth. \"No one on the upper level is innocent. Today we'll drink their blood!\"",
+     "crop": "tight",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      0.0,
+      0.6,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_044",
+     "startMs": 400372,
+     "endMs": 408772,
+     "narration_dhivehi": "ބިންމައްޗަށް ވެއްޓުނު އައިރާގެ އަނގައިން ފޭބި ލޭތިކިތައް އަތުގެ ނުފުށުން ފޮހެލަމުން، އޭނާ އަވަހަށް ތެދުވަން މަސައްކަތްކުރިއެވެ.",
+     "narration_english": "Wiping the blood from her mouth with the back of her hand, Aira, who had fallen to the floor, struggled to get up quickly.",
+     "crop": "full",
+     "motion": "pan down",
+     "sfx": [
+      {
+       "name": "breath_heavy",
+       "atMs": 406732,
+       "gainDb": -22,
+       "word": "ތެދުވަން"
+      }
+     ],
+     "hum": true,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_045",
+     "startMs": 408772,
+     "endMs": 415792,
+     "narration_dhivehi": "ބްރެންޓްގެ އަނިޔާވެރި ލޮލުން ފެންނަމުން ދިޔައީ އިންސާނިއްޔަތުކަމުގެ އެންމެ ފަހު ކަންފުޅުވެސް ނެތިގޮސްފައިވާ ސިފައެކެވެ.",
+     "narration_english": "In Brent's cruel eyes she saw a creature in whom the last spark of humanity was gone.",
+     "crop": "medium",
+     "motion": "static drift",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      0.0,
+      0.0,
+      71.5,
+      84.7
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Aira; reference image 2 is Brent), create a new scene: Cinematic semi-realistic digital illustration in a dark gritty dystopian sci-fi style matching a post-apocalyptic underground bunker city: rusted steel walls, pipes, steam and haze, warm amber and sodium-orange work lights against cold steel-blue and teal shadows, the luxurious upper levels in clean white, glass and soft gold light, volumetric light shafts, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and calm, uncluttered space at the bottom (floor, grating, table top, soft shadow) for a logo.\nScene: Aira on the concrete floor propped on one arm, the back of her other hand near her mouth, looking up with furious defiant eyes; Brent standing a few steps away above her, teeth gritted, eyes cold and inhuman; her coat and hijab neat; no wound. Location: the vast clean storage hall of Sector 1: towering steel shelves stacked with supplies, crates of clear bottled water, open containers heaped with red apples, sacks of rice, a row of glass-fronted refrigerators holding fresh fish on ice, polished concrete floor, a gigantic closed lift gate at the far end, a thick glass control room glowing blue on one side. Camera: medium shot, slightly high angle from behind Brent's shoulder.\nCharacters: Aira: a slim athletic Maldivian young woman of 26 with warm brown skin, a determined oval face, large dark intense eyes, straight dark eyebrows and a faint grease smudge on one cheek; wears a loose ankle-length dark olive-brown canvas work coat buttoned to the neck with long sleeves, loose dark trousers and scuffed boots, a charcoal-grey hijab wrapped snugly and fully covering her hair and neck, and a small worn steel tag pendant on a thin chain over her hijab at the chest. Brent: a tall broad-shouldered powerful Maldivian man about 30 with warm brown skin, a hard handsome angular face, intense narrow dark eyes, a short black stubble beard and short black hair shaved at the sides; wears a long-sleeved dark rust-red canvas jacket with a high collar over a black shirt, dark cargo trousers and heavy boots.\nMood/lighting: underground, bright clean white industrial light and a soft gold glow over the abundance, cool blue glow from the glass room, a cruel contrast with Sector 7's grime.\nModest clothing (women in loose long-sleeved ankle-length clothing with a hijab fully covering hair and neck; men in long-sleeved shirts or jackets and long trousers), culturally respectful, no guns, no knives, no weapons visible, no violence shown, no blood, no wounds, no gore, no dead bodies, no text, no letters, no numbers, no writing, no screens with readable text, no symbols, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.12,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 17.6,
+    "y_pct": 35.8,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_017",
+   "startMs": 415792,
+   "endMs": 435043,
+   "new_image_reason": "the story returns to the frozen, horrified youths",
+   "characters": [],
+   "location": "the vast clean storage hall of Sector 1: towering steel shelves stacked with supplies, crates of clear bottled water, open containers heaped with red apples, sacks of rice, a row of glass-fronted refrigerators holding fresh fish on ice, polished concrete floor, a gigantic closed lift gate at the far end, a thick glass control room glowing blue on one side",
+   "location_key": "hall",
+   "mood": "underground, bright clean white industrial light and a soft gold glow over the abundance, cool blue glow from the glass room, a cruel contrast with Sector 7's grime",
+   "visual": "(reuse of beat_014)",
+   "camera": "medium shot, eye level",
+   "image": "images/beat_014.png",
+   "reuse_of": "beat_014",
+   "transition_in": "xfade",
+   "sensitive": "violence",
+   "safe_substitution": "'fresh blood on the floor' shown as the earlier aftermath image: spilled apples, overturned crates, a dropped clipboard",
+   "ambience": "storage_hall",
+   "shots": [
+    {
+     "id": "shot_046",
+     "startMs": 415792,
+     "endMs": 424402,
+     "narration_dhivehi": "މުޅި ގުދަނުގެ ތަޅުންގަނޑުގައި ވަނީ މެޑިކަލް މުވައްޒަފުންގެ ތާޒާ ލެއެވެ. ސެކްޓަރ 7 ގެ އާދައިގެ ޒުވާނުން ތިބީ ބިރުން ފިތްކަނޑައިގެން ގޮސް،",
+     "narration_english": "The whole floor of the storage was covered in the fresh blood of the medical staff. The ordinary youths of Sector 7 stood frozen in fear,",
+     "crop": "tight",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      21.2,
+      15.6,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_047",
+     "startMs": 424402,
+     "endMs": 435043,
+     "narration_dhivehi": "ކާބޯތަކެތީގެ ފޮށިތައް ދޫކޮށްލާފައި ފަހަތަށް ޖެހިފައެވެ. \"ބްރެންޓް، ކަލޭ މި އެންމެން މަރަން ތި ގެނައީ!\" އައިރާ ހަޅޭއްލަވައިގަތެވެ. \"މިތަނަށް ސިފައިން މިހާރު އެބައާދޭ!",
+     "narration_english": "having dropped the food boxes and stepped back. \"Brent, you brought all these people here to kill them!\" Aira screamed. \"The soldiers are coming right now!",
+     "crop": "full",
+     "motion": "pan left",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [],
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.403,
+    "halo": true
+   },
+   "focus": {
+    "x_pct": 50.9,
+    "y_pct": 50.8,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_018",
+   "startMs": 435043,
+   "endMs": 448153,
+   "new_image_reason": "the story returns to Aira facing Brent: his cunning smile reveals the trap",
+   "characters": [],
+   "location": "the vast clean storage hall of Sector 1: towering steel shelves stacked with supplies, crates of clear bottled water, open containers heaped with red apples, sacks of rice, a row of glass-fronted refrigerators holding fresh fish on ice, polished concrete floor, a gigantic closed lift gate at the far end, a thick glass control room glowing blue on one side",
+   "location_key": "hall",
+   "mood": "underground, bright clean white industrial light and a soft gold glow over the abundance, cool blue glow from the glass room, a cruel contrast with Sector 7's grime",
+   "visual": "(reuse of beat_015)",
+   "camera": "medium shot, eye level",
+   "image": "images/beat_015.png",
+   "reuse_of": "beat_015",
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "storage_hall",
+   "shots": [
+    {
+     "id": "shot_048",
+     "startMs": 435043,
+     "endMs": 448153,
+     "narration_dhivehi": "މިއީ މަޅިއެއް!\" ބްރެންޓްގެ މޫނުމަތިން ފެނުނީ މަކަރުވެރި ހިނިތުންވުމެކެވެ. އޭނާ އެއްވެސް ވަރަކަށް ހާސްނުވާކަން ފެނުމުން، އައިރާއަށް ޔަގީންވީ އޭނާ މި މަޅި ރޭވީ ކޮމާންޑަރ ކައިލްއާ ސީދާ ގުޅިގެން ކަމެވެ.",
+     "narration_english": "This is a trap!\" On Brent's face was a cunning smile. Seeing that he was not worried at all, Aira was certain he had planned this trap directly with Commander Kyle.",
+     "crop": "medium",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": true,
+     "crop_rect_pct": [
+      12.9,
+      15.3,
+      71.5,
+      84.7
+     ]
+    }
+   ],
+   "prompt_attempts": [],
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.33,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 48.6,
+    "y_pct": 74.9,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_019",
+   "startMs": 448153,
+   "endMs": 474664,
+   "new_image_reason": "action change: the skylights shatter and commandos rappel in",
+   "characters": [],
+   "location": "the vast Sector 1 storage hall during the ambush: shattered skylights high in the ceiling, ropes hanging down, overturned crates and scattered supplies on the concrete floor, thick drifting smoke",
+   "location_key": "hall_chaos",
+   "mood": "underground, flashing abstract streaks of red and blue light through thick smoke, flickering darkness, panic",
+   "visual": "looking up at the high ceiling of the hall: big skylights bursting apart in a glittering rain of glass shards, and black-clad commandos in full armour with dark-visored helmets sliding down long ropes through the openings, their hands gripping only the ropes; haze and red-blue light below",
+   "camera": "dramatic low-angle wide shot looking up",
+   "image": "images/beat_019.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": "violence",
+   "safe_substitution": "the commandos' weapons are never shown: hands on the ropes only",
+   "ambience": "chaos_hall",
+   "shots": [
+    {
+     "id": "shot_049",
+     "startMs": 448153,
+     "endMs": 455543,
+     "narration_dhivehi": "ހަމަ އެ ސިކުންތުގައި، ގުދަނުގެ މަތީ ސީލިންގުގައި ހުރި ބޮޑެތި ވައިގޮޅިތަކާއި ކުޑަދޮރުތައް އެއްފަހަރާ ގޮވައިގެން ދިޔައެވެ.",
+     "narration_english": "At that very second, the big vents and windows in the storage's high ceiling exploded all at once.",
+     "crop": "full",
+     "motion": "pan right",
+     "sfx": [
+      {
+       "name": "glass_break",
+       "atMs": 454353,
+       "gainDb": -16,
+       "word": "ގޮވައިގެން"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_050",
+     "startMs": 455543,
+     "endMs": 464903,
+     "narration_dhivehi": "ބިއްލޫރިތަކާއި ދަގަނޑު ކުނޑިތައް ވާރޭ ވެހޭހެން ތިރިއަށް ފައިބައިގަތް ވަގުތު، މަތިން ވާތަކުގައި އެލިގެން ފުންމާލީ ކަޅު ކުލައިގެ ހެދުން އެޅި،",
+     "narration_english": "As glass and steel shards rained down, a force of black-clad commando soldiers came sliding down on ropes from above,",
+     "crop": "tight",
+     "motion": "slow push-in",
+     "sfx": [
+      {
+       "name": "cloth_rustle",
+       "atMs": 462073,
+       "gainDb": -20,
+       "word": "އެލިގެން"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      0.0,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_051",
+     "startMs": 464903,
+     "endMs": 474664,
+     "narration_dhivehi": "އެންމެ ޒަމާނީ ހަތިޔާރު އަޅާފައިވާ ކޮމާންޑޯ ސިފައިންގެ ފައުޖެކެވެ. \"ދަންތުރަ!\" މީހަކު އަޑުގެ ކޮޅަށް ހަޅޭއްލަވައިގަތެވެ. ޕިއު! ޕިއު! ޕިއު!",
+     "narration_english": "armed with the most modern weapons. \"Ambush!\" someone screamed at the top of his voice. Pew! Pew! Pew!",
+     "crop": "full",
+     "motion": "pan up",
+     "sfx": [
+      {
+       "name": "gasp",
+       "atMs": 471414,
+       "gainDb": -20,
+       "word": "ހަޅޭއްލަވައިގަތެވެ."
+      },
+      {
+       "name": "energy_zaps",
+       "atMs": 472854,
+       "gainDb": -22,
+       "word": "ޕިއު!"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Cinematic semi-realistic digital illustration in a dark gritty dystopian sci-fi style matching a post-apocalyptic underground bunker city: rusted steel walls, pipes, steam and haze, warm amber and sodium-orange work lights against cold steel-blue and teal shadows, the luxurious upper levels in clean white, glass and soft gold light, volumetric light shafts, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and calm, uncluttered space at the bottom (floor, grating, table top, soft shadow) for a logo.\nScene: looking up at the high ceiling of the hall: big skylights bursting apart in a glittering rain of glass shards, and black-clad commandos in full armour with dark-visored helmets sliding down long ropes through the openings, their hands gripping only the ropes; haze and red-blue light below. Location: the vast Sector 1 storage hall during the ambush: shattered skylights high in the ceiling, ropes hanging down, overturned crates and scattered supplies on the concrete floor, thick drifting smoke. Camera: dramatic low-angle wide shot looking up.\nMood/lighting: underground, flashing abstract streaks of red and blue light through thick smoke, flickering darkness, panic.\nModest clothing (women in loose long-sleeved ankle-length clothing with a hijab fully covering hair and neck; men in long-sleeved shirts or jackets and long trousers), culturally respectful, no guns, no knives, no weapons visible, no violence shown, no blood, no wounds, no gore, no dead bodies, no text, no letters, no numbers, no writing, no screens with readable text, no symbols, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.137,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 9.3,
+    "y_pct": 25.7,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_020",
+   "startMs": 474664,
+   "endMs": 499955,
+   "new_image_reason": "action change: laser fire floods the hall; the youths become prey",
+   "characters": [],
+   "location": "the vast Sector 1 storage hall during the ambush: shattered skylights high in the ceiling, ropes hanging down, overturned crates and scattered supplies on the concrete floor, thick drifting smoke",
+   "location_key": "hall_chaos",
+   "mood": "underground, flashing abstract streaks of red and blue light through thick smoke, flickering darkness, panic",
+   "visual": "abstract streaks of red and blue light slicing through thick smoke across the vast hall, dark silhouettes of young people ducking and running away from the camera into the haze, overturned crates; nobody is hit",
+   "camera": "wide shot, eye level",
+   "image": "images/beat_020.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": "violence",
+   "safe_substitution": "laser fire shown as abstract red and blue light streaks and smoke, silhouettes running away; nobody hit, no bodies",
+   "ambience": "chaos_hall",
+   "shots": [
+    {
+     "id": "shot_052",
+     "startMs": 474664,
+     "endMs": 488354,
+     "narration_dhivehi": "ލޭޒަރ ބަޑިތަކުގެ ނޫ އަދި ރަތް އަލިފާނުން މުޅި ގުދަން ދިއްލިގެން ދިޔައެވެ. އެއްވެސް އިންޒާރެއް، އެއްވެސް ރަހުމެއް ނެތި، ސިފައިންގެ ލޭޒަރ ހަމަލާތައް އަމާޒުވީ ހަތިޔާރެއް ނެތި ތިބި ސެކްޓަރ 7 ގެ ޒުވާނުންނަށެވެ.",
+     "narration_english": "The blue and red fire of laser guns lit up the whole storage. Without any warning, without any mercy, the soldiers' laser attacks were aimed at the unarmed youths of Sector 7.",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [
+      {
+       "name": "energy_zaps",
+       "atMs": 475034,
+       "gainDb": -22,
+       "word": "ލޭޒަރ"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_053",
+     "startMs": 488354,
+     "endMs": 499955,
+     "narration_dhivehi": "އެކަކު އަނެކަކު ގައިމައްޗަށް ވެއްޓެމުން، ހަޅޭކާއި ރުއިމުގެ އަޑުން މުޅި ތަން ގުގުމައިގެން ދިޔައެވެ. ލިފްޓް ގޭޓުން މައްޗަށް އެރުމުގެ އުއްމީދުގައި އައި އެ ނިކަމެތިން ވެގެން ދިޔައީ ޝިކާރައަކަށެވެ.",
+     "narration_english": "As they fell one upon another, the whole place echoed with screams and cries. Those poor people, who had come hoping to rise through the lift gate, became prey.",
+     "crop": "tight",
+     "motion": "pan down",
+     "sfx": [
+      {
+       "name": "crowd_panic",
+       "atMs": 490934,
+       "gainDb": -20,
+       "word": "ހަޅޭކާއި"
+      }
+     ],
+     "hum": true,
+     "crop_rect_pct": [
+      7.4,
+      29.6,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Cinematic semi-realistic digital illustration in a dark gritty dystopian sci-fi style matching a post-apocalyptic underground bunker city: rusted steel walls, pipes, steam and haze, warm amber and sodium-orange work lights against cold steel-blue and teal shadows, the luxurious upper levels in clean white, glass and soft gold light, volumetric light shafts, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and calm, uncluttered space at the bottom (floor, grating, table top, soft shadow) for a logo.\nScene: abstract streaks of red and blue light slicing through thick smoke across the vast hall, dark silhouettes of young people ducking and running away from the camera into the haze, overturned crates; nobody is hit. Location: the vast Sector 1 storage hall during the ambush: shattered skylights high in the ceiling, ropes hanging down, overturned crates and scattered supplies on the concrete floor, thick drifting smoke. Camera: wide shot, eye level.\nMood/lighting: underground, flashing abstract streaks of red and blue light through thick smoke, flickering darkness, panic.\nModest clothing (women in loose long-sleeved ankle-length clothing with a hijab fully covering hair and neck; men in long-sleeved shirts or jackets and long trousers), culturally respectful, no guns, no knives, no weapons visible, no violence shown, no blood, no wounds, no gore, no dead bodies, no text, no letters, no numbers, no writing, no screens with readable text, no symbols, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.085,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 37.1,
+    "y_pct": 73.2,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_021",
+   "startMs": 499955,
+   "endMs": 519305,
+   "new_image_reason": "location and action change: Brent flees through the emergency door with food and document cases",
+   "characters": [
+    "brent"
+   ],
+   "location": "the far back corner of the Sector 1 storage hall: a narrow steel emergency door in a concrete wall, stacked crates beside it, smoke drifting across",
+   "location_key": "emergency_exit",
+   "mood": "underground, a red emergency light over the door, smoke and flickering blue-red streaks behind, sly escape",
+   "visual": "Brent, a perfectly clean spotless plain white bandage wrapped around his forehead, slipping through a narrow steel emergency door, glancing back with a sly cold look, two of his men behind him carrying sealed food crates and black document cases, smoke and red-blue streaks of light behind them",
+   "camera": "medium shot, eye level",
+   "image": "images/beat_021.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "chaos_hall",
+   "shots": [
+    {
+     "id": "shot_054",
+     "startMs": 499955,
+     "endMs": 508865,
+     "narration_dhivehi": "ބްރެންޓް ވަގުތުން ފަހަތަށް ޖެހުނެވެ. އޭނާގެ އަރިސް މީހުންނާއެކު، ގުދަނުގައި ހުރި އެންމެ އަގުބޮޑު ކާނާ ފޮށިތަކާއި ސިއްރު ޑޮކިއުމެންޓް ކޭސްތައް ނަގައި،",
+     "narration_english": "Brent drew back at once. With his close men, he took the most valuable food boxes and the secret document cases in the storage,",
+     "crop": "full",
+     "motion": "static drift",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_055",
+     "startMs": 508865,
+     "endMs": 519305,
+     "narration_dhivehi": "އޭނާއަށް އިތުބާރުކޮށްގެން އައި އެތައް ސަތޭކަ ޒުވާނުން މަރުގެ ތެރެއަށް ދޫކޮށްލުމަށްފަހު، ގުދަނުގެ ފަހަތުގައި އޮތް ސިއްރު އެމަޖެންސީ ދޮރުން ފިލައިގެން ދުއްވައިގަތެވެ.",
+     "narration_english": "and, abandoning the hundreds of young people who had trusted him to death, fled through a secret emergency door at the back of the storage.",
+     "crop": "tight",
+     "motion": "slow push-in",
+     "sfx": [
+      {
+       "name": "metal_door",
+       "atMs": 517375,
+       "gainDb": -18,
+       "word": "ދޮރުން"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      38.3,
+      0.0,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Brent), create a new scene: Cinematic semi-realistic digital illustration in a dark gritty dystopian sci-fi style matching a post-apocalyptic underground bunker city: rusted steel walls, pipes, steam and haze, warm amber and sodium-orange work lights against cold steel-blue and teal shadows, the luxurious upper levels in clean white, glass and soft gold light, volumetric light shafts, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and calm, uncluttered space at the bottom (floor, grating, table top, soft shadow) for a logo.\nScene: Brent, a perfectly clean spotless plain white bandage wrapped around his forehead, slipping through a narrow steel emergency door, glancing back with a sly cold look, two of his men behind him carrying sealed food crates and black document cases, smoke and red-blue streaks of light behind them. Location: the far back corner of the Sector 1 storage hall: a narrow steel emergency door in a concrete wall, stacked crates beside it, smoke drifting across. Camera: medium shot, eye level.\nCharacters: Brent: a tall broad-shouldered powerful Maldivian man about 30 with warm brown skin, a hard handsome angular face, intense narrow dark eyes, a short black stubble beard and short black hair shaved at the sides; wears a long-sleeved dark rust-red canvas jacket with a high collar over a black shirt, dark cargo trousers and heavy boots.\nMood/lighting: underground, a red emergency light over the door, smoke and flickering blue-red streaks behind, sly escape.\nModest clothing (women in loose long-sleeved ankle-length clothing with a hijab fully covering hair and neck; men in long-sleeved shirts or jackets and long trousers), culturally respectful, no guns, no knives, no weapons visible, no violence shown, no blood, no wounds, no gore, no dead bodies, no text, no letters, no numbers, no writing, no screens with readable text, no symbols, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.111,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 68.0,
+    "y_pct": 21.4,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_022",
+   "startMs": 519305,
+   "endMs": 541186,
+   "new_image_reason": "characters change: a wounded boy falls before Aira and clings to her",
+   "characters": [
+    "aira"
+   ],
+   "location": "the vast Sector 1 storage hall during the ambush: shattered skylights high in the ceiling, ropes hanging down, overturned crates and scattered supplies on the concrete floor, thick drifting smoke",
+   "location_key": "hall_chaos",
+   "mood": "underground, flashing abstract streaks of red and blue light through thick smoke, flickering darkness, panic",
+   "visual": "a frightened thin boy of about twelve in a grey hoodie on his knees on the floor, clinging with both hands to the hem of Aira's coat and looking up at her begging for help; Aira bending down towards him with concern and resolve, smoke and red-blue streaks of light around them; no wound on the boy",
+   "camera": "medium shot, eye level",
+   "image": "images/beat_022.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": "violence",
+   "safe_substitution": "the wounded boy shown only as a frightened boy clinging to her coat; no wound, no blood",
+   "ambience": "chaos_hall",
+   "shots": [
+    {
+     "id": "shot_056",
+     "startMs": 519305,
+     "endMs": 531625,
+     "narration_dhivehi": "\"ބްރެންޓް!\" އައިރާ ހަޅޭއްލަވައިގަތެވެ. ނަމަވެސް އޭނާ ހުއްޓުވާނެ ވަގުތެއް ނެތެވެ. އައިރާގެ ކުރިމައްޗަށް ވެއްޓުނީ ލޭޒަރ ހަމަލާއެއް އަރައިގެން ޒަޚަމްވި ސެކްޓަރ 7 ގެ ކުޑަ ޒުވާން ފިރިހެން ކުއްޖެކެވެ.",
+     "narration_english": "\"Brent!\" Aira screamed. But there was no time to stop him. Right in front of Aira fell a small young boy of Sector 7, hit by a laser shot.",
+     "crop": "full",
+     "motion": "pan left",
+     "sfx": [
+      {
+       "name": "soft_thud",
+       "atMs": 525915,
+       "gainDb": -22,
+       "word": "ވެއްޓުނީ"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_057",
+     "startMs": 531625,
+     "endMs": 541186,
+     "narration_dhivehi": "އޭނާގެ މޭމަތިން ލޭ އޮހޮރެމުން ދިޔައިރު، އައިރާގެ ފައިގައި ހިފަހައްޓައި ސަލާމަތަށް އެދުނެވެ. އައިރާ އޭނާގެ އަމިއްލަ ފުރާނައަށް ބެލުމެއް ނެތި،",
+     "narration_english": "Bleeding from his chest, he clung to Aira's leg and begged to be saved. Without caring for her own life, Aira",
+     "crop": "tight",
+     "motion": "slow pull-out",
+     "sfx": [
+      {
+       "name": "sob_breath",
+       "atMs": 536636,
+       "gainDb": -22,
+       "word": "ސަލާމަތަށް"
+      }
+     ],
+     "hum": true,
+     "crop_rect_pct": [
+      40.6,
+      0.0,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Aira), create a new scene: Cinematic semi-realistic digital illustration in a dark gritty dystopian sci-fi style matching a post-apocalyptic underground bunker city: rusted steel walls, pipes, steam and haze, warm amber and sodium-orange work lights against cold steel-blue and teal shadows, the luxurious upper levels in clean white, glass and soft gold light, volumetric light shafts, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and calm, uncluttered space at the bottom (floor, grating, table top, soft shadow) for a logo.\nScene: a frightened thin boy of about twelve in a grey hoodie on his knees on the floor, clinging with both hands to the hem of Aira's coat and looking up at her begging for help; Aira bending down towards him with concern and resolve, smoke and red-blue streaks of light around them; no wound on the boy. Location: the vast Sector 1 storage hall during the ambush: shattered skylights high in the ceiling, ropes hanging down, overturned crates and scattered supplies on the concrete floor, thick drifting smoke. Camera: medium shot, eye level.\nCharacters: Aira: a slim athletic Maldivian young woman of 26 with warm brown skin, a determined oval face, large dark intense eyes, straight dark eyebrows and a faint grease smudge on one cheek; wears a loose ankle-length dark olive-brown canvas work coat buttoned to the neck with long sleeves, loose dark trousers and scuffed boots, a charcoal-grey hijab wrapped snugly and fully covering her hair and neck, and a small worn steel tag pendant on a thin chain over her hijab at the chest.\nMood/lighting: underground, flashing abstract streaks of red and blue light through thick smoke, flickering darkness, panic.\nModest clothing (women in loose long-sleeved ankle-length clothing with a hijab fully covering hair and neck; men in long-sleeved shirts or jackets and long trousers), culturally respectful, no guns, no knives, no weapons visible, no violence shown, no blood, no wounds, no gore, no dead bodies, no text, no letters, no numbers, no writing, no screens with readable text, no symbols, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.107,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 74.9,
+    "y_pct": 10.4,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_023",
+   "startMs": 541186,
+   "endMs": 560036,
+   "new_image_reason": "action change: she carries the boy and is surrounded by four commandos",
+   "characters": [
+    "aira"
+   ],
+   "location": "the vast Sector 1 storage hall during the ambush: shattered skylights high in the ceiling, ropes hanging down, overturned crates and scattered supplies on the concrete floor, thick drifting smoke",
+   "location_key": "hall_chaos",
+   "mood": "underground, flashing abstract streaks of red and blue light through thick smoke, flickering darkness, panic",
+   "visual": "Aira standing still in the smoke with the frightened boy in the grey hoodie carried over her shoulder, her face defiant, surrounded at a distance by four commandos in black full armour and dark-visored helmets, the bright white beams of their flashlights fixed on her; their hands hold only flashlights",
+   "camera": "medium wide shot, eye level, Aira at the centre",
+   "image": "images/beat_023.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": "violence",
+   "safe_substitution": "laser guns aimed at her head shown as flashlight beams; no weapons",
+   "ambience": "chaos_hall",
+   "shots": [
+    {
+     "id": "shot_058",
+     "startMs": 541186,
+     "endMs": 551456,
+     "narration_dhivehi": "އެ ކުއްޖާ ނަގައި ކޮނޑަށް ލައިގެން ރައްކާތެރި ތަނަކަށް ގެންދަން ދުއްވައިގަތެވެ. ނަމަވެސް މާ ދުރަކަށް ނުދެވުނެވެ. ހަތަރު ފަރާތުން ބަރު ބޫޓުތަކުގެ އަޑު އިވިގެން ދިޔައެވެ.",
+     "narration_english": "lifted the boy onto her shoulder and ran to carry him somewhere safe. But she did not get far. The sound of heavy boots came from all four sides.",
+     "crop": "full",
+     "motion": "pan right",
+     "sfx": [
+      {
+       "name": "boots_march",
+       "atMs": 549596,
+       "gainDb": -18,
+       "word": "ބޫޓުތަކުގެ"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_059",
+     "startMs": 551456,
+     "endMs": 560036,
+     "narration_dhivehi": "ކަޅު ކުލައިގެ ދަގަނޑު ދަހަނާ އެޅި ހަތަރު ކޮމާންޑޯ ސިފައިން އައިސް އައިރާ ވަށާލިއެވެ. އެމީހުންގެ ލޭޒަރ ބަޑިތައް ސީދާ އައިރާގެ ބޮލަށް އަމާޒުވިއެވެ.",
+     "narration_english": "Four commando soldiers in black steel armour came and surrounded Aira. Their laser guns were aimed straight at Aira's head.",
+     "crop": "tight",
+     "motion": "slow push-in",
+     "sfx": [
+      {
+       "name": "heartbeat",
+       "atMs": 559216,
+       "gainDb": -20,
+       "word": "އަމާޒުވިއެވެ."
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      37.9,
+      29.6,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "refused",
+     "rewrite_reason": null
+    },
+    {
+     "attempt": 2,
+     "result": "ok",
+     "rewrite_reason": "refused: removed trigger words, neutral emotion/setting wording"
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing, create a new scene: Cinematic semi-realistic digital illustration in a dark gritty dystopian sci-fi style matching a post-apocalyptic underground bunker city: rusted steel walls, pipes, steam and haze, warm amber and sodium-orange work lights against cold steel-blue and teal shadows, the luxurious upper levels in clean white, glass and soft gold light, volumetric light shafts, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and calm, uncluttered space at the bottom (floor, grating, table top, soft shadow) for a logo.\nScene: Aira standing still in the smoke with the frightened boy in the grey hoodie carried over her shoulder, her face defiant, surrounded at a distance by four commandos in black full armour and dark-visored helmets, the bright white beams of their flashlights fixed on her; their hands hold only flashlights, calm and emotional. Location: the vast Sector 1 storage hall during the ambush: shattered skylights high in the ceiling, ropes hanging down, overturned crates and scattered supplies on the concrete floor, thick drifting smoke. Camera: medium wide shot, eye level, Aira at the centre.\nCharacters: Aira: a slim athletic Maldivian young woman of 26 with warm brown skin, a determined oval face, large dark intense eyes, straight dark eyebrows and a faint grease smudge on one cheek; wears a loose ankle-length dark olive-brown canvas work coat buttoned to the neck with long sleeves, loose dark trousers and scuffed boots, a charcoal-grey hijab wrapped snugly and fully covering her hair and neck, and a small worn steel tag pendant on a thin chain over her hijab at the chest.\nMood/lighting: underground, flashing abstract streaks of red and blue light through thick smoke, flickering darkness, panic.\nModest clothing (women in loose long-sleeved ankle-length clothing with a hijab fully covering hair and neck; men in long-sleeved shirts or jackets and long trousers), culturally respectful, no guns, no knives, no weapons visible, no violence shown, no blood, no wounds, no gore, no dead bodies, no text, no letters, no numbers, no writing, no screens with readable text, no symbols, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.151,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 67.6,
+    "y_pct": 91.4,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_024",
+   "startMs": 560036,
+   "endMs": 582887,
+   "new_image_reason": "action change: Aira is struck down and cuffed",
+   "characters": [
+    "aira"
+   ],
+   "location": "the vast Sector 1 storage hall during the ambush: shattered skylights high in the ceiling, ropes hanging down, overturned crates and scattered supplies on the concrete floor, thick drifting smoke",
+   "location_key": "hall_chaos",
+   "mood": "underground, flashing abstract streaks of red and blue light through thick smoke, flickering darkness, panic",
+   "visual": "Aira kneeling on the concrete floor with her hands behind her back in heavy steel restraints, her head lowered but eyes looking up and ahead defiantly, armoured commandos with dark visors standing around her with empty hands, smoke drifting; her coat and hijab neat",
+   "camera": "medium shot, eye level",
+   "image": "images/beat_024.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": "violence",
+   "safe_substitution": "the rifle-butt blow is not shown: only Aira kneeling in restraints surrounded by armoured figures with empty hands; nobody touches her",
+   "ambience": "chaos_hall",
+   "shots": [
+    {
+     "id": "shot_060",
+     "startMs": 560036,
+     "endMs": 568647,
+     "narration_dhivehi": "އެއިން އެކަކު އައިރާގެ ކޮނޑުގައި އޮތް ޒުވާނާ ދުރަށް ކޮށްޕާލުމަށްފަހު، އައިރާގެ ބުރަކަށީގައި ބަޑީގެ މުއްގަނޑުން ބާރަށް ޖަހައި ބިންމައްޗަށް ތިރިކުރިއެވެ.",
+     "narration_english": "One of them shoved away the youth on Aira's shoulder, then struck Aira hard in the back with the butt of his gun and brought her down to the floor.",
+     "crop": "full",
+     "motion": "pan up",
+     "sfx": [
+      {
+       "name": "soft_thud",
+       "atMs": 567197,
+       "gainDb": -22,
+       "word": "ޖަހައި"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_061",
+     "startMs": 568647,
+     "endMs": 582887,
+     "narration_dhivehi": "އައިރާގެ މޫނު ތަޅުންގަނޑުގައި ޖެހި، އޭނާގެ ހަރަކާތް ހުއްޓުނެވެ. ހަތިޔާރުއެޅި ސިފައިންގެ މީހަކު އޭނާގެ ދެއަތް ފަހަތަށް ލައި ވަރުގަދަ ދަގަނޑު ކަސްތޮޅު އަޅުވަމުން ދިޔައިރު، އައިރާގެ ލޮލުގައި އަޅައިގަތީ ދުރުގައި،",
+     "narration_english": "Aira's face hit the floor and she stopped moving. As one of the armed soldiers pulled her hands behind her back and locked heavy steel cuffs on them, Aira's eyes caught, in the distance,",
+     "crop": "tight",
+     "motion": "slow pull-out",
+     "sfx": [
+      {
+       "name": "cuffs_click",
+       "atMs": 578517,
+       "gainDb": -16,
+       "word": "ކަސްތޮޅު"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      19.5,
+      0.0,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Aira), create a new scene: Cinematic semi-realistic digital illustration in a dark gritty dystopian sci-fi style matching a post-apocalyptic underground bunker city: rusted steel walls, pipes, steam and haze, warm amber and sodium-orange work lights against cold steel-blue and teal shadows, the luxurious upper levels in clean white, glass and soft gold light, volumetric light shafts, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and calm, uncluttered space at the bottom (floor, grating, table top, soft shadow) for a logo.\nScene: Aira kneeling on the concrete floor with her hands behind her back in heavy steel restraints, her head lowered but eyes looking up and ahead defiantly, armoured commandos with dark visors standing around her with empty hands, smoke drifting; her coat and hijab neat. Location: the vast Sector 1 storage hall during the ambush: shattered skylights high in the ceiling, ropes hanging down, overturned crates and scattered supplies on the concrete floor, thick drifting smoke. Camera: medium shot, eye level.\nCharacters: Aira: a slim athletic Maldivian young woman of 26 with warm brown skin, a determined oval face, large dark intense eyes, straight dark eyebrows and a faint grease smudge on one cheek; wears a loose ankle-length dark olive-brown canvas work coat buttoned to the neck with long sleeves, loose dark trousers and scuffed boots, a charcoal-grey hijab wrapped snugly and fully covering her hair and neck, and a small worn steel tag pendant on a thin chain over her hijab at the chest.\nMood/lighting: underground, flashing abstract streaks of red and blue light through thick smoke, flickering darkness, panic.\nModest clothing (women in loose long-sleeved ankle-length clothing with a hijab fully covering hair and neck; men in long-sleeved shirts or jackets and long trousers), culturally respectful, no guns, no knives, no weapons visible, no violence shown, no blood, no wounds, no gore, no dead bodies, no text, no letters, no numbers, no writing, no screens with readable text, no symbols, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.146,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 49.2,
+    "y_pct": 31.8,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_025",
+   "startMs": 582887,
+   "endMs": 594927,
+   "new_image_reason": "character enters: Commander Kyle walks out of the smoke",
+   "characters": [
+    "kyle"
+   ],
+   "location": "the vast Sector 1 storage hall during the ambush: shattered skylights high in the ceiling, ropes hanging down, overturned crates and scattered supplies on the concrete floor, thick drifting smoke",
+   "location_key": "hall_chaos",
+   "mood": "underground, flashing abstract streaks of red and blue light through thick smoke, flickering darkness, panic",
+   "visual": "Commander Kyle walking slowly out of a thick cloud of smoke and dust, tall and upright in his black high-collared uniform with silver medals, black gloves, calm cold face, red and blue haze behind him; his hands empty",
+   "camera": "medium low-angle shot, full figure",
+   "image": "images/beat_025.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "chaos_hall",
+   "shots": [
+    {
+     "id": "shot_062",
+     "startMs": 582887,
+     "endMs": 594927,
+     "narration_dhivehi": "ދުމުގެ ތެރެއިން މަޑުމަޑުން ހިނގާފައި އަންނަ އުސް ހަށިގަނޑެއްގެ ވެރިޔާއެވެ. އެއީ ކޮމާންޑަރ ކައިލްއެވެ. ދުމާއި އަޅީގެ ބޯ ވިލާގަނޑު ފޫއަޅުވާލުމަށްފަހު، ކޮމާންޑަރު ކައިލް މަޑުމަޑުން ކުރިއަށް ހިނގައިގަތެވެ.",
+     "narration_english": "a tall figure walking slowly out of the smoke. It was Commander Kyle. Pushing through the thick cloud of smoke and dust, Commander Kyle walked slowly forward.",
+     "crop": "full",
+     "motion": "pan down",
+     "sfx": [
+      {
+       "name": "footsteps_pavement",
+       "atMs": 594037,
+       "gainDb": -20,
+       "word": "ހިނގައިގަތެވެ."
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Kyle), create a new scene: Cinematic semi-realistic digital illustration in a dark gritty dystopian sci-fi style matching a post-apocalyptic underground bunker city: rusted steel walls, pipes, steam and haze, warm amber and sodium-orange work lights against cold steel-blue and teal shadows, the luxurious upper levels in clean white, glass and soft gold light, volumetric light shafts, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and calm, uncluttered space at the bottom (floor, grating, table top, soft shadow) for a logo.\nScene: Commander Kyle walking slowly out of a thick cloud of smoke and dust, tall and upright in his black high-collared uniform with silver medals, black gloves, calm cold face, red and blue haze behind him; his hands empty. Location: the vast Sector 1 storage hall during the ambush: shattered skylights high in the ceiling, ropes hanging down, overturned crates and scattered supplies on the concrete floor, thick drifting smoke. Camera: medium low-angle shot, full figure.\nCharacters: Kyle: a tall upright athletic Maldivian man in his early 30s with warm brown skin, a composed clean-shaven face with a strong jaw, cool watchful dark eyes and short neat black hair; wears an immaculate black high-collared commander's uniform with long sleeves, a row of small silver medals on the chest, black gloves and polished black boots.\nMood/lighting: underground, flashing abstract streaks of red and blue light through thick smoke, flickering darkness, panic.\nModest clothing (women in loose long-sleeved ankle-length clothing with a hijab fully covering hair and neck; men in long-sleeved shirts or jackets and long trousers), culturally respectful, no guns, no knives, no weapons visible, no violence shown, no blood, no wounds, no gore, no dead bodies, no text, no letters, no numbers, no writing, no screens with readable text, no symbols, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.14,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 24.0,
+    "y_pct": 53.8,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_026",
+   "startMs": 594927,
+   "endMs": 615598,
+   "new_image_reason": "scene change: the aftermath of the ambush across the hall",
+   "characters": [],
+   "location": "the Sector 1 storage hall in the aftermath: haze and dust settling, overturned crates, spilled apples and scattered boxes on the concrete floor, ropes hanging from broken skylights",
+   "location_key": "hall_after",
+   "mood": "underground, cold grey-white light through settling smoke and dust, faint red emergency glow, bleak silence",
+   "visual": "a wide desolate view of the hall in settling smoke: groups of young Sector 7 rebels sitting on the floor with their hands on their heads, guarded by commandos in black armour holding riot shields; overturned crates, spilled apples and scattered boxes all over the floor; no bodies, nobody hurt visibly",
+   "camera": "wide shot, high angle",
+   "image": "images/beat_026.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": "violence",
+   "safe_substitution": "the dead and wounded are never shown: only arrested youths sitting with hands on heads and scattered crates and apples",
+   "ambience": "chaos_hall",
+   "shots": [
+    {
+     "id": "shot_063",
+     "startMs": 594927,
+     "endMs": 605378,
+     "narration_dhivehi": "ވަށައިގެން އިވެމުންދިޔައީ އަނިޔާވެރި ހަމަލާގެ ސަބަބުން ޒަޚަމްވެފައިވާ މީހުންގެ ވޭނީ އާހްތަކެވެ. ސެކްޓަރ 7 ގެ ޒުވާނުން ތިބީ ލޭގެ ކޯރުތަކެއްގެ ތެރޭގައި ވެއްޓިފައެވެ.",
+     "narration_english": "All around rose the groans of people wounded in the brutal attack. The youths of Sector 7 lay fallen in pools of blood.",
+     "crop": "full",
+     "motion": "static drift",
+     "sfx": [
+      {
+       "name": "sob_breath",
+       "atMs": 600218,
+       "gainDb": -22,
+       "word": "އާހްތަކެވެ."
+      }
+     ],
+     "hum": true,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_064",
+     "startMs": 605378,
+     "endMs": 615598,
+     "narration_dhivehi": "ބައެއް ކުދިން ވަނީ އަނިޔާވެރިކަމާއެކު މަރާލެވިފައެވެ. އަނެއްބައި ކުދިން ތިބީ ހައްޔަރުކޮށް، ކައުންސިލްގެ ސިފައިންގެ ބާރުގެ ދަށުގައެވެ. އައިރާ އޮތީ ބިމަށް ޖެހި،",
+     "narration_english": "Some had been brutally killed. Others were arrested, under the power of the Council's soldiers. Aira lay pressed to the ground,",
+     "crop": "tight",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      20.3,
+      4.8,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Cinematic semi-realistic digital illustration in a dark gritty dystopian sci-fi style matching a post-apocalyptic underground bunker city: rusted steel walls, pipes, steam and haze, warm amber and sodium-orange work lights against cold steel-blue and teal shadows, the luxurious upper levels in clean white, glass and soft gold light, volumetric light shafts, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and calm, uncluttered space at the bottom (floor, grating, table top, soft shadow) for a logo.\nScene: a wide desolate view of the hall in settling smoke: groups of young Sector 7 rebels sitting on the floor with their hands on their heads, guarded by commandos in black armour holding riot shields; overturned crates, spilled apples and scattered boxes all over the floor; no bodies, nobody hurt visibly. Location: the Sector 1 storage hall in the aftermath: haze and dust settling, overturned crates, spilled apples and scattered boxes on the concrete floor, ropes hanging from broken skylights. Camera: wide shot, high angle.\nMood/lighting: underground, cold grey-white light through settling smoke and dust, faint red emergency glow, bleak silence.\nModest clothing (women in loose long-sleeved ankle-length clothing with a hijab fully covering hair and neck; men in long-sleeved shirts or jackets and long trousers), culturally respectful, no guns, no knives, no weapons visible, no violence shown, no blood, no wounds, no gore, no dead bodies, no text, no letters, no numbers, no writing, no screens with readable text, no symbols, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.194,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 50.0,
+    "y_pct": 40.0,
+    "face_detected": false
+   }
+  },
+  {
+   "id": "beat_027",
+   "startMs": 615598,
+   "endMs": 645999,
+   "new_image_reason": "action change: Kyle stands over the cuffed Aira with a mocking smile; she realises Brent's betrayal",
+   "characters": [
+    "kyle",
+    "aira"
+   ],
+   "location": "the Sector 1 storage hall in the aftermath: haze and dust settling, overturned crates, spilled apples and scattered boxes on the concrete floor, ropes hanging from broken skylights",
+   "location_key": "hall_after",
+   "mood": "underground, cold grey-white light through settling smoke and dust, faint red emergency glow, bleak silence",
+   "visual": "Aira kneeling on the floor in steel restraints in the foreground, looking up with horror and defiance; Commander Kyle standing two steps in front of her, looking down at her with a faint mocking smile and merciless eyes; smoke behind them",
+   "camera": "medium two-shot, low angle from behind Aira's shoulder towards Kyle",
+   "image": "images/beat_027.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "chaos_hall",
+   "shots": [
+    {
+     "id": "shot_065",
+     "startMs": 615598,
+     "endMs": 625818,
+     "narration_dhivehi": "ގުޑައިވެސް ނުލެވޭ ގޮތަށް ދަގަނޑު ކަސްތޮޅުތަކުން ބަންދުކުރެވިފައެވެ. އޭނާގެ ކުރިމައްޗަށް ކައިލް ހުއްޓި، މަލާމާތުގެ ހިނިތުންވުމަކާއެކު އޭނާއަށް ބަލައިލިއެވެ.",
+     "narration_english": "bound with steel cuffs so that she could not even move. Kyle stopped in front of her and looked at her with a mocking smile.",
+     "crop": "full",
+     "motion": "pan left",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_066",
+     "startMs": 625818,
+     "endMs": 635369,
+     "narration_dhivehi": "ކައިލްގެ ދެލޮލުން ފެންނަމުންދިޔައީ އިންތިހާ ދަރަޖައިގެ ރަހުމުކުޑަކަމެވެ. އެވަގުތު އައިރާގެ ސިކުނޑިއަށް ވިސްނުނީ ބްރެންޓް ވެފައިވާ ބޮޑު ޚިޔާނާތުގެ ހަގީގަތެވެ.",
+     "narration_english": "Kyle's eyes showed mercilessness of the highest degree. At that moment the truth of Brent's great betrayal dawned on Aira's mind.",
+     "crop": "tight",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": true,
+     "crop_rect_pct": [
+      29.7,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_067",
+     "startMs": 635369,
+     "endMs": 645999,
+     "narration_dhivehi": "ކައުންސިލްގެ އަނިޔާވެރިކަމަކީ ހީކުރި ވަރަށްވުރެ މާ ބިރުވެރި އެއްޗެއްކަން އޭނާއަށް އެނގިގެންދިޔައެވެ. ހިނގަމުންދިޔަ ހަމަނުޖެހުމުގެ ތެރޭގައި ޒައިލް ވީ ކޮންތާކު ކަމެއް ނޭނގި،",
+     "narration_english": "She realised that the Council's cruelty was far more terrifying than she had imagined. Not knowing where Zail had gone in all the chaos,",
+     "crop": "full",
+     "motion": "pan right",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Kyle; reference image 2 is Aira), create a new scene: Cinematic semi-realistic digital illustration in a dark gritty dystopian sci-fi style matching a post-apocalyptic underground bunker city: rusted steel walls, pipes, steam and haze, warm amber and sodium-orange work lights against cold steel-blue and teal shadows, the luxurious upper levels in clean white, glass and soft gold light, volumetric light shafts, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and calm, uncluttered space at the bottom (floor, grating, table top, soft shadow) for a logo.\nScene: Aira kneeling on the floor in steel restraints in the foreground, looking up with horror and defiance; Commander Kyle standing two steps in front of her, looking down at her with a faint mocking smile and merciless eyes; smoke behind them. Location: the Sector 1 storage hall in the aftermath: haze and dust settling, overturned crates, spilled apples and scattered boxes on the concrete floor, ropes hanging from broken skylights. Camera: medium two-shot, low angle from behind Aira's shoulder towards Kyle.\nCharacters: Kyle: a tall upright athletic Maldivian man in his early 30s with warm brown skin, a composed clean-shaven face with a strong jaw, cool watchful dark eyes and short neat black hair; wears an immaculate black high-collared commander's uniform with long sleeves, a row of small silver medals on the chest, black gloves and polished black boots. Aira: a slim athletic Maldivian young woman of 26 with warm brown skin, a determined oval face, large dark intense eyes, straight dark eyebrows and a faint grease smudge on one cheek; wears a loose ankle-length dark olive-brown canvas work coat buttoned to the neck with long sleeves, loose dark trousers and scuffed boots, a charcoal-grey hijab wrapped snugly and fully covering her hair and neck, and a small worn steel tag pendant on a thin chain over her hijab at the chest.\nMood/lighting: underground, cold grey-white light through settling smoke and dust, faint red emergency glow, bleak silence.\nModest clothing (women in loose long-sleeved ankle-length clothing with a hijab fully covering hair and neck; men in long-sleeved shirts or jackets and long trousers), culturally respectful, no guns, no knives, no weapons visible, no violence shown, no blood, no wounds, no gore, no dead bodies, no text, no letters, no numbers, no writing, no screens with readable text, no symbols, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.127,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 59.4,
+    "y_pct": 15.9,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_028",
+   "startMs": 645999,
+   "endMs": 665480,
+   "new_image_reason": "action change: Aira is taken upward as a valuable prisoner",
+   "characters": [
+    "aira"
+   ],
+   "location": "the Sector 1 storage hall in the aftermath: haze and dust settling, overturned crates, spilled apples and scattered boxes on the concrete floor, ropes hanging from broken skylights",
+   "location_key": "hall_after",
+   "mood": "underground, cold grey-white light through settling smoke and dust, faint red emergency glow, bleak silence",
+   "visual": "Aira in steel restraints walking between two commandos in black armour who walk beside her without touching her, towards the giant lift gate now opening with a cold white light pouring down from above; she looks back over her shoulder into the smoky hall, searching in fear; seen from behind at a distance",
+   "camera": "wide shot from behind, the lift gate and light in the upper half",
+   "image": "images/beat_028.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": "other",
+   "safe_substitution": "'dragged' shown as escorted between two commandos; nobody touches her",
+   "ambience": "storage_hall",
+   "shots": [
+    {
+     "id": "shot_068",
+     "startMs": 645999,
+     "endMs": 657459,
+     "narration_dhivehi": "އޭނާގެ ފުރާނަ ސަލާމަތްވި ކަމާމެދު އައިރާގެ ހިތުގައި ބޮޑު ބިރުވެރިކަމެއް އުފެދުނެވެ. ސިފައިން އައިސް އައިރާ ދަމާފައި ކަހަލަ ގޮތަކަށް މަތީ ފަންގިފިލާތަކާ ދިމާއަށް ގެންދަން ފެށިއެވެ.",
+     "narration_english": "a great fear for his life rose in Aira's heart. The soldiers came and began taking Aira, almost dragging her, towards the upper levels.",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [
+      {
+       "name": "boots_march",
+       "atMs": 651459,
+       "gainDb": -20,
+       "word": "ސިފައިން"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_069",
+     "startMs": 657459,
+     "endMs": 665480,
+     "narration_dhivehi": "އޭނާއަކީ އަގުހުރި އަސީރެއްގެ ގޮތުގައި ބަލައިގަނެވިގެން ގެންދެވުނުއިރު، މުޅި ސެކްޓަރުގައި އޮތީ ބަޔާންކުރަން ދަތި ނާމާންކަމެކެވެ.",
+     "narration_english": "As she was taken away, treated as a valuable prisoner, an indescribable eerie silence lay over the whole sector.",
+     "crop": "tight",
+     "motion": "pan up",
+     "sfx": [],
+     "hum": true,
+     "crop_rect_pct": [
+      40.6,
+      29.6,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Aira), create a new scene: Cinematic semi-realistic digital illustration in a dark gritty dystopian sci-fi style matching a post-apocalyptic underground bunker city: rusted steel walls, pipes, steam and haze, warm amber and sodium-orange work lights against cold steel-blue and teal shadows, the luxurious upper levels in clean white, glass and soft gold light, volumetric light shafts, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and calm, uncluttered space at the bottom (floor, grating, table top, soft shadow) for a logo.\nScene: Aira in steel restraints walking between two commandos in black armour who walk beside her without touching her, towards the giant lift gate now opening with a cold white light pouring down from above; she looks back over her shoulder into the smoky hall, searching in fear; seen from behind at a distance. Location: the Sector 1 storage hall in the aftermath: haze and dust settling, overturned crates, spilled apples and scattered boxes on the concrete floor, ropes hanging from broken skylights. Camera: wide shot from behind, the lift gate and light in the upper half.\nCharacters: Aira: a slim athletic Maldivian young woman of 26 with warm brown skin, a determined oval face, large dark intense eyes, straight dark eyebrows and a faint grease smudge on one cheek; wears a loose ankle-length dark olive-brown canvas work coat buttoned to the neck with long sleeves, loose dark trousers and scuffed boots, a charcoal-grey hijab wrapped snugly and fully covering her hair and neck, and a small worn steel tag pendant on a thin chain over her hijab at the chest.\nMood/lighting: underground, cold grey-white light through settling smoke and dust, faint red emergency glow, bleak silence.\nModest clothing (women in loose long-sleeved ankle-length clothing with a hijab fully covering hair and neck; men in long-sleeved shirts or jackets and long trousers), culturally respectful, no guns, no knives, no weapons visible, no violence shown, no blood, no wounds, no gore, no dead bodies, no text, no letters, no numbers, no writing, no screens with readable text, no symbols, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.252,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 83.0,
+    "y_pct": 73.0,
+    "face_detected": true
+   }
+  }
+ ]
+}

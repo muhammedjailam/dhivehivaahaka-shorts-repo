@@ -1,0 +1,3197 @@
+{
+ "series": "16February",
+ "episode": 285,
+ "beats": [
+  {
+   "id": "beat_001",
+   "startMs": 0,
+   "endMs": 18310,
+   "new_image_reason": "episode opening: Ahlam's nightmare in his cabin — warm breath behind him, a blinding flash",
+   "characters": [
+    "ahlam"
+   ],
+   "location": "an open-plan back-office of the resort, rows of wooden desks with monitors, glass-walled cabins, large windows to palms and sea; the boss's cabin with a dark wooden desk and a leather chair",
+   "location_key": "dream_cabin",
+   "mood": "office after midnight in a storm, a dream: darkness of the cabin suddenly torn by a blinding cold white flash from behind, hazy, slightly desaturated with soft vignette, uncanny",
+   "visual": "Ahlam sitting alone at his dark wooden desk in the dark office cabin, half turned in his leather chair to look over his shoulder, startled wide eyes, his face and shoulders lit by a sudden blinding cold white flash coming from behind him; nobody else visible, only empty darkness and white glare behind him",
+   "camera": "medium shot, eye level, slightly from the side",
+   "image": "images/beat_001.png",
+   "reuse_of": null,
+   "transition_in": "dissolve",
+   "sensitive": "other",
+   "safe_substitution": "the breath on his shoulder is shown only as a white flash from behind; no figure visible (bible rule 12)",
+   "ambience": "office_storm_night",
+   "shots": [
+    {
+     "id": "shot_001",
+     "startMs": 0,
+     "endMs": 8290,
+     "narration_dhivehi": "ވިސްނުމުގެ ފުންކަނޑަށް ފީނާ ގަތުމުގެ ކުރިން އޭނާ ސިހުނީ ފަހަތުން އޭނާގެ ކަނދުރާމައްޗަށް އެޅުނު ހޫނު ނޭވާގެ އިހުސާސުންނެވެ.",
+     "narration_english": "Before he could sink into the deep sea of his thoughts, he started at the feel of a hot breath falling on his shoulder from behind.",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [
+      {
+       "name": "breath",
+       "atMs": 6620,
+       "gainDb": -20,
+       "word": "ނޭވާގެ"
+      },
+      {
+       "name": "gasp",
+       "atMs": 3180,
+       "gainDb": -20,
+       "word": "ސިހުނީ"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_002",
+     "startMs": 8290,
+     "endMs": 18310,
+     "narration_dhivehi": "ލިބުނު ސިހުމާއި އެކީގައި އޭނާ އެނބުރިލިއެވެ. އެހިނދު ލޮލަށް އަލިވެގެން ދިޔައީ ތަނެއް ދޮރެއް ވަކިނުވާނެ ގޮތަށެވެ. ކުއްލިޔަކަށް އޭނާ ދެ ލޯ ހުޅުވާލީ ހާސްކަމާއި އެކީގައެވެ.",
+     "narration_english": "Startled, he turned around. At that moment a light flooded his eyes so that he could make out nothing. Suddenly he opened his eyes in panic.",
+     "crop": "tight",
+     "motion": "pan left",
+     "sfx": [
+      {
+       "name": "breath_heavy",
+       "atMs": 16340,
+       "gainDb": -20,
+       "word": "ހުޅުވާލީ"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      24.3,
+      0.0,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Ahlam), create a new scene: Cinematic semi-realistic digital illustration with a dark, tense island mystery-thriller look: stormy charcoal skies, deep blue-black night shadows, warm ember-orange and amber highlights from lamps, lightning and sunset, rain-slick surfaces at night; bright but slightly desaturated turquoise-and-sand tropical daylight at the resort and on the island; gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, desk top, sand path, wet road, water, soft shadow) for captions and a logo\nScene: Ahlam sitting alone at his dark wooden desk in the dark office cabin, half turned in his leather chair to look over his shoulder, startled wide eyes, his face and shoulders lit by a sudden blinding cold white flash coming from behind him; nobody else visible, only empty darkness and white glare behind him. Location: an open-plan back-office of the resort, rows of wooden desks with monitors, glass-walled cabins, large windows to palms and sea; the boss's cabin with a dark wooden desk and a leather chair. Camera: medium shot, eye level, slightly from the side.\nCharacters: Ahlam: a tall broad-shouldered Maldivian man of about 32 with warm brown skin, a strong handsome face, intense deep-set dark eyes under heavy brows, a straight prominent nose, thick wavy black hair and a full neatly kept black beard; wears a fitted black long-sleeved button shirt with the sleeves rolled to the forearms, charcoal trousers and a dark leather-strap wristwatch.\nMood/lighting: office after midnight in a storm, a dream: darkness of the cabin suddenly torn by a blinding cold white flash from behind, hazy, slightly desaturated with soft vignette, uncanny.\nModest Maldivian clothing (every woman in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck, also at home and at night; men fully clothed in shirts and long trousers or a sarong, never shirtless), no kissing, no embracing, no physical touch between a man and a woman, culturally respectful, no violence shown, no dead body, no falling person, no injuries, no bruises, no blood, no weapons, no alcohol, no smoking, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.056,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 54.0,
+    "y_pct": 25.3,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_002",
+   "startMs": 18310,
+   "endMs": 44461,
+   "new_image_reason": "time/state change: he wakes from the dream, sweating, drinks water",
+   "characters": [
+    "ahlam"
+   ],
+   "location": "an open-plan back-office of the resort, rows of wooden desks with monitors, glass-walled cabins, large windows to palms and sea; the boss's cabin with a dark wooden desk and a leather chair",
+   "location_key": "cabin",
+   "mood": "office after midnight in a storm, a single warm amber desk lamp against deep blue-black shadows, cold blue-white lightning flickering through the window behind, rain streaking the glass, tense",
+   "visual": "Ahlam sitting up at his dark wooden desk in the office cabin just woken, beads of sweat on his forehead, breathing hard, gulping from a glass of water held in one hand, the other hand pushing back his thick wavy hair; papers and a closed laptop on the desk, a warm desk lamp beside him",
+   "camera": "medium close-up, eye level",
+   "image": "images/beat_002.png",
+   "reuse_of": null,
+   "transition_in": "dissolve",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "office_storm_night",
+   "shots": [
+    {
+     "id": "shot_003",
+     "startMs": 18310,
+     "endMs": 28461,
+     "narration_dhivehi": "މީހާގެ މޫނުމަތިން ހިއްލާފައިވާ ދާތިކިތައް ފާޅުވަމުން ދިޔައެވެ. އަވަސް އަވަހަށް ކައިރީގައި ހުރި ފެންތަށިގެ މަތިނަގައި އެއްނޭވާއި ބޯލިއެވެ. އޭނާ ހަމަޖެހިލިއެވެ.",
+     "narration_english": "Beads of sweat stood out on his face. He quickly took the glass of water beside him and drank it in one breath. He calmed down.",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [
+      {
+       "name": "cup_clatter",
+       "atMs": 24060,
+       "gainDb": -22,
+       "word": "ފެންތަށިގެ"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_004",
+     "startMs": 28461,
+     "endMs": 35501,
+     "narration_dhivehi": "އޭރުވެސް އޭނާގެ ނޭވާވަނީ ކުރުވެފައެވެ. އޭނާއަށް ދެންމެ އެ ފެނުނީ ހުވަފެނެއްކަން ޔަގީން ވުމުން ހަމަޖެހިލެވޭތޯ ބެލިއެވެ.",
+     "narration_english": "Even then his breath was short. Sure now that what he had just seen was a dream, he tried to calm himself.",
+     "crop": "tight",
+     "motion": "pan right",
+     "sfx": [
+      {
+       "name": "breath_heavy",
+       "atMs": 29241,
+       "gainDb": -22,
+       "word": "ނޭވާވަނީ"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      19.9,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_005",
+     "startMs": 35501,
+     "endMs": 44461,
+     "narration_dhivehi": "ވައަތުން އޭނާގެ ކަޅުކަން ގަދަ ފަން އިސްތަށިގަނޑުގައި މައްޗަށް ވާހެން އަތްފުނާ އަޅާލައިލިއެވެ. އަދި ޓިޝުލެއް ނަގައި މޫނުގައި ހިއްލާފައިވާ ދާތައް ފުހެލިއެވެ.",
+     "narration_english": "With his right hand he ran his fingers up through his thick, jet-black hair. Then he took a tissue and wiped the sweat from his face.",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Ahlam), create a new scene: Cinematic semi-realistic digital illustration with a dark, tense island mystery-thriller look: stormy charcoal skies, deep blue-black night shadows, warm ember-orange and amber highlights from lamps, lightning and sunset, rain-slick surfaces at night; bright but slightly desaturated turquoise-and-sand tropical daylight at the resort and on the island; gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, desk top, sand path, wet road, water, soft shadow) for captions and a logo\nScene: Ahlam sitting up at his dark wooden desk in the office cabin just woken, beads of sweat on his forehead, breathing hard, gulping from a glass of water held in one hand, the other hand pushing back his thick wavy hair; papers and a closed laptop on the desk, a warm desk lamp beside him. Location: an open-plan back-office of the resort, rows of wooden desks with monitors, glass-walled cabins, large windows to palms and sea; the boss's cabin with a dark wooden desk and a leather chair. Camera: medium close-up, eye level.\nCharacters: Ahlam: a tall broad-shouldered Maldivian man of about 32 with warm brown skin, a strong handsome face, intense deep-set dark eyes under heavy brows, a straight prominent nose, thick wavy black hair and a full neatly kept black beard; wears a fitted black long-sleeved button shirt with the sleeves rolled to the forearms, charcoal trousers and a dark leather-strap wristwatch.\nMood/lighting: office after midnight in a storm, a single warm amber desk lamp against deep blue-black shadows, cold blue-white lightning flickering through the window behind, rain streaking the glass, tense.\nModest Maldivian clothing (every woman in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck, also at home and at night; men fully clothed in shirts and long trousers or a sarong, never shirtless), no kissing, no embracing, no physical touch between a man and a woman, culturally respectful, no violence shown, no dead body, no falling person, no injuries, no bruises, no blood, no weapons, no alcohol, no smoking, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.101,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 49.6,
+    "y_pct": 30.5,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_003",
+   "startMs": 44461,
+   "endMs": 80412,
+   "new_image_reason": "action change: he stands, checks his watch; lightning, thunder and a scream",
+   "characters": [
+    "ahlam"
+   ],
+   "location": "an open-plan back-office of the resort, rows of wooden desks with monitors, glass-walled cabins, large windows to palms and sea; the boss's cabin with a dark wooden desk and a leather chair",
+   "location_key": "cabin",
+   "mood": "office after midnight in a storm, a single warm amber desk lamp against deep blue-black shadows, cold blue-white lightning flickering through the window behind, rain streaking the glass, tense",
+   "visual": "Ahlam standing beside his desk in the cabin, frozen mid-motion with one hand at his trouser pocket, head turned sharply toward the glass door of the cabin, listening intently, his other wrist raised with his dark leather wristwatch (plain dial, no numbers); a bright blue-white lightning flash through the rain-streaked window behind him",
+   "camera": "medium wide, low angle",
+   "image": "images/beat_003.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": "other",
+   "safe_substitution": "the scream is carried only by his listening face and the gasp sound; the clock time 1:57 is not shown",
+   "ambience": "office_storm_night",
+   "shots": [
+    {
+     "id": "shot_006",
+     "startMs": 44461,
+     "endMs": 52141,
+     "narration_dhivehi": "އަތުކުރީގައިވާ ގަޑިއަށް ބަލާލަމުން މޭޒުދޮށުން އޭނާ ތެދުވިއެވެ. މިހާރު ގަޑިން ދަންވަރު 2 ޖެހަން 3 މިނެޓެވެ.",
+     "narration_english": "Glancing at the watch on his wrist, he got up from the desk. It was now three minutes to two in the night.",
+     "crop": "full",
+     "motion": "pan up",
+     "sfx": [
+      {
+       "name": "cloth_rustle",
+       "atMs": 48021,
+       "gainDb": -24,
+       "word": "ތެދުވިއެވެ."
+      },
+      {
+       "name": "clock_tick",
+       "atMs": 46041,
+       "gainDb": -22,
+       "word": "ގަޑިއަށް"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_007",
+     "startMs": 52141,
+     "endMs": 61592,
+     "narration_dhivehi": "އޭރުވެސް ވިދާލާ ވިދުވަރުގެ އަލި ކުޑަދޮރުން އޮފީސް ތެރެއަށް އެޅެމުން ދިޔައެވެ. ވިދުމާއި އެކުއެކީހެން ބާރަށް ޖަހާލި ގުގުރީގެ އަޑުން މުޅިތަން ގުޑިގެން ދިޔަކަހަލައެވެ.",
+     "narration_english": "Lightning still flashed through the window into the office. With the flash came a crack of thunder so loud the whole place seemed to shake.",
+     "crop": "tight",
+     "motion": "slow pull-out",
+     "sfx": [
+      {
+       "name": "thunder",
+       "atMs": 58682,
+       "gainDb": -14,
+       "word": "ގުގުރީގެ"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      24.3,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_008",
+     "startMs": 61592,
+     "endMs": 71462,
+     "narration_dhivehi": "އެއަޑާއި އެކު އިވުނީ އަންހެން ކުއްޖެއްގެ ހަޅޭކުގެ އަޑެވެ. \"މަންމާ.\" މޭޒުމަތީގައި އޮތް ކޮޓަރީގެ ކާޑު ޖީބަށް ލާލާ ހުރި އަހްލަމްގެ ސަމާލުކަން އެ އަޑަށް ހުއްޓުނެވެ.",
+     "narration_english": "With that sound came the scream of a girl. \"Mamma!\" Ahlam, who was slipping the room card from the desk into his pocket, froze at the sound.",
+     "crop": "full",
+     "motion": "pan down",
+     "sfx": [
+      {
+       "name": "gasp",
+       "atMs": 63522,
+       "gainDb": -16,
+       "word": "ހަޅޭކުގެ"
+      }
+     ],
+     "hum": true,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_009",
+     "startMs": 71462,
+     "endMs": 80412,
+     "narration_dhivehi": "ޔަގީން ނުވާކަހަލަ ގޮތަކަށް އަތުކުރީގައި އޮތް ގަޑިއަށް އަދި އެއްފަހަރު ބަލައިލިއެވެ. އެ އިވުނު އަޑަކީ މީގެ ހަފުތާއެއް ކުރިން އޭނާ އަޑުއަހާފައިވާ އަޑެކެވެ.",
+     "narration_english": "Unsure, he looked at his watch once more. That sound was one he had heard a week before.",
+     "crop": "medium",
+     "motion": "static drift",
+     "sfx": [
+      {
+       "name": "heartbeat",
+       "atMs": 77922,
+       "gainDb": -22,
+       "word": "ހަފުތާއެއް"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      18.3,
+      0.0,
+      71.5,
+      84.7
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Ahlam), create a new scene: Cinematic semi-realistic digital illustration with a dark, tense island mystery-thriller look: stormy charcoal skies, deep blue-black night shadows, warm ember-orange and amber highlights from lamps, lightning and sunset, rain-slick surfaces at night; bright but slightly desaturated turquoise-and-sand tropical daylight at the resort and on the island; gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, desk top, sand path, wet road, water, soft shadow) for captions and a logo\nScene: Ahlam standing beside his desk in the cabin, frozen mid-motion with one hand at his trouser pocket, head turned sharply toward the glass door of the cabin, listening intently, his other wrist raised with his dark leather wristwatch (plain dial, no numbers); a bright blue-white lightning flash through the rain-streaked window behind him. Location: an open-plan back-office of the resort, rows of wooden desks with monitors, glass-walled cabins, large windows to palms and sea; the boss's cabin with a dark wooden desk and a leather chair. Camera: medium wide, low angle.\nCharacters: Ahlam: a tall broad-shouldered Maldivian man of about 32 with warm brown skin, a strong handsome face, intense deep-set dark eyes under heavy brows, a straight prominent nose, thick wavy black hair and a full neatly kept black beard; wears a fitted black long-sleeved button shirt with the sleeves rolled to the forearms, charcoal trousers and a dark leather-strap wristwatch.\nMood/lighting: office after midnight in a storm, a single warm amber desk lamp against deep blue-black shadows, cold blue-white lightning flickering through the window behind, rain streaking the glass, tense.\nModest Maldivian clothing (every woman in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck, also at home and at night; men fully clothed in shirts and long trousers or a sarong, never shirtless), no kissing, no embracing, no physical touch between a man and a woman, culturally respectful, no violence shown, no dead body, no falling person, no injuries, no bruises, no blood, no weapons, no alcohol, no smoking, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.081,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 54.0,
+    "y_pct": 17.7,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_004",
+   "startMs": 80412,
+   "endMs": 103113,
+   "new_image_reason": "location change: he hurries into the dark open office and sees a girl at a distant desk",
+   "characters": [
+    "ahlam",
+    "malak"
+   ],
+   "location": "an open-plan back-office of the resort, rows of wooden desks with monitors, glass-walled cabins, large windows to palms and sea; the boss's cabin with a dark wooden desk and a leather chair",
+   "location_key": "office_dark",
+   "mood": "office after midnight in a storm, the open office almost dark, only faint monitor glow and the blue-white flash of lightning through the large rain-streaked windows, deep blue-black shadows, fear and loneliness",
+   "visual": "seen from behind Ahlam's shoulder at the doorway of his glass cabin: the long dark open-plan office with rows of desks, and far away at a desk under a window, small in the dim light, a young woman in a black hijab and maroon kurta seen from behind, sitting hunched over the desk with her head bowed low and both hands pressed to her ears; lightning flickering in the windows; a large empty distance between them",
+   "camera": "wide shot over the shoulder, deep perspective down the office",
+   "image": "images/beat_004.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": "other",
+   "safe_substitution": "Malak is seen only from far behind, sitting; Ahlam stays at the cabin doorway, no approach, no touch",
+   "ambience": "office_storm_night",
+   "shots": [
+    {
+     "id": "shot_010",
+     "startMs": 80412,
+     "endMs": 87183,
+     "narration_dhivehi": "އަވަސް އަވަހަށް ފޯނު ނަގައި ޖީބަށް ލުމަށްފަހު ދުވެފައި ކަހަލަ ގޮތަކަށް އޭނާ ނިކުތީ ކެބިނުން ބޭރަށެވެ.",
+     "narration_english": "Quickly picking up his phone and pocketing it, he came out of the cabin almost at a run.",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [
+      {
+       "name": "footsteps_pavement",
+       "atMs": 83603,
+       "gainDb": -20,
+       "word": "ދުވެފައި"
+      },
+      {
+       "name": "door_open",
+       "atMs": 85183,
+       "gainDb": -20,
+       "word": "ނިކުތީ"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_011",
+     "startMs": 87183,
+     "endMs": 95723,
+     "narration_dhivehi": "އޮފީސްތެރެ އޭނާ ހޯދާ ބަލަމުން ހާސްކަމާއި އެކީގައި ދިޔައީ އެ އަޑުގެ ވެރިހާ ހޯދުމުގެ ނިޔަތުގައެވެ. އޭނާ ކުރިޔަށް އެޅިފިޔަވަޅު ހުއްޓުނެވެ.",
+     "narration_english": "He searched the office anxiously, determined to find whoever had screamed. His steps stopped.",
+     "crop": "tight",
+     "motion": "pan left",
+     "sfx": [
+      {
+       "name": "footsteps_pavement",
+       "atMs": 88043,
+       "gainDb": -22,
+       "word": "ހޯދާ"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      20.3,
+      4.8,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_012",
+     "startMs": 95723,
+     "endMs": 103113,
+     "narration_dhivehi": "ކަންފަތުގައި އަތް އަޅައިގެން ދެ ލޯ ފިތާބާރުކޮށްގެން ފަނޑުއަލީގައި މޭޒުގައި ބޯ އަޅައިގެން އޮތް އަންހެން ކުއްޖާ ފެނުމުންނެވެ.",
+     "narration_english": "He had seen a girl with her head down on a desk in the dim light, her hands on her temples and her eyes squeezed shut.",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [
+      {
+       "name": "heartbeat",
+       "atMs": 102303,
+       "gainDb": -22,
+       "word": "ފެނުމުންނެވެ."
+      }
+     ],
+     "hum": true,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Ahlam; reference image 2 is Malak), create a new scene: Cinematic semi-realistic digital illustration with a dark, tense island mystery-thriller look: stormy charcoal skies, deep blue-black night shadows, warm ember-orange and amber highlights from lamps, lightning and sunset, rain-slick surfaces at night; bright but slightly desaturated turquoise-and-sand tropical daylight at the resort and on the island; gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, desk top, sand path, wet road, water, soft shadow) for captions and a logo\nScene: seen from behind Ahlam's shoulder at the doorway of his glass cabin: the long dark open-plan office with rows of desks, and far away at a desk under a window, small in the dim light, a young woman in a black hijab and maroon kurta seen from behind, sitting hunched over the desk with her head bowed low and both hands pressed to her ears; lightning flickering in the windows; a large empty distance between them. Location: an open-plan back-office of the resort, rows of wooden desks with monitors, glass-walled cabins, large windows to palms and sea; the boss's cabin with a dark wooden desk and a leather chair. Camera: wide shot over the shoulder, deep perspective down the office.\nCharacters: Ahlam: a tall broad-shouldered Maldivian man of about 32 with warm brown skin, a strong handsome face, intense deep-set dark eyes under heavy brows, a straight prominent nose, thick wavy black hair and a full neatly kept black beard; wears a fitted black long-sleeved button shirt with the sleeves rolled to the forearms, charcoal trousers and a dark leather-strap wristwatch. Malak: a slim Maldivian woman of about 24 with warm brown skin, a striking oval face, large dark almond eyes, defined dark eyebrows and full lips, a guarded serious expression; wears a loose long-sleeved ankle-length deep wine-maroon kurta tunic over loose black trousers and a plain black hijab wrapped snugly and fully covering her hair and neck, a slim silver wristwatch.\nMood/lighting: office after midnight in a storm, the open office almost dark, only faint monitor glow and the blue-white flash of lightning through the large rain-streaked windows, deep blue-black shadows, fear and loneliness.\nModest Maldivian clothing (every woman in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck, also at home and at night; men fully clothed in shirts and long trousers or a sarong, never shirtless), no kissing, no embracing, no physical touch between a man and a woman, culturally respectful, no violence shown, no dead body, no falling person, no injuries, no bruises, no blood, no weapons, no alcohol, no smoking, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.08,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 50.0,
+    "y_pct": 40.0,
+    "face_detected": false
+   }
+  },
+  {
+   "id": "beat_005",
+   "startMs": 103113,
+   "endMs": 121594,
+   "new_image_reason": "focus moves to Malak: her fear at the thunder, tears",
+   "characters": [
+    "malak"
+   ],
+   "location": "an open-plan back-office of the resort, rows of wooden desks with monitors, glass-walled cabins, large windows to palms and sea; the boss's cabin with a dark wooden desk and a leather chair",
+   "location_key": "office_dark",
+   "mood": "office after midnight in a storm, the open office almost dark, only faint monitor glow and the blue-white flash of lightning through the large rain-streaked windows, deep blue-black shadows, fear and loneliness",
+   "visual": "Malak sitting hunched forward at her desk in the dark office, elbows on the desk, both hands pressed over her ears over her black hijab, eyes squeezed shut, a tear on her cheek, her face pale and frightened in the faint cold monitor glow; rain streaming on the window behind her lit by a lightning flash; her hijab fully covering her hair and neck",
+   "camera": "medium close-up, slightly high angle",
+   "image": "images/beat_005.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": "other",
+   "safe_substitution": "her trauma shown only as fear and a tear; she sits upright at the desk (nobody lying), no injury shown",
+   "ambience": "office_storm_night",
+   "shots": [
+    {
+     "id": "shot_013",
+     "startMs": 103113,
+     "endMs": 112644,
+     "narration_dhivehi": "ޖަހާލި ބާރު ގުގުރީގެ އަޑަށް މަލަކް ސިހިގެން ދިޔައީއެވެ. ތިން ފަހަރު ނޭވާ ލައިގެން ވެސް ހިތް ހަމައަކަށް ނޭޅުނެވެ. ފިނިފެނުގެ ތިކިތައް ކިތަންމެ ބާރަށް ތިރިވިޔަސް،",
+     "narration_english": "Malak had started at the loud crash of thunder. Even after three breaths her heart would not settle. However hard the cold drops of rain fell,",
+     "crop": "full",
+     "motion": "pan right",
+     "sfx": [
+      {
+       "name": "thunder",
+       "atMs": 103983,
+       "gainDb": -14,
+       "word": "ގުގުރީގެ"
+      },
+      {
+       "name": "heartbeat",
+       "atMs": 108363,
+       "gainDb": -20,
+       "word": "ހިތް"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_014",
+     "startMs": 112644,
+     "endMs": 121594,
+     "narration_dhivehi": "ހިތުގެ ހިނގުން ހަމައެ ދިޔައީ ހަލުވިވަމުންނެވެ. އޭނާއަށް މީހަކު ބަލަން ހުރިކަމުގެ އިޙްސާސްނުވެ އެސްފިޔަ ދަށުން އަންނަމުން ދިޔަ ކަރުން ފުހެލިއެވެ.",
+     "narration_english": "her heart only raced faster. Not sensing that anyone was watching her, she wiped the tears coming from under her lashes.",
+     "crop": "tight",
+     "motion": "slow push-in",
+     "sfx": [
+      {
+       "name": "sob_breath",
+       "atMs": 120504,
+       "gainDb": -24,
+       "word": "ކަރުން"
+      }
+     ],
+     "hum": true,
+     "crop_rect_pct": [
+      7.3,
+      10.7,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Malak), create a new scene: Cinematic semi-realistic digital illustration with a dark, tense island mystery-thriller look: stormy charcoal skies, deep blue-black night shadows, warm ember-orange and amber highlights from lamps, lightning and sunset, rain-slick surfaces at night; bright but slightly desaturated turquoise-and-sand tropical daylight at the resort and on the island; gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, desk top, sand path, wet road, water, soft shadow) for captions and a logo\nScene: Malak sitting hunched forward at her desk in the dark office, elbows on the desk, both hands pressed over her ears over her black hijab, eyes squeezed shut, a tear on her cheek, her face pale and frightened in the faint cold monitor glow; rain streaming on the window behind her lit by a lightning flash; her hijab fully covering her hair and neck. Location: an open-plan back-office of the resort, rows of wooden desks with monitors, glass-walled cabins, large windows to palms and sea; the boss's cabin with a dark wooden desk and a leather chair. Camera: medium close-up, slightly high angle.\nCharacters: Malak: a slim Maldivian woman of about 24 with warm brown skin, a striking oval face, large dark almond eyes, defined dark eyebrows and full lips, a guarded serious expression; wears a loose long-sleeved ankle-length deep wine-maroon kurta tunic over loose black trousers and a plain black hijab wrapped snugly and fully covering her hair and neck, a slim silver wristwatch.\nMood/lighting: office after midnight in a storm, the open office almost dark, only faint monitor glow and the blue-white flash of lightning through the large rain-streaked windows, deep blue-black shadows, fear and loneliness.\nModest Maldivian clothing (every woman in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck, also at home and at night; men fully clothed in shirts and long trousers or a sarong, never shirtless), no kissing, no embracing, no physical touch between a man and a woman, culturally respectful, no violence shown, no dead body, no falling person, no injuries, no bruises, no blood, no weapons, no alcohol, no smoking, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.066,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 37.0,
+    "y_pct": 46.0,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_006",
+   "startMs": 121594,
+   "endMs": 156675,
+   "new_image_reason": "time jump: the next morning, sunrise after the night's rain, dew on the garden",
+   "characters": [],
+   "location": "a lush tropical resort garden on a small Maldivian island just after sunrise, broad green leaves, hibiscus and frangipani flowers heavy with dew drops, coconut palms, a glimpse of a calm turquoise lagoon",
+   "location_key": "sunrise",
+   "mood": "bright tropical morning just after sunrise after a night of rain, soft golden rays breaking through thinning clouds, fresh, sparkling, peaceful",
+   "visual": "close view of the resort garden at sunrise: broad wet green leaves and open hibiscus and frangipani flowers covered with sparkling dew drops shining like jewels, golden sun rays slanting through palms, a soft blur of the turquoise lagoon behind; no people",
+   "camera": "close-up of leaves and flowers in the upper two-thirds, soft green blur below",
+   "image": "images/beat_006.png",
+   "reuse_of": null,
+   "transition_in": "black",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "dawn_exterior",
+   "shots": [
+    {
+     "id": "shot_015",
+     "startMs": 121594,
+     "endMs": 128124,
+     "narration_dhivehi": "އިރުގެ ރަން ދޯދިތައް ދުނިޔެ މައްޗަށް ފަތުރައިލީ ރޭގަނޑުގެ ހަމަހިމޭންކަމަށް އަލްވަދާޢު ކިޔަމުންނެވެ.",
+     "narration_english": "The sun spread its golden rays over the world, bidding farewell to the stillness of the night.",
+     "crop": "full",
+     "motion": "pan up",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_016",
+     "startMs": 128124,
+     "endMs": 136534,
+     "narration_dhivehi": "މުޅި ރޭ ހުއްޓުމެއް ނެތި ވެހުނު ވާރެޔަށް ފަހު، ފަތިހުގެ ފިނިފިނި ވައިރޯޅިތަކާއެކު މުޅި ކާއިނާތު އޮތީ ތާޒާކަމުގެ ފޭރާމެއް ލައިގެންނެވެ.",
+     "narration_english": "After the rain that had fallen all night without stopping, with the cool breezes of dawn the whole world wore a cloak of freshness.",
+     "crop": "tight",
+     "motion": "slow pull-out",
+     "sfx": [
+      {
+       "name": "leaves_rustle",
+       "atMs": 131964,
+       "gainDb": -24,
+       "word": "ވައިރޯޅިތަކާއެކު"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      20.3,
+      4.8,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_017",
+     "startMs": 136534,
+     "endMs": 149225,
+     "narration_dhivehi": "ވިލާތަކުގެ ތެރެއިން ފުރޭނިގެން އައި މަޑު އަލިކަމުގެ ތެރޭގައި، ގަސްގަހާގެހީގެ ފެހިކަން ގަދަ ފަތްތަކާއި ފޮޅިފައިވާ މާތަކުގެ މަތީގައި ވިދަމުންދިޔަ ޝަބްނަމް ތިކިތައް ފެންނަނީ ޖަވާހިރުތަކެއް ފަދައިންނެވެ.",
+     "narration_english": "In the soft light breaking through the clouds, the dew drops shining on the deep green leaves and the blooming flowers looked like jewels.",
+     "crop": "full",
+     "motion": "pan down",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_018",
+     "startMs": 149225,
+     "endMs": 156675,
+     "narration_dhivehi": "ޝަބްނަމް ތިކީގެ މި ކުޑަކުޑަ ޗާލުކަމަކީ، އިންސާނާގެ ރޫޙަށް ދިރުން ގެނެސްދިން ޤުދުރަތުގެ އަގުހުރި ހަދިޔާއެކެވެ. \"ބާބޫ.\"",
+     "narration_english": "The small beauty of a dew drop is a precious gift of nature that brings life to the human soul. \"Babu.\"",
+     "crop": "medium",
+     "motion": "static drift",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      14.2,
+      0.0,
+      71.5,
+      84.7
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Cinematic semi-realistic digital illustration with a dark, tense island mystery-thriller look: stormy charcoal skies, deep blue-black night shadows, warm ember-orange and amber highlights from lamps, lightning and sunset, rain-slick surfaces at night; bright but slightly desaturated turquoise-and-sand tropical daylight at the resort and on the island; gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, desk top, sand path, wet road, water, soft shadow) for captions and a logo\nScene: close view of the resort garden at sunrise: broad wet green leaves and open hibiscus and frangipani flowers covered with sparkling dew drops shining like jewels, golden sun rays slanting through palms, a soft blur of the turquoise lagoon behind; no people. Location: a lush tropical resort garden on a small Maldivian island just after sunrise, broad green leaves, hibiscus and frangipani flowers heavy with dew drops, coconut palms, a glimpse of a calm turquoise lagoon. Camera: close-up of leaves and flowers in the upper two-thirds, soft green blur below.\nMood/lighting: bright tropical morning just after sunrise after a night of rain, soft golden rays breaking through thinning clouds, fresh, sparkling, peaceful.\nModest Maldivian clothing (every woman in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck, also at home and at night; men fully clothed in shirts and long trousers or a sarong, never shirtless), no kissing, no embracing, no physical touch between a man and a woman, culturally respectful, no violence shown, no dead body, no falling person, no injuries, no bruises, no blood, no weapons, no alcohol, no smoking, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.318,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 50.0,
+    "y_pct": 40.0,
+    "face_detected": false
+   }
+  },
+  {
+   "id": "beat_007",
+   "startMs": 156675,
+   "endMs": 184036,
+   "new_image_reason": "character change: Malak walks to the canteen and greets Babu the gardener",
+   "characters": [
+    "malak"
+   ],
+   "location": "a white-sand garden path of a Maldivian resort lined on both sides with neatly watered tropical plants, hibiscus bushes and young palms, low wooden staff buildings behind",
+   "location_key": "garden_path",
+   "mood": "bright tropical morning after rain, soft golden sunlight, wet sand, slightly desaturated turquoise-and-sand palette, gentle",
+   "visual": "Malak walking along the white-sand garden path holding her laptop against her side, turning her head with a small polite smile that does not reach her tired eyes; a few steps away beside the bushes a thin older South-Asian gardener in a green staff shirt and dark trousers watering the plants with a hose, smiling back at her",
+   "camera": "medium wide, eye level, the path leading into the frame",
+   "image": "images/beat_007.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": "other",
+   "safe_substitution": "Babu has no card; described only; no touch",
+   "ambience": "garden_day",
+   "shots": [
+    {
+     "id": "shot_019",
+     "startMs": 156675,
+     "endMs": 166946,
+     "narration_dhivehi": "މަގުދެފަރާތައް ވާހެން ހައްދާފައިވާ ގަސްތަކަށް ފެންދޭން ހުރި ބާބުއަށް ގޮވާލަމުން މަލަކް ކުރިޔަށް ދިޔައީ ކެނޑީނަށް ދާށެވެ. އޭރު އޭނާގެ އަތުގައި އޭނާގެ ލެޕްޓޮޕް އޮތެވެ.",
+     "narration_english": "Calling out to Babu, who was watering the plants growing along both sides of the path, Malak walked on toward the canteen. Her laptop was in her hand.",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [
+      {
+       "name": "footsteps_sand",
+       "atMs": 161005,
+       "gainDb": -24,
+       "word": "ގޮވާލަމުން"
+      },
+      {
+       "name": "pour",
+       "atMs": 159845,
+       "gainDb": -24,
+       "word": "ފެންދޭން"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_020",
+     "startMs": 166946,
+     "endMs": 175426,
+     "narration_dhivehi": "\"އާނ. މެޑަމް. ރަށަށް ނުދަންތަ ރޭގައި ވެސް.\" ބާބު ކޮށަކޮށަމުން ދިވެހި ބަހުން އަހައިލިއެވެ. \"ބިޒީ. ވަރަށް ބިޒީ.\"",
+     "narration_english": "\"Aan. Madam. Not going to the island at night either?\" Babu asked in broken Dhivehi. \"Busy. Very busy.\"",
+     "crop": "tight",
+     "motion": "pan left",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      23.2,
+      29.6,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_021",
+     "startMs": 175426,
+     "endMs": 184036,
+     "narration_dhivehi": "ތުންފަތްމައްޗަށް ހިނިތުންވުމެއް ވެރިކޮށްލަމުން މޫނުގެ ހުރިހާސްކަން ފޮރުވާލިއެވެ. މަލަކް އޭރު ވެސް ފިޔަވަޅު އަޅަމުން ދިޔައީ ކުރިޔަށެވެ.",
+     "narration_english": "She put a smile on her lips and hid the anxiety on her face. Malak kept walking on.",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [
+      {
+       "name": "footsteps_sand",
+       "atMs": 181826,
+       "gainDb": -24,
+       "word": "ފިޔަވަޅު"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Malak), create a new scene: Cinematic semi-realistic digital illustration with a dark, tense island mystery-thriller look: stormy charcoal skies, deep blue-black night shadows, warm ember-orange and amber highlights from lamps, lightning and sunset, rain-slick surfaces at night; bright but slightly desaturated turquoise-and-sand tropical daylight at the resort and on the island; gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, desk top, sand path, wet road, water, soft shadow) for captions and a logo\nScene: Malak walking along the white-sand garden path holding her laptop against her side, turning her head with a small polite smile that does not reach her tired eyes; a few steps away beside the bushes a thin older South-Asian gardener in a green staff shirt and dark trousers watering the plants with a hose, smiling back at her. Location: a white-sand garden path of a Maldivian resort lined on both sides with neatly watered tropical plants, hibiscus bushes and young palms, low wooden staff buildings behind. Camera: medium wide, eye level, the path leading into the frame.\nCharacters: Malak: a slim Maldivian woman of about 24 with warm brown skin, a striking oval face, large dark almond eyes, defined dark eyebrows and full lips, a guarded serious expression; wears a loose long-sleeved ankle-length deep wine-maroon kurta tunic over loose black trousers and a plain black hijab wrapped snugly and fully covering her hair and neck, a slim silver wristwatch.\nMood/lighting: bright tropical morning after rain, soft golden sunlight, wet sand, slightly desaturated turquoise-and-sand palette, gentle.\nModest Maldivian clothing (every woman in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck, also at home and at night; men fully clothed in shirts and long trousers or a sarong, never shirtless), no kissing, no embracing, no physical touch between a man and a woman, culturally respectful, no violence shown, no dead body, no falling person, no injuries, no bruises, no blood, no weapons, no alcohol, no smoking, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "black",
+    "bg_luminance": 0.669,
+    "halo": true
+   },
+   "focus": {
+    "x_pct": 52.9,
+    "y_pct": 89.3,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_008",
+   "startMs": 184036,
+   "endMs": 207757,
+   "new_image_reason": "character change: Ahlam steps out of his room on a phone call and watches her; Ali joins him",
+   "characters": [
+    "ahlam",
+    "ali",
+    "malak"
+   ],
+   "location": "a shaded wooden walkway in front of a row of resort guest rooms with dark wooden doors, potted palms and frangipani trees, a white-sand path and the lagoon glinting beyond",
+   "location_key": "walkway",
+   "mood": "bright tropical morning, dappled sunlight through palms, slightly desaturated turquoise-and-sand palette, light and calm",
+   "visual": "Ahlam standing on the wooden walkway in front of his guest-room door holding a phone to his ear, his gaze following a young woman in a black hijab and maroon kurta walking away along a sand path in the far background, seen from behind; Ali in his white shirt, navy tie and glasses stopping beside Ahlam with his tablet, leaning in to speak softly with a knowing smile",
+   "camera": "medium wide, eye level, Ahlam and Ali in the foreground, Malak small in the distance",
+   "image": "images/beat_008.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "resort_day",
+   "shots": [
+    {
+     "id": "shot_022",
+     "startMs": 184036,
+     "endMs": 190286,
+     "narration_dhivehi": "ބާބު ހީލަމުން ގަސްތަކައް ފެން ދެމުން ދިޔައެވެ. އޭރު އަހްލަމް ކޮޓަރިންނިކުތެވެ. އޭރު އޭނާ ހުރީ ފޯނެއްގައެވެ.",
+     "narration_english": "Babu went on watering the plants, smiling. Just then Ahlam came out of his room. He was on a phone call.",
+     "crop": "full",
+     "motion": "pan right",
+     "sfx": [
+      {
+       "name": "pour",
+       "atMs": 185426,
+       "gainDb": -24,
+       "word": "ފެން"
+      },
+      {
+       "name": "door_open",
+       "atMs": 187446,
+       "gainDb": -20,
+       "word": "ކޮޓަރިންނިކުތެވެ."
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_023",
+     "startMs": 190286,
+     "endMs": 197857,
+     "narration_dhivehi": "އަހްލަމަށް މަލަކް ހުރަސްކޮށްލިތަން ފެނުމުން ބަލަހައްޓައިގެން ހުރެވުނެވެ. \"އެއީ މަލަކް. އަޅުގަނޑު ނަންގަތީމެއް ނޫންތޯ.",
+     "narration_english": "When he saw Malak pass by, he stood watching. \"That's Malak. Didn't I mention her?",
+     "crop": "tight",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      0.0,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_024",
+     "startMs": 197857,
+     "endMs": 207757,
+     "narration_dhivehi": "ވަރަށް މަސައްކަތް ތެރި ހިނގުން ތެރި ކުއްޖެއް.\" އަހްލަމްގެ ކައިރިޔަށް މަޑުކޮށްލަމުން ޢަލީ މަޑުމަޑުން ބުންޏެވެ. އަހްލަމް ފުންނޭވާއެއް ލުމަށްފަހު ޢަލީއަށް ބަލައިލިއެވެ. \"ހޫން...",
+     "narration_english": "A very hardworking, well-mannered girl,\" Ali said softly, stopping beside Ahlam. Ahlam took a deep breath and looked at Ali. \"Hmm...",
+     "crop": "full",
+     "motion": "pan up",
+     "sfx": [
+      {
+       "name": "sigh",
+       "atMs": 204747,
+       "gainDb": -22,
+       "word": "ފުންނޭވާއެއް"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Ahlam; reference image 2 is Ali; reference image 3 is Malak), create a new scene: Cinematic semi-realistic digital illustration with a dark, tense island mystery-thriller look: stormy charcoal skies, deep blue-black night shadows, warm ember-orange and amber highlights from lamps, lightning and sunset, rain-slick surfaces at night; bright but slightly desaturated turquoise-and-sand tropical daylight at the resort and on the island; gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, desk top, sand path, wet road, water, soft shadow) for captions and a logo\nScene: Ahlam standing on the wooden walkway in front of his guest-room door holding a phone to his ear, his gaze following a young woman in a black hijab and maroon kurta walking away along a sand path in the far background, seen from behind; Ali in his white shirt, navy tie and glasses stopping beside Ahlam with his tablet, leaning in to speak softly with a knowing smile. Location: a shaded wooden walkway in front of a row of resort guest rooms with dark wooden doors, potted palms and frangipani trees, a white-sand path and the lagoon glinting beyond. Camera: medium wide, eye level, Ahlam and Ali in the foreground, Malak small in the distance.\nCharacters: Ahlam: a tall broad-shouldered Maldivian man of about 32 with warm brown skin, a strong handsome face, intense deep-set dark eyes under heavy brows, a straight prominent nose, thick wavy black hair and a full neatly kept black beard; wears a fitted black long-sleeved button shirt with the sleeves rolled to the forearms, charcoal trousers and a dark leather-strap wristwatch. Ali: a slightly chubby Maldivian man of about 40 with warm brown skin, a round friendly face, rectangular thin-framed glasses, a neat short moustache and short side-parted black hair; wears a white long-sleeved shirt with a navy tie and dark-grey trousers, holding a tablet in a dark case. Malak: a slim Maldivian woman of about 24 with warm brown skin, a striking oval face, large dark almond eyes, defined dark eyebrows and full lips, a guarded serious expression; wears a loose long-sleeved ankle-length deep wine-maroon kurta tunic over loose black trousers and a plain black hijab wrapped snugly and fully covering her hair and neck, a slim silver wristwatch.\nMood/lighting: bright tropical morning, dappled sunlight through palms, slightly desaturated turquoise-and-sand palette, light and calm.\nModest Maldivian clothing (every woman in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck, also at home and at night; men fully clothed in shirts and long trousers or a sarong, never shirtless), no kissing, no embracing, no physical touch between a man and a woman, culturally respectful, no violence shown, no dead body, no falling person, no injuries, no bruises, no blood, no weapons, no alcohol, no smoking, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.188,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 26.3,
+    "y_pct": 26.0,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_009",
+   "startMs": 207757,
+   "endMs": 261069,
+   "new_image_reason": "action change: Ahlam and Ali face each other talking about Malak's overtime and a room for her",
+   "characters": [
+    "ahlam",
+    "ali"
+   ],
+   "location": "a shaded wooden walkway in front of a row of resort guest rooms with dark wooden doors, potted palms and frangipani trees, a white-sand path and the lagoon glinting beyond",
+   "location_key": "walkway",
+   "mood": "bright tropical morning, dappled sunlight through palms, slightly desaturated turquoise-and-sand palette, light and calm",
+   "visual": "Ahlam and Ali standing face to face on the shaded wooden walkway, Ahlam serious and thoughtful with his arms folded, phone now in his hand, asking a question; Ali holding his tablet in both hands, explaining earnestly with a kind expression; dappled morning light",
+   "camera": "medium two-shot, eye level",
+   "image": "images/beat_009.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "resort_day",
+   "shots": [
+    {
+     "id": "shot_025",
+     "startMs": 207757,
+     "endMs": 216537,
+     "narration_dhivehi": "އަހަރެން ބުނީ، ކިހާ އިރެއްވަންދެން އޮފީހުގެ މަސައްކަތްތައް އޮންނަނީ؟\" އަހްލަމް ވިސްނާލަމުން އަހައިލިއެވެ. \"އެންމެ ލަސްވެގެން 7 ޖަހާއިރު،",
+     "narration_english": "I said, until what time does office work go on?\" Ahlam asked thoughtfully. \"Seven o'clock at the latest,",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_026",
+     "startMs": 216537,
+     "endMs": 226988,
+     "narration_dhivehi": "އެކަމަކު މަލަކް އޯވަޓައިމް އެބަހަދާ. ބައެއްފަހަރަށް އެހެން ސްޓާފުންގެ ނުނިމި ހުރި މަސައްކަތާ ވެސް ހަވާލުވާނެ. މަސައްކަތް ތެރި ކުއްޖެ.\" ޢަލީ އޯގާތެރި ރާގަކަށް ބުންޏެވެ.",
+     "narration_english": "but Malak does overtime. Sometimes she even takes on other staff's unfinished work. A hardworking girl,\" Ali said warmly.",
+     "crop": "tight",
+     "motion": "pan down",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      0.0,
+      29.6,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_027",
+     "startMs": 226988,
+     "endMs": 236348,
+     "narration_dhivehi": "\"އެހެންތަ؟ ރިސޯޓުން ރޫމެއް ނުދޭތަ އޭނަޔަކަށް.\" އަހްލަމް އަހައިލިއެވެ. \"އަސްލު ކޮންމެ ރެއަކު ވެސް އޮފީސް ނިމިގެން މަލަކް ދަނީ އޭނަގެ ރަށަށް.",
+     "narration_english": "\"Is that so? Doesn't the resort give her a room?\" Ahlam asked. \"Actually every night after office Malak goes home to her island.",
+     "crop": "full",
+     "motion": "static drift",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_028",
+     "startMs": 236348,
+     "endMs": 244108,
+     "narration_dhivehi": "އެކަމަކު ވަރަށް ފަހުން ރަށައް ނުގޮސް އޮފީހުގައި ގިނަ ވަގުތު ހޭދަކުރަނީ. މިހާރު ހަފްތާއެއް ވެއްޖެ އެހެން މަލަކް އުޅޭތާ.",
+     "narration_english": "But lately she hasn't gone to the island; she spends a lot of time at the office. It's been a week now that Malak has been like this.",
+     "crop": "medium",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      0.0,
+      15.3,
+      71.5,
+      84.7
+     ]
+    },
+    {
+     "id": "shot_029",
+     "startMs": 244108,
+     "endMs": 252859,
+     "narration_dhivehi": "އިހަކަށް ދުވަހު ވަރަށް ބަލިވެސްވި، އަޅުގަނދު އެ ދުވަހު ވަގުތީ ގޮތުން ގެސްޓްރޫމެއްގައި ބޭއްވީ. އެކަމަކު...\" ޢަލީ ވާހަކަ ދެއްކުން ހުއްޓާލިއެވެ.",
+     "narration_english": "The other day she was very ill too; that day I put her in a guest room for the time being. But...\" Ali broke off.",
+     "crop": "tight",
+     "motion": "pan left",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      0.0,
+      29.6,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_030",
+     "startMs": 252859,
+     "endMs": 261069,
+     "narration_dhivehi": "\"ސްޓާފްރޫމް ތަކުން ރޫމެއް އޭނަޔަށް ހަމަޖައްސާ. މަސައްކަތް ތެރި ކުދިން އަހަރެން ބޭނުމެއް ނޫން ގެއްލިގެން ދާކަށް.\" އަހްލަމް ބުންޏެވެ.",
+     "narration_english": "\"Arrange a room for her from the staff rooms. I don't want to lose hardworking people,\" Ahlam said.",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Ahlam; reference image 2 is Ali), create a new scene: Cinematic semi-realistic digital illustration with a dark, tense island mystery-thriller look: stormy charcoal skies, deep blue-black night shadows, warm ember-orange and amber highlights from lamps, lightning and sunset, rain-slick surfaces at night; bright but slightly desaturated turquoise-and-sand tropical daylight at the resort and on the island; gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, desk top, sand path, wet road, water, soft shadow) for captions and a logo\nScene: Ahlam and Ali standing face to face on the shaded wooden walkway, Ahlam serious and thoughtful with his arms folded, phone now in his hand, asking a question; Ali holding his tablet in both hands, explaining earnestly with a kind expression; dappled morning light. Location: a shaded wooden walkway in front of a row of resort guest rooms with dark wooden doors, potted palms and frangipani trees, a white-sand path and the lagoon glinting beyond. Camera: medium two-shot, eye level.\nCharacters: Ahlam: a tall broad-shouldered Maldivian man of about 32 with warm brown skin, a strong handsome face, intense deep-set dark eyes under heavy brows, a straight prominent nose, thick wavy black hair and a full neatly kept black beard; wears a fitted black long-sleeved button shirt with the sleeves rolled to the forearms, charcoal trousers and a dark leather-strap wristwatch. Ali: a slightly chubby Maldivian man of about 40 with warm brown skin, a round friendly face, rectangular thin-framed glasses, a neat short moustache and short side-parted black hair; wears a white long-sleeved shirt with a navy tie and dark-grey trousers, holding a tablet in a dark case.\nMood/lighting: bright tropical morning, dappled sunlight through palms, slightly desaturated turquoise-and-sand palette, light and calm.\nModest Maldivian clothing (every woman in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck, also at home and at night; men fully clothed in shirts and long trousers or a sarong, never shirtless), no kissing, no embracing, no physical touch between a man and a woman, culturally respectful, no violence shown, no dead body, no falling person, no injuries, no bruises, no blood, no weapons, no alcohol, no smoking, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.408,
+    "halo": true
+   },
+   "focus": {
+    "x_pct": 21.5,
+    "y_pct": 96.7,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_010",
+   "startMs": 261069,
+   "endMs": 281640,
+   "new_image_reason": "focus change: Ahlam's gaze — Malak greeting staff on her way to the canteen",
+   "characters": [
+    "malak"
+   ],
+   "location": "a white-sand garden path of a Maldivian resort lined on both sides with neatly watered tropical plants, hibiscus bushes and young palms, low wooden staff buildings behind",
+   "location_key": "garden_path",
+   "mood": "bright tropical morning after rain, soft golden sunlight, wet sand, slightly desaturated turquoise-and-sand palette, gentle",
+   "visual": "seen from a distance along the sunny garden path: Malak in her black hijab and maroon kurta walking toward the canteen with her laptop, seen from the side and slightly behind so her face is hard to make out, nodding with a warm smile to a female staff member in a sand-beige uniform and white hijab who passes her; palms and the lagoon beyond",
+   "camera": "long shot, telephoto compression, eye level",
+   "image": "images/beat_010.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "garden_day",
+   "shots": [
+    {
+     "id": "shot_031",
+     "startMs": 261069,
+     "endMs": 273019,
+     "narration_dhivehi": "އޭރުވެސް އޭނާގެ ނަޒަރު ހުއްޓިފައި ހުރީ ކެންޑީނާ ދިމާލަށް ހިނގަމުން ދިޔަ މަލަކަށެވެ. އޭނާ ކުރިޔަށް ދިޔައިރު ދިމާ ކޮންމެ މީހަކާ ހިތްހެޔޮކަމާއި އެކީގައި ވާހަކަ ދައްކާ ހިނިތުންވެލާ ތަން ފެނެއެވެ.",
+     "narration_english": "His eyes were still on Malak, walking toward the canteen. As she went, she could be seen chatting kindly and smiling with everyone she met.",
+     "crop": "full",
+     "motion": "pan right",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_032",
+     "startMs": 273019,
+     "endMs": 281640,
+     "narration_dhivehi": "އެކަމަކު އަހްލަމަށް މަލަކްގެ ސޫރަ އަދި ރީތިކޮށް ފެނިފައެއް ނުވެއެވެ. އަހްލަމް މަލަކަށް ބަލާ ތަން ފެނުމުން ޢަލީއަށް ލާނެއް ގޮތަކަށް ކަރުކެހިލިއެވެ.",
+     "narration_english": "But Ahlam had still not seen Malak's face properly. Seeing Ahlam watching Malak, Ali cleared his throat mischievously.",
+     "crop": "tight",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      20.3,
+      4.8,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Malak), create a new scene: Cinematic semi-realistic digital illustration with a dark, tense island mystery-thriller look: stormy charcoal skies, deep blue-black night shadows, warm ember-orange and amber highlights from lamps, lightning and sunset, rain-slick surfaces at night; bright but slightly desaturated turquoise-and-sand tropical daylight at the resort and on the island; gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, desk top, sand path, wet road, water, soft shadow) for captions and a logo\nScene: seen from a distance along the sunny garden path: Malak in her black hijab and maroon kurta walking toward the canteen with her laptop, seen from the side and slightly behind so her face is hard to make out, nodding with a warm smile to a female staff member in a sand-beige uniform and white hijab who passes her; palms and the lagoon beyond. Location: a white-sand garden path of a Maldivian resort lined on both sides with neatly watered tropical plants, hibiscus bushes and young palms, low wooden staff buildings behind. Camera: long shot, telephoto compression, eye level.\nCharacters: Malak: a slim Maldivian woman of about 24 with warm brown skin, a striking oval face, large dark almond eyes, defined dark eyebrows and full lips, a guarded serious expression; wears a loose long-sleeved ankle-length deep wine-maroon kurta tunic over loose black trousers and a plain black hijab wrapped snugly and fully covering her hair and neck, a slim silver wristwatch.\nMood/lighting: bright tropical morning after rain, soft golden sunlight, wet sand, slightly desaturated turquoise-and-sand palette, gentle.\nModest Maldivian clothing (every woman in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck, also at home and at night; men fully clothed in shirts and long trousers or a sarong, never shirtless), no kissing, no embracing, no physical touch between a man and a woman, culturally respectful, no violence shown, no dead body, no falling person, no injuries, no bruises, no blood, no weapons, no alcohol, no smoking, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "black",
+    "bg_luminance": 0.555,
+    "halo": true
+   },
+   "focus": {
+    "x_pct": 50.0,
+    "y_pct": 40.0,
+    "face_detected": false
+   }
+  },
+  {
+   "id": "beat_011",
+   "startMs": 281640,
+   "endMs": 300550,
+   "new_image_reason": "return to the two-shot: Ahlam snaps at Ali's teasing",
+   "characters": [],
+   "location": "a shaded wooden walkway in front of a row of resort guest rooms with dark wooden doors, potted palms and frangipani trees, a white-sand path and the lagoon glinting beyond",
+   "location_key": "walkway",
+   "mood": "bright tropical morning, dappled sunlight through palms, slightly desaturated turquoise-and-sand palette, light and calm",
+   "visual": "reuse of Ahlam and Ali talking on the walkway",
+   "camera": "medium shot, eye level",
+   "image": "images/beat_009.png",
+   "reuse_of": "beat_009",
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "resort_day",
+   "shots": [
+    {
+     "id": "shot_033",
+     "startMs": 281640,
+     "endMs": 291070,
+     "narration_dhivehi": "\"މިހާރު އަހަރެން ބުނި ހުރިހާ އެއްޗެއް ނޯޓް ކޮށްފިންތަ؟\" އޭނަޔާ ޢަލީ ދިމާކުރަނީކަން އެނގުމުން ހަރުކަށި ވެލާ ކަހަލަ ރާގަކަށް ސުވާލު ކުރިއެވެ. \"އާދެ.",
+     "narration_english": "\"Have you noted down everything I told you just now?\" Knowing Ali was teasing him, he asked in a stern tone. \"Yes.",
+     "crop": "tight",
+     "motion": "pan up",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      0.0,
+      29.6,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_034",
+     "startMs": 291070,
+     "endMs": 300550,
+     "narration_dhivehi": "ނޯޓްކޮށްލާ ފިން.\" ޢަލީ ބުންޏެވެ. އޭރު އޭނާގެ ތުންފަތް މަތީގައިވަނީ ލާނެއް ހިނިތުންވުމެކެވެ. \"ކޮބާ އަހަރެން ދިން ގަނޑީގެ ހަގީގަތް ހޯދައިފިންތަ؟\"",
+     "narration_english": "Noted,\" Ali said. There was a mischievous smile on his lips. \"And — have you found the truth about the watch I gave you?\"",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [],
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.398,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 21.5,
+    "y_pct": 96.7,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_012",
+   "startMs": 300550,
+   "endMs": 336652,
+   "new_image_reason": "action change: they walk on together, talking about the watch",
+   "characters": [
+    "ahlam",
+    "ali"
+   ],
+   "location": "a shaded wooden walkway in front of a row of resort guest rooms with dark wooden doors, potted palms and frangipani trees, a white-sand path and the lagoon glinting beyond",
+   "location_key": "walkway",
+   "mood": "bright tropical morning, dappled sunlight through palms, slightly desaturated turquoise-and-sand palette, light and calm",
+   "visual": "Ahlam and Ali walking side by side along a palm-shaded sand path, Ahlam slightly ahead with a frown of concentration, looking straight ahead; Ali keeping pace beside him, glancing at his tablet and then curiously at Ahlam; long morning shadows on the white sand",
+   "camera": "medium wide tracking shot from the front, eye level",
+   "image": "images/beat_012.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "resort_day",
+   "shots": [
+    {
+     "id": "shot_035",
+     "startMs": 300550,
+     "endMs": 307691,
+     "narration_dhivehi": "އަހްލަމް މަޑުމަޑުން ކުރިޔަށް ހިނގައިގަންނަމުން އަހައިލިއެވެ. \"އަދި ނުހޯދޭ. އެކަމަކު ބަލަމުން މިދަނީ.",
+     "narration_english": "Ahlam asked, slowly starting to walk. \"Not yet. But I'm looking.",
+     "crop": "full",
+     "motion": "pan down",
+     "sfx": [
+      {
+       "name": "footsteps_pavement",
+       "atMs": 302751,
+       "gainDb": -22,
+       "word": "ހިނގައިގަންނަމުން"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_036",
+     "startMs": 307691,
+     "endMs": 317411,
+     "narration_dhivehi": "މި ހިސާބުގެ ގިނަ ރަށްތަކެއްގެ ހުރިހާ ޝޮޕްތަކެއް ގޮތަކަށް ބަލާ ނިމިއްޖެ. އެކަމަކު އެ ބުރޭންޑްގެ ގަޑިއެއް ނެތް.\" ޢަލީ އަހްލަމާއި އެއްވަރަށް ހިނގަމުން ބުންޏެވެ.",
+     "narration_english": "I've checked pretty much all the shops on most of the islands around here. But there's no watch of that brand,\" Ali said, keeping pace with Ahlam.",
+     "crop": "tight",
+     "motion": "static drift",
+     "sfx": [
+      {
+       "name": "footsteps_pavement",
+       "atMs": 316391,
+       "gainDb": -24,
+       "word": "ހިނގަމުން"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      2.1,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_037",
+     "startMs": 317411,
+     "endMs": 328051,
+     "narration_dhivehi": "\"ބަލަންވީ ހަމަ އެކަނި މި ހިސާބުގެ ރަށްތަކެއް އެކަންޏެއް ނޫން. ހުރިހާ ހިސާބެއް ބަލާ ފާސްކުރޭ. ވަރަށް މުހިއްމު އެ ގަނޑީގެ ހަގީގަތް ހޯދަން.\" ވިސްނާލަމުން އަހްލަމް ބުންޏެވެ.",
+     "narration_english": "\"Don't check only the islands around here. Check every area. It's very important to find the truth about that watch,\" Ahlam said, thinking.",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_038",
+     "startMs": 328051,
+     "endMs": 336652,
+     "narration_dhivehi": "އޭނާގެ ބޮލަށް އުދަގޫ ކުރުވަނި ކަމަކަށް ވެފައިވާ ކަމެއްގެ ހަގީގަތް ހޯދަން އޭނަ ބޭނުންވެއެވެ. \"އެއީ ކޮންތާކުން ބޮސްއަށް ފެނުނު ގަޑިއެއްތޯ؟\"",
+     "narration_english": "He wanted to find the truth of something that had become a headache for him. \"Where did the boss find that watch?\"",
+     "crop": "medium",
+     "motion": "pan left",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      0.0,
+      0.0,
+      71.5,
+      84.7
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Ahlam; reference image 2 is Ali), create a new scene: Cinematic semi-realistic digital illustration with a dark, tense island mystery-thriller look: stormy charcoal skies, deep blue-black night shadows, warm ember-orange and amber highlights from lamps, lightning and sunset, rain-slick surfaces at night; bright but slightly desaturated turquoise-and-sand tropical daylight at the resort and on the island; gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, desk top, sand path, wet road, water, soft shadow) for captions and a logo\nScene: Ahlam and Ali walking side by side along a palm-shaded sand path, Ahlam slightly ahead with a frown of concentration, looking straight ahead; Ali keeping pace beside him, glancing at his tablet and then curiously at Ahlam; long morning shadows on the white sand. Location: a shaded wooden walkway in front of a row of resort guest rooms with dark wooden doors, potted palms and frangipani trees, a white-sand path and the lagoon glinting beyond. Camera: medium wide tracking shot from the front, eye level.\nCharacters: Ahlam: a tall broad-shouldered Maldivian man of about 32 with warm brown skin, a strong handsome face, intense deep-set dark eyes under heavy brows, a straight prominent nose, thick wavy black hair and a full neatly kept black beard; wears a fitted black long-sleeved button shirt with the sleeves rolled to the forearms, charcoal trousers and a dark leather-strap wristwatch. Ali: a slightly chubby Maldivian man of about 40 with warm brown skin, a round friendly face, rectangular thin-framed glasses, a neat short moustache and short side-parted black hair; wears a white long-sleeved shirt with a navy tie and dark-grey trousers, holding a tablet in a dark case.\nMood/lighting: bright tropical morning, dappled sunlight through palms, slightly desaturated turquoise-and-sand palette, light and calm.\nModest Maldivian clothing (every woman in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck, also at home and at night; men fully clothed in shirts and long trousers or a sarong, never shirtless), no kissing, no embracing, no physical touch between a man and a woman, culturally respectful, no violence shown, no dead body, no falling person, no injuries, no bruises, no blood, no weapons, no alcohol, no smoking, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.504,
+    "halo": true
+   },
+   "focus": {
+    "x_pct": 31.8,
+    "y_pct": 18.8,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_013",
+   "startMs": 336652,
+   "endMs": 372853,
+   "new_image_reason": "emotional change: Ahlam threatens Ali, who panics",
+   "characters": [
+    "ali",
+    "ahlam"
+   ],
+   "location": "a shaded wooden walkway in front of a row of resort guest rooms with dark wooden doors, potted palms and frangipani trees, a white-sand path and the lagoon glinting beyond",
+   "location_key": "walkway",
+   "mood": "bright tropical morning, dappled sunlight through palms, slightly desaturated turquoise-and-sand palette, light and calm",
+   "visual": "Ali stopping on the path, flustered, eyes wide behind his glasses, one hand raised in a quick 'no, no' gesture, clutching his tablet to his chest; Ahlam already walking away a step ahead, half turned back with a stern, unsmiling face",
+   "camera": "medium shot, eye level, Ali in the foreground",
+   "image": "images/beat_013.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "resort_day",
+   "shots": [
+    {
+     "id": "shot_039",
+     "startMs": 336652,
+     "endMs": 344292,
+     "narration_dhivehi": "ޝައުގުވެރިކަން ފާޅުކުރަމުން ޢަލީ އަހައިލިއެވެ. \"މާގިނަ ވާހަކަ ނުދައްކާ. އަލީ އާއި ހަވާލުކުރި މަސައްކަތް ކުރޭ.",
+     "narration_english": "Ali asked, his curiosity showing. \"Don't talk so much. Do the work given to Ali.",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_040",
+     "startMs": 344292,
+     "endMs": 353492,
+     "narration_dhivehi": "7 ދުވަސް ތެރޭގައި ގަޑީގެ ހުރިހާ ތަފްސީލެއް އަހަރެންނަށް ގެނެސް ދޭން ޖެހޭނެ. އެހެން ނޫނީ ބަސް މަދު މަސައްކަތް ކުރާ މީހަކަށް ވަޒީފާ ބަދަލު ކުރާނަން.\"",
+     "narration_english": "Within seven days you must bring me every detail about the watch. Otherwise I'll give the job to someone who works with fewer words.\"",
+     "crop": "tight",
+     "motion": "pan right",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      1.9,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_041",
+     "startMs": 353492,
+     "endMs": 363083,
+     "narration_dhivehi": "ކުރިޔަށް ދަމުން އަހްލަމް ބުންޏެވެ. އޭނާ ބޭނުންވީ ޢަލީއަށް ބިރުދައްކާލާށެވެ. \"ނޫން ނޫން ބޮސް. އަޅުގަނޑު މި ކުރަނީ.\" އަވަސް އަވަހަށް ޢަލީ ބުންޏެވެ.",
+     "narration_english": "Ahlam said, walking ahead. He wanted to scare Ali. \"No, no, boss. I'm doing it,\" Ali said quickly.",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [
+      {
+       "name": "gasp",
+       "atMs": 361253,
+       "gainDb": -22,
+       "word": "އަވަސް"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_042",
+     "startMs": 363083,
+     "endMs": 372853,
+     "narration_dhivehi": "ހީވީ އޭނާގެ ނޭވާ ހޮޅިއަށް އެޅުނުހެނެވެ. އެ ވަޒީފާއަކީ އޭނަ ވަރަށް ލޯބިވާ ވަޒީފާއެކެވެ. އޭނަގެ އުމުރު ހޭދަވެގެން އެ ދަނީ އެ ރިސޯޓްގައި އެ ވަޒީފާގައެވެ.",
+     "narration_english": "It felt as if his breath had caught in his throat. That job was one he dearly loved. He had spent his life in that job at that resort.",
+     "crop": "medium",
+     "motion": "pan up",
+     "sfx": [
+      {
+       "name": "breath",
+       "atMs": 364213,
+       "gainDb": -22,
+       "word": "ނޭވާ"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      0.0,
+      0.0,
+      71.5,
+      84.7
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Ali; reference image 2 is Ahlam), create a new scene: Cinematic semi-realistic digital illustration with a dark, tense island mystery-thriller look: stormy charcoal skies, deep blue-black night shadows, warm ember-orange and amber highlights from lamps, lightning and sunset, rain-slick surfaces at night; bright but slightly desaturated turquoise-and-sand tropical daylight at the resort and on the island; gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, desk top, sand path, wet road, water, soft shadow) for captions and a logo\nScene: Ali stopping on the path, flustered, eyes wide behind his glasses, one hand raised in a quick 'no, no' gesture, clutching his tablet to his chest; Ahlam already walking away a step ahead, half turned back with a stern, unsmiling face. Location: a shaded wooden walkway in front of a row of resort guest rooms with dark wooden doors, potted palms and frangipani trees, a white-sand path and the lagoon glinting beyond. Camera: medium shot, eye level, Ali in the foreground.\nCharacters: Ali: a slightly chubby Maldivian man of about 40 with warm brown skin, a round friendly face, rectangular thin-framed glasses, a neat short moustache and short side-parted black hair; wears a white long-sleeved shirt with a navy tie and dark-grey trousers, holding a tablet in a dark case. Ahlam: a tall broad-shouldered Maldivian man of about 32 with warm brown skin, a strong handsome face, intense deep-set dark eyes under heavy brows, a straight prominent nose, thick wavy black hair and a full neatly kept black beard; wears a fitted black long-sleeved button shirt with the sleeves rolled to the forearms, charcoal trousers and a dark leather-strap wristwatch.\nMood/lighting: bright tropical morning, dappled sunlight through palms, slightly desaturated turquoise-and-sand palette, light and calm.\nModest Maldivian clothing (every woman in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck, also at home and at night; men fully clothed in shirts and long trousers or a sarong, never shirtless), no kissing, no embracing, no physical touch between a man and a woman, culturally respectful, no violence shown, no dead body, no falling person, no injuries, no bruises, no blood, no weapons, no alcohol, no smoking, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.464,
+    "halo": true
+   },
+   "focus": {
+    "x_pct": 31.6,
+    "y_pct": 32.9,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_014",
+   "startMs": 372853,
+   "endMs": 397714,
+   "new_image_reason": "location and character change: Malak at a canteen table with juice and her laptop",
+   "characters": [
+    "malak"
+   ],
+   "location": "the staff canteen terrace, wooden tables, sea view, palms",
+   "location_key": "canteen",
+   "mood": "bright tropical late morning, sunlight on the sea, soft shade under the terrace roof, slightly desaturated turquoise-and-sand palette, quiet sadness under a light surface",
+   "visual": "Malak sitting alone at a wooden table on the canteen terrace, a glass of orange juice beside her open laptop, looking at the screen with a weary, closed expression, the sea and palms bright behind her",
+   "camera": "medium shot, eye level, the table top as a calm lower third",
+   "image": "images/beat_014.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "cafe",
+   "shots": [
+    {
+     "id": "shot_043",
+     "startMs": 372853,
+     "endMs": 380383,
+     "narration_dhivehi": "އޭނަޔަކީ މަސައްކަތް ތެރިކަމާއި އެއްވަރަށް ހިތްހެޔޮ މިޒާޖެއްގެ ވެރިއެއް ވެސް މެއެވެ. މަލަކް ޖޫސްތަށިން އެތިފޮދެއް ބޯލާފައި ބެހެއްޓިއެވެ.",
+     "narration_english": "He was a man as kind-hearted as he was hardworking. Malak took a sip from her glass of juice and set it down.",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [
+      {
+       "name": "cup_clatter",
+       "atMs": 379853,
+       "gainDb": -22,
+       "word": "ބެހެއްޓިއެވެ."
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_044",
+     "startMs": 380383,
+     "endMs": 390244,
+     "narration_dhivehi": "އަދި ކުރިމަތީގައި ހުރި ލެޕުން އެއްޗެއް ބަލަމުން ދިޔައެވެ. އައިސްފައިވާ މެއިލްތައް ޗެކް ކުރަމުން ދިޔައެވެ. އޭނާގެ މެއިލްތައް ބަލާނުލާތާ ވެސް ހަފްތާއެއް ވީއެވެ.",
+     "narration_english": "Then she looked at something on the laptop in front of her. She went through the emails that had come in. It had been a week since she last checked them.",
+     "crop": "tight",
+     "motion": "pan down",
+     "sfx": [
+      {
+       "name": "keyboard_typing",
+       "atMs": 385834,
+       "gainDb": -24,
+       "word": "ޗެކް"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      18.0,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_045",
+     "startMs": 390244,
+     "endMs": 397714,
+     "narration_dhivehi": "ކިޔާރާގެ މެއިލެއް އައިސްފައި އޮތެވެ. މަލަކް ދެ ލޯ އަޅާލިއެވެ. އޭނާ ހަގީގަތުގައި އެމެއިލް ކިޔާކަށް ބޭނުމެއް ނޫނެވެ.",
+     "narration_english": "There was an email from Kiyaara. Malak closed her eyes. She did not really want to read that email.",
+     "crop": "full",
+     "motion": "static drift",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Malak), create a new scene: Cinematic semi-realistic digital illustration with a dark, tense island mystery-thriller look: stormy charcoal skies, deep blue-black night shadows, warm ember-orange and amber highlights from lamps, lightning and sunset, rain-slick surfaces at night; bright but slightly desaturated turquoise-and-sand tropical daylight at the resort and on the island; gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, desk top, sand path, wet road, water, soft shadow) for captions and a logo\nScene: Malak sitting alone at a wooden table on the canteen terrace, a glass of orange juice beside her open laptop, looking at the screen with a weary, closed expression, the sea and palms bright behind her. Location: the staff canteen terrace, wooden tables, sea view, palms. Camera: medium shot, eye level, the table top as a calm lower third.\nCharacters: Malak: a slim Maldivian woman of about 24 with warm brown skin, a striking oval face, large dark almond eyes, defined dark eyebrows and full lips, a guarded serious expression; wears a loose long-sleeved ankle-length deep wine-maroon kurta tunic over loose black trousers and a plain black hijab wrapped snugly and fully covering her hair and neck, a slim silver wristwatch.\nMood/lighting: bright tropical late morning, sunlight on the sea, soft shade under the terrace roof, slightly desaturated turquoise-and-sand palette, quiet sadness under a light surface.\nModest Maldivian clothing (every woman in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck, also at home and at night; men fully clothed in shirts and long trousers or a sarong, never shirtless), no kissing, no embracing, no physical touch between a man and a woman, culturally respectful, no violence shown, no dead body, no falling person, no injuries, no bruises, no blood, no weapons, no alcohol, no smoking, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.293,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 47.8,
+    "y_pct": 31.8,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_015",
+   "startMs": 397714,
+   "endMs": 435215,
+   "new_image_reason": "detail change: the email from Kiyaara on her screen",
+   "characters": [
+    "malak"
+   ],
+   "location": "the staff canteen terrace, wooden tables, sea view, palms",
+   "location_key": "canteen",
+   "mood": "bright tropical late morning, sunlight on the sea, soft shade under the terrace roof, slightly desaturated turquoise-and-sand palette, quiet sadness under a light surface",
+   "visual": "over Malak's shoulder: her black hijab and maroon sleeve in the foreground, the open laptop screen showing only a blurred glowing white rectangle with soft grey bars (nothing readable), her slim silver watch on the wrist at the keyboard; the bright sea out of focus beyond",
+   "camera": "over-the-shoulder close-up",
+   "image": "images/beat_015.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": "other",
+   "safe_substitution": "emails are blurred glowing screens with no readable text; Kiyaara is never shown",
+   "ambience": "cafe",
+   "shots": [
+    {
+     "id": "shot_046",
+     "startMs": 397714,
+     "endMs": 407974,
+     "narration_dhivehi": "ވީފޫހި އޭނާގެ މޫނުމަތިން ސާފުކޮށް ފެންނަމުން ދިޔައެވެ. އެ ކަމަކުވެސް ކިޔާރާ ކަނޑާފައިވާ ފޮނި ބަލާލަން ބޭނުވެއެވެ. \"ހައި މަލަކް. ކޮބާ އަދި ވެސް މަސައްކަތް ނުނިމޭތަ؟",
+     "narration_english": "Weariness showed plainly on her face. Even so, she wanted to see what sweet nothings Kiyaara had written. \"Hi Malak. Still not done with work?",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_047",
+     "startMs": 407974,
+     "endMs": 417345,
+     "narration_dhivehi": "ނޯ ޗުއްޓީ. އަހަރެން ވަރަށްގުޅައި ފިން. ޔޫގެ ފޯނު އޮތީ އޮފް ކޮށްލާފައި. ފޯނަށް ކިހިނެއް ހަދައިގެން ތި އުޅެނީ. ޕުލީޒް ގުޅާލަބަލަ.",
+     "narration_english": "No holiday? I called you so many times. Your phone's switched off. What are you doing with your phone? Please call.",
+     "crop": "tight",
+     "motion": "pan left",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      20.3,
+      4.8,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_048",
+     "startMs": 417345,
+     "endMs": 426255,
+     "narration_dhivehi": "ވަރަށް މިސްވޭ، ކީއްވެ ޒައިންގެ ބާތްޑޭ ޕާޓީއަށް ނައީ. ޒައިން ހުރީ ވަރަށް ދެރަވެފައި. މަލަކް ޒައިން ދެކެ ރުޅިއައިސްގެންތަ ތި އުޅެނީ؟",
+     "narration_english": "Miss you so much. Why didn't you come to Zain's birthday party? Zain is really upset. Are you angry with Zain?",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_049",
+     "startMs": 426255,
+     "endMs": 435215,
+     "narration_dhivehi": "ޒައިން ބުނި ގުޅީމައި ފޯނު ނުނަގާ ވާހަކަ. ޒައިނަށް އަޅެ ބިޒީއަސް މެސެޖެއް ނަމަވެސް ކޮށްލައްޗޭ. އިނގޭ. ލަވްޔޫ މިސްޔޫ ބޮޑުކޮށް ބެސްޓީ.\"",
+     "narration_english": "Zain says you don't pick up when he calls. At least send Zain a message even if you're busy. OK? Love you, miss you lots, bestie.\"",
+     "crop": "medium",
+     "motion": "pan right",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      14.2,
+      0.0,
+      71.5,
+      84.7
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Malak), create a new scene: Cinematic semi-realistic digital illustration with a dark, tense island mystery-thriller look: stormy charcoal skies, deep blue-black night shadows, warm ember-orange and amber highlights from lamps, lightning and sunset, rain-slick surfaces at night; bright but slightly desaturated turquoise-and-sand tropical daylight at the resort and on the island; gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, desk top, sand path, wet road, water, soft shadow) for captions and a logo\nScene: over Malak's shoulder: her black hijab and maroon sleeve in the foreground, the open laptop screen showing only a blurred glowing white rectangle with soft grey bars (nothing readable), her slim silver watch on the wrist at the keyboard; the bright sea out of focus beyond. Location: the staff canteen terrace, wooden tables, sea view, palms. Camera: over-the-shoulder close-up.\nCharacters: Malak: a slim Maldivian woman of about 24 with warm brown skin, a striking oval face, large dark almond eyes, defined dark eyebrows and full lips, a guarded serious expression; wears a loose long-sleeved ankle-length deep wine-maroon kurta tunic over loose black trousers and a plain black hijab wrapped snugly and fully covering her hair and neck, a slim silver wristwatch.\nMood/lighting: bright tropical late morning, sunlight on the sea, soft shade under the terrace roof, slightly desaturated turquoise-and-sand palette, quiet sadness under a light surface.\nModest Maldivian clothing (every woman in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck, also at home and at night; men fully clothed in shirts and long trousers or a sarong, never shirtless), no kissing, no embracing, no physical touch between a man and a woman, culturally respectful, no violence shown, no dead body, no falling person, no injuries, no bruises, no blood, no weapons, no alcohol, no smoking, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.083,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 50.0,
+    "y_pct": 40.0,
+    "face_detected": false
+   }
+  },
+  {
+   "id": "beat_016",
+   "startMs": 435215,
+   "endMs": 452456,
+   "new_image_reason": "emotional turning point: Malak squeezes her eyes shut, a tear falls",
+   "characters": [
+    "malak"
+   ],
+   "location": "the staff canteen terrace, wooden tables, sea view, palms",
+   "location_key": "canteen",
+   "mood": "bright tropical late morning, sunlight on the sea, soft shade under the terrace roof, slightly desaturated turquoise-and-sand palette, quiet sadness under a light surface",
+   "visual": "close-up of Malak at the canteen table, eyes squeezed shut, a single tear running down her cheek, quickly lifting her fingertips to wipe it away, her black hijab fully covering hair and neck, sunlit sea blurred behind",
+   "camera": "close-up, eye level",
+   "image": "images/beat_016.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "cafe",
+   "shots": [
+    {
+     "id": "shot_050",
+     "startMs": 435215,
+     "endMs": 442326,
+     "narration_dhivehi": "މަލަކް މެއިން ކިޔާލާފައި ކުރިޔަށް ވުރެން ބޮޑަށް ދެ ލޯ އަޅާލިއެވެ. ހަމަ އެހިނދު އޭނާގެ ލޮލުން ކަރުނަ ބޯ ދިއްކޮށްލިއެވެ.",
+     "narration_english": "After reading the mail Malak shut her eyes even tighter than before. At that very moment a big tear dropped from her eye.",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [
+      {
+       "name": "sob_breath",
+       "atMs": 440936,
+       "gainDb": -24,
+       "word": "ކަރުނަ"
+      }
+     ],
+     "hum": true,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_051",
+     "startMs": 442326,
+     "endMs": 452456,
+     "narration_dhivehi": "މީހުންނަށް ފެނިދާނެތީ އަވަސް އަވަހަށް ލޮލުން އަނަމުން ދިޔަ ކަރުނަ ފުހެލިއެވެ. އަނެއްކާ ވެސް ދެން އޮތް މެއިލް ހުޅުވާލިއެވެ. ނާއިފްގެ މެއިލް އެކެވެ. \"ދޮން ކޮންތާކު؟",
+     "narration_english": "Afraid people would see, she quickly wiped the tears from her eyes. Then she opened the next mail. It was from Naaif. \"Don, where are you?",
+     "crop": "tight",
+     "motion": "pan up",
+     "sfx": [
+      {
+       "name": "keyboard_typing",
+       "atMs": 448776,
+       "gainDb": -24,
+       "word": "ހުޅުވާލިއެވެ."
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      17.6,
+      0.4,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Malak), create a new scene: Cinematic semi-realistic digital illustration with a dark, tense island mystery-thriller look: stormy charcoal skies, deep blue-black night shadows, warm ember-orange and amber highlights from lamps, lightning and sunset, rain-slick surfaces at night; bright but slightly desaturated turquoise-and-sand tropical daylight at the resort and on the island; gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, desk top, sand path, wet road, water, soft shadow) for captions and a logo\nScene: close-up of Malak at the canteen table, eyes squeezed shut, a single tear running down her cheek, quickly lifting her fingertips to wipe it away, her black hijab fully covering hair and neck, sunlit sea blurred behind. Location: the staff canteen terrace, wooden tables, sea view, palms. Camera: close-up, eye level.\nCharacters: Malak: a slim Maldivian woman of about 24 with warm brown skin, a striking oval face, large dark almond eyes, defined dark eyebrows and full lips, a guarded serious expression; wears a loose long-sleeved ankle-length deep wine-maroon kurta tunic over loose black trousers and a plain black hijab wrapped snugly and fully covering her hair and neck, a slim silver wristwatch.\nMood/lighting: bright tropical late morning, sunlight on the sea, soft shade under the terrace roof, slightly desaturated turquoise-and-sand palette, quiet sadness under a light surface.\nModest Maldivian clothing (every woman in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck, also at home and at night; men fully clothed in shirts and long trousers or a sarong, never shirtless), no kissing, no embracing, no physical touch between a man and a woman, culturally respectful, no violence shown, no dead body, no falling person, no injuries, no bruises, no blood, no weapons, no alcohol, no smoking, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.148,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 47.3,
+    "y_pct": 35.6,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_017",
+   "startMs": 452456,
+   "endMs": 481527,
+   "new_image_reason": "return to Malak at her table: Naaif's email, she frowns and sips juice",
+   "characters": [],
+   "location": "the staff canteen terrace, wooden tables, sea view, palms",
+   "location_key": "canteen",
+   "mood": "bright tropical late morning, sunlight on the sea, soft shade under the terrace roof, slightly desaturated turquoise-and-sand palette, quiet sadness under a light surface",
+   "visual": "reuse of Malak at the canteen table",
+   "camera": "medium shot, eye level",
+   "image": "images/beat_014.png",
+   "reuse_of": "beat_014",
+   "transition_in": "xfade",
+   "sensitive": "other",
+   "safe_substitution": "Naaif's email is not shown; only Malak's reaction",
+   "ambience": "cafe",
+   "shots": [
+    {
+     "id": "shot_052",
+     "startMs": 452456,
+     "endMs": 462166,
+     "narration_dhivehi": "ވަރަށް ގުޅައިފިން ދޮންގެ ނަމްބަރަށް. އޮފީހަށް ވެސް ވަރަށް ގުޅައިފިން. ދޮން ވަރަށް އެމެޖެންސީ ކޮށް 1000 ޑޮލާރ ބޭނުން ވެއްޖެ. ޕުލީޒް ހޯދަދީބަލަ.",
+     "narration_english": "I called your number so many times. I called the office a lot too. Don, I urgently need 1000 dollars. Please get it for me.",
+     "crop": "tight",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      18.0,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_053",
+     "startMs": 462166,
+     "endMs": 472027,
+     "narration_dhivehi": "ޕުރޮމިސް 2 މަންތްސް ތެރޭގައި ދޭނަން. ދޮންބެ ކާރީ ނުކެރޭނެ ބުނާކަން. ސުވާލު ކުރާ ވަރުން. ޕުލީޒް ދޮން ހޯދަދީބަލަ. މަންމަ ބުނީ ދޮންކައިރީ ބުނާށޯ.",
+     "narration_english": "I promise I'll give it back within two months. I don't dare tell big brother — the way he asks questions. Please get it for me, Don. Mamma said to ask you.",
+     "crop": "full",
+     "motion": "pan down",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_054",
+     "startMs": 472027,
+     "endMs": 481527,
+     "narration_dhivehi": "ޕުލީޒް ދޮން.\" މަލަކް ދެބުމަ ގޮތް ޖަހާލިއެވެ. އަދި ޖޫސްތަށިން އެތި ކޮޅެއް ބޯލިއެވެ. އެ ވަގުތު އަހްލަމާ އަލީ ރެސްޓޯރަންޓް ތެރެއަށް ވަދެގެން އައެވެ.",
+     "narration_english": "Please, Don.\" Malak frowned and drank a little more juice. Just then Ahlam and Ali came into the restaurant.",
+     "crop": "medium",
+     "motion": "static drift",
+     "sfx": [
+      {
+       "name": "footsteps_pavement",
+       "atMs": 480257,
+       "gainDb": -24,
+       "word": "ވަދެގެން"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      12.0,
+      0.0,
+      71.5,
+      84.7
+     ]
+    }
+   ],
+   "prompt_attempts": [],
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.272,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 47.8,
+    "y_pct": 31.8,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_018",
+   "startMs": 481527,
+   "endMs": 524399,
+   "new_image_reason": "character change: Ahlam and Ali sit down in the canteen; Ahlam sees Malak",
+   "characters": [
+    "ahlam",
+    "ali"
+   ],
+   "location": "the staff canteen terrace, wooden tables, sea view, palms",
+   "location_key": "canteen",
+   "mood": "bright tropical late morning, sunlight on the sea, soft shade under the terrace roof, slightly desaturated turquoise-and-sand palette, quiet sadness under a light surface",
+   "visual": "Ahlam and Ali seated together at a wooden table on the canteen terrace, Ahlam leaning slightly forward, looking intently across the terrace past the camera with a careful searching look; Ali beside him leaning in, grinning and talking out of the side of his mouth, his tablet on the table",
+   "camera": "medium two-shot, eye level",
+   "image": "images/beat_018.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "cafe",
+   "shots": [
+    {
+     "id": "shot_055",
+     "startMs": 481527,
+     "endMs": 490307,
+     "narration_dhivehi": "މޭޒެއްގެ ދޮށުގައި އިށީންނަމުން ވަށައިގެން ބަލައިލިއެވެ. އަހްލަމަށް މަލަކް ފެނުމުން ލޮލުގައި އޮތް އައިނު ނަގާ ފަރުވާތެރިކަމާއި އެކީގައި ބަލާލިއެވެ.",
+     "narration_english": "Sitting down at a table, they looked around. When Ahlam saw Malak, he took off the glasses he was wearing and looked at her carefully.",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [
+      {
+       "name": "cloth_rustle",
+       "atMs": 482577,
+       "gainDb": -24,
+       "word": "އިށީންނަމުން"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_056",
+     "startMs": 490307,
+     "endMs": 497948,
+     "narration_dhivehi": "ރޭގައި އޮފީސް ތެރޭން އޭނާގެ ސޫރަ ރީތިކޮށް ނުފެނެއެވެ. ދެންމެ ވެސް އަހްލަމަށް ފެނުނީ މަލަކްގެ ފުރަގަހުންނެވެ. \"އެއީ މަލަކް.",
+     "narration_english": "In the office at night he hadn't seen her face properly. Just now too he had only seen Malak from behind. \"That's Malak.",
+     "crop": "tight",
+     "motion": "pan left",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      2.4,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_057",
+     "startMs": 497948,
+     "endMs": 505918,
+     "narration_dhivehi": "މިހާރު ހަދަމުންދާ ރިސޯޓްގެ ބޮސްގެ ސެކެޓްޓްރީ.\" ސަމާސާ ރާގަކަށް ޢަލީ ބުނެލިއެވެ. \"ކޮންއިރަކު ހަމަޖެއްސީ އަހަރެންނަށް ނޭނގި،",
+     "narration_english": "The secretary to the boss of the resort now being built,\" Ali said jokingly. \"When was that arranged without my knowing?",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_058",
+     "startMs": 505918,
+     "endMs": 516698,
+     "narration_dhivehi": "ތި ގޮތައް އަހަރެންގެ ސެކެޓްރީ ބަދަލު ކުރެވޭތަ؟\" އަހްލަމް ފަރުވާ ކުޑަރާގަކަށް އަހައިލިއެވެ. \"އަޅުގަނޑު ވެސް އުޅޭނަމޭ އެކަމަކު އެ ރިސޯޓްގެ ކަންތައް ބޮޑަށް އެނގޭނީ މަލަކަށް.",
+     "narration_english": "Can you change my secretary just like that?\" Ahlam asked carelessly. \"I'll be there too, but Malak is the one who knows most about that resort's affairs.",
+     "crop": "medium",
+     "motion": "pan right",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      0.0,
+      0.0,
+      71.5,
+      84.7
+     ]
+    },
+    {
+     "id": "shot_059",
+     "startMs": 516698,
+     "endMs": 524399,
+     "narration_dhivehi": "އަނެއްކާ މަލަކް ވަރަށް މަސައްކަތް ތެރިވާނެ އެ ވާހަކަ އަޅުގަނޑު ދެންމެއަކުވެސް ނަންގަތީމެއް ނޫންތޯ.\" ޢަލީ ބުންޏެވެ.",
+     "narration_english": "And Malak is very hardworking — didn't I just tell you that?\" Ali said.",
+     "crop": "tight",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      2.4,
+      0.0,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Ahlam; reference image 2 is Ali), create a new scene: Cinematic semi-realistic digital illustration with a dark, tense island mystery-thriller look: stormy charcoal skies, deep blue-black night shadows, warm ember-orange and amber highlights from lamps, lightning and sunset, rain-slick surfaces at night; bright but slightly desaturated turquoise-and-sand tropical daylight at the resort and on the island; gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, desk top, sand path, wet road, water, soft shadow) for captions and a logo\nScene: Ahlam and Ali seated together at a wooden table on the canteen terrace, Ahlam leaning slightly forward, looking intently across the terrace past the camera with a careful searching look; Ali beside him leaning in, grinning and talking out of the side of his mouth, his tablet on the table. Location: the staff canteen terrace, wooden tables, sea view, palms. Camera: medium two-shot, eye level.\nCharacters: Ahlam: a tall broad-shouldered Maldivian man of about 32 with warm brown skin, a strong handsome face, intense deep-set dark eyes under heavy brows, a straight prominent nose, thick wavy black hair and a full neatly kept black beard; wears a fitted black long-sleeved button shirt with the sleeves rolled to the forearms, charcoal trousers and a dark leather-strap wristwatch. Ali: a slightly chubby Maldivian man of about 40 with warm brown skin, a round friendly face, rectangular thin-framed glasses, a neat short moustache and short side-parted black hair; wears a white long-sleeved shirt with a navy tie and dark-grey trousers, holding a tablet in a dark case.\nMood/lighting: bright tropical late morning, sunlight on the sea, soft shade under the terrace roof, slightly desaturated turquoise-and-sand palette, quiet sadness under a light surface.\nModest Maldivian clothing (every woman in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck, also at home and at night; men fully clothed in shirts and long trousers or a sarong, never shirtless), no kissing, no embracing, no physical touch between a man and a woman, culturally respectful, no violence shown, no dead body, no falling person, no injuries, no bruises, no blood, no weapons, no alcohol, no smoking, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.21,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 32.1,
+    "y_pct": 33.3,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_019",
+   "startMs": 524399,
+   "endMs": 552430,
+   "new_image_reason": "viewpoint change: over Ahlam's shoulder toward Malak far across the terrace",
+   "characters": [
+    "ahlam",
+    "malak"
+   ],
+   "location": "the staff canteen terrace, wooden tables, sea view, palms",
+   "location_key": "canteen",
+   "mood": "bright tropical late morning, sunlight on the sea, soft shade under the terrace roof, slightly desaturated turquoise-and-sand palette, quiet sadness under a light surface",
+   "visual": "over Ahlam's shoulder (the back of his head and black shirt blurred in the foreground): across the sunny canteen terrace, several tables away, Malak sitting alone at her laptop in her black hijab and maroon kurta, small in the frame, the sea behind her; a wide empty space between them",
+   "camera": "over-the-shoulder long shot",
+   "image": "images/beat_019.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": "intimacy",
+   "safe_substitution": "attraction shown only as a distant gaze across the canteen (rule 11)",
+   "ambience": "cafe",
+   "shots": [
+    {
+     "id": "shot_060",
+     "startMs": 524399,
+     "endMs": 534939,
+     "narration_dhivehi": "\"މަސައްކަތް ހިނގަމުންދާ ސައިޓަށް އަންހެން ކުއްޖަކު ކަމުދާނެތަ؟ އެ ތަނުގައި އުޅޭނީ ހުސްފިރިހެނުން. އެއީ އަންހެންކުއްޖެއް.\" އަހްލަމް މަލަކަށް ބަލަން އިނދެގެން ބުންޏެވެ.",
+     "narration_english": "\"Will a girl suit a site where work is going on? Only men work there. She's a girl,\" Ahlam said, looking at Malak.",
+     "crop": "full",
+     "motion": "pan up",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_061",
+     "startMs": 534939,
+     "endMs": 543399,
+     "narration_dhivehi": "\"އެ ތަނުގައި އަންހެން ކުދިން ވެސް އުޅޭ. އެހެން ނޫނަސް މަލަކް ދަނީ އެޑްމިންގެ ފަރާތުން އެ ތަނުގެ އޮފީހަށް އެކަމަކު ބޮސްގެ ސެކެޓްރީ އަކަށް.",
+     "narration_english": "\"Girls work there too. Besides, Malak would go from Admin to that project's office, as the boss's secretary.",
+     "crop": "tight",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      20.3,
+      4.8,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_062",
+     "startMs": 543399,
+     "endMs": 552430,
+     "narration_dhivehi": "ސައިޓަކަށް ނިކުންނާކަށް ނުޖެހޭނެ. ބޮސް ހަވާލުކުރާ މަސައްކަތެއް އޭނަ ކުރާނީ.\" ޢަލީގެ ތުންފަތް މަތިން ފެންނަމުން ދިޔައީ ލާނެއް ހިނިތުންވުމެކެވެ.",
+     "narration_english": "She won't have to go out on site. She'll do whatever work the boss gives her.\" A mischievous smile showed on Ali's lips.",
+     "crop": "full",
+     "motion": "pan down",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Ahlam; reference image 2 is Malak), create a new scene: Cinematic semi-realistic digital illustration with a dark, tense island mystery-thriller look: stormy charcoal skies, deep blue-black night shadows, warm ember-orange and amber highlights from lamps, lightning and sunset, rain-slick surfaces at night; bright but slightly desaturated turquoise-and-sand tropical daylight at the resort and on the island; gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, desk top, sand path, wet road, water, soft shadow) for captions and a logo\nScene: over Ahlam's shoulder (the back of his head and black shirt blurred in the foreground): across the sunny canteen terrace, several tables away, Malak sitting alone at her laptop in her black hijab and maroon kurta, small in the frame, the sea behind her; a wide empty space between them. Location: the staff canteen terrace, wooden tables, sea view, palms. Camera: over-the-shoulder long shot.\nCharacters: Ahlam: a tall broad-shouldered Maldivian man of about 32 with warm brown skin, a strong handsome face, intense deep-set dark eyes under heavy brows, a straight prominent nose, thick wavy black hair and a full neatly kept black beard; wears a fitted black long-sleeved button shirt with the sleeves rolled to the forearms, charcoal trousers and a dark leather-strap wristwatch. Malak: a slim Maldivian woman of about 24 with warm brown skin, a striking oval face, large dark almond eyes, defined dark eyebrows and full lips, a guarded serious expression; wears a loose long-sleeved ankle-length deep wine-maroon kurta tunic over loose black trousers and a plain black hijab wrapped snugly and fully covering her hair and neck, a slim silver wristwatch.\nMood/lighting: bright tropical late morning, sunlight on the sea, soft shade under the terrace roof, slightly desaturated turquoise-and-sand palette, quiet sadness under a light surface.\nModest Maldivian clothing (every woman in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck, also at home and at night; men fully clothed in shirts and long trousers or a sarong, never shirtless), no kissing, no embracing, no physical touch between a man and a woman, culturally respectful, no violence shown, no dead body, no falling person, no injuries, no bruises, no blood, no weapons, no alcohol, no smoking, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.047,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 50.0,
+    "y_pct": 40.0,
+    "face_detected": false
+   }
+  },
+  {
+   "id": "beat_020",
+   "startMs": 552430,
+   "endMs": 598101,
+   "new_image_reason": "emotional change: Ahlam glares at Ali's teasing, Ali apologises",
+   "characters": [
+    "ahlam",
+    "ali"
+   ],
+   "location": "the staff canteen terrace, wooden tables, sea view, palms",
+   "location_key": "canteen",
+   "mood": "bright tropical late morning, sunlight on the sea, soft shade under the terrace roof, slightly desaturated turquoise-and-sand palette, quiet sadness under a light surface",
+   "visual": "at the canteen table: Ahlam frowning with drawn brows, fixing Ali with a hard sideways glare; Ali leaning back with both palms raised in apology, a guilty sheepish grin behind his glasses",
+   "camera": "medium two-shot, eye level",
+   "image": "images/beat_020.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "cafe",
+   "shots": [
+    {
+     "id": "shot_063",
+     "startMs": 552430,
+     "endMs": 562260,
+     "narration_dhivehi": "އަހްލަމް ވިސްނާލިއެވެ. \"އަހަރެންނާ ދިމާކުރަނީތަ؟\" އަހްލަމް ދެ ބުމަ ގާތް ކޮށްލަމުން އަހައިލިއެވެ. ޢަލީއަކީ ލާނެއް މީހެއްކަން އޭނާއަށް އެނގޭތީއެވެ. \"ނޫން.",
+     "narration_english": "Ahlam thought for a moment. \"Are you teasing me?\" Ahlam asked, drawing his brows together, because he knew Ali was a mischievous man. \"No.",
+     "crop": "full",
+     "motion": "static drift",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_064",
+     "startMs": 562260,
+     "endMs": 571350,
+     "narration_dhivehi": "ބޮސް. ދިމާކުރަން އަޅުގަނޑު މިއީ ކާކުތޯ؟ އެހެން ނޫނަސް މިކަހަލަ ފުރުޞަތެއް ލިބޭނީ މަދު ފަހަރަކު. މިއީ ނަސީބު ކަމަށް ހީކޮށްލާ.",
+     "narration_english": "Boss. Who am I to tease you? Besides, a chance like this comes only rarely. Think of it as luck.",
+     "crop": "tight",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      0.0,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_065",
+     "startMs": 571350,
+     "endMs": 580301,
+     "narration_dhivehi": "މަލަކް އެއީ އެ ރަށުގައި ވެސް ރީތިކަމަށް ނަން މަޝްހޫރު ކުއްޖެއް. އަދި ހުރީ ހުހަށް، ރައްޓެހިވެގެން އުޅޭ ކުއްޖާއާއި މާބޮޑު ގުޅުމެއް މިހާރަކު ނޯވޭ.\"",
+     "narration_english": "Malak is a girl famous for her beauty even on her island. And she's single; she's not that close any more with the boy she was going around with.\"",
+     "crop": "full",
+     "motion": "pan left",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_066",
+     "startMs": 580301,
+     "endMs": 590871,
+     "narration_dhivehi": "ޢަލީގެ އަޑުގައިވަނީ ސަމާސާ ގޮތެވެ. އަހްލަމް ޢަލީއަށް ދެ ލޯ އަޅާލިއެވެ. \"މިތަނަށް އައީ މަސައްކަތް ކުރަންތަ؟ ނޫނީ...\" އަހްލަމް ދެ ލޯ އަޅައިލިއެވެ. \"ސޮރީ ބޮސް.",
+     "narration_english": "There was a joking tone in Ali's voice. Ahlam glared at Ali. \"Did you come here to work? Or...\" Ahlam narrowed his eyes. \"Sorry, boss.",
+     "crop": "medium",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      0.0,
+      0.0,
+      71.5,
+      84.7
+     ]
+    },
+    {
+     "id": "shot_067",
+     "startMs": 590871,
+     "endMs": 598101,
+     "narration_dhivehi": "ދެން ނުބުނާނަން. ބޮސް ހުހަށް ހުރީމައި ރަނގަޅު ކުއްޖަކު ހޯދަދޭން އުޅުނީ. ސޮރީ.\" ޢަލީ އަވަސް އަވަހަށް ބުންޏެވެ.",
+     "narration_english": "I won't say it again. Since the boss is single, I was just trying to find you a good girl. Sorry,\" Ali said quickly.",
+     "crop": "tight",
+     "motion": "pan right",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      0.0,
+      0.0,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Ahlam; reference image 2 is Ali), create a new scene: Cinematic semi-realistic digital illustration with a dark, tense island mystery-thriller look: stormy charcoal skies, deep blue-black night shadows, warm ember-orange and amber highlights from lamps, lightning and sunset, rain-slick surfaces at night; bright but slightly desaturated turquoise-and-sand tropical daylight at the resort and on the island; gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, desk top, sand path, wet road, water, soft shadow) for captions and a logo\nScene: at the canteen table: Ahlam frowning with drawn brows, fixing Ali with a hard sideways glare; Ali leaning back with both palms raised in apology, a guilty sheepish grin behind his glasses. Location: the staff canteen terrace, wooden tables, sea view, palms. Camera: medium two-shot, eye level.\nCharacters: Ahlam: a tall broad-shouldered Maldivian man of about 32 with warm brown skin, a strong handsome face, intense deep-set dark eyes under heavy brows, a straight prominent nose, thick wavy black hair and a full neatly kept black beard; wears a fitted black long-sleeved button shirt with the sleeves rolled to the forearms, charcoal trousers and a dark leather-strap wristwatch. Ali: a slightly chubby Maldivian man of about 40 with warm brown skin, a round friendly face, rectangular thin-framed glasses, a neat short moustache and short side-parted black hair; wears a white long-sleeved shirt with a navy tie and dark-grey trousers, holding a tablet in a dark case.\nMood/lighting: bright tropical late morning, sunlight on the sea, soft shade under the terrace roof, slightly desaturated turquoise-and-sand palette, quiet sadness under a light surface.\nModest Maldivian clothing (every woman in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck, also at home and at night; men fully clothed in shirts and long trousers or a sarong, never shirtless), no kissing, no embracing, no physical touch between a man and a woman, culturally respectful, no violence shown, no dead body, no falling person, no injuries, no bruises, no blood, no weapons, no alcohol, no smoking, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.383,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 28.2,
+    "y_pct": 31.3,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_021",
+   "startMs": 598101,
+   "endMs": 618432,
+   "new_image_reason": "action change: the waiter takes the order; Ahlam settles back and gazes at Malak",
+   "characters": [
+    "ahlam",
+    "ali"
+   ],
+   "location": "the staff canteen terrace, wooden tables, sea view, palms",
+   "location_key": "canteen",
+   "mood": "bright tropical late morning, sunlight on the sea, soft shade under the terrace roof, slightly desaturated turquoise-and-sand palette, quiet sadness under a light surface",
+   "visual": "a young male waiter in a sand-beige resort uniform walking away from the table with a notepad; Ahlam leaning back in his chair, his face softened, quietly gazing across the terrace with clear interest; Ali beside him watching Ahlam with a sly smirk",
+   "camera": "medium wide, eye level",
+   "image": "images/beat_021.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": "intimacy",
+   "safe_substitution": "only a look from a distance, no contact",
+   "ambience": "cafe",
+   "shots": [
+    {
+     "id": "shot_068",
+     "startMs": 598101,
+     "endMs": 608482,
+     "narration_dhivehi": "ވެއިޓަރު އެ މީހުން ކައިރިޔަށް އައިސް މަޑުކޮށްލުމުން އަހްލަމް އޯޑަރު ދިނެވެ. ވެއިޓަރު އޯޑަރުނަގައި ގެން ދިއުމުން އަހްލަމް ގޮނޑީގައި ހަމަޖެހިލަމުން މަލަކަށް ބަލާލިއެވެ.",
+     "narration_english": "When the waiter came and stood by them, Ahlam gave the order. After the waiter took the order away, Ahlam settled in his chair and looked at Malak.",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [
+      {
+       "name": "footsteps_pavement",
+       "atMs": 598461,
+       "gainDb": -24,
+       "word": "ވެއިޓަރު"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_069",
+     "startMs": 608482,
+     "endMs": 618432,
+     "narration_dhivehi": "ޢަލީއަށް އެ މަންޒަރު ފެނުމުން އަނެއްކާ ވެސް އޭނާގެ ތުންފަތް މަތިން ލާނެއް ހިނިތުން ވުމެއް ފާޅުވިއެވެ. އަހްލަމް މަލަކާ ގަޔާވީކަން އަހްލަމްގެ މޫނުމަތިން ފެންނަމުން ދިޔައެވެ.",
+     "narration_english": "Seeing that, a mischievous smile appeared on Ali's lips once again. That Ahlam liked Malak was showing on Ahlam's face.",
+     "crop": "tight",
+     "motion": "pan up",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      0.0,
+      0.0,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Ahlam; reference image 2 is Ali), create a new scene: Cinematic semi-realistic digital illustration with a dark, tense island mystery-thriller look: stormy charcoal skies, deep blue-black night shadows, warm ember-orange and amber highlights from lamps, lightning and sunset, rain-slick surfaces at night; bright but slightly desaturated turquoise-and-sand tropical daylight at the resort and on the island; gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, desk top, sand path, wet road, water, soft shadow) for captions and a logo\nScene: a young male waiter in a sand-beige resort uniform walking away from the table with a notepad; Ahlam leaning back in his chair, his face softened, quietly gazing across the terrace with clear interest; Ali beside him watching Ahlam with a sly smirk. Location: the staff canteen terrace, wooden tables, sea view, palms. Camera: medium wide, eye level.\nCharacters: Ahlam: a tall broad-shouldered Maldivian man of about 32 with warm brown skin, a strong handsome face, intense deep-set dark eyes under heavy brows, a straight prominent nose, thick wavy black hair and a full neatly kept black beard; wears a fitted black long-sleeved button shirt with the sleeves rolled to the forearms, charcoal trousers and a dark leather-strap wristwatch. Ali: a slightly chubby Maldivian man of about 40 with warm brown skin, a round friendly face, rectangular thin-framed glasses, a neat short moustache and short side-parted black hair; wears a white long-sleeved shirt with a navy tie and dark-grey trousers, holding a tablet in a dark case.\nMood/lighting: bright tropical late morning, sunlight on the sea, soft shade under the terrace roof, slightly desaturated turquoise-and-sand palette, quiet sadness under a light surface.\nModest Maldivian clothing (every woman in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck, also at home and at night; men fully clothed in shirts and long trousers or a sarong, never shirtless), no kissing, no embracing, no physical touch between a man and a woman, culturally respectful, no violence shown, no dead body, no falling person, no injuries, no bruises, no blood, no weapons, no alcohol, no smoking, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.383,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 22.3,
+    "y_pct": 26.6,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_022",
+   "startMs": 618432,
+   "endMs": 644583,
+   "new_image_reason": "return to Malak at her table: bitter thoughts about Naaif, then Zain's email",
+   "characters": [],
+   "location": "the staff canteen terrace, wooden tables, sea view, palms",
+   "location_key": "canteen",
+   "mood": "bright tropical late morning, sunlight on the sea, soft shade under the terrace roof, slightly desaturated turquoise-and-sand palette, quiet sadness under a light surface",
+   "visual": "reuse of Malak at the canteen table",
+   "camera": "medium shot, eye level",
+   "image": "images/beat_014.png",
+   "reuse_of": "beat_014",
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "cafe",
+   "shots": [
+    {
+     "id": "shot_070",
+     "startMs": 618432,
+     "endMs": 626792,
+     "narration_dhivehi": "\"ކަމެއް ބޭނުންވީމައި ދޮން. އެހެން ނޫނީ ހުންނަ މީހެއްކަމެއް ވެސް ހަނދާނެއް ނުހުންނާނެ. ގެޔަށް ނުދާތީ ސުވާލެއް ވެސް ނުކުރިއެއްނު.",
+     "narration_english": "\"It's 'Don' when they need something. Otherwise nobody even remembers I exist. Nobody even asked why I don't come home.",
+     "crop": "tight",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      18.0,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_071",
+     "startMs": 626792,
+     "endMs": 637153,
+     "narration_dhivehi": "ލާރި ބޭނުންވީމައި ދޮން ވަރެއްނެތް.\" އަމިއްލައަށް ހިތާހިތުން އެތިވަރު ގޮވަމުން ނާއިފްގެ މެއިލް ނިންވާލާފައި ދެން އޮތް މެއިލް ހުޅުވާލިއެވެ. ދެން އޮތީ ޒައިންގެ މެއިލެކެވެ.",
+     "narration_english": "When they need money, it's 'Don' all the way.\" Grumbling to herself, she closed Naaif's mail and opened the next one. The next was from Zain.",
+     "crop": "full",
+     "motion": "pan down",
+     "sfx": [
+      {
+       "name": "keyboard_typing",
+       "atMs": 634383,
+       "gainDb": -24,
+       "word": "ހުޅުވާލިއެވެ."
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_072",
+     "startMs": 637153,
+     "endMs": 644583,
+     "narration_dhivehi": "މަލަކް ހުޅުވަން ނުހުޅުވަން ބަލަހައްޓައިގެން އިނެވެ. \"އަހަރެން މި މެއިލް ހުޅުވަންވީތަ؟ ޒައިލް ބުނަނީ ކީކޭތޯ ބަލަން ވީތަ؟\"",
+     "narration_english": "Malak sat hesitating whether to open it or not. \"Should I open this mail? Should I see what Zain is saying?\"",
+     "crop": "medium",
+     "motion": "static drift",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      12.0,
+      0.0,
+      71.5,
+      84.7
+     ]
+    }
+   ],
+   "prompt_attempts": [],
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.272,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 47.8,
+    "y_pct": 31.8,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_023",
+   "startMs": 644583,
+   "endMs": 652363,
+   "new_image_reason": "action change: Malak looks up at the sky to hold back tears",
+   "characters": [
+    "malak"
+   ],
+   "location": "the staff canteen terrace, wooden tables, sea view, palms",
+   "location_key": "canteen",
+   "mood": "bright tropical late morning, sunlight on the sea, soft shade under the terrace roof, slightly desaturated turquoise-and-sand palette, quiet sadness under a light surface",
+   "visual": "Malak at the canteen table tilting her face up toward the bright sky, eyes glistening with held-back tears, lips pressed together, sunlight on her face, her black hijab fully covering hair and neck, palm fronds against the sky above her",
+   "camera": "medium close-up, slightly low angle",
+   "image": "images/beat_023.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "cafe",
+   "shots": [
+    {
+     "id": "shot_073",
+     "startMs": 644583,
+     "endMs": 652363,
+     "narration_dhivehi": "މޫނުމަތިން ކުރިޔަށް ވުރެން މާޔޫސްކަން ފެންނަމުން ދިޔައެވެ. ދެ ލޮލަށް ކަރުނަ ޖަމާވާން ފެށުމުން ކަރުނަ އަޔަނުދޭން އުޑުމައްޗަށް ބަލާލިއެވެ.",
+     "narration_english": "More despair than before showed on her face. As tears began to gather in her eyes, she looked up at the sky so they would not fall.",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [
+      {
+       "name": "sob_breath",
+       "atMs": 648683,
+       "gainDb": -24,
+       "word": "ކަރުނަ"
+      }
+     ],
+     "hum": true,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Malak), create a new scene: Cinematic semi-realistic digital illustration with a dark, tense island mystery-thriller look: stormy charcoal skies, deep blue-black night shadows, warm ember-orange and amber highlights from lamps, lightning and sunset, rain-slick surfaces at night; bright but slightly desaturated turquoise-and-sand tropical daylight at the resort and on the island; gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, desk top, sand path, wet road, water, soft shadow) for captions and a logo\nScene: Malak at the canteen table tilting her face up toward the bright sky, eyes glistening with held-back tears, lips pressed together, sunlight on her face, her black hijab fully covering hair and neck, palm fronds against the sky above her. Location: the staff canteen terrace, wooden tables, sea view, palms. Camera: medium close-up, slightly low angle.\nCharacters: Malak: a slim Maldivian woman of about 24 with warm brown skin, a striking oval face, large dark almond eyes, defined dark eyebrows and full lips, a guarded serious expression; wears a loose long-sleeved ankle-length deep wine-maroon kurta tunic over loose black trousers and a plain black hijab wrapped snugly and fully covering her hair and neck, a slim silver wristwatch.\nMood/lighting: bright tropical late morning, sunlight on the sea, soft shade under the terrace roof, slightly desaturated turquoise-and-sand palette, quiet sadness under a light surface.\nModest Maldivian clothing (every woman in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck, also at home and at night; men fully clothed in shirts and long trousers or a sarong, never shirtless), no kissing, no embracing, no physical touch between a man and a woman, culturally respectful, no violence shown, no dead body, no falling person, no injuries, no bruises, no blood, no weapons, no alcohol, no smoking, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.38,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 44.0,
+    "y_pct": 29.4,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_024",
+   "startMs": 652363,
+   "endMs": 669144,
+   "new_image_reason": "character change (comic beat): Ahlam and then Ali look up at the sky too",
+   "characters": [
+    "ahlam",
+    "ali"
+   ],
+   "location": "the staff canteen terrace, wooden tables, sea view, palms",
+   "location_key": "canteen",
+   "mood": "bright tropical late morning, sunlight on the sea, soft shade under the terrace roof, slightly desaturated turquoise-and-sand palette, quiet sadness under a light surface",
+   "visual": "at their canteen table Ahlam and Ali both tilting their heads back to look up at the empty blue sky, Ahlam serious and absorbed, Ali squinting upward in comic confusion behind his glasses, one hand shading his eyes",
+   "camera": "medium two-shot, slightly low angle",
+   "image": "images/beat_024.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "cafe",
+   "shots": [
+    {
+     "id": "shot_074",
+     "startMs": 652363,
+     "endMs": 660814,
+     "narration_dhivehi": "އަހްލަމް ވެސް މަލަކާއި އެކު އެކީހެން އުޑުމަށްޗަށް ބަލާލިއެވެ. އަލީ އަހްލަމަށް ބަލަން ހުރެފައި އުޑުމަށްޗަށް ބަލާލިއެވެ. \"މަތީގައި އެއްޗެއް އޮތީތޯ؟\"",
+     "narration_english": "Ahlam too looked up at the sky at the same moment as Malak. Ali, who had been looking at Ahlam, looked up at the sky. \"Is there something up there?\"",
+     "crop": "full",
+     "motion": "pan left",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_075",
+     "startMs": 660814,
+     "endMs": 669144,
+     "narration_dhivehi": "ޢަލީ މައްޗަށް ބަލަން ހުރެގެން ސުވާލުކޮށްލިއެވެ. އަހްލަމް އެއްޗެއް ނުބުނެ ޢަލީއަށް ދެ ލޯ އަޅާލަމުން ބަލާލިއެވެ. އަދި މަލަކަށް ބަލާލިއެވެ.",
+     "narration_english": "Ali asked, still looking up. Ahlam said nothing; he narrowed his eyes at Ali. Then he looked at Malak.",
+     "crop": "tight",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      0.0,
+      0.0,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Ahlam; reference image 2 is Ali), create a new scene: Cinematic semi-realistic digital illustration with a dark, tense island mystery-thriller look: stormy charcoal skies, deep blue-black night shadows, warm ember-orange and amber highlights from lamps, lightning and sunset, rain-slick surfaces at night; bright but slightly desaturated turquoise-and-sand tropical daylight at the resort and on the island; gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, desk top, sand path, wet road, water, soft shadow) for captions and a logo\nScene: at their canteen table Ahlam and Ali both tilting their heads back to look up at the empty blue sky, Ahlam serious and absorbed, Ali squinting upward in comic confusion behind his glasses, one hand shading his eyes. Location: the staff canteen terrace, wooden tables, sea view, palms. Camera: medium two-shot, slightly low angle.\nCharacters: Ahlam: a tall broad-shouldered Maldivian man of about 32 with warm brown skin, a strong handsome face, intense deep-set dark eyes under heavy brows, a straight prominent nose, thick wavy black hair and a full neatly kept black beard; wears a fitted black long-sleeved button shirt with the sleeves rolled to the forearms, charcoal trousers and a dark leather-strap wristwatch. Ali: a slightly chubby Maldivian man of about 40 with warm brown skin, a round friendly face, rectangular thin-framed glasses, a neat short moustache and short side-parted black hair; wears a white long-sleeved shirt with a navy tie and dark-grey trousers, holding a tablet in a dark case.\nMood/lighting: bright tropical late morning, sunlight on the sea, soft shade under the terrace roof, slightly desaturated turquoise-and-sand palette, quiet sadness under a light surface.\nModest Maldivian clothing (every woman in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck, also at home and at night; men fully clothed in shirts and long trousers or a sarong, never shirtless), no kissing, no embracing, no physical touch between a man and a woman, culturally respectful, no violence shown, no dead body, no falling person, no injuries, no bruises, no blood, no weapons, no alcohol, no smoking, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.261,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 29.1,
+    "y_pct": 28.9,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_025",
+   "startMs": 669144,
+   "endMs": 679164,
+   "new_image_reason": "return to Malak looking up, holding back tears before opening the mail",
+   "characters": [],
+   "location": "the staff canteen terrace, wooden tables, sea view, palms",
+   "location_key": "canteen",
+   "mood": "bright tropical late morning, sunlight on the sea, soft shade under the terrace roof, slightly desaturated turquoise-and-sand palette, quiet sadness under a light surface",
+   "visual": "reuse of Malak looking up at the sky",
+   "camera": "medium shot, eye level",
+   "image": "images/beat_023.png",
+   "reuse_of": "beat_023",
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "cafe",
+   "shots": [
+    {
+     "id": "shot_076",
+     "startMs": 669144,
+     "endMs": 679164,
+     "narration_dhivehi": "މަލަކް ދެ ލޯ ބޮޑުކޮށްލަމުން ކަރުނަ އަޔަނުދޭން މަސައްކަތް ކުރަމުން ދިޔައެވެ. އިރުކޮޅެއް ވަންދެން މަލަކް އެހެން އިނުމަށް ފަހު މެއިލް ހުޅުވާލިއެވެ. އޭނާ ހަމަޔަކަށް އެޅުމުންނެވެ.",
+     "narration_english": "Malak widened her eyes, trying to stop the tears. After sitting like that for a while, Malak opened the mail. Once she had calmed down.",
+     "crop": "medium",
+     "motion": "pan right",
+     "sfx": [
+      {
+       "name": "keyboard_typing",
+       "atMs": 676564,
+       "gainDb": -24,
+       "word": "ހުޅުވާލިއެވެ."
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      8.3,
+      0.0,
+      71.5,
+      84.7
+     ]
+    }
+   ],
+   "prompt_attempts": [],
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.068,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 44.0,
+    "y_pct": 29.4,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_026",
+   "startMs": 679164,
+   "endMs": 696845,
+   "new_image_reason": "return to the laptop screen: Zain's email",
+   "characters": [],
+   "location": "the staff canteen terrace, wooden tables, sea view, palms",
+   "location_key": "canteen",
+   "mood": "bright tropical late morning, sunlight on the sea, soft shade under the terrace roof, slightly desaturated turquoise-and-sand palette, quiet sadness under a light surface",
+   "visual": "reuse of the over-the-shoulder laptop glow",
+   "camera": "medium shot, eye level",
+   "image": "images/beat_015.png",
+   "reuse_of": "beat_015",
+   "transition_in": "xfade",
+   "sensitive": "other",
+   "safe_substitution": "Zain's email is a blurred glowing screen; Zain is not shown",
+   "ambience": "cafe",
+   "shots": [
+    {
+     "id": "shot_077",
+     "startMs": 679164,
+     "endMs": 688635,
+     "narration_dhivehi": "\"މަލަކް ކޮންތާކު. ފޯނަށް ކިހިނެއްވީ؟ ގުޅާލަބަލަ. މަންމަ މިހާރު ކައިވެނި ކުރާ ޑޭޓް ކޮންފޯމް ކޮށްފި. ވަރަށް ގިނަ ވާހަކަ އެބަހުރި ދައްކަން.",
+     "narration_english": "\"Malak, where are you? What happened to your phone? Call me. Mamma has now confirmed the wedding date. There's so much to talk about.",
+     "crop": "tight",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      20.3,
+      4.8,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_078",
+     "startMs": 688635,
+     "endMs": 696845,
+     "narration_dhivehi": "ލަވްޔޫ މިސްޔޫ.\" މަލަކްގެ ލޮލުން ކަރުނަ އަންނަމުން ދިޔައެވެ. އޭނާއަށް އެ ކަރުނަ އަޔަނުދީ ހިފެހެއްޓުނީ މަދު ސިކުންތުކޮޅަކަށެވެ.",
+     "narration_english": "Love you, miss you.\" Tears came from Malak's eyes. She managed to hold them back for only a few seconds.",
+     "crop": "full",
+     "motion": "pan up",
+     "sfx": [
+      {
+       "name": "sob_breath",
+       "atMs": 691305,
+       "gainDb": -24,
+       "word": "ކަރުނަ"
+      }
+     ],
+     "hum": true,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [],
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.095,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 50.0,
+    "y_pct": 40.0,
+    "face_detected": false
+   }
+  },
+  {
+   "id": "beat_027",
+   "startMs": 696845,
+   "endMs": 704005,
+   "new_image_reason": "action change: Malak bows her head, shuts the laptop and gets up to leave",
+   "characters": [
+    "malak"
+   ],
+   "location": "the staff canteen terrace, wooden tables, sea view, palms",
+   "location_key": "canteen",
+   "mood": "bright tropical late morning, sunlight on the sea, soft shade under the terrace roof, slightly desaturated turquoise-and-sand palette, quiet sadness under a light surface",
+   "visual": "Malak rising from the canteen table with her head bowed low, closing the laptop with one hand, her face turned down and away, a tear glinting, the half-finished juice glass left on the table",
+   "camera": "medium shot, eye level",
+   "image": "images/beat_027.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "cafe",
+   "shots": [
+    {
+     "id": "shot_079",
+     "startMs": 696845,
+     "endMs": 704005,
+     "narration_dhivehi": "މަލަކް އިސްޖަހާލަމުން ލެޕް ލައްޕާލިއެވެ. އޭނާ އަވަސް ވެގަތީ އެތަނުން ދިއުމަށެވެ. އޭނާ ރޯތަން މީހަކަށް ފެނިދާނެތީއެވެ.",
+     "narration_english": "Malak bowed her head and shut the laptop. She hurried to leave, afraid someone would see her crying.",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [
+      {
+       "name": "soft_thud",
+       "atMs": 698285,
+       "gainDb": -22,
+       "word": "ލައްޕާލިއެވެ."
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Malak), create a new scene: Cinematic semi-realistic digital illustration with a dark, tense island mystery-thriller look: stormy charcoal skies, deep blue-black night shadows, warm ember-orange and amber highlights from lamps, lightning and sunset, rain-slick surfaces at night; bright but slightly desaturated turquoise-and-sand tropical daylight at the resort and on the island; gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, desk top, sand path, wet road, water, soft shadow) for captions and a logo\nScene: Malak rising from the canteen table with her head bowed low, closing the laptop with one hand, her face turned down and away, a tear glinting, the half-finished juice glass left on the table. Location: the staff canteen terrace, wooden tables, sea view, palms. Camera: medium shot, eye level.\nCharacters: Malak: a slim Maldivian woman of about 24 with warm brown skin, a striking oval face, large dark almond eyes, defined dark eyebrows and full lips, a guarded serious expression; wears a loose long-sleeved ankle-length deep wine-maroon kurta tunic over loose black trousers and a plain black hijab wrapped snugly and fully covering her hair and neck, a slim silver wristwatch.\nMood/lighting: bright tropical late morning, sunlight on the sea, soft shade under the terrace roof, slightly desaturated turquoise-and-sand palette, quiet sadness under a light surface.\nModest Maldivian clothing (every woman in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck, also at home and at night; men fully clothed in shirts and long trousers or a sarong, never shirtless), no kissing, no embracing, no physical touch between a man and a woman, culturally respectful, no violence shown, no dead body, no falling person, no injuries, no bruises, no blood, no weapons, no alcohol, no smoking, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.231,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 39.2,
+    "y_pct": 19.4,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_028",
+   "startMs": 704005,
+   "endMs": 710855,
+   "new_image_reason": "return to Ahlam wondering where he has seen her",
+   "characters": [],
+   "location": "the staff canteen terrace, wooden tables, sea view, palms",
+   "location_key": "canteen",
+   "mood": "bright tropical late morning, sunlight on the sea, soft shade under the terrace roof, slightly desaturated turquoise-and-sand palette, quiet sadness under a light surface",
+   "visual": "reuse of Ahlam seated, looking across",
+   "camera": "medium shot, eye level",
+   "image": "images/beat_018.png",
+   "reuse_of": "beat_018",
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "cafe",
+   "shots": [
+    {
+     "id": "shot_080",
+     "startMs": 704005,
+     "endMs": 710855,
+     "narration_dhivehi": "\"ކޮންމެވެސް ތާކުން ފެނުނު ކުއްޖަކާ ވަރަށް ވައްތަރު ކޮންތާކުން ބާ؟\" އަހްލަމް ހިތާ ހިތުން ބުނެލިއެވެ.",
+     "narration_english": "\"She looks so much like a girl I've seen somewhere... where was it?\" Ahlam said to himself.",
+     "crop": "medium",
+     "motion": "pan down",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      0.0,
+      0.0,
+      71.5,
+      84.7
+     ]
+    }
+   ],
+   "prompt_attempts": [],
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.252,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 32.1,
+    "y_pct": 33.3,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_029",
+   "startMs": 710855,
+   "endMs": 743077,
+   "new_image_reason": "location change: Malak walks back alone by a quiet path in the midday heat",
+   "characters": [
+    "malak"
+   ],
+   "location": "a narrow empty back path behind the resort staff buildings, white sand between dense bushes and tall coconut palms, sharp black shadows, a low whitewashed wall",
+   "location_key": "quiet_path",
+   "mood": "harsh midday sun, glaring white sand and deep black shadows, oppressive heat haze, slightly desaturated, uneasy and fearful",
+   "visual": "Malak walking alone along the empty sunlit back path, hugging her laptop tightly to her chest with both arms, wiping her cheek with the back of one hand, shoulders hunched as if cold despite the blazing sun, her eyes red and downcast",
+   "camera": "medium wide, from the front, eye level",
+   "image": "images/beat_029.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "resort_day",
+   "shots": [
+    {
+     "id": "shot_081",
+     "startMs": 710855,
+     "endMs": 719736,
+     "narration_dhivehi": "ލެޕްޓޮޕް މެޔާގާތް ކޮށްލައިގެން ކަރުނަ ފުހެމުން މަލަކް ހިނގައިގަތީ އޮފީހާ ދިމާލަށެވެ. އޭނާ ރެސްޓޯރަންޓައް އައިމަގު ނޫން ހަމަހިމޭން މަގެއް އިހްތިޔާރު ކުރިއެވެ.",
+     "narration_english": "Holding the laptop to her chest and wiping her tears, Malak set off toward the office. She chose a quiet path, not the way she had come to the restaurant.",
+     "crop": "full",
+     "motion": "static drift",
+     "sfx": [
+      {
+       "name": "footsteps_pavement",
+       "atMs": 713645,
+       "gainDb": -22,
+       "word": "ހިނގައިގަތީ"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_082",
+     "startMs": 719736,
+     "endMs": 726216,
+     "narration_dhivehi": "ރޭގައި ވާރޭ ވެހުނުކަމުގައި ވިޔަސް މި ވަގުތު އޮތީ ގަދަ އަވީގެ ހޫނުކަން މުޅި މާހައުލަށް ވެރިވެފައެވެ.",
+     "narration_english": "Though it had rained in the night, the fierce heat of the sun now hung over everything.",
+     "crop": "tight",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      18.4,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_083",
+     "startMs": 726216,
+     "endMs": 732826,
+     "narration_dhivehi": "ނަމަވެސް، އޭނާގެ ހަށިގަނޑުގައި ވަނީ ފިނި ތުރުތުރެއް އުފެދިފައެވެ. ޒައިންގެ މެއިލް ކިޔާލުމުންނެވެ.",
+     "narration_english": "Yet a cold shiver had run through her body. Because she had read Zain's mail.",
+     "crop": "full",
+     "motion": "pan left",
+     "sfx": [
+      {
+       "name": "breath",
+       "atMs": 729406,
+       "gainDb": -22,
+       "word": "ތުރުތުރެއް"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_084",
+     "startMs": 732826,
+     "endMs": 743077,
+     "narration_dhivehi": "އޭނާއަށް ޒައިންގެ ބޭވަފަތެރިކަން ހަނދާން ވުމާއި އެކީގައި އެ ބިރުވެރި ރޭ ހަނދާނަށް އައެވެ. ހިތަށް ވެފައިވާ ނުތަނަވަސްކަމާއި އެކީގައި އޭނަ ކުރިޔަށް ހިނގަމުން ދިޔައެވެ.",
+     "narration_english": "As Zain's unfaithfulness came back to her, so did that terrifying night. With the unease in her heart she walked on.",
+     "crop": "medium",
+     "motion": "slow pull-out",
+     "sfx": [
+      {
+       "name": "heartbeat",
+       "atMs": 736286,
+       "gainDb": -20,
+       "word": "ބިރުވެރި"
+      }
+     ],
+     "hum": true,
+     "crop_rect_pct": [
+      12.4,
+      0.0,
+      71.5,
+      84.7
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Malak), create a new scene: Cinematic semi-realistic digital illustration with a dark, tense island mystery-thriller look: stormy charcoal skies, deep blue-black night shadows, warm ember-orange and amber highlights from lamps, lightning and sunset, rain-slick surfaces at night; bright but slightly desaturated turquoise-and-sand tropical daylight at the resort and on the island; gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, desk top, sand path, wet road, water, soft shadow) for captions and a logo\nScene: Malak walking alone along the empty sunlit back path, hugging her laptop tightly to her chest with both arms, wiping her cheek with the back of one hand, shoulders hunched as if cold despite the blazing sun, her eyes red and downcast. Location: a narrow empty back path behind the resort staff buildings, white sand between dense bushes and tall coconut palms, sharp black shadows, a low whitewashed wall. Camera: medium wide, from the front, eye level.\nCharacters: Malak: a slim Maldivian woman of about 24 with warm brown skin, a striking oval face, large dark almond eyes, defined dark eyebrows and full lips, a guarded serious expression; wears a loose long-sleeved ankle-length deep wine-maroon kurta tunic over loose black trousers and a plain black hijab wrapped snugly and fully covering her hair and neck, a slim silver wristwatch.\nMood/lighting: harsh midday sun, glaring white sand and deep black shadows, oppressive heat haze, slightly desaturated, uneasy and fearful.\nModest Maldivian clothing (every woman in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck, also at home and at night; men fully clothed in shirts and long trousers or a sarong, never shirtless), no kissing, no embracing, no physical touch between a man and a woman, culturally respectful, no violence shown, no dead body, no falling person, no injuries, no bruises, no blood, no weapons, no alcohol, no smoking, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.16,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 48.1,
+    "y_pct": 20.3,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_030",
+   "startMs": 743077,
+   "endMs": 767867,
+   "new_image_reason": "action change: fear — she glances behind her, holding her breath",
+   "characters": [
+    "malak"
+   ],
+   "location": "a narrow empty back path behind the resort staff buildings, white sand between dense bushes and tall coconut palms, sharp black shadows, a low whitewashed wall",
+   "location_key": "quiet_path",
+   "mood": "harsh midday sun, glaring white sand and deep black shadows, oppressive heat haze, slightly desaturated, uneasy and fearful",
+   "visual": "Malak on the empty path glancing back over her shoulder with frightened wide eyes, holding her breath, her own long dark shadow stretching across the glaring white sand; the path behind her empty between dark bushes and palm shadows",
+   "camera": "medium shot from slightly behind and to the side",
+   "image": "images/beat_030.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": "other",
+   "safe_substitution": "the terrifying night is only implied by her fear; nobody follows her; no flashback content",
+   "ambience": "resort_day",
+   "shots": [
+    {
+     "id": "shot_085",
+     "startMs": 743077,
+     "endMs": 751287,
+     "narration_dhivehi": "އެ ހިމޭން މަގުން ކުރިއަށް ހިނގަމުން ދިޔަ މަލަކްގެ ކޮންމެ ފިޔަވަޅަކުން ވެސް ފެންނަނީ ހިތްނުތަނަވަސް ކަމާއި ބިރުގަނެފައިވާ ކަމެވެ.",
+     "narration_english": "Every step Malak took along that silent path showed her unease and her fear.",
+     "crop": "full",
+     "motion": "pan right",
+     "sfx": [
+      {
+       "name": "footsteps_pavement",
+       "atMs": 746007,
+       "gainDb": -22,
+       "word": "ފިޔަވަޅަކުން"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_086",
+     "startMs": 751287,
+     "endMs": 760057,
+     "narration_dhivehi": "ވަށައިގެންވާ މާހައުލަށް އަވަސްއަވަހަށް ކަޅިހިންގަމުން، ފަހަތުން މީހަކު ފާރަލަނީތޯ ބަލަމުން އޭނާ ކުރިއަށް ދިޔައީ ނޭވާ ހިފަހައްޓައިލައިގެން ހުރެއެވެ.",
+     "narration_english": "Quickly glancing around her, checking whether someone was following behind, she walked on holding her breath.",
+     "crop": "tight",
+     "motion": "slow push-in",
+     "sfx": [
+      {
+       "name": "breath_heavy",
+       "atMs": 758207,
+       "gainDb": -22,
+       "word": "ނޭވާ"
+      }
+     ],
+     "hum": true,
+     "crop_rect_pct": [
+      7.4,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_087",
+     "startMs": 760057,
+     "endMs": 767867,
+     "narration_dhivehi": "ދުވާލުގެ އަލިކަން އޮތް ނަމަވެސް، އޭނާގެ ވަށައިގެން ވަނީ ބަޔާންކުރަން ދަތި އަނދިރިކަމަކާއި ބިރުވެރިކަމެއް ވެރިވެފައެވެ.",
+     "narration_english": "Though it was broad daylight, an indescribable darkness and terror surrounded her.",
+     "crop": "full",
+     "motion": "pan up",
+     "sfx": [
+      {
+       "name": "heartbeat",
+       "atMs": 765987,
+       "gainDb": -22,
+       "word": "ބިރުވެރިކަމެއް"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Malak), create a new scene: Cinematic semi-realistic digital illustration with a dark, tense island mystery-thriller look: stormy charcoal skies, deep blue-black night shadows, warm ember-orange and amber highlights from lamps, lightning and sunset, rain-slick surfaces at night; bright but slightly desaturated turquoise-and-sand tropical daylight at the resort and on the island; gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, desk top, sand path, wet road, water, soft shadow) for captions and a logo\nScene: Malak on the empty path glancing back over her shoulder with frightened wide eyes, holding her breath, her own long dark shadow stretching across the glaring white sand; the path behind her empty between dark bushes and palm shadows. Location: a narrow empty back path behind the resort staff buildings, white sand between dense bushes and tall coconut palms, sharp black shadows, a low whitewashed wall. Camera: medium shot from slightly behind and to the side.\nCharacters: Malak: a slim Maldivian woman of about 24 with warm brown skin, a striking oval face, large dark almond eyes, defined dark eyebrows and full lips, a guarded serious expression; wears a loose long-sleeved ankle-length deep wine-maroon kurta tunic over loose black trousers and a plain black hijab wrapped snugly and fully covering her hair and neck, a slim silver wristwatch.\nMood/lighting: harsh midday sun, glaring white sand and deep black shadows, oppressive heat haze, slightly desaturated, uneasy and fearful.\nModest Maldivian clothing (every woman in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck, also at home and at night; men fully clothed in shirts and long trousers or a sarong, never shirtless), no kissing, no embracing, no physical touch between a man and a woman, culturally respectful, no violence shown, no dead body, no falling person, no injuries, no bruises, no blood, no weapons, no alcohol, no smoking, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.21,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 37.1,
+    "y_pct": 22.0,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_031",
+   "startMs": 767867,
+   "endMs": 793568,
+   "new_image_reason": "location change: she stops at the souvenir shop window and stares at the watch showcase",
+   "characters": [
+    "malak"
+   ],
+   "location": "a small resort souvenir shop with a lit glass watch showcase, shells and sarongs on shelves",
+   "location_key": "souvenir_shop",
+   "mood": "midday, bright sun outside reflecting on the shop glass, cool lit showcase inside, still and tense",
+   "visual": "Malak standing outside the souvenir shop's glass front, her faint reflection in the glass, staring through it at a lit glass showcase of elegant wristwatches with plain unmarked dials inside; shells and folded sarongs on shelves; she slowly lifts her wrist",
+   "camera": "medium shot, from inside the shop looking out through the glass at her face",
+   "image": "images/beat_031.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": "other",
+   "safe_substitution": "watches have plain dials with no brand, no numbers",
+   "ambience": "shop_day",
+   "shots": [
+    {
+     "id": "shot_088",
+     "startMs": 767867,
+     "endMs": 774088,
+     "narration_dhivehi": "ދެ މަގަށް ވާހެން ހުރި ސުވެނިޔާ ފިހާރާގެ ބިއްލޫރިގަނޑު ކައިރިއަށް މަލަކްގެ ހިނގުން ހުއްޓުނެވެ.",
+     "narration_english": "Malak's steps stopped beside the glass front of the souvenir shop that stood where the two paths met.",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [
+      {
+       "name": "footsteps_pavement",
+       "atMs": 772628,
+       "gainDb": -22,
+       "word": "ހިނގުން"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_089",
+     "startMs": 774088,
+     "endMs": 783408,
+     "narration_dhivehi": "އޭނާގެ ނަޒަރު ސީދާވެގެން ދިޔައީ އެތެރޭގައި ހުރި ބޮޑު ބިއްލޫރި ޝޯކޭހަށެވެ. އެ ޝޯކޭސް ތެރޭގައިވާ ޒަމާނީ ބްރޭންޑަޑް ގަޑިތަކަށް އޭނާގެ ނަޒަރު ހުއްޓުނެވެ.",
+     "narration_english": "Her gaze went straight to the big glass showcase inside. It stopped on the modern branded watches in that showcase.",
+     "crop": "tight",
+     "motion": "pan down",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      28.8,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_090",
+     "startMs": 783408,
+     "endMs": 793568,
+     "narration_dhivehi": "އޭނާގެ ކަންފަތުގައި ގުގުމަމުން ދިޔައީ އެ ގަޑިތަކުގެ ކަށިތައް ދައުރުވަމުން ދިޔަ އަޑެވެ. މަޑުމަޑުން އަތް އުފުލައިލުމަށްފަހު، އަމިއްލަ އަތުކުރީގައި އޮތް ގަޑިއަށް މަލަކް ބަލައިލިއެވެ.",
+     "narration_english": "Echoing in her ears was the sound of those watches' hands going round. Slowly raising her arm, Malak looked at the watch on her own wrist.",
+     "crop": "full",
+     "motion": "static drift",
+     "sfx": [
+      {
+       "name": "clock_tick",
+       "atMs": 786188,
+       "gainDb": -16,
+       "word": "ކަށިތައް"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Malak), create a new scene: Cinematic semi-realistic digital illustration with a dark, tense island mystery-thriller look: stormy charcoal skies, deep blue-black night shadows, warm ember-orange and amber highlights from lamps, lightning and sunset, rain-slick surfaces at night; bright but slightly desaturated turquoise-and-sand tropical daylight at the resort and on the island; gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, desk top, sand path, wet road, water, soft shadow) for captions and a logo\nScene: Malak standing outside the souvenir shop's glass front, her faint reflection in the glass, staring through it at a lit glass showcase of elegant wristwatches with plain unmarked dials inside; shells and folded sarongs on shelves; she slowly lifts her wrist. Location: a small resort souvenir shop with a lit glass watch showcase, shells and sarongs on shelves. Camera: medium shot, from inside the shop looking out through the glass at her face.\nCharacters: Malak: a slim Maldivian woman of about 24 with warm brown skin, a striking oval face, large dark almond eyes, defined dark eyebrows and full lips, a guarded serious expression; wears a loose long-sleeved ankle-length deep wine-maroon kurta tunic over loose black trousers and a plain black hijab wrapped snugly and fully covering her hair and neck, a slim silver wristwatch.\nMood/lighting: midday, bright sun outside reflecting on the shop glass, cool lit showcase inside, still and tense.\nModest Maldivian clothing (every woman in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck, also at home and at night; men fully clothed in shirts and long trousers or a sarong, never shirtless), no kissing, no embracing, no physical touch between a man and a woman, culturally respectful, no violence shown, no dead body, no falling person, no injuries, no bruises, no blood, no weapons, no alcohol, no smoking, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.254,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 58.5,
+    "y_pct": 24.0,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_032",
+   "startMs": 793568,
+   "endMs": 824410,
+   "new_image_reason": "emotional turning point: her watch hands seem to turn backward; time stops, the past rushes in",
+   "characters": [
+    "malak"
+   ],
+   "location": "a small resort souvenir shop with a lit glass watch showcase, shells and sarongs on shelves",
+   "location_key": "watch_trance",
+   "mood": "midday light dissolving into a blur, hazy, slightly desaturated memory-like dream with soft dark vignette, time seeming to stop",
+   "visual": "extreme close-up of Malak's raised wrist with her slim silver watch, its plain dial with no numerals and two thin hands blurred as if spinning backward, the maroon sleeve at the edge; behind it, out of focus, her pale stunned face in black hijab reflected in the shop glass, the showcase lights smearing into streaks",
+   "camera": "extreme close-up, the watch in the upper half, soft dark vignette",
+   "image": "images/beat_032.png",
+   "reuse_of": null,
+   "transition_in": "dissolve",
+   "sensitive": "other",
+   "safe_substitution": "plain unmarked watch dial; the flashback of that night is not shown",
+   "ambience": "memory",
+   "shots": [
+    {
+     "id": "shot_091",
+     "startMs": 793568,
+     "endMs": 801129,
+     "narration_dhivehi": "ހަމަ އެއާއެކު، އަތުކުރީ ގަޑީގެ ކަށިތައް ފަހަތަށް އެނބުރެން ފެށި ކަހަލަ އިހުސާސެއް އޭނާއަށް ކުރެވުނެވެ.",
+     "narration_english": "At that very moment, she felt as if the hands of her wristwatch had begun to turn backward.",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [
+      {
+       "name": "clock_tick",
+       "atMs": 796608,
+       "gainDb": -16,
+       "word": "ކަށިތައް"
+      }
+     ],
+     "hum": true,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_092",
+     "startMs": 801129,
+     "endMs": 811789,
+     "narration_dhivehi": "ހަމަ އެނދު ލޮލުގެ ކުރިމަތިން މުޅި މަންޒަރު ފުސްވެ، ވަގުތު ހުއްޓުނު ފަދައެވެ. ސުވެނިޔާ ފިހާރައިގެ ބިއްލޫރިގަނޑުން އޭނާއަށް ފެންނަން ފެށީ މިހާރުގެ ހަގީގަތެއް ނޫނެވެ.",
+     "narration_english": "Right then the whole scene before her eyes blurred, as though time had stopped. What she began to see in the souvenir shop's glass was not the reality of now.",
+     "crop": "tight",
+     "motion": "pan left",
+     "sfx": [
+      {
+       "name": "heartbeat",
+       "atMs": 804749,
+       "gainDb": -20,
+       "word": "ހުއްޓުނު"
+      }
+     ],
+     "hum": true,
+     "crop_rect_pct": [
+      3.3,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_093",
+     "startMs": 811789,
+     "endMs": 820609,
+     "narration_dhivehi": "އެއީ ހަފްތާއެއް ކުރީގެ ހަގީގަތެކެވެ. މާޒީގެ އެ ހަނދާންތަކުގެ ތެރެއަށް އޭނާގެ ސިކުނޑި ޣަރަގުވެގެން ދިޔައީ، އެ ގަޑީގެ ސިކުންތު ކަށީގެ އަޑާއެކު،",
+     "narration_english": "It was the reality of a week ago. Her mind sank into those memories of the past, with the sound of that watch's second hand,",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [
+      {
+       "name": "clock_tick",
+       "atMs": 819349,
+       "gainDb": -16,
+       "word": "ކަށީގެ"
+      }
+     ],
+     "hum": true,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_094",
+     "startMs": 820609,
+     "endMs": 824410,
+     "narration_dhivehi": "އަނެއްކާ ވެސް އެ ބިރުވެރި ވަގުތަށް އޭނާ ގެންގޮސް ވައްޓައިލަމުންނެވެ.",
+     "narration_english": "dragging her back once again into that terrifying moment.",
+     "crop": "medium",
+     "motion": "pan right",
+     "sfx": [
+      {
+       "name": "heartbeat",
+       "atMs": 821809,
+       "gainDb": -20,
+       "word": "ބިރުވެރި"
+      }
+     ],
+     "hum": true,
+     "crop_rect_pct": [
+      0.0,
+      0.0,
+      71.5,
+      84.7
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Malak), create a new scene: Cinematic semi-realistic digital illustration with a dark, tense island mystery-thriller look: stormy charcoal skies, deep blue-black night shadows, warm ember-orange and amber highlights from lamps, lightning and sunset, rain-slick surfaces at night; bright but slightly desaturated turquoise-and-sand tropical daylight at the resort and on the island; gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, desk top, sand path, wet road, water, soft shadow) for captions and a logo\nScene: extreme close-up of Malak's raised wrist with her slim silver watch, its plain dial with no numerals and two thin hands blurred as if spinning backward, the maroon sleeve at the edge; behind it, out of focus, her pale stunned face in black hijab reflected in the shop glass, the showcase lights smearing into streaks. Location: a small resort souvenir shop with a lit glass watch showcase, shells and sarongs on shelves. Camera: extreme close-up, the watch in the upper half, soft dark vignette.\nCharacters: Malak: a slim Maldivian woman of about 24 with warm brown skin, a striking oval face, large dark almond eyes, defined dark eyebrows and full lips, a guarded serious expression; wears a loose long-sleeved ankle-length deep wine-maroon kurta tunic over loose black trousers and a plain black hijab wrapped snugly and fully covering her hair and neck, a slim silver wristwatch.\nMood/lighting: midday light dissolving into a blur, hazy, slightly desaturated memory-like dream with soft dark vignette, time seeming to stop.\nModest Maldivian clothing (every woman in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck, also at home and at night; men fully clothed in shirts and long trousers or a sarong, never shirtless), no kissing, no embracing, no physical touch between a man and a woman, culturally respectful, no violence shown, no dead body, no falling person, no injuries, no bruises, no blood, no weapons, no alcohol, no smoking, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.117,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 33.0,
+    "y_pct": 25.2,
+    "face_detected": true
+   }
+  }
+ ]
+}

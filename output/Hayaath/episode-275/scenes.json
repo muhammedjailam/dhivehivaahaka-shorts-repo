@@ -1,0 +1,2758 @@
+{
+ "series": "Hayaath",
+ "episode": 275,
+ "beats": [
+  {
+   "id": "beat_001",
+   "startMs": 0,
+   "endMs": 13400,
+   "new_image_reason": "new episode opening: recap of the rescue that made Fazaal's heart change (reused image from ep 273)",
+   "characters": [
+    "hayaathu",
+    "young_driver"
+   ],
+   "location": "a deserted moonlit beach on the far side of a Maldivian island, far from the village, a large old two-storey house with a veranda among the palm trees behind the beach",
+   "location_key": "far_beach",
+   "mood": "night, full moon, silver moonlight, remembered, tender and dreamlike",
+   "visual": "(reuse from ep 273) Hayaathu coming round on the moonlit sand, Fazaal kneeling at a distance, astonished",
+   "camera": "medium shot, eye level",
+   "image": "images/beat_001.png",
+   "reuse_of": "ep273:beat_013",
+   "transition_in": "xfade",
+   "sensitive": "other",
+   "safe_substitution": "rescue shown only as the moment she comes round, at a respectful distance (ep 273 image)",
+   "ambience": "memory",
+   "shots": [
+    {
+     "id": "shot_001",
+     "startMs": 0,
+     "endMs": 13400,
+     "narration_dhivehi": "މައުރޫފްގެ ފަހަތުން ފަޒާލް ވެސް ފުންމާލީ ހަޔާތް ސަލާމަތް ކުރުމުގެ ބޭނުމުގައެވެ. އަންހެންކުދިންނަށް ނަފުރަތު ކުރަމުން އައި ފަޒާލްގެ ހިތުގައި ހަޔާތަށްޓަކާ އޯގާތެރިކަމާ ލޯބި އުފެދުނީ ކިހިނެއް ކަމެއް ނޭނގުނެވެ.",
+     "narration_english": "After Maaroof, Fazaal too dived into the sea to save Hayaathu. How tenderness and love for Hayaathu were born in the heart of Fazaal, who had hated women, he did not know.",
+     "crop": "medium",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": true,
+     "crop_rect_pct": [
+      28.5,
+      0.0,
+      71.5,
+      84.7
+     ]
+    }
+   ],
+   "prompt_attempts": [],
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.401,
+    "halo": true
+   },
+   "focus": {
+    "x_pct": 70.4,
+    "y_pct": 28.8,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_002",
+   "startMs": 13400,
+   "endMs": 26961,
+   "new_image_reason": "scene change: present day, Fazaal on the veranda of the big house gazing at Hayaathu's photo",
+   "characters": [
+    "young_driver"
+   ],
+   "location": "the wide wooden veranda of a large old two-storey house among coconut palms on the far side of a Maldivian island, wooden railings and steps leading down to a secluded white-sand beach, the calm lagoon beyond, at sunset",
+   "location_key": "veranda",
+   "mood": "sunset, warm golden-orange light, long soft shadows, tender and hopeful",
+   "visual": "Fazaal sitting on the wooden veranda steps of the big old house at sunset, looking down at a smartphone in his hand whose screen faces away from the viewer and glows softly, a tender surprised smile rising on his lips, the golden lagoon behind him",
+   "camera": "medium shot, slightly low angle",
+   "image": "images/beat_002.png",
+   "reuse_of": null,
+   "transition_in": "dissolve",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "beach_dusk",
+   "shots": [
+    {
+     "id": "shot_002",
+     "startMs": 13400,
+     "endMs": 20050,
+     "narration_dhivehi": "ފޯނުގެ ސްކްރީނުން ފެންނަމުން ދިޔަ ހަޔާތްގެ ފޮޓޮއަށް ބަލަމުން ދިޔައެވެ. ބުނަން ނޭނގޭ އިޙުސާސެއް ވެގެން ދިޔައެވެ.",
+     "narration_english": "He kept gazing at Hayaathu's photo on the phone screen. A feeling he couldn't describe came over him.",
+     "crop": "full",
+     "motion": "pan left",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_003",
+     "startMs": 20050,
+     "endMs": 26961,
+     "narration_dhivehi": "ހަޔާތްގެ ރީތި ހިނިތުންވުން އެތައް ވާހަކައެއް ބުނަމުން ދިޔަކަހަލައެވެ. ފަޒާލްގެ ތުންފަތް މައްޗަށް ހިނިތުން ވުމެއް ވެރިއެވެ.",
+     "narration_english": "Hayaathu's lovely smile seemed to be telling so many stories. A smile rose on Fazaal's lips.",
+     "crop": "tight",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      12.6,
+      0.0,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Fazaal), create a new scene: Cinematic semi-realistic digital illustration, soft natural light, warm tropical colour palette with gentle rose and blush tones like a romantic drama book cover, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject in the upper two-thirds and calm, uncluttered space at the bottom for a logo.\nScene: Fazaal sitting on the wooden veranda steps of the big old house at sunset, looking down at a smartphone in his hand whose screen faces away from the viewer and glows softly, a tender surprised smile rising on his lips, the golden lagoon behind him. Location: the wide wooden veranda of a large old two-storey house among coconut palms on the far side of a Maldivian island, wooden railings and steps leading down to a secluded white-sand beach, the calm lagoon beyond, at sunset. Camera: medium shot, slightly low angle.\nCharacters: Fazaal (the young man): a tall lean Maldivian man about 25 with light-brown skin, clean-shaven, sharp cheekbones, straight dark eyebrows, intense dark eyes and short black hair swept back; wears a black polo shirt, grey chinos and a dark wristwatch.\nMood/lighting: sunset, warm golden-orange light, long soft shadows, tender and hopeful.\nModest Maldivian clothing, culturally respectful, no violence shown, no text, no letters, no writing, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.327,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 42.3,
+    "y_pct": 27.0,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_003",
+   "startMs": 26961,
+   "endMs": 59822,
+   "new_image_reason": "action change: the call from Yasir, then he looks out to sea with relief",
+   "characters": [
+    "young_driver"
+   ],
+   "location": "the wide wooden veranda of a large old two-storey house among coconut palms on the far side of a Maldivian island, wooden railings and steps leading down to a secluded white-sand beach, the calm lagoon beyond, at sunset",
+   "location_key": "veranda",
+   "mood": "sunset, warm golden-orange light, long soft shadows, tender and hopeful",
+   "visual": "Fazaal standing at the wooden veranda railing, a phone lowered in one hand, letting out a breath of relief and gazing out at the sunset over the calm lagoon, a calm peaceful face, palm fronds framing the sky",
+   "camera": "medium shot from the side",
+   "image": "images/beat_003.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "beach_dusk",
+   "shots": [
+    {
+     "id": "shot_004",
+     "startMs": 26961,
+     "endMs": 36441,
+     "narration_dhivehi": "ފޮޓޮއަށް ގެއްލިފައި އިންދާ ފޯނު ރިންގުވާން ފެށުމުން ފޮޓޯ ގެއްލުނެވެ. ފަޒާލް ފޯނަށް ޖަވާބު ދިނެވެ. \"ހަލޯ....\" ފަޒާލްގެ ފިރިހެންވަންތަ އަޑު އިވިގެން ދިޔައެވެ.",
+     "narration_english": "As he sat lost in the photo, the phone began to ring and the photo vanished. Fazaal answered. 'Hello...' came Fazaal's manly voice.",
+     "crop": "full",
+     "motion": "pan right",
+     "sfx": [
+      {
+       "name": "phone_buzz",
+       "atMs": 29201,
+       "gainDb": -14,
+       "word": "ރިންގުވާން"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_005",
+     "startMs": 36441,
+     "endMs": 45091,
+     "narration_dhivehi": "\"ހަޔާތް ރަންކިޔާފި....\" އެކޮޅުން ފަޒާލްގެ އެކުވެރި ޔާސިރުގެ އަޑުއިވިގެން ދިޔައެވެ. \"ހޫން...\" ފަޒާލް އިތުރު ވާހަކައެއް އެހުމެއްނެތި ފޯނު ކަނޑާލިއެވެ.",
+     "narration_english": "'Hayaathu has accepted the ring...' came the voice of Fazaal's friend Yasir from the other end. 'Hmm...' Without asking anything more, Fazaal hung up.",
+     "crop": "tight",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      1.1,
+      29.6,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_006",
+     "startMs": 45091,
+     "endMs": 52892,
+     "narration_dhivehi": "ފަޒާލް ހަމަޖެހުމުގެ ނޭވާ އެއްލިއެވެ. ފުރަތަމަ ފިޔަވަޅު އެޅުނީއެވެ. ގިނަ ދުވަސް ތަކެއް ނުވެ ހަޔާތު އޭނަގެ މީހަކަށް ވެދާނެއެވެ.",
+     "narration_english": "Fazaal let out a breath of relief. The first step had been taken. Before many days pass, Hayaathu may become his.",
+     "crop": "full",
+     "motion": "pan up",
+     "sfx": [
+      {
+       "name": "sigh",
+       "atMs": 46561,
+       "gainDb": -20,
+       "word": "ނޭވާ"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_007",
+     "startMs": 52892,
+     "endMs": 59822,
+     "narration_dhivehi": "ކުރިމަތިން ފެންނަމުން ދިޔަ މޫދާއި ދިމާއަށް ބަލާލިއެވެ. ކޮންމެވެސް ވަރެއްގެ ހިތްހަމަ ޖެހުމެއް ލިބުނުކަހަލައެވެ.",
+     "narration_english": "He looked out at the sea in front of him. It was as if he had found some kind of peace.",
+     "crop": "medium",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      0.0,
+      15.3,
+      71.5,
+      84.7
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Fazaal), create a new scene: Cinematic semi-realistic digital illustration, soft natural light, warm tropical colour palette with gentle rose and blush tones like a romantic drama book cover, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject in the upper two-thirds and calm, uncluttered space at the bottom for a logo.\nScene: Fazaal standing at the wooden veranda railing, a phone lowered in one hand, letting out a breath of relief and gazing out at the sunset over the calm lagoon, a calm peaceful face, palm fronds framing the sky. Location: the wide wooden veranda of a large old two-storey house among coconut palms on the far side of a Maldivian island, wooden railings and steps leading down to a secluded white-sand beach, the calm lagoon beyond, at sunset. Camera: medium shot from the side.\nCharacters: Fazaal (the young man): a tall lean Maldivian man about 25 with light-brown skin, clean-shaven, sharp cheekbones, straight dark eyebrows, intense dark eyes and short black hair swept back; wears a black polo shirt, grey chinos and a dark wristwatch.\nMood/lighting: sunset, warm golden-orange light, long soft shadows, tender and hopeful.\nModest Maldivian clothing, culturally respectful, no violence shown, no text, no letters, no writing, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.236,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 30.9,
+    "y_pct": 75.3,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_004",
+   "startMs": 59822,
+   "endMs": 82163,
+   "new_image_reason": "flashback: the tenderness he saw Hayaathu show her sister (reused image from ep 272)",
+   "characters": [
+    "hayaathu",
+    "dhooma"
+   ],
+   "location": "a quiet island roadside at night in the Maldives, warm streetlights, blurred headlights in the background",
+   "location_key": "street_memory",
+   "mood": "night, warm streetlights, hazy remembered softness",
+   "visual": "(reuse from ep 272) Hayaathu crying, holding Dhooma's hand under a streetlight",
+   "camera": "medium shot, eye level",
+   "image": "images/beat_004.png",
+   "reuse_of": "ep272:shot_037",
+   "transition_in": "dissolve",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "memory",
+   "shots": [
+    {
+     "id": "shot_008",
+     "startMs": 59822,
+     "endMs": 73723,
+     "narration_dhivehi": "ހިތް ނުތަވަސް ކަމާއި ހިތުގައި ނަފުރަތުގެ އަލިފާން ގަނޑެއް ރޯކޮށްގެން އޭނަ އުޅޭތާ ކިތަންމެ ދުވަހެކެވެ. ހަޔާތް އޭނަގެ ދައްތައަށް ބަހަޓަމުންދާ އޯގާތެރިކަން ފެނުމުން އަންހެނުންނަށް ކުރަމުން އަންނަ ނަފުރަތު ހިތުން ފުހެވުނު ކަހަލައެވެ.",
+     "narration_english": "For so many days he had lived restless, a fire of hatred burning in his heart. Seeing the tenderness Hayaathu showed her sister, it was as if the hatred he felt for women had been wiped from his heart.",
+     "crop": "tight",
+     "motion": "pan down",
+     "sfx": [],
+     "hum": true,
+     "crop_rect_pct": [
+      20.3,
+      4.8,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_009",
+     "startMs": 73723,
+     "endMs": 82163,
+     "narration_dhivehi": "އެ ހިތް މިހާރު ބޭނުންވަނީ ލޯތްބާއި އޯގާތެރިކަމެވެ. ދުނިޔެ ބުނަމުން އެ ދަނީ ތެދު ވާހަކަ އެކެވެ. އޮޅުވާލުމެއް އޭގައި ނެތްކަން ޔަގީންނެވެ.",
+     "narration_english": "That heart now longs for love and tenderness. The world is telling him the truth. He is sure there is no deceit in it.",
+     "crop": "full",
+     "motion": "static drift",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [],
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.508,
+    "halo": true
+   },
+   "focus": {
+    "x_pct": 50.0,
+    "y_pct": 40.0,
+    "face_detected": false
+   }
+  },
+  {
+   "id": "beat_005",
+   "startMs": 82163,
+   "endMs": 100144,
+   "new_image_reason": "emotional turning point: he resolves to leave hatred behind",
+   "characters": [
+    "young_driver"
+   ],
+   "location": "the wide wooden veranda of a large old two-storey house among coconut palms on the far side of a Maldivian island, wooden railings and steps leading down to a secluded white-sand beach, the calm lagoon beyond, at sunset",
+   "location_key": "veranda",
+   "mood": "sunset, warm golden-orange light, long soft shadows, tender and hopeful",
+   "visual": "close-up of Fazaal's face in warm golden sunset light, the sea breeze moving his hair, his intense dark eyes softened, a calm determined expression, the glowing lagoon blurred behind",
+   "camera": "close-up, eye level",
+   "image": "images/beat_005.png",
+   "reuse_of": null,
+   "transition_in": "dissolve",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "beach_dusk",
+   "shots": [
+    {
+     "id": "shot_010",
+     "startMs": 82163,
+     "endMs": 91473,
+     "narration_dhivehi": "ކޮންމެ އިންސާނަކަށް ވެސް މި ދުނިޔޭގައި ދިރިއުޅުމުގެ ފުރުޞަތު ލިބެނީ އެއްފަހަރުއެވެ. ވީއިރު އެ ފުރުޞަތުގެ ބޭނުން ރަނގަޅު ގޮތުގައ ނުހިފަންވީ ކީއްވެހެއްޔެވެ؟",
+     "narration_english": "Every human being gets the chance to live in this world only once. Then why not make good use of that chance?",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_011",
+     "startMs": 91473,
+     "endMs": 100144,
+     "narration_dhivehi": "ނަފުރަތަށް އޭނަގެ ހިތް ޖާގަދޭންވީ ކީއްވެން ހެއްޔެވެ؟ އާނ އެކެވެ. އޭނަ އެ ފުރުޞަތުގެ ބޭނުން ހިފާނީ ކާމިޔާބު ދިރިއުޅުމެއް އުޅޭށެވެ.",
+     "narration_english": "Why should his heart give room to hatred? Yes. He will use that chance to live a successful life.",
+     "crop": "tight",
+     "motion": "pan left",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      13.0,
+      0.0,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Fazaal), create a new scene: Cinematic semi-realistic digital illustration, soft natural light, warm tropical colour palette with gentle rose and blush tones like a romantic drama book cover, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject in the upper two-thirds and calm, uncluttered space at the bottom for a logo.\nScene: close-up of Fazaal's face in warm golden sunset light, the sea breeze moving his hair, his intense dark eyes softened, a calm determined expression, the glowing lagoon blurred behind. Location: the wide wooden veranda of a large old two-storey house among coconut palms on the far side of a Maldivian island, wooden railings and steps leading down to a secluded white-sand beach, the calm lagoon beyond, at sunset. Camera: close-up, eye level.\nCharacters: Fazaal (the young man): a tall lean Maldivian man about 25 with light-brown skin, clean-shaven, sharp cheekbones, straight dark eyebrows, intense dark eyes and short black hair swept back; wears a black polo shirt, grey chinos and a dark wristwatch.\nMood/lighting: sunset, warm golden-orange light, long soft shadows, tender and hopeful.\nModest Maldivian clothing, culturally respectful, no violence shown, no text, no letters, no writing, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.201,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 42.7,
+    "y_pct": 32.3,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_006",
+   "startMs": 100144,
+   "endMs": 110964,
+   "new_image_reason": "action change: he walks down to the shore",
+   "characters": [
+    "young_driver"
+   ],
+   "location": "the secluded white-sand beach in front of a large old two-storey house among coconut palms on the far side of a Maldivian island, calm lagoon, gentle waves, at sunset turning to dusk",
+   "location_key": "beach_dusk",
+   "mood": "sunset fading into violet dusk, warm horizon, cool blue shadows, pensive and calm",
+   "visual": "Fazaal walking slowly barefoot across the white sand towards the water's edge at sunset, seen from behind and slightly to the side, hands in his pockets, his footprints trailing behind him, the big old house among the palms in the background",
+   "camera": "wide shot",
+   "image": "images/beat_006.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "beach_dusk",
+   "shots": [
+    {
+     "id": "shot_012",
+     "startMs": 100144,
+     "endMs": 110964,
+     "narration_dhivehi": "އޭނަ އޭނަގެ ދިރިއުޅުން ބޭކާވު ވިޔަކަ ނުދޭނެއެވެ. ފަޒާލް މަޑުމަޑުން ގޮޑުދޮށަށް ދާން ހިނގައިގަތެވެ. އިހަކަށް ރެއަކު ހަޔާތް މޫދަށް ގެނބެމުން ދަނިކޮށް ނަގައިގެން ގެނެސް ބޭއްވީ މި ތަނުގައެވެ.",
+     "narration_english": "He will not let his life go to waste. Fazaal slowly walked down to the shore. Not long ago, one night, he had pulled Hayaathu from the sea as she was sinking and laid her down right here.",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [
+      {
+       "name": "footsteps_sand",
+       "atMs": 104744,
+       "gainDb": -22,
+       "word": "ހިނގައިގަތެވެ."
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Fazaal), create a new scene: Cinematic semi-realistic digital illustration, soft natural light, warm tropical colour palette with gentle rose and blush tones like a romantic drama book cover, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject in the upper two-thirds and calm, uncluttered space at the bottom for a logo.\nScene: Fazaal walking slowly barefoot across the white sand towards the water's edge at sunset, seen from behind and slightly to the side, hands in his pockets, his footprints trailing behind him, the big old house among the palms in the background. Location: the secluded white-sand beach in front of a large old two-storey house among coconut palms on the far side of a Maldivian island, calm lagoon, gentle waves, at sunset turning to dusk. Camera: wide shot.\nCharacters: Fazaal (the young man): a tall lean Maldivian man about 25 with light-brown skin, clean-shaven, sharp cheekbones, straight dark eyebrows, intense dark eyes and short black hair swept back; wears a black polo shirt, grey chinos and a dark wristwatch.\nMood/lighting: sunset fading into violet dusk, warm horizon, cool blue shadows, pensive and calm.\nModest Maldivian clothing, culturally respectful, no violence shown, no text, no letters, no writing, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.455,
+    "halo": true
+   },
+   "focus": {
+    "x_pct": 50.0,
+    "y_pct": 40.0,
+    "face_detected": false
+   }
+  },
+  {
+   "id": "beat_007",
+   "startMs": 110964,
+   "endMs": 120555,
+   "new_image_reason": "flashback: the night he laid Hayaathu on this beach (reused image from ep 273)",
+   "characters": [
+    "hayaathu",
+    "young_driver"
+   ],
+   "location": "a deserted moonlit beach on the far side of a Maldivian island, far from the village, a large old two-storey house with a veranda among the palm trees behind the beach",
+   "location_key": "far_beach",
+   "mood": "night, full moon, silver moonlight, remembered, tender and dreamlike",
+   "visual": "(reuse from ep 273) Hayaathu lying on the moonlit sand, Fazaal standing a few steps away",
+   "camera": "medium shot, eye level",
+   "image": "images/beat_007.png",
+   "reuse_of": "ep273:beat_012",
+   "transition_in": "dissolve",
+   "sensitive": "other",
+   "safe_substitution": "rescue and carrying not shown; she already lies on the sand and he stands at a distance (ep 273 image)",
+   "ambience": "memory",
+   "shots": [
+    {
+     "id": "shot_013",
+     "startMs": 110964,
+     "endMs": 120555,
+     "narration_dhivehi": "ފަޒާލަށް އެ މަންޒަރު ސިފަވެގެން ދިޔަކަހަލައެވެ. ހަޔާތްގެ ރީތި މޫނު ހަނދުގެ ރިހިއަލިން ފެނުނު ވަގުތު ހިތަށް ކުރި އިޙްސާސް އަދިވެސް ތާޒާކޮށް އެބަހުއްޓެވެ.",
+     "narration_english": "The scene came back to Fazaal. The feeling in his heart when he saw Hayaathu's lovely face in the moonlight is still fresh.",
+     "crop": "medium",
+     "motion": "pan right",
+     "sfx": [],
+     "hum": true,
+     "crop_rect_pct": [
+      25.6,
+      0.0,
+      71.5,
+      84.7
+     ]
+    }
+   ],
+   "prompt_attempts": [],
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.344,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 61.3,
+    "y_pct": 14.6,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_008",
+   "startMs": 120555,
+   "endMs": 161286,
+   "new_image_reason": "back to the present: Fazaal at the water's edge, reflecting on his secret and his 'drama'",
+   "characters": [
+    "young_driver"
+   ],
+   "location": "the secluded white-sand beach in front of a large old two-storey house among coconut palms on the far side of a Maldivian island, calm lagoon, gentle waves, at sunset turning to dusk",
+   "location_key": "beach_dusk",
+   "mood": "sunset fading into violet dusk, warm horizon, cool blue shadows, pensive and calm",
+   "visual": "Fazaal standing alone at the water's edge at dusk, hands in his pockets, gentle waves at his feet, looking at the horizon with a pensive, guarded half smile, violet and orange sky, a lone leaning palm",
+   "camera": "medium wide, eye level",
+   "image": "images/beat_008.png",
+   "reuse_of": null,
+   "transition_in": "dissolve",
+   "sensitive": "intimacy",
+   "safe_substitution": "his past romances are not shown; he stands alone",
+   "ambience": "beach_dusk",
+   "shots": [
+    {
+     "id": "shot_014",
+     "startMs": 120555,
+     "endMs": 129255,
+     "narration_dhivehi": "އެ ރީތި އަންހެންކުޖާ އޭނަގެ މީހަކަށް ހަނދަން ހިތްވަނީ ކެތްމަދުވެފައެވެ. އޭނަގެ ހިތުގައި ފޮރުވިފައިވާ ސިއްރު އޭނަ ހާމަކުރާކަށް ބޭނުމެއް ނުވެއެވެ.",
+     "narration_english": "He is impatient to make that beautiful girl his. He has no wish to reveal the secret hidden in his heart.",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_015",
+     "startMs": 129255,
+     "endMs": 141526,
+     "narration_dhivehi": "ފޮރުވިފައިވާ ލޯބި އެއްފަރާތެއްގައި ބާއްވާފައި ލޯބީގެ ގޮތުން އެ ތައް ކުދިންނަކާއި ގުޅުނެވެ. ލޯބީގެ ގޮތުން އޭނަޔާއި ގުޅިގެން އައި އެއްވެސް ކުއްޖަކަށް އޭނަގެ ހިތާ ހަމަޔަކަށް ވާސިލް ވެވިފައެއް ނެތެވެ.",
+     "narration_english": "Setting his hidden love aside, he had been linked with many girls. Not one girl who came to him in love had ever reached his heart.",
+     "crop": "tight",
+     "motion": "pan up",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      8.8,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_016",
+     "startMs": 141526,
+     "endMs": 150476,
+     "narration_dhivehi": "ބައްޕަ ކައިވެންޏަށް ހަމަޖައްސާ ކުއްޖަކާ ވެސް ބައްދަލެއް ނުކުރެއެވެ. ބައްދަލު ވުމުގެ ކުރިން އެ އަންހެންކުއްޖާގެ އާއިލާ އިން ކައިވެންޏާ އިންކާރު ކުރެއެވެ.",
+     "narration_english": "He never meets the girls his father arranges for him to marry either. Before any meeting, the girl's family refuses the marriage.",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_017",
+     "startMs": 150476,
+     "endMs": 161286,
+     "narration_dhivehi": "ވާނީ ވެސް އެހެންނެވެ. ބައްޕައަށް ވަގަށް އޭނަ ކުޅެމުން ދިޔަ ޑްރާމާގެ މޮޅުކަމުނެވެ. އޭނަގެ ނަމަކީ ފަޒާލް ކަމުގައި ވިޔަސް އުމުރާ ސިފަ އަކީ އޭނައަށް ވުރެން 7 އަހަރު ދޮށީ ބޭބެގެ ސިފައެވެ.",
+     "narration_english": "That is how it goes — thanks to the success of the drama he has been playing behind his father's back. His name is Fazaal, but the age and the face are those of his brother, seven years older.",
+     "crop": "medium",
+     "motion": "pan down",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      2.7,
+      0.0,
+      71.5,
+      84.7
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Fazaal), create a new scene: Cinematic semi-realistic digital illustration, soft natural light, warm tropical colour palette with gentle rose and blush tones like a romantic drama book cover, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject in the upper two-thirds and calm, uncluttered space at the bottom for a logo.\nScene: Fazaal standing alone at the water's edge at dusk, hands in his pockets, gentle waves at his feet, looking at the horizon with a pensive, guarded half smile, violet and orange sky, a lone leaning palm. Location: the secluded white-sand beach in front of a large old two-storey house among coconut palms on the far side of a Maldivian island, calm lagoon, gentle waves, at sunset turning to dusk. Camera: medium wide, eye level.\nCharacters: Fazaal (the young man): a tall lean Maldivian man about 25 with light-brown skin, clean-shaven, sharp cheekbones, straight dark eyebrows, intense dark eyes and short black hair swept back; wears a black polo shirt, grey chinos and a dark wristwatch.\nMood/lighting: sunset fading into violet dusk, warm horizon, cool blue shadows, pensive and calm.\nModest Maldivian clothing, culturally respectful, no violence shown, no text, no letters, no writing, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.41,
+    "halo": true
+   },
+   "focus": {
+    "x_pct": 38.5,
+    "y_pct": 22.1,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_009",
+   "startMs": 161286,
+   "endMs": 176487,
+   "new_image_reason": "flashback symbol: his brother Fawaz's tragedy (reused image from ep 274)",
+   "characters": [],
+   "location": "a wooden side table in a large old house, late afternoon window light",
+   "location_key": "fazaal_detail",
+   "mood": "soft quiet light, grief, stillness",
+   "visual": "(reuse from ep 274) a face-down photo frame beside a wilted white flower and a watch",
+   "camera": "medium shot, eye level",
+   "image": "images/beat_009.png",
+   "reuse_of": "ep274:beat_018",
+   "transition_in": "dissolve",
+   "sensitive": "injury/death",
+   "safe_substitution": "the fire and the disfigured face are never shown; a face-down photo frame and a wilted flower instead",
+   "ambience": "memory",
+   "shots": [
+    {
+     "id": "shot_018",
+     "startMs": 161286,
+     "endMs": 168397,
+     "narration_dhivehi": "ފަޒާލްގެ ބޭބެ ފަވާޒްގެ މޫނުގެ ސިފަ ބަދަލުވި އެ ހާދިސާ އަކީ ވެސް ފަޒާލް ހިތުން ފުހެވުނު ހާދިސާއެއް ނޫނެވެ.",
+     "narration_english": "The accident that changed the face of Fazaal's brother Fawaz is not something that has faded from Fazaal's heart.",
+     "crop": "tight",
+     "motion": "static drift",
+     "sfx": [],
+     "hum": true,
+     "crop_rect_pct": [
+      20.3,
+      4.8,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_019",
+     "startMs": 168397,
+     "endMs": 176487,
+     "narration_dhivehi": "އެ ހާދިސާގެ ސަބަބުން އޭނަގެ ހިތުގައި އަންހެނުންނަށް ޓަކާ އުފެދެމުން ދިޔަ ނަފުރަތު ދުވަހެއް ދުވަހަކަށް ދިޔައީ އިތުރުވަމުންނެވެ.",
+     "narration_english": "Because of that accident, the hatred towards women growing in his heart only increased day by day.",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [],
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.317,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 50.0,
+    "y_pct": 40.0,
+    "face_detected": false
+   }
+  },
+  {
+   "id": "beat_010",
+   "startMs": 176487,
+   "endMs": 195908,
+   "new_image_reason": "back to the present: Hayaathu's photo has changed him; the phone rings again",
+   "characters": [
+    "young_driver"
+   ],
+   "location": "the secluded white-sand beach in front of a large old two-storey house among coconut palms on the far side of a Maldivian island, calm lagoon, gentle waves, at sunset turning to dusk",
+   "location_key": "beach_dusk",
+   "mood": "sunset fading into violet dusk, warm horizon, cool blue shadows, pensive and calm",
+   "visual": "Fazaal sitting on the trunk of a leaning coconut palm on the beach at dusk, glancing down at the phone lighting up in his hand (screen facing away from the viewer), a quiet confident smile, the lagoon turning violet behind him",
+   "camera": "medium shot",
+   "image": "images/beat_010.png",
+   "reuse_of": null,
+   "transition_in": "dissolve",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "beach_dusk",
+   "shots": [
+    {
+     "id": "shot_020",
+     "startMs": 176487,
+     "endMs": 186197,
+     "narration_dhivehi": "އެކަމަކު މި ދެ ތިން ދުވަހު އޭނަގެ މިޒާޖާ އޭނައަށް ކުރަމުން ދިޔަ އިޙްސާސްތައް ތަފާތެވެ. ބައްޕަ ހަޔާތުގެ ފޮޓޯ ފޮނުވި ހިސާބުން ހަޔާތަކީ އޭނަގެ މީހަކަށް ވެނިމިއްޖެއެވެ.",
+     "narration_english": "But these last two or three days his mood, his feelings, are different. From the moment his father sent Hayaathu's photo, Hayaathu had become his.",
+     "crop": "full",
+     "motion": "pan left",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_021",
+     "startMs": 186197,
+     "endMs": 195908,
+     "narration_dhivehi": "އިތުރަށް ލަސްކުރަން ބޭނުން ނުވާތީ ވީހާ ވެސް އަވަހަކަށް ކައިވެނީގެ ކަންތައް ކުރަން ނިންމީއެވެ. އަނެއްކާ ވެސް ފޯނު ރިނގުވާން ފެށިއެވެ. ޔާސިރުގެ ފޯނެކެވެ.",
+     "narration_english": "Not wanting to wait any longer, he decided to arrange the wedding as soon as possible. Once again the phone began to ring. It was Yasir.",
+     "crop": "tight",
+     "motion": "slow pull-out",
+     "sfx": [
+      {
+       "name": "phone_buzz",
+       "atMs": 193388,
+       "gainDb": -14,
+       "word": "ރިނގުވާން"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      10.4,
+      0.0,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Fazaal), create a new scene: Cinematic semi-realistic digital illustration, soft natural light, warm tropical colour palette with gentle rose and blush tones like a romantic drama book cover, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject in the upper two-thirds and calm, uncluttered space at the bottom for a logo.\nScene: Fazaal sitting on the trunk of a leaning coconut palm on the beach at dusk, glancing down at the phone lighting up in his hand (screen facing away from the viewer), a quiet confident smile, the lagoon turning violet behind him. Location: the secluded white-sand beach in front of a large old two-storey house among coconut palms on the far side of a Maldivian island, calm lagoon, gentle waves, at sunset turning to dusk. Camera: medium shot.\nCharacters: Fazaal (the young man): a tall lean Maldivian man about 25 with light-brown skin, clean-shaven, sharp cheekbones, straight dark eyebrows, intense dark eyes and short black hair swept back; wears a black polo shirt, grey chinos and a dark wristwatch.\nMood/lighting: sunset fading into violet dusk, warm horizon, cool blue shadows, pensive and calm.\nModest Maldivian clothing, culturally respectful, no violence shown, no text, no letters, no writing, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.363,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 40.1,
+    "y_pct": 24.1,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_011",
+   "startMs": 195908,
+   "endMs": 223359,
+   "new_image_reason": "characters change: Yasir on the other end of the call",
+   "characters": [
+    "yasir"
+   ],
+   "location": "the narrow sandy lane outside the gate of an old Maldivian coral-stone house in the early evening, low white coral walls, a coconut palm, a parked motorbike, a warm porch light by the gate",
+   "location_key": "house_lane",
+   "mood": "early evening, violet-blue sky, warm porch light, lively",
+   "visual": "Yasir standing in the sandy lane outside the gate of an old coral-stone house in the early evening, holding a phone to his ear, eyebrows raised in amazement, his free hand gesturing as he talks",
+   "camera": "medium shot, eye level",
+   "image": "images/beat_011.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "street_night",
+   "shots": [
+    {
+     "id": "shot_022",
+     "startMs": 195908,
+     "endMs": 204948,
+     "narration_dhivehi": "ފުންނޭވާ އެއް ލުމަށްފަހު ފަޒާލް ފޯނަށް ޖަވާބު ދިނެވެ. \"ކީކޭ...\" ފަޒާލް އަހާލިއެވެ. \"އަހަރެން މިހިރީ ހަޔާތު ފެނިފައި ހަމަ ހައިރާން ވެފައި.\"",
+     "narration_english": "After a deep breath Fazaal answered. 'What is it?' Fazaal asked. 'I've just seen Hayaathu and I'm completely stunned.'",
+     "crop": "full",
+     "motion": "pan right",
+     "sfx": [
+      {
+       "name": "breath",
+       "atMs": 196068,
+       "gainDb": -22,
+       "word": "ފުންނޭވާ"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_023",
+     "startMs": 204948,
+     "endMs": 214039,
+     "narration_dhivehi": "ޔާސިރުގެ އަޑުގައި ވަނީ ޙައިރާން ކަމެވެ. \"ކީއްވެ؟\" ކީއްވެގެންކަށް ފަޒާލަށް އެނގެއެވެ. އެކަމަކު ވެސް ޔާސިރުގެ އަނގައިން ބުނުވަން ފަޒާލް ބޭނުން ވިއެވެ.",
+     "narration_english": "There was amazement in Yasir's voice. 'Why?' Fazaal knew why. Still, he wanted to hear it from Yasir's own mouth.",
+     "crop": "tight",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      20.6,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_024",
+     "startMs": 214039,
+     "endMs": 223359,
+     "narration_dhivehi": "\"ފަޒާލާއި ހަޔާތު ކުރިން ވެސް ދިމާވިދޯ.\" ޔާސިރު އަވަސް އަވަހަށް އަހާލިއެވެ. ފާޒާލް ހިމޭންވިއެވެ. އިތުރަށް އެ ވާހަކަ ދައްކާކަށް ފަޒާލް ބޭނުމެއް ނުވިއެވެ.",
+     "narration_english": "'You and Hayaathu have met before, haven't you?' Yasir asked quickly. Fazaal fell silent. He didn't want to talk about it any further.",
+     "crop": "full",
+     "motion": "pan up",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Yasir), create a new scene: Cinematic semi-realistic digital illustration, soft natural light, warm tropical colour palette with gentle rose and blush tones like a romantic drama book cover, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject in the upper two-thirds and calm, uncluttered space at the bottom for a logo.\nScene: Yasir standing in the sandy lane outside the gate of an old coral-stone house in the early evening, holding a phone to his ear, eyebrows raised in amazement, his free hand gesturing as he talks. Location: the narrow sandy lane outside the gate of an old Maldivian coral-stone house in the early evening, low white coral walls, a coconut palm, a parked motorbike, a warm porch light by the gate. Camera: medium shot, eye level.\nCharacters: Yasir: a Maldivian man about 26 with warm brown skin, a friendly oval face with rounded cheeks, a thin neatly trimmed moustache and light stubble, lively dark eyes behind black rectangular-framed glasses, short black hair cropped close at the sides; medium height, average build; wears a light-blue and white checked short-sleeved button shirt and khaki long trousers.\nMood/lighting: early evening, violet-blue sky, warm porch light, lively.\nModest Maldivian clothing, culturally respectful, no violence shown, no text, no letters, no writing, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.55,
+    "halo": true
+   },
+   "focus": {
+    "x_pct": 50.3,
+    "y_pct": 22.3,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_012",
+   "startMs": 223359,
+   "endMs": 262021,
+   "new_image_reason": "characters change: back to Fazaal, worried by what he hears about Hayaathu",
+   "characters": [
+    "young_driver"
+   ],
+   "location": "the secluded white-sand beach in front of a large old two-storey house among coconut palms on the far side of a Maldivian island, calm lagoon, gentle waves, at sunset turning to dusk",
+   "location_key": "beach_dusk",
+   "mood": "sunset fading into violet dusk, warm horizon, cool blue shadows, pensive and calm",
+   "visual": "Fazaal standing on the beach at dusk with the phone to his ear, his smile gone, brows drawn together in concern, listening intently, the darkening sea and palms behind him",
+   "camera": "medium close-up",
+   "image": "images/beat_012.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "beach_dusk",
+   "shots": [
+    {
+     "id": "shot_025",
+     "startMs": 223359,
+     "endMs": 233199,
+     "narration_dhivehi": "\"ގެޔަށް އައިސް ވާހަކަ ދައްކާނީ.\" ފަޒާލް މަޑުމަޑުން ބުނެލިއެވެ. \"އޯކޭ. ހަޔާތު ފަޒާލްގެ ނަމްބަރު އެބައަހާ... ކިހިނެއް ހަދަންވީ. ދޭންވީތަ؟\"",
+     "narration_english": "'We'll talk when I get home,' Fazaal said slowly. 'Okay. Hayaathu is asking for your number... what should I do? Should I give it?'",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_026",
+     "startMs": 233199,
+     "endMs": 242740,
+     "narration_dhivehi": "ޔާސިރުގެ އަޑުއިވުނެވެ. \"ކިހިނެއްވީ؟ ކަމެއް އަނެއްކާ ގޯސްވީތަ؟\" ފަޒާލް އަހާލިއެވެ. \"ނޭނގެ.... އަހަރެންނަށް ހީވަނީ... ވަރަށް ރޮއިފަހެން ހުރީ.",
+     "narration_english": "came Yasir's voice. 'What happened? Has something gone wrong again?' Fazaal asked. 'I don't know... I think... she looked like she'd been crying a lot.",
+     "crop": "tight",
+     "motion": "pan down",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      9.8,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_027",
+     "startMs": 242740,
+     "endMs": 252620,
+     "narration_dhivehi": "ކޮންމެވެސް ބޮޑުކަމެއް އެގޭތެރޭގައި އެބަހިނގާ... އޭނަގެ ބޭބެ އަކީ މާ ރަނގަޅު މީހެއް ހެނެއް ހިޔެއްނުވޭ.... ވިސްނައިގެން އުޅޭތި. ދެން ކިހިނެއް ހަދަންވީ.",
+     "narration_english": "Something big is going on in that house... her uncle doesn't seem like a very good man... think about it. So what should I do?",
+     "crop": "full",
+     "motion": "static drift",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_028",
+     "startMs": 252620,
+     "endMs": 262021,
+     "narration_dhivehi": "ނަމްބަރު ދޭންވީތަ؟\" ޔާސިރު ހަމަޖެހިލަމުން އަހާލިއެވެ. \"ނޫން.... އަހަރެން ގުޅާނަން.... އޭނގެ ކުރިން ބަލާބަލަ ކީއްކުރަން ތޯ ނަމްބަރު އެ ހޯދަނީ؟\"",
+     "narration_english": "Should I give her the number?' Yasir asked calmly. 'No... I'll call her... but first find out why she wants the number.'",
+     "crop": "medium",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      3.8,
+      0.0,
+      71.5,
+      84.7
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Fazaal), create a new scene: Cinematic semi-realistic digital illustration, soft natural light, warm tropical colour palette with gentle rose and blush tones like a romantic drama book cover, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject in the upper two-thirds and calm, uncluttered space at the bottom for a logo.\nScene: Fazaal standing on the beach at dusk with the phone to his ear, his smile gone, brows drawn together in concern, listening intently, the darkening sea and palms behind him. Location: the secluded white-sand beach in front of a large old two-storey house among coconut palms on the far side of a Maldivian island, calm lagoon, gentle waves, at sunset turning to dusk. Camera: medium close-up.\nCharacters: Fazaal (the young man): a tall lean Maldivian man about 25 with light-brown skin, clean-shaven, sharp cheekbones, straight dark eyebrows, intense dark eyes and short black hair swept back; wears a black polo shirt, grey chinos and a dark wristwatch.\nMood/lighting: sunset fading into violet dusk, warm horizon, cool blue shadows, pensive and calm.\nModest Maldivian clothing, culturally respectful, no violence shown, no text, no letters, no writing, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.185,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 39.6,
+    "y_pct": 26.7,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_013",
+   "startMs": 262021,
+   "endMs": 289152,
+   "new_image_reason": "action change: Yasir calls back to tease him",
+   "characters": [
+    "yasir"
+   ],
+   "location": "the narrow sandy lane outside the gate of an old Maldivian coral-stone house in the early evening, low white coral walls, a coconut palm, a parked motorbike, a warm porch light by the gate",
+   "location_key": "house_lane",
+   "mood": "early evening, violet-blue sky, warm porch light, lively",
+   "visual": "Yasir leaning against a parked motorbike in the lamp-lit lane, phone to his ear, a teasing suspicious grin and one eyebrow raised, early evening sky",
+   "camera": "medium shot",
+   "image": "images/beat_013.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "street_night",
+   "shots": [
+    {
+     "id": "shot_029",
+     "startMs": 262021,
+     "endMs": 271821,
+     "narration_dhivehi": "ފަޒާލް ހަމަޖެހިލަމުން ބުންޏެވެ. \"އޯކޭ...\" ޔާސިރު އެހެން ބުނުމުން ފަޒާލް ފޯނު ކަނޑާލިއެވެ. އަނެއްކާ ވެސް އެކޮޅުން ޔާސިރު ގުޅާލިއެވެ. ފަޒާލް ފޯނުނެގިއެވެ.",
+     "narration_english": "Fazaal said calmly. 'Okay...' As soon as Yasir said it, Fazaal hung up. Yasir called back again at once. Fazaal picked up.",
+     "crop": "full",
+     "motion": "pan left",
+     "sfx": [
+      {
+       "name": "phone_buzz",
+       "atMs": 269591,
+       "gainDb": -16,
+       "word": "ގުޅާލިއެވެ."
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_030",
+     "startMs": 271821,
+     "endMs": 281962,
+     "narration_dhivehi": "\"ތިހާ އަވަހަށް ފޯނު ތިޔަ ކަނޑާލަނީ ބިޓެއްކައިރީގަތަ ތި އިނީ.\" ޔާސިރު ޝައްކުން ފުރިގެންވާ ރާގެއްގައި އަހާލިއެވެ. \"ކިހިނެއްވީތަ؟ ބިޓެއްކައިރީގައި މި އިނީ.\"",
+     "narration_english": "'Hanging up that fast — are you sitting next to some girl?' Yasir asked, full of suspicion. 'So what? Yes, I'm sitting next to a girl.'",
+     "crop": "tight",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      15.5,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_031",
+     "startMs": 281962,
+     "endMs": 289152,
+     "narration_dhivehi": "ފަޒާލް ބުމަ އަރުވާލަމުން ބުންޏެވެ. \"އޯޙް... ރަށުގައި ހުރި އެންމެ ރީތި ކުއްޖާ ލައްވާ އިންނަން ރަންކިއުވާފައި،",
+     "narration_english": "Fazaal said, raising an eyebrow. 'Oh... you get engaged to the prettiest girl on the island,",
+     "crop": "full",
+     "motion": "pan right",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Yasir), create a new scene: Cinematic semi-realistic digital illustration, soft natural light, warm tropical colour palette with gentle rose and blush tones like a romantic drama book cover, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject in the upper two-thirds and calm, uncluttered space at the bottom for a logo.\nScene: Yasir leaning against a parked motorbike in the lamp-lit lane, phone to his ear, a teasing suspicious grin and one eyebrow raised, early evening sky. Location: the narrow sandy lane outside the gate of an old Maldivian coral-stone house in the early evening, low white coral walls, a coconut palm, a parked motorbike, a warm porch light by the gate. Camera: medium shot.\nCharacters: Yasir: a Maldivian man about 26 with warm brown skin, a friendly oval face with rounded cheeks, a thin neatly trimmed moustache and light stubble, lively dark eyes behind black rectangular-framed glasses, short black hair cropped close at the sides; medium height, average build; wears a light-blue and white checked short-sleeved button shirt and khaki long trousers.\nMood/lighting: early evening, violet-blue sky, warm porch light, lively.\nModest Maldivian clothing, culturally respectful, no violence shown, no text, no letters, no writing, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.483,
+    "halo": true
+   },
+   "focus": {
+    "x_pct": 45.2,
+    "y_pct": 22.5,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_014",
+   "startMs": 289152,
+   "endMs": 306653,
+   "new_image_reason": "emotional change: Fazaal laughs",
+   "characters": [
+    "young_driver"
+   ],
+   "location": "the secluded white-sand beach in front of a large old two-storey house among coconut palms on the far side of a Maldivian island, calm lagoon, gentle waves, at sunset turning to dusk",
+   "location_key": "beach_dusk",
+   "mood": "sunset fading into violet dusk, warm horizon, cool blue shadows, pensive and calm",
+   "visual": "Fazaal alone on the beach at dusk laughing warmly, head tilted back slightly, the phone lowered from his ear, the first stars appearing over the violet lagoon, nobody else nearby",
+   "camera": "medium shot, slightly low angle",
+   "image": "images/beat_014.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": "other",
+   "safe_substitution": "the 'girl beside him' is only his joke; he is shown alone",
+   "ambience": "beach_dusk",
+   "shots": [
+    {
+     "id": "shot_032",
+     "startMs": 289152,
+     "endMs": 298232,
+     "narration_dhivehi": "ގަޑިއެއްގެ އިރު ވެސް ހަމަނުވަނީސް އަންހެނެއް ކައިރިޔަށް ވަދެ، ކޮބާ ލަދު..\" ޔާސިރު ދިމާ ކޮށްލިއެވެ. \"ދެން ތިޑިސްޓަޕް ކުރަނީ. ވީކަމެއް ބުނޭ...\"",
+     "narration_english": "and not even an hour later you're cosying up to another woman — where's your shame?' Yasir teased. 'Now stop disturbing me. Tell me what happened...'",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_033",
+     "startMs": 298232,
+     "endMs": 306653,
+     "narration_dhivehi": "ފަޒާލް ހީލަމުން ބުންޏެވެ. \"ދެން ނުވެސް ބުނާނަން.... ކަލޭ ކުރިޔަށް ގެންދޭ...\" ޔާސިރު ފޯނު ކަނޑާލިއެވެ. ފަޒާލް ހީލިއެވެ.",
+     "narration_english": "Fazaal said, laughing. 'Now I won't tell you anything... carry on...' Yasir hung up. Fazaal laughed.",
+     "crop": "tight",
+     "motion": "pan up",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      15.4,
+      0.0,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Fazaal), create a new scene: Cinematic semi-realistic digital illustration, soft natural light, warm tropical colour palette with gentle rose and blush tones like a romantic drama book cover, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject in the upper two-thirds and calm, uncluttered space at the bottom for a logo.\nScene: Fazaal alone on the beach at dusk laughing warmly, head tilted back slightly, the phone lowered from his ear, the first stars appearing over the violet lagoon, nobody else nearby. Location: the secluded white-sand beach in front of a large old two-storey house among coconut palms on the far side of a Maldivian island, calm lagoon, gentle waves, at sunset turning to dusk. Camera: medium shot, slightly low angle.\nCharacters: Fazaal (the young man): a tall lean Maldivian man about 25 with light-brown skin, clean-shaven, sharp cheekbones, straight dark eyebrows, intense dark eyes and short black hair swept back; wears a black polo shirt, grey chinos and a dark wristwatch.\nMood/lighting: sunset fading into violet dusk, warm horizon, cool blue shadows, pensive and calm.\nModest Maldivian clothing, culturally respectful, no violence shown, no text, no letters, no writing, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.37,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 45.1,
+    "y_pct": 18.7,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_015",
+   "startMs": 306653,
+   "endMs": 326293,
+   "new_image_reason": "scene change: Hayaathu back in her room after the ring ceremony",
+   "characters": [
+    "hayaathu"
+   ],
+   "location": "Hayaathu's small plain bedroom in an old Maldivian coral-stone house in the early evening, a single bed with a simple cotton sheet and pillow, a wooden louvered window, a ceiling fan, a small bedside lamp, a plain wooden door with an old iron bolt",
+   "location_key": "bedroom",
+   "mood": "early evening to night, dark blue outside the louvers, the warm glow of a small bedside lamp, deep shadows, lonely and tense",
+   "visual": "Hayaathu lying face down across her bed with her face buried in the pillow, one arm hanging over the edge, her rose dress and blush-pink hijab, the bedside lamp glowing, dusk blue through the louvers",
+   "camera": "medium wide, slightly high angle",
+   "image": "images/beat_015.png",
+   "reuse_of": null,
+   "transition_in": "black",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "room_night",
+   "shots": [
+    {
+     "id": "shot_034",
+     "startMs": 306653,
+     "endMs": 316813,
+     "narration_dhivehi": "ހަޔާތު ކޮޓަރިޔަށް ވަނުމާއި އެކީގައި އެނދުމައްޗަށް ވެއްޓިގަތެވެ. ވިސްނާނުލާ ހުއްޓާ އޭނަގެ މުޅި ދރިއުޅުން ބަދަލުވެގެން ދިޔައީއެވެ. އެސްފިޔައެއް ޖަހާހާ ވެސް އަވަހަށެވެ.",
+     "narration_english": "As soon as Hayaathu entered her room, she fell onto the bed. Without her even thinking, her whole life had changed — faster than the blink of an eye.",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [
+      {
+       "name": "soft_thud",
+       "atMs": 309733,
+       "gainDb": -18,
+       "word": "ވެއްޓިގަތެވެ."
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_035",
+     "startMs": 316813,
+     "endMs": 326293,
+     "narration_dhivehi": "އިއްޔެ އާއި ހަމަޔަށް އޭނަޔަކީ މައުރޫފްގެ އަމާނާތެކެވެ. އެކަމަކު މިހާރު މި ވަގުތުން ފަށައިގެން އޭނަޔަކީ ނުވެސްދަންނަ އިންސާނެއްގެ ހައްގަކަށް ވެނިމިއްޖެއެވެ.",
+     "narration_english": "Until yesterday she was Maaroof's to keep. But now, from this very moment, she has become the right of a man she doesn't even know.",
+     "crop": "tight",
+     "motion": "pan down",
+     "sfx": [],
+     "hum": true,
+     "crop_rect_pct": [
+      20.3,
+      4.8,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Hayaathu), create a new scene: Cinematic semi-realistic digital illustration, soft natural light, warm tropical colour palette with gentle rose and blush tones like a romantic drama book cover, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject in the upper two-thirds and calm, uncluttered space at the bottom for a logo.\nScene: Hayaathu lying face down across her bed with her face buried in the pillow, one arm hanging over the edge, her rose dress and blush-pink hijab, the bedside lamp glowing, dusk blue through the louvers. Location: Hayaathu's small plain bedroom in an old Maldivian coral-stone house in the early evening, a single bed with a simple cotton sheet and pillow, a wooden louvered window, a ceiling fan, a small bedside lamp, a plain wooden door with an old iron bolt. Camera: medium wide, slightly high angle.\nCharacters: Hayaathu: a Maldivian young woman in her early 20s with warm light-brown skin, soft oval face, large dark expressive eyes with long lashes, thick dark arched eyebrows, soft full lips, slim build; wears a loose long-sleeved ankle-length dusty-rose dress and a soft blush-pink chiffon hijab fully covering her hair and neck.\nMood/lighting: early evening to night, dark blue outside the louvers, the warm glow of a small bedside lamp, deep shadows, lonely and tense.\nModest Maldivian clothing, culturally respectful, no violence shown, no text, no letters, no writing, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.226,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 50.0,
+    "y_pct": 40.0,
+    "face_detected": false
+   }
+  },
+  {
+   "id": "beat_016",
+   "startMs": 326293,
+   "endMs": 347884,
+   "new_image_reason": "action change: she reads Maaroof's messages",
+   "characters": [
+    "hayaathu"
+   ],
+   "location": "Hayaathu's small plain bedroom in an old Maldivian coral-stone house in the early evening, a single bed with a simple cotton sheet and pillow, a wooden louvered window, a ceiling fan, a small bedside lamp, a plain wooden door with an old iron bolt",
+   "location_key": "bedroom",
+   "mood": "early evening to night, dark blue outside the louvers, the warm glow of a small bedside lamp, deep shadows, lonely and tense",
+   "visual": "Hayaathu sitting up on the bed, holding a smartphone whose screen faces away from the viewer and glows on her face, reading, tears welling in her eyes, the bolted wooden door behind her",
+   "camera": "medium close-up",
+   "image": "images/beat_016.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "room_night",
+   "shots": [
+    {
+     "id": "shot_036",
+     "startMs": 326293,
+     "endMs": 336784,
+     "narration_dhivehi": "ދުނިޔޭގެ ކަންހިނގަމުންދާ ގޮތާމެދު ހަޔާތް ޙައިރާން ވިއެވެ. ބާލީހުން ފޮރުވިފައިވާ މޫނު ހަޔާތު ހިއްލާލިއެވެ. އަތް ކާއްތާލަމުން ފޯނު ހޯދާލިއެވެ. ފޯނުނަގައި ހުޅުވާލިއެވެ.",
+     "narration_english": "Hayaathu marvelled at the way the world turns. She lifted her face from the pillow, reached out, found her phone, picked it up and opened it.",
+     "crop": "full",
+     "motion": "static drift",
+     "sfx": [
+      {
+       "name": "cloth_rustle",
+       "atMs": 332134,
+       "gainDb": -24,
+       "word": "ހިއްލާލިއެވެ."
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_037",
+     "startMs": 336784,
+     "endMs": 347884,
+     "narration_dhivehi": "މައުރޫފް ފޮނުވާފައިވާ ދިގު މެސެޖުތައް ކިޔަން ފެށިއެވެ. އެނދުން ތެދުވެ އަވަސް އަވަހަށް ދޮރު ލައްޕާ ތަޅުލިއެވެ. އޭނަޔަށް އެ މެސެޖްތައް ނުކިޔެނީސް މީހަކު އެ ތަނަށް އަތުވެދާނެތީ ބިރުންނެވެ.",
+     "narration_english": "She began to read the long messages Maaroof had sent. She got up from the bed and quickly shut and locked the door, afraid someone would come before she finished reading.",
+     "crop": "tight",
+     "motion": "slow push-in",
+     "sfx": [
+      {
+       "name": "door_close",
+       "atMs": 342134,
+       "gainDb": -18,
+       "word": "ލައްޕާ"
+      },
+      {
+       "name": "lock_click",
+       "atMs": 342574,
+       "gainDb": -16,
+       "word": "ތަޅުލިއެވެ."
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      18.7,
+      0.0,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Hayaathu), create a new scene: Cinematic semi-realistic digital illustration, soft natural light, warm tropical colour palette with gentle rose and blush tones like a romantic drama book cover, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject in the upper two-thirds and calm, uncluttered space at the bottom for a logo.\nScene: Hayaathu sitting up on the bed, holding a smartphone whose screen faces away from the viewer and glows on her face, reading, tears welling in her eyes, the bolted wooden door behind her. Location: Hayaathu's small plain bedroom in an old Maldivian coral-stone house in the early evening, a single bed with a simple cotton sheet and pillow, a wooden louvered window, a ceiling fan, a small bedside lamp, a plain wooden door with an old iron bolt. Camera: medium close-up.\nCharacters: Hayaathu: a Maldivian young woman in her early 20s with warm light-brown skin, soft oval face, large dark expressive eyes with long lashes, thick dark arched eyebrows, soft full lips, slim build; wears a loose long-sleeved ankle-length dusty-rose dress and a soft blush-pink chiffon hijab fully covering her hair and neck.\nMood/lighting: early evening to night, dark blue outside the louvers, the warm glow of a small bedside lamp, deep shadows, lonely and tense.\nModest Maldivian clothing, culturally respectful, no violence shown, no text, no letters, no writing, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.287,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 48.4,
+    "y_pct": 35.2,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_017",
+   "startMs": 347884,
+   "endMs": 357375,
+   "new_image_reason": "characters change: Zoona knocks at the door",
+   "characters": [
+    "zoona"
+   ],
+   "location": "a dim narrow hallway in an old Maldivian coral-stone house in the evening, a closed plain wooden bedroom door, a single warm ceiling bulb",
+   "location_key": "hallway",
+   "mood": "evening, harsh single warm bulb, tense",
+   "visual": "Zoona standing in the dim hallway knocking on the closed wooden bedroom door with her knuckles, calling out with an impatient, irritated face, a smartphone in her other hand",
+   "camera": "medium shot",
+   "image": "images/beat_017.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "living_night",
+   "shots": [
+    {
+     "id": "shot_038",
+     "startMs": 347884,
+     "endMs": 357375,
+     "narration_dhivehi": "ވީވެސް ހަމަ އެގޮތަށެވެ. ޒޫނާ ދޮރުގައި ޖަހާލަމުން ގޮވާލި އަޑުއިވުނެވެ. \"ހަޔާތު... ފަޒާލް ބުނެގެން ޔާސިރު އެބަހުރި އައިސް....\" ޒޫނާ ބާރަށް ބުނެލިއެވެ.",
+     "narration_english": "And that is exactly what happened. Zoona's voice came, knocking at the door. 'Hayaathu... Yasir is here, Fazaal sent him...' Zoona said loudly.",
+     "crop": "full",
+     "motion": "pan left",
+     "sfx": [
+      {
+       "name": "knock",
+       "atMs": 350155,
+       "gainDb": -12,
+       "word": "ޖަހާލަމުން"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Zoona), create a new scene: Cinematic semi-realistic digital illustration, soft natural light, warm tropical colour palette with gentle rose and blush tones like a romantic drama book cover, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject in the upper two-thirds and calm, uncluttered space at the bottom for a logo.\nScene: Zoona standing in the dim hallway knocking on the closed wooden bedroom door with her knuckles, calling out with an impatient, irritated face, a smartphone in her other hand. Location: a dim narrow hallway in an old Maldivian coral-stone house in the evening, a closed plain wooden bedroom door, a single warm ceiling bulb. Camera: medium shot.\nCharacters: Zoona: a plump Maldivian woman in her mid 40s with medium-brown skin, round full face, arched pencilled eyebrows, light makeup, heavy-lidded eyes; wears a long-sleeved ankle-length maroon kaftan-style dress with a small print and a black hijab covering her hair and neck; often holds a smartphone.\nMood/lighting: evening, harsh single warm bulb, tense.\nModest Maldivian clothing, culturally respectful, no violence shown, no text, no letters, no writing, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.152,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 42.2,
+    "y_pct": 23.6,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_018",
+   "startMs": 357375,
+   "endMs": 377696,
+   "new_image_reason": "back to Hayaathu reading (reuse)",
+   "characters": [
+    "hayaathu"
+   ],
+   "location": "Hayaathu's small plain bedroom in an old Maldivian coral-stone house in the early evening, a single bed with a simple cotton sheet and pillow, a wooden louvered window, a ceiling fan, a small bedside lamp, a plain wooden door with an old iron bolt",
+   "location_key": "bedroom",
+   "mood": "early evening to night, dark blue outside the louvers, the warm glow of a small bedside lamp, deep shadows, lonely and tense",
+   "visual": "(reuse) Hayaathu reading the messages, tears",
+   "camera": "medium shot, eye level",
+   "image": "images/beat_016.png",
+   "reuse_of": "beat_016",
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "room_night",
+   "shots": [
+    {
+     "id": "shot_039",
+     "startMs": 357375,
+     "endMs": 368175,
+     "narration_dhivehi": "\"ފެންވަރަނީ...\" ހަޔާތް ދޮރުހުޅުވަން ބޭނުން ނުވެގެން އަވަސް އަވަހަށް ރޮވިފައިވާ ރާގެއްގައި ބުންޏެވެ. އޭނަ މި ވަގުތު ބޭނުންވީ އެކަނި އިނދެ މައުރޫފް ކޮށްފައިވާ މެސެޖުތައް ކިޔާށެވެ.",
+     "narration_english": "'I'm having a bath...' Hayaathu said quickly in a tearful voice, not wanting to open the door. All she wanted now was to sit alone and read Maaroof's messages.",
+     "crop": "tight",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      18.7,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_040",
+     "startMs": 368175,
+     "endMs": 377696,
+     "narration_dhivehi": "މެސެޖުތައް ކިޔަމުން ދިޔަވަރަކަށް ހަޔާތްގެ ލޮލުން އަންނަމުން ދިޔަ ކަރުން އިތުރުވަމުން ދިޔައެވެ. ގިސްލެވެމުން ދިޔަ ވަރަކަށް ތުންފަތުގައި ދަތް އަޅާލައެވެ.",
+     "narration_english": "The more she read, the more the tears poured from her eyes. As the sobs rose, she bit down on her lip.",
+     "crop": "full",
+     "motion": "pan right",
+     "sfx": [
+      {
+       "name": "sob_breath",
+       "atMs": 374136,
+       "gainDb": -24,
+       "word": "ގިސްލެވެމުން"
+      }
+     ],
+     "hum": true,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [],
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.287,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 48.4,
+    "y_pct": 35.2,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_019",
+   "startMs": 377696,
+   "endMs": 398147,
+   "new_image_reason": "action change: she sits on the floor against the bed",
+   "characters": [
+    "hayaathu"
+   ],
+   "location": "Hayaathu's small plain bedroom in an old Maldivian coral-stone house in the early evening, a single bed with a simple cotton sheet and pillow, a wooden louvered window, a ceiling fan, a small bedside lamp, a plain wooden door with an old iron bolt",
+   "location_key": "bedroom",
+   "mood": "early evening to night, dark blue outside the louvers, the warm glow of a small bedside lamp, deep shadows, lonely and tense",
+   "visual": "Hayaathu sitting on the floor with her back against the side of the bed, knees drawn up, the phone clutched to her chest, staring ahead hopelessly with wet cheeks, lamp light from above",
+   "camera": "medium shot, eye level",
+   "image": "images/beat_019.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "room_night",
+   "shots": [
+    {
+     "id": "shot_041",
+     "startMs": 377696,
+     "endMs": 388896,
+     "narration_dhivehi": "އެނދުގައި ލެގިނލައިގެން މުށިގަނޑުމަތީގައި އިށީނެވެ. އެ މެސެޖުތަކަށް އޭނަ ދޭނީ ކޮން ޖަވާބެއް ހެއްޔެވެ. އެޔަށް އޭނަ ޖަވާބު ދިންކަން އެނގުނަސް ބޮޑުބެ އޭނަގެ ދުވަސް ދުއްވާލާނެއެވެ.",
+     "narration_english": "Leaning back against the bed, she sat on the floor. What answer could she give to those messages? If her uncle found out she had replied, he would make her days a misery.",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_042",
+     "startMs": 388896,
+     "endMs": 398147,
+     "narration_dhivehi": "އޭގެ ސަޒާ އޭނަގެ ލޯބިވާ ދައްތަ އަށާ މައުރޫފަށް ލިބޭނެއެވެ. މީހަކު މަޖުބޫރު ވިޔަސް މިއީ ބޮޑުވަރެވެ. ކެތްތެރިކަން ކޮޅުލާ އަތުން ފައި ގޯސްހެދޭހާ ވެސް މަޖުބޫރެވެ.",
+     "narration_english": "And the punishment would fall on her beloved sister and on Maaroof. Even when one is forced, this is too much — forced until patience breaks and hands and feet lose their way.",
+     "crop": "tight",
+     "motion": "pan up",
+     "sfx": [],
+     "hum": true,
+     "crop_rect_pct": [
+      9.1,
+      0.0,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Hayaathu), create a new scene: Cinematic semi-realistic digital illustration, soft natural light, warm tropical colour palette with gentle rose and blush tones like a romantic drama book cover, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject in the upper two-thirds and calm, uncluttered space at the bottom for a logo.\nScene: Hayaathu sitting on the floor with her back against the side of the bed, knees drawn up, the phone clutched to her chest, staring ahead hopelessly with wet cheeks, lamp light from above. Location: Hayaathu's small plain bedroom in an old Maldivian coral-stone house in the early evening, a single bed with a simple cotton sheet and pillow, a wooden louvered window, a ceiling fan, a small bedside lamp, a plain wooden door with an old iron bolt. Camera: medium shot, eye level.\nCharacters: Hayaathu: a Maldivian young woman in her early 20s with warm light-brown skin, soft oval face, large dark expressive eyes with long lashes, thick dark arched eyebrows, soft full lips, slim build; wears a loose long-sleeved ankle-length dusty-rose dress and a soft blush-pink chiffon hijab fully covering her hair and neck.\nMood/lighting: early evening to night, dark blue outside the louvers, the warm glow of a small bedside lamp, deep shadows, lonely and tense.\nModest Maldivian clothing, culturally respectful, no violence shown, no text, no letters, no writing, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.335,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 38.8,
+    "y_pct": 30.4,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_020",
+   "startMs": 398147,
+   "endMs": 417457,
+   "new_image_reason": "action change: she lies down on the floor and closes her eyes",
+   "characters": [
+    "hayaathu"
+   ],
+   "location": "Hayaathu's small plain bedroom in an old Maldivian coral-stone house in the early evening, a single bed with a simple cotton sheet and pillow, a wooden louvered window, a ceiling fan, a small bedside lamp, a plain wooden door with an old iron bolt",
+   "location_key": "bedroom",
+   "mood": "early evening to night, dark blue outside the louvers, the warm glow of a small bedside lamp, deep shadows, lonely and tense",
+   "visual": "Hayaathu lying curled on her side on the floor beside the bed, fully clothed in her rose dress and blush-pink hijab, eyes closed, a tear on her cheek, the phone lying near her hand, lamp light and shadows",
+   "camera": "low angle from the floor, medium shot",
+   "image": "images/beat_020.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "room_night",
+   "shots": [
+    {
+     "id": "shot_043",
+     "startMs": 398147,
+     "endMs": 407737,
+     "narration_dhivehi": "މަޑުމަޑުން މުށިގަނޑުމަތީގައި އޮށޯވެލިއެވެ. އޭރުވެސް ލޮލުން ކަރުނަ ފައިބަމުން ދިޔައެވެ. ހަޔާތު ދެ ލޯ މަރާލިއެވެ. އެ ވަގުތު އަނެއްކާ ވެސް ޒޫނާ ދޮރުގައި ޖަހާލިއެވެ.",
+     "narration_english": "Slowly she lay down on the floor. The tears were still falling. Hayaathu closed her eyes. Just then Zoona knocked on the door again.",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [
+      {
+       "name": "knock",
+       "atMs": 407057,
+       "gainDb": -12,
+       "word": "ޖަހާލިއެވެ."
+      }
+     ],
+     "hum": true,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_044",
+     "startMs": 407737,
+     "endMs": 417457,
+     "narration_dhivehi": "\"އަދިވެސް ނުނިމޭތަ؟ ޔާސިރު ބޭރުގައި ހުންނަތާ ކިހާއިރެއް...\" ޒޫނާ ހަރުކަށި ރާގަކަށް ބުންޏެވެ. \"އަދި ނުނިމޭ...\" ހަޔާތު އޮތް ގޮތައް އޮވެފައި ބުނެލިއެވެ.",
+     "narration_english": "'Still not done? How long has Yasir been waiting outside...' Zoona said harshly. 'Not done yet...' Hayaathu said, lying just as she was.",
+     "crop": "tight",
+     "motion": "pan down",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      10.0,
+      0.0,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Hayaathu), create a new scene: Cinematic semi-realistic digital illustration, soft natural light, warm tropical colour palette with gentle rose and blush tones like a romantic drama book cover, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject in the upper two-thirds and calm, uncluttered space at the bottom for a logo.\nScene: Hayaathu lying curled on her side on the floor beside the bed, fully clothed in her rose dress and blush-pink hijab, eyes closed, a tear on her cheek, the phone lying near her hand, lamp light and shadows. Location: Hayaathu's small plain bedroom in an old Maldivian coral-stone house in the early evening, a single bed with a simple cotton sheet and pillow, a wooden louvered window, a ceiling fan, a small bedside lamp, a plain wooden door with an old iron bolt. Camera: low angle from the floor, medium shot.\nCharacters: Hayaathu: a Maldivian young woman in her early 20s with warm light-brown skin, soft oval face, large dark expressive eyes with long lashes, thick dark arched eyebrows, soft full lips, slim build; wears a loose long-sleeved ankle-length dusty-rose dress and a soft blush-pink chiffon hijab fully covering her hair and neck.\nMood/lighting: early evening to night, dark blue outside the louvers, the warm glow of a small bedside lamp, deep shadows, lonely and tense.\nModest Maldivian clothing, culturally respectful, no violence shown, no text, no letters, no writing, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.29,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 39.7,
+    "y_pct": 32.3,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_021",
+   "startMs": 417457,
+   "endMs": 443289,
+   "new_image_reason": "action change: a message from an unknown number — Fazaal",
+   "characters": [
+    "hayaathu"
+   ],
+   "location": "Hayaathu's small plain bedroom in an old Maldivian coral-stone house in the early evening, a single bed with a simple cotton sheet and pillow, a wooden louvered window, a ceiling fan, a small bedside lamp, a plain wooden door with an old iron bolt",
+   "location_key": "bedroom",
+   "mood": "early evening to night, dark blue outside the louvers, the warm glow of a small bedside lamp, deep shadows, lonely and tense",
+   "visual": "Hayaathu propped up on one elbow on the floor, looking at the glowing phone in her hand (screen facing away) with surprise, wiping a tear from her cheek with the back of her other hand",
+   "camera": "medium close-up",
+   "image": "images/beat_021.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "room_night",
+   "shots": [
+    {
+     "id": "shot_045",
+     "startMs": 417457,
+     "endMs": 425698,
+     "narration_dhivehi": "އެ ވަގުތު ހަޔާތުގެ ފޯނަށް މެސެޖެއް އައެވެ. އަވަސް އަވަހަށް ލޯ ހުޅުވާ ލާފައި ހަޔާތު ފޯނަށް ބަލާލިއެވެ. މައުރޫފްގެ މެސެޖެއް ކަމަށެވެ.",
+     "narration_english": "At that moment a message came to Hayaathu's phone. Opening her eyes quickly, she looked at the phone, thinking it was from Maaroof.",
+     "crop": "full",
+     "motion": "static drift",
+     "sfx": [
+      {
+       "name": "phone_buzz",
+       "atMs": 418797,
+       "gainDb": -16,
+       "word": "މެސެޖެއް"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_046",
+     "startMs": 425698,
+     "endMs": 433428,
+     "narration_dhivehi": "ނުދަންނަ ނަމްބަރަކަކުން އައިސްފައިވާ މެސެޖެކެވެ. \"މިއީ އަހަރެންގެ ނަމްބަރު، ފަޒާލް..\" ހަޔާތު މެސެޖް ކިޔާލިއެވެ.",
+     "narration_english": "It was a message from an unknown number. 'This is my number — Fazaal.' Hayaathu read the message.",
+     "crop": "tight",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      21.5,
+      4.8,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_047",
+     "startMs": 433428,
+     "endMs": 443289,
+     "narration_dhivehi": "މީގެ ކުޑައިރުކޮޅެއް ކުރިން ފޯނު އައިސްފައި ވަނީ ވެސް އެނަމްބަރުންނެވެ. ހަޔާތު ލޮލުން އަންނަމުން ދިޔަ ކަރުނަ ފުހެލިއެވެ. އަދި އެ މެސެޖަށް ޖަވާބު ދިނުމަށް މެސެޖެއް ޓައިޕް ކޮށްލިއެވެ.",
+     "narration_english": "The call a little while ago had come from that same number. Hayaathu wiped the tears from her eyes, and typed a reply.",
+     "crop": "full",
+     "motion": "pan left",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Hayaathu), create a new scene: Cinematic semi-realistic digital illustration, soft natural light, warm tropical colour palette with gentle rose and blush tones like a romantic drama book cover, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject in the upper two-thirds and calm, uncluttered space at the bottom for a logo.\nScene: Hayaathu propped up on one elbow on the floor, looking at the glowing phone in her hand (screen facing away) with surprise, wiping a tear from her cheek with the back of her other hand. Location: Hayaathu's small plain bedroom in an old Maldivian coral-stone house in the early evening, a single bed with a simple cotton sheet and pillow, a wooden louvered window, a ceiling fan, a small bedside lamp, a plain wooden door with an old iron bolt. Camera: medium close-up.\nCharacters: Hayaathu: a Maldivian young woman in her early 20s with warm light-brown skin, soft oval face, large dark expressive eyes with long lashes, thick dark arched eyebrows, soft full lips, slim build; wears a loose long-sleeved ankle-length dusty-rose dress and a soft blush-pink chiffon hijab fully covering her hair and neck.\nMood/lighting: early evening to night, dark blue outside the louvers, the warm glow of a small bedside lamp, deep shadows, lonely and tense.\nModest Maldivian clothing, culturally respectful, no violence shown, no text, no letters, no writing, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.345,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 51.2,
+    "y_pct": 40.0,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_022",
+   "startMs": 443289,
+   "endMs": 480420,
+   "new_image_reason": "detail image: typing and deleting messages",
+   "characters": [
+    "hayaathu"
+   ],
+   "location": "Hayaathu's small plain bedroom in an old Maldivian coral-stone house in the early evening, a single bed with a simple cotton sheet and pillow, a wooden louvered window, a ceiling fan, a small bedside lamp, a plain wooden door with an old iron bolt",
+   "location_key": "bedroom",
+   "mood": "early evening to night, dark blue outside the louvers, the warm glow of a small bedside lamp, deep shadows, lonely and tense",
+   "visual": "close-up of a young woman's hands with rose sleeves holding a smartphone, a thumb hovering hesitantly over the softly glowing screen seen at a steep angle so nothing on it is readable, her blush-pink hijab blurred in the background, lamp light",
+   "camera": "extreme close-up",
+   "image": "images/beat_022.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "room_night",
+   "shots": [
+    {
+     "id": "shot_048",
+     "startMs": 443289,
+     "endMs": 453199,
+     "narration_dhivehi": "\"އަހަރެން ކީއްކުރާ ނަމްބަރެއް؟\" ހަޔާތު ޓައިޕްކޮށްލާފައި ފޮނުވާލިއެވެ. \"ޔާސިރު ބުނީ ހަޔާތު އަހަރެންގެ ނަމްބަރު ހޯދި ވާހަކަ.\" އަނެއްކާ ވެސް ފޯނަށް މެސެޖެއް އައެވެ.",
+     "narration_english": "'Why would I want your number?' Hayaathu typed and sent. 'Yasir said you asked for my number.' Another message arrived.",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [
+      {
+       "name": "phone_buzz",
+       "atMs": 452419,
+       "gainDb": -16,
+       "word": "އައެވެ."
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_049",
+     "startMs": 453199,
+     "endMs": 460759,
+     "narration_dhivehi": "\"ނޫން... ނުހޯދަން.\" ހަޔާތު ޓައިޕްކޮށްލާފައި ފޮނުވާލިއެވެ. އެޔަށް ޖަވާބެއް ނާދެއެވެ. ހަޔާތު ފޯނަށް ބަލަހައްޓައިގެން އިނެވެ.",
+     "narration_english": "'No... I didn't ask for it.' Hayaathu typed and sent it. No reply came. Hayaathu sat staring at the phone.",
+     "crop": "tight",
+     "motion": "pan right",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.0,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_050",
+     "startMs": 460759,
+     "endMs": 469060,
+     "narration_dhivehi": "އަނެއްކާ ވެސް ހަޔާތު ޓައިޕް ކޮށްލިއެވެ. އިރުކޮޅަކު ބަލަން އިނުމަށްފަހު ޑިލިޓް ކޮށްލިއެވެ. އަނެއްކާ ވެސް މެސެޖެއް ލިޔެލިއެވެ.",
+     "narration_english": "Hayaathu typed again. After looking at it for a while, she deleted it. Then she wrote another message.",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [
+      {
+       "name": "phone_game_taps",
+       "atMs": 462639,
+       "gainDb": -24,
+       "word": "ޓައިޕް"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_051",
+     "startMs": 469060,
+     "endMs": 480420,
+     "narration_dhivehi": "ބަލަން އިދެފައި ޑިލިޓް ކޮށްލިއެވެ. އެ ގޮތަށް އެތައް މެސެޖެއް ލިޔެފައި ފުހެލަމުން ދިޔައެވެ. ހަޔާތު ހިޔާލީ ގޮތަކަށް މެސެޖު ލިޔެ ފުހެމުން އެ ދަނީ މައުރޫފްގެ ނަމްބަރު ކަމަށް ހީކޮށެވެ.",
+     "narration_english": "She looked at it and deleted it. Like that, she kept writing and erasing message after message — absent-mindedly, thinking she was writing to Maaroof's number.",
+     "crop": "medium",
+     "motion": "pan up",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      1.0,
+      0.0,
+      71.5,
+      84.7
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Hayaathu), create a new scene: Cinematic semi-realistic digital illustration, soft natural light, warm tropical colour palette with gentle rose and blush tones like a romantic drama book cover, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject in the upper two-thirds and calm, uncluttered space at the bottom for a logo.\nScene: close-up of a young woman's hands with rose sleeves holding a smartphone, a thumb hovering hesitantly over the softly glowing screen seen at a steep angle so nothing on it is readable, her blush-pink hijab blurred in the background, lamp light. Location: Hayaathu's small plain bedroom in an old Maldivian coral-stone house in the early evening, a single bed with a simple cotton sheet and pillow, a wooden louvered window, a ceiling fan, a small bedside lamp, a plain wooden door with an old iron bolt. Camera: extreme close-up.\nCharacters: Hayaathu: a Maldivian young woman in her early 20s with warm light-brown skin, soft oval face, large dark expressive eyes with long lashes, thick dark arched eyebrows, soft full lips, slim build; wears a loose long-sleeved ankle-length dusty-rose dress and a soft blush-pink chiffon hijab fully covering her hair and neck.\nMood/lighting: early evening to night, dark blue outside the louvers, the warm glow of a small bedside lamp, deep shadows, lonely and tense.\nModest Maldivian clothing, culturally respectful, no violence shown, no text, no letters, no writing, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.307,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 36.7,
+    "y_pct": 33.3,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_023",
+   "startMs": 480420,
+   "endMs": 504731,
+   "new_image_reason": "emotional turning point: she realises she was typing to Fazaal",
+   "characters": [
+    "hayaathu"
+   ],
+   "location": "Hayaathu's small plain bedroom in an old Maldivian coral-stone house in the early evening, a single bed with a simple cotton sheet and pillow, a wooden louvered window, a ceiling fan, a small bedside lamp, a plain wooden door with an old iron bolt",
+   "location_key": "bedroom",
+   "mood": "early evening to night, dark blue outside the louvers, the warm glow of a small bedside lamp, deep shadows, lonely and tense",
+   "visual": "Hayaathu sitting on the floor against the bed with her eyes shut, one hand pressed to her chest, taking a deep breath of relief, the phone resting in her lap",
+   "camera": "medium close-up",
+   "image": "images/beat_023.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "room_night",
+   "shots": [
+    {
+     "id": "shot_052",
+     "startMs": 480420,
+     "endMs": 487610,
+     "narration_dhivehi": "\"؟؟؟؟؟\" ކުއްލިޔަކަށް ފަޒާލްގެ ފޯނުން މެސެޖެއް އައެވެ. ހުސް ސުވާލުމާކު ތަކެކެވެ. ހަޔާތް ޙައިރާން ކަމާއި އެކީގައި އެޔަށް ބަލަމުން ދިޔައެވެ.",
+     "narration_english": "'?????' Suddenly a message came from Fazaal's phone — nothing but question marks. Hayaathu stared at it in astonishment.",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [
+      {
+       "name": "phone_buzz",
+       "atMs": 480420,
+       "gainDb": -14,
+       "word": "ކުއްލިޔަކަށް"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_053",
+     "startMs": 487610,
+     "endMs": 495681,
+     "narration_dhivehi": "އަދި އެ މެސެޖުތަ ލިޔެ ފުހެމުން މިދަނީ ފަޒާލްގެ ނަމްބަރުގައި ކަން އެނގުމުން ހަޔާތު ހަށިފުރާ ނޭވާއެއް ލަމުން ދެ ލޯ މަރާލިއެވެ.",
+     "narration_english": "Realising she had been writing and erasing those messages in Fazaal's chat, Hayaathu took a deep breath and closed her eyes.",
+     "crop": "tight",
+     "motion": "pan down",
+     "sfx": [
+      {
+       "name": "breath",
+       "atMs": 493741,
+       "gainDb": -20,
+       "word": "ނޭވާއެއް"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      20.3,
+      4.8,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_054",
+     "startMs": 495681,
+     "endMs": 504731,
+     "narration_dhivehi": "\"ނަސީބެއް އެއްވެސް މެސެޖެއް ސެންޑް ނުކުރެވުނުކަން.\" ހަޔާތު ހިތާ ހިތުން ބުނެލިއެވެ. އަނެއްކާ ވެސް ފޯނަށް މެސެޖެއް އައެވެ. ހަޔާތު މެސެޖް ކިޔާލިއެވެ.",
+     "narration_english": "'Thank God not one message got sent,' Hayaathu said to herself. Another message came. Hayaathu read it.",
+     "crop": "full",
+     "motion": "static drift",
+     "sfx": [
+      {
+       "name": "phone_buzz",
+       "atMs": 502661,
+       "gainDb": -16,
+       "word": "އައެވެ."
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Hayaathu), create a new scene: Cinematic semi-realistic digital illustration, soft natural light, warm tropical colour palette with gentle rose and blush tones like a romantic drama book cover, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject in the upper two-thirds and calm, uncluttered space at the bottom for a logo.\nScene: Hayaathu sitting on the floor against the bed with her eyes shut, one hand pressed to her chest, taking a deep breath of relief, the phone resting in her lap. Location: Hayaathu's small plain bedroom in an old Maldivian coral-stone house in the early evening, a single bed with a simple cotton sheet and pillow, a wooden louvered window, a ceiling fan, a small bedside lamp, a plain wooden door with an old iron bolt. Camera: medium close-up.\nCharacters: Hayaathu: a Maldivian young woman in her early 20s with warm light-brown skin, soft oval face, large dark expressive eyes with long lashes, thick dark arched eyebrows, soft full lips, slim build; wears a loose long-sleeved ankle-length dusty-rose dress and a soft blush-pink chiffon hijab fully covering her hair and neck.\nMood/lighting: early evening to night, dark blue outside the louvers, the warm glow of a small bedside lamp, deep shadows, lonely and tense.\nModest Maldivian clothing, culturally respectful, no violence shown, no text, no letters, no writing, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.281,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 50.0,
+    "y_pct": 40.0,
+    "face_detected": false
+   }
+  },
+  {
+   "id": "beat_024",
+   "startMs": 504731,
+   "endMs": 526852,
+   "new_image_reason": "emotional change: Fazaal wants to meet her",
+   "characters": [
+    "hayaathu"
+   ],
+   "location": "Hayaathu's small plain bedroom in an old Maldivian coral-stone house in the early evening, a single bed with a simple cotton sheet and pillow, a wooden louvered window, a ceiling fan, a small bedside lamp, a plain wooden door with an old iron bolt",
+   "location_key": "bedroom",
+   "mood": "early evening to night, dark blue outside the louvers, the warm glow of a small bedside lamp, deep shadows, lonely and tense",
+   "visual": "Hayaathu holding the phone tightly against her chest with both hands, eyes squeezed shut, her face full of dread, tears on her lashes",
+   "camera": "close-up",
+   "image": "images/beat_024.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "room_night",
+   "shots": [
+    {
+     "id": "shot_055",
+     "startMs": 504731,
+     "endMs": 511141,
+     "narration_dhivehi": "\"ބައްދަލު ކޮށްލަން ބޭނުން...\" ފަޒާލްގެ މެސެޖު ކިޔާލިއެވެ. ހަޔާތު ދެ ލޯ އަޅާލިއެވެ. \"ބައްދަލުކުރަން...",
+     "narration_english": "'I want to meet you...' Hayaathu read Fazaal's message. She squeezed her eyes shut. 'Meet him...",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_056",
+     "startMs": 511141,
+     "endMs": 518492,
+     "narration_dhivehi": "އަހަރެން އޭނަޔާ ބައްދަލު ކުރާކަށް ނުދާނަން، އޭނަގެ ސިފަ ފެންނަން އިރަށް އަހަރެންގެ ހިތް ފަޅައިގެން ހިނގައިދާނެ....\"",
+     "narration_english": "I won't go to meet him. The moment I see his face my heart will break...'",
+     "crop": "tight",
+     "motion": "pan left",
+     "sfx": [],
+     "hum": true,
+     "crop_rect_pct": [
+      17.6,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_057",
+     "startMs": 518492,
+     "endMs": 526852,
+     "narration_dhivehi": "ހަޔާތް މަޑުމަޑުން އަމިއްލަ ނަފްސަށް ބުނެލިއެވެ. \"9 ޖަހާއިރު... ޔާސިރު ބަލާދާނެ.\" އަނެއްކާ ވެސް ހަޔާތުގެ ފޯނަށް މެސެޖެއް އައެވެ.",
+     "narration_english": "Hayaathu said softly to herself. 'At nine... Yasir will come to pick you up.' Another message had arrived on Hayaathu's phone.",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [
+      {
+       "name": "phone_buzz",
+       "atMs": 526222,
+       "gainDb": -16,
+       "word": "އައެވެ."
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Hayaathu), create a new scene: Cinematic semi-realistic digital illustration, soft natural light, warm tropical colour palette with gentle rose and blush tones like a romantic drama book cover, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject in the upper two-thirds and calm, uncluttered space at the bottom for a logo.\nScene: Hayaathu holding the phone tightly against her chest with both hands, eyes squeezed shut, her face full of dread, tears on her lashes. Location: Hayaathu's small plain bedroom in an old Maldivian coral-stone house in the early evening, a single bed with a simple cotton sheet and pillow, a wooden louvered window, a ceiling fan, a small bedside lamp, a plain wooden door with an old iron bolt. Camera: close-up.\nCharacters: Hayaathu: a Maldivian young woman in her early 20s with warm light-brown skin, soft oval face, large dark expressive eyes with long lashes, thick dark arched eyebrows, soft full lips, slim build; wears a loose long-sleeved ankle-length dusty-rose dress and a soft blush-pink chiffon hijab fully covering her hair and neck.\nMood/lighting: early evening to night, dark blue outside the louvers, the warm glow of a small bedside lamp, deep shadows, lonely and tense.\nModest Maldivian clothing, culturally respectful, no violence shown, no text, no letters, no writing, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.395,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 47.3,
+    "y_pct": 34.9,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_025",
+   "startMs": 526852,
+   "endMs": 560844,
+   "new_image_reason": "action change: waiting as the clock moves towards nine",
+   "characters": [
+    "hayaathu"
+   ],
+   "location": "Hayaathu's small plain bedroom in an old Maldivian coral-stone house in the early evening, a single bed with a simple cotton sheet and pillow, a wooden louvered window, a ceiling fan, a small bedside lamp, a plain wooden door with an old iron bolt",
+   "location_key": "bedroom",
+   "mood": "early evening to night, dark blue outside the louvers, the warm glow of a small bedside lamp, deep shadows, lonely and tense",
+   "visual": "Hayaathu sitting on the edge of the bed in the lamp-lit room, tears gathering in her eyes, the phone in her lap, looking up anxiously at a plain round wall clock with no numbers (only tick marks) on the wall above, its hands near nine",
+   "camera": "medium wide, eye level",
+   "image": "images/beat_025.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "room_night",
+   "shots": [
+    {
+     "id": "shot_058",
+     "startMs": 526852,
+     "endMs": 536613,
+     "narration_dhivehi": "ހަޔާތުގެ ހިތް ބާރަށް ތެޅިގަނެގެން ދިޔައެވެ. އެކަމަކު އޭނަ ނުދާންވީ ސަބަބެއް ނެތެވެ. މިހާރު އޭނަޔަކީ ފަޒާލްގެ ހައްގެކެވެ. އޭނަގެ އެދުމަށް ކިޔަމަންތެރިވާން ޖެހޭނެއެވެ.",
+     "narration_english": "Hayaathu's heart began to pound. But she had no reason not to go. Now she was Fazaal's by right. She had to obey his wish.",
+     "crop": "full",
+     "motion": "pan right",
+     "sfx": [
+      {
+       "name": "heartbeat",
+       "atMs": 528222,
+       "gainDb": -16,
+       "word": "ތެޅިގަނެގެން"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_059",
+     "startMs": 536613,
+     "endMs": 544113,
+     "narration_dhivehi": "އެކަމަކު އެ ސޫރަ ބަލަން ހަޔާތަށް ކެރޭނެ ހެއްޔެވެ. މައުރޫފަށް ހަޔާތުގެ ހިތުގައި ދެވިފައިވާ މަގާމު ފަޒާލަށް ދެވޭނެ ހެއްޔެވެ.",
+     "narration_english": "But would Hayaathu dare to look at that face? Could the place Maaroof holds in her heart ever be given to Fazaal?",
+     "crop": "tight",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": true,
+     "crop_rect_pct": [
+      9.9,
+      2.7,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_060",
+     "startMs": 544113,
+     "endMs": 553283,
+     "narration_dhivehi": "އަނެއްކާ ވެސް ހަޔާތުގެ ދެ ލޮލަށް ކަރުނަ ޖަމާވާން ފެށިއެވެ. ގަޑީގެ ޓިކްޓިކް އަޑާއި އެއްވަރަށް ހަޔާތުގެ ހިތުގެ ވިންދުޖަހަމުން ދާލެއް ބާރެވެ.",
+     "narration_english": "Once again tears began to gather in Hayaathu's eyes. Her heart beat as loudly as the tick-tock of the clock.",
+     "crop": "full",
+     "motion": "pan up",
+     "sfx": [
+      {
+       "name": "heartbeat",
+       "atMs": 551243,
+       "gainDb": -16,
+       "word": "ވިންދުޖަހަމުން"
+      }
+     ],
+     "hum": true,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_061",
+     "startMs": 553283,
+     "endMs": 560844,
+     "narration_dhivehi": "ގަޑީގެ ކަށި ދައުރުވަމުން ދާވަރަކަށް ހަޔާތުގެ ހާސްކަން ދިޔައީ އިތުރުވަމުންނެވެ. ހަޔާތު ފޯނުނަގައިފައި މެސެޖެއް ޓައިޕްކޮށްލިއެވެ.",
+     "narration_english": "As the clock's hand went round, Hayaathu's anxiety only grew. Hayaathu picked up the phone and typed a message.",
+     "crop": "medium",
+     "motion": "slow pull-out",
+     "sfx": [
+      {
+       "name": "phone_game_taps",
+       "atMs": 559924,
+       "gainDb": -24,
+       "word": "ޓައިޕްކޮށްލިއެވެ."
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      3.9,
+      0.0,
+      71.5,
+      84.7
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Hayaathu), create a new scene: Cinematic semi-realistic digital illustration, soft natural light, warm tropical colour palette with gentle rose and blush tones like a romantic drama book cover, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject in the upper two-thirds and calm, uncluttered space at the bottom for a logo.\nScene: Hayaathu sitting on the edge of the bed in the lamp-lit room, tears gathering in her eyes, the phone in her lap, looking up anxiously at a plain round wall clock with no numbers (only tick marks) on the wall above, its hands near nine. Location: Hayaathu's small plain bedroom in an old Maldivian coral-stone house in the early evening, a single bed with a simple cotton sheet and pillow, a wooden louvered window, a ceiling fan, a small bedside lamp, a plain wooden door with an old iron bolt. Camera: medium wide, eye level.\nCharacters: Hayaathu: a Maldivian young woman in her early 20s with warm light-brown skin, soft oval face, large dark expressive eyes with long lashes, thick dark arched eyebrows, soft full lips, slim build; wears a loose long-sleeved ankle-length dusty-rose dress and a soft blush-pink chiffon hijab fully covering her hair and neck.\nMood/lighting: early evening to night, dark blue outside the louvers, the warm glow of a small bedside lamp, deep shadows, lonely and tense.\nModest Maldivian clothing, culturally respectful, no violence shown, no text, no letters, no writing, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.33,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 39.6,
+    "y_pct": 37.9,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_026",
+   "startMs": 560844,
+   "endMs": 576504,
+   "new_image_reason": "characters change: Dhooma at the door",
+   "characters": [
+    "hayaathu",
+    "dhooma"
+   ],
+   "location": "Hayaathu's small plain bedroom in an old Maldivian coral-stone house in the early evening, a single bed with a simple cotton sheet and pillow, a wooden louvered window, a ceiling fan, a small bedside lamp, a plain wooden door with an old iron bolt",
+   "location_key": "bedroom",
+   "mood": "early evening to night, dark blue outside the louvers, the warm glow of a small bedside lamp, deep shadows, lonely and tense",
+   "visual": "Hayaathu holding the bedroom door open, her tense face softening with relief; Dhooma in her black wheelchair in the doorway, looking up at her sister with concern, the dim hallway behind",
+   "camera": "medium shot from inside the room",
+   "image": "images/beat_026.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "room_night",
+   "shots": [
+    {
+     "id": "shot_062",
+     "startMs": 560844,
+     "endMs": 568744,
+     "narration_dhivehi": "ނުފޮނުވިގެން އުޅެނިކޮށް ދޮރުގައިޓަކިޖަހާލި އަޑުއިވުނެވެ. \"ހަޔާތު ދޮންތަ ދޮރުހުޅުވަބަލަ.\" ދޫމާގެ އަޑު ބޭރުން އިވުނެވެ.",
+     "narration_english": "Before she could send it, there was a knock on the door. 'Hayaathu, it's Dhontha — open the door.' Dhooma's voice came from outside.",
+     "crop": "full",
+     "motion": "pan down",
+     "sfx": [
+      {
+       "name": "knock",
+       "atMs": 562224,
+       "gainDb": -12,
+       "word": "ދޮރުގައިޓަކިޖަހާލި"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_063",
+     "startMs": 568744,
+     "endMs": 576504,
+     "narration_dhivehi": "ހަޔާތު އަވަސް އަރުވާލާފައި މެސެޖު ސެންޑްކޮށްލިއެވެ. އަދި ގޮސް ދޮރުހުޅުވާލިއެވެ. ދޫމާ ފެނުމުން ހަޔާތު ހަމަޖެހުމުގެ ނޭވާއެއް ލިއެވެ.",
+     "narration_english": "Hayaathu hurriedly sent the message, then went and opened the door. Seeing Dhooma, Hayaathu breathed a sigh of relief.",
+     "crop": "tight",
+     "motion": "static drift",
+     "sfx": [
+      {
+       "name": "door_open",
+       "atMs": 572644,
+       "gainDb": -16,
+       "word": "ދޮރުހުޅުވާލިއެވެ."
+      },
+      {
+       "name": "sigh",
+       "atMs": 575524,
+       "gainDb": -22,
+       "word": "ނޭވާއެއް"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      11.0,
+      0.0,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Hayaathu; reference image 2 is Dhooma), create a new scene: Cinematic semi-realistic digital illustration, soft natural light, warm tropical colour palette with gentle rose and blush tones like a romantic drama book cover, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject in the upper two-thirds and calm, uncluttered space at the bottom for a logo.\nScene: Hayaathu holding the bedroom door open, her tense face softening with relief; Dhooma in her black wheelchair in the doorway, looking up at her sister with concern, the dim hallway behind. Location: Hayaathu's small plain bedroom in an old Maldivian coral-stone house in the early evening, a single bed with a simple cotton sheet and pillow, a wooden louvered window, a ceiling fan, a small bedside lamp, a plain wooden door with an old iron bolt. Camera: medium shot from inside the room.\nCharacters: Hayaathu: a Maldivian young woman in her early 20s with warm light-brown skin, soft oval face, large dark expressive eyes with long lashes, thick dark arched eyebrows, soft full lips, slim build; wears a loose long-sleeved ankle-length dusty-rose dress and a soft blush-pink chiffon hijab fully covering her hair and neck. Dhooma: a Maldivian woman in her late 20s with warm medium-brown skin, round gentle face, kind tired dark eyes, slight build; she sits in a simple black manual wheelchair; wears a loose long-sleeved ankle-length muted teal-green dress, a cream cotton hijab fully covering hair and neck, and a light grey knitted shawl over her lap.\nMood/lighting: early evening to night, dark blue outside the louvers, the warm glow of a small bedside lamp, deep shadows, lonely and tense.\nModest Maldivian clothing, culturally respectful, no violence shown, no text, no letters, no writing, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.284,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 40.7,
+    "y_pct": 20.3,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_027",
+   "startMs": 576504,
+   "endMs": 609936,
+   "new_image_reason": "action change: the message went to the wrong person",
+   "characters": [
+    "hayaathu",
+    "dhooma"
+   ],
+   "location": "Hayaathu's small plain bedroom in an old Maldivian coral-stone house in the early evening, a single bed with a simple cotton sheet and pillow, a wooden louvered window, a ceiling fan, a small bedside lamp, a plain wooden door with an old iron bolt",
+   "location_key": "bedroom",
+   "mood": "early evening to night, dark blue outside the louvers, the warm glow of a small bedside lamp, deep shadows, lonely and tense",
+   "visual": "Hayaathu standing by the closed door looking at her phone with worried shock, one hand at her mouth; Dhooma in her wheelchair in the middle of the room behind her, watching her anxiously",
+   "camera": "medium wide",
+   "image": "images/beat_027.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "room_night",
+   "shots": [
+    {
+     "id": "shot_064",
+     "startMs": 576504,
+     "endMs": 586405,
+     "narration_dhivehi": "ދޫމާ އެތެރެއަށް ވަނުމުން ހަޔާތު ދޮރުލައްޕާ ލިއެވެ. އަދި ފޯނުނަގައިފައި ބަލާލިއެވެ. މެސެޖު ފޮނުވުނީ ކާކަށްކަން އެނގުމުން ކަނބޮޑުވުމާއި އެކީގައި ދެ ލޯ މަރާލިއެވެ.",
+     "narration_english": "As soon as Dhooma came in, Hayaathu shut the door. Then she picked up the phone and looked. When she saw who the message had gone to, she closed her eyes in dismay.",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [
+      {
+       "name": "wheelchair_roll",
+       "atMs": 577544,
+       "gainDb": -20,
+       "word": "ވަނުމުން"
+      },
+      {
+       "name": "door_close",
+       "atMs": 578444,
+       "gainDb": -18,
+       "word": "ދޮރުލައްޕާ"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_065",
+     "startMs": 586405,
+     "endMs": 592775,
+     "narration_dhivehi": "އަދި މެސެޖު ޑިލިޓް ކޮށްލިއެވެ. އަދި އެ މެސެޖް އަލުން ޓައިޕްކޮށްލާފައި މައުރޫފަށް ފޮނުވާލިއެވެ.",
+     "narration_english": "She deleted the message. Then she typed it again and sent it to Maaroof.",
+     "crop": "tight",
+     "motion": "pan left",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      40.6,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_066",
+     "startMs": 592775,
+     "endMs": 600425,
+     "narration_dhivehi": "އޭނަ ޔާސިރާއި އެކީގައި ފަޒާލާއި ބައްދަލު ކުރަން ދާއިރު އެ މީހުންނަށް ވަގަށް މައުރޫފާއި ބައްދަލު ކުރަން ހަޔާތު ނިންމިއެވެ.",
+     "narration_english": "When she goes with Yasir to meet Fazaal, Hayaathu had decided to secretly meet Maaroof without them knowing.",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_067",
+     "startMs": 600425,
+     "endMs": 609936,
+     "narration_dhivehi": "އެ ވާހަކަ ލިޔެފައި މެސެޖު މައުރޫފަށް ފޮނުވާލިއެވެ. އެކަމަކު ފުރަތަމަ މެސެޖު ފޮނުވުނީ ފަޒާލަށެވެ. ހަޔާތުގެ ނަސީބު ރަނގަޅު ކަމުން ފަޒާލް މެސެޖު ބަލާފައެއް ނުވެއެވެ.",
+     "narration_english": "She wrote that and sent the message to Maaroof. But the first message had gone to Fazaal. Luckily for Hayaathu, Fazaal hadn't looked at it.",
+     "crop": "medium",
+     "motion": "pan right",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      28.5,
+      0.0,
+      71.5,
+      84.7
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Hayaathu; reference image 2 is Dhooma), create a new scene: Cinematic semi-realistic digital illustration, soft natural light, warm tropical colour palette with gentle rose and blush tones like a romantic drama book cover, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject in the upper two-thirds and calm, uncluttered space at the bottom for a logo.\nScene: Hayaathu standing by the closed door looking at her phone with worried shock, one hand at her mouth; Dhooma in her wheelchair in the middle of the room behind her, watching her anxiously. Location: Hayaathu's small plain bedroom in an old Maldivian coral-stone house in the early evening, a single bed with a simple cotton sheet and pillow, a wooden louvered window, a ceiling fan, a small bedside lamp, a plain wooden door with an old iron bolt. Camera: medium wide.\nCharacters: Hayaathu: a Maldivian young woman in her early 20s with warm light-brown skin, soft oval face, large dark expressive eyes with long lashes, thick dark arched eyebrows, soft full lips, slim build; wears a loose long-sleeved ankle-length dusty-rose dress and a soft blush-pink chiffon hijab fully covering her hair and neck. Dhooma: a Maldivian woman in her late 20s with warm medium-brown skin, round gentle face, kind tired dark eyes, slight build; she sits in a simple black manual wheelchair; wears a loose long-sleeved ankle-length muted teal-green dress, a cream cotton hijab fully covering hair and neck, and a light grey knitted shawl over her lap.\nMood/lighting: early evening to night, dark blue outside the louvers, the warm glow of a small bedside lamp, deep shadows, lonely and tense.\nModest Maldivian clothing, culturally respectful, no violence shown, no text, no letters, no writing, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.29,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 73.6,
+    "y_pct": 21.2,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_028",
+   "startMs": 609936,
+   "endMs": 646387,
+   "new_image_reason": "action change: the sisters talk about Maaroof",
+   "characters": [
+    "hayaathu",
+    "dhooma"
+   ],
+   "location": "Hayaathu's small plain bedroom in an old Maldivian coral-stone house in the early evening, a single bed with a simple cotton sheet and pillow, a wooden louvered window, a ceiling fan, a small bedside lamp, a plain wooden door with an old iron bolt",
+   "location_key": "bedroom",
+   "mood": "early evening to night, dark blue outside the louvers, the warm glow of a small bedside lamp, deep shadows, lonely and tense",
+   "visual": "Hayaathu sitting on the edge of the bed facing Dhooma in her wheelchair; Dhooma leaning forward, looking at her with astonishment and asking; Hayaathu looking down in silence, her hands twisted in her lap",
+   "camera": "medium two-shot, eye level",
+   "image": "images/beat_028.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "room_night",
+   "shots": [
+    {
+     "id": "shot_068",
+     "startMs": 609936,
+     "endMs": 618116,
+     "narration_dhivehi": "\"ކިހިނެއްވީ؟\" ދޫމާ ސުވާލު ކޮށްލިއެވެ. \"ދޮންތާ... އަހަރެން މައުރޫފާއި ބައްދަލު ކުރަން ބޭނުން.\" ހަޔާތު އަވަސް އަވަހަށް ބުންޏެވެ.",
+     "narration_english": "'What happened?' Dhooma asked. 'Dhontha... I want to meet Maaroof,' Hayaathu said quickly.",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_069",
+     "startMs": 618116,
+     "endMs": 626966,
+     "narration_dhivehi": "ދޫމާ ހަޔާތަށް ޙައިރާން ކަމާއި އެކީގައި ބަލާލިއެވެ. \"އެކަމަކު ކިހިނެއް؟\" ދޫމާ ސުވާލު ކޮށްލިއެވެ. \"އަހަރެން ދެންމެ މައުރޫފަށް މެސެޖު ކޮށްފިން...\"",
+     "narration_english": "Dhooma looked at Hayaathu in astonishment. 'But how?' Dhooma asked. 'I've just messaged Maaroof...'",
+     "crop": "tight",
+     "motion": "pan up",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      0.0,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_070",
+     "startMs": 626966,
+     "endMs": 637537,
+     "narration_dhivehi": "ހަޔާތު މަޑުމަޑުން ބުންޏެވެ. \"އެކަމަކު ހަޔާތު... މައުރޫފާއި އެކީ ދާން ބޭނުމިއްޔާ ކީއްކުރަން އެ މީހާއަށް އިންނަން ރަންކީ؟\" ދޫމާ ޙައިރާން ކަމާއި އެކީގައި ސުވާލު ކޮށްލިއެވެ.",
+     "narration_english": "Hayaathu said softly. 'But Hayaathu... if you want to go with Maaroof, why did you accept the ring to marry that man?' Dhooma asked in astonishment.",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_071",
+     "startMs": 637537,
+     "endMs": 646387,
+     "narration_dhivehi": "ހަޔާތު އެއްވެސް ޖަވާބެއް ނުދީ ހިމޭނުން ހުރީއެވެ. \"ހަޔާތު... ބަލާ އައިސްސި.\" ބޭރުން ޒޫނާގެ އަޑުއިވުނެވެ. ހަޔާތު ދޫމާއަށް ބަލާލިއެވެ.",
+     "narration_english": "Hayaathu stood silent, giving no answer. 'Hayaathu... they've come to pick you up,' came Zoona's voice from outside. Hayaathu looked at Dhooma.",
+     "crop": "medium",
+     "motion": "pan down",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      0.0,
+      0.0,
+      71.5,
+      84.7
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Hayaathu; reference image 2 is Dhooma), create a new scene: Cinematic semi-realistic digital illustration, soft natural light, warm tropical colour palette with gentle rose and blush tones like a romantic drama book cover, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject in the upper two-thirds and calm, uncluttered space at the bottom for a logo.\nScene: Hayaathu sitting on the edge of the bed facing Dhooma in her wheelchair; Dhooma leaning forward, looking at her with astonishment and asking; Hayaathu looking down in silence, her hands twisted in her lap. Location: Hayaathu's small plain bedroom in an old Maldivian coral-stone house in the early evening, a single bed with a simple cotton sheet and pillow, a wooden louvered window, a ceiling fan, a small bedside lamp, a plain wooden door with an old iron bolt. Camera: medium two-shot, eye level.\nCharacters: Hayaathu: a Maldivian young woman in her early 20s with warm light-brown skin, soft oval face, large dark expressive eyes with long lashes, thick dark arched eyebrows, soft full lips, slim build; wears a loose long-sleeved ankle-length dusty-rose dress and a soft blush-pink chiffon hijab fully covering her hair and neck. Dhooma: a Maldivian woman in her late 20s with warm medium-brown skin, round gentle face, kind tired dark eyes, slight build; she sits in a simple black manual wheelchair; wears a loose long-sleeved ankle-length muted teal-green dress, a cream cotton hijab fully covering hair and neck, and a light grey knitted shawl over her lap.\nMood/lighting: early evening to night, dark blue outside the louvers, the warm glow of a small bedside lamp, deep shadows, lonely and tense.\nModest Maldivian clothing, culturally respectful, no violence shown, no text, no letters, no writing, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.308,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 28.5,
+    "y_pct": 29.1,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_029",
+   "startMs": 646387,
+   "endMs": 664648,
+   "new_image_reason": "action change: Hayaathu embraces her sister before leaving",
+   "characters": [
+    "hayaathu",
+    "dhooma"
+   ],
+   "location": "Hayaathu's small plain bedroom in an old Maldivian coral-stone house in the early evening, a single bed with a simple cotton sheet and pillow, a wooden louvered window, a ceiling fan, a small bedside lamp, a plain wooden door with an old iron bolt",
+   "location_key": "bedroom",
+   "mood": "early evening to night, dark blue outside the louvers, the warm glow of a small bedside lamp, deep shadows, lonely and tense",
+   "visual": "Hayaathu bending down to embrace Dhooma, who sits in her wheelchair, whispering near her ear with a brave forced smile; Dhooma's eyes wide with worry",
+   "camera": "medium close-up",
+   "image": "images/beat_029.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "room_night",
+   "shots": [
+    {
+     "id": "shot_072",
+     "startMs": 646387,
+     "endMs": 656658,
+     "narration_dhivehi": "އަދި ހީލަން މަސައްކަތް ކުރަމުން ދޫމާގެ ގައިގައި ބައްދާލިއެވެ. \"ދޮންތާ އަހަރެން ގޯސް ފިޔަވަޅެއް ނާޅާނަން.... އެކަމަކު އެންމެ ފަހަރަކު މައުރޫފާއި ބައްދަލު ކޮށްލަން ބޭނުން....\"",
+     "narration_english": "Trying hard to smile, she embraced Dhooma. 'Dhontha, I won't take a wrong step... but I want to see Maaroof just once...'",
+     "crop": "full",
+     "motion": "static drift",
+     "sfx": [],
+     "hum": true,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_073",
+     "startMs": 656658,
+     "endMs": 664648,
+     "narration_dhivehi": "މަޑުމަޑުން ހަޔާތު ދޫމާގެ ކަންފަތް ދޮށުގައި ބުނެލިއެވެ. އަދި ކޮޓަރިން ނިކުމެގެން ދިޔައެވެ. ދޫމާ ހަޔާތު ދިޔަ ދިމާއަށް ބަލާލިއެވެ.",
+     "narration_english": "Hayaathu whispered softly near Dhooma's ear. Then she walked out of the room. Dhooma looked after her, towards where Hayaathu had gone.",
+     "crop": "tight",
+     "motion": "slow push-in",
+     "sfx": [
+      {
+       "name": "footsteps_pavement",
+       "atMs": 661008,
+       "gainDb": -26,
+       "word": "ނިކުމެގެން"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      34.2,
+      3.2,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Hayaathu; reference image 2 is Dhooma), create a new scene: Cinematic semi-realistic digital illustration, soft natural light, warm tropical colour palette with gentle rose and blush tones like a romantic drama book cover, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject in the upper two-thirds and calm, uncluttered space at the bottom for a logo.\nScene: Hayaathu bending down to embrace Dhooma, who sits in her wheelchair, whispering near her ear with a brave forced smile; Dhooma's eyes wide with worry. Location: Hayaathu's small plain bedroom in an old Maldivian coral-stone house in the early evening, a single bed with a simple cotton sheet and pillow, a wooden louvered window, a ceiling fan, a small bedside lamp, a plain wooden door with an old iron bolt. Camera: medium close-up.\nCharacters: Hayaathu: a Maldivian young woman in her early 20s with warm light-brown skin, soft oval face, large dark expressive eyes with long lashes, thick dark arched eyebrows, soft full lips, slim build; wears a loose long-sleeved ankle-length dusty-rose dress and a soft blush-pink chiffon hijab fully covering her hair and neck. Dhooma: a Maldivian woman in her late 20s with warm medium-brown skin, round gentle face, kind tired dark eyes, slight build; she sits in a simple black manual wheelchair; wears a loose long-sleeved ankle-length muted teal-green dress, a cream cotton hijab fully covering hair and neck, and a light grey knitted shawl over her lap.\nMood/lighting: early evening to night, dark blue outside the louvers, the warm glow of a small bedside lamp, deep shadows, lonely and tense.\nModest Maldivian clothing, culturally respectful, no violence shown, no text, no letters, no writing, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.298,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 63.9,
+    "y_pct": 38.4,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_030",
+   "startMs": 664648,
+   "endMs": 673948,
+   "new_image_reason": "characters change: Dhooma alone after Hayaathu leaves",
+   "characters": [
+    "dhooma"
+   ],
+   "location": "Hayaathu's small plain bedroom in an old Maldivian coral-stone house in the early evening, a single bed with a simple cotton sheet and pillow, a wooden louvered window, a ceiling fan, a small bedside lamp, a plain wooden door with an old iron bolt",
+   "location_key": "bedroom",
+   "mood": "early evening to night, dark blue outside the louvers, the warm glow of a small bedside lamp, deep shadows, lonely and tense",
+   "visual": "Dhooma alone in her black wheelchair in the lamp-lit bedroom, looking towards the open doorway where her sister has just gone, sorrow and helplessness on her face",
+   "camera": "medium wide, from behind the bed",
+   "image": "images/beat_030.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "room_night",
+   "shots": [
+    {
+     "id": "shot_074",
+     "startMs": 664648,
+     "endMs": 673948,
+     "narration_dhivehi": "އޭނަގެ ބޮޑުބޭބެގެ ނުލަފާ ކަމުން އޭނަގެ ކޮއްކޮ އުފުލަމުން އެދާ ހިތާމައަށް އޭނަ ހަމްދަރުދީ ވެއެވެ. އެކަމަކު އޭނައަށް ކުރެވޭނީ ވަކި ކޮންކަމެއް ހެއްޔެވެ.",
+     "narration_english": "She grieves with her little sister for the sorrow she carries because of their uncle's cruelty. But what can she possibly do?",
+     "crop": "full",
+     "motion": "pan left",
+     "sfx": [],
+     "hum": true,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Dhooma), create a new scene: Cinematic semi-realistic digital illustration, soft natural light, warm tropical colour palette with gentle rose and blush tones like a romantic drama book cover, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject in the upper two-thirds and calm, uncluttered space at the bottom for a logo.\nScene: Dhooma alone in her black wheelchair in the lamp-lit bedroom, looking towards the open doorway where her sister has just gone, sorrow and helplessness on her face. Location: Hayaathu's small plain bedroom in an old Maldivian coral-stone house in the early evening, a single bed with a simple cotton sheet and pillow, a wooden louvered window, a ceiling fan, a small bedside lamp, a plain wooden door with an old iron bolt. Camera: medium wide, from behind the bed.\nCharacters: Dhooma: a Maldivian woman in her late 20s with warm medium-brown skin, round gentle face, kind tired dark eyes, slight build; she sits in a simple black manual wheelchair; wears a loose long-sleeved ankle-length muted teal-green dress, a cream cotton hijab fully covering hair and neck, and a light grey knitted shawl over her lap.\nMood/lighting: early evening to night, dark blue outside the louvers, the warm glow of a small bedside lamp, deep shadows, lonely and tense.\nModest Maldivian clothing, culturally respectful, no violence shown, no text, no letters, no writing, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.092,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 40.9,
+    "y_pct": 32.4,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_031",
+   "startMs": 673948,
+   "endMs": 683099,
+   "new_image_reason": "flashback: Dhooma went into the sea for her sister's happiness (reused image from ep 272)",
+   "characters": [
+    "dhooma"
+   ],
+   "location": "a paved path between palms leading to a moonlit Maldivian beach at night, the sea beyond",
+   "location_key": "sea_memory",
+   "mood": "night, moonlight, remembered, ominous",
+   "visual": "(reuse from ep 272) Dhooma rolling her wheelchair alone along the moonlit path towards the sea",
+   "camera": "medium shot, eye level",
+   "image": "images/beat_031.png",
+   "reuse_of": "ep272:shot_084",
+   "transition_in": "dissolve",
+   "sensitive": "other",
+   "safe_substitution": "her going into the sea is shown only as her rolling towards the beach (ep 272 image); no person in the water",
+   "ambience": "memory",
+   "shots": [
+    {
+     "id": "shot_075",
+     "startMs": 673948,
+     "endMs": 683099,
+     "narration_dhivehi": "މޫދަށް ފުންމާލީ ވެސް އެ ކޮއްކޮއަށް އުފަލެއް ހޯދާދޭން ބޭނުން ވެގެންނެވެ. އެކަމަކު އެ ހާދިސާއަށް ފަހު ވެސް ހަޔާތުގެ ދިރިއުޅުން އުދަގޫވެ އޭނާ މަޖުބޫރު ވީއެވެ.",
+     "narration_english": "Even throwing herself into the sea was because she wanted to bring her little sister some happiness. But even after that, Hayaathu's life only grew harder, and she was forced.",
+     "crop": "medium",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": true,
+     "crop_rect_pct": [
+      14.2,
+      0.0,
+      71.5,
+      84.7
+     ]
+    }
+   ],
+   "prompt_attempts": [],
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.194,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 50.0,
+    "y_pct": 40.0,
+    "face_detected": false
+   }
+  },
+  {
+   "id": "beat_032",
+   "startMs": 683099,
+   "endMs": 699050,
+   "new_image_reason": "emotional peak: Dhooma prays for her sister",
+   "characters": [
+    "dhooma"
+   ],
+   "location": "Hayaathu's small plain bedroom in an old Maldivian coral-stone house in the early evening, a single bed with a simple cotton sheet and pillow, a wooden louvered window, a ceiling fan, a small bedside lamp, a plain wooden door with an old iron bolt",
+   "location_key": "bedroom",
+   "mood": "early evening to night, dark blue outside the louvers, the warm glow of a small bedside lamp, deep shadows, lonely and tense",
+   "visual": "Dhooma in her black wheelchair in the lamp-lit bedroom, both palms raised in front of her in quiet supplication (dua), eyes lifted, tears on her cheeks, a peaceful hopeful glow on her face",
+   "camera": "medium close-up, slightly low angle",
+   "image": "images/beat_032.png",
+   "reuse_of": null,
+   "transition_in": "dissolve",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "room_night",
+   "shots": [
+    {
+     "id": "shot_076",
+     "startMs": 683099,
+     "endMs": 690059,
+     "narration_dhivehi": "ދޫމާގެ ދެ ލޮލަށް ކަރުނަ ޖަމާވާން ފެށިއެވެ. ކޮއްކޮއަށް ހެޔޮރަހުމަތް ލެއްވުމައެދި އޭނާގެ އަތް އުފުލާލެވުނެވެ.",
+     "narration_english": "Tears began to gather in Dhooma's eyes. Praying for God's mercy on her little sister, she raised her hands.",
+     "crop": "full",
+     "motion": "pan right",
+     "sfx": [],
+     "hum": true,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_077",
+     "startMs": 690059,
+     "endMs": 699050,
+     "narration_dhivehi": "ހަޔާތުގެ ދިރިއުޅުމަށް އެ އަންނަ އިންސާނަކީ އޯގާތެރި ހިތްތިރި ހަޔާތު ދެކެ އިންތިހާއަށް ލޯބިވާނެ އިންސާނެއް ކަމުގައި ލެއްވުމަށް އެދި ދުޢާ ކުރެވުނެވެ.",
+     "narration_english": "She prayed that the person coming into Hayaathu's life would be a kind-hearted man who would love gentle Hayaathu beyond measure.",
+     "crop": "tight",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": true,
+     "crop_rect_pct": [
+      28.9,
+      0.0,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Dhooma), create a new scene: Cinematic semi-realistic digital illustration, soft natural light, warm tropical colour palette with gentle rose and blush tones like a romantic drama book cover, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject in the upper two-thirds and calm, uncluttered space at the bottom for a logo.\nScene: Dhooma in her black wheelchair in the lamp-lit bedroom, both palms raised in front of her in quiet supplication (dua), eyes lifted, tears on her cheeks, a peaceful hopeful glow on her face. Location: Hayaathu's small plain bedroom in an old Maldivian coral-stone house in the early evening, a single bed with a simple cotton sheet and pillow, a wooden louvered window, a ceiling fan, a small bedside lamp, a plain wooden door with an old iron bolt. Camera: medium close-up, slightly low angle.\nCharacters: Dhooma: a Maldivian woman in her late 20s with warm medium-brown skin, round gentle face, kind tired dark eyes, slight build; she sits in a simple black manual wheelchair; wears a loose long-sleeved ankle-length muted teal-green dress, a cream cotton hijab fully covering hair and neck, and a light grey knitted shawl over her lap.\nMood/lighting: early evening to night, dark blue outside the louvers, the warm glow of a small bedside lamp, deep shadows, lonely and tense.\nModest Maldivian clothing, culturally respectful, no violence shown, no text, no letters, no writing, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.388,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 58.6,
+    "y_pct": 30.1,
+    "face_detected": true
+   }
+  }
+ ]
+}

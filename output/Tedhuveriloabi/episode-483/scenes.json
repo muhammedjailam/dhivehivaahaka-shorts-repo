@@ -1,0 +1,2312 @@
+{
+ "series": "Tedhuveriloabi",
+ "episode": 483,
+ "beats": [
+  {
+   "id": "beat_001",
+   "startMs": 0,
+   "endMs": 34650,
+   "new_image_reason": "new episode opening: Ahna released from prison",
+   "characters": [
+    "ahna"
+   ],
+   "location": "outside the walled prison compound of Maafushi island in the Maldives in the morning: a tall plain pale concrete perimeter wall with a closed heavy grey steel gate, a sandy road, coconut palms and a wide bright tropical sky; no signs",
+   "location_key": "prison",
+   "mood": "bright morning sun, hard clear light, an unsettling calm",
+   "visual": "Ahna standing alone on the sandy road just outside the closed steel prison gate, chin raised, gazing up at the wide sky with a faint, strange, knowing smile, a small cloth bag in one hand. Ahna here wears a plain dark-grey ankle-length abaya with no embroidery and a plain black cotton hijab, no makeup and no gold, instead of her usual burgundy hijab and gold-cuffed abaya",
+   "camera": "medium shot from a slightly low angle, her face in the upper third, the empty sandy road in the lower third",
+   "image": "images/beat_001.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "prison_exterior",
+   "shots": [
+    {
+     "id": "shot_001",
+     "startMs": 0,
+     "endMs": 8250,
+     "narration_dhivehi": "ޖަލުން ނިކުމެ އޭނާ ބޯއުފުލާލައި އުޑުމައްޗަށް ބަލައިލިއެވެ. އޭނާގެ ތުންފަތްމައްޗަށް ވެރިވީ އާދައިގެ ހިނިތުންވުމެކެވެ. \"ލަޔާލީ...",
+     "narration_english": "Walking out of the jail, she lifted her head and looked up at the sky. An unusual smile came onto her lips. 'Layaali...",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [
+      {
+       "name": "footsteps_pavement",
+       "atMs": 820,
+       "gainDb": -24,
+       "word": "ނިކުމެ"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_002",
+     "startMs": 8250,
+     "endMs": 16910,
+     "narration_dhivehi": "ކަލޭ ހީކުރީ އަހަރެން ފޮނުވި ސިޓީއަކީ ހަގީގަތެއް ކަމަށްތަ؟\" އަހްނާ ހިތާހިތުން ބުންޏެވެ. ހަމައެއާއެކު އެ މޫނުމަތީން ފެނުނީ ހިނިތުންވުމެކެވެ.",
+     "narration_english": "did you think the letter I sent was the truth?' Ahna said to herself. And with that, a smile appeared on that face.",
+     "crop": "tight",
+     "motion": "pan left",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      13.4,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_003",
+     "startMs": 16910,
+     "endMs": 27570,
+     "narration_dhivehi": "މޫނުމަތީގެ ހިނިތުންވުމަކީ ހިތުގެ ސާފުކަމުގެ ހެކިބަހެއް ނޫނެވެ. ބައެއްފަހަރު އެންމެ ނުރައްކާތެރި ހަރުފަ ފޮރުވިފައި އޮންނަނީ އެންމެ ރީތި މަލުގެ ފިޔަވަޅުތަކުގެ ދަށުގައެވެ.",
+     "narration_english": "A smile on the face is no proof of a pure heart. Sometimes the most dangerous snake hides beneath the petals of the most beautiful flower.",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": true,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_004",
+     "startMs": 27570,
+     "endMs": 34650,
+     "narration_dhivehi": "\"ޖަލުގެ ހުރިހާ ވޭނެއް އަހަރެން ތަހައްމަލުކުރީ ކަލޭގެ ދިރިއުޅުން ފުނޑުފުނޑުކޮށްލާނެ ދުވަހަކަށް އިންތިޒާރުކުރަމުން.",
+     "narration_english": "'I bore all the pain of jail waiting for the day I would tear your life to pieces.",
+     "crop": "medium",
+     "motion": "pan right",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.3,
+      0.0,
+      71.5,
+      84.7
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Ahna), create a new scene: Cinematic semi-realistic digital illustration in the polished look of a romantic drama book cover, soft natural light with warm golden-hour glow, rich palette of deep plum, burgundy, warm amber and soft city-dusk blues, gentle film grain, shallow depth of field with soft bokeh, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and calm, uncluttered space at the bottom for a logo.\nScene: Ahna standing alone on the sandy road just outside the closed steel prison gate, chin raised, gazing up at the wide sky with a faint, strange, knowing smile, a small cloth bag in one hand. Ahna here wears a plain dark-grey ankle-length abaya with no embroidery and a plain black cotton hijab, no makeup and no gold, instead of her usual burgundy hijab and gold-cuffed abaya. Location: outside the walled prison compound of Maafushi island in the Maldives in the morning: a tall plain pale concrete perimeter wall with a closed heavy grey steel gate, a sandy road, coconut palms and a wide bright tropical sky; no signs. Camera: medium shot from a slightly low angle, her face in the upper third, the empty sandy road in the lower third.\nCharacters: Ahna: a slim tall Maldivian young woman in her mid 20s with fair light skin, strikingly beautiful with high cheekbones, sharp winged eyeliner, glossy deep-red lips and haughty dark eyes; wears a luxurious ankle-length black abaya with ornate gold-embroidered cuffs and a deep burgundy satin hijab fully covering her hair and neck.\nMood/lighting: bright morning sun, hard clear light, an unsettling calm.\nModest Maldivian clothing, culturally respectful, no violence shown, no text, no letters, no writing, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.104,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 43.1,
+    "y_pct": 17.9,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_002",
+   "startMs": 34650,
+   "endMs": 53610,
+   "new_image_reason": "scene and character change: back in Malé, her father Zaahir welcomes her",
+   "characters": [
+    "zaahir",
+    "ahna"
+   ],
+   "location": "the grand living room of Ahmed Zaahir's luxurious villa in Malé: polished marble floor, dark carved wood and gold furnishings, gilded armchairs, tall windows with heavy wine-red curtains",
+   "location_key": "zaahir_living",
+   "mood": "late afternoon, warm amber light through heavy curtains, rich shadows, a welcome with something cold beneath it",
+   "visual": "Ahmed Zaahir, beaming with relief, welcoming his daughter Ahna home in his grand living room, his hands resting fatherly on her shoulders at arm's length; Ahna, fresh out of prison and dressed very plainly, giving him a small, polite, unreadable smile. IMPORTANT: Ahna's hijab is plain matte black (NOT burgundy, NOT red) and her abaya is plain dark grey with completely plain sleeves (NO gold embroidery, no cuffs); keep only her face from the reference. Ahna here wears a plain dark-grey ankle-length abaya with no embroidery and a plain black cotton hijab, no makeup and no gold, instead of her usual burgundy hijab and gold-cuffed abaya",
+   "camera": "medium two-shot, eye level",
+   "image": "images/beat_002.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "mansion_day",
+   "shots": [
+    {
+     "id": "shot_005",
+     "startMs": 34650,
+     "endMs": 46520,
+     "narration_dhivehi": "އަހަރެން މި އެނބުރިއައީ ހަމައެކަނި ރަފްހާން ހޯދާކަށް ނޫން. ކަލޭގެ އަތުން ހުރިހާ އެއްޗެއް އަތުލަން.\" އަހްނާ އެނބުރި މާލެ އައުމާއެކު އޭނާގެ ބައްޕަ އަޙްމަދު ޒާހިރު އޭނާއަށް މަރުޙަބާ ކިއެވެ.",
+     "narration_english": "I didn't come back only to get Rafhaan. I came to take everything from you.' When Ahna returned to Malé, her father Ahmed Zaahir welcomed her.",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_006",
+     "startMs": 46520,
+     "endMs": 53610,
+     "narration_dhivehi": "ޒާހިރު ހީކުރީ އޭނާގެ ދަރިފުޅު މިހާރު ހުރީ އިސްލާހުވެފައި ކަމަށެވެ. ދަރިފުޅަށް އެބަދަލު އައީތީ ޒާހިރު އުފާވިއެވެ.",
+     "narration_english": "Zaahir thought his daughter had now reformed. Zaahir was happy that his daughter had changed.",
+     "crop": "tight",
+     "motion": "pan up",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      36.0,
+      0.0,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Ahmed Zaahir; reference image 2 is Ahna), create a new scene: Cinematic semi-realistic digital illustration in the polished look of a romantic drama book cover, soft natural light with warm golden-hour glow, rich palette of deep plum, burgundy, warm amber and soft city-dusk blues, gentle film grain, shallow depth of field with soft bokeh, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and calm, uncluttered space at the bottom for a logo.\nScene: Ahmed Zaahir, beaming with relief, welcoming his daughter Ahna home in his grand living room, his hands resting fatherly on her shoulders at arm's length; Ahna, fresh out of prison and dressed very plainly, giving him a small, polite, unreadable smile. IMPORTANT: Ahna's hijab is plain matte black (NOT burgundy, NOT red) and her abaya is plain dark grey with completely plain sleeves (NO gold embroidery, no cuffs); keep only her face from the reference. Ahna here wears a plain dark-grey ankle-length abaya with no embroidery and a plain black cotton hijab, no makeup and no gold, instead of her usual burgundy hijab and gold-cuffed abaya. Location: the grand living room of Ahmed Zaahir's luxurious villa in Malé: polished marble floor, dark carved wood and gold furnishings, gilded armchairs, tall windows with heavy wine-red curtains. Camera: medium two-shot, eye level.\nCharacters: Ahmed Zaahir: a heavy-set Maldivian man in his early 60s with medium-brown skin, a broad heavy face, a thick salt-and-pepper moustache, slicked-back grey hair and cold narrow eyes; wears a charcoal-grey three-piece suit, a white shirt, a maroon tie and a gold wristwatch. Ahna: a slim tall Maldivian young woman in her mid 20s with fair light skin, strikingly beautiful with high cheekbones, sharp winged eyeliner, glossy deep-red lips and haughty dark eyes; wears a luxurious ankle-length black abaya with ornate gold-embroidered cuffs and a deep burgundy satin hijab fully covering her hair and neck.\nMood/lighting: late afternoon, warm amber light through heavy curtains, rich shadows, a welcome with something cold beneath it.\nModest Maldivian clothing, culturally respectful, no violence shown, no text, no letters, no writing, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.092,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 65.7,
+    "y_pct": 28.2,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_003",
+   "startMs": 53610,
+   "endMs": 82921,
+   "new_image_reason": "emotional turning point: Ahna reveals her hatred, Zaahir joins her",
+   "characters": [
+    "ahna",
+    "zaahir"
+   ],
+   "location": "the grand living room of Ahmed Zaahir's luxurious villa in Malé: polished marble floor, dark carved wood and gold furnishings, gilded armchairs, tall windows with heavy wine-red curtains",
+   "location_key": "zaahir_living",
+   "mood": "late afternoon, warm amber light through heavy curtains, rich shadows, a welcome with something cold beneath it",
+   "visual": "Ahna seated upright in a gilded armchair, her face gone cold and hard, eyes narrowed as she speaks; Zaahir standing beside the chair, his surprise turning into a slow, dangerous smile. Ahna here wears a plain dark-grey ankle-length abaya with no embroidery and a plain black cotton hijab, no makeup and no gold, instead of her usual burgundy hijab and gold-cuffed abaya",
+   "camera": "medium close two-shot, slightly low angle",
+   "image": "images/beat_003.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "mansion_day",
+   "shots": [
+    {
+     "id": "shot_007",
+     "startMs": 53610,
+     "endMs": 62731,
+     "narration_dhivehi": "ޒާހިރަށް ކުއްލި ސިހުމެއް ލިބުނީ އަހްނާ ދެންބުނި ޖުމްލައިންނެވެ. \" އަހަރެން ޢުމުރުން ތިންއަހަރު ޖަލުގައި ހޭދަކުރަންޖެހުނީ ލަޔާލީ އާއި ރަފްހާންގެ ސަބަބުން.",
+     "narration_english": "Then Ahna's next sentence gave Zaahir a sudden shock. 'I had to spend three years of my life in jail because of Layaali and Rafhaan.",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [
+      {
+       "name": "gasp",
+       "atMs": 54520,
+       "gainDb": -20,
+       "word": "ސިހުމެއް"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_008",
+     "startMs": 62731,
+     "endMs": 71551,
+     "narration_dhivehi": "އެމީހުންނަކަށް ދުވަހަކުވެސް އަހަރެން މަޢާފެއް ނުކުރާނަން.\" އަހްނާ ބޭނުންވީ އެންމެ ފުރަތަމަވެސް ރަފްހާނާއި ލަޔާލީގެ އިތުބާރު ހޯދާށެވެ.",
+     "narration_english": "I will never forgive them.' What Ahna wanted first of all was to win Rafhaan and Layaali's trust.",
+     "crop": "tight",
+     "motion": "pan down",
+     "sfx": [],
+     "hum": true,
+     "crop_rect_pct": [
+      5.0,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_009",
+     "startMs": 71551,
+     "endMs": 82921,
+     "narration_dhivehi": "\"ތިޔަ ޝައިޠާންގެ ވަސްވާހުން ދަރިފުޅު ސަލާމަތެއް ނުވާނެ.\" ނުރައްކާތެރި ގޮތަކަށް ޒާހިރު ވެސް ހޭން ފެށިއެވެ. ޖެހިގެން އައި ދުވަހުގެ ހަވީރު ރަފްހާންގެ ގޭގެ ބެލް ޖަހާއަޑު އިވެންފެށިއެވެ.",
+     "narration_english": "'From that devilish whisper of yours, my girl, no one will be safe.' Zaahir too began to laugh in a dangerous way. The next afternoon, the doorbell of Rafhaan's house began to ring.",
+     "crop": "full",
+     "motion": "static drift",
+     "sfx": [
+      {
+       "name": "doorbell_buzz",
+       "atMs": 81061,
+       "gainDb": -16,
+       "word": "ބެލް"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Ahna; reference image 2 is Ahmed Zaahir), create a new scene: Cinematic semi-realistic digital illustration in the polished look of a romantic drama book cover, soft natural light with warm golden-hour glow, rich palette of deep plum, burgundy, warm amber and soft city-dusk blues, gentle film grain, shallow depth of field with soft bokeh, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and calm, uncluttered space at the bottom for a logo.\nScene: Ahna seated upright in a gilded armchair, her face gone cold and hard, eyes narrowed as she speaks; Zaahir standing beside the chair, his surprise turning into a slow, dangerous smile. Ahna here wears a plain dark-grey ankle-length abaya with no embroidery and a plain black cotton hijab, no makeup and no gold, instead of her usual burgundy hijab and gold-cuffed abaya. Location: the grand living room of Ahmed Zaahir's luxurious villa in Malé: polished marble floor, dark carved wood and gold furnishings, gilded armchairs, tall windows with heavy wine-red curtains. Camera: medium close two-shot, slightly low angle.\nCharacters: Ahna: a slim tall Maldivian young woman in her mid 20s with fair light skin, strikingly beautiful with high cheekbones, sharp winged eyeliner, glossy deep-red lips and haughty dark eyes; wears a luxurious ankle-length black abaya with ornate gold-embroidered cuffs and a deep burgundy satin hijab fully covering her hair and neck. Ahmed Zaahir: a heavy-set Maldivian man in his early 60s with medium-brown skin, a broad heavy face, a thick salt-and-pepper moustache, slicked-back grey hair and cold narrow eyes; wears a charcoal-grey three-piece suit, a white shirt, a maroon tie and a gold wristwatch.\nMood/lighting: late afternoon, warm amber light through heavy curtains, rich shadows, a welcome with something cold beneath it.\nModest Maldivian clothing, culturally respectful, no violence shown, no text, no letters, no writing, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.125,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 34.7,
+    "y_pct": 18.0,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_004",
+   "startMs": 82921,
+   "endMs": 92161,
+   "new_image_reason": "time jump and scene change: next afternoon, Ahna at Rafhaan's front door",
+   "characters": [
+    "layaali",
+    "ahna"
+   ],
+   "location": "the grand front entrance of Rafhaan's large modern white mansion in Malé: a tall dark-wood double door open onto a bright marble foyer with a wide staircase, potted palms",
+   "location_key": "mansion_entry",
+   "mood": "afternoon, bright soft daylight from the doorway, tense and emotional",
+   "visual": "Layaali holding the front door open, frozen in shock, one hand pressed to her chest; Ahna standing on the doorstep outside in her burgundy hijab, eyes glistening, looking humble and fragile",
+   "camera": "medium two-shot from inside the foyer",
+   "image": "images/beat_004.png",
+   "reuse_of": null,
+   "transition_in": "black",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "mansion_day",
+   "shots": [
+    {
+     "id": "shot_010",
+     "startMs": 82921,
+     "endMs": 92161,
+     "narration_dhivehi": "އެ ބެލް ޖަހަނީ އެހެން މީހުން ޖަހާގޮތާ ޚިލާފަށެވެ. ދޮރު ހުޅުވާލީ ލަޔާލީއެވެ. ދޮރުމަތީގައި ހުރި އަހްނާ ފެނުމާއެކު ލަޔާލީގެ ހިތް ވަގުތުން ސިހުނެވެ.",
+     "narration_english": "The bell rang differently from the way others ring it. Layaali opened the door. Seeing Ahna standing at the door, Layaali's heart gave a start.",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [
+      {
+       "name": "door_open",
+       "atMs": 86061,
+       "gainDb": -18,
+       "word": "ހުޅުވާލީ"
+      },
+      {
+       "name": "heartbeat",
+       "atMs": 91161,
+       "gainDb": -18,
+       "word": "ސިހުނެވެ."
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Layaali; reference image 2 is Ahna), create a new scene: Cinematic semi-realistic digital illustration in the polished look of a romantic drama book cover, soft natural light with warm golden-hour glow, rich palette of deep plum, burgundy, warm amber and soft city-dusk blues, gentle film grain, shallow depth of field with soft bokeh, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and calm, uncluttered space at the bottom for a logo.\nScene: Layaali holding the front door open, frozen in shock, one hand pressed to her chest; Ahna standing on the doorstep outside in her burgundy hijab, eyes glistening, looking humble and fragile. Location: the grand front entrance of Rafhaan's large modern white mansion in Malé: a tall dark-wood double door open onto a bright marble foyer with a wide staircase, potted palms. Camera: medium two-shot from inside the foyer.\nCharacters: Layaali: a Maldivian young woman in her mid 20s with warm light-brown skin, a soft oval face, large warm brown eyes with long lashes, dark softly arched eyebrows and gentle full lips, slim build; wears a loose ankle-length black abaya with ruffled mauve floral cuffs and a black chiffon hijab fully covering her hair and neck. Ahna: a slim tall Maldivian young woman in her mid 20s with fair light skin, strikingly beautiful with high cheekbones, sharp winged eyeliner, glossy deep-red lips and haughty dark eyes; wears a luxurious ankle-length black abaya with ornate gold-embroidered cuffs and a deep burgundy satin hijab fully covering her hair and neck.\nMood/lighting: afternoon, bright soft daylight from the doorway, tense and emotional.\nModest Maldivian clothing, culturally respectful, no violence shown, no text, no letters, no writing, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.43,
+    "halo": true
+   },
+   "focus": {
+    "x_pct": 48.4,
+    "y_pct": 71.8,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_005",
+   "startMs": 92161,
+   "endMs": 113301,
+   "new_image_reason": "action change: Ahna falls at Layaali's feet begging forgiveness",
+   "characters": [
+    "ahna",
+    "layaali"
+   ],
+   "location": "the grand front entrance of Rafhaan's large modern white mansion in Malé: a tall dark-wood double door open onto a bright marble foyer with a wide staircase, potted palms",
+   "location_key": "mansion_entry",
+   "mood": "afternoon, bright soft daylight from the doorway, tense and emotional",
+   "visual": "Ahna kneeling on the marble floor of the entrance in front of Layaali, looking up at her with tears on her cheeks, hands clasped in plea; Layaali standing, taken aback, her hands drawn to her chest, her face softening",
+   "camera": "medium wide, slightly high angle over Layaali's shoulder",
+   "image": "images/beat_005.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "mansion_day",
+   "shots": [
+    {
+     "id": "shot_011",
+     "startMs": 92161,
+     "endMs": 102291,
+     "narration_dhivehi": "މާޒީގެ ބިރުވެރި ހަނދާންތައް ލޮލުގެ ކުރިމަތީގައި އެނބުރިގަތެވެ. \"ލަޔާލީ...\" އަހްނާގެ ދެލޮލުން ކަރުނަ އޮހޮރިގެން ދިޔައެވެ. އޭނާ ވަގުތުން ލަޔާލީގެ ފައި ބުޑަށް ތިރިވިއެވެ.",
+     "narration_english": "The frightening memories of the past spun before her eyes. 'Layaali...' Tears streamed from Ahna's eyes. At once she dropped down at Layaali's feet.",
+     "crop": "full",
+     "motion": "pan left",
+     "sfx": [
+      {
+       "name": "sob_breath",
+       "atMs": 98001,
+       "gainDb": -24,
+       "word": "ކަރުނަ"
+      },
+      {
+       "name": "cloth_rustle",
+       "atMs": 101541,
+       "gainDb": -22,
+       "word": "ތިރިވިއެވެ."
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_012",
+     "startMs": 102291,
+     "endMs": 113301,
+     "narration_dhivehi": "\"އަހަރެންނަށް މަޢާފުކުރޭ. އަހަރެން މިއައީ ލަޔާލީގެ ކިބައިން މަޢާފަށް އެދެން. އަހަރެންގެ ހިތުގައި ދެން ދުވަހަކު ވެސް އެހެން މީހަކަށް ހަސަދަވެރިކަމުގެ އޮށެއް ނީންދާނަން.",
+     "narration_english": "'Forgive me. I came to ask Layaali's forgiveness. Never again will a seed of envy towards anyone sprout in my heart.",
+     "crop": "tight",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": true,
+     "crop_rect_pct": [
+      20.3,
+      4.8,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Ahna; reference image 2 is Layaali), create a new scene: Cinematic semi-realistic digital illustration in the polished look of a romantic drama book cover, soft natural light with warm golden-hour glow, rich palette of deep plum, burgundy, warm amber and soft city-dusk blues, gentle film grain, shallow depth of field with soft bokeh, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and calm, uncluttered space at the bottom for a logo.\nScene: Ahna kneeling on the marble floor of the entrance in front of Layaali, looking up at her with tears on her cheeks, hands clasped in plea; Layaali standing, taken aback, her hands drawn to her chest, her face softening. Location: the grand front entrance of Rafhaan's large modern white mansion in Malé: a tall dark-wood double door open onto a bright marble foyer with a wide staircase, potted palms. Camera: medium wide, slightly high angle over Layaali's shoulder.\nCharacters: Ahna: a slim tall Maldivian young woman in her mid 20s with fair light skin, strikingly beautiful with high cheekbones, sharp winged eyeliner, glossy deep-red lips and haughty dark eyes; wears a luxurious ankle-length black abaya with ornate gold-embroidered cuffs and a deep burgundy satin hijab fully covering her hair and neck. Layaali: a Maldivian young woman in her mid 20s with warm light-brown skin, a soft oval face, large warm brown eyes with long lashes, dark softly arched eyebrows and gentle full lips, slim build; wears a loose ankle-length black abaya with ruffled mauve floral cuffs and a black chiffon hijab fully covering her hair and neck.\nMood/lighting: afternoon, bright soft daylight from the doorway, tense and emotional.\nModest Maldivian clothing, culturally respectful, no violence shown, no text, no letters, no writing, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.378,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 50.0,
+    "y_pct": 40.0,
+    "face_detected": false
+   }
+  },
+  {
+   "id": "beat_006",
+   "startMs": 113301,
+   "endMs": 131992,
+   "new_image_reason": "action change: Layaali raises Ahna up and forgives her",
+   "characters": [
+    "layaali",
+    "ahna"
+   ],
+   "location": "the grand front entrance of Rafhaan's large modern white mansion in Malé: a tall dark-wood double door open onto a bright marble foyer with a wide staircase, potted palms",
+   "location_key": "mansion_entry",
+   "mood": "afternoon, bright soft daylight from the doorway, tense and emotional",
+   "visual": "Layaali bending down and gently taking Ahna's hands to raise her to her feet, a soft forgiving smile on her face; Ahna rising with her eyes lowered, a humble, grateful look",
+   "camera": "medium two-shot, eye level",
+   "image": "images/beat_006.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "mansion_day",
+   "shots": [
+    {
+     "id": "shot_013",
+     "startMs": 113301,
+     "endMs": 123492,
+     "narration_dhivehi": "އަހަރެން ބޭނުންވަނީ އާ ދިރިއުޅުމެއް ފަށަން.\" ލަޔާލީއަކީ އަބަދުވެސް މަޑުމަޑުން ހުންނަ ހިތްހެޔޮ ކުއްޖެކެވެ. އަހްނާގެ މި ހާލަތު ފެނުމުން އޭނާގެ ހިތް މަޑުވިއެވެ.",
+     "narration_english": "I want to start a new life.' Layaali has always been a calm, kind-hearted girl. Seeing Ahna in this state, her heart softened.",
+     "crop": "full",
+     "motion": "pan right",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_014",
+     "startMs": 123492,
+     "endMs": 131992,
+     "narration_dhivehi": "އޭނާ އަހްނާގެ އަތުގައި ހިފާ އުފުލާލިއެވެ. \"އަހްނާ... އަހަރެން މާޒީގެ ހުރިހާ ކަމެއް ހަނދާން ނައްތާލައިފިން. އަހަރެން މަޢާފުކޮށްފިން.\"",
+     "narration_english": "She took Ahna by the hand and raised her up. 'Ahna... I have forgotten everything in the past. I have forgiven you.'",
+     "crop": "tight",
+     "motion": "slow push-in",
+     "sfx": [
+      {
+       "name": "cloth_rustle",
+       "atMs": 125262,
+       "gainDb": -22,
+       "word": "އުފުލާލިއެވެ."
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      5.5,
+      0.0,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Layaali; reference image 2 is Ahna), create a new scene: Cinematic semi-realistic digital illustration in the polished look of a romantic drama book cover, soft natural light with warm golden-hour glow, rich palette of deep plum, burgundy, warm amber and soft city-dusk blues, gentle film grain, shallow depth of field with soft bokeh, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and calm, uncluttered space at the bottom for a logo.\nScene: Layaali bending down and gently taking Ahna's hands to raise her to her feet, a soft forgiving smile on her face; Ahna rising with her eyes lowered, a humble, grateful look. Location: the grand front entrance of Rafhaan's large modern white mansion in Malé: a tall dark-wood double door open onto a bright marble foyer with a wide staircase, potted palms. Camera: medium two-shot, eye level.\nCharacters: Layaali: a Maldivian young woman in her mid 20s with warm light-brown skin, a soft oval face, large warm brown eyes with long lashes, dark softly arched eyebrows and gentle full lips, slim build; wears a loose ankle-length black abaya with ruffled mauve floral cuffs and a black chiffon hijab fully covering her hair and neck. Ahna: a slim tall Maldivian young woman in her mid 20s with fair light skin, strikingly beautiful with high cheekbones, sharp winged eyeliner, glossy deep-red lips and haughty dark eyes; wears a luxurious ankle-length black abaya with ornate gold-embroidered cuffs and a deep burgundy satin hijab fully covering her hair and neck.\nMood/lighting: afternoon, bright soft daylight from the doorway, tense and emotional.\nModest Maldivian clothing, culturally respectful, no violence shown, no text, no letters, no writing, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.435,
+    "halo": true
+   },
+   "focus": {
+    "x_pct": 35.3,
+    "y_pct": 22.4,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_007",
+   "startMs": 131992,
+   "endMs": 158942,
+   "new_image_reason": "character enters: Rafhaan comes home and sees Ahna",
+   "characters": [
+    "rafhaan",
+    "layaali",
+    "ahna"
+   ],
+   "location": "the grand front entrance of Rafhaan's large modern white mansion in Malé: a tall dark-wood double door open onto a bright marble foyer with a wide staircase, potted palms",
+   "location_key": "mansion_entry",
+   "mood": "afternoon, bright soft daylight from the doorway, tense and emotional",
+   "visual": "Rafhaan in his black suit stepping in through the front door and stopping short with a cold, displeased frown at Ahna; Layaali standing near him, one hand raised gently as she explains; Ahna standing a little apart with her eyes lowered meekly",
+   "camera": "medium wide, eye level",
+   "image": "images/beat_007.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "mansion_day",
+   "shots": [
+    {
+     "id": "shot_015",
+     "startMs": 131992,
+     "endMs": 140722,
+     "narration_dhivehi": "ރަފްހާން ގެއަށް ވަނީ އެ ވަގުތުއެވެ. އަހްނާ ފެނުމުން އޭނާގެ މޫނުމަތިން ނުރުހުންތެރިކަން ފެނުނެވެ. ނަމަވެސް ލަޔާލީ ރަފްހާނަށް ވިސްނައިދިނެވެ.",
+     "narration_english": "Just then Rafhaan came into the house. Seeing Ahna, displeasure showed on his face. But Layaali made Rafhaan understand",
+     "crop": "full",
+     "motion": "pan up",
+     "sfx": [
+      {
+       "name": "door_close",
+       "atMs": 132942,
+       "gainDb": -20,
+       "word": "ވަނީ"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_016",
+     "startMs": 140722,
+     "endMs": 148512,
+     "narration_dhivehi": "އަހްނާ ބަދަލުވެއްޖެ ކަމަށާއި އޭނާއަށް އާ ފުރުޞަތެއް ދޭންޖެހޭނެ ކަމަށެވެ. އަހްނާގެ ރޭވުމުގެ ފުރަތަމަ ފިޔަވަޅު ކާމިޔާބުވިއެވެ.",
+     "narration_english": "that Ahna had changed and must be given a new chance. The first step of Ahna's plan had succeeded.",
+     "crop": "tight",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      0.0,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_017",
+     "startMs": 148512,
+     "endMs": 158942,
+     "narration_dhivehi": "އޭނާ އެމީހުންގެ ދިރިއުޅުމުގެ ތެރެއަށް ވަދެގަތީ މައޞޫމް ސިފައެއްގައެވެ. އަނެއްކޮޅުން ލަޔާލީގެ ބައްޕަގެ ބަލިހާލަތު ދުވަހެއް ދުވަހަކަށް ދިޔައީ ބޮޑުވަމުންނެވެ.",
+     "narration_english": "She had slipped into their lives in an innocent guise. Meanwhile, Layaali's father's illness was getting worse day by day.",
+     "crop": "full",
+     "motion": "pan down",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Rafhaan; reference image 2 is Layaali; reference image 3 is Ahna), create a new scene: Cinematic semi-realistic digital illustration in the polished look of a romantic drama book cover, soft natural light with warm golden-hour glow, rich palette of deep plum, burgundy, warm amber and soft city-dusk blues, gentle film grain, shallow depth of field with soft bokeh, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and calm, uncluttered space at the bottom for a logo.\nScene: Rafhaan in his black suit stepping in through the front door and stopping short with a cold, displeased frown at Ahna; Layaali standing near him, one hand raised gently as she explains; Ahna standing a little apart with her eyes lowered meekly. Location: the grand front entrance of Rafhaan's large modern white mansion in Malé: a tall dark-wood double door open onto a bright marble foyer with a wide staircase, potted palms. Camera: medium wide, eye level.\nCharacters: Rafhaan: a tall fit Maldivian man about 30 with light-brown skin, short dark-brown hair neatly swept back, a well-groomed short dark beard and warm dark-brown eyes; wears a tailored black suit, a crisp white shirt, a slim dark-grey tie and a silver wristwatch. Layaali: a Maldivian young woman in her mid 20s with warm light-brown skin, a soft oval face, large warm brown eyes with long lashes, dark softly arched eyebrows and gentle full lips, slim build; wears a loose ankle-length black abaya with ruffled mauve floral cuffs and a black chiffon hijab fully covering her hair and neck. Ahna: a slim tall Maldivian young woman in her mid 20s with fair light skin, strikingly beautiful with high cheekbones, sharp winged eyeliner, glossy deep-red lips and haughty dark eyes; wears a luxurious ankle-length black abaya with ornate gold-embroidered cuffs and a deep burgundy satin hijab fully covering her hair and neck.\nMood/lighting: afternoon, bright soft daylight from the doorway, tense and emotional.\nModest Maldivian clothing, culturally respectful, no violence shown, no text, no letters, no writing, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.473,
+    "halo": true
+   },
+   "focus": {
+    "x_pct": 20.8,
+    "y_pct": 17.3,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_008",
+   "startMs": 158942,
+   "endMs": 172122,
+   "new_image_reason": "scene change, detail image: Qaasim's illness and his old photo album",
+   "characters": [],
+   "location": "a white bedsheet beside a pillow in a quiet bedroom, soft window light",
+   "location_key": "album",
+   "mood": "soft daylight, quiet, nostalgic and sad",
+   "visual": "close-up of an old man's thin hands, in faded light-blue cotton sleeves, holding open a worn brown leather photo album on a white sheet; the album shows faded old photographs of grand white buildings and shiny vintage cars, no writing anywhere",
+   "camera": "close-up from above",
+   "image": "images/beat_008.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "room_day",
+   "shots": [
+    {
+     "id": "shot_018",
+     "startMs": 158942,
+     "endMs": 165252,
+     "narration_dhivehi": "އޭނާ އެނދުގައި އޮވެގެން އަބަދުވެސް ކުރާ ކަމަކީ އޭނާ ހިތްހަމަ ޖެއްސުމަށް ފޮޓޯ އަލްބަމް ބެލުމެވެ.",
+     "narration_english": "Lying in bed, the one thing he always did to calm himself was look through a photo album.",
+     "crop": "full",
+     "motion": "static drift",
+     "sfx": [
+      {
+       "name": "page_turn",
+       "atMs": 163722,
+       "gainDb": -20,
+       "word": "އަލްބަމް"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_019",
+     "startMs": 165252,
+     "endMs": 172122,
+     "narration_dhivehi": "އެ އަލްބަމްގެ ތެރޭގައި ހުރީ ވަރަށް މުއްސަނދި ގޮތަކަށް ހަދާފައިވާ ބޮޑެތި އިމާރާތްތަކާއި ކާރުތަކުގެ ފޮޓޯއެވެ.",
+     "narration_english": "In that album were photos of grand, richly built buildings and cars.",
+     "crop": "tight",
+     "motion": "slow push-in",
+     "sfx": [
+      {
+       "name": "page_turn",
+       "atMs": 165302,
+       "gainDb": -22,
+       "word": "އަލްބަމްގެ"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      20.3,
+      4.8,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Cinematic semi-realistic digital illustration in the polished look of a romantic drama book cover, soft natural light with warm golden-hour glow, rich palette of deep plum, burgundy, warm amber and soft city-dusk blues, gentle film grain, shallow depth of field with soft bokeh, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and calm, uncluttered space at the bottom for a logo.\nScene: close-up of an old man's thin hands, in faded light-blue cotton sleeves, holding open a worn brown leather photo album on a white sheet; the album shows faded old photographs of grand white buildings and shiny vintage cars, no writing anywhere. Location: a white bedsheet beside a pillow in a quiet bedroom, soft window light. Camera: close-up from above.\nMood/lighting: soft daylight, quiet, nostalgic and sad.\nModest Maldivian clothing, culturally respectful, no violence shown, no text, no letters, no writing, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.523,
+    "halo": true
+   },
+   "focus": {
+    "x_pct": 50.0,
+    "y_pct": 40.0,
+    "face_detected": false
+   }
+  },
+  {
+   "id": "beat_009",
+   "startMs": 172122,
+   "endMs": 204623,
+   "new_image_reason": "character and action change: Layaali feeding her father notices the album",
+   "characters": [
+    "layaali",
+    "qaasim"
+   ],
+   "location": "a quiet, simple ground-floor guest bedroom in Rafhaan's mansion where Layaali's frail father now lives: a single bed with white sheets and pillows, a bedside table with medicine bottles and a glass of water, a window with sheer curtains onto a green garden",
+   "location_key": "qaasim_room",
+   "mood": "soft daylight through sheer curtains, quiet, heavy with sorrow",
+   "visual": "Layaali sitting on a chair at her father's bedside holding a small bowl and spoon, feeding him, glancing curiously at the open photo album lying by his pillow; Qaasim propped up on white pillows, his tired eyes wet with tears",
+   "camera": "medium two-shot, eye level",
+   "image": "images/beat_009.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "room_day",
+   "shots": [
+    {
+     "id": "shot_020",
+     "startMs": 172122,
+     "endMs": 182473,
+     "narration_dhivehi": "އެއްދުވަހަކު ލަޔާލީ ބައްޕައަށް ކާންދޭން އިނދެ އެ އަލްބަމް ފެނިގެން ސުވާލުކުރިއެވެ. \"ބައްޕާ... މިއީ ކޮން ފޮޓޯތަކެއް؟ ބައްޕަ އަބަދު މި ފޮޓޯތަކަށް ބަލަނީ ކީއްވެ؟\"",
+     "narration_english": "One day, sitting to feed her father, Layaali saw the album and asked, 'Dad... what photos are these? Why do you always look at them?'",
+     "crop": "full",
+     "motion": "pan left",
+     "sfx": [
+      {
+       "name": "cup_clatter",
+       "atMs": 173662,
+       "gainDb": -22,
+       "word": "ކާންދޭން"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_021",
+     "startMs": 182473,
+     "endMs": 194533,
+     "narration_dhivehi": "ޤާސިމް ފުން ނޭވާއެއްލިއެވެ. އޭނާގެ ދެލޮލުން ކަރުނަ ފޮހެލިއެވެ. \"ދަރިފުޅާ ލަޔާލީ... މިއަދު ބައްޕަގެ ފުރާނަ މި ދުނިޔެއިން ވަކިވުމުގެ ކުރިން ބައްޕަގެ މާޒީގެ ދަރިފުޅަށް ކިޔައިދޭން އެބަޖެހޭ.",
+     "narration_english": "Qaasim let out a deep breath. Tears welled in his eyes. 'Layaali, my child... today, before my soul leaves this world, I must tell you about my past.",
+     "crop": "tight",
+     "motion": "slow pull-out",
+     "sfx": [
+      {
+       "name": "sigh",
+       "atMs": 183663,
+       "gainDb": -18,
+       "word": "ނޭވާއެއްލިއެވެ."
+      }
+     ],
+     "hum": true,
+     "crop_rect_pct": [
+      6.3,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_022",
+     "startMs": 194533,
+     "endMs": 204623,
+     "narration_dhivehi": "ދަރިފުޅު ހީކުރަނީ ބައްޕާއަކީ އަބަދުވެސް ފަގީރު ނިކަމެތި މީހެއް ކަމަށްދޯ!\" ލަޔާލީ ހައިރާންވިއެވެ. \"އާނ ބައްޕާ... އަހަރެމެންނަކީ ނިކަމެތި ފަގީރުން.",
+     "narration_english": "You think your father was always a poor, humble man, don't you!' Layaali was puzzled. 'Yes, Dad... we are poor, humble people.",
+     "crop": "full",
+     "motion": "pan right",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Layaali; reference image 2 is Qaasim), create a new scene: Cinematic semi-realistic digital illustration in the polished look of a romantic drama book cover, soft natural light with warm golden-hour glow, rich palette of deep plum, burgundy, warm amber and soft city-dusk blues, gentle film grain, shallow depth of field with soft bokeh, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and calm, uncluttered space at the bottom for a logo.\nScene: Layaali sitting on a chair at her father's bedside holding a small bowl and spoon, feeding him, glancing curiously at the open photo album lying by his pillow; Qaasim propped up on white pillows, his tired eyes wet with tears. Location: a quiet, simple ground-floor guest bedroom in Rafhaan's mansion where Layaali's frail father now lives: a single bed with white sheets and pillows, a bedside table with medicine bottles and a glass of water, a window with sheer curtains onto a green garden. Camera: medium two-shot, eye level.\nCharacters: Layaali: a Maldivian young woman in her mid 20s with warm light-brown skin, a soft oval face, large warm brown eyes with long lashes, dark softly arched eyebrows and gentle full lips, slim build; wears a loose ankle-length black abaya with ruffled mauve floral cuffs and a black chiffon hijab fully covering her hair and neck. Qaasim: a thin frail Maldivian man in his early 60s with medium-brown skin, a thin face with sunken cheeks, short grey hair, short grey stubble and kind tired eyes; wears a faded light-blue long-sleeved cotton shirt and a dark checked sarong.\nMood/lighting: soft daylight through sheer curtains, quiet, heavy with sorrow.\nModest Maldivian clothing, culturally respectful, no violence shown, no text, no letters, no writing, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.432,
+    "halo": true
+   },
+   "focus": {
+    "x_pct": 36.0,
+    "y_pct": 25.5,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_010",
+   "startMs": 204623,
+   "endMs": 222143,
+   "new_image_reason": "flashback: thirty years ago Qaasim Enterprises was Malé's biggest company",
+   "characters": [],
+   "location": "the Malé waterfront business street thirty years ago, in the early 1990s: a handsome three-storey white commercial building with arched windows and balconies, palm trees, the harbour behind",
+   "location_key": "memory_city",
+   "mood": "sepia-toned, hazy warm light, faded and dreamlike memory, soft vignette",
+   "visual": "a sepia-toned memory: a proud white three-storey company building on the 1990s Malé waterfront, a row of gleaming vintage 1990s cars parked in front, a few office workers in 1990s clothes in the distance; no signs, no lettering",
+   "camera": "wide establishing shot, eye level",
+   "image": "images/beat_010.png",
+   "reuse_of": null,
+   "transition_in": "dissolve",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "memory",
+   "shots": [
+    {
+     "id": "shot_023",
+     "startMs": 204623,
+     "endMs": 214683,
+     "narration_dhivehi": "ދެން ކިހިނެއްވީ؟\" \"ނޫން ދަރިފުޅާ. މީގެ ތިރީސް އަހަރު ކުރިން މާލޭގެ ވިޔަފާރީގެ ބާޒާރުގައި 'ޤާސިމް އެންޓަޕްރައިސަސް' އަކީ އެންމެ ބޮޑު ކުންފުނި.",
+     "narration_english": "So what happened?' 'No, my child. Thirty years ago, in Malé's business market, \"Qaasim Enterprises\" was the biggest company.",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_024",
+     "startMs": 214683,
+     "endMs": 222143,
+     "narration_dhivehi": "މި ފޮޓޯތަކުން އެ ފެންނަނީ ބައްޕަގެ އަމިއްލަ އިމާރާތްތަކާއި މުދާ.\" ޤާސިމް ތުރުތުރުލާ އަޑަކުން ބުންޏެވެ. \"ނަމަވެސް...",
+     "narration_english": "What you see in these photos are my own buildings and property,' Qaasim said in a trembling voice. 'But...",
+     "crop": "tight",
+     "motion": "pan up",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      20.3,
+      4.8,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Cinematic semi-realistic digital illustration in the polished look of a romantic drama book cover, soft natural light with warm golden-hour glow, rich palette of deep plum, burgundy, warm amber and soft city-dusk blues, gentle film grain, shallow depth of field with soft bokeh, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and calm, uncluttered space at the bottom for a logo.\nScene: a sepia-toned memory: a proud white three-storey company building on the 1990s Malé waterfront, a row of gleaming vintage 1990s cars parked in front, a few office workers in 1990s clothes in the distance; no signs, no lettering. Location: the Malé waterfront business street thirty years ago, in the early 1990s: a handsome three-storey white commercial building with arched windows and balconies, palm trees, the harbour behind. Camera: wide establishing shot, eye level.\nMood/lighting: sepia-toned, hazy warm light, faded and dreamlike memory, soft vignette.\nModest Maldivian clothing, culturally respectful, no violence shown, no text, no letters, no writing, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.255,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 50.0,
+    "y_pct": 40.0,
+    "face_detected": false
+   }
+  },
+  {
+   "id": "beat_011",
+   "startMs": 222143,
+   "endMs": 240464,
+   "new_image_reason": "flashback, action change: the trusted partner forges the documents",
+   "characters": [],
+   "location": "a private company office thirty years ago, in the early 1990s: a heavy wooden desk with a green banker's lamp, stacks of paper files and ledgers, a rubber stamp, a ceiling fan, wooden venetian blinds",
+   "location_key": "memory_office",
+   "mood": "sepia-toned night memory, a single pool of lamp light, deep shadows, secretive, soft vignette",
+   "visual": "a sepia-toned memory at night: a heavy-set man in his early 30s with a thick black moustache and slicked-back black hair, in a 1990s grey suit, bent over the desk under the green lamp, secretly copying a signature onto blank documents with a fountain pen, a sly cold look on his face; the papers show no readable writing",
+   "camera": "medium shot, slightly low angle",
+   "image": "images/beat_011.png",
+   "reuse_of": null,
+   "transition_in": "dissolve",
+   "sensitive": "other",
+   "safe_substitution": "the fraud is shown only as a man signing papers at night; no readable documents",
+   "ambience": "memory",
+   "shots": [
+    {
+     "id": "shot_025",
+     "startMs": 222143,
+     "endMs": 231603,
+     "narration_dhivehi": "ބައްޕަގެ އެންމެ އިތުބާރުހުރި ބައިވެރިޔާ ބައްޕައަށް ބޮޑު މަކަރެއް ހަދާ ހުރިހާ ލިޔެކިޔުންތަކެއް ފޯޖްކޮށްގެން ބައްޕަގެ މުޅި މުއްސަނދިކަން ފޭރިގަތީ.",
+     "narration_english": "my most trusted partner played a great deceit on me, forged all the documents and robbed me of my whole fortune.",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [
+      {
+       "name": "paper_shuffle",
+       "atMs": 227303,
+       "gainDb": -22,
+       "word": "ލިޔެކިޔުންތަކެއް"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_026",
+     "startMs": 231603,
+     "endMs": 240464,
+     "narration_dhivehi": "ބައްޕަ މަގުމަތިކޮށްލީ.\" \"ކާކު؟ އެއީ ކާކު؟\" ލަޔާލީ ސުވާލު ތަކުރާރު ކުރިއެވެ. އެވަގުތު ލަޔާލީގެ ހިތް ބާރަށް ތެޅިގަތެވެ. \"އެއީ...",
+     "narration_english": "He put me out on the street.' 'Who? Who was it?' Layaali asked again and again. At that moment her heart began to pound. 'It was...",
+     "crop": "tight",
+     "motion": "pan down",
+     "sfx": [
+      {
+       "name": "heartbeat",
+       "atMs": 239344,
+       "gainDb": -16,
+       "word": "ތެޅިގަތެވެ."
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      20.3,
+      4.8,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Cinematic semi-realistic digital illustration in the polished look of a romantic drama book cover, soft natural light with warm golden-hour glow, rich palette of deep plum, burgundy, warm amber and soft city-dusk blues, gentle film grain, shallow depth of field with soft bokeh, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and calm, uncluttered space at the bottom for a logo.\nScene: a sepia-toned memory at night: a heavy-set man in his early 30s with a thick black moustache and slicked-back black hair, in a 1990s grey suit, bent over the desk under the green lamp, secretly copying a signature onto blank documents with a fountain pen, a sly cold look on his face; the papers show no readable writing. Location: a private company office thirty years ago, in the early 1990s: a heavy wooden desk with a green banker's lamp, stacks of paper files and ledgers, a rubber stamp, a ceiling fan, wooden venetian blinds. Camera: medium shot, slightly low angle.\nMood/lighting: sepia-toned night memory, a single pool of lamp light, deep shadows, secretive, soft vignette.\nModest Maldivian clothing, culturally respectful, no violence shown, no text, no letters, no writing, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.059,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 50.0,
+    "y_pct": 40.0,
+    "face_detected": false
+   }
+  },
+  {
+   "id": "beat_012",
+   "startMs": 240464,
+   "endMs": 266364,
+   "new_image_reason": "emotional turning point: back in the room, the name Ahmed Zaahir is revealed",
+   "characters": [
+    "qaasim",
+    "layaali"
+   ],
+   "location": "a quiet, simple ground-floor guest bedroom in Rafhaan's mansion where Layaali's frail father now lives: a single bed with white sheets and pillows, a bedside table with medicine bottles and a glass of water, a window with sheer curtains onto a green garden",
+   "location_key": "qaasim_room",
+   "mood": "soft daylight through sheer curtains, quiet, heavy with sorrow",
+   "visual": "Qaasim in the bed weeping openly, one trembling hand over his eyes; Layaali at the bedside frozen in shock, one hand over her mouth, her eyes wide and wet, the photo album open on the blanket",
+   "camera": "medium close two-shot",
+   "image": "images/beat_012.png",
+   "reuse_of": null,
+   "transition_in": "dissolve",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "room_day",
+   "shots": [
+    {
+     "id": "shot_027",
+     "startMs": 240464,
+     "endMs": 253294,
+     "narration_dhivehi": "އަޙްމަދު ޒާހިރު! އަހްނާގެ ބައްޕަ!\" ޤާސިމް ބާރަށް ރޮއިގަތެވެ. \"އޭނާ ބައްޕަގެ ހުރިހާ އެއްޗެއް އަތުލައިގެން ބިނާކުރި ކުންފުންޏަކީ މިއަދު އެމީހުން އެ ބޭނުންކުރާ 'ޒާހިރު އިންވެސްޓްމަންޓްސް.\"",
+     "narration_english": "Ahmed Zaahir! Ahna's father!' Qaasim broke down crying. 'The company he built with everything he took from me is the \"Zaahir Investments\" they run today.'",
+     "crop": "full",
+     "motion": "static drift",
+     "sfx": [
+      {
+       "name": "sob_breath",
+       "atMs": 244884,
+       "gainDb": -20,
+       "word": "ރޮއިގަތެވެ."
+      }
+     ],
+     "hum": true,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_028",
+     "startMs": 253294,
+     "endMs": 266364,
+     "narration_dhivehi": "ލަޔާލީގެ ބޮލަށް އެނބުރުން އެރިއެވެ. މިއީ ކޮންފަދަ ބޮޑު އިއްތިފާގެއް ހެއްޔެވެ؟ އޭނާގެ ދިރިއުޅުން ހަލާކުކޮށްލަން އުޅުނު އަހްނާގެ އާއިލާއަކީ އޭނާގެ ބައްޕަގެ މުޅި ދިރިއުޅުން ފުނޑުފުނޑުކޮށްލި ހަތުރުންނެވެ.",
+     "narration_english": "Layaali's head began to spin. What kind of terrible coincidence was this? The family of Ahna, who had tried to wreck her life, were the enemies who had torn her father's whole life apart.",
+     "crop": "tight",
+     "motion": "slow push-in",
+     "sfx": [
+      {
+       "name": "heartbeat",
+       "atMs": 254664,
+       "gainDb": -18,
+       "word": "އެނބުރުން"
+      }
+     ],
+     "hum": true,
+     "crop_rect_pct": [
+      40.6,
+      0.0,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Qaasim; reference image 2 is Layaali), create a new scene: Cinematic semi-realistic digital illustration in the polished look of a romantic drama book cover, soft natural light with warm golden-hour glow, rich palette of deep plum, burgundy, warm amber and soft city-dusk blues, gentle film grain, shallow depth of field with soft bokeh, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and calm, uncluttered space at the bottom for a logo.\nScene: Qaasim in the bed weeping openly, one trembling hand over his eyes; Layaali at the bedside frozen in shock, one hand over her mouth, her eyes wide and wet, the photo album open on the blanket. Location: a quiet, simple ground-floor guest bedroom in Rafhaan's mansion where Layaali's frail father now lives: a single bed with white sheets and pillows, a bedside table with medicine bottles and a glass of water, a window with sheer curtains onto a green garden. Camera: medium close two-shot.\nCharacters: Qaasim: a thin frail Maldivian man in his early 60s with medium-brown skin, a thin face with sunken cheeks, short grey hair, short grey stubble and kind tired eyes; wears a faded light-blue long-sleeved cotton shirt and a dark checked sarong. Layaali: a Maldivian young woman in her mid 20s with warm light-brown skin, a soft oval face, large warm brown eyes with long lashes, dark softly arched eyebrows and gentle full lips, slim build; wears a loose ankle-length black abaya with ruffled mauve floral cuffs and a black chiffon hijab fully covering her hair and neck.\nMood/lighting: soft daylight through sheer curtains, quiet, heavy with sorrow.\nModest Maldivian clothing, culturally respectful, no violence shown, no text, no letters, no writing, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.294,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 77.1,
+    "y_pct": 25.3,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_013",
+   "startMs": 266364,
+   "endMs": 283074,
+   "new_image_reason": "scene and character change: meanwhile Ahna with little Raina in the garden",
+   "characters": [
+    "ahna",
+    "raina"
+   ],
+   "location": "the lush garden of Rafhaan's mansion: a neat green lawn, frangipani and pink bougainvillea, a white garden bench, a low hedge, the white mansion with tall glass doors behind",
+   "location_key": "garden",
+   "mood": "afternoon sun, dappled light through the trees, deceptively peaceful with an undercurrent of menace",
+   "visual": "Ahna sitting on the white garden bench with little Raina standing beside her knee; Ahna gently stroking the child's soft curly hair while her eyes, turned slightly away, hold a cold, dangerous look; Raina smiling innocently, holding a small frangipani flower",
+   "camera": "medium shot, eye level",
+   "image": "images/beat_013.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "garden_day",
+   "shots": [
+    {
+     "id": "shot_029",
+     "startMs": 266364,
+     "endMs": 276194,
+     "narration_dhivehi": "ހަސަދައާއި ބަދަލުހިފުމުގެ މި ބޮޑު ދާގަނޑު ވަނީ މާޒީގެ ތެރެއިންމެ ގަތާފައެވެ. އެ ވަގުތު ރަފްހާންގެ ގޭގެ ބަގީޗާގެ ތެރޭގައި އަހްނާ އިނީ ކުޑަކުޑަ ރައިނާ ގޮވައިގެން ކުޅޭށެވެ.",
+     "narration_english": "This great stain of envy and revenge had been woven long ago in the past. At that very moment, in the garden of Rafhaan's house, Ahna sat playing with little Raina.",
+     "crop": "full",
+     "motion": "pan left",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_030",
+     "startMs": 276194,
+     "endMs": 283074,
+     "narration_dhivehi": "އޭނާ ރައިނާގެ ބޮލުގައި ފިރުމާލަމުން އެ ކުޑަކުޑަ މައުޞޫމް ކުއްޖާއަށް ބަލާލީ ނުރައްކާތެރި ނަޒަރަކުންނެވެ.",
+     "narration_english": "Stroking Raina's head, she looked at that small innocent child with a dangerous gaze.",
+     "crop": "tight",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": true,
+     "crop_rect_pct": [
+      8.5,
+      0.0,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Ahna; reference image 2 is Raina), create a new scene: Cinematic semi-realistic digital illustration in the polished look of a romantic drama book cover, soft natural light with warm golden-hour glow, rich palette of deep plum, burgundy, warm amber and soft city-dusk blues, gentle film grain, shallow depth of field with soft bokeh, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and calm, uncluttered space at the bottom for a logo.\nScene: Ahna sitting on the white garden bench with little Raina standing beside her knee; Ahna gently stroking the child's soft curly hair while her eyes, turned slightly away, hold a cold, dangerous look; Raina smiling innocently, holding a small frangipani flower. Location: the lush garden of Rafhaan's mansion: a neat green lawn, frangipani and pink bougainvillea, a white garden bench, a low hedge, the white mansion with tall glass doors behind. Camera: medium shot, eye level.\nCharacters: Ahna: a slim tall Maldivian young woman in her mid 20s with fair light skin, strikingly beautiful with high cheekbones, sharp winged eyeliner, glossy deep-red lips and haughty dark eyes; wears a luxurious ankle-length black abaya with ornate gold-embroidered cuffs and a deep burgundy satin hijab fully covering her hair and neck. Raina: a two-year-old Maldivian toddler girl with light-brown skin, chubby cheeks, big bright brown eyes and short soft curly dark hair with a small pink clip; wears a soft pink long-sleeved toddler dress with white leggings.\nMood/lighting: afternoon sun, dappled light through the trees, deceptively peaceful with an undercurrent of menace.\nModest Maldivian clothing, culturally respectful, no violence shown, no text, no letters, no writing, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.157,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 38.2,
+    "y_pct": 23.2,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_014",
+   "startMs": 283074,
+   "endMs": 330935,
+   "new_image_reason": "scene change: Layaali alone in her father's room, in tears",
+   "characters": [
+    "layaali",
+    "qaasim"
+   ],
+   "location": "a quiet, simple ground-floor guest bedroom in Rafhaan's mansion where Layaali's frail father now lives: a single bed with white sheets and pillows, a bedside table with medicine bottles and a glass of water, a window with sheer curtains onto a green garden",
+   "location_key": "qaasim_room",
+   "mood": "soft daylight through sheer curtains, quiet, heavy with sorrow",
+   "visual": "Layaali sitting alone on a chair by the window, tears running down her face, wiping her eyes with the back of her hand, staring at nothing; her father asleep on the bed behind her, softly out of focus",
+   "camera": "medium close-up, eye level, window light on her face",
+   "image": "images/beat_014.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "room_day",
+   "shots": [
+    {
+     "id": "shot_031",
+     "startMs": 283074,
+     "endMs": 291304,
+     "narration_dhivehi": "\"މާޒީގެ ސިއްރު ފާޅުވުމުން އަހަރެންގެ ދިރިއުޅުމަށް ވާނީ ކިހިނެއް ހެއްޔެވެ؟ ބައްޕަ މި ހުރިހާ ދުވަހު އެވާހަކަ ނުދައްކާ ހުރީ ކީއްވެބާއެވެ؟",
+     "narration_english": "'Now that the secret of the past is out, what will happen to my life? Why did Dad keep quiet about it all these days?'",
+     "crop": "full",
+     "motion": "pan right",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_032",
+     "startMs": 291304,
+     "endMs": 301325,
+     "narration_dhivehi": "\" ލަޔާލީ ހިތާ ވާހަކަ ދައްކަމުން ދިޔައިރު ނޭނގޭކަމަކީ އަހްނާގެ ނުބައި ރޭވުމެވެ. އަދި އަހްނާގެ ނުބައި ރޭވުމުން އޭނާގެ ދަރިފުޅު ސަލާމަތްކުރާނީ ކިހިނެއް ހެއްޔެވެ؟",
+     "narration_english": "As Layaali talked to herself, she did not know of Ahna's wicked plan. And how will she save her daughter from Ahna's wicked plan?",
+     "crop": "tight",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      3.7,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_033",
+     "startMs": 301325,
+     "endMs": 314125,
+     "narration_dhivehi": "ލަޔާލީއަށް ބައްޕަގެ ދުލުން ބޭރުވި ކޮންމެ ލަފްޒަކީ ލަޔާލީގެ ހިތަށް ހެރުނު ތޫނު ކަށްޓެއް ފަދަ އެއްޗެކެވެ. މިއަދާ ހަމައަށް އޭނާ ހީކޮށްގެން ހުރީ އޭނާގެ އާއިލާއަކީ އަބަދުވެސް އާދައިގެ ފަގީރު ބައެއް ކަމަށެވެ.",
+     "narration_english": "Every word from her father's lips was like a thorn piercing Layaali's heart. Until today she had believed her family had always been ordinary poor people.",
+     "crop": "full",
+     "motion": "pan up",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_034",
+     "startMs": 314125,
+     "endMs": 322835,
+     "narration_dhivehi": "ނަމަވެސް އަހްނާގެ ބައްޕަ އަޙްމަދު ޒާހިރު ހެދި ބޮޑު މަކަރާއި ހީލަތުގެ ސަބަބުން އޭނާގެ ބައްޕަ މަގުމަތިވެ ނަފްސާނީ ގޮތުންނާއި ޖިސްމާނީ ގޮތުން",
+     "narration_english": "But because of the great deceit and trickery of Ahna's father, Ahmed Zaahir, her father had ended up on the street, broken in mind",
+     "crop": "medium",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      0.0,
+      0.0,
+      71.5,
+      84.7
+     ]
+    },
+    {
+     "id": "shot_035",
+     "startMs": 322835,
+     "endMs": 330935,
+     "narration_dhivehi": "ބަލިކަށިވީކަން އެނގުމުން ލަޔާލީގެ ދެލޮލުން ހުއްޓުމެއްނެތް ކަރުނަ އޮހޮރިގެން ދިޔައެވެ. މިއީ ކޮންފަދަ ހިތްދަތި ހަގީގަތެއް ހެއްޔެވެ؟",
+     "narration_english": "and body — knowing that, tears flowed endlessly from Layaali's eyes. What a heartbreaking truth this was!",
+     "crop": "tight",
+     "motion": "pan down",
+     "sfx": [
+      {
+       "name": "sob_breath",
+       "atMs": 326625,
+       "gainDb": -24,
+       "word": "ކަރުނަ"
+      }
+     ],
+     "hum": true,
+     "crop_rect_pct": [
+      3.7,
+      0.0,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Layaali; reference image 2 is Qaasim), create a new scene: Cinematic semi-realistic digital illustration in the polished look of a romantic drama book cover, soft natural light with warm golden-hour glow, rich palette of deep plum, burgundy, warm amber and soft city-dusk blues, gentle film grain, shallow depth of field with soft bokeh, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and calm, uncluttered space at the bottom for a logo.\nScene: Layaali sitting alone on a chair by the window, tears running down her face, wiping her eyes with the back of her hand, staring at nothing; her father asleep on the bed behind her, softly out of focus. Location: a quiet, simple ground-floor guest bedroom in Rafhaan's mansion where Layaali's frail father now lives: a single bed with white sheets and pillows, a bedside table with medicine bottles and a glass of water, a window with sheer curtains onto a green garden. Camera: medium close-up, eye level, window light on her face.\nCharacters: Layaali: a Maldivian young woman in her mid 20s with warm light-brown skin, a soft oval face, large warm brown eyes with long lashes, dark softly arched eyebrows and gentle full lips, slim build; wears a loose ankle-length black abaya with ruffled mauve floral cuffs and a black chiffon hijab fully covering her hair and neck. Qaasim: a thin frail Maldivian man in his early 60s with medium-brown skin, a thin face with sunken cheeks, short grey hair, short grey stubble and kind tired eyes; wears a faded light-blue long-sleeved cotton shirt and a dark checked sarong.\nMood/lighting: soft daylight through sheer curtains, quiet, heavy with sorrow.\nModest Maldivian clothing, culturally respectful, no violence shown, no text, no letters, no writing, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.154,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 33.4,
+    "y_pct": 33.4,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_015",
+   "startMs": 330935,
+   "endMs": 340385,
+   "new_image_reason": "the narration returns to Ahna in the garden with Raina (reuse)",
+   "characters": [
+    "ahna",
+    "raina"
+   ],
+   "location": "the lush garden of Rafhaan's mansion: a neat green lawn, frangipani and pink bougainvillea, a white garden bench, a low hedge, the white mansion with tall glass doors behind",
+   "location_key": "garden",
+   "mood": "afternoon sun, dappled light through the trees, deceptively peaceful with an undercurrent of menace",
+   "visual": "(reuse) Ahna with Raina in the garden",
+   "camera": "medium shot, eye level",
+   "image": "images/beat_013.png",
+   "reuse_of": "beat_013",
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "garden_day",
+   "shots": [
+    {
+     "id": "shot_036",
+     "startMs": 330935,
+     "endMs": 340385,
+     "narration_dhivehi": "އޭނާގެ ބައްޕަގެ މުޅި ދިރިއުޅުން ފުނޑުފުނޑުކޮށްލި މީހާގެ ދަރިފުޅު އަހްނާ މިއަދު އެހުރީ އޭނާގެ އަމިއްލަ ގޭގެ ބަގީޗާގައި އޭނާގެ ދަރިފުޅާއެކުގައެވެ.",
+     "narration_english": "The daughter of the man who tore her father's life apart — Ahna — was today in the garden of her own house, with her own daughter.",
+     "crop": "medium",
+     "motion": "static drift",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      2.4,
+      0.0,
+      71.5,
+      84.7
+     ]
+    }
+   ],
+   "prompt_attempts": [],
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.084,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 38.2,
+    "y_pct": 23.2,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_016",
+   "startMs": 340385,
+   "endMs": 372486,
+   "new_image_reason": "action change: Raina screams, Layaali rushes out into the garden",
+   "characters": [
+    "layaali",
+    "ahna",
+    "raina"
+   ],
+   "location": "the lush garden of Rafhaan's mansion: a neat green lawn, frangipani and pink bougainvillea, a white garden bench, a low hedge, the white mansion with tall glass doors behind",
+   "location_key": "garden",
+   "mood": "afternoon sun, dappled light through the trees, deceptively peaceful with an undercurrent of menace",
+   "visual": "Layaali hurrying out through the tall glass garden doors, alarmed, her eyes red from crying; on the white bench Ahna sits holding little Raina on her lap and stroking her head, looking up at Layaali with a sweet, gentle smile",
+   "camera": "wide shot across the lawn, eye level",
+   "image": "images/beat_016.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "garden_day",
+   "shots": [
+    {
+     "id": "shot_037",
+     "startMs": 340385,
+     "endMs": 347005,
+     "narration_dhivehi": "ލަޔާލީ ކަރުނަތައް ފޮހެލަމުން ކޮޓަރިން ނިކުތް ވަގުތު ބަގީޗާ ތެރެއިން ރައިނާ ހަޅޭއްލަވައިގަތް އަޑު އިވުނެވެ.",
+     "narration_english": "As Layaali came out of the room wiping her tears, she heard Raina scream from the garden.",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [
+      {
+       "name": "gasp",
+       "atMs": 345025,
+       "gainDb": -18,
+       "word": "ހަޅޭއްލަވައިގަތް"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_038",
+     "startMs": 347005,
+     "endMs": 354255,
+     "narration_dhivehi": "ލަޔާލީ ދުވެފައި ކަހަލަ ގޮތަކަށް ބޭރަށް ނިކުތްއިރު އަހްނާ އިނީ ރައިނާ އުރާލައިގެން އޭނާގެ ބޮލުގައި ފިރުމާލަ ފިރުމާލައެވެ.",
+     "narration_english": "When Layaali came out, almost running, Ahna was sitting with Raina on her lap, stroking her head again and again.",
+     "crop": "tight",
+     "motion": "pan left",
+     "sfx": [
+      {
+       "name": "footsteps_pavement",
+       "atMs": 347505,
+       "gainDb": -22,
+       "word": "ދުވެފައި"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      24.4,
+      29.6,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_039",
+     "startMs": 354255,
+     "endMs": 364576,
+     "narration_dhivehi": "އަހްނާގެ މޫނުމަތިން ފެންނަނީ ނުހަނު އޯގާތެރި ކުލަވަރެކެވެ. ނަމަވެސް ލަޔާލީގެ ހިތަށް މިއަދު އެ މަންޒަރު ފެނުމުން ވެރިވީ ބިރުވެރިކަމެކެވެ. \"ލަޔާލީ ކިހިނެއްވީ؟",
+     "narration_english": "Ahna's face showed a look of great tenderness. But today, seeing that scene filled Layaali's heart with fear. 'Layaali, what happened?",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_040",
+     "startMs": 364576,
+     "endMs": 372486,
+     "narration_dhivehi": "ދެލޯ ރަތްވެފަ ހުރީ ކީއްވެ؟\" އަހްނާ މަޑުމައިތިރި އަޑަކުން އަހާލިއެވެ. \"ކަމެއް ނުވޭ... ބައްޕަ ކުޑަކޮށް ބަލިވެއުޅޭތީ ދެރަވީ.\"",
+     "narration_english": "Why are your eyes red?' Ahna asked gently. 'Nothing... Dad is a little unwell, so I'm feeling sad.'",
+     "crop": "medium",
+     "motion": "pan right",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      18.3,
+      15.3,
+      71.5,
+      84.7
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Layaali; reference image 2 is Ahna; reference image 3 is Raina), create a new scene: Cinematic semi-realistic digital illustration in the polished look of a romantic drama book cover, soft natural light with warm golden-hour glow, rich palette of deep plum, burgundy, warm amber and soft city-dusk blues, gentle film grain, shallow depth of field with soft bokeh, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and calm, uncluttered space at the bottom for a logo.\nScene: Layaali hurrying out through the tall glass garden doors, alarmed, her eyes red from crying; on the white bench Ahna sits holding little Raina on her lap and stroking her head, looking up at Layaali with a sweet, gentle smile. Location: the lush garden of Rafhaan's mansion: a neat green lawn, frangipani and pink bougainvillea, a white garden bench, a low hedge, the white mansion with tall glass doors behind. Camera: wide shot across the lawn, eye level.\nCharacters: Layaali: a Maldivian young woman in her mid 20s with warm light-brown skin, a soft oval face, large warm brown eyes with long lashes, dark softly arched eyebrows and gentle full lips, slim build; wears a loose ankle-length black abaya with ruffled mauve floral cuffs and a black chiffon hijab fully covering her hair and neck. Ahna: a slim tall Maldivian young woman in her mid 20s with fair light skin, strikingly beautiful with high cheekbones, sharp winged eyeliner, glossy deep-red lips and haughty dark eyes; wears a luxurious ankle-length black abaya with ornate gold-embroidered cuffs and a deep burgundy satin hijab fully covering her hair and neck. Raina: a two-year-old Maldivian toddler girl with light-brown skin, chubby cheeks, big bright brown eyes and short soft curly dark hair with a small pink clip; wears a soft pink long-sleeved toddler dress with white leggings.\nMood/lighting: afternoon sun, dappled light through the trees, deceptively peaceful with an undercurrent of menace.\nModest Maldivian clothing, culturally respectful, no violence shown, no text, no letters, no writing, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.164,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 54.1,
+    "y_pct": 71.1,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_017",
+   "startMs": 372486,
+   "endMs": 400806,
+   "new_image_reason": "action change: Layaali takes Raina away from Ahna",
+   "characters": [
+    "layaali",
+    "raina",
+    "ahna"
+   ],
+   "location": "the lush garden of Rafhaan's mansion: a neat green lawn, frangipani and pink bougainvillea, a white garden bench, a low hedge, the white mansion with tall glass doors behind",
+   "location_key": "garden",
+   "mood": "afternoon sun, dappled light through the trees, deceptively peaceful with an undercurrent of menace",
+   "visual": "Layaali holding little Raina protectively in her arms, half turned towards the house, her face guarded; Ahna standing by the bench, slightly surprised, then smiling and nodding politely",
+   "camera": "medium two-shot, eye level",
+   "image": "images/beat_017.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "garden_day",
+   "shots": [
+    {
+     "id": "shot_041",
+     "startMs": 372486,
+     "endMs": 382586,
+     "narration_dhivehi": "ލަޔާލީ އަވަސް އަވަހަށް ގޮސް އަހްނާގެ އަތުން ރައިނާ އުރާލިއެވެ. އޭނާގެ ހިތް ބުނަމުންދިޔައީ އަހްނާއަށް އިތުބާރު ނުކުރުމަށެވެ. \"އަހްނާ. މިއަދު ދެން ދިޔަސް އެންމެ ރަނގަޅު.",
+     "narration_english": "Layaali quickly went over and took Raina from Ahna's arms. Her heart kept telling her not to trust Ahna. 'Ahna, it's best you go now for today.",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_042",
+     "startMs": 382586,
+     "endMs": 391586,
+     "narration_dhivehi": "އަހަރެން ދަރިފުޅު ގޮވައިގެން އެތެރެއަށް މިދަނީ.\" މިހާރަކަށް އައިސް ކޮންމެ ދުވަހަކު ރައިނާއާއެކު ވަގުތުކޮޅެއް ހޭދަކޮށްލަން އަހްނާ އާދެއެވެ.",
+     "narration_english": "I'm taking my daughter inside.' Lately Ahna had been coming every day to spend a little time with Raina.",
+     "crop": "tight",
+     "motion": "pan up",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      3.6,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_043",
+     "startMs": 391586,
+     "endMs": 400806,
+     "narration_dhivehi": "ކުޑަކުދީންދެކެ މާ ލޯބިވާ މީހަކަށް ވެގެންނެވެ. އަހްނާ ކުޑަކޮށް ހައިރާންވި ކަހަލައެވެ. ނަމަވެސް އޭނާ ހިނިތުންވެލަމުން ބޯޖަހާލިއެވެ. \"ރަނގަޅު ލަޔާލީ.",
+     "narration_english": "Posing as someone who loves children very much. Ahna seemed a little surprised. But she smiled and nodded. 'All right, Layaali.",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Layaali; reference image 2 is Raina; reference image 3 is Ahna), create a new scene: Cinematic semi-realistic digital illustration in the polished look of a romantic drama book cover, soft natural light with warm golden-hour glow, rich palette of deep plum, burgundy, warm amber and soft city-dusk blues, gentle film grain, shallow depth of field with soft bokeh, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and calm, uncluttered space at the bottom for a logo.\nScene: Layaali holding little Raina protectively in her arms, half turned towards the house, her face guarded; Ahna standing by the bench, slightly surprised, then smiling and nodding politely. Location: the lush garden of Rafhaan's mansion: a neat green lawn, frangipani and pink bougainvillea, a white garden bench, a low hedge, the white mansion with tall glass doors behind. Camera: medium two-shot, eye level.\nCharacters: Layaali: a Maldivian young woman in her mid 20s with warm light-brown skin, a soft oval face, large warm brown eyes with long lashes, dark softly arched eyebrows and gentle full lips, slim build; wears a loose ankle-length black abaya with ruffled mauve floral cuffs and a black chiffon hijab fully covering her hair and neck. Raina: a two-year-old Maldivian toddler girl with light-brown skin, chubby cheeks, big bright brown eyes and short soft curly dark hair with a small pink clip; wears a soft pink long-sleeved toddler dress with white leggings. Ahna: a slim tall Maldivian young woman in her mid 20s with fair light skin, strikingly beautiful with high cheekbones, sharp winged eyeliner, glossy deep-red lips and haughty dark eyes; wears a luxurious ankle-length black abaya with ornate gold-embroidered cuffs and a deep burgundy satin hijab fully covering her hair and neck.\nMood/lighting: afternoon sun, dappled light through the trees, deceptively peaceful with an undercurrent of menace.\nModest Maldivian clothing, culturally respectful, no violence shown, no text, no letters, no writing, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.185,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 33.3,
+    "y_pct": 23.3,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_018",
+   "startMs": 400806,
+   "endMs": 427537,
+   "new_image_reason": "scene change: Ahna leaves and phones her father",
+   "characters": [
+    "ahna"
+   ],
+   "location": "the clean narrow lane outside the tall white gate of Rafhaan's mansion in Malé, palm fronds hanging over the white wall, a parked car",
+   "location_key": "gate_lane",
+   "mood": "late afternoon, long shadows, golden light turning cold",
+   "visual": "Ahna walking out through the white gate of the mansion into the lane, a phone held to her ear, her sweet smile twisted into a cold, cunning sneer",
+   "camera": "medium shot, eye level",
+   "image": "images/beat_018.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "city_day",
+   "shots": [
+    {
+     "id": "shot_044",
+     "startMs": 400806,
+     "endMs": 412646,
+     "narration_dhivehi": "ބައްޕައަށް އަވަސް ޝިފާއަކަށް އެދެން. އަހަރެން މާދަމާ އަންނާނަން.\" އަހްނާ ގެއިން ނިކުމެގެން ދިޔައިރު އޭނާގެ މޫނުމަތީގައި ހުރި ހިނިތުންވުން ނުރައްކާތެރި މަލާމާތަކަށް ބަދަލުވިއެވެ.",
+     "narration_english": "I pray Dad gets well soon. I'll come tomorrow.' As Ahna walked out of the house, the smile on her face turned into a dangerous sneer.",
+     "crop": "full",
+     "motion": "pan down",
+     "sfx": [
+      {
+       "name": "footsteps_pavement",
+       "atMs": 406346,
+       "gainDb": -24,
+       "word": "ނިކުމެގެން"
+      }
+     ],
+     "hum": true,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_045",
+     "startMs": 412646,
+     "endMs": 419837,
+     "narration_dhivehi": "އޭނާ ވަގުތުން ފޯނު ނަގާ އޭނާގެ ބައްޕަ ޒާހިރަށް ގުޅިއެވެ. \"ބައްޕާ... ލަޔާލީގެ މޫނުމަތިން ކޮންމެވެސް ބަދަލެއް ފެނިއްޖެ.",
+     "narration_english": "At once she took out her phone and called her father Zaahir. 'Dad... I saw some change in Layaali's face.",
+     "crop": "tight",
+     "motion": "static drift",
+     "sfx": [
+      {
+       "name": "phone_buzz",
+       "atMs": 413446,
+       "gainDb": -18,
+       "word": "ފޯނު"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      13.6,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_046",
+     "startMs": 419837,
+     "endMs": 427537,
+     "narration_dhivehi": "ހީވަނީ އޭނާއަށް ކޮންމެވެސް ކަމެއް އެނގުނީހެން. ބައްޕަ ބުނިހެން އެމީހުންގެ ބައްޕަ ޤާސިމް އަދިވެސް ދުނިޔޭގައި އެބައޮތް.",
+     "narration_english": "It looks like she has found something out. Just as you said, their father Qaasim is still alive.",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Ahna), create a new scene: Cinematic semi-realistic digital illustration in the polished look of a romantic drama book cover, soft natural light with warm golden-hour glow, rich palette of deep plum, burgundy, warm amber and soft city-dusk blues, gentle film grain, shallow depth of field with soft bokeh, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and calm, uncluttered space at the bottom for a logo.\nScene: Ahna walking out through the white gate of the mansion into the lane, a phone held to her ear, her sweet smile twisted into a cold, cunning sneer. Location: the clean narrow lane outside the tall white gate of Rafhaan's mansion in Malé, palm fronds hanging over the white wall, a parked car. Camera: medium shot, eye level.\nCharacters: Ahna: a slim tall Maldivian young woman in her mid 20s with fair light skin, strikingly beautiful with high cheekbones, sharp winged eyeliner, glossy deep-red lips and haughty dark eyes; wears a luxurious ankle-length black abaya with ornate gold-embroidered cuffs and a deep burgundy satin hijab fully covering her hair and neck.\nMood/lighting: late afternoon, long shadows, golden light turning cold.\nModest Maldivian clothing, culturally respectful, no violence shown, no text, no letters, no writing, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.044,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 43.4,
+    "y_pct": 23.7,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_019",
+   "startMs": 427537,
+   "endMs": 446977,
+   "new_image_reason": "character change: Zaahir on the other end of the call",
+   "characters": [
+    "zaahir"
+   ],
+   "location": "the dark-wood study of Ahmed Zaahir's villa in Malé: a large leather chair, a heavy carved desk, bookshelves, a tall window with the city behind",
+   "location_key": "zaahir_study",
+   "mood": "early evening, low lamp light, deep shadows, scheming",
+   "visual": "Ahmed Zaahir leaning back in his large leather chair, a phone to his ear, a confident, cold, scheming smile, his gold watch glinting in the lamp light",
+   "camera": "medium close-up, slightly low angle",
+   "image": "images/beat_019.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "office_quiet",
+   "shots": [
+    {
+     "id": "shot_047",
+     "startMs": 427537,
+     "endMs": 437307,
+     "narration_dhivehi": "އަހަރެމެން ޖެހޭނީ ވީހާވެސް އަވަހަކަށް ރޭވުން ކުރިއަށް ގެންދަން.\" \"ދަރިފުޅާ ކަންބޮޑުނުވޭ.\" ޒާހިރު ފޯނުން ބުންޏެވެ. \"ޤާސިމަކީ މިހާރު މަރުމަތީގައި އޮތް މީހެއް.",
+     "narration_english": "We have to move the plan forward as fast as we can.' 'Don't worry, my girl,' Zaahir said on the phone. 'Qaasim is a man on his deathbed now.",
+     "crop": "full",
+     "motion": "pan left",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_048",
+     "startMs": 437307,
+     "endMs": 446977,
+     "narration_dhivehi": "އޭނާއަށް ކުރެވޭނެ އެއްވެސް ކަމެއް ނޯންނާނެ. އަހަރެމެންގެ އަމާޒަކީ 'ރަފްހާން ގްރޫޕް' ގެ ތެރެއިން ލަޔާލީގެ ނަން ބޭނުންކޮށްގެން ބޮޑު ޚިޔާނާތެއް ހިންގުން.",
+     "narration_english": "There's nothing he can do. Our aim is to carry out a big betrayal inside \"Rafhaan Group\" using Layaali's name.",
+     "crop": "tight",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      15.5,
+      0.0,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Ahmed Zaahir), create a new scene: Cinematic semi-realistic digital illustration in the polished look of a romantic drama book cover, soft natural light with warm golden-hour glow, rich palette of deep plum, burgundy, warm amber and soft city-dusk blues, gentle film grain, shallow depth of field with soft bokeh, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and calm, uncluttered space at the bottom for a logo.\nScene: Ahmed Zaahir leaning back in his large leather chair, a phone to his ear, a confident, cold, scheming smile, his gold watch glinting in the lamp light. Location: the dark-wood study of Ahmed Zaahir's villa in Malé: a large leather chair, a heavy carved desk, bookshelves, a tall window with the city behind. Camera: medium close-up, slightly low angle.\nCharacters: Ahmed Zaahir: a heavy-set Maldivian man in his early 60s with medium-brown skin, a broad heavy face, a thick salt-and-pepper moustache, slicked-back grey hair and cold narrow eyes; wears a charcoal-grey three-piece suit, a white shirt, a maroon tie and a gold wristwatch.\nMood/lighting: early evening, low lamp light, deep shadows, scheming.\nModest Maldivian clothing, culturally respectful, no violence shown, no text, no letters, no writing, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.1,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 45.2,
+    "y_pct": 33.7,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_020",
+   "startMs": 446977,
+   "endMs": 492248,
+   "new_image_reason": "time jump: that night Rafhaan comes home to a troubled Layaali",
+   "characters": [
+    "layaali",
+    "rafhaan"
+   ],
+   "location": "the spacious modern living room of Rafhaan's mansion at night: a large cream sofa, warm table lamps, floor-to-ceiling windows with the night lights of Malé and the dark sea beyond",
+   "location_key": "living_night",
+   "mood": "night, warm dim lamp light, city lights through the glass, worried and intimate",
+   "visual": "Layaali sitting on the cream sofa, lost in sorrowful thought; Rafhaan, home from work in his black suit, sitting down beside her and turning to her with tender concern, her hand resting on his arm",
+   "camera": "medium two-shot, eye level",
+   "image": "images/beat_020.png",
+   "reuse_of": null,
+   "transition_in": "black",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "living_night",
+   "shots": [
+    {
+     "id": "shot_049",
+     "startMs": 446977,
+     "endMs": 456567,
+     "narration_dhivehi": "އޭރުން ރަފްހާން އަމިއްލައަށް އޭނާ ގެއިން ބޭރުކޮށްލާނެ.\" އެ ރޭ ރަފްހާން ގެއަށް އައިއިރު ލަޔާލީ އިނީ ސިޓިންގްރޫމުގައި ފުން ވިސްނުމަކަށް ގެއްލިފައެވެ.",
+     "narration_english": "Then Rafhaan himself will throw her out of the house.' That night, when Rafhaan came home, Layaali was sitting in the living room, lost in deep thought.",
+     "crop": "full",
+     "motion": "pan right",
+     "sfx": [
+      {
+       "name": "door_open",
+       "atMs": 451967,
+       "gainDb": -22,
+       "word": "އައިއިރު"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_050",
+     "startMs": 456567,
+     "endMs": 468207,
+     "narration_dhivehi": "ރަފްހާން ގޮސް ލަޔާލީގެ ކައިރީގައި އިށީނދެ އޭނާގެ އަތުގައި ހިފައިލިއެވެ. \"ލަޔާލީ... ކިހިނެއްވީ؟ މިއަދު އާސިމް ބުނި ލަޔާލީ ބައްޕަގެ މާޒީގެ ކޮންމެސް ލިޔެކިޔުންތަކެއް ހޯދަން އުޅުނު ވާހަކަ.\"",
+     "narration_english": "Rafhaan went and sat down beside Layaali and took her hand. 'Layaali... what's wrong? Today Aasim told me you were trying to find some documents about your father's past.'",
+     "crop": "tight",
+     "motion": "slow push-in",
+     "sfx": [
+      {
+       "name": "cloth_rustle",
+       "atMs": 458487,
+       "gainDb": -24,
+       "word": "އިށީނދެ"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      4.0,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_051",
+     "startMs": 468207,
+     "endMs": 476107,
+     "narration_dhivehi": "ރަފްހާން އޯގާތެރިކަމާއެކު އެހިއެވެ. ލަޔާލީ ރަފްހާނަށް ބަލާލިއެވެ. އޭނާގެ ދެލޮލުން ފެންނަނީ ހިތާމައިގެ އަސަރެވެ. \"ރަފްހާން...",
+     "narration_english": "Rafhaan asked tenderly. Layaali looked at Rafhaan. Her eyes showed the mark of grief. 'Rafhaan...",
+     "crop": "full",
+     "motion": "pan up",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_052",
+     "startMs": 476107,
+     "endMs": 483648,
+     "narration_dhivehi": "އަހަރެންގެ ބައްޕަގެ މާޒީއަކީ ވަރަށް ހިތްދަތި މާޒީއެއް. ބައްޕަ މިއަދު އަހަރެންގެ ކައިރީގައި ހުރިހާ ވާހަކައެއް ކިޔައިދީފި.\"",
+     "narration_english": "my father's past is a very painful one. Today Dad told me the whole story.'",
+     "crop": "medium",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      0.0,
+      0.0,
+      71.5,
+      84.7
+     ]
+    },
+    {
+     "id": "shot_053",
+     "startMs": 483648,
+     "endMs": 492248,
+     "narration_dhivehi": "ލަޔާލީ ރަފްހާނަށް ހުރިހާ ވާހަކައެއް ކިޔައިދިނެވެ. އަޙްމަދު ޒާހިރު ހެދި މަކަރާއި އޭނާގެ ބައްޕަގެ ކުންފުނި ފޭރިގަތް ގޮތުގެ ތަފްޞީލެވެ.",
+     "narration_english": "Layaali told Rafhaan everything: the details of Ahmed Zaahir's deceit and how he robbed her father of his company.",
+     "crop": "tight",
+     "motion": "pan down",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      4.0,
+      0.0,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Layaali; reference image 2 is Rafhaan), create a new scene: Cinematic semi-realistic digital illustration in the polished look of a romantic drama book cover, soft natural light with warm golden-hour glow, rich palette of deep plum, burgundy, warm amber and soft city-dusk blues, gentle film grain, shallow depth of field with soft bokeh, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and calm, uncluttered space at the bottom for a logo.\nScene: Layaali sitting on the cream sofa, lost in sorrowful thought; Rafhaan, home from work in his black suit, sitting down beside her and turning to her with tender concern, her hand resting on his arm. Location: the spacious modern living room of Rafhaan's mansion at night: a large cream sofa, warm table lamps, floor-to-ceiling windows with the night lights of Malé and the dark sea beyond. Camera: medium two-shot, eye level.\nCharacters: Layaali: a Maldivian young woman in her mid 20s with warm light-brown skin, a soft oval face, large warm brown eyes with long lashes, dark softly arched eyebrows and gentle full lips, slim build; wears a loose ankle-length black abaya with ruffled mauve floral cuffs and a black chiffon hijab fully covering her hair and neck. Rafhaan: a tall fit Maldivian man about 30 with light-brown skin, short dark-brown hair neatly swept back, a well-groomed short dark beard and warm dark-brown eyes; wears a tailored black suit, a crisp white shirt, a slim dark-grey tie and a silver wristwatch.\nMood/lighting: night, warm dim lamp light, city lights through the glass, worried and intimate.\nModest Maldivian clothing, culturally respectful, no violence shown, no text, no letters, no writing, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.138,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 33.7,
+    "y_pct": 30.2,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_021",
+   "startMs": 492248,
+   "endMs": 519538,
+   "new_image_reason": "emotional turning point: Rafhaan realises Ahna's family is plotting",
+   "characters": [
+    "rafhaan",
+    "layaali"
+   ],
+   "location": "the spacious modern living room of Rafhaan's mansion at night: a large cream sofa, warm table lamps, floor-to-ceiling windows with the night lights of Malé and the dark sea beyond",
+   "location_key": "living_night",
+   "mood": "night, warm dim lamp light, city lights through the glass, worried and intimate",
+   "visual": "Rafhaan standing up by the dark window, stunned, one hand raised to his forehead as realisation dawns on his face; Layaali on the sofa looking up at him, frightened, her hands clasped tightly",
+   "camera": "medium wide, eye level",
+   "image": "images/beat_021.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "living_night",
+   "shots": [
+    {
+     "id": "shot_054",
+     "startMs": 492248,
+     "endMs": 499198,
+     "narration_dhivehi": "ރަފްހާން ހައިރާންވެ ބަސްހުއްޓުނެވެ. \"މިއީ... މިއީ ވެދާނެ ކަމެއް ނޫން. ޒާހިރު އެހާ ބޮޑު ޖަރީމާއެއް ހިންގާފަ އެހުރީ؟",
+     "narration_english": "Rafhaan was stunned into silence. 'This... this can't be. Zaahir committed such a huge crime?",
+     "crop": "full",
+     "motion": "static drift",
+     "sfx": [
+      {
+       "name": "gasp",
+       "atMs": 492768,
+       "gainDb": -20,
+       "word": "ހައިރާންވެ"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_055",
+     "startMs": 499198,
+     "endMs": 506788,
+     "narration_dhivehi": "އެހެންވީމާ އަހްނާ މިގެއަށް އެއަންނަނީ ހަމައެކަނި މަޢާފަށް އެދޭކަށް ނޫން. ނޫނީ ރައިނާ ދެކެ ލޯބިންނެއް ވެސް ނޫން.",
+     "narration_english": "Then Ahna doesn't come to this house just to ask forgiveness. And not out of love for Raina either.",
+     "crop": "tight",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      20.3,
+      4.8,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_056",
+     "startMs": 506788,
+     "endMs": 519538,
+     "narration_dhivehi": "މިއީ އެމީހުންގެ މުޅި އާއިލާ ރާވައިގެން ކުރާ ކަމެއް.\" \"އާނ. ރަފްހާން. އަހަރެން ވަރަށް ބިރުގަނޭ. އަހްނާ މިއަދު ރައިނާ އުރާލައިގެން އިންއިރު އަހަރެންގެ ހިތަށް ވެސް އެރި ކޮންމެވެސް ނުބައެއް އެބައުޅޭ.\"",
+     "narration_english": "This is something their whole family has planned.' 'Yes, Rafhaan. I'm so scared. When Ahna sat holding Raina today, I felt something evil in my heart too.'",
+     "crop": "full",
+     "motion": "pan left",
+     "sfx": [],
+     "hum": true,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Rafhaan; reference image 2 is Layaali), create a new scene: Cinematic semi-realistic digital illustration in the polished look of a romantic drama book cover, soft natural light with warm golden-hour glow, rich palette of deep plum, burgundy, warm amber and soft city-dusk blues, gentle film grain, shallow depth of field with soft bokeh, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and calm, uncluttered space at the bottom for a logo.\nScene: Rafhaan standing up by the dark window, stunned, one hand raised to his forehead as realisation dawns on his face; Layaali on the sofa looking up at him, frightened, her hands clasped tightly. Location: the spacious modern living room of Rafhaan's mansion at night: a large cream sofa, warm table lamps, floor-to-ceiling windows with the night lights of Malé and the dark sea beyond. Camera: medium wide, eye level.\nCharacters: Rafhaan: a tall fit Maldivian man about 30 with light-brown skin, short dark-brown hair neatly swept back, a well-groomed short dark beard and warm dark-brown eyes; wears a tailored black suit, a crisp white shirt, a slim dark-grey tie and a silver wristwatch. Layaali: a Maldivian young woman in her mid 20s with warm light-brown skin, a soft oval face, large warm brown eyes with long lashes, dark softly arched eyebrows and gentle full lips, slim build; wears a loose ankle-length black abaya with ruffled mauve floral cuffs and a black chiffon hijab fully covering her hair and neck.\nMood/lighting: night, warm dim lamp light, city lights through the glass, worried and intimate.\nModest Maldivian clothing, culturally respectful, no violence shown, no text, no letters, no writing, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.172,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 50.0,
+    "y_pct": 40.0,
+    "face_detected": false
+   }
+  },
+  {
+   "id": "beat_022",
+   "startMs": 519538,
+   "endMs": 538889,
+   "new_image_reason": "back to the couple on the sofa as Rafhaan makes his promise (reuse)",
+   "characters": [
+    "layaali",
+    "rafhaan"
+   ],
+   "location": "the spacious modern living room of Rafhaan's mansion at night: a large cream sofa, warm table lamps, floor-to-ceiling windows with the night lights of Malé and the dark sea beyond",
+   "location_key": "living_night",
+   "mood": "night, warm dim lamp light, city lights through the glass, worried and intimate",
+   "visual": "(reuse) Rafhaan and Layaali on the sofa",
+   "camera": "medium shot, eye level",
+   "image": "images/beat_020.png",
+   "reuse_of": "beat_020",
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "living_night",
+   "shots": [
+    {
+     "id": "shot_057",
+     "startMs": 519538,
+     "endMs": 532238,
+     "narration_dhivehi": "ލަޔާލީ ބުންޏެވެ. \"ކަންބޮޑުނުވޭ ލަޔާލީ. އަހަރެން މިހާރުން މިހާރަށް އާސިމް ލައްވައި ޒާހިރުގެ ބޯލްޑް 'ޒާހިރު އިންވެސްޓްމަންޓްސް' ގެ ބޭސް ރެކޯޑްތަކާއި މާޒީގެ ލިޔެކިޔުންތައް ހޯދަން ފަށާނަން.",
+     "narration_english": "Layaali said. 'Don't worry, Layaali. Right away I'll have Aasim start digging out the base records of Zaahir's \"Zaahir Investments\" and the documents from the past.",
+     "crop": "tight",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      4.0,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_058",
+     "startMs": 532238,
+     "endMs": 538889,
+     "narration_dhivehi": "ބައްޕަގެ ހައްގުތައް ހޯދޭތޯ މިވަގުތުން ފެށިގެން މަސައްކަތް ކުރާނަން.\" ރަފްހާން ސާބިތުކަމާއެކު ވަޢުދުވިއެވެ.",
+     "narration_english": "From this moment I will work to win back your father's rights,' Rafhaan promised firmly.",
+     "crop": "full",
+     "motion": "pan right",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [],
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.155,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 33.7,
+    "y_pct": 30.2,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_023",
+   "startMs": 538889,
+   "endMs": 572379,
+   "new_image_reason": "time jump and scene change: next day Ahna brings a file to Rafhaan's office",
+   "characters": [
+    "ahna",
+    "rafhaan"
+   ],
+   "location": "Rafhaan's luxurious glass-walled CEO cabin high in the company tower in Malé: a large dark-wood desk, a black leather chair, glass walls, a wide window with the city skyline and the turquoise sea",
+   "location_key": "cabin",
+   "mood": "bright morning daylight through the glass, cool blue and warm amber, polite but tense",
+   "visual": "Ahna in her burgundy hijab standing at Rafhaan's desk, calm and sweetly polite, holding out a thick closed dark-blue file folder with both hands; Rafhaan seated behind the desk, looking up at her with a measured, polite smile",
+   "camera": "medium two-shot, eye level",
+   "image": "images/beat_023.png",
+   "reuse_of": null,
+   "transition_in": "black",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "office_day",
+   "shots": [
+    {
+     "id": "shot_059",
+     "startMs": 538889,
+     "endMs": 545799,
+     "narration_dhivehi": "ޖެހިގެން އައި ދުވަހު އަހްނާ އޮފީހަށް އައީ ރަފްހާނާ ބައްދަލުކުރާށެވެ. އޭނާ އައީ ވަރަށް ހިތްހަމަޖެހޭ ސިފައެއްގައެވެ. \"ރަފްހާން...",
+     "narration_english": "The next day Ahna came to the office to meet Rafhaan. She came looking very calm and at ease. 'Rafhaan...",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_060",
+     "startMs": 545799,
+     "endMs": 555909,
+     "narration_dhivehi": "އަހަރެންގެ ބައްޕަ ބޭނުންވަނީ 'ރަފްހާން ގްރޫޕް' އާއެކު އާ ވިޔަފާރީގެ އެއްބަސްވުމެއް ހަދަން. މިއީ އަހަރެމެންގެ މާޒީގެ ކުށްތަކުގެ ބަދަލުގައި ދޭ ހަދިޔާއެއް.\"",
+     "narration_english": "My father wants to make a new business agreement with \"Rafhaan Group\". It's a gift in return for the wrongs of our past.'",
+     "crop": "tight",
+     "motion": "pan up",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      0.0,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_061",
+     "startMs": 555909,
+     "endMs": 563079,
+     "narration_dhivehi": "އަހްނާ ބޮޑު ފައިލެއް ދިއްކޮށްލިއެވެ. ރަފްހާން އަހްނާއަށް ބަލާލާފައި ހިނިތުންވެލިއެވެ. އެއަށްފަހު ރަފްހާން ފައިލްގައި ހިފިއެވެ.",
+     "narration_english": "Ahna held out a big file. Rafhaan looked at Ahna and smiled. Then he took hold of the file.",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [
+      {
+       "name": "paper_shuffle",
+       "atMs": 557009,
+       "gainDb": -20,
+       "word": "ފައިލެއް"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_062",
+     "startMs": 563079,
+     "endMs": 572379,
+     "narration_dhivehi": "އޭނާގެ މޫނުމަތިން ނުރުހުމުގެ އެއްވެސް ކުލަވަރެއް ނުދައްކާ ހަމައެކަނި ބޯޖަހައިލިއެވެ. \"ރަނގަޅު އަހްނާ. އަހަރެން މި ފައިލް ބަލާލާނަން.\"",
+     "narration_english": "Without letting any displeasure show on his face, he simply nodded. 'All right, Ahna. I'll look through this file.'",
+     "crop": "medium",
+     "motion": "pan down",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      0.0,
+      0.0,
+      71.5,
+      84.7
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Ahna; reference image 2 is Rafhaan), create a new scene: Cinematic semi-realistic digital illustration in the polished look of a romantic drama book cover, soft natural light with warm golden-hour glow, rich palette of deep plum, burgundy, warm amber and soft city-dusk blues, gentle film grain, shallow depth of field with soft bokeh, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and calm, uncluttered space at the bottom for a logo.\nScene: Ahna in her burgundy hijab standing at Rafhaan's desk, calm and sweetly polite, holding out a thick closed dark-blue file folder with both hands; Rafhaan seated behind the desk, looking up at her with a measured, polite smile. Location: Rafhaan's luxurious glass-walled CEO cabin high in the company tower in Malé: a large dark-wood desk, a black leather chair, glass walls, a wide window with the city skyline and the turquoise sea. Camera: medium two-shot, eye level.\nCharacters: Ahna: a slim tall Maldivian young woman in her mid 20s with fair light skin, strikingly beautiful with high cheekbones, sharp winged eyeliner, glossy deep-red lips and haughty dark eyes; wears a luxurious ankle-length black abaya with ornate gold-embroidered cuffs and a deep burgundy satin hijab fully covering her hair and neck. Rafhaan: a tall fit Maldivian man about 30 with light-brown skin, short dark-brown hair neatly swept back, a well-groomed short dark beard and warm dark-brown eyes; wears a tailored black suit, a crisp white shirt, a slim dark-grey tie and a silver wristwatch.\nMood/lighting: bright morning daylight through the glass, cool blue and warm amber, polite but tense.\nModest Maldivian clothing, culturally respectful, no violence shown, no text, no letters, no writing, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.328,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 29.5,
+    "y_pct": 21.6,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_024",
+   "startMs": 572379,
+   "endMs": 589669,
+   "new_image_reason": "action change: alone, Rafhaan phones Aasim about the file",
+   "characters": [
+    "rafhaan"
+   ],
+   "location": "Rafhaan's luxurious glass-walled CEO cabin high in the company tower in Malé: a large dark-wood desk, a black leather chair, glass walls, a wide window with the city skyline and the turquoise sea",
+   "location_key": "cabin",
+   "mood": "bright morning daylight through the glass, cool blue and warm amber, polite but tense",
+   "visual": "Rafhaan alone at his desk, a phone to his ear, the thick file open in front of him showing only blank pages, his face grave and suspicious",
+   "camera": "medium close-up, eye level",
+   "image": "images/beat_024.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "office_day",
+   "shots": [
+    {
+     "id": "shot_063",
+     "startMs": 572379,
+     "endMs": 580899,
+     "narration_dhivehi": "އަހްނާ ނިކުމެގެން ދިޔުމާއެކު ރަފްހާން އާސިމަށް ގުޅިއެވެ. \"އާސިމް. އަހްނާ މި ގެނައި ފައިލްގެ އެތެރޭގެ ކޮންޓްރެކްޓްތައް ޗެކްކުރޭ.",
+     "narration_english": "As soon as Ahna left, Rafhaan called Aasim. 'Aasim, check the contracts inside this file Ahna brought.",
+     "crop": "full",
+     "motion": "static drift",
+     "sfx": [
+      {
+       "name": "footsteps_pavement",
+       "atMs": 573269,
+       "gainDb": -24,
+       "word": "ނިކުމެގެން"
+      },
+      {
+       "name": "phone_buzz",
+       "atMs": 575309,
+       "gainDb": -20,
+       "word": "ގުޅިއެވެ."
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_064",
+     "startMs": 580899,
+     "endMs": 589669,
+     "narration_dhivehi": "މީގައި ކޮންމެވެސް ބޮޑު އޮޅުން ބޮޅުންގަނޑެއް އޮންނާނެ. މިފައިލް ޗެކުކުރުމުގައި އިތުރު މުވައްޒަފެއްގެ އެހީތެރިކަން ހޯދިޔަސް އެންމެ ރަނގަޅު",
+     "narration_english": "There's bound to be some big fraud hidden in here. It would be best to get help from another staff member to check this file.'",
+     "crop": "tight",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      17.3,
+      0.0,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Rafhaan), create a new scene: Cinematic semi-realistic digital illustration in the polished look of a romantic drama book cover, soft natural light with warm golden-hour glow, rich palette of deep plum, burgundy, warm amber and soft city-dusk blues, gentle film grain, shallow depth of field with soft bokeh, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and calm, uncluttered space at the bottom for a logo.\nScene: Rafhaan alone at his desk, a phone to his ear, the thick file open in front of him showing only blank pages, his face grave and suspicious. Location: Rafhaan's luxurious glass-walled CEO cabin high in the company tower in Malé: a large dark-wood desk, a black leather chair, glass walls, a wide window with the city skyline and the turquoise sea. Camera: medium close-up, eye level.\nCharacters: Rafhaan: a tall fit Maldivian man about 30 with light-brown skin, short dark-brown hair neatly swept back, a well-groomed short dark beard and warm dark-brown eyes; wears a tailored black suit, a crisp white shirt, a slim dark-grey tie and a silver wristwatch.\nMood/lighting: bright morning daylight through the glass, cool blue and warm amber, polite but tense.\nModest Maldivian clothing, culturally respectful, no violence shown, no text, no letters, no writing, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.22,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 47.0,
+    "y_pct": 29.2,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_025",
+   "startMs": 589669,
+   "endMs": 598110,
+   "new_image_reason": "character enters: two hours later Aasim comes in with his findings",
+   "characters": [
+    "aasim",
+    "rafhaan"
+   ],
+   "location": "Rafhaan's luxurious glass-walled CEO cabin high in the company tower in Malé: a large dark-wood desk, a black leather chair, glass walls, a wide window with the city skyline and the turquoise sea",
+   "location_key": "cabin",
+   "mood": "bright morning daylight through the glass, cool blue and warm amber, polite but tense",
+   "visual": "Aasim stepping into the glass cabin holding an open laptop (screen facing away) and the thick file, his face very serious; Rafhaan rising from his chair behind the desk, watching him",
+   "camera": "medium wide, eye level",
+   "image": "images/beat_025.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "office_day",
+   "shots": [
+    {
+     "id": "shot_065",
+     "startMs": 589669,
+     "endMs": 598110,
+     "narration_dhivehi": "\" އާސިމް ބިޑު ދިރާސާއެއް ކުރުމަށްފަހު ދެގަޑިއިރު ފަހުން ރަފްހާންގެ ކެބިންއަށް ވަނެވެ. އޭނާގެ މޫނުމަތިން ފެންނަމުންދިޔައީ ސީރިއަސްކަމެވެ.",
+     "narration_english": "After a careful study, two hours later Aasim walked into Rafhaan's cabin. His face showed how serious it was.",
+     "crop": "full",
+     "motion": "pan left",
+     "sfx": [
+      {
+       "name": "door_open",
+       "atMs": 594549,
+       "gainDb": -20,
+       "word": "ވަނެވެ."
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Aasim; reference image 2 is Rafhaan), create a new scene: Cinematic semi-realistic digital illustration in the polished look of a romantic drama book cover, soft natural light with warm golden-hour glow, rich palette of deep plum, burgundy, warm amber and soft city-dusk blues, gentle film grain, shallow depth of field with soft bokeh, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and calm, uncluttered space at the bottom for a logo.\nScene: Aasim stepping into the glass cabin holding an open laptop (screen facing away) and the thick file, his face very serious; Rafhaan rising from his chair behind the desk, watching him. Location: Rafhaan's luxurious glass-walled CEO cabin high in the company tower in Malé: a large dark-wood desk, a black leather chair, glass walls, a wide window with the city skyline and the turquoise sea. Camera: medium wide, eye level.\nCharacters: Aasim: a slim Maldivian man about 30 with medium-brown skin, short neat black hair, rectangular black-framed glasses and light stubble; wears a light-blue long-sleeved button shirt and navy trousers. Rafhaan: a tall fit Maldivian man about 30 with light-brown skin, short dark-brown hair neatly swept back, a well-groomed short dark beard and warm dark-brown eyes; wears a tailored black suit, a crisp white shirt, a slim dark-grey tie and a silver wristwatch.\nMood/lighting: bright morning daylight through the glass, cool blue and warm amber, polite but tense.\nModest Maldivian clothing, culturally respectful, no violence shown, no text, no letters, no writing, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.121,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 29.3,
+    "y_pct": 25.0,
+    "face_detected": true
+   }
+  }
+ ]
+}

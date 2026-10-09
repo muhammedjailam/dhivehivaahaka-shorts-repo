@@ -1,0 +1,2421 @@
+{
+ "series": "Tedhuveriloabi",
+ "episode": 456,
+ "beats": [
+  {
+   "id": "beat_001",
+   "startMs": 0,
+   "endMs": 33021,
+   "new_image_reason": "new episode opening: Rafhaan examines the envelope in Layaali's house",
+   "characters": [
+    "rafhaan",
+    "layaali",
+    "qaasim"
+   ],
+   "location": "the small plain sitting room of an old house in a narrow Malé lane in the morning, whitewashed walls with faded paint, a simple narrow bed with a thin mattress and a cotton blanket against the wall, a small wooden table, a louvered wooden window letting in daylight, two plastic chairs",
+   "location_key": "house",
+   "mood": "morning daylight through the louvers, muted warm tones, anxious and fragile",
+   "visual": "Rafhaan standing beside a small wooden table holding an opened brown paper envelope with a bundle of banknotes inside, frowning thoughtfully at a small folded white note in his other hand (blank paper, nothing readable); Layaali standing by the wall behind him with her hands clasped, anxious; in the background frail Qaasim lying on a simple narrow bed under a cotton blanket",
+   "camera": "medium shot, eye level",
+   "image": "images/beat_001.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "home_day",
+   "shots": [
+    {
+     "id": "shot_001",
+     "startMs": 0,
+     "endMs": 6980,
+     "narration_dhivehi": "ރަފްހާން ގޮސް އެ ސިޓީއުރަ ނެގިއެވެ. އޭގެ ތެރޭގައި ފައިސާ ހުއްޓެވެ. އަދި އޭގެއާއެކު އޮތް ނޯޓު ކިޔާލިއެވެ.",
+     "narration_english": "Rafhaan went and picked up the envelope. There was money inside it. And he read the note that lay with it.",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [
+      {
+       "name": "paper_shuffle",
+       "atMs": 1700,
+       "gainDb": -20,
+       "word": "ނެގިއެވެ."
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_002",
+     "startMs": 6980,
+     "endMs": 16140,
+     "narration_dhivehi": "އެ ނޯޓު ކިޔާލުމާއެކު ރަފްހާންގެ ސިކުނޑީގައި ކޮޅިގަނޑެއް އެނބުރެން ފެށިއެވެ. އޭނާއަށް އެ އަކުރުތައް ވަރަށް ފަރިތައެވެ. އެއީ ލަޔާލީގެ އަތުލިޔުމެއް ނޫނެވެ.",
+     "narration_english": "As soon as he read the note, a knot began to turn in Rafhaan's mind. Those letters were very familiar to him. It was not Layaali's handwriting.",
+     "crop": "tight",
+     "motion": "pan left",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      5.2,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_003",
+     "startMs": 16140,
+     "endMs": 24910,
+     "narration_dhivehi": "އެއީ ކޮމްޕިއުޓަރުން ޓައިޕްކޮށްފައި އޮތް އެއްޗެއް ނަމަވެސް ސިޓީއުރައިގެ ބޭރުގައި އޮތް އެޑްރެސް ލިޔެފައިވާ ގޮތުން ރަފްހާނަށް ކަމެއް ވިސްނުނެވެ.",
+     "narration_english": "The note had been typed on a computer, but from the way the address on the outside of the envelope was written, Rafhaan realised something.",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_004",
+     "startMs": 24910,
+     "endMs": 33021,
+     "narration_dhivehi": "އެއީ އަހްނާގެ ސެކްރެޓަރީގެ އަތުލިޔުމާ ދާދި އެއްގޮތް ލިޔުމެކެވެ. އެ ވަގުތު ބަލި އެނދުގައި އޮތް ޤާސިމް ތެދުވަން އުޅުނެވެ. \"ސަރ...",
+     "narration_english": "It was writing almost identical to the handwriting of Ahna's secretary. At that moment Qaasim, lying on his sick bed, tried to get up. 'Sir...'",
+     "crop": "medium",
+     "motion": "pan right",
+     "sfx": [
+      {
+       "name": "cloth_rustle",
+       "atMs": 31441,
+       "gainDb": -22,
+       "word": "ތެދުވަން"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      0.0,
+      0.0,
+      71.5,
+      84.7
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Rafhaan; reference image 2 is Layaali; reference image 3 is Qaasim), create a new scene: Cinematic semi-realistic digital illustration in the polished look of a romantic drama book cover, soft natural light with warm golden-hour glow, rich palette of deep plum, burgundy, warm amber and soft city-dusk blues, gentle film grain, shallow depth of field with soft bokeh, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and calm, uncluttered space at the bottom for a logo.\nScene: Rafhaan standing beside a small wooden table holding an opened brown paper envelope with a bundle of banknotes inside, frowning thoughtfully at a small folded white note in his other hand (blank paper, nothing readable); Layaali standing by the wall behind him with her hands clasped, anxious; in the background frail Qaasim lying on a simple narrow bed under a cotton blanket. Location: the small plain sitting room of an old house in a narrow Malé lane in the morning, whitewashed walls with faded paint, a simple narrow bed with a thin mattress and a cotton blanket against the wall, a small wooden table, a louvered wooden window letting in daylight, two plastic chairs. Camera: medium shot, eye level.\nCharacters: Rafhaan: a tall fit Maldivian man about 30 with light-brown skin, short dark-brown hair neatly swept back, a well-groomed short dark beard and warm dark-brown eyes; wears a tailored black suit, a crisp white shirt, a slim dark-grey tie and a silver wristwatch. Layaali: a Maldivian young woman in her mid 20s with warm light-brown skin, a soft oval face, large warm brown eyes with long lashes, dark softly arched eyebrows and gentle full lips, slim build; wears a loose ankle-length black abaya with ruffled mauve floral cuffs and a black chiffon hijab fully covering her hair and neck. Qaasim: a thin frail Maldivian man in his early 60s with medium-brown skin, a thin face with sunken cheeks, short grey hair, short grey stubble and kind tired eyes; wears a faded light-blue long-sleeved cotton shirt and a dark checked sarong.\nMood/lighting: morning daylight through the louvers, muted warm tones, anxious and fragile.\nModest Maldivian clothing, culturally respectful, no violence shown, no text, no letters, no writing, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.168,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 34.9,
+    "y_pct": 24.3,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_002",
+   "startMs": 33021,
+   "endMs": 73492,
+   "new_image_reason": "action change: Qaasim tries to rise, pleads and collapses coughing; Layaali and Aminath rush to him",
+   "characters": [
+    "qaasim",
+    "layaali",
+    "aminath",
+    "rafhaan"
+   ],
+   "location": "the small plain sitting room of an old house in a narrow Malé lane in the morning, whitewashed walls with faded paint, a simple narrow bed with a thin mattress and a cotton blanket against the wall, a small wooden table, a louvered wooden window letting in daylight, two plastic chairs",
+   "location_key": "house",
+   "mood": "morning daylight through the louvers, muted warm tones, anxious and fragile",
+   "visual": "Qaasim half-risen on his simple narrow bed, coughing into a folded clean white cloth held to his mouth, his eyes squeezed shut, weak; Layaali kneeling at the bedside holding his shoulders and Aminath beside her supporting his back, both frightened; Rafhaan standing a step behind them, alarmed, the brown envelope lowered in his hand",
+   "camera": "medium shot, slightly high angle",
+   "image": "images/beat_002.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": "injury",
+   "safe_substitution": "Qaasim coughing blood is never shown: he coughs into a clean white cloth, only the family's frightened faces",
+   "ambience": "home_day",
+   "shots": [
+    {
+     "id": "shot_005",
+     "startMs": 33021,
+     "endMs": 44321,
+     "narration_dhivehi": "މަގޭ ދަރިފުޅު ކުށްވެރި ނުކުރޭ. އޭނާ ދުވަހަކުވެސް ވައްކަމެއް ނުކުރާނެ. އަހަރެން މަރުވިޔަސް ހެޔޮ... މަގޭ ދަރިފުޅުގެ އަބުރު ހަލާކުނުކުރޭ\" ޤާސިމް ރޮމުން ބާރަށް ކެއްސާން ފެށިއެވެ.",
+     "narration_english": "'Don't make my daughter a criminal. She would never steal, ever. Even if I die, so be it... don't destroy my daughter's honour.' Weeping, Qaasim began to cough hard.",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [
+      {
+       "name": "breath_heavy",
+       "atMs": 43221,
+       "gainDb": -20,
+       "word": "ކެއްސާން"
+      }
+     ],
+     "hum": true,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_006",
+     "startMs": 44321,
+     "endMs": 53351,
+     "narration_dhivehi": "ކެއްސުމުގެ ތެރެއިން އޭނާގެ އަނގައިން ލޭ އަންނާން ފެށިއެވެ. \"ޤާސިމް! ބައްޕާ!\" ލަޔާލީ އާއި އާމިނަތު ހަޅޭއްލަވައިގަންނަމުން ޤާސިމްގެ ކައިރިއަށް ދިޔައެވެ.",
+     "narration_english": "Through the coughing, blood began to come from his mouth. 'Qaasim! Dad!' Layaali and Aminath cried out and rushed to Qaasim's side.",
+     "crop": "tight",
+     "motion": "pan up",
+     "sfx": [
+      {
+       "name": "gasp",
+       "atMs": 50441,
+       "gainDb": -18,
+       "word": "ހަޅޭއްލަވައިގަންނަމުން"
+      }
+     ],
+     "hum": true,
+     "crop_rect_pct": [
+      40.6,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_007",
+     "startMs": 53351,
+     "endMs": 63342,
+     "narration_dhivehi": "ޤާސިމްގެ ހާލަތު ވަރަށް ބޮޑަށް ގޯސްވިއެވެ. އޭނާގެ ދެލޯ މެރިއްޖެއެވެ. ރަފްހާން ހާސްވިއެވެ. އޭނާގެ ހިތުގައި އުފެދިފައިވާ ހުރިހާ ޝައްކުތަކެއް ވަގުތުން ފިލައިދިޔައެވެ.",
+     "narration_english": "Qaasim's condition became very bad. His eyes closed. Rafhaan was alarmed. Every doubt that had formed in his heart vanished at once.",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [
+      {
+       "name": "heartbeat",
+       "atMs": 58161,
+       "gainDb": -18,
+       "word": "ހާސްވިއެވެ."
+      }
+     ],
+     "hum": true,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_008",
+     "startMs": 63342,
+     "endMs": 73492,
+     "narration_dhivehi": "މި ނިކަމެތި އާއިލާގެ ހާލަތު ފެނުމުން އޭނާގެ ހިތް މަޑުވިއެވެ. \"ލަޔާލީ! އަވަސްކުރޭ! ބައްޕަ ގޮވައިގެން ހޮސްޕިޓަލަށް ދާންޖެހޭނެ. އަހަރެންގެ ކާރަށް އަރުވާ!\"",
+     "narration_english": "Seeing the state of this poor family, his heart softened. 'Layaali! Hurry! We have to take your father to hospital. Get him into my car!'",
+     "crop": "medium",
+     "motion": "pan down",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      28.5,
+      0.0,
+      71.5,
+      84.7
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Qaasim; reference image 2 is Layaali; reference image 3 is Aminath; reference image 4 is Rafhaan), create a new scene: Cinematic semi-realistic digital illustration in the polished look of a romantic drama book cover, soft natural light with warm golden-hour glow, rich palette of deep plum, burgundy, warm amber and soft city-dusk blues, gentle film grain, shallow depth of field with soft bokeh, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and calm, uncluttered space at the bottom for a logo.\nScene: Qaasim half-risen on his simple narrow bed, coughing into a folded clean white cloth held to his mouth, his eyes squeezed shut, weak; Layaali kneeling at the bedside holding his shoulders and Aminath beside her supporting his back, both frightened; Rafhaan standing a step behind them, alarmed, the brown envelope lowered in his hand. Location: the small plain sitting room of an old house in a narrow Malé lane in the morning, whitewashed walls with faded paint, a simple narrow bed with a thin mattress and a cotton blanket against the wall, a small wooden table, a louvered wooden window letting in daylight, two plastic chairs. Camera: medium shot, slightly high angle.\nCharacters: Qaasim: a thin frail Maldivian man in his early 60s with medium-brown skin, a thin face with sunken cheeks, short grey hair, short grey stubble and kind tired eyes; wears a faded light-blue long-sleeved cotton shirt and a dark checked sarong. Layaali: a Maldivian young woman in her mid 20s with warm light-brown skin, a soft oval face, large warm brown eyes with long lashes, dark softly arched eyebrows and gentle full lips, slim build; wears a loose ankle-length black abaya with ruffled mauve floral cuffs and a black chiffon hijab fully covering her hair and neck. Aminath: a short plump Maldivian woman in her early 50s with warm medium-brown skin, a round gentle face and tired kind eyes; wears a faded lilac floral long-sleeved ankle-length cotton dress and a plain white cotton headscarf covering her hair and neck. Rafhaan: a tall fit Maldivian man about 30 with light-brown skin, short dark-brown hair neatly swept back, a well-groomed short dark beard and warm dark-brown eyes; wears a tailored black suit, a crisp white shirt, a slim dark-grey tie and a silver wristwatch.\nMood/lighting: morning daylight through the louvers, muted warm tones, anxious and fragile.\nModest Maldivian clothing, culturally respectful, no violence shown, no text, no letters, no writing, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.209,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 76.4,
+    "y_pct": 13.0,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_003",
+   "startMs": 73492,
+   "endMs": 82772,
+   "new_image_reason": "scene and action change: Rafhaan carries Qaasim out to his car",
+   "characters": [
+    "rafhaan",
+    "qaasim",
+    "layaali",
+    "aminath"
+   ],
+   "location": "a narrow Malé lane outside a small old house in the morning, low whitewashed walls, potted plants, a sleek black car parked at the doorstep with its rear door open",
+   "location_key": "lane",
+   "mood": "bright morning light, urgent, frightened",
+   "visual": "Rafhaan carrying frail Qaasim in his arms out of the doorway of the small old house towards a black car with its rear door open; Layaali hurrying beside them with a worried face, Aminath following behind with her hand at her chest",
+   "camera": "medium wide, eye level",
+   "image": "images/beat_003.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "city_day",
+   "shots": [
+    {
+     "id": "shot_009",
+     "startMs": 73492,
+     "endMs": 82772,
+     "narration_dhivehi": "ރަފްހާން ވަގުތުން ކުރިއަށް ޖެހި ޤާސިމް އަމިއްލަ އަތްމައްޗަށް އުފުލާލިއެވެ. އެންމެން އެކުގައި ކާރަށް އަރައިގެން އޭޑީކޭ ހޮސްޕިޓަލާ ދިމާލަށް މިސްރާބު ޖެހިއެވެ.",
+     "narration_english": "Rafhaan at once stepped forward and lifted Qaasim in his own arms. They all got into the car and set off towards ADK Hospital.",
+     "crop": "full",
+     "motion": "static drift",
+     "sfx": [
+      {
+       "name": "car_door",
+       "atMs": 78962,
+       "gainDb": -18,
+       "word": "ކާރަށް"
+      },
+      {
+       "name": "car_drive_off",
+       "atMs": 81622,
+       "gainDb": -20,
+       "word": "މިސްރާބު"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Rafhaan; reference image 2 is Qaasim; reference image 3 is Layaali; reference image 4 is Aminath), create a new scene: Cinematic semi-realistic digital illustration in the polished look of a romantic drama book cover, soft natural light with warm golden-hour glow, rich palette of deep plum, burgundy, warm amber and soft city-dusk blues, gentle film grain, shallow depth of field with soft bokeh, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and calm, uncluttered space at the bottom for a logo.\nScene: Rafhaan carrying frail Qaasim in his arms out of the doorway of the small old house towards a black car with its rear door open; Layaali hurrying beside them with a worried face, Aminath following behind with her hand at her chest. Location: a narrow Malé lane outside a small old house in the morning, low whitewashed walls, potted plants, a sleek black car parked at the doorstep with its rear door open. Camera: medium wide, eye level.\nCharacters: Rafhaan: a tall fit Maldivian man about 30 with light-brown skin, short dark-brown hair neatly swept back, a well-groomed short dark beard and warm dark-brown eyes; wears a tailored black suit, a crisp white shirt, a slim dark-grey tie and a silver wristwatch. Qaasim: a thin frail Maldivian man in his early 60s with medium-brown skin, a thin face with sunken cheeks, short grey hair, short grey stubble and kind tired eyes; wears a faded light-blue long-sleeved cotton shirt and a dark checked sarong. Layaali: a Maldivian young woman in her mid 20s with warm light-brown skin, a soft oval face, large warm brown eyes with long lashes, dark softly arched eyebrows and gentle full lips, slim build; wears a loose ankle-length black abaya with ruffled mauve floral cuffs and a black chiffon hijab fully covering her hair and neck. Aminath: a short plump Maldivian woman in her early 50s with warm medium-brown skin, a round gentle face and tired kind eyes; wears a faded lilac floral long-sleeved ankle-length cotton dress and a plain white cotton headscarf covering her hair and neck.\nMood/lighting: bright morning light, urgent, frightened.\nModest Maldivian clothing, culturally respectful, no violence shown, no text, no letters, no writing, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.427,
+    "halo": true
+   },
+   "focus": {
+    "x_pct": 40.3,
+    "y_pct": 75.4,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_004",
+   "startMs": 82772,
+   "endMs": 107043,
+   "new_image_reason": "scene change: the drive to the hospital",
+   "characters": [
+    "layaali",
+    "qaasim",
+    "rafhaan"
+   ],
+   "location": "inside a sleek black car driving through the streets of Malé in daylight, dark leather seats, city buildings passing by in a soft blur outside the windows",
+   "location_key": "car",
+   "mood": "daylight flickering through the windows, urgent and tearful, tender",
+   "visual": "the back seat of the car: Layaali sitting with tears on her cheeks, cradling her father's head on her lap, Qaasim lying across the seat with his eyes closed; in the front Rafhaan at the steering wheel, his worried eyes glancing at her in the rear-view mirror",
+   "camera": "medium shot from the front passenger side looking back",
+   "image": "images/beat_004.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "car_interior",
+   "shots": [
+    {
+     "id": "shot_010",
+     "startMs": 82772,
+     "endMs": 91923,
+     "narration_dhivehi": "މަގުމަތީގައި ލަޔާލީ އިނީ ބައްޕަގެ ބޯ އޭނާގެ އުނގުމަތީގައި ބާއްވައިގެން ރޮވިފައެވެ. ރަފްހާން ކުރީ ގޮނޑީގައި އިނދެ ލޯގަނޑުން ލަޔާލީއަށް ބަލަމުންދިޔައެވެ.",
+     "narration_english": "On the way Layaali sat crying with her father's head resting on her lap. Rafhaan, in the front seat, kept watching Layaali in the mirror.",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [
+      {
+       "name": "sob_breath",
+       "atMs": 87162,
+       "gainDb": -24,
+       "word": "ރޮވިފައެވެ."
+      }
+     ],
+     "hum": true,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_011",
+     "startMs": 91923,
+     "endMs": 100123,
+     "narration_dhivehi": "އޭނާގެ ހިތުގައި ލަޔާލީއާމެދު އޮތް ލޯބި މި ހިތާމަވެރި ވަގުތުގައި ވަރުގަދަވިއެވެ. \"އަހަރެން ލަޔާލީއަށް ދެރައެއް ދުވަހަކުވެސް ނުދޭނަން.",
+     "narration_english": "In this sorrowful moment the love in his heart for Layaali grew stronger. 'I will never let anyone hurt you, Layaali.",
+     "crop": "tight",
+     "motion": "pan left",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      2.1,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_012",
+     "startMs": 100123,
+     "endMs": 107043,
+     "narration_dhivehi": "މި ހުރިހާ ކަމެއްގެ ފަހަތުގައިވަނީ އަހްނާކަން އަހަރެން ސާބިތުކޮށްދޭނަން.\" ރަފްހާން ހިތާހިތުން ބުނަމުންދިޔައެވެ.",
+     "narration_english": "I will prove that Ahna is behind all of this,' Rafhaan kept saying to himself.",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Layaali; reference image 2 is Qaasim; reference image 3 is Rafhaan), create a new scene: Cinematic semi-realistic digital illustration in the polished look of a romantic drama book cover, soft natural light with warm golden-hour glow, rich palette of deep plum, burgundy, warm amber and soft city-dusk blues, gentle film grain, shallow depth of field with soft bokeh, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and calm, uncluttered space at the bottom for a logo.\nScene: the back seat of the car: Layaali sitting with tears on her cheeks, cradling her father's head on her lap, Qaasim lying across the seat with his eyes closed; in the front Rafhaan at the steering wheel, his worried eyes glancing at her in the rear-view mirror. Location: inside a sleek black car driving through the streets of Malé in daylight, dark leather seats, city buildings passing by in a soft blur outside the windows. Camera: medium shot from the front passenger side looking back.\nCharacters: Layaali: a Maldivian young woman in her mid 20s with warm light-brown skin, a soft oval face, large warm brown eyes with long lashes, dark softly arched eyebrows and gentle full lips, slim build; wears a loose ankle-length black abaya with ruffled mauve floral cuffs and a black chiffon hijab fully covering her hair and neck. Qaasim: a thin frail Maldivian man in his early 60s with medium-brown skin, a thin face with sunken cheeks, short grey hair, short grey stubble and kind tired eyes; wears a faded light-blue long-sleeved cotton shirt and a dark checked sarong. Rafhaan: a tall fit Maldivian man about 30 with light-brown skin, short dark-brown hair neatly swept back, a well-groomed short dark beard and warm dark-brown eyes; wears a tailored black suit, a crisp white shirt, a slim dark-grey tie and a silver wristwatch.\nMood/lighting: daylight flickering through the windows, urgent and tearful, tender.\nModest Maldivian clothing, culturally respectful, no violence shown, no text, no letters, no writing, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.205,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 31.8,
+    "y_pct": 34.8,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_005",
+   "startMs": 107043,
+   "endMs": 127214,
+   "new_image_reason": "scene change: hospital emergency, the doctor's verdict",
+   "characters": [
+    "doctor",
+    "layaali",
+    "aminath"
+   ],
+   "location": "the emergency wing of ADK Hospital in Malé, a cool white corridor in front of closed frosted-glass double doors, pale grey floor, fluorescent ceiling light, no signs",
+   "location_key": "er",
+   "mood": "cold white fluorescent light, helpless, anxious",
+   "visual": "the doctor in his white coat speaking gravely to Layaali and Aminath outside closed frosted emergency-room doors; Layaali standing stunned with her hands pressed to her mouth, Aminath holding her arm, both lost and helpless",
+   "camera": "medium shot, eye level",
+   "image": "images/beat_005.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "hospital_corridor",
+   "shots": [
+    {
+     "id": "shot_013",
+     "startMs": 107043,
+     "endMs": 120163,
+     "narration_dhivehi": "ހޮސްޕިޓަލަށް ދެވުމާއެކު ޤާސިމް ވަގުތުން އިމަޖެންސީ ރޫމަށް ވައްދާ ފަރުވާ ދޭން ފެށިއެވެ. ޑޮކްޓަރުން ބުނީ ޤާސިމްގެ ފުއްޕާމޭގެ ބަލި ވަރަށް ބޮޑަށް ގޯސްވެފައިވާ ކަމަށާއި މިހާރުން މިހާރަށް އޮޕަރޭޝަނެއް ކުރާންޖެހޭ ކަމަށެވެ.",
+     "narration_english": "As soon as they reached the hospital Qaasim was taken straight into the emergency room for treatment. The doctors said his lung disease had become very serious and that an operation had to be done right away.",
+     "crop": "full",
+     "motion": "pan right",
+     "sfx": [
+      {
+       "name": "door_open",
+       "atMs": 110203,
+       "gainDb": -20,
+       "word": "ރޫމަށް"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_014",
+     "startMs": 120163,
+     "endMs": 127214,
+     "narration_dhivehi": "އަދި އެކަމަށް ބޮޑު އަދަދެއްގެ ފައިސާ ބޭނުންވާނެ ކަމަށެވެ. ލަޔާލީ އާއި އާމިނަތު ގޮތް ހުސްވެފައި ބޭރުގައި ތިއްބެވެ.",
+     "narration_english": "And that it would need a large sum of money. Layaali and Aminath stood outside, at a loss.",
+     "crop": "tight",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      40.6,
+      29.6,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Doctor; reference image 2 is Layaali; reference image 3 is Aminath), create a new scene: Cinematic semi-realistic digital illustration in the polished look of a romantic drama book cover, soft natural light with warm golden-hour glow, rich palette of deep plum, burgundy, warm amber and soft city-dusk blues, gentle film grain, shallow depth of field with soft bokeh, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and calm, uncluttered space at the bottom for a logo.\nScene: the doctor in his white coat speaking gravely to Layaali and Aminath outside closed frosted emergency-room doors; Layaali standing stunned with her hands pressed to her mouth, Aminath holding her arm, both lost and helpless. Location: the emergency wing of ADK Hospital in Malé, a cool white corridor in front of closed frosted-glass double doors, pale grey floor, fluorescent ceiling light, no signs. Camera: medium shot, eye level.\nCharacters: the doctor: a Maldivian man in his late 40s with medium-brown skin, short black hair greying at the temples and a neat short greying beard; wears a white doctor's coat over a light-blue long-sleeved shirt, dark trousers and a stethoscope around his neck. Layaali: a Maldivian young woman in her mid 20s with warm light-brown skin, a soft oval face, large warm brown eyes with long lashes, dark softly arched eyebrows and gentle full lips, slim build; wears a loose ankle-length black abaya with ruffled mauve floral cuffs and a black chiffon hijab fully covering her hair and neck. Aminath: a short plump Maldivian woman in her early 50s with warm medium-brown skin, a round gentle face and tired kind eyes; wears a faded lilac floral long-sleeved ankle-length cotton dress and a plain white cotton headscarf covering her hair and neck.\nMood/lighting: cold white fluorescent light, helpless, anxious.\nModest Maldivian clothing, culturally respectful, no violence shown, no text, no letters, no writing, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.276,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 86.2,
+    "y_pct": 77.4,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_006",
+   "startMs": 127214,
+   "endMs": 137424,
+   "new_image_reason": "action and place change: Rafhaan pays at the counter",
+   "characters": [
+    "rafhaan",
+    "layaali"
+   ],
+   "location": "the payment counter in the cool white lobby of ADK Hospital in Malé, a glass partition with a clerk behind it, a card terminal on the counter, a corridor leading away behind, no signs",
+   "location_key": "counter",
+   "mood": "cool white light, quiet resolve",
+   "visual": "Rafhaan at the hospital payment counter handing a plain bank card (nothing printed visible) to a clerk behind the glass, his face calm and determined; in the background Layaali walking towards him from the corridor, surprised",
+   "camera": "medium shot, three-quarter angle",
+   "image": "images/beat_006.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "hospital_corridor",
+   "shots": [
+    {
+     "id": "shot_015",
+     "startMs": 127214,
+     "endMs": 137424,
+     "narration_dhivehi": "އެ ވަގުތު ރަފްހާން ކައުންޓަރަށް ގޮސް އޮޕަރޭޝަންގެ ހުރިހާ ޚަރަދެއް އޭނާގެ އަމިއްލަ ކާޑުން ދެއްކިއެވެ. ލަޔާލީއަށް އެކަން އެނގުމުން އޭނާ ރަފްހާންގެ ކައިރިއަށް އައެވެ.",
+     "narration_english": "At that moment Rafhaan went to the counter and paid all the costs of the operation with his own card. When Layaali learned of it, she came over to Rafhaan.",
+     "crop": "full",
+     "motion": "pan up",
+     "sfx": [
+      {
+       "name": "footsteps_pavement",
+       "atMs": 136484,
+       "gainDb": -24,
+       "word": "ކައިރިއަށް"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Rafhaan; reference image 2 is Layaali), create a new scene: Cinematic semi-realistic digital illustration in the polished look of a romantic drama book cover, soft natural light with warm golden-hour glow, rich palette of deep plum, burgundy, warm amber and soft city-dusk blues, gentle film grain, shallow depth of field with soft bokeh, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and calm, uncluttered space at the bottom for a logo.\nScene: Rafhaan at the hospital payment counter handing a plain bank card (nothing printed visible) to a clerk behind the glass, his face calm and determined; in the background Layaali walking towards him from the corridor, surprised. Location: the payment counter in the cool white lobby of ADK Hospital in Malé, a glass partition with a clerk behind it, a card terminal on the counter, a corridor leading away behind, no signs. Camera: medium shot, three-quarter angle.\nCharacters: Rafhaan: a tall fit Maldivian man about 30 with light-brown skin, short dark-brown hair neatly swept back, a well-groomed short dark beard and warm dark-brown eyes; wears a tailored black suit, a crisp white shirt, a slim dark-grey tie and a silver wristwatch. Layaali: a Maldivian young woman in her mid 20s with warm light-brown skin, a soft oval face, large warm brown eyes with long lashes, dark softly arched eyebrows and gentle full lips, slim build; wears a loose ankle-length black abaya with ruffled mauve floral cuffs and a black chiffon hijab fully covering her hair and neck.\nMood/lighting: cool white light, quiet resolve.\nModest Maldivian clothing, culturally respectful, no violence shown, no text, no letters, no writing, no watermark.",
+   "logo": {
+    "color": "black",
+    "bg_luminance": 0.63,
+    "halo": true
+   },
+   "focus": {
+    "x_pct": 39.2,
+    "y_pct": 20.0,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_007",
+   "startMs": 137424,
+   "endMs": 160535,
+   "new_image_reason": "action change: Layaali questions him in the corridor",
+   "characters": [
+    "layaali",
+    "rafhaan"
+   ],
+   "location": "a long cool-white corridor of ADK Hospital in Malé, pale grey polished floor, a row of plastic waiting chairs along the wall, frosted glass doors, fluorescent ceiling lights and a window at the far end, no signs",
+   "location_key": "corridor",
+   "mood": "cool white hospital light with warm amber accents from the far window, emotionally charged",
+   "visual": "Layaali facing Rafhaan in the hospital corridor at a respectful distance, her hands clasped at her chest, eyes wet, asking him why; Rafhaan looking straight into her eyes with a calm, sincere, reassuring face",
+   "camera": "medium two-shot in profile",
+   "image": "images/beat_007.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "hospital_corridor",
+   "shots": [
+    {
+     "id": "shot_016",
+     "startMs": 137424,
+     "endMs": 144844,
+     "narration_dhivehi": "\"ސަރ... ކީއްވެ ތިހެން ތިހެއްދެވީ؟ އަޅުގަނޑަކީ ކުންފުނީގެ ފައިސާ ވަގަށް ނެގި ކަމުގެ ތުހުމަތު އޮތް މީހެއް.",
+     "narration_english": "'Sir... why did you do this? I'm someone accused of stealing the company's money.",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_017",
+     "startMs": 144844,
+     "endMs": 152955,
+     "narration_dhivehi": "ސަރ އަޅުގަނޑަށް ތިހާ ބޮޑު އެހީއެއް ތިދެއްވީ ކީއްވެ؟\" ލަޔާލީ ބުންޏެވެ. ރަފްހާން ލަޔާލީގެ ދެލޮލަށް ސީދާ ބަލާލިއެވެ. \"ލަޔާލީ...",
+     "narration_english": "Why did you give me such great help, sir?' Layaali said. Rafhaan looked straight into Layaali's eyes. 'Layaali...",
+     "crop": "tight",
+     "motion": "pan down",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      20.2,
+      29.6,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_018",
+     "startMs": 152955,
+     "endMs": 160535,
+     "narration_dhivehi": "އަހަރެންނަށް އެނގޭ ލަޔާލީއަކީ ވަގެއް ނޫންކަން. އެ ފައިސާގެ މަޅިއަކީ ކާކު ރޭވި އެއްޗެއްކަން އަހަރެން ހޯދާނަން.",
+     "narration_english": "I know you are not a thief. I will find out who set that money trap.",
+     "crop": "full",
+     "motion": "static drift",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Layaali; reference image 2 is Rafhaan), create a new scene: Cinematic semi-realistic digital illustration in the polished look of a romantic drama book cover, soft natural light with warm golden-hour glow, rich palette of deep plum, burgundy, warm amber and soft city-dusk blues, gentle film grain, shallow depth of field with soft bokeh, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and calm, uncluttered space at the bottom for a logo.\nScene: Layaali facing Rafhaan in the hospital corridor at a respectful distance, her hands clasped at her chest, eyes wet, asking him why; Rafhaan looking straight into her eyes with a calm, sincere, reassuring face. Location: a long cool-white corridor of ADK Hospital in Malé, pale grey polished floor, a row of plastic waiting chairs along the wall, frosted glass doors, fluorescent ceiling lights and a window at the far end, no signs. Camera: medium two-shot in profile.\nCharacters: Layaali: a Maldivian young woman in her mid 20s with warm light-brown skin, a soft oval face, large warm brown eyes with long lashes, dark softly arched eyebrows and gentle full lips, slim build; wears a loose ankle-length black abaya with ruffled mauve floral cuffs and a black chiffon hijab fully covering her hair and neck. Rafhaan: a tall fit Maldivian man about 30 with light-brown skin, short dark-brown hair neatly swept back, a well-groomed short dark beard and warm dark-brown eyes; wears a tailored black suit, a crisp white shirt, a slim dark-grey tie and a silver wristwatch.\nMood/lighting: cool white hospital light with warm amber accents from the far window, emotionally charged.\nModest Maldivian clothing, culturally respectful, no violence shown, no text, no letters, no writing, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.477,
+    "halo": true
+   },
+   "focus": {
+    "x_pct": 49.9,
+    "y_pct": 69.2,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_008",
+   "startMs": 160535,
+   "endMs": 190326,
+   "new_image_reason": "emotional turning point: his unfinished words stir Layaali's heart",
+   "characters": [
+    "layaali"
+   ],
+   "location": "a long cool-white corridor of ADK Hospital in Malé, pale grey polished floor, a row of plastic waiting chairs along the wall, frosted glass doors, fluorescent ceiling lights and a window at the far end, no signs",
+   "location_key": "corridor",
+   "mood": "cool white hospital light with warm amber accents from the far window, emotionally charged",
+   "visual": "close-up of Layaali in the hospital corridor, her eyes wide and shining, one hand resting on her chest over her heart, lips slightly parted, moved and startled; soft bokeh of the corridor behind her",
+   "camera": "close-up",
+   "image": "images/beat_008.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": "romance",
+   "safe_substitution": "feelings shown only through her face and hand on her own heart; Rafhaan out of frame",
+   "ambience": "hospital_corridor",
+   "shots": [
+    {
+     "id": "shot_019",
+     "startMs": 160535,
+     "endMs": 169345,
+     "narration_dhivehi": "ބައްޕާގެ ފުރާނަ ސަލާމަތްކުރުމަކީ މިވަގުތު އެންމެ މުހިންމު ކަންތައް. އަހަރެން މިކުރި ކަމަކީ ބޮސްއެއްގެ ހައިސިއްޔަތުން ކުރި ކަމެއް ނޫން...",
+     "narration_english": "Saving your father's life is the most important thing right now. What I did, I didn't do as a boss...",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_020",
+     "startMs": 169345,
+     "endMs": 179065,
+     "narration_dhivehi": "މިއީ އަހަރެން އިންސާނިއްޔަތުކަމުން ކޮށްދިންކަމެއް. އަދި އެހެން ކަމެއް ވެސް...\" ރަފްހާން ގަސްތުގައި އެއްބައި ދޫކޮށްލިއެވެ. ލަޔާލީގެ ހިތް ބާރަށް ތެޅިގަތެވެ.",
+     "narration_english": "I did it out of humanity. And for something else too...' Rafhaan deliberately left the rest unsaid. Layaali's heart began to pound.",
+     "crop": "tight",
+     "motion": "pan left",
+     "sfx": [
+      {
+       "name": "heartbeat",
+       "atMs": 178185,
+       "gainDb": -18,
+       "word": "ތެޅިގަތެވެ."
+      }
+     ],
+     "hum": true,
+     "crop_rect_pct": [
+      11.6,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_021",
+     "startMs": 179065,
+     "endMs": 190326,
+     "narration_dhivehi": "ރަފްހާންގެ އެ ބަސްތަކުން އޭނާގެ ހިތުގައި ފޮރުވިފައިވާ ޖަޒުބާތުތައް ހޭލިއެވެ. ނަމަވެސް އެ ވަގުތު ހޮސްޕިޓަލުގެ ކޮރިޑޯއިން އިވުނު އުސް ބޫޓެއްގެ އަޑާއެކު ދެމީހުންނަށް ބަލާލެވުނެވެ.",
+     "narration_english": "Rafhaan's words woke the feelings hidden in her heart. But just then, at the sound of high heels in the hospital corridor, they both looked round.",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [
+      {
+       "name": "footsteps_pavement",
+       "atMs": 187406,
+       "gainDb": -14,
+       "word": "ބޫޓެއްގެ"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Layaali), create a new scene: Cinematic semi-realistic digital illustration in the polished look of a romantic drama book cover, soft natural light with warm golden-hour glow, rich palette of deep plum, burgundy, warm amber and soft city-dusk blues, gentle film grain, shallow depth of field with soft bokeh, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and calm, uncluttered space at the bottom for a logo.\nScene: close-up of Layaali in the hospital corridor, her eyes wide and shining, one hand resting on her chest over her heart, lips slightly parted, moved and startled; soft bokeh of the corridor behind her. Location: a long cool-white corridor of ADK Hospital in Malé, pale grey polished floor, a row of plastic waiting chairs along the wall, frosted glass doors, fluorescent ceiling lights and a window at the far end, no signs. Camera: close-up.\nCharacters: Layaali: a Maldivian young woman in her mid 20s with warm light-brown skin, a soft oval face, large warm brown eyes with long lashes, dark softly arched eyebrows and gentle full lips, slim build; wears a loose ankle-length black abaya with ruffled mauve floral cuffs and a black chiffon hijab fully covering her hair and neck.\nMood/lighting: cool white hospital light with warm amber accents from the far window, emotionally charged.\nModest Maldivian clothing, culturally respectful, no violence shown, no text, no letters, no writing, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.195,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 41.3,
+    "y_pct": 28.9,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_009",
+   "startMs": 190326,
+   "endMs": 216337,
+   "new_image_reason": "characters change: Ahna and Zoya arrive",
+   "characters": [
+    "ahna",
+    "zoya"
+   ],
+   "location": "a long cool-white corridor of ADK Hospital in Malé, pale grey polished floor, a row of plastic waiting chairs along the wall, frosted glass doors, fluorescent ceiling lights and a window at the far end, no signs",
+   "location_key": "corridor",
+   "mood": "cool white hospital light with warm amber accents from the far window, emotionally charged",
+   "visual": "Ahna striding down the hospital corridor in high heels with a smug, triumphant sneer, chin raised, her small gold handbag on her arm; Zoya one step behind her with a sly smile",
+   "camera": "medium wide, low angle down the corridor",
+   "image": "images/beat_009.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "hospital_corridor",
+   "shots": [
+    {
+     "id": "shot_022",
+     "startMs": 190326,
+     "endMs": 200476,
+     "narration_dhivehi": "އެއީ އަހްނާއެވެ. އޭނާގެ ފަހަތުގައި އޭނާގެ \"ޑެވިލް\" ރައްޓެހި ޒޯޔާ ވެސް ހުއްޓެވެ. އަހްނާގެ މޫނުމަތިން ފެންނަމުންދިޔައީ ނުރުހުމާއި ކާމިޔާބީގެ ކުލަވަރެކެވެ. \"ރަފްހާން!",
+     "narration_english": "It was Ahna. Behind her was her 'devil' friend Zoya too. Ahna's face showed displeasure and a look of victory. 'Rafhaan!",
+     "crop": "full",
+     "motion": "pan right",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_023",
+     "startMs": 200476,
+     "endMs": 209166,
+     "narration_dhivehi": "މިވަގުތު އޮފީސް ދޫކޮށްލާފަ މި ވަގު އަންހެން ކުއްޖާގެ ފަހަތުން ހޮސްޕިޓަލަށް ތިއައީ ކީއްކުރަން؟\" އަހްނާ ހަރުކަށިކަމާއެކު ސުވާލުކުރިއެވެ.",
+     "narration_english": "What are you doing at the hospital, leaving the office at a time like this, chasing after this thieving girl?' Ahna demanded harshly.",
+     "crop": "tight",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      40.6,
+      27.4,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_024",
+     "startMs": 209166,
+     "endMs": 216337,
+     "narration_dhivehi": "\"ޕޮލިހުން މިހާރު ތިބީ ލަޔާލީގެ ގޭގަ. އޭނާގެ ގެއިން އެ ފައިސާ ފެނިއްޖެ. މިހާރު ހުރިހާ ހެއްކެއް ފުރިހަމަވެއްޖެ!\"",
+     "narration_english": "'The police are at Layaali's house right now. They found the money in her house. Now all the evidence is complete!'",
+     "crop": "full",
+     "motion": "pan up",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Ahna; reference image 2 is Zoya), create a new scene: Cinematic semi-realistic digital illustration in the polished look of a romantic drama book cover, soft natural light with warm golden-hour glow, rich palette of deep plum, burgundy, warm amber and soft city-dusk blues, gentle film grain, shallow depth of field with soft bokeh, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and calm, uncluttered space at the bottom for a logo.\nScene: Ahna striding down the hospital corridor in high heels with a smug, triumphant sneer, chin raised, her small gold handbag on her arm; Zoya one step behind her with a sly smile. Location: a long cool-white corridor of ADK Hospital in Malé, pale grey polished floor, a row of plastic waiting chairs along the wall, frosted glass doors, fluorescent ceiling lights and a window at the far end, no signs. Camera: medium wide, low angle down the corridor.\nCharacters: Ahna: a slim tall Maldivian young woman in her mid 20s with fair light skin, strikingly beautiful with high cheekbones, sharp winged eyeliner, glossy deep-red lips and haughty dark eyes; wears a luxurious ankle-length black abaya with ornate gold-embroidered cuffs and a deep burgundy satin hijab fully covering her hair and neck. Zoya: a slim Maldivian woman in her late 20s with light-brown skin, a narrow face, perfectly shaped eyebrows, bold makeup and a mocking half smile; wears an emerald-green satin hijab fully covering her hair and neck and a long-sleeved ankle-length black coat-dress with gold buttons; long manicured nails.\nMood/lighting: cool white hospital light with warm amber accents from the far window, emotionally charged.\nModest Maldivian clothing, culturally respectful, no violence shown, no text, no letters, no writing, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.354,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 87.0,
+    "y_pct": 62.6,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_010",
+   "startMs": 216337,
+   "endMs": 248168,
+   "new_image_reason": "action change: Rafhaan shows the evidence on his phone",
+   "characters": [
+    "rafhaan",
+    "ahna",
+    "zoya"
+   ],
+   "location": "a long cool-white corridor of ADK Hospital in Malé, pale grey polished floor, a row of plastic waiting chairs along the wall, frosted glass doors, fluorescent ceiling lights and a window at the far end, no signs",
+   "location_key": "corridor",
+   "mood": "cool white hospital light with warm amber accents from the far window, emotionally charged",
+   "visual": "Rafhaan with a cold faint smile holding up his smartphone towards Ahna, the screen facing her and away from the viewer; Ahna in front of him, her smugness beginning to falter; Zoya just behind her shoulder",
+   "camera": "medium over-the-shoulder shot",
+   "image": "images/beat_010.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "hospital_corridor",
+   "shots": [
+    {
+     "id": "shot_025",
+     "startMs": 216337,
+     "endMs": 225717,
+     "narration_dhivehi": "ރަފްހާން ފިނި ހިނިތުންވުމަކާއެކު އަހްނާއާ ދިމާލަށް ބަލައިލިއެވެ. \"އަހްނާ... ކަލޭގެ ރޭވުން ވަރަށް ފުރިހަމަ. އެކަމަކު ކަލެއަށް އެއް ކަމެއް ހަނދާން ނެތުނީ.",
+     "narration_english": "Rafhaan looked at Ahna with a cold smile. 'Ahna... your plan was very perfect. But you forgot one thing.",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_026",
+     "startMs": 225717,
+     "endMs": 233617,
+     "narration_dhivehi": "އެއީ ކޮންމެ ކަމެއްގެވެސް ފަހަތުގައި ނުފެންނަ ހެކިތަކެއް ހުންނާނެކަން.\" ރަފްހާން އޭނާގެ ފޯނު ނަގާ އަހްނާއަށް ދައްކާލިއެވެ.",
+     "narration_english": "That behind everything there is evidence no one can see.' Rafhaan took out his phone and showed it to Ahna.",
+     "crop": "tight",
+     "motion": "pan down",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      27.8,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_027",
+     "startMs": 233617,
+     "endMs": 248168,
+     "narration_dhivehi": "ފޯނުގެ ސްކްރީނުން ފެންނަމުންދިޔައީ އޮފީހުގެ ސިއްރު ލޮގްތަކެވެ. އަދި އާސިމް ފޮނުވާފައިވާ މެސެޖެކެވެ. އެ މެސެޖުގައި އޮތީ ބޭންކަށް ފޮނުވި ސިޓީތައް ތައްޔާރުކޮށްފައިވަނީ އަހްނާގެ އަމިއްލަ ލެޕްޓޮޕުން ކަމުގެ އައިޕީ އެޑްރެހުގެ ހެކިތަކެވެ.",
+     "narration_english": "On the phone's screen were the office's secret logs, and a message sent by Aasim: IP-address evidence that the letters sent to the bank were prepared on Ahna's own laptop.",
+     "crop": "full",
+     "motion": "static drift",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Rafhaan; reference image 2 is Ahna; reference image 3 is Zoya), create a new scene: Cinematic semi-realistic digital illustration in the polished look of a romantic drama book cover, soft natural light with warm golden-hour glow, rich palette of deep plum, burgundy, warm amber and soft city-dusk blues, gentle film grain, shallow depth of field with soft bokeh, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and calm, uncluttered space at the bottom for a logo.\nScene: Rafhaan with a cold faint smile holding up his smartphone towards Ahna, the screen facing her and away from the viewer; Ahna in front of him, her smugness beginning to falter; Zoya just behind her shoulder. Location: a long cool-white corridor of ADK Hospital in Malé, pale grey polished floor, a row of plastic waiting chairs along the wall, frosted glass doors, fluorescent ceiling lights and a window at the far end, no signs. Camera: medium over-the-shoulder shot.\nCharacters: Rafhaan: a tall fit Maldivian man about 30 with light-brown skin, short dark-brown hair neatly swept back, a well-groomed short dark beard and warm dark-brown eyes; wears a tailored black suit, a crisp white shirt, a slim dark-grey tie and a silver wristwatch. Ahna: a slim tall Maldivian young woman in her mid 20s with fair light skin, strikingly beautiful with high cheekbones, sharp winged eyeliner, glossy deep-red lips and haughty dark eyes; wears a luxurious ankle-length black abaya with ornate gold-embroidered cuffs and a deep burgundy satin hijab fully covering her hair and neck. Zoya: a slim Maldivian woman in her late 20s with light-brown skin, a narrow face, perfectly shaped eyebrows, bold makeup and a mocking half smile; wears an emerald-green satin hijab fully covering her hair and neck and a long-sleeved ankle-length black coat-dress with gold buttons; long manicured nails.\nMood/lighting: cool white hospital light with warm amber accents from the far window, emotionally charged.\nModest Maldivian clothing, culturally respectful, no violence shown, no text, no letters, no writing, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.117,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 57.5,
+    "y_pct": 32.2,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_011",
+   "startMs": 248168,
+   "endMs": 283779,
+   "new_image_reason": "emotional turning point: Ahna exposed, Zoya steps back",
+   "characters": [
+    "ahna",
+    "zoya"
+   ],
+   "location": "a long cool-white corridor of ADK Hospital in Malé, pale grey polished floor, a row of plastic waiting chairs along the wall, frosted glass doors, fluorescent ceiling lights and a window at the far end, no signs",
+   "location_key": "corridor",
+   "mood": "cool white hospital light with warm amber accents from the far window, emotionally charged",
+   "visual": "close shot of Ahna, her face drained pale, eyes wide in shock, lips parted; behind her Zoya stepping backwards in fear, one hand raised near her mouth",
+   "camera": "medium close-up",
+   "image": "images/beat_011.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "hospital_corridor",
+   "shots": [
+    {
+     "id": "shot_028",
+     "startMs": 248168,
+     "endMs": 259248,
+     "narration_dhivehi": "އަހްނާގެ މޫނުގެ ކުލަވަރު ވަގުތުން ފަނޑުވިއެވެ. ޒޯޔާވެސް ބިރުން ފަހަތަށް ޖެހިލިއެވެ. ހަސަދައިގެ ކަނޑުގައި އުފެދުނު ރާޅުތައް މިހާރު މިސްރާބު ޖަހާފައިވަނީ ސީދާ އަހްނާއާ ދިމާލަށެވެ.",
+     "narration_english": "The colour instantly drained from Ahna's face. Zoya too stepped back in fear. The waves raised in the sea of jealousy were now heading straight for Ahna.",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [
+      {
+       "name": "gasp",
+       "atMs": 252008,
+       "gainDb": -20,
+       "word": "ޖެހިލިއެވެ."
+      }
+     ],
+     "hum": true,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_029",
+     "startMs": 259248,
+     "endMs": 266368,
+     "narration_dhivehi": "މިއީ އަހްނާ ހިތަށް ވެސް ނާރާ ކަންތައްތަކެވެ. ކަމެއް ކުރާއިރު ހަފަރާތަށް ވިސްނަން ޖެހޭކަން އަހްނާމެން ހަނދާނެއް ނުވިއެވެ.",
+     "narration_english": "These were things Ahna had never imagined. When you do something you have to think of every side — Ahna and her friends had forgotten that.",
+     "crop": "tight",
+     "motion": "pan left",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      0.0,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_030",
+     "startMs": 266368,
+     "endMs": 275659,
+     "narration_dhivehi": "ހޮސްޕިޓަލުގެ ފިނި ކޮރިޑޯގެ ތެރޭގައި އުފެދުނު ނުތަނަވަސްކަން ރަފްހާންގެ ފޯނުގެ ސްކްރީނުން ފެންނަމުންދިޔަ ހެކިތަކާއެކު ދެގުނައަށް އިތުރުވެގެންދިޔައެވެ.",
+     "narration_english": "The unease in the cold hospital corridor doubled with the evidence showing on Rafhaan's phone screen.",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_031",
+     "startMs": 275659,
+     "endMs": 283779,
+     "narration_dhivehi": "އަހްނާގެ ދެލޯ ބޮޑުވެ މޫނުގެ ކުލަވަރު މުޅިން ފަނޑުވެގެންދިޔައެވެ. އޭނާގެ ފަހަތުގައި ހުރި ޒޯޔާ ބިރުން ފަހަތަށް ފިޔަވަޅެއް އެޅިއެވެ.",
+     "narration_english": "Ahna's eyes widened and her face went completely pale. Zoya, standing behind her, took a step back in fear.",
+     "crop": "medium",
+     "motion": "pan right",
+     "sfx": [
+      {
+       "name": "footsteps_pavement",
+       "atMs": 282729,
+       "gainDb": -24,
+       "word": "ފިޔަވަޅެއް"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      0.0,
+      0.0,
+      71.5,
+      84.7
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Ahna; reference image 2 is Zoya), create a new scene: Cinematic semi-realistic digital illustration in the polished look of a romantic drama book cover, soft natural light with warm golden-hour glow, rich palette of deep plum, burgundy, warm amber and soft city-dusk blues, gentle film grain, shallow depth of field with soft bokeh, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and calm, uncluttered space at the bottom for a logo.\nScene: close shot of Ahna, her face drained pale, eyes wide in shock, lips parted; behind her Zoya stepping backwards in fear, one hand raised near her mouth. Location: a long cool-white corridor of ADK Hospital in Malé, pale grey polished floor, a row of plastic waiting chairs along the wall, frosted glass doors, fluorescent ceiling lights and a window at the far end, no signs. Camera: medium close-up.\nCharacters: Ahna: a slim tall Maldivian young woman in her mid 20s with fair light skin, strikingly beautiful with high cheekbones, sharp winged eyeliner, glossy deep-red lips and haughty dark eyes; wears a luxurious ankle-length black abaya with ornate gold-embroidered cuffs and a deep burgundy satin hijab fully covering her hair and neck. Zoya: a slim Maldivian woman in her late 20s with light-brown skin, a narrow face, perfectly shaped eyebrows, bold makeup and a mocking half smile; wears an emerald-green satin hijab fully covering her hair and neck and a long-sleeved ankle-length black coat-dress with gold buttons; long manicured nails.\nMood/lighting: cool white hospital light with warm amber accents from the far window, emotionally charged.\nModest Maldivian clothing, culturally respectful, no violence shown, no text, no letters, no writing, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.079,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 24.8,
+    "y_pct": 29.6,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_012",
+   "startMs": 283779,
+   "endMs": 310530,
+   "new_image_reason": "framing change: Rafhaan's cold accusing gaze",
+   "characters": [
+    "rafhaan"
+   ],
+   "location": "a long cool-white corridor of ADK Hospital in Malé, pale grey polished floor, a row of plastic waiting chairs along the wall, frosted glass doors, fluorescent ceiling lights and a window at the far end, no signs",
+   "location_key": "corridor",
+   "mood": "cool white hospital light with warm amber accents from the far window, emotionally charged",
+   "visual": "close-up of Rafhaan's face in the cool corridor light, a sharp, piercing, contemptuous gaze, jaw set, cold and controlled",
+   "camera": "close-up, slightly low angle",
+   "image": "images/beat_012.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "hospital_corridor",
+   "shots": [
+    {
+     "id": "shot_032",
+     "startMs": 283779,
+     "endMs": 293709,
+     "narration_dhivehi": "ރަފްހާންގެ ތޫނު ނަޒަރު ހުއްޓިފައިވަނީ ސީދާ އަހްނާގެ މޫނަށެވެ. އެ ބަލާލުމުގައި ވަނީ މަލާމާތާއި ފޫހިކަމެވެ. \"ކިހިނެއްވީ އަހްނާ؟ ބަސް ހުއްޓުނީތަ؟\"",
+     "narration_english": "Rafhaan's sharp gaze was fixed straight on Ahna's face. In that look was reproach and disgust. 'What happened, Ahna? Lost for words?'",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_033",
+     "startMs": 293709,
+     "endMs": 304030,
+     "narration_dhivehi": "ރަފްހާންގެ އަޑުގައި ވަނީ ފިނިކަމެކެވެ. \"ކަލޭ ހީކުރީ ކޮމްޕިއުޓަރުގެ ސިސްޓަމްތަކުން ލިޔެކިޔުންތައް ބަދަލުކޮށްލުމުން އޭގެ އަސްލު އައިޕީ އެޑްރެސް ފޮރުވޭނެ ކަމަށްތަ؟",
+     "narration_english": "There was coldness in Rafhaan's voice. 'Did you think that by altering documents through the computer systems you could hide the real IP address?",
+     "crop": "tight",
+     "motion": "pan up",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      16.8,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_034",
+     "startMs": 304030,
+     "endMs": 310530,
+     "narration_dhivehi": "ކަލޭގެ އަމިއްލަ ލެޕްޓޮޕުން ލަޔާލީގެ ސޮއި ފޯޖްކޮށްގެން ބޭންކަށް ސިޓީ ފޮނުވިކަން މިހާރު މިވަނީ ސާބިތުވެފަ.",
+     "narration_english": "It is now proven that you forged Layaali's signature and sent letters to the bank from your own laptop.",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Rafhaan), create a new scene: Cinematic semi-realistic digital illustration in the polished look of a romantic drama book cover, soft natural light with warm golden-hour glow, rich palette of deep plum, burgundy, warm amber and soft city-dusk blues, gentle film grain, shallow depth of field with soft bokeh, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and calm, uncluttered space at the bottom for a logo.\nScene: close-up of Rafhaan's face in the cool corridor light, a sharp, piercing, contemptuous gaze, jaw set, cold and controlled. Location: a long cool-white corridor of ADK Hospital in Malé, pale grey polished floor, a row of plastic waiting chairs along the wall, frosted glass doors, fluorescent ceiling lights and a window at the far end, no signs. Camera: close-up, slightly low angle.\nCharacters: Rafhaan: a tall fit Maldivian man about 30 with light-brown skin, short dark-brown hair neatly swept back, a well-groomed short dark beard and warm dark-brown eyes; wears a tailored black suit, a crisp white shirt, a slim dark-grey tie and a silver wristwatch.\nMood/lighting: cool white hospital light with warm amber accents from the far window, emotionally charged.\nModest Maldivian clothing, culturally respectful, no violence shown, no text, no letters, no writing, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.092,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 46.5,
+    "y_pct": 24.7,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_013",
+   "startMs": 310530,
+   "endMs": 337061,
+   "new_image_reason": "the confrontation continues: Ahna denies, Rafhaan says the police have the evidence (reuse)",
+   "characters": [
+    "rafhaan",
+    "ahna",
+    "zoya"
+   ],
+   "location": "a long cool-white corridor of ADK Hospital in Malé, pale grey polished floor, a row of plastic waiting chairs along the wall, frosted glass doors, fluorescent ceiling lights and a window at the far end, no signs",
+   "location_key": "corridor",
+   "mood": "cool white hospital light with warm amber accents from the far window, emotionally charged",
+   "visual": "(reuse) Rafhaan showing the phone to Ahna",
+   "camera": "medium shot, eye level",
+   "image": "images/beat_010.png",
+   "reuse_of": "beat_010",
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "hospital_corridor",
+   "shots": [
+    {
+     "id": "shot_035",
+     "startMs": 310530,
+     "endMs": 320310,
+     "narration_dhivehi": "އަދި ލަޔާލީގެ ގެއަށް ފައިސާ ފޮނުވީ އަހްނާގެ ސެކްރެޓަރީ ލައްވައިކަންވެސް އަހަރެން ހޯދައިފިން.\" \"ރަފްހާން... މިއީ... މިއީ ހުސް ދޮގު!",
+     "narration_english": "And I have found out that you sent the money to Layaali's house through your secretary.' 'Rafhaan... this... this is all lies!",
+     "crop": "tight",
+     "motion": "pan down",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      27.8,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_036",
+     "startMs": 320310,
+     "endMs": 327160,
+     "narration_dhivehi": "މިއީ ކަލޭ އެ ފަގީރު އަންހެންކުއްޖާ ސަލާމަތްކުރަން ހަދައިގެން އުޅޭ ވާހަކަތަކެއް!\" އަހްނާ ގަދަކަމުން އަޑުއުފުލާލިއެވެ.",
+     "narration_english": "These are stories you are making up to save that poor girl!' Ahna shouted defiantly.",
+     "crop": "full",
+     "motion": "static drift",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_037",
+     "startMs": 327160,
+     "endMs": 337061,
+     "narration_dhivehi": "ނަމަވެސް އޭނާގެ އަޑުގައި ހުރި ތުރުތުރުލުން ސިއްރެއް ނުކުރެވުނެވެ. \"އިތުރަށް އޮޅުވާލަން ނޫޅޭ. އަހްނާ. މި ހުރިހާ ހެއްކެއް މިހާރު ޕޮލިހަށް ވަނީ ފޮނުވާފަ.",
+     "narration_english": "But she could not hide the tremble in her voice. 'Don't try to deceive anyone any more, Ahna. All this evidence has already been sent to the police.",
+     "crop": "medium",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      21.8,
+      0.0,
+      71.5,
+      84.7
+     ]
+    }
+   ],
+   "prompt_attempts": [],
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.107,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 57.5,
+    "y_pct": 32.2,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_014",
+   "startMs": 337061,
+   "endMs": 356731,
+   "new_image_reason": "action change: Zoya abandons Ahna and flees",
+   "characters": [
+    "zoya",
+    "ahna"
+   ],
+   "location": "a long cool-white corridor of ADK Hospital in Malé, pale grey polished floor, a row of plastic waiting chairs along the wall, frosted glass doors, fluorescent ceiling lights and a window at the far end, no signs",
+   "location_key": "corridor",
+   "mood": "cool white hospital light with warm amber accents from the far window, emotionally charged",
+   "visual": "Zoya turning away and hurrying off down the corridor in panic, glancing back over her shoulder; Ahna left standing alone in the foreground, stunned and trembling",
+   "camera": "medium wide",
+   "image": "images/beat_014.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "hospital_corridor",
+   "shots": [
+    {
+     "id": "shot_038",
+     "startMs": 337061,
+     "endMs": 346971,
+     "narration_dhivehi": "ލަޔާލީގެ ގެއަށް ދިޔަ ޕޮލިސް ޓީމު މިހާރު އެ އަންނަނީ ކަލޭ ހައްޔަރުކުރަން މިތަނަށް.\" ރަފްހާން ސާބިތުކަމާއެކު ބުންޏެވެ. ޒޯޔާ ބިރުން ހަޅޭއްލަވައިގަތެވެ. \"އަހްނާ!",
+     "narration_english": "The police team that went to Layaali's house is on its way here now to arrest you,' Rafhaan said firmly. Zoya shrieked in fear. 'Ahna!",
+     "crop": "full",
+     "motion": "pan left",
+     "sfx": [
+      {
+       "name": "gasp",
+       "atMs": 345091,
+       "gainDb": -18,
+       "word": "ހަޅޭއްލަވައިގަތެވެ."
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_039",
+     "startMs": 346971,
+     "endMs": 356731,
+     "narration_dhivehi": "އަހަރެން ބުނީމެއްނު މިކަން ނުކުރާށޭ! އަހަރެން މީގެ ތެރެއަށް ނުވައްދާތި!\" ޒޯޔާ ވަގުތުން އަހްނާ ދޫކޮށްލާފައި އެތަނުން ދުވެފައި ކަހަލަ ގޮތަކަށް ހިނގައްޖެއެވެ.",
+     "narration_english": "I told you not to do this! Don't drag me into this!' Zoya instantly let go of Ahna and fled from there almost at a run.",
+     "crop": "tight",
+     "motion": "slow pull-out",
+     "sfx": [
+      {
+       "name": "footsteps_pavement",
+       "atMs": 354491,
+       "gainDb": -18,
+       "word": "ދުވެފައި"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      0.0,
+      0.0,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Zoya; reference image 2 is Ahna), create a new scene: Cinematic semi-realistic digital illustration in the polished look of a romantic drama book cover, soft natural light with warm golden-hour glow, rich palette of deep plum, burgundy, warm amber and soft city-dusk blues, gentle film grain, shallow depth of field with soft bokeh, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and calm, uncluttered space at the bottom for a logo.\nScene: Zoya turning away and hurrying off down the corridor in panic, glancing back over her shoulder; Ahna left standing alone in the foreground, stunned and trembling. Location: a long cool-white corridor of ADK Hospital in Malé, pale grey polished floor, a row of plastic waiting chairs along the wall, frosted glass doors, fluorescent ceiling lights and a window at the far end, no signs. Camera: medium wide.\nCharacters: Zoya: a slim Maldivian woman in her late 20s with light-brown skin, a narrow face, perfectly shaped eyebrows, bold makeup and a mocking half smile; wears an emerald-green satin hijab fully covering her hair and neck and a long-sleeved ankle-length black coat-dress with gold buttons; long manicured nails. Ahna: a slim tall Maldivian young woman in her mid 20s with fair light skin, strikingly beautiful with high cheekbones, sharp winged eyeliner, glossy deep-red lips and haughty dark eyes; wears a luxurious ankle-length black abaya with ornate gold-embroidered cuffs and a deep burgundy satin hijab fully covering her hair and neck.\nMood/lighting: cool white hospital light with warm amber accents from the far window, emotionally charged.\nModest Maldivian clothing, culturally respectful, no violence shown, no text, no letters, no writing, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.214,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 28.2,
+    "y_pct": 22.3,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_015",
+   "startMs": 356731,
+   "endMs": 374142,
+   "new_image_reason": "focus moves to Layaali and Aminath: tears of gratitude",
+   "characters": [
+    "layaali",
+    "aminath"
+   ],
+   "location": "a long cool-white corridor of ADK Hospital in Malé, pale grey polished floor, a row of plastic waiting chairs along the wall, frosted glass doors, fluorescent ceiling lights and a window at the far end, no signs",
+   "location_key": "corridor",
+   "mood": "cool white hospital light with warm amber accents from the far window, emotionally charged",
+   "visual": "Layaali and her mother Aminath standing together by the corridor wall, amazed and speechless; tears of gratitude running down Layaali's cheeks, her eyes lifted upward, her hands softly cupped in front of her in thanks to God",
+   "camera": "medium shot",
+   "image": "images/beat_015.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "hospital_corridor",
+   "shots": [
+    {
+     "id": "shot_040",
+     "startMs": 356731,
+     "endMs": 364011,
+     "narration_dhivehi": "ލަޔާލީ އާއި އޭނާގެ މަންމަ އާމިނަތު ތިބީ ހައިރާންވެ ބަސްހުއްޓިފައެވެ. ބޭއިންސާފުގެ އަނދިރި މަޅިން ލަޔާލީ ސަލާމަތްވީއެވެ.",
+     "narration_english": "Layaali and her mother Aminath stood amazed and speechless. Layaali had been saved from the dark pit of injustice.",
+     "crop": "full",
+     "motion": "pan right",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_041",
+     "startMs": 364011,
+     "endMs": 374142,
+     "narration_dhivehi": "އޭނާގެ ލޮލުން އޮހޮރުނީ ﷲ އަށް ޝުކުރުވެރިވުމުގެ ކަރުނައެވެ. އެ ވަގުތު އޮޕަރޭޝަން ތިއޭޓަރުގެ ދޮރު ހުޅުވުނެވެ. އިސް ޑޮކްޓަރު ބޭރަށް ނިކުމެ މޫނުމަތީގައި ހުރި މާސްކު ނެގިއެވެ.",
+     "narration_english": "Tears of gratitude to Allah flowed from her eyes. At that moment the operation theatre door opened. The senior doctor came out and took the mask off his face.",
+     "crop": "tight",
+     "motion": "slow push-in",
+     "sfx": [
+      {
+       "name": "door_open",
+       "atMs": 369652,
+       "gainDb": -16,
+       "word": "ހުޅުވުނެވެ."
+      }
+     ],
+     "hum": true,
+     "crop_rect_pct": [
+      39.1,
+      0.0,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Layaali; reference image 2 is Aminath), create a new scene: Cinematic semi-realistic digital illustration in the polished look of a romantic drama book cover, soft natural light with warm golden-hour glow, rich palette of deep plum, burgundy, warm amber and soft city-dusk blues, gentle film grain, shallow depth of field with soft bokeh, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and calm, uncluttered space at the bottom for a logo.\nScene: Layaali and her mother Aminath standing together by the corridor wall, amazed and speechless; tears of gratitude running down Layaali's cheeks, her eyes lifted upward, her hands softly cupped in front of her in thanks to God. Location: a long cool-white corridor of ADK Hospital in Malé, pale grey polished floor, a row of plastic waiting chairs along the wall, frosted glass doors, fluorescent ceiling lights and a window at the far end, no signs. Camera: medium shot.\nCharacters: Layaali: a Maldivian young woman in her mid 20s with warm light-brown skin, a soft oval face, large warm brown eyes with long lashes, dark softly arched eyebrows and gentle full lips, slim build; wears a loose ankle-length black abaya with ruffled mauve floral cuffs and a black chiffon hijab fully covering her hair and neck. Aminath: a short plump Maldivian woman in her early 50s with warm medium-brown skin, a round gentle face and tired kind eyes; wears a faded lilac floral long-sleeved ankle-length cotton dress and a plain white cotton headscarf covering her hair and neck.\nMood/lighting: cool white hospital light with warm amber accents from the far window, emotionally charged.\nModest Maldivian clothing, culturally respectful, no violence shown, no text, no letters, no writing, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.209,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 68.8,
+    "y_pct": 33.2,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_016",
+   "startMs": 374142,
+   "endMs": 418733,
+   "new_image_reason": "characters change: the doctor comes out of the operation theatre",
+   "characters": [
+    "doctor",
+    "layaali",
+    "aminath"
+   ],
+   "location": "a long cool-white corridor of ADK Hospital in Malé, pale grey polished floor, a row of plastic waiting chairs along the wall, frosted glass doors, fluorescent ceiling lights and a window at the far end, no signs",
+   "location_key": "corridor",
+   "mood": "cool white hospital light with warm amber accents from the far window, emotionally charged",
+   "visual": "the senior doctor in a surgical cap and white coat just stepping out of the operation theatre double doors, pulling his surgical mask down from his face with a worried look; Layaali has run up and stopped about two steps in front of him, not touching him, her hands clasped together at her chest, pleading, Aminath anxious just behind her with her hand on her daughter's shoulder",
+   "camera": "medium shot, eye level",
+   "image": "images/beat_016.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "hospital_corridor",
+   "shots": [
+    {
+     "id": "shot_042",
+     "startMs": 374142,
+     "endMs": 384492,
+     "narration_dhivehi": "އޭނާގެ މޫނުމަތިން ފެންނަމުންދިޔައީ ހާސްކަމެވެ. \"ޑޮކްޓަރު! އަޅުގަނޑުގެ ބައްޕަ ކިހިނެއް؟\" ލަޔާލީ ދުވެފައި ގޮސް ޑޮކްޓަރުގެ ކުރިމަތީގައި ހުއްޓުނެވެ.",
+     "narration_english": "His face showed worry. 'Doctor! How is my father?' Layaali ran up and stopped in front of the doctor.",
+     "crop": "full",
+     "motion": "pan up",
+     "sfx": [
+      {
+       "name": "footsteps_pavement",
+       "atMs": 381252,
+       "gainDb": -22,
+       "word": "ދުވެފައި"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_043",
+     "startMs": 384492,
+     "endMs": 391612,
+     "narration_dhivehi": "\"އޮޕަރޭޝަން ކާމިޔާބު. ނަމަވެސް... ބަލިމީހާގެ ހާލަތު އަދިވެސް ވަރަށް ނާޒުކު.\" ޑޮކްޓަރު ފުން ނޭވާއެއްލިއެވެ.",
+     "narration_english": "'The operation was successful. But... the patient's condition is still very critical.' The doctor took a deep breath.",
+     "crop": "tight",
+     "motion": "slow pull-out",
+     "sfx": [
+      {
+       "name": "sigh",
+       "atMs": 390672,
+       "gainDb": -18,
+       "word": "ނޭވާއެއްލިއެވެ."
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      28.4,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_044",
+     "startMs": 391612,
+     "endMs": 400703,
+     "narration_dhivehi": "\"ބަލިމީހާއަށް ބޭނުންވަނީ ޚާއްޞަ ލޭގެ ގްރޫޕެއް. އެއީ 'އޯ ނެގަޓިވް' ލޭ. ހޮސްޕިޓަލުގެ ބްލަޑް ބޭންކުގައި މިވަގުތު އެ ގްރޫޕްގެ ލެޔެއް ނެތް.",
+     "narration_english": "'The patient needs a special blood group. O-negative blood. Right now the hospital blood bank has none of that group.",
+     "crop": "full",
+     "motion": "pan down",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_045",
+     "startMs": 400703,
+     "endMs": 409753,
+     "narration_dhivehi": "ވީހާވެސް އަވަހަކަށް ލޭ ހޯދަން އެބަޖެހޭ. އެހެން ނޫނީ ފުރާނައަށް ނުރައްކާވެދާނެ.\" \"އޯ ނެގެޓިވް؟\" ލަޔާލީ އާއި އާމިނަތުގެ ކަރުއެލުނެވެ.",
+     "narration_english": "We must find blood as soon as possible. Otherwise his life may be in danger.' 'O-negative?' Layaali's and Aminath's throats tightened.",
+     "crop": "medium",
+     "motion": "static drift",
+     "sfx": [
+      {
+       "name": "gasp",
+       "atMs": 408613,
+       "gainDb": -20,
+       "word": "ކަރުއެލުނެވެ."
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      22.4,
+      0.0,
+      71.5,
+      84.7
+     ]
+    },
+    {
+     "id": "shot_046",
+     "startMs": 409753,
+     "endMs": 418733,
+     "narration_dhivehi": "އެއީ ވަރަށް މަދުން ނޫނީ ނުލިބޭ ލޭގެ ގްރޫޕެކެވެ. އެމީހުންގެ އާއިލާގެ އެއްވެސް މީހެއްގެ ހަށިގަނޑުގައި އެ ލެޔެއް ނެތެވެ. \"އަހަރެންގެ ލެޔަކީ އޯ ނެގަޓިވް.\"",
+     "narration_english": "It is a very rare blood group. No one in their family has that blood. 'My blood is O-negative.'",
+     "crop": "tight",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      28.4,
+      0.0,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Doctor; reference image 2 is Layaali; reference image 3 is Aminath), create a new scene: Cinematic semi-realistic digital illustration in the polished look of a romantic drama book cover, soft natural light with warm golden-hour glow, rich palette of deep plum, burgundy, warm amber and soft city-dusk blues, gentle film grain, shallow depth of field with soft bokeh, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and calm, uncluttered space at the bottom for a logo.\nScene: the senior doctor in a surgical cap and white coat just stepping out of the operation theatre double doors, pulling his surgical mask down from his face with a worried look; Layaali has run up and stopped about two steps in front of him, not touching him, her hands clasped together at her chest, pleading, Aminath anxious just behind her with her hand on her daughter's shoulder. Location: a long cool-white corridor of ADK Hospital in Malé, pale grey polished floor, a row of plastic waiting chairs along the wall, frosted glass doors, fluorescent ceiling lights and a window at the far end, no signs. Camera: medium shot, eye level.\nCharacters: the doctor: a Maldivian man in his late 40s with medium-brown skin, short black hair greying at the temples and a neat short greying beard; wears a white doctor's coat over a light-blue long-sleeved shirt, dark trousers and a stethoscope around his neck. Layaali: a Maldivian young woman in her mid 20s with warm light-brown skin, a soft oval face, large warm brown eyes with long lashes, dark softly arched eyebrows and gentle full lips, slim build; wears a loose ankle-length black abaya with ruffled mauve floral cuffs and a black chiffon hijab fully covering her hair and neck. Aminath: a short plump Maldivian woman in her early 50s with warm medium-brown skin, a round gentle face and tired kind eyes; wears a faded lilac floral long-sleeved ankle-length cotton dress and a plain white cotton headscarf covering her hair and neck.\nMood/lighting: cool white hospital light with warm amber accents from the far window, emotionally charged.\nModest Maldivian clothing, culturally respectful, no violence shown, no text, no letters, no writing, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.35,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 58.1,
+    "y_pct": 30.2,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_017",
+   "startMs": 418733,
+   "endMs": 435494,
+   "new_image_reason": "emotional turning point: Ahna steps forward in tears",
+   "characters": [
+    "ahna",
+    "layaali",
+    "rafhaan"
+   ],
+   "location": "a long cool-white corridor of ADK Hospital in Malé, pale grey polished floor, a row of plastic waiting chairs along the wall, frosted glass doors, fluorescent ceiling lights and a window at the far end, no signs",
+   "location_key": "corridor",
+   "mood": "cool white hospital light with warm amber accents from the far window, emotionally charged",
+   "visual": "in the corridor Ahna stepping forward with tears streaming down her face, all her pride gone, one hand on her chest; in the foreground Layaali and Rafhaan turned towards her in surprise, seen partly from behind",
+   "camera": "medium shot over their shoulders",
+   "image": "images/beat_017.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "hospital_corridor",
+   "shots": [
+    {
+     "id": "shot_047",
+     "startMs": 418733,
+     "endMs": 426664,
+     "narration_dhivehi": "ކުއްލިއަކަށް ފަހަތުން އިވުނު އަޑާއެކު އެންމެން އެދިމާލަށް ބަލާލިއެވެ. އެއީ އަހްނާއެވެ. އޭނާގެ ދެލޮލުން ކަރުނަ އޮހޮރެމުންދިޔައެވެ.",
+     "narration_english": "At the voice suddenly behind them, everyone looked that way. It was Ahna. Tears were flowing from her eyes.",
+     "crop": "full",
+     "motion": "pan left",
+     "sfx": [],
+     "hum": true,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_048",
+     "startMs": 426664,
+     "endMs": 435494,
+     "narration_dhivehi": "އޭނާގެ ބޮޑާކަމާއި ރުޅިވެރިކަން ވަގުތުން ފިލައިދިޔަ ކަހަލައެވެ. \"އަހަރެން... އަހަރެން ލޭދީފާނަން. ރަފްހާން ލަޔާލީ... އަހަރެންނަށް މާފުކުރޭ.",
+     "narration_english": "Her pride and anger seemed to have vanished at once. 'I... I'll give the blood. Rafhaan, Layaali... forgive me.",
+     "crop": "tight",
+     "motion": "slow pull-out",
+     "sfx": [
+      {
+       "name": "sob_breath",
+       "atMs": 434874,
+       "gainDb": -24,
+       "word": "މާފުކުރޭ."
+      }
+     ],
+     "hum": true,
+     "crop_rect_pct": [
+      18.1,
+      0.0,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Ahna; reference image 2 is Layaali; reference image 3 is Rafhaan), create a new scene: Cinematic semi-realistic digital illustration in the polished look of a romantic drama book cover, soft natural light with warm golden-hour glow, rich palette of deep plum, burgundy, warm amber and soft city-dusk blues, gentle film grain, shallow depth of field with soft bokeh, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and calm, uncluttered space at the bottom for a logo.\nScene: in the corridor Ahna stepping forward with tears streaming down her face, all her pride gone, one hand on her chest; in the foreground Layaali and Rafhaan turned towards her in surprise, seen partly from behind. Location: a long cool-white corridor of ADK Hospital in Malé, pale grey polished floor, a row of plastic waiting chairs along the wall, frosted glass doors, fluorescent ceiling lights and a window at the far end, no signs. Camera: medium shot over their shoulders.\nCharacters: Ahna: a slim tall Maldivian young woman in her mid 20s with fair light skin, strikingly beautiful with high cheekbones, sharp winged eyeliner, glossy deep-red lips and haughty dark eyes; wears a luxurious ankle-length black abaya with ornate gold-embroidered cuffs and a deep burgundy satin hijab fully covering her hair and neck. Layaali: a Maldivian young woman in her mid 20s with warm light-brown skin, a soft oval face, large warm brown eyes with long lashes, dark softly arched eyebrows and gentle full lips, slim build; wears a loose ankle-length black abaya with ruffled mauve floral cuffs and a black chiffon hijab fully covering her hair and neck. Rafhaan: a tall fit Maldivian man about 30 with light-brown skin, short dark-brown hair neatly swept back, a well-groomed short dark beard and warm dark-brown eyes; wears a tailored black suit, a crisp white shirt, a slim dark-grey tie and a silver wristwatch.\nMood/lighting: cool white hospital light with warm amber accents from the far window, emotionally charged.\nModest Maldivian clothing, culturally respectful, no violence shown, no text, no letters, no writing, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.065,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 47.9,
+    "y_pct": 23.1,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_018",
+   "startMs": 435494,
+   "endMs": 450324,
+   "new_image_reason": "action change: Ahna kneels before Layaali",
+   "characters": [
+    "ahna",
+    "layaali"
+   ],
+   "location": "a long cool-white corridor of ADK Hospital in Malé, pale grey polished floor, a row of plastic waiting chairs along the wall, frosted glass doors, fluorescent ceiling lights and a window at the far end, no signs",
+   "location_key": "corridor",
+   "mood": "cool white hospital light with warm amber accents from the far window, emotionally charged",
+   "visual": "Ahna kneeling on the corridor floor in front of Layaali, weeping, head bowed, her hands clasped in plea; Layaali standing before her, stunned, with tears in her eyes",
+   "camera": "medium wide, eye level",
+   "image": "images/beat_018.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "hospital_corridor",
+   "shots": [
+    {
+     "id": "shot_049",
+     "startMs": 435494,
+     "endMs": 442674,
+     "narration_dhivehi": "އަހަރެން ހަސަދަވެރިކަމުގައި މާ ބޮޑަށް ބަދަލުވީ.\" އަހްނާ ރޮމުން ލަޔާލީގެ ކުރިމަތީގައި ކަކޫ މައްޗަށް ތިރިވިއެވެ.",
+     "narration_english": "I changed so much in my jealousy.' Weeping, Ahna sank to her knees in front of Layaali.",
+     "crop": "full",
+     "motion": "pan right",
+     "sfx": [
+      {
+       "name": "cloth_rustle",
+       "atMs": 441954,
+       "gainDb": -20,
+       "word": "ތިރިވިއެވެ."
+      }
+     ],
+     "hum": true,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_050",
+     "startMs": 442674,
+     "endMs": 450324,
+     "narration_dhivehi": "ލަޔާލީގެ ދިރިއުޅުން ހަލާކުކޮށްލަން އުޅުނު ހަތުރު މިއަދު އޭނާގެ ބައްޕަގެ ފުރާނަ ސަލާމަތްކުރާނެ ހަމައެކަނި އުންމީދަށް ވީއެވެ.",
+     "narration_english": "The enemy who had tried to destroy Layaali's life had today become the only hope of saving her father's life.",
+     "crop": "tight",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      38.9,
+      0.0,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Ahna; reference image 2 is Layaali), create a new scene: Cinematic semi-realistic digital illustration in the polished look of a romantic drama book cover, soft natural light with warm golden-hour glow, rich palette of deep plum, burgundy, warm amber and soft city-dusk blues, gentle film grain, shallow depth of field with soft bokeh, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and calm, uncluttered space at the bottom for a logo.\nScene: Ahna kneeling on the corridor floor in front of Layaali, weeping, head bowed, her hands clasped in plea; Layaali standing before her, stunned, with tears in her eyes. Location: a long cool-white corridor of ADK Hospital in Malé, pale grey polished floor, a row of plastic waiting chairs along the wall, frosted glass doors, fluorescent ceiling lights and a window at the far end, no signs. Camera: medium wide, eye level.\nCharacters: Ahna: a slim tall Maldivian young woman in her mid 20s with fair light skin, strikingly beautiful with high cheekbones, sharp winged eyeliner, glossy deep-red lips and haughty dark eyes; wears a luxurious ankle-length black abaya with ornate gold-embroidered cuffs and a deep burgundy satin hijab fully covering her hair and neck. Layaali: a Maldivian young woman in her mid 20s with warm light-brown skin, a soft oval face, large warm brown eyes with long lashes, dark softly arched eyebrows and gentle full lips, slim build; wears a loose ankle-length black abaya with ruffled mauve floral cuffs and a black chiffon hijab fully covering her hair and neck.\nMood/lighting: cool white hospital light with warm amber accents from the far window, emotionally charged.\nModest Maldivian clothing, culturally respectful, no violence shown, no text, no letters, no writing, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.054,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 68.7,
+    "y_pct": 15.8,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_019",
+   "startMs": 450324,
+   "endMs": 468425,
+   "new_image_reason": "action change: Layaali forgives Ahna and lifts her up",
+   "characters": [
+    "layaali",
+    "ahna"
+   ],
+   "location": "a long cool-white corridor of ADK Hospital in Malé, pale grey polished floor, a row of plastic waiting chairs along the wall, frosted glass doors, fluorescent ceiling lights and a window at the far end, no signs",
+   "location_key": "corridor",
+   "mood": "cool white hospital light with warm amber accents from the far window, emotionally charged",
+   "visual": "Layaali bending to take Ahna's hands and raising her up from her knees, both women in tears, Layaali's face full of forgiveness; in the background two female nurses in white waiting by an open door",
+   "camera": "medium two-shot",
+   "image": "images/beat_019.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "hospital_corridor",
+   "shots": [
+    {
+     "id": "shot_051",
+     "startMs": 450324,
+     "endMs": 459755,
+     "narration_dhivehi": "ލަޔާލީ ވަގުތުން ކުރިއަށް ޖެހި އަހްނާގެ އަތުގައި ހިފާ އުފުލާލިއެވެ. \"އަހްނާ... އަވަހަށް ހިނގާ ލޭދޭން. އަހަރެންގެ ހިތުގައި އެއްވެސް ޝަކުވާއެއް ނެތް.",
+     "narration_english": "Layaali at once stepped forward, took Ahna by the hand and lifted her up. 'Ahna... come quickly, let's give the blood. There is no grudge in my heart.",
+     "crop": "full",
+     "motion": "pan up",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_052",
+     "startMs": 459755,
+     "endMs": 468425,
+     "narration_dhivehi": "ބައްޕަ ސަލާމަތްކޮށްދީ.\" ލަޔާލީ ރޮމުން ބުންޏެވެ. އެތަނުގައި އެވަގުތު ތިބި ދެ ނަރުހުން އަހްނާ ގޮވައިގެން ލޭނަގާ ކޮޓަރިއަށް ވަނެވެ.",
+     "narration_english": "Save my father,' Layaali said, crying. The two nurses there took Ahna into the blood-collection room.",
+     "crop": "tight",
+     "motion": "slow pull-out",
+     "sfx": [
+      {
+       "name": "sob_breath",
+       "atMs": 462455,
+       "gainDb": -24,
+       "word": "ރޮމުން"
+      },
+      {
+       "name": "door_close",
+       "atMs": 467515,
+       "gainDb": -22,
+       "word": "ވަނެވެ."
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      11.8,
+      12.7,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Layaali; reference image 2 is Ahna), create a new scene: Cinematic semi-realistic digital illustration in the polished look of a romantic drama book cover, soft natural light with warm golden-hour glow, rich palette of deep plum, burgundy, warm amber and soft city-dusk blues, gentle film grain, shallow depth of field with soft bokeh, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and calm, uncluttered space at the bottom for a logo.\nScene: Layaali bending to take Ahna's hands and raising her up from her knees, both women in tears, Layaali's face full of forgiveness; in the background two female nurses in white waiting by an open door. Location: a long cool-white corridor of ADK Hospital in Malé, pale grey polished floor, a row of plastic waiting chairs along the wall, frosted glass doors, fluorescent ceiling lights and a window at the far end, no signs. Camera: medium two-shot.\nCharacters: Layaali: a Maldivian young woman in her mid 20s with warm light-brown skin, a soft oval face, large warm brown eyes with long lashes, dark softly arched eyebrows and gentle full lips, slim build; wears a loose ankle-length black abaya with ruffled mauve floral cuffs and a black chiffon hijab fully covering her hair and neck. Ahna: a slim tall Maldivian young woman in her mid 20s with fair light skin, strikingly beautiful with high cheekbones, sharp winged eyeliner, glossy deep-red lips and haughty dark eyes; wears a luxurious ankle-length black abaya with ornate gold-embroidered cuffs and a deep burgundy satin hijab fully covering her hair and neck.\nMood/lighting: cool white hospital light with warm amber accents from the far window, emotionally charged.\nModest Maldivian clothing, culturally respectful, no violence shown, no text, no letters, no writing, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.345,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 41.5,
+    "y_pct": 47.9,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_020",
+   "startMs": 468425,
+   "endMs": 489956,
+   "new_image_reason": "focus moves to Rafhaan watching Layaali",
+   "characters": [
+    "rafhaan"
+   ],
+   "location": "a long cool-white corridor of ADK Hospital in Malé, pale grey polished floor, a row of plastic waiting chairs along the wall, frosted glass doors, fluorescent ceiling lights and a window at the far end, no signs",
+   "location_key": "corridor",
+   "mood": "cool white hospital light with warm amber accents from the far window, emotionally charged",
+   "visual": "Rafhaan standing alone by the corridor wall, gazing into the distance with deep, tender admiration and a faint smile, warm light from the far window on his face; far down the corridor, small and softly out of focus, a young woman in a black abaya and black hijab walking away",
+   "camera": "medium close-up",
+   "image": "images/beat_020.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "hospital_corridor",
+   "shots": [
+    {
+     "id": "shot_053",
+     "startMs": 468425,
+     "endMs": 480635,
+     "narration_dhivehi": "ރަފްހާން ލަޔާލީއާ ދިމާލަށް ބަލަހައްޓައިގެން ހުއްޓެވެ. ލަޔާލީގެ އެ ހިތްހެޔޮކަމާއި މާފުކުރުމުގެ މާތް ސިފަ ފެނިފައި ރަފްހާންގެ ހިތުގައި އޭނާއަށްޓަކައި އޮތް ލޯބި އެތައް ގުނައަކަށް އިތުރު ވެގެންދިޔައެވެ.",
+     "narration_english": "Rafhaan stood watching Layaali. Seeing her goodness of heart and the noble grace of forgiveness, the love in Rafhaan's heart for her grew many times over.",
+     "crop": "full",
+     "motion": "pan down",
+     "sfx": [],
+     "hum": true,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_054",
+     "startMs": 480635,
+     "endMs": 489956,
+     "narration_dhivehi": "މިއީ ހަމައެކަނި ރީތި ކުއްޖެއް ނޫނެވެ. މިއީ މަލާއިކަތެއް ފަދަ ސާފު ހިތެއްގެ ވެރިއެކެވެ. ގަޑިއެއްހާއިރު ފަހުން ޑޮކްޓަރު ނިކުމެ އުފާވެރި ޚަބަރު ދިނެވެ.",
+     "narration_english": "She was not just a beautiful girl. She had a heart as pure as an angel's. About an hour later the doctor came out and gave the happy news.",
+     "crop": "tight",
+     "motion": "static drift",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      1.6,
+      0.0,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Rafhaan), create a new scene: Cinematic semi-realistic digital illustration in the polished look of a romantic drama book cover, soft natural light with warm golden-hour glow, rich palette of deep plum, burgundy, warm amber and soft city-dusk blues, gentle film grain, shallow depth of field with soft bokeh, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and calm, uncluttered space at the bottom for a logo.\nScene: Rafhaan standing alone by the corridor wall, gazing into the distance with deep, tender admiration and a faint smile, warm light from the far window on his face; far down the corridor, small and softly out of focus, a young woman in a black abaya and black hijab walking away. Location: a long cool-white corridor of ADK Hospital in Malé, pale grey polished floor, a row of plastic waiting chairs along the wall, frosted glass doors, fluorescent ceiling lights and a window at the far end, no signs. Camera: medium close-up.\nCharacters: Rafhaan: a tall fit Maldivian man about 30 with light-brown skin, short dark-brown hair neatly swept back, a well-groomed short dark beard and warm dark-brown eyes; wears a tailored black suit, a crisp white shirt, a slim dark-grey tie and a silver wristwatch.\nMood/lighting: cool white hospital light with warm amber accents from the far window, emotionally charged.\nModest Maldivian clothing, culturally respectful, no violence shown, no text, no letters, no writing, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.115,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 31.3,
+    "y_pct": 23.1,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_021",
+   "startMs": 489956,
+   "endMs": 497866,
+   "new_image_reason": "time jump and action change: good news, mother and daughter embrace",
+   "characters": [
+    "layaali",
+    "aminath",
+    "doctor"
+   ],
+   "location": "a long cool-white corridor of ADK Hospital in Malé, pale grey polished floor, a row of plastic waiting chairs along the wall, frosted glass doors, fluorescent ceiling lights and a window at the far end, no signs",
+   "location_key": "corridor",
+   "mood": "cool white hospital light with warm amber accents from the far window, emotionally charged",
+   "visual": "Layaali and her mother Aminath hugging each other tightly and weeping with relief and joy, the smiling doctor standing beside them having just given good news",
+   "camera": "medium shot",
+   "image": "images/beat_021.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "hospital_corridor",
+   "shots": [
+    {
+     "id": "shot_055",
+     "startMs": 489956,
+     "endMs": 497866,
+     "narration_dhivehi": "ލޭ ލިބުމާއެކު ޤާސިމްގެ ހާލަތު ރަނގަޅުވާން ފަށައިފިއެވެ. އާމިނަތު އާއި ލަޔާލީ އެކަކު އަނެކަކުގެ ގަޔަށް ބާރަށް ބައްދާލާފައި ރޮއިގަތެވެ.",
+     "narration_english": "With the blood, Qaasim's condition had begun to improve. Aminath and Layaali held each other tightly and wept.",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [
+      {
+       "name": "sob_breath",
+       "atMs": 497416,
+       "gainDb": -24,
+       "word": "ރޮއިގަތެވެ."
+      }
+     ],
+     "hum": true,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Layaali; reference image 2 is Aminath; reference image 3 is Doctor), create a new scene: Cinematic semi-realistic digital illustration in the polished look of a romantic drama book cover, soft natural light with warm golden-hour glow, rich palette of deep plum, burgundy, warm amber and soft city-dusk blues, gentle film grain, shallow depth of field with soft bokeh, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and calm, uncluttered space at the bottom for a logo.\nScene: Layaali and her mother Aminath hugging each other tightly and weeping with relief and joy, the smiling doctor standing beside them having just given good news. Location: a long cool-white corridor of ADK Hospital in Malé, pale grey polished floor, a row of plastic waiting chairs along the wall, frosted glass doors, fluorescent ceiling lights and a window at the far end, no signs. Camera: medium shot.\nCharacters: Layaali: a Maldivian young woman in her mid 20s with warm light-brown skin, a soft oval face, large warm brown eyes with long lashes, dark softly arched eyebrows and gentle full lips, slim build; wears a loose ankle-length black abaya with ruffled mauve floral cuffs and a black chiffon hijab fully covering her hair and neck. Aminath: a short plump Maldivian woman in her early 50s with warm medium-brown skin, a round gentle face and tired kind eyes; wears a faded lilac floral long-sleeved ankle-length cotton dress and a plain white cotton headscarf covering her hair and neck. the doctor: a Maldivian man in his late 40s with medium-brown skin, short black hair greying at the temples and a neat short greying beard; wears a white doctor's coat over a light-blue long-sleeved shirt, dark trousers and a stethoscope around his neck.\nMood/lighting: cool white hospital light with warm amber accents from the far window, emotionally charged.\nModest Maldivian clothing, culturally respectful, no violence shown, no text, no letters, no writing, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.355,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 78.7,
+    "y_pct": 18.8,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_022",
+   "startMs": 497866,
+   "endMs": 538097,
+   "new_image_reason": "characters change: Ahna comes out and the police arrive to take her",
+   "characters": [
+    "ahna",
+    "rafhaan",
+    "layaali"
+   ],
+   "location": "a long cool-white corridor of ADK Hospital in Malé, pale grey polished floor, a row of plastic waiting chairs along the wall, frosted glass doors, fluorescent ceiling lights and a window at the far end, no signs",
+   "location_key": "corridor",
+   "mood": "cool white hospital light with warm amber accents from the far window, emotionally charged",
+   "visual": "Ahna, pale and exhausted yet calm, head slightly bowed, walking down the hospital corridor between two Maldivian police officers in plain dark-blue uniforms with no insignia or text, her hands hidden in her long sleeves; she glances back over her shoulder towards Rafhaan and Layaali, who watch from the foreground at a distance",
+   "camera": "medium wide from behind Rafhaan and Layaali",
+   "image": "images/beat_022.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": "other",
+   "safe_substitution": "arrest shown as officers walking beside her; handcuffs not shown",
+   "ambience": "hospital_corridor",
+   "shots": [
+    {
+     "id": "shot_056",
+     "startMs": 497866,
+     "endMs": 506026,
+     "narration_dhivehi": "އަހްނާ ބޭރަށް ނިކުތްއިރު އޭނާގެ މޫނުމަތިން ވަރުބަލިކަން ފެންނަން ހުއްޓެވެ. ނަމަވެސް އޭނާގެ ހިތަށް ވަނީ ބޮޑު ހަމަޖެހުމެއް ލިބިފައެވެ.",
+     "narration_english": "When Ahna came out, her face showed exhaustion. But her heart had found a great peace.",
+     "crop": "full",
+     "motion": "pan left",
+     "sfx": [
+      {
+       "name": "door_open",
+       "atMs": 498816,
+       "gainDb": -22,
+       "word": "ނިކުތްއިރު"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_057",
+     "startMs": 506026,
+     "endMs": 512406,
+     "narration_dhivehi": "އެ ވަގުތު ހޮސްޕިޓަލުގެ ކޮރިޑޯއިން ފުލުހުންގެ ދެ އޮފިސަރުން އަންނާތީ ފެނުނެވެ. އެމީހުން އައީ އަހްނާ ހައްޔަރުކުރާށެވެ.",
+     "narration_english": "Just then two police officers were seen coming down the hospital corridor. They had come to arrest Ahna.",
+     "crop": "tight",
+     "motion": "slow pull-out",
+     "sfx": [
+      {
+       "name": "footsteps_pavement",
+       "atMs": 509096,
+       "gainDb": -18,
+       "word": "އަންނާތީ"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      17.4,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_058",
+     "startMs": 512406,
+     "endMs": 522377,
+     "narration_dhivehi": "\"އަހްނާ ކުންފުނީގެ ފައިސާ ފޯޖްކުރުމާއި މީހަކު ފްރޭމްކުރަން އުޅުމުގެ ތުހުމަތުގައި ކަލޭ މިހާރު ތިއީ ހައްޔަރުގައި\" އޮފިސަރު ބުންޏެވެ. އަހްނާ ބޯޖަހާލިއެވެ.",
+     "narration_english": "'Ahna, you are now under arrest on charges of forgery with company money and trying to frame someone,' the officer said. Ahna bowed her head.",
+     "crop": "full",
+     "motion": "pan right",
+     "sfx": [
+      {
+       "name": "sigh",
+       "atMs": 521497,
+       "gainDb": -22,
+       "word": "ބޯޖަހާލިއެވެ."
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_059",
+     "startMs": 522377,
+     "endMs": 531247,
+     "narration_dhivehi": "އޭނާ ފިލާކަށް ނޫޅެއެވެ. އޭނާ ރަފްހާނާއި ލަޔާލީއާ ދިމާލަށް ބަލާލިއެވެ. \"ރަފްހާން... އަހަރެން ކުރި ކުށުގެ އަދަބު އަހަރެން ލިބިގަންނާނަން.",
+     "narration_english": "She did not try to run. She looked towards Rafhaan and Layaali. 'Rafhaan... I will accept the punishment for the wrong I did.",
+     "crop": "medium",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      11.3,
+      0.0,
+      71.5,
+      84.7
+     ]
+    },
+    {
+     "id": "shot_060",
+     "startMs": 531247,
+     "endMs": 538097,
+     "narration_dhivehi": "ލަޔާލީ ބައްޕައަށް އަވަސް ޝިފާއަކަށް އެދެން.\" އަހްނާ އަތުގައި ބިޑި އެޅުވުމުން ފުލުހުންނާއެކު ހިނގައިގަތެވެ.",
+     "narration_english": "Layaali, I pray your father recovers quickly.' With handcuffs on her hands, Ahna walked away with the police.",
+     "crop": "tight",
+     "motion": "pan up",
+     "sfx": [
+      {
+       "name": "footsteps_pavement",
+       "atMs": 537357,
+       "gainDb": -22,
+       "word": "ހިނގައިގަތެވެ."
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      17.4,
+      0.0,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Ahna; reference image 2 is Rafhaan; reference image 3 is Layaali), create a new scene: Cinematic semi-realistic digital illustration in the polished look of a romantic drama book cover, soft natural light with warm golden-hour glow, rich palette of deep plum, burgundy, warm amber and soft city-dusk blues, gentle film grain, shallow depth of field with soft bokeh, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and calm, uncluttered space at the bottom for a logo.\nScene: Ahna, pale and exhausted yet calm, head slightly bowed, walking down the hospital corridor between two Maldivian police officers in plain dark-blue uniforms with no insignia or text, her hands hidden in her long sleeves; she glances back over her shoulder towards Rafhaan and Layaali, who watch from the foreground at a distance. Location: a long cool-white corridor of ADK Hospital in Malé, pale grey polished floor, a row of plastic waiting chairs along the wall, frosted glass doors, fluorescent ceiling lights and a window at the far end, no signs. Camera: medium wide from behind Rafhaan and Layaali.\nCharacters: Ahna: a slim tall Maldivian young woman in her mid 20s with fair light skin, strikingly beautiful with high cheekbones, sharp winged eyeliner, glossy deep-red lips and haughty dark eyes; wears a luxurious ankle-length black abaya with ornate gold-embroidered cuffs and a deep burgundy satin hijab fully covering her hair and neck. Rafhaan: a tall fit Maldivian man about 30 with light-brown skin, short dark-brown hair neatly swept back, a well-groomed short dark beard and warm dark-brown eyes; wears a tailored black suit, a crisp white shirt, a slim dark-grey tie and a silver wristwatch. Layaali: a Maldivian young woman in her mid 20s with warm light-brown skin, a soft oval face, large warm brown eyes with long lashes, dark softly arched eyebrows and gentle full lips, slim build; wears a loose ankle-length black abaya with ruffled mauve floral cuffs and a black chiffon hijab fully covering her hair and neck.\nMood/lighting: cool white hospital light with warm amber accents from the far window, emotionally charged.\nModest Maldivian clothing, culturally respectful, no violence shown, no text, no letters, no writing, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.146,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 47.1,
+    "y_pct": 22.7,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_023",
+   "startMs": 538097,
+   "endMs": 565088,
+   "new_image_reason": "time and place change: sunset outside the hospital",
+   "characters": [
+    "rafhaan",
+    "layaali"
+   ],
+   "location": "outside ADK Hospital in Malé at sunset, a quiet paved forecourt with a low wall and potted palms, a golden sky over the city rooftops with a glimpse of the sea in the distance",
+   "location_key": "sunset",
+   "mood": "golden sunset light, warm amber and plum sky, peaceful, tender and hopeful",
+   "visual": "Rafhaan and Layaali standing outside the hospital facing each other at a respectful distance under a golden sunset sky, Rafhaan speaking warmly, Layaali listening in surprise",
+   "camera": "medium wide two-shot",
+   "image": "images/beat_023.png",
+   "reuse_of": null,
+   "transition_in": "black",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "city_day",
+   "shots": [
+    {
+     "id": "shot_061",
+     "startMs": 538097,
+     "endMs": 546298,
+     "narration_dhivehi": "ހޮސްޕިޓަލުގެ ބޭރުން އިރު އޮއްސެމުންދިޔައިރު އުޑުމަތީގައި ވަނީ ރީތި ރަންކުލައެކެވެ. ރަފްހާން ލަޔާލީގެ ކައިރިއަށް ޖެހިލިއެވެ. \"ލަޔާލީ...",
+     "narration_english": "Outside the hospital, as the sun was setting, the sky was a beautiful gold. Rafhaan moved closer to Layaali. 'Layaali...",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_062",
+     "startMs": 546298,
+     "endMs": 554968,
+     "narration_dhivehi": "މި ހުރިހާ ތޫފާނެއްގެ ފަހުން އަހަރެން ބޭނުންވަނީ ލަޔާލީއަށް ހަމަޖެހުމެއް ހޯދައިދޭން. ލަޔާލީގެ ވަޒީފާ މިހާރު ވަނީ އަނބުރާ ލިބިފަ. އަދި...",
+     "narration_english": "After all these storms, what I want is to give you peace. Your job has now been given back to you. And...",
+     "crop": "tight",
+     "motion": "pan down",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      20.3,
+      4.8,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_063",
+     "startMs": 554968,
+     "endMs": 565088,
+     "narration_dhivehi": "އަހްނާގެ މަގާމު މާލީ ޑިޕާޓްމަންޓްގެ ވެރިޔާގެ މަގާމު އަހަރެން ހަވާލުކުރަން ބޭނުންވަނީ ލަޔާލީއާ.\" \"ސަރ... އަޅުގަނޑު...\" ލަޔާލީ ހައިރާންވިއެވެ.",
+     "narration_english": "I want to hand Ahna's post — head of the finance department — to you, Layaali.' 'Sir... I...' Layaali was astonished.",
+     "crop": "full",
+     "motion": "static drift",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Rafhaan; reference image 2 is Layaali), create a new scene: Cinematic semi-realistic digital illustration in the polished look of a romantic drama book cover, soft natural light with warm golden-hour glow, rich palette of deep plum, burgundy, warm amber and soft city-dusk blues, gentle film grain, shallow depth of field with soft bokeh, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and calm, uncluttered space at the bottom for a logo.\nScene: Rafhaan and Layaali standing outside the hospital facing each other at a respectful distance under a golden sunset sky, Rafhaan speaking warmly, Layaali listening in surprise. Location: outside ADK Hospital in Malé at sunset, a quiet paved forecourt with a low wall and potted palms, a golden sky over the city rooftops with a glimpse of the sea in the distance. Camera: medium wide two-shot.\nCharacters: Rafhaan: a tall fit Maldivian man about 30 with light-brown skin, short dark-brown hair neatly swept back, a well-groomed short dark beard and warm dark-brown eyes; wears a tailored black suit, a crisp white shirt, a slim dark-grey tie and a silver wristwatch. Layaali: a Maldivian young woman in her mid 20s with warm light-brown skin, a soft oval face, large warm brown eyes with long lashes, dark softly arched eyebrows and gentle full lips, slim build; wears a loose ankle-length black abaya with ruffled mauve floral cuffs and a black chiffon hijab fully covering her hair and neck.\nMood/lighting: golden sunset light, warm amber and plum sky, peaceful, tender and hopeful.\nModest Maldivian clothing, culturally respectful, no violence shown, no text, no letters, no writing, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.443,
+    "halo": true
+   },
+   "focus": {
+    "x_pct": 50.0,
+    "y_pct": 40.0,
+    "face_detected": false
+   }
+  },
+  {
+   "id": "beat_024",
+   "startMs": 565088,
+   "endMs": 586189,
+   "new_image_reason": "emotional turning point: she calls him by his name, shy smile",
+   "characters": [
+    "layaali",
+    "rafhaan"
+   ],
+   "location": "outside ADK Hospital in Malé at sunset, a quiet paved forecourt with a low wall and potted palms, a golden sky over the city rooftops with a glimpse of the sea in the distance",
+   "location_key": "sunset",
+   "mood": "golden sunset light, warm amber and plum sky, peaceful, tender and hopeful",
+   "visual": "close-up of Layaali lowering her head shyly with a soft smile, eyes looking down, golden sunset light on her face; Rafhaan softly out of focus at a respectful distance behind her, smiling",
+   "camera": "close-up",
+   "image": "images/beat_024.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": "romance",
+   "safe_substitution": "he takes her hand in the narration (not married yet): no touch shown, only her shy smile at a distance",
+   "ambience": "city_day",
+   "shots": [
+    {
+     "id": "shot_064",
+     "startMs": 565088,
+     "endMs": 571878,
+     "narration_dhivehi": "\"ސަރ އެއް ނޫން. ލަޔާލީ.\" ރަފްހާން ލަޔާލީގެ އަތުގައި މަޑުމަޑުން ހިފާލިއެވެ. \"އަހަރެންގެ ނަމުން ގޮވާލަދީ.",
+     "narration_english": "'Not sir. Layaali.' Rafhaan gently took Layaali's hand. 'Call me by my name.",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_065",
+     "startMs": 571878,
+     "endMs": 579839,
+     "narration_dhivehi": "އަހަރެންގެ ހިތުގައި ޚާއްޞަ މަގާމެއް ވެސް މިހާރު ވަނީ ލަޔާލީއަށް ދެވިފަ.\" \"ރަފްހާން\" ލަޔާލީ މަޑުމަޑުން ލަދުން ހުރެފައި ގޮވާލިއެވެ.",
+     "narration_english": "A special place in my heart has also been given to you now.' 'Rafhaan,' Layaali called softly, shyly.",
+     "crop": "tight",
+     "motion": "pan left",
+     "sfx": [],
+     "hum": true,
+     "crop_rect_pct": [
+      5.3,
+      4.1,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_066",
+     "startMs": 579839,
+     "endMs": 586189,
+     "narration_dhivehi": "ލަޔާލީ އިސްދަށަށް ޖަހާލީ ލަދުންނެވެ. ނަމަވެސް އޭނާގެ ހިނިތުންވުމުން ރަފްހާނަށް ޖަވާބު ލިބުނެވެ.",
+     "narration_english": "Layaali lowered her head shyly. But her smile gave Rafhaan his answer.",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Layaali; reference image 2 is Rafhaan), create a new scene: Cinematic semi-realistic digital illustration in the polished look of a romantic drama book cover, soft natural light with warm golden-hour glow, rich palette of deep plum, burgundy, warm amber and soft city-dusk blues, gentle film grain, shallow depth of field with soft bokeh, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and calm, uncluttered space at the bottom for a logo.\nScene: close-up of Layaali lowering her head shyly with a soft smile, eyes looking down, golden sunset light on her face; Rafhaan softly out of focus at a respectful distance behind her, smiling. Location: outside ADK Hospital in Malé at sunset, a quiet paved forecourt with a low wall and potted palms, a golden sky over the city rooftops with a glimpse of the sea in the distance. Camera: close-up.\nCharacters: Layaali: a Maldivian young woman in her mid 20s with warm light-brown skin, a soft oval face, large warm brown eyes with long lashes, dark softly arched eyebrows and gentle full lips, slim build; wears a loose ankle-length black abaya with ruffled mauve floral cuffs and a black chiffon hijab fully covering her hair and neck. Rafhaan: a tall fit Maldivian man about 30 with light-brown skin, short dark-brown hair neatly swept back, a well-groomed short dark beard and warm dark-brown eyes; wears a tailored black suit, a crisp white shirt, a slim dark-grey tie and a silver wristwatch.\nMood/lighting: golden sunset light, warm amber and plum sky, peaceful, tender and hopeful.\nModest Maldivian clothing, culturally respectful, no violence shown, no text, no letters, no writing, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.147,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 35.0,
+    "y_pct": 39.3,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_025",
+   "startMs": 586189,
+   "endMs": 606460,
+   "new_image_reason": "scene and character change: Zaahir plots revenge",
+   "characters": [
+    "zaahir"
+   ],
+   "location": "Ahmed Zaahir's dark luxurious private study at night, a heavy wooden desk, a leather chair, a tall window looking out over the lights of Malé",
+   "location_key": "zaahir",
+   "mood": "night, low cold blue light and deep shadows, menacing",
+   "visual": "Ahmed Zaahir alone in his dark study at night, standing by the tall window, a smartphone lowered in his hand, his face hard and vengeful, half lit by cold blue light",
+   "camera": "medium shot, low angle",
+   "image": "images/beat_025.png",
+   "reuse_of": null,
+   "transition_in": "black",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "office_night",
+   "shots": [
+    {
+     "id": "shot_067",
+     "startMs": 586189,
+     "endMs": 591789,
+     "narration_dhivehi": "އެކަމަކު މި އުފާވެރި ވަގުތުކޮޅުގެ ފަހަތުގައި އެހެން ނުރައްކަލެއް އޮތްކަން އެމީހުންނަކަށް ނޭނގެއެވެ.",
+     "narration_english": "But they did not know that another danger lay behind this happy moment.",
+     "crop": "full",
+     "motion": "pan right",
+     "sfx": [
+      {
+       "name": "heartbeat",
+       "atMs": 589239,
+       "gainDb": -18,
+       "word": "ނުރައްކަލެއް"
+      }
+     ],
+     "hum": true,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_068",
+     "startMs": 591789,
+     "endMs": 602739,
+     "narration_dhivehi": "އަހްނާގެ ބައްޕަ އަޙްމަދު ޒާހިރު އޭނާގެ ދަރިފުޅު ހައްޔަރުކުރި ޚަބަރު ލިބުމުން ރަފްހާންގެ ކުންފުނި އެއްކޮށް ބަނގުރޫޓުކޮށްލުމުގެ ރޭވުން މިހާރު ވަނީ ފަށާފައެވެ.",
+     "narration_english": "Ahna's father Ahmed Zaahir, on hearing the news of his daughter's arrest, has already begun planning to bankrupt Rafhaan's entire company.",
+     "crop": "tight",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": true,
+     "crop_rect_pct": [
+      20.9,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_069",
+     "startMs": 602739,
+     "endMs": 606460,
+     "narration_dhivehi": "އަޙްމަދު ޒާހިރުގެ ނުރައްކާތެރިކަން ރަފްހާނަކަށް އަދި ނޭނގެއެވެ.",
+     "narration_english": "Rafhaan does not yet know how dangerous Ahmed Zaahir is.",
+     "crop": "full",
+     "motion": "pan up",
+     "sfx": [
+      {
+       "name": "heartbeat",
+       "atMs": 603919,
+       "gainDb": -18,
+       "word": "ނުރައްކާތެރިކަން"
+      }
+     ],
+     "hum": true,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Ahmed Zaahir), create a new scene: Cinematic semi-realistic digital illustration in the polished look of a romantic drama book cover, soft natural light with warm golden-hour glow, rich palette of deep plum, burgundy, warm amber and soft city-dusk blues, gentle film grain, shallow depth of field with soft bokeh, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and calm, uncluttered space at the bottom for a logo.\nScene: Ahmed Zaahir alone in his dark study at night, standing by the tall window, a smartphone lowered in his hand, his face hard and vengeful, half lit by cold blue light. Location: Ahmed Zaahir's dark luxurious private study at night, a heavy wooden desk, a leather chair, a tall window looking out over the lights of Malé. Camera: medium shot, low angle.\nCharacters: Ahmed Zaahir: a heavy-set Maldivian man in his early 60s with medium-brown skin, a broad heavy face, a thick salt-and-pepper moustache, slicked-back grey hair and cold narrow eyes; wears a charcoal-grey three-piece suit, a white shirt, a maroon tie and a gold wristwatch.\nMood/lighting: night, low cold blue light and deep shadows, menacing.\nModest Maldivian clothing, culturally respectful, no violence shown, no text, no letters, no writing, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.084,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 50.6,
+    "y_pct": 17.9,
+    "face_detected": true
+   }
+  }
+ ]
+}

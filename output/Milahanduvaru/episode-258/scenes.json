@@ -1,0 +1,3185 @@
+{
+ "series": "Milahanduvaru",
+ "episode": 258,
+ "beats": [
+  {
+   "id": "beat_001",
+   "startMs": 0,
+   "endMs": 25980,
+   "new_image_reason": "episode opening, scene: Sattar chases a girl running through the night rain",
+   "characters": [
+    "sattar"
+   ],
+   "location": "a narrow sandy lane between old whitewashed coral-stone walls on a small Maldivian island at night, heavy rain pouring down, puddles shining on the sand, coconut palm fronds bending overhead, one dim distant lamp on a wall",
+   "location_key": "rain_lane",
+   "mood": "late night, heavy rain, cold blue-black darkness with silver rain streaks, faint amber glow of a distant lamp, eerie and frightening",
+   "visual": "Sattar seen from behind and slightly to the side, soaked, running along the rain-flooded lane; far ahead at the end of the lane a small slim female figure in a long dark dress and dark hijab running away into the curtain of rain, only a blurred distant silhouette",
+   "camera": "medium wide from behind Sattar, the lane receding into the rain in the upper half, wet sand and puddles as a calm lower third",
+   "image": "images/beat_001.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "rain_night",
+   "shots": [
+    {
+     "id": "shot_001",
+     "startMs": 0,
+     "endMs": 7160,
+     "narration_dhivehi": "ކުއްލިއަކަށް ސައްތާރަށް ފެނުނީ މަގުމަތިން ދުވެލާފައި ދިޔަ އަންހެން ކުއްޖެކެވެ. މިފަދަ ނާމާން ވަގުތެއްގައި،",
+     "narration_english": "Suddenly Sattar saw a girl running along the road. At such an unsafe hour,",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [
+      {
+       "name": "footsteps_sand",
+       "atMs": 2980,
+       "gainDb": -22,
+       "word": "ދުވެލާފައި"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_002",
+     "startMs": 7160,
+     "endMs": 16560,
+     "narration_dhivehi": "މި ބޯ ވާރޭގެ ތެރޭގައި އެކަނި އަންހެން ކުއްޖަކު ބޭރުގައި އުޅޭތީ، އެއީ ކާކުކަން ބަލައިލުމުގެ ބޭނުމުގައި ސައްތާރު އެކުއްޖާގެ ފަހަތުން ދުއްވައިގަތެވެ.",
+     "narration_english": "a girl alone outside in this heavy rain — to see who she was, Sattar ran after her.",
+     "crop": "tight",
+     "motion": "pan left",
+     "sfx": [
+      {
+       "name": "footsteps_sand",
+       "atMs": 15640,
+       "gainDb": -20,
+       "word": "ދުއްވައިގަތެވެ."
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      20.3,
+      4.8,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_003",
+     "startMs": 16560,
+     "endMs": 25980,
+     "narration_dhivehi": "ނަމަވެސް އެކަންވީ ބޭކާރު ކަމަކަށެވެ. އެކުއްޖާ ދުވެފައި ގޮސް ލޯމަތިން ގެއްލިއްޖެއެވެ. ސައްތާރު ހީކުރީ ވާރޭ ވެހޭތީ ކޮންމެވެސް ގެއަކަށް ވަނީ ކަމަށެވެ.",
+     "narration_english": "But it was in vain. The girl ran on and vanished from sight. Sattar thought she had gone into some house because of the rain.",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Sattar), create a new scene: Cinematic semi-realistic digital illustration with a quiet, mysterious island-village mood, moonlit palette of deep indigo, silver-blue and sea-teal with warm amber lamplight accents at night and soft natural tropical light by day, gentle atmospheric haze, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and calm, uncluttered space at the bottom for a logo.\nScene: Sattar seen from behind and slightly to the side, soaked, running along the rain-flooded lane; far ahead at the end of the lane a small slim female figure in a long dark dress and dark hijab running away into the curtain of rain, only a blurred distant silhouette. Location: a narrow sandy lane between old whitewashed coral-stone walls on a small Maldivian island at night, heavy rain pouring down, puddles shining on the sand, coconut palm fronds bending overhead, one dim distant lamp on a wall. Camera: medium wide from behind Sattar, the lane receding into the rain in the upper half, wet sand and puddles as a calm lower third.\nCharacters: Sattar: a broad-shouldered muscular Maldivian young man in his mid 20s with warm brown skin, a square jaw, wide-set eyes, a thin moustache and short cropped black hair; wears a dark green short-sleeved t-shirt and a brown checked sarong.\nMood/lighting: late night, heavy rain, cold blue-black darkness with silver rain streaks, faint amber glow of a distant lamp, eerie and frightening.\nModest Maldivian clothing (women in loose long-sleeved ankle-length dresses with hijab fully covering hair and neck; men in shirts and long trousers or sarong), culturally respectful, no violence shown, no blood, no gore, no monsters, no horror creatures, no text, no letters, no writing, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.178,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 50.0,
+    "y_pct": 40.0,
+    "face_detected": false
+   }
+  },
+  {
+   "id": "beat_002",
+   "startMs": 25980,
+   "endMs": 60541,
+   "new_image_reason": "action change: walking home soaked, he finds the girl standing motionless against a wall",
+   "characters": [
+    "sattar"
+   ],
+   "location": "a narrow sandy lane between old whitewashed coral-stone walls on a small Maldivian island at night, heavy rain pouring down, puddles shining on the sand, coconut palm fronds bending overhead, one dim distant lamp on a wall",
+   "location_key": "rain_lane",
+   "mood": "late night, heavy rain, cold blue-black darkness with silver rain streaks, faint amber glow of a distant lamp, eerie and frightening",
+   "visual": "Sattar, drenched, approaching slowly and cautiously with a puzzled frown; a few steps ahead of him a slim girl in a long dark dress and a dark hijab stands perfectly still leaning against the coral-stone wall, seen in deep shadow from the side, her head bowed so her face is not visible, rain running off her",
+   "camera": "medium wide, eye level, Sattar's face in the upper third",
+   "image": "images/beat_002.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": "other",
+   "safe_substitution": "the jinn girl is only a still figure in deep shadow, face not visible (bible: red-eyed jinn never in close-up)",
+   "ambience": "rain_night",
+   "shots": [
+    {
+     "id": "shot_004",
+     "startMs": 25980,
+     "endMs": 34320,
+     "narration_dhivehi": "ސައްތާރު މުޅިން ތެމިފޯވެފައި ހުރުމުން، ދެން މަޑުކުރާކަށް ބޭނުމެއް ނުވިއެވެ. އޭނާ މަޑު ހިނގުމެއްގައި ގެއާ ދިމާލަށް ހިނގައިގަތެވެ.",
+     "narration_english": "Soaked through, Sattar did not want to wait any longer. He began walking slowly towards home.",
+     "crop": "full",
+     "motion": "pan right",
+     "sfx": [
+      {
+       "name": "footsteps_sand",
+       "atMs": 33280,
+       "gainDb": -22,
+       "word": "ހިނގައިގަތެވެ."
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_005",
+     "startMs": 34320,
+     "endMs": 42781,
+     "narration_dhivehi": "ކުއްލިއަކަށް ސައްތާރުގެ ލޮލުގައި އަޅައިގަތީ އެއްކަލަ އަންހެން ކުއްޖާއެވެ. އެއްވެސް ހަރަކާތެއް ނެތި، ފާރުގައި ލެގިލައިގެން އެކުއްޖާ ހުއްޓެވެ.",
+     "narration_english": "Suddenly the same girl caught his eye. Without any movement, she was standing leaning against a wall.",
+     "crop": "tight",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      5.5,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_006",
+     "startMs": 42781,
+     "endMs": 52741,
+     "narration_dhivehi": "ވާރެއާ ތެމިގެން ހުރިއިރު، ބަލާބެލުމަށް ފިނީގެ އެއްވެސް އަސަރެއް އެކުއްޖާއަށް ކުރާހެނެއް ހިއެއްނުވެއެވެ. ސައްތާރު މަޑުމަޑުން ގޮސް އެކުއްޖާއާ ގާތްވެލިއެވެ.",
+     "narration_english": "Though she was soaked with rain, she did not seem to feel the cold at all. Sattar slowly went closer to her.",
+     "crop": "full",
+     "motion": "pan up",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_007",
+     "startMs": 52741,
+     "endMs": 60541,
+     "narration_dhivehi": "\"މިތާ ކީއްކުރަނީ؟\" ސައްތާރު ސުވާލުކޮށްލިއެވެ. \"ހިނގާ ގެއަށްދާން. މިތާ އެކަނި ހުންނާކަށް ނުވާނެ\" އެކުއްޖާ ޖަވާބެއް ނުދިނެވެ.",
+     "narration_english": "\"What are you doing here?\" Sattar asked. \"Come, let's go home. You shouldn't be here alone.\" The girl gave no answer.",
+     "crop": "medium",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      0.0,
+      0.0,
+      71.5,
+      84.7
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Sattar), create a new scene: Cinematic semi-realistic digital illustration with a quiet, mysterious island-village mood, moonlit palette of deep indigo, silver-blue and sea-teal with warm amber lamplight accents at night and soft natural tropical light by day, gentle atmospheric haze, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and calm, uncluttered space at the bottom for a logo.\nScene: Sattar, drenched, approaching slowly and cautiously with a puzzled frown; a few steps ahead of him a slim girl in a long dark dress and a dark hijab stands perfectly still leaning against the coral-stone wall, seen in deep shadow from the side, her head bowed so her face is not visible, rain running off her. Location: a narrow sandy lane between old whitewashed coral-stone walls on a small Maldivian island at night, heavy rain pouring down, puddles shining on the sand, coconut palm fronds bending overhead, one dim distant lamp on a wall. Camera: medium wide, eye level, Sattar's face in the upper third.\nCharacters: Sattar: a broad-shouldered muscular Maldivian young man in his mid 20s with warm brown skin, a square jaw, wide-set eyes, a thin moustache and short cropped black hair; wears a dark green short-sleeved t-shirt and a brown checked sarong.\nMood/lighting: late night, heavy rain, cold blue-black darkness with silver rain streaks, faint amber glow of a distant lamp, eerie and frightening.\nModest Maldivian clothing (women in loose long-sleeved ankle-length dresses with hijab fully covering hair and neck; men in shirts and long trousers or sarong), culturally respectful, no violence shown, no blood, no gore, no monsters, no horror creatures, no text, no letters, no writing, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.151,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 35.3,
+    "y_pct": 19.0,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_003",
+   "startMs": 60541,
+   "endMs": 99652,
+   "new_image_reason": "emotional turning point: the jinn reveals herself and his strength drains away",
+   "characters": [
+    "sattar"
+   ],
+   "location": "a narrow sandy lane between old whitewashed coral-stone walls on a small Maldivian island at night, heavy rain pouring down, puddles shining on the sand, coconut palm fronds bending overhead, one dim distant lamp on a wall",
+   "location_key": "rain_lane",
+   "mood": "late night, heavy rain, cold blue-black darkness with silver rain streaks, faint amber glow of a distant lamp, eerie and frightening",
+   "visual": "Sattar sinking down onto one knee on the wet sand with his head bowed and his shoulders slumped, exhausted and terrified, rain pouring over him; in the left foreground a plain dark near-black silhouette of a slim girl in an ordinary long black dress and black hijab seen strictly from behind in deep shadow, facing him, her face never visible, perfectly still; only the faintest dim reddish tint in the rain mist far behind them, no glowing lines, no aura",
+   "camera": "medium shot over the silhouette's shoulder, Sattar's frightened face in the upper half",
+   "image": "images/beat_003.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": "violence",
+   "safe_substitution": "no red eyes in close-up and no grip shown: the girl only as a silhouette from behind with a faint red haze; Sattar's fear shown by him sinking to one knee",
+   "ambience": "rain_night",
+   "shots": [
+    {
+     "id": "shot_008",
+     "startMs": 60541,
+     "endMs": 71611,
+     "narration_dhivehi": "ސައްތާރު ދެވަނަ ފަހަރަށް ވެސް ބުނެލިއެވެ. އެވަގުތު އެކުއްޖާ ސައްތާރުގެ މޫނަށް ބަލައިލިއެވެ. އެ ދެލޮލުން ފެނުނު ބިރުވެރިކަމެއްގެ ސަބަބުން ސައްތާރު ދުއްވައިގަންނަން އުޅުނެވެ.",
+     "narration_english": "Sattar said it a second time. Then the girl looked at Sattar's face. Because of the terror he saw in those eyes, Sattar tried to run.",
+     "crop": "full",
+     "motion": "pan down",
+     "sfx": [
+      {
+       "name": "gasp",
+       "atMs": 67521,
+       "gainDb": -18,
+       "word": "ބިރުވެރިކަމެއްގެ"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_009",
+     "startMs": 71611,
+     "endMs": 80311,
+     "narration_dhivehi": "އެއީ އިންސާނެއްގެ ދެލޮލެއް ނޫނެވެ. އޭގައި ވަނީ އަލިފާންކުލައިގެ ރަތްކަމެކެވެ. ނަމަވެސް އެކުއްޖާ ހަލުވިކަމާއެކު އައިސް ސައްތާރުގެ އަތުގައި ހިފެހެއްޓިއެވެ.",
+     "narration_english": "Those were not human eyes. There was a fire-coloured redness in them. But the girl came swiftly and seized Sattar by the arm.",
+     "crop": "tight",
+     "motion": "static drift",
+     "sfx": [
+      {
+       "name": "heartbeat",
+       "atMs": 79461,
+       "gainDb": -18,
+       "word": "ހިފެހެއްޓިއެވެ."
+      }
+     ],
+     "hum": true,
+     "crop_rect_pct": [
+      35.3,
+      8.6,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_010",
+     "startMs": 80311,
+     "endMs": 90202,
+     "narration_dhivehi": "ސައްތާރަކީ ކިތަންމެ ބާރުގަދަ މީހެއް ނަމަވެސް، އެކުއްޖާގެ ކުރިމަތީގައި އޭނާވީ ނިކަމެއްޗަކަށެވެ. އެ އަތުގެ ފިނިކަން ސައްތާރުގެ މުޅި ހަށިގަނޑަށް ފެތުރިގެން ދިޔައެވެ.",
+     "narration_english": "However strong Sattar was, before that girl he became helpless. The cold of that hand spread through Sattar's whole body.",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [
+      {
+       "name": "wind_gust",
+       "atMs": 86982,
+       "gainDb": -20,
+       "word": "ފިނިކަން"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_011",
+     "startMs": 90202,
+     "endMs": 99652,
+     "narration_dhivehi": "އޭނާގެ ހަށިގަނޑުން ބާރު ދޫވެ، އިސްޖަހާލަން މަޖުބޫރުވިއެވެ. \"ބަލަ މަށަކީ ޖިންނިއެއް. ކޮން މަސައްކަތެއް ތި ކުރަނީ؟\" އެކުއްޖާ ބިރުވެރި އަޑަކުން ބުނެލިއެވެ.",
+     "narration_english": "The strength left his body and he was forced to bow his head. \"Listen, I am a jinni. What is this work you are doing?\" the girl said in a frightening voice.",
+     "crop": "medium",
+     "motion": "pan left",
+     "sfx": [
+      {
+       "name": "breath_heavy",
+       "atMs": 92582,
+       "gainDb": -20,
+       "word": "އިސްޖަހާލަން"
+      }
+     ],
+     "hum": true,
+     "crop_rect_pct": [
+      28.5,
+      1.5,
+      71.5,
+      84.7
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Sattar), create a new scene: Cinematic semi-realistic digital illustration with a quiet, mysterious island-village mood, moonlit palette of deep indigo, silver-blue and sea-teal with warm amber lamplight accents at night and soft natural tropical light by day, gentle atmospheric haze, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and calm, uncluttered space at the bottom for a logo.\nScene: Sattar sinking down onto one knee on the wet sand with his head bowed and his shoulders slumped, exhausted and terrified, rain pouring over him; in the left foreground a plain dark near-black silhouette of a slim girl in an ordinary long black dress and black hijab seen strictly from behind in deep shadow, facing him, her face never visible, perfectly still; only the faintest dim reddish tint in the rain mist far behind them, no glowing lines, no aura. Location: a narrow sandy lane between old whitewashed coral-stone walls on a small Maldivian island at night, heavy rain pouring down, puddles shining on the sand, coconut palm fronds bending overhead, one dim distant lamp on a wall. Camera: medium shot over the silhouette's shoulder, Sattar's frightened face in the upper half.\nCharacters: Sattar: a broad-shouldered muscular Maldivian young man in his mid 20s with warm brown skin, a square jaw, wide-set eyes, a thin moustache and short cropped black hair; wears a dark green short-sleeved t-shirt and a brown checked sarong.\nMood/lighting: late night, heavy rain, cold blue-black darkness with silver rain streaks, faint amber glow of a distant lamp, eerie and frightening.\nModest Maldivian clothing (women in loose long-sleeved ankle-length dresses with hijab fully covering hair and neck; men in shirts and long trousers or sarong), culturally respectful, no violence shown, no blood, no gore, no monsters, no horror creatures, no text, no letters, no writing, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.157,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 65.0,
+    "y_pct": 43.8,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_004",
+   "startMs": 99652,
+   "endMs": 125962,
+   "new_image_reason": "action change: Sattar falls and the figure vanishes into the rain",
+   "characters": [],
+   "location": "a narrow sandy lane between old whitewashed coral-stone walls on a small Maldivian island at night, heavy rain pouring down, puddles shining on the sand, coconut palm fronds bending overhead, one dim distant lamp on a wall",
+   "location_key": "rain_lane",
+   "mood": "late night, heavy rain, cold blue-black darkness with silver rain streaks, faint amber glow of a distant lamp, eerie and frightening",
+   "visual": "ground-level view along the empty rain-flooded lane, raindrops splashing in the puddles close to the camera, and far away at the end of the lane a faint translucent silhouette of a girl in a long dress and hijab fading into the rain mist; no other person",
+   "camera": "low ground-level wide shot, the fading silhouette in the upper half",
+   "image": "images/beat_004.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": "violence",
+   "safe_substitution": "Sattar's collapse is not shown: only the empty rainy lane and the figure fading away",
+   "ambience": "rain_night",
+   "shots": [
+    {
+     "id": "shot_012",
+     "startMs": 99652,
+     "endMs": 106232,
+     "narration_dhivehi": "އެއީ ސައްތާރުމެން ކިޔަވައިގެން ރަށުން ފޮނުވާލަން އުޅުނު މަންޒަރު ފެނުނު ޖިންނިއެވެ. \"ދޫކޮށްލާ...",
+     "narration_english": "It was the very jinni that Sattar and the others had been trying to drive from the island with their recitations. \"Let me go...",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_013",
+     "startMs": 106232,
+     "endMs": 113692,
+     "narration_dhivehi": "ދެން އެކަހަލަ ކަމެއްގައި ދުވަހަކުވެސް ބައިވެރި ނުވާނަން\" ސައްތާރަށް ބުނެވުނީ އެވަރަށެވެ. އޭނާގެ އަޑު ބޭރުވީ ކިރިޔާއެވެ.",
+     "narration_english": "I will never take part in such a thing again\" was all Sattar could say. His voice came out faintly.",
+     "crop": "tight",
+     "motion": "pan right",
+     "sfx": [
+      {
+       "name": "breath",
+       "atMs": 113082,
+       "gainDb": -22,
+       "word": "ކިރިޔާއެވެ."
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      20.3,
+      4.8,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_014",
+     "startMs": 113692,
+     "endMs": 120232,
+     "narration_dhivehi": "މަޑުމަޑުން އޭނާގެ ނޭވާ ހާސްވެ، ބާރު ދޫވެގެން ބިންމައްޗަށް ވެއްޓިއްޖެއެވެ. ސައްތާރުގެ ވެއްޓުނުއިރު،",
+     "narration_english": "Slowly his breathing grew laboured, his strength gave way and he fell to the ground. As Sattar fell,",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [
+      {
+       "name": "soft_thud",
+       "atMs": 117622,
+       "gainDb": -16,
+       "word": "ވެއްޓިއްޖެއެވެ."
+      }
+     ],
+     "hum": true,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_015",
+     "startMs": 120232,
+     "endMs": 125962,
+     "narration_dhivehi": "އެ ބިރުވެރި ސޫރަ ވާރޭގެ ތެރެއަށް ގެއްލިގެން ދިޔަ މަންޒަރު އޭނާއަށް ފުސްކޮށް ފެނުނެވެ.",
+     "narration_english": "he dimly saw that frightening figure disappear into the rain.",
+     "crop": "medium",
+     "motion": "pan up",
+     "sfx": [
+      {
+       "name": "thunder",
+       "atMs": 122422,
+       "gainDb": -18,
+       "word": "ގެއްލިގެން"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      14.2,
+      0.0,
+      71.5,
+      84.7
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Cinematic semi-realistic digital illustration with a quiet, mysterious island-village mood, moonlit palette of deep indigo, silver-blue and sea-teal with warm amber lamplight accents at night and soft natural tropical light by day, gentle atmospheric haze, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and calm, uncluttered space at the bottom for a logo.\nScene: ground-level view along the empty rain-flooded lane, raindrops splashing in the puddles close to the camera, and far away at the end of the lane a faint translucent silhouette of a girl in a long dress and hijab fading into the rain mist; no other person. Location: a narrow sandy lane between old whitewashed coral-stone walls on a small Maldivian island at night, heavy rain pouring down, puddles shining on the sand, coconut palm fronds bending overhead, one dim distant lamp on a wall. Camera: low ground-level wide shot, the fading silhouette in the upper half.\nMood/lighting: late night, heavy rain, cold blue-black darkness with silver rain streaks, faint amber glow of a distant lamp, eerie and frightening.\nModest Maldivian clothing (women in loose long-sleeved ankle-length dresses with hijab fully covering hair and neck; men in shirts and long trousers or sarong), culturally respectful, no violence shown, no blood, no gore, no monsters, no horror creatures, no text, no letters, no writing, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.178,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 50.0,
+    "y_pct": 40.0,
+    "face_detected": false
+   }
+  },
+  {
+   "id": "beat_005",
+   "startMs": 125962,
+   "endMs": 151613,
+   "new_image_reason": "scene and time change: Sattar's funeral the next day, Hassanfulhu unshaken",
+   "characters": [
+    "hassanfulhu"
+   ],
+   "location": "the island's wide sandy main lane under tall coconut palms leading towards a small island cemetery with plain white grave markers, low coral-stone walls on both sides",
+   "location_key": "funeral",
+   "mood": "the next morning, grey overcast daylight, soft muted colours, deep collective grief and fear",
+   "visual": "Hassanfulhu standing apart in the foreground under a palm, upright and stern, watching; in the background many island men in white carrying a covered bier on their shoulders down the sandy lane towards the cemetery, villagers following with bowed heads, some women in hijab grieving at a gateway",
+   "camera": "medium wide, Hassanfulhu in the upper-left two-thirds, the procession small in the background",
+   "image": "images/beat_005.png",
+   "reuse_of": null,
+   "transition_in": "black",
+   "sensitive": "death",
+   "safe_substitution": "funeral shown only as a covered bier carried at a distance; no body",
+   "ambience": "village_day",
+   "shots": [
+    {
+     "id": "shot_016",
+     "startMs": 125962,
+     "endMs": 136573,
+     "narration_dhivehi": "ބައެއް މީހުންގެ އިތުބާރު ހަސަންފުޅަށް ގެއްލެމުން ދިޔައިރު، އަނެއްބައި މީހުން ގަބޫލުކުރީ މިއީ ހަސަންފުޅުގެ މަސައްކަތުގެ ސަބަބުން އެ ސިހުރުވެރި ބާރުތައް އިތުރުވީ ކަމަށެވެ.",
+     "narration_english": "As some people lost their trust in Hassanfulhu, others believed that because of Hassanfulhu's work those sorcerous powers had grown stronger.",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_017",
+     "startMs": 136573,
+     "endMs": 144433,
+     "narration_dhivehi": "ނަމަވެސް ހަސަންފުޅު ހިތްވަރު ދުލެއް ނުކުރެއެވެ. މިއީ އޭނާއަށް އާ ކަމެއް ނޫނެވެ. ސައްތާރުގެ ޖަނާޒާގައި ރަށުގެ ގިނަބަޔަކު ބައިވެރިވިއެވެ.",
+     "narration_english": "But Hassanfulhu did not lose heart. This was nothing new to him. Many people of the island attended Sattar's funeral.",
+     "crop": "tight",
+     "motion": "pan down",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      0.0,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_018",
+     "startMs": 144433,
+     "endMs": 151613,
+     "narration_dhivehi": "އެންމެންގެ ލޮލުން ކަރުނަ އޮހޮރެމުން ދިޔައިރު، ކޮންމެ މީހެއްގެ ހިތުގައިވެސް އޮތީ އެއް ސުވާލެކެވެ. \"ދެން ކާކުބާއެވެ؟\"",
+     "narration_english": "As tears flowed from everyone's eyes, every heart held the same question: \"Who will be next?\"",
+     "crop": "full",
+     "motion": "static drift",
+     "sfx": [
+      {
+       "name": "sob_breath",
+       "atMs": 145623,
+       "gainDb": -24,
+       "word": "ކަރުނަ"
+      }
+     ],
+     "hum": true,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Hassanfulhu), create a new scene: Cinematic semi-realistic digital illustration with a quiet, mysterious island-village mood, moonlit palette of deep indigo, silver-blue and sea-teal with warm amber lamplight accents at night and soft natural tropical light by day, gentle atmospheric haze, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and calm, uncluttered space at the bottom for a logo.\nScene: Hassanfulhu standing apart in the foreground under a palm, upright and stern, watching; in the background many island men in white carrying a covered bier on their shoulders down the sandy lane towards the cemetery, villagers following with bowed heads, some women in hijab grieving at a gateway. Location: the island's wide sandy main lane under tall coconut palms leading towards a small island cemetery with plain white grave markers, low coral-stone walls on both sides. Camera: medium wide, Hassanfulhu in the upper-left two-thirds, the procession small in the background.\nCharacters: Hassanfulhu: a tall lean upright Maldivian man about 65 with weathered warm brown skin, a long calm stern face, sharp steady eyes and a long white beard; wears a white knitted skullcap, a white long-sleeved shirt and a white sarong to the ankles.\nMood/lighting: the next morning, grey overcast daylight, soft muted colours, deep collective grief and fear.\nModest Maldivian clothing (women in loose long-sleeved ankle-length dresses with hijab fully covering hair and neck; men in shirts and long trousers or sarong), culturally respectful, no violence shown, no blood, no gore, no monsters, no horror creatures, no text, no letters, no writing, no watermark.",
+   "logo": {
+    "color": "black",
+    "bg_luminance": 0.617,
+    "halo": true
+   },
+   "focus": {
+    "x_pct": 29.5,
+    "y_pct": 18.5,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_006",
+   "startMs": 151613,
+   "endMs": 179454,
+   "new_image_reason": "scene and time change: Shamaan, Zumra and Sakeena on the joali in the yard",
+   "characters": [
+    "shamaan",
+    "zumra",
+    "sakeena"
+   ],
+   "location": "the sandy front yard of Shamaan's family home: a single-storey whitewashed coral-stone house with a corrugated tin roof and a plain wooden front door, a big old shady tree, two traditional joali rope seats facing each other under the tree, a low coral-stone boundary wall with an open wooden gate onto a sandy lane",
+   "location_key": "yard_dusk",
+   "mood": "early evening just after sunset, soft orange-violet afterglow in the sky, warm amber light from the house doorway, uneasy calm turning tense",
+   "visual": "Shamaan and Zumra freshly dressed sitting side by side on one joali under the big tree, a married couple with a little space between them; Sakeena sitting on the facing joali; all three talking in low voices with worried, uneasy faces",
+   "camera": "medium wide, eye level, faces in the upper half, the sandy yard as a calm lower third",
+   "image": "images/beat_006.png",
+   "reuse_of": null,
+   "transition_in": "black",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "garden_day",
+   "shots": [
+    {
+     "id": "shot_019",
+     "startMs": 151613,
+     "endMs": 163143,
+     "narration_dhivehi": "މިއީ މިހާރު އެންމެންގެ ހިތުގައި އުފެދިފައިވާ ބޮޑު ސުވާލެވެ. ހަވީރުގެ ހިތްގައިމު ވަގުތެވެ. ފެންވަރައި ނަލަހެދިލައިގެން ޝަމްއާން އާއި ޒުމްރާ ތިބީ ގޯތިތެރޭގައި ހުރި ޖޯލިފަތީގައެވެ.",
+     "narration_english": "That is now the big question in everyone's heart. It was a lovely evening hour. Bathed and nicely dressed, Shamaan and Zumra were sitting on the joali in the yard.",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_020",
+     "startMs": 163143,
+     "endMs": 170024,
+     "narration_dhivehi": "ކުރިމަތީގައި ހުރި ޖޯލީގައި ޝަމްއާންގެ މަންމަ ވެސް އިނެވެ. އެމީހުންގެ މޫނުމަތިން ފެންނަނީ ނުތަނަވަސްކަމެވެ.",
+     "narration_english": "Shamaan's mother was sitting on the joali in front of them. Unease showed on their faces.",
+     "crop": "tight",
+     "motion": "pan left",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      6.7,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_021",
+     "startMs": 170024,
+     "endMs": 179454,
+     "narration_dhivehi": "އެމީހުން ވާހަކަ ދައްކަމުން ދިޔައީ މިރަށުން ފަހަކަށް އައިސް މީހުންނަށް ގެއްލުންވަމުންދާ ބިރުވެރި ވާހަކައެވެ. މުޅި ރަށް އޮތީ ބިރުވެރިކަމެއްގެ ތެރޭގައެވެ.",
+     "narration_english": "They were talking about the frightening things that had lately been harming people on the island. The whole island lived in fear.",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Shamaan; reference image 2 is Zumra; reference image 3 is Sakeena), create a new scene: Cinematic semi-realistic digital illustration with a quiet, mysterious island-village mood, moonlit palette of deep indigo, silver-blue and sea-teal with warm amber lamplight accents at night and soft natural tropical light by day, gentle atmospheric haze, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and calm, uncluttered space at the bottom for a logo.\nScene: Shamaan and Zumra freshly dressed sitting side by side on one joali under the big tree, a married couple with a little space between them; Sakeena sitting on the facing joali; all three talking in low voices with worried, uneasy faces. Location: the sandy front yard of Shamaan's family home: a single-storey whitewashed coral-stone house with a corrugated tin roof and a plain wooden front door, a big old shady tree, two traditional joali rope seats facing each other under the tree, a low coral-stone boundary wall with an open wooden gate onto a sandy lane. Camera: medium wide, eye level, faces in the upper half, the sandy yard as a calm lower third.\nCharacters: Shamaan: a slim Maldivian man about 28 with warm brown skin, a lean oval face, soft dark brown eyes with a sad tired look, straight dark eyebrows, short slightly wavy neatly combed black hair and a short neatly trimmed black beard; wears a plain light-blue long-sleeved button shirt with sleeves rolled to the forearm and dark grey long trousers. Zumra: a slim graceful Maldivian young woman in her early 20s with smooth light-brown skin with a faint moonlit glow, a strikingly beautiful heart-shaped face, large dark eyes with an unusual silvery sparkle and an enigmatic faint smile; wears a loose long-sleeved ankle-length midnight-blue dress with fine silver embroidery at the cuffs and hem and a pale silver-grey hijab fully covering her hair and neck. Sakeena: a short plump Maldivian woman in her mid 50s with warm brown skin, a round kind face with soft wrinkles and worried dark eyes; wears a loose long-sleeved ankle-length maroon traditional Maldivian dress with a thin gold-thread neckline band and a soft beige headscarf fully covering her hair and neck.\nMood/lighting: early evening just after sunset, soft orange-violet afterglow in the sky, warm amber light from the house doorway, uneasy calm turning tense.\nModest Maldivian clothing (women in loose long-sleeved ankle-length dresses with hijab fully covering hair and neck; men in shirts and long trousers or sarong), culturally respectful, no violence shown, no blood, no gore, no monsters, no horror creatures, no text, no letters, no writing, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.277,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 36.4,
+    "y_pct": 34.8,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_007",
+   "startMs": 179454,
+   "endMs": 215185,
+   "new_image_reason": "character enters: Hassanfulhu comes into the yard with a young man and is introduced",
+   "characters": [
+    "hassanfulhu",
+    "shamaan",
+    "sakeena",
+    "zumra"
+   ],
+   "location": "the sandy front yard of Shamaan's family home: a single-storey whitewashed coral-stone house with a corrugated tin roof and a plain wooden front door, a big old shady tree, two traditional joali rope seats facing each other under the tree, a low coral-stone boundary wall with an open wooden gate onto a sandy lane",
+   "location_key": "yard_dusk",
+   "mood": "early evening just after sunset, soft orange-violet afterglow in the sky, warm amber light from the house doorway, uneasy calm turning tense",
+   "visual": "Hassanfulhu stepping in through the open gate with one hand raised in greeting, a young island man in a plain white shirt beside him; Shamaan standing up from the joali respectfully; Sakeena gesturing politely towards the empty joali; Zumra still seated on the joali, looking away with a tense face",
+   "camera": "wide shot, eye level, the gate and figures in the upper two-thirds",
+   "image": "images/beat_007.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "garden_day",
+   "shots": [
+    {
+     "id": "shot_022",
+     "startMs": 179454,
+     "endMs": 187734,
+     "narration_dhivehi": "އެމީހުން އެވާހަކައިގައި ތިއްބާ، ސަލާމް ގޮވާލައިފައި ގޯތިތެރެއަށް ވަދެގެން އަންނަ ހަސަންފުޅު ފެނުނެވެ. ހަސަންފުޅަކީ އުމުރުން ދުވަސްވީ،",
+     "narration_english": "As they talked, they saw Hassanfulhu call out a salaam and come into the yard. Hassanfulhu was an elderly",
+     "crop": "full",
+     "motion": "pan right",
+     "sfx": [
+      {
+       "name": "footsteps_sand",
+       "atMs": 183444,
+       "gainDb": -22,
+       "word": "ވަދެގެން"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_023",
+     "startMs": 187734,
+     "endMs": 196414,
+     "narration_dhivehi": "މޫނުމަތިން ސީރިއަސްކަން ފެންނަން ހުރި މީހެކެވެ. ހަސަންފުޅަށް އިހްތިރާމް ކުރުމުގެ ގޮތުން ޝަމްއާން ކޮޅަށް ތެދުވެލިއެވެ. \"މިއީ ހަސަންފުޅު.",
+     "narration_english": "man with seriousness written on his face. Out of respect for Hassanfulhu, Shamaan stood up. \"This is Hassanfulhu.",
+     "crop": "tight",
+     "motion": "slow push-in",
+     "sfx": [
+      {
+       "name": "cloth_rustle",
+       "atMs": 194024,
+       "gainDb": -24,
+       "word": "ތެދުވެލިއެވެ."
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      0.0,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_024",
+     "startMs": 196414,
+     "endMs": 203454,
+     "narration_dhivehi": "މިރަށަށް ފަންޑިތަ ހަދަން އައިސް އުޅޭ މީހެއް\" ހަސަންފުޅުގެ ގާތުގައި ހުރި ޒުވާނާ، ހަސަންފުޅު ތައާރަފް ކޮށްދިނެވެ.",
+     "narration_english": "He has come to do fanditha work on this island,\" the young man beside Hassanfulhu introduced him.",
+     "crop": "full",
+     "motion": "pan up",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_025",
+     "startMs": 203454,
+     "endMs": 215185,
+     "narration_dhivehi": "\"އާދޭ އިށީންނަން\" ޖޯލިފަތި ދައްކާލަމުން ޝަމްއާންގެ މަންމަ ބުނެލިއެވެ. \"މިއީ އަހަރެންގެ ދަރިފުޅު، ދެން އެއިނީ އޭނަގެ އަނބިމީހާ\" ޝަމްއާންގެ މަންމަ ހަސަންފުޅަށް ޝަމްއާންމެން ތައާރަފްކުރިއެވެ.",
+     "narration_english": "\"Come, please sit,\" Shamaan's mother said, pointing to the joali. \"This is my son, and that is his wife sitting there,\" she introduced them to Hassanfulhu.",
+     "crop": "medium",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      0.0,
+      0.0,
+      71.5,
+      84.7
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Hassanfulhu; reference image 2 is Shamaan; reference image 3 is Sakeena; reference image 4 is Zumra), create a new scene: Cinematic semi-realistic digital illustration with a quiet, mysterious island-village mood, moonlit palette of deep indigo, silver-blue and sea-teal with warm amber lamplight accents at night and soft natural tropical light by day, gentle atmospheric haze, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and calm, uncluttered space at the bottom for a logo.\nScene: Hassanfulhu stepping in through the open gate with one hand raised in greeting, a young island man in a plain white shirt beside him; Shamaan standing up from the joali respectfully; Sakeena gesturing politely towards the empty joali; Zumra still seated on the joali, looking away with a tense face. Location: the sandy front yard of Shamaan's family home: a single-storey whitewashed coral-stone house with a corrugated tin roof and a plain wooden front door, a big old shady tree, two traditional joali rope seats facing each other under the tree, a low coral-stone boundary wall with an open wooden gate onto a sandy lane. Camera: wide shot, eye level, the gate and figures in the upper two-thirds.\nCharacters: Hassanfulhu: a tall lean upright Maldivian man about 65 with weathered warm brown skin, a long calm stern face, sharp steady eyes and a long white beard; wears a white knitted skullcap, a white long-sleeved shirt and a white sarong to the ankles. Shamaan: a slim Maldivian man about 28 with warm brown skin, a lean oval face, soft dark brown eyes with a sad tired look, straight dark eyebrows, short slightly wavy neatly combed black hair and a short neatly trimmed black beard; wears a plain light-blue long-sleeved button shirt with sleeves rolled to the forearm and dark grey long trousers. Sakeena: a short plump Maldivian woman in her mid 50s with warm brown skin, a round kind face with soft wrinkles and worried dark eyes; wears a loose long-sleeved ankle-length maroon traditional Maldivian dress with a thin gold-thread neckline band and a soft beige headscarf fully covering her hair and neck. Zumra: a slim graceful Maldivian young woman in her early 20s with smooth light-brown skin with a faint moonlit glow, a strikingly beautiful heart-shaped face, large dark eyes with an unusual silvery sparkle and an enigmatic faint smile; wears a loose long-sleeved ankle-length midnight-blue dress with fine silver embroidery at the cuffs and hem and a pale silver-grey hijab fully covering her hair and neck.\nMood/lighting: early evening just after sunset, soft orange-violet afterglow in the sky, warm amber light from the house doorway, uneasy calm turning tense.\nModest Maldivian clothing (women in loose long-sleeved ankle-length dresses with hijab fully covering hair and neck; men in shirts and long trousers or sarong), culturally respectful, no violence shown, no blood, no gore, no monsters, no horror creatures, no text, no letters, no writing, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.296,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 28.3,
+    "y_pct": 28.3,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_008",
+   "startMs": 215185,
+   "endMs": 252815,
+   "new_image_reason": "action change: Zumra storms into the house while Hassanfulhu stares after her",
+   "characters": [
+    "hassanfulhu",
+    "zumra"
+   ],
+   "location": "the sandy front yard of Shamaan's family home: a single-storey whitewashed coral-stone house with a corrugated tin roof and a plain wooden front door, a big old shady tree, two traditional joali rope seats facing each other under the tree, a low coral-stone boundary wall with an open wooden gate onto a sandy lane",
+   "location_key": "yard_dusk",
+   "mood": "early evening just after sunset, soft orange-violet afterglow in the sky, warm amber light from the house doorway, uneasy calm turning tense",
+   "visual": "Zumra walking quickly and stiffly towards the open wooden front door of the house, seen from behind and in partial profile, her face set in anger; in the foreground Hassanfulhu standing still, his sharp piercing gaze fixed on her, his face grave and suspicious",
+   "camera": "over-the-shoulder medium shot from behind Hassanfulhu, Zumra and the doorway in the upper half",
+   "image": "images/beat_008.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "garden_day",
+   "shots": [
+    {
+     "id": "shot_026",
+     "startMs": 215185,
+     "endMs": 225805,
+     "narration_dhivehi": "ހަމައެއާއެކު، ޒުމްރާ ކުއްލިއަކަށް ތެދުވެގެން ގޭތެރެއަށް ވަންނަން ހިނގައިގަތެވެ. އޭނާގެ ހަރަކާތްތަކުން ހީވަނީ ކޮންމެވެސް ކަމަކާ ނުހަނު ރުޅިއައިސްފައި ހުރިހެންނެވެ.",
+     "narration_english": "At that very moment Zumra suddenly stood up and started walking into the house. By her movements she seemed extremely angry about something.",
+     "crop": "full",
+     "motion": "pan down",
+     "sfx": [
+      {
+       "name": "footsteps_sand",
+       "atMs": 219545,
+       "gainDb": -22,
+       "word": "ހިނގައިގަތެވެ."
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_027",
+     "startMs": 225805,
+     "endMs": 235235,
+     "narration_dhivehi": "ހަސަންފުޅުގެ ތޫނު ނަޒަރު ހުރީ ޒުމްރާއަށް ހުއްޓިފައެވެ. \"އެއީ އާދަޔާ ޚިލާފް ކުއްޖެއް ދޯ\" ޒުމްރާއަށް އިޝާރާތްކޮށް ހަސަންފުޅު ފުން ނޭވާއެއް ދޫކޮށްލަމުން ބުނެލިއެވެ.",
+     "narration_english": "Hassanfulhu's sharp gaze stayed fixed on Zumra. \"That's an unusual girl, isn't she,\" Hassanfulhu said, nodding at Zumra with a deep breath.",
+     "crop": "tight",
+     "motion": "static drift",
+     "sfx": [
+      {
+       "name": "breath",
+       "atMs": 233445,
+       "gainDb": -22,
+       "word": "ނޭވާއެއް"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      20.3,
+      4.8,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_028",
+     "startMs": 235235,
+     "endMs": 244275,
+     "narration_dhivehi": "\"އާނ، އެއީ ވަރަށް ރަނގަޅު އަދި އެހާމެ މުރާލި ކުއްޖެއް. އަދި ޝަމްއާންދެކެ ވަރަށް ލޯބިވޭ\" ޝަމްއާންގެ މަންމަ ހަސަންފުޅަށް ޖަވާބުދިނެވެ.",
+     "narration_english": "\"Yes, she is a very good and very gentle girl. And she loves Shamaan dearly,\" Shamaan's mother answered him.",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_029",
+     "startMs": 244275,
+     "endMs": 252815,
+     "narration_dhivehi": "\"މިބުނީ ތިހެނެއްނޫން. އެއީ އިންސާނެއްބާއޭ؟ އަހަރެންނަށް ޝައްކު\" ހަސަންފުޅުގެ މި ޖުމްލައާއެކު މުޅި ތަނަށް ހަމަހިމޭންކަން ވެރިވިއެވެ.",
+     "narration_english": "\"That's not what I mean. Is she even a human being? I have my doubts.\" With that sentence a silence fell over the whole place.",
+     "crop": "medium",
+     "motion": "pan left",
+     "sfx": [],
+     "hum": true,
+     "crop_rect_pct": [
+      14.2,
+      0.0,
+      71.5,
+      84.7
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Hassanfulhu; reference image 2 is Zumra), create a new scene: Cinematic semi-realistic digital illustration with a quiet, mysterious island-village mood, moonlit palette of deep indigo, silver-blue and sea-teal with warm amber lamplight accents at night and soft natural tropical light by day, gentle atmospheric haze, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and calm, uncluttered space at the bottom for a logo.\nScene: Zumra walking quickly and stiffly towards the open wooden front door of the house, seen from behind and in partial profile, her face set in anger; in the foreground Hassanfulhu standing still, his sharp piercing gaze fixed on her, his face grave and suspicious. Location: the sandy front yard of Shamaan's family home: a single-storey whitewashed coral-stone house with a corrugated tin roof and a plain wooden front door, a big old shady tree, two traditional joali rope seats facing each other under the tree, a low coral-stone boundary wall with an open wooden gate onto a sandy lane. Camera: over-the-shoulder medium shot from behind Hassanfulhu, Zumra and the doorway in the upper half.\nCharacters: Hassanfulhu: a tall lean upright Maldivian man about 65 with weathered warm brown skin, a long calm stern face, sharp steady eyes and a long white beard; wears a white knitted skullcap, a white long-sleeved shirt and a white sarong to the ankles. Zumra: a slim graceful Maldivian young woman in her early 20s with smooth light-brown skin with a faint moonlit glow, a strikingly beautiful heart-shaped face, large dark eyes with an unusual silvery sparkle and an enigmatic faint smile; wears a loose long-sleeved ankle-length midnight-blue dress with fine silver embroidery at the cuffs and hem and a pale silver-grey hijab fully covering her hair and neck.\nMood/lighting: early evening just after sunset, soft orange-violet afterglow in the sky, warm amber light from the house doorway, uneasy calm turning tense.\nModest Maldivian clothing (women in loose long-sleeved ankle-length dresses with hijab fully covering hair and neck; men in shirts and long trousers or sarong), culturally respectful, no violence shown, no blood, no gore, no monsters, no horror creatures, no text, no letters, no writing, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.298,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 50.0,
+    "y_pct": 40.0,
+    "face_detected": false
+   }
+  },
+  {
+   "id": "beat_009",
+   "startMs": 252815,
+   "endMs": 300487,
+   "new_image_reason": "emotional turning point: open confrontation — Shamaan and Sakeena order Hassanfulhu out",
+   "characters": [
+    "shamaan",
+    "sakeena",
+    "hassanfulhu"
+   ],
+   "location": "the sandy front yard of Shamaan's family home: a single-storey whitewashed coral-stone house with a corrugated tin roof and a plain wooden front door, a big old shady tree, two traditional joali rope seats facing each other under the tree, a low coral-stone boundary wall with an open wooden gate onto a sandy lane",
+   "location_key": "yard_dusk",
+   "mood": "early evening just after sunset, soft orange-violet afterglow in the sky, warm amber light from the house doorway, uneasy calm turning tense",
+   "visual": "Shamaan standing tall with an angry face, one arm stretched out pointing towards the gate; Sakeena standing beside him, furious and indignant; Hassanfulhu facing them at a clear distance across the sand, calm, firm and unmoved",
+   "camera": "medium wide three-shot, eye level, faces in the upper half",
+   "image": "images/beat_009.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "garden_day",
+   "shots": [
+    {
+     "id": "shot_030",
+     "startMs": 252815,
+     "endMs": 261976,
+     "narration_dhivehi": "\"އޭތް ފާޑުފާޑުގެ ވާހަކަ ދައްކާނެކަމެއްނެތް މިގެއަށް އައިސް. ކަލޭ އެހާ އަވަހަށް ހިތްކީ ދޯ!\" ޝަމްއާންގެ ކެތްތެރިކަން ކޮޅުންލައި، ރުޅިގަދަވިއެވެ.",
+     "narration_english": "\"Hey, there is no need to come to this house and talk such strange things. You've got some nerve!\" Shamaan's patience ran out and he grew angry.",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_031",
+     "startMs": 261976,
+     "endMs": 273366,
+     "narration_dhivehi": "\"މިގެއަށް ތިއައީ ދޭތެރެޖައްސަން ދޯ؟\" ޝަމްއާންގެ މަންމަވެސް ހުރީ އިންތިހާއަށް ރުޅިއައިސްފައެވެ. އަމިއްލަ ދަރިފުޅާ ބެހޭގޮތުން އެފަދަ ވާހަކައެއް އިވުމުން އޭނާއަށް ކެތްތެރި ނުވެވުނީއެވެ.",
+     "narration_english": "\"Did you come to this house to sow trouble?\" Shamaan's mother was furious too. Hearing such things about her own child's wife, she could not stay patient.",
+     "crop": "tight",
+     "motion": "pan right",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      20.3,
+      4.8,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_032",
+     "startMs": 273366,
+     "endMs": 282326,
+     "narration_dhivehi": "\"އަހަރެންނަށް ހީވަނީ އެއީ ޖިންނިއެއްހެން. މިރަށުގައި މި ހިނގާ ކަންތަކުގައި އޭނަގެ އަތެއް އޮވެދާނެ\" ހަސަންފުޅު ވަރަށް ސާބިތުކަމާއެކު ބުންޏެވެ.",
+     "narration_english": "\"I think she is a jinni. She may have a hand in what is happening on this island,\" Hassanfulhu said very firmly.",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_033",
+     "startMs": 282326,
+     "endMs": 291946,
+     "narration_dhivehi": "\"އޭތް ކަލޭ މުސްކުޅިވީމަވެސް ޒުވާން ކުދިން ފަހަތުން ދުވެވޭތޯ ދޯ ބަލަނީ!\" ޝަމްއާން ހަޅޭއްލަވައިގަތެވެ. \"ނިކުމޭ މިގެއިން! ދެން މިގެއަށް ވަދެގެން ނުވާނެ.",
+     "narration_english": "\"Hey, even as an old man you're out to chase young girls!\" Shamaan shouted. \"Get out of this house! Never come into this house again.",
+     "crop": "medium",
+     "motion": "pan up",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      14.2,
+      0.0,
+      71.5,
+      84.7
+     ]
+    },
+    {
+     "id": "shot_034",
+     "startMs": 291946,
+     "endMs": 300487,
+     "narration_dhivehi": "އަދި މިއީ މިރަށުގެ މީހެއްވެސް ނޫނޭ، އައިސް ފާޑުފާޑުގެ ވާހަކަ ދައްކަނީ\" ޝަމްއާންގެ މަންމަ ހަސަންފުޅު އެގެއިން ނިކުތުމަށް އަމުރު ކުރިއެވެ.",
+     "narration_english": "And he's not even from this island — coming here to talk strange things,\" Shamaan's mother said, ordering Hassanfulhu out of the house.",
+     "crop": "tight",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      20.3,
+      4.8,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Shamaan; reference image 2 is Sakeena; reference image 3 is Hassanfulhu), create a new scene: Cinematic semi-realistic digital illustration with a quiet, mysterious island-village mood, moonlit palette of deep indigo, silver-blue and sea-teal with warm amber lamplight accents at night and soft natural tropical light by day, gentle atmospheric haze, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and calm, uncluttered space at the bottom for a logo.\nScene: Shamaan standing tall with an angry face, one arm stretched out pointing towards the gate; Sakeena standing beside him, furious and indignant; Hassanfulhu facing them at a clear distance across the sand, calm, firm and unmoved. Location: the sandy front yard of Shamaan's family home: a single-storey whitewashed coral-stone house with a corrugated tin roof and a plain wooden front door, a big old shady tree, two traditional joali rope seats facing each other under the tree, a low coral-stone boundary wall with an open wooden gate onto a sandy lane. Camera: medium wide three-shot, eye level, faces in the upper half.\nCharacters: Shamaan: a slim Maldivian man about 28 with warm brown skin, a lean oval face, soft dark brown eyes with a sad tired look, straight dark eyebrows, short slightly wavy neatly combed black hair and a short neatly trimmed black beard; wears a plain light-blue long-sleeved button shirt with sleeves rolled to the forearm and dark grey long trousers. Sakeena: a short plump Maldivian woman in her mid 50s with warm brown skin, a round kind face with soft wrinkles and worried dark eyes; wears a loose long-sleeved ankle-length maroon traditional Maldivian dress with a thin gold-thread neckline band and a soft beige headscarf fully covering her hair and neck. Hassanfulhu: a tall lean upright Maldivian man about 65 with weathered warm brown skin, a long calm stern face, sharp steady eyes and a long white beard; wears a white knitted skullcap, a white long-sleeved shirt and a white sarong to the ankles.\nMood/lighting: early evening just after sunset, soft orange-violet afterglow in the sky, warm amber light from the house doorway, uneasy calm turning tense.\nModest Maldivian clothing (women in loose long-sleeved ankle-length dresses with hijab fully covering hair and neck; men in shirts and long trousers or sarong), culturally respectful, no violence shown, no blood, no gore, no monsters, no horror creatures, no text, no letters, no writing, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.382,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 50.0,
+    "y_pct": 40.0,
+    "face_detected": false
+   }
+  },
+  {
+   "id": "beat_010",
+   "startMs": 300487,
+   "endMs": 324587,
+   "new_image_reason": "action change: Hassanfulhu leaves shaking his head; the family's worries",
+   "characters": [
+    "sakeena",
+    "hassanfulhu"
+   ],
+   "location": "the sandy front yard of Shamaan's family home: a single-storey whitewashed coral-stone house with a corrugated tin roof and a plain wooden front door, a big old shady tree, two traditional joali rope seats facing each other under the tree, a low coral-stone boundary wall with an open wooden gate onto a sandy lane",
+   "location_key": "yard_dusk",
+   "mood": "early evening just after sunset, soft orange-violet afterglow in the sky, warm amber light from the house doorway, uneasy calm turning tense",
+   "visual": "Hassanfulhu walking out through the gate onto the dusky lane, seen from behind, shaking his head slowly; in the foreground Sakeena standing in the yard with her arms folded, angry yet worried, watching him go",
+   "camera": "medium wide, Sakeena in the foreground right, the gate in the upper middle",
+   "image": "images/beat_010.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "garden_day",
+   "shots": [
+    {
+     "id": "shot_035",
+     "startMs": 300487,
+     "endMs": 310037,
+     "narration_dhivehi": "ހަސަންފުޅު އިތުރު ވާހަކައެއް ނުދައްކައި، ބޯ ހޫރުވާލަމުން އެގެއިން ނިކުމެގެން ދިޔައީ ހިތްހަމަނުޖެހިފައި ހުރެގެންނެވެ. ޝަމްއާންގެ މަންމަ ހުރީ ރުޅި އައިސްފައެވެ.",
+     "narration_english": "Without another word, shaking his head, Hassanfulhu left the house, displeased. Shamaan's mother was still angry.",
+     "crop": "full",
+     "motion": "pan down",
+     "sfx": [
+      {
+       "name": "footsteps_sand",
+       "atMs": 304827,
+       "gainDb": -22,
+       "word": "ނިކުމެގެން"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_036",
+     "startMs": 310037,
+     "endMs": 317517,
+     "narration_dhivehi": "ޝަމްއާން އާއި ދޭތެރޭ ރަށުގެ މީހުން ދެކޭގޮތުންނެވެ. ޝަމްއާންގެ ފުރަތަމަ ކައިވެނިވެސް ނިމިގެން ދިޔައީ އެހާމެ ހިތްދަތި ގޮތަށެވެ.",
+     "narration_english": "It was because of how the islanders were talking about Shamaan. Shamaan's first marriage too had ended so painfully.",
+     "crop": "tight",
+     "motion": "static drift",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      5.9,
+      11.2,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_037",
+     "startMs": 317517,
+     "endMs": 324587,
+     "narration_dhivehi": "އަނެއްކާ މިފަހަރުވެސް އެގޮތަށް ވާކަށް އެމީހުނެއް ނޭދެއެވެ. އަދި އަމުދުން ޒުމްރާ ބީވެގެން ދާކަށް ޝަމްއާނެއް ނޭދެއެވެ.",
+     "narration_english": "They did not want it to go that way again this time. And Shamaan certainly did not want to be parted from Zumra.",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [
+      {
+       "name": "sigh",
+       "atMs": 320447,
+       "gainDb": -24,
+       "word": "ނޭދެއެވެ."
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Sakeena; reference image 2 is Hassanfulhu), create a new scene: Cinematic semi-realistic digital illustration with a quiet, mysterious island-village mood, moonlit palette of deep indigo, silver-blue and sea-teal with warm amber lamplight accents at night and soft natural tropical light by day, gentle atmospheric haze, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and calm, uncluttered space at the bottom for a logo.\nScene: Hassanfulhu walking out through the gate onto the dusky lane, seen from behind, shaking his head slowly; in the foreground Sakeena standing in the yard with her arms folded, angry yet worried, watching him go. Location: the sandy front yard of Shamaan's family home: a single-storey whitewashed coral-stone house with a corrugated tin roof and a plain wooden front door, a big old shady tree, two traditional joali rope seats facing each other under the tree, a low coral-stone boundary wall with an open wooden gate onto a sandy lane. Camera: medium wide, Sakeena in the foreground right, the gate in the upper middle.\nCharacters: Sakeena: a short plump Maldivian woman in her mid 50s with warm brown skin, a round kind face with soft wrinkles and worried dark eyes; wears a loose long-sleeved ankle-length maroon traditional Maldivian dress with a thin gold-thread neckline band and a soft beige headscarf fully covering her hair and neck. Hassanfulhu: a tall lean upright Maldivian man about 65 with weathered warm brown skin, a long calm stern face, sharp steady eyes and a long white beard; wears a white knitted skullcap, a white long-sleeved shirt and a white sarong to the ankles.\nMood/lighting: early evening just after sunset, soft orange-violet afterglow in the sky, warm amber light from the house doorway, uneasy calm turning tense.\nModest Maldivian clothing (women in loose long-sleeved ankle-length dresses with hijab fully covering hair and neck; men in shirts and long trousers or sarong), culturally respectful, no violence shown, no blood, no gore, no monsters, no horror creatures, no text, no letters, no writing, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.228,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 35.6,
+    "y_pct": 46.4,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_011",
+   "startMs": 324587,
+   "endMs": 351238,
+   "new_image_reason": "time change: near sunset, Zumra comes into the yard hurt and in tears",
+   "characters": [
+    "zumra",
+    "shamaan",
+    "sakeena"
+   ],
+   "location": "the sandy front yard of Shamaan's family home: a single-storey whitewashed coral-stone house with a corrugated tin roof and a plain wooden front door, a big old shady tree, two traditional joali rope seats side by side under the tree, a low coral-stone boundary wall with an open wooden gate",
+   "location_key": "yard_sunset",
+   "mood": "another evening close to sunset, long low golden-orange light through the palms fading into blue dusk, troubled and anxious",
+   "visual": "Zumra standing in the yard holding her forearm wrapped in a plain white cloth, her face pained and tearful; Shamaan sitting up on the joali, alarmed and angry; Sakeena sitting on the next joali looking at Zumra with concern",
+   "camera": "medium wide, eye level, faces in the upper half",
+   "image": "images/beat_011.png",
+   "reuse_of": null,
+   "transition_in": "black",
+   "sensitive": "violence",
+   "safe_substitution": "Zumra's 'injuries' shown only as a forearm wrapped in plain cloth and a pained face; no wounds or blood",
+   "ambience": "garden_day",
+   "shots": [
+    {
+     "id": "shot_038",
+     "startMs": 324587,
+     "endMs": 332507,
+     "narration_dhivehi": "އިރުއޮއްސެން ގާތްވި ވަގުތު ޝަމްއާން އޮތީ ގޯތިތެރޭގައި ހުރި ޖޯލިފަތީގައެވެ. ޝަމްއާންގެ މަންމަވެސް ޖެހިގެން ހުރި ޖޯލީގައި އޮތެވެ.",
+     "narration_english": "Near sunset Shamaan was lying on the joali in the yard. His mother was lying on the joali next to it.",
+     "crop": "full",
+     "motion": "pan left",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_039",
+     "startMs": 332507,
+     "endMs": 342218,
+     "narration_dhivehi": "ޒުމްރާ ވެސް ގޯތިތެރެއަށް ވަދެގެން އާދެއެވެ. \"މިރަށު މީހުން އުޅެނީ އަހަރެން ނައްތާލަންތަ؟ ބަލާބަލަ އެމީހުން އަހަރެންނަށް ކޮއްފައިވާ އަނިޔާ\" ޒުމްރާ ޝަކުވާ ކުރިއެވެ.",
+     "narration_english": "Zumra too came into the yard. \"Are the islanders trying to destroy me? Look what they have done to me,\" Zumra complained.",
+     "crop": "tight",
+     "motion": "slow pull-out",
+     "sfx": [
+      {
+       "name": "footsteps_sand",
+       "atMs": 334007,
+       "gainDb": -22,
+       "word": "ވަދެގެން"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      0.0,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_040",
+     "startMs": 342218,
+     "endMs": 351238,
+     "narration_dhivehi": "\"ކާކު ތިހެން ހެދީ\" ޝަމްއާން ރުޅިގަދަވިއެވެ. \"އެއުޅޭ ހަސަންފުޅު. އަހަރެންނަށްވެސް ތަދުވޭ\" ޒުމްރާއަށް ރޮވުނެވެ. \"މިދަނީ ތިބުނާ ހަސަން ފުޅަކާއި ދިމާލަށް.",
+     "narration_english": "\"Who did this?\" Shamaan flared up. \"That Hassanfulhu. It hurts so much,\" Zumra wept. \"I'm going straight to this Hassanfulhu.",
+     "crop": "full",
+     "motion": "pan right",
+     "sfx": [
+      {
+       "name": "sob_breath",
+       "atMs": 348348,
+       "gainDb": -22,
+       "word": "ރޮވުނެވެ."
+      }
+     ],
+     "hum": true,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Zumra; reference image 2 is Shamaan; reference image 3 is Sakeena), create a new scene: Cinematic semi-realistic digital illustration with a quiet, mysterious island-village mood, moonlit palette of deep indigo, silver-blue and sea-teal with warm amber lamplight accents at night and soft natural tropical light by day, gentle atmospheric haze, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and calm, uncluttered space at the bottom for a logo.\nScene: Zumra standing in the yard holding her forearm wrapped in a plain white cloth, her face pained and tearful; Shamaan sitting up on the joali, alarmed and angry; Sakeena sitting on the next joali looking at Zumra with concern. Location: the sandy front yard of Shamaan's family home: a single-storey whitewashed coral-stone house with a corrugated tin roof and a plain wooden front door, a big old shady tree, two traditional joali rope seats side by side under the tree, a low coral-stone boundary wall with an open wooden gate. Camera: medium wide, eye level, faces in the upper half.\nCharacters: Zumra: a slim graceful Maldivian young woman in her early 20s with smooth light-brown skin with a faint moonlit glow, a strikingly beautiful heart-shaped face, large dark eyes with an unusual silvery sparkle and an enigmatic faint smile; wears a loose long-sleeved ankle-length midnight-blue dress with fine silver embroidery at the cuffs and hem and a pale silver-grey hijab fully covering her hair and neck. Shamaan: a slim Maldivian man about 28 with warm brown skin, a lean oval face, soft dark brown eyes with a sad tired look, straight dark eyebrows, short slightly wavy neatly combed black hair and a short neatly trimmed black beard; wears a plain light-blue long-sleeved button shirt with sleeves rolled to the forearm and dark grey long trousers. Sakeena: a short plump Maldivian woman in her mid 50s with warm brown skin, a round kind face with soft wrinkles and worried dark eyes; wears a loose long-sleeved ankle-length maroon traditional Maldivian dress with a thin gold-thread neckline band and a soft beige headscarf fully covering her hair and neck.\nMood/lighting: another evening close to sunset, long low golden-orange light through the palms fading into blue dusk, troubled and anxious.\nModest Maldivian clothing (women in loose long-sleeved ankle-length dresses with hijab fully covering hair and neck; men in shirts and long trousers or sarong), culturally respectful, no violence shown, no blood, no gore, no monsters, no horror creatures, no text, no letters, no writing, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.225,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 25.0,
+    "y_pct": 21.2,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_012",
+   "startMs": 351238,
+   "endMs": 370298,
+   "new_image_reason": "action change: Shamaan rushes off to confront Hassanfulhu, his mother hurrying after him",
+   "characters": [
+    "shamaan",
+    "sakeena",
+    "zumra"
+   ],
+   "location": "a narrow sandy island lane between low coral-stone walls and coconut palms, a simple white mosque with a small minaret far away at the end of the lane",
+   "location_key": "lane_dusk",
+   "mood": "dusk, deep blue twilight with the last orange glow on the horizon, long shadows, urgent and emotional",
+   "visual": "Shamaan striding fast down the sandy lane with clenched fists and an angry determined face; Sakeena hurrying behind him with one arm outstretched, calling out anxiously; far behind at the corner of a wall Zumra standing small, watching",
+   "camera": "wide shot down the lane, eye level, the figures in the upper two-thirds",
+   "image": "images/beat_012.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "village_night",
+   "shots": [
+    {
+     "id": "shot_041",
+     "startMs": 351238,
+     "endMs": 360878,
+     "narration_dhivehi": "ޒުމްރާ އަށް ހެދިހެން ހަދާލާނަން\" ޝަމްއާން ދުއްވައިގަތެވެ. ފަހަތުން ޝަމްއާންގެ މަންމަވެސް ދުއްވައިގަތެވެ. ޝަމްއާން ހަސަންފުޅަށް އަނިޔާ ކޮށްފާނެތީއެވެ.",
+     "narration_english": "I'll do to him what he did to Zumra.\" Shamaan ran off. His mother ran after him, afraid that Shamaan would hurt Hassanfulhu.",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [
+      {
+       "name": "footsteps_sand",
+       "atMs": 353848,
+       "gainDb": -18,
+       "word": "ދުއްވައިގަތެވެ."
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_042",
+     "startMs": 360878,
+     "endMs": 370298,
+     "narration_dhivehi": "ޒުމްރާ އެތަން ބަލަން ދުރުގައި ހުއްޓެވެ. ޝަމްއާން އެދިޔަގޮތަށްގޮސް ހުއްޓުނީ ހަސަންފުޅު އުޅޭ ގެއަށެވެ. އެވަގުތަކީ ހަސަންފުޅުވެސް މިސްކިތަށްދާން ނިކުތް ވަގުތެވެ.",
+     "narration_english": "Zumra stood far away, watching. Shamaan went straight on and stopped at the house where Hassanfulhu was staying. It was just when Hassanfulhu was coming out to go to the mosque.",
+     "crop": "tight",
+     "motion": "pan up",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      0.0,
+      0.0,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Shamaan; reference image 2 is Sakeena; reference image 3 is Zumra), create a new scene: Cinematic semi-realistic digital illustration with a quiet, mysterious island-village mood, moonlit palette of deep indigo, silver-blue and sea-teal with warm amber lamplight accents at night and soft natural tropical light by day, gentle atmospheric haze, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and calm, uncluttered space at the bottom for a logo.\nScene: Shamaan striding fast down the sandy lane with clenched fists and an angry determined face; Sakeena hurrying behind him with one arm outstretched, calling out anxiously; far behind at the corner of a wall Zumra standing small, watching. Location: a narrow sandy island lane between low coral-stone walls and coconut palms, a simple white mosque with a small minaret far away at the end of the lane. Camera: wide shot down the lane, eye level, the figures in the upper two-thirds.\nCharacters: Shamaan: a slim Maldivian man about 28 with warm brown skin, a lean oval face, soft dark brown eyes with a sad tired look, straight dark eyebrows, short slightly wavy neatly combed black hair and a short neatly trimmed black beard; wears a plain light-blue long-sleeved button shirt with sleeves rolled to the forearm and dark grey long trousers. Sakeena: a short plump Maldivian woman in her mid 50s with warm brown skin, a round kind face with soft wrinkles and worried dark eyes; wears a loose long-sleeved ankle-length maroon traditional Maldivian dress with a thin gold-thread neckline band and a soft beige headscarf fully covering her hair and neck. Zumra: a slim graceful Maldivian young woman in her early 20s with smooth light-brown skin with a faint moonlit glow, a strikingly beautiful heart-shaped face, large dark eyes with an unusual silvery sparkle and an enigmatic faint smile; wears a loose long-sleeved ankle-length midnight-blue dress with fine silver embroidery at the cuffs and hem and a pale silver-grey hijab fully covering her hair and neck.\nMood/lighting: dusk, deep blue twilight with the last orange glow on the horizon, long shadows, urgent and emotional.\nModest Maldivian clothing (women in loose long-sleeved ankle-length dresses with hijab fully covering hair and neck; men in shirts and long trousers or sarong), culturally respectful, no violence shown, no blood, no gore, no monsters, no horror creatures, no text, no letters, no writing, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.213,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 27.5,
+    "y_pct": 19.6,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_013",
+   "startMs": 370298,
+   "endMs": 400989,
+   "new_image_reason": "scene change: at Hassanfulhu's lodging house, face-to-face standoff",
+   "characters": [
+    "shamaan",
+    "hassanfulhu"
+   ],
+   "location": "the open wooden gate of a small old coral-stone house on a sandy island lane where a visiting elder lodges, a frangipani tree by the wall, the white mosque minaret visible over the roofs",
+   "location_key": "hassan_gate",
+   "mood": "dusk around maghrib time, deep blue twilight, a warm lamp glowing in the doorway, tense and charged",
+   "visual": "Shamaan and Hassanfulhu standing face to face at arm's length in front of the gate, Shamaan leaning forward with a furious face and wild eyes, Hassanfulhu leaning back with one open palm raised to keep distance, calm but stern, on his way to the mosque",
+   "camera": "medium two-shot in profile, eye level",
+   "image": "images/beat_013.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": "violence",
+   "safe_substitution": "the grab at the throat and the push are not shown: a tense standoff at arm's length",
+   "ambience": "village_night",
+   "shots": [
+    {
+     "id": "shot_043",
+     "startMs": 370298,
+     "endMs": 380849,
+     "narration_dhivehi": "ޝަމްއާން ގޮސް ފުރަތަމަވެސް ހިފީ ހަސަންފުޅުގެ އަތުގައެވެ. \"ކިހިނެއް އުޅޭނަމޭ ހިތާތަ ތިއުޅެނީ މަގޭ އަނބިމީހާ ފަހަތުން ނެއްޓެން ނޭނގިގެން\" ޝަމްއާން ހަސަންފުޅުގެ ކަރަށް ފިތައިލިއެވެ.",
+     "narration_english": "Shamaan went and first grabbed Hassanfulhu by the arm. \"How do you think you can carry on, not knowing to stay away from my wife?\" Shamaan pressed at Hassanfulhu's throat.",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [
+      {
+       "name": "cloth_rustle",
+       "atMs": 371728,
+       "gainDb": -20,
+       "word": "ހިފީ"
+      }
+     ],
+     "hum": true,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_044",
+     "startMs": 380849,
+     "endMs": 393359,
+     "narration_dhivehi": "\"އޭ މިހިރަ މީހާ މިރަށުން ފައިބަން އުޅޭ\" ޝަމްއާން މަންމަވެސް ހަސަންފުޅާއި ދިމާލަށް ހަޅޭލަވަންފެށިއެވެ. \"ބަލަ އަހަރެން މިއުޅެނީ ހަމަ ކަލޭމެންގެވެސް ރައްކަލަކަށޭ\" ހަސަންފުޅު ޝަމްއާން ކޮއްޕާ ދުރަށްލަމުން ބުނެލިއެވެ.",
+     "narration_english": "\"Hey, this man should get off this island,\" Shamaan's mother began shouting at Hassanfulhu too. \"Listen, what I am doing is for your own safety too,\" Hassanfulhu said, pushing Shamaan away.",
+     "crop": "tight",
+     "motion": "pan down",
+     "sfx": [
+      {
+       "name": "soft_thud",
+       "atMs": 391749,
+       "gainDb": -20,
+       "word": "ކޮއްޕާ"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      10.9,
+      29.6,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_045",
+     "startMs": 393359,
+     "endMs": 400989,
+     "narration_dhivehi": "\"އާނ ވަރަށް ރައްކާތެރި. މަގޭ އަނބިމީހާއަށް ކަލޭ ކޮށްލާފައި ހުރިވަރު ނިކަން ދެކިބަލަ\" ޝަމްއާން ބުނެލިއެވެ.",
+     "narration_english": "\"Oh yes, very safe. Just look at what you have done to my wife,\" Shamaan said.",
+     "crop": "full",
+     "motion": "static drift",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Shamaan; reference image 2 is Hassanfulhu), create a new scene: Cinematic semi-realistic digital illustration with a quiet, mysterious island-village mood, moonlit palette of deep indigo, silver-blue and sea-teal with warm amber lamplight accents at night and soft natural tropical light by day, gentle atmospheric haze, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and calm, uncluttered space at the bottom for a logo.\nScene: Shamaan and Hassanfulhu standing face to face at arm's length in front of the gate, Shamaan leaning forward with a furious face and wild eyes, Hassanfulhu leaning back with one open palm raised to keep distance, calm but stern, on his way to the mosque. Location: the open wooden gate of a small old coral-stone house on a sandy island lane where a visiting elder lodges, a frangipani tree by the wall, the white mosque minaret visible over the roofs. Camera: medium two-shot in profile, eye level.\nCharacters: Shamaan: a slim Maldivian man about 28 with warm brown skin, a lean oval face, soft dark brown eyes with a sad tired look, straight dark eyebrows, short slightly wavy neatly combed black hair and a short neatly trimmed black beard; wears a plain light-blue long-sleeved button shirt with sleeves rolled to the forearm and dark grey long trousers. Hassanfulhu: a tall lean upright Maldivian man about 65 with weathered warm brown skin, a long calm stern face, sharp steady eyes and a long white beard; wears a white knitted skullcap, a white long-sleeved shirt and a white sarong to the ankles.\nMood/lighting: dusk around maghrib time, deep blue twilight, a warm lamp glowing in the doorway, tense and charged.\nModest Maldivian clothing (women in loose long-sleeved ankle-length dresses with hijab fully covering hair and neck; men in shirts and long trousers or sarong), culturally respectful, no violence shown, no blood, no gore, no monsters, no horror creatures, no text, no letters, no writing, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.422,
+    "halo": true
+   },
+   "focus": {
+    "x_pct": 40.6,
+    "y_pct": 82.9,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_014",
+   "startMs": 400989,
+   "endMs": 428250,
+   "new_image_reason": "character focus change: Sakeena tries to hold Shamaan back while Hassanfulhu warns them",
+   "characters": [
+    "sakeena",
+    "shamaan",
+    "hassanfulhu"
+   ],
+   "location": "the open wooden gate of a small old coral-stone house on a sandy island lane where a visiting elder lodges, a frangipani tree by the wall, the white mosque minaret visible over the roofs",
+   "location_key": "hassan_gate",
+   "mood": "dusk around maghrib time, deep blue twilight, a warm lamp glowing in the doorway, tense and charged",
+   "visual": "Sakeena holding her son Shamaan's arm with both hands and pulling him back, her face pleading and upset; Shamaan straining forward, shouting; Hassanfulhu a few steps away with both open palms raised, earnestly warning them",
+   "camera": "medium wide, eye level, faces in the upper half",
+   "image": "images/beat_014.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "village_night",
+   "shots": [
+    {
+     "id": "shot_046",
+     "startMs": 400989,
+     "endMs": 407239,
+     "narration_dhivehi": "އެއިރުވެސް ޝަމްއާން ހިފަހައްޓާލެވޭތޯ މަންމަ މަސައްކަތް ކުރަމުން ދިޔައެވެ. \"ގަބޫލުކޮށްބަލަ އެއީ ހަމަ ޖިންނިއެކޭ.",
+     "narration_english": "All the while his mother kept trying to hold Shamaan back. \"Believe me, she really is a jinni.",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_047",
+     "startMs": 407239,
+     "endMs": 417399,
+     "narration_dhivehi": "ކަލޭމެންނަށް ކޮންމެކަހަލަ ގެއްލުމެއްވެސް ދީފާނެ\" ޝަމްއާންމެންނަށް ވިސްނައިދެވޭތޯ ހަސަންފުޅު މަސައްކަތް ކުރިއެވެ. \"ބަލަ ކަލޭގެ އަނބިމީހާ އާއި ކަލޭގެ ދަރިންނަކީ ޖިންނިން.",
+     "narration_english": "She could do you any kind of harm,\" Hassanfulhu tried to make them understand. \"Look, your wife and your children are jinn.",
+     "crop": "tight",
+     "motion": "pan left",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      20.3,
+      4.8,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_048",
+     "startMs": 417399,
+     "endMs": 428250,
+     "narration_dhivehi": "މަގޭ އަނބިމީހާ އަކީ އިންސާނެއް. ނުލާހިކު ރަނގަޅު ކުއްޖެއް\" ޝަމްއާން އެހެން ބުނުމާކު ހަސަންފުޅު ކޮއްޕާލިއެވެ. ޝަމްއާން މަންމަ އޭނާ ހިފެހެއްޓޭތޯ ބެލި ނަމަވެސް އެކަންވީ ބޭކާރެވެ.",
+     "narration_english": "My wife is a human being. A wonderfully good girl.\" As Shamaan said this, Hassanfulhu pushed him off. His mother tried to hold him, but in vain.",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [
+      {
+       "name": "soft_thud",
+       "atMs": 422770,
+       "gainDb": -18,
+       "word": "ކޮއްޕާލިއެވެ."
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Sakeena; reference image 2 is Shamaan; reference image 3 is Hassanfulhu), create a new scene: Cinematic semi-realistic digital illustration with a quiet, mysterious island-village mood, moonlit palette of deep indigo, silver-blue and sea-teal with warm amber lamplight accents at night and soft natural tropical light by day, gentle atmospheric haze, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and calm, uncluttered space at the bottom for a logo.\nScene: Sakeena holding her son Shamaan's arm with both hands and pulling him back, her face pleading and upset; Shamaan straining forward, shouting; Hassanfulhu a few steps away with both open palms raised, earnestly warning them. Location: the open wooden gate of a small old coral-stone house on a sandy island lane where a visiting elder lodges, a frangipani tree by the wall, the white mosque minaret visible over the roofs. Camera: medium wide, eye level, faces in the upper half.\nCharacters: Sakeena: a short plump Maldivian woman in her mid 50s with warm brown skin, a round kind face with soft wrinkles and worried dark eyes; wears a loose long-sleeved ankle-length maroon traditional Maldivian dress with a thin gold-thread neckline band and a soft beige headscarf fully covering her hair and neck. Shamaan: a slim Maldivian man about 28 with warm brown skin, a lean oval face, soft dark brown eyes with a sad tired look, straight dark eyebrows, short slightly wavy neatly combed black hair and a short neatly trimmed black beard; wears a plain light-blue long-sleeved button shirt with sleeves rolled to the forearm and dark grey long trousers. Hassanfulhu: a tall lean upright Maldivian man about 65 with weathered warm brown skin, a long calm stern face, sharp steady eyes and a long white beard; wears a white knitted skullcap, a white long-sleeved shirt and a white sarong to the ankles.\nMood/lighting: dusk around maghrib time, deep blue twilight, a warm lamp glowing in the doorway, tense and charged.\nModest Maldivian clothing (women in loose long-sleeved ankle-length dresses with hijab fully covering hair and neck; men in shirts and long trousers or sarong), culturally respectful, no violence shown, no blood, no gore, no monsters, no horror creatures, no text, no letters, no writing, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.221,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 50.0,
+    "y_pct": 40.0,
+    "face_detected": false
+   }
+  },
+  {
+   "id": "beat_015",
+   "startMs": 428250,
+   "endMs": 446380,
+   "new_image_reason": "character enters: Zumra on the road in tears, she runs to Shamaan",
+   "characters": [
+    "zumra",
+    "shamaan",
+    "sakeena"
+   ],
+   "location": "a narrow sandy island lane between low coral-stone walls and coconut palms, a simple white mosque with a small minaret far away at the end of the lane",
+   "location_key": "lane_dusk",
+   "mood": "dusk, deep blue twilight with the last orange glow on the horizon, long shadows, urgent and emotional",
+   "visual": "Zumra standing upright beside her husband Shamaan in the dusky lane, both facing the viewer side by side, her head held upright and not leaning on him, only her one hand lightly resting on his forearm; both are weeping: Zumra with tears running down her cheeks, brows drawn together in pain and sorrow, no smile at all; Shamaan with wet eyes and a grief-stricken face looking down at her; Sakeena standing a few steps behind them, troubled",
+   "camera": "medium shot, eye level, faces in the upper half",
+   "image": "images/beat_015.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": "intimacy",
+   "safe_substitution": "the hug is shown as husband and wife standing close side by side with her hand on his arm (bible)",
+   "ambience": "village_night",
+   "shots": [
+    {
+     "id": "shot_049",
+     "startMs": 428250,
+     "endMs": 436330,
+     "narration_dhivehi": "މަންމަ ޝަމްއާން ގޮވައިގެން ގެއަށްދާން ހިނގައިގަތެވެ. މަގުމައްޗަށް ނިކުތްއިރު ޒުމްރާ މަގުމަތީގައި ހުއްޓާ ޝަމްއާންއަށް ފެނުނެވެ.",
+     "narration_english": "His mother set off home, taking Shamaan with her. As they came out onto the road, Shamaan saw Zumra standing in the road.",
+     "crop": "full",
+     "motion": "pan right",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_050",
+     "startMs": 436330,
+     "endMs": 446380,
+     "narration_dhivehi": "އެއިރުވެސް ޒުމްރާގެ ލޮލުން ކަރުނަ ފައިބަމުންދެއެވެ. ޝަމްއާން ފެނުމާއި އެކު ޒުމްރާ ދުވެފައި އައިސް ޝަމްއާންގެ ގައިގައި އޮޅުލައިގަތެވެ. އެއާއިއެކު ޝަމްއާންއަށްވެސް ރޮވިއްޖެއެވެ.",
+     "narration_english": "Tears were still falling from Zumra's eyes. On seeing Shamaan, Zumra ran to him and clung to him. At that, Shamaan too broke into tears.",
+     "crop": "tight",
+     "motion": "slow push-in",
+     "sfx": [
+      {
+       "name": "sob_breath",
+       "atMs": 445570,
+       "gainDb": -22,
+       "word": "ރޮވިއްޖެއެވެ."
+      }
+     ],
+     "hum": true,
+     "crop_rect_pct": [
+      5.1,
+      0.0,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Zumra; reference image 2 is Shamaan; reference image 3 is Sakeena), create a new scene: Cinematic semi-realistic digital illustration with a quiet, mysterious island-village mood, moonlit palette of deep indigo, silver-blue and sea-teal with warm amber lamplight accents at night and soft natural tropical light by day, gentle atmospheric haze, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and calm, uncluttered space at the bottom for a logo.\nScene: Zumra standing upright beside her husband Shamaan in the dusky lane, both facing the viewer side by side, her head held upright and not leaning on him, only her one hand lightly resting on his forearm; both are weeping: Zumra with tears running down her cheeks, brows drawn together in pain and sorrow, no smile at all; Shamaan with wet eyes and a grief-stricken face looking down at her; Sakeena standing a few steps behind them, troubled. Location: a narrow sandy island lane between low coral-stone walls and coconut palms, a simple white mosque with a small minaret far away at the end of the lane. Camera: medium shot, eye level, faces in the upper half.\nCharacters: Zumra: a slim graceful Maldivian young woman in her early 20s with smooth light-brown skin with a faint moonlit glow, a strikingly beautiful heart-shaped face, large dark eyes with an unusual silvery sparkle and an enigmatic faint smile; wears a loose long-sleeved ankle-length midnight-blue dress with fine silver embroidery at the cuffs and hem and a pale silver-grey hijab fully covering her hair and neck. Shamaan: a slim Maldivian man about 28 with warm brown skin, a lean oval face, soft dark brown eyes with a sad tired look, straight dark eyebrows, short slightly wavy neatly combed black hair and a short neatly trimmed black beard; wears a plain light-blue long-sleeved button shirt with sleeves rolled to the forearm and dark grey long trousers. Sakeena: a short plump Maldivian woman in her mid 50s with warm brown skin, a round kind face with soft wrinkles and worried dark eyes; wears a loose long-sleeved ankle-length maroon traditional Maldivian dress with a thin gold-thread neckline band and a soft beige headscarf fully covering her hair and neck.\nMood/lighting: dusk, deep blue twilight with the last orange glow on the horizon, long shadows, urgent and emotional.\nModest Maldivian clothing (women in loose long-sleeved ankle-length dresses with hijab fully covering hair and neck; men in shirts and long trousers or sarong), culturally respectful, no violence shown, no blood, no gore, no monsters, no horror creatures, no text, no letters, no writing, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.222,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 34.8,
+    "y_pct": 24.9,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_016",
+   "startMs": 446380,
+   "endMs": 492421,
+   "new_image_reason": "character change: Hassanfulhu approaches, Zumra flees and vanishes, the argument",
+   "characters": [
+    "hassanfulhu",
+    "shamaan",
+    "sakeena"
+   ],
+   "location": "a narrow sandy island lane between low coral-stone walls and coconut palms, a simple white mosque with a small minaret far away at the end of the lane",
+   "location_key": "lane_dusk",
+   "mood": "dusk, deep blue twilight with the last orange glow on the horizon, long shadows, urgent and emotional",
+   "visual": "Hassanfulhu walking towards the camera down the darkening lane, puzzled and stern; Shamaan glaring at him; Sakeena holding Shamaan's hand and turning him away; far in the background a faint silver-blue translucent silhouette of a girl in a long dress fading into the twilight mist",
+   "camera": "wide shot, eye level, the figures in the upper two-thirds",
+   "image": "images/beat_016.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "village_night",
+   "shots": [
+    {
+     "id": "shot_051",
+     "startMs": 446380,
+     "endMs": 453620,
+     "narration_dhivehi": "ކުއްލިއަކަށް ފެނުނީ ހަސަންފުޅު އެމީހުންނާއި ދިމާއަށް އަންނަތަނެވެ. ހަސަންފުޅު ފެނުމާއި އެކު ޒުމްރާ ދުއްވައިގެންފިއެވެ.",
+     "narration_english": "Suddenly they saw Hassanfulhu coming towards them. The moment she saw Hassanfulhu, Zumra ran away.",
+     "crop": "full",
+     "motion": "pan up",
+     "sfx": [
+      {
+       "name": "footsteps_sand",
+       "atMs": 452530,
+       "gainDb": -22,
+       "word": "ދުއްވައިގެންފިއެވެ."
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_052",
+     "startMs": 453620,
+     "endMs": 463660,
+     "narration_dhivehi": "ޝަމްއާން ބަލަހައްޓައިގެން ހުއްޓާ ޒުމްރާ ދުވެފައިގޮސް ގެއްލިއްޖެއެވެ. \"ދެމީހުން އަދިވެސް ގެއަށް ނުދަނީތަ\" ހަސަންފުޅު އެމީހުންނާއި ވާހަކަ ދައްކަންފެށިއެވެ. \"ދެމީހުންތަ؟",
+     "narration_english": "As Shamaan stood watching, Zumra ran off and vanished. \"Are you two still not going home?\" Hassanfulhu began. \"Two of us?",
+     "crop": "tight",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      0.0,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_053",
+     "startMs": 463660,
+     "endMs": 473091,
+     "narration_dhivehi": "ބަލަ ކަލޭވެސް އަނދިރި ދޯ މިހާރު. އެކަމަކުވެސް ޒުވާން އަންހެން ކުދިންގެ ފަހަތުން ތިދުވަނީ\" ޝަމްއާން ޖަވާބު ދިނެވެ. \"ހިނގާ ދާން ދަރިފުޅާ.",
+     "narration_english": "Look, you've gone blind now, haven't you. And still you chase after young girls,\" Shamaan answered. \"Let's go, my son.",
+     "crop": "full",
+     "motion": "pan down",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_054",
+     "startMs": 473091,
+     "endMs": 481801,
+     "narration_dhivehi": "އެއީ ވަރަށް ނުބައި މީހެއް\" މަންމަ ޝަމްއާން އަތުގައި ހިފައިގެން ހިނގައިގެންފިއެވެ. \"މަޑުކޮށްބަލަ! އަހަރެންނަށް ފެނުނީ ހަމައެކަނި ތިޔަ ދެމީހުން.",
+     "narration_english": "He's a very wicked man,\" his mother said, taking Shamaan by the hand and walking off. \"Wait! I only saw the two of you.",
+     "crop": "medium",
+     "motion": "static drift",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      0.0,
+      0.0,
+      71.5,
+      84.7
+     ]
+    },
+    {
+     "id": "shot_055",
+     "startMs": 481801,
+     "endMs": 492421,
+     "narration_dhivehi": "އިތުރު އެހެން މީހަކު ފެންނާކަށް ނެތް\" ހަސަންފުޅު ބުންޏެވެ. \"ކަލެއަށް އަހަރެންގެ އަނބިމީހާ ނުފެނުނީތަ؟ ކަލޭ ފެނުމުން ބިރުން އެ ދިޔައީ ފިލަން\" ޝަމްއާން ރައްދުގައި ބުންޏެވެ.",
+     "narration_english": "I saw no one else,\" Hassanfulhu said. \"Didn't you see my wife? She ran away in fear when she saw you,\" Shamaan retorted.",
+     "crop": "tight",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      0.0,
+      0.0,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Hassanfulhu; reference image 2 is Shamaan; reference image 3 is Sakeena), create a new scene: Cinematic semi-realistic digital illustration with a quiet, mysterious island-village mood, moonlit palette of deep indigo, silver-blue and sea-teal with warm amber lamplight accents at night and soft natural tropical light by day, gentle atmospheric haze, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and calm, uncluttered space at the bottom for a logo.\nScene: Hassanfulhu walking towards the camera down the darkening lane, puzzled and stern; Shamaan glaring at him; Sakeena holding Shamaan's hand and turning him away; far in the background a faint silver-blue translucent silhouette of a girl in a long dress fading into the twilight mist. Location: a narrow sandy island lane between low coral-stone walls and coconut palms, a simple white mosque with a small minaret far away at the end of the lane. Camera: wide shot, eye level, the figures in the upper two-thirds.\nCharacters: Hassanfulhu: a tall lean upright Maldivian man about 65 with weathered warm brown skin, a long calm stern face, sharp steady eyes and a long white beard; wears a white knitted skullcap, a white long-sleeved shirt and a white sarong to the ankles. Shamaan: a slim Maldivian man about 28 with warm brown skin, a lean oval face, soft dark brown eyes with a sad tired look, straight dark eyebrows, short slightly wavy neatly combed black hair and a short neatly trimmed black beard; wears a plain light-blue long-sleeved button shirt with sleeves rolled to the forearm and dark grey long trousers. Sakeena: a short plump Maldivian woman in her mid 50s with warm brown skin, a round kind face with soft wrinkles and worried dark eyes; wears a loose long-sleeved ankle-length maroon traditional Maldivian dress with a thin gold-thread neckline band and a soft beige headscarf fully covering her hair and neck.\nMood/lighting: dusk, deep blue twilight with the last orange glow on the horizon, long shadows, urgent and emotional.\nModest Maldivian clothing (women in loose long-sleeved ankle-length dresses with hijab fully covering hair and neck; men in shirts and long trousers or sarong), culturally respectful, no violence shown, no blood, no gore, no monsters, no horror creatures, no text, no letters, no writing, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.35,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 26.4,
+    "y_pct": 17.5,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_017",
+   "startMs": 492421,
+   "endMs": 512602,
+   "new_image_reason": "action change: the scuffle, separated by island youths",
+   "characters": [
+    "shamaan",
+    "hassanfulhu"
+   ],
+   "location": "a narrow sandy island lane between low coral-stone walls and coconut palms, a simple white mosque with a small minaret far away at the end of the lane",
+   "location_key": "lane_dusk",
+   "mood": "dusk, deep blue twilight with the last orange glow on the horizon, long shadows, urgent and emotional",
+   "visual": "a group of young island men stepping in between Shamaan and Hassanfulhu with outstretched arms, holding the two apart at a distance; Shamaan's face furious, Hassanfulhu's face stern; a white knitted skullcap lying on the sand in the foreground",
+   "camera": "medium wide, eye level, faces in the upper half, the cap on the sand in the lower third",
+   "image": "images/beat_017.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": "violence",
+   "safe_substitution": "the blow is not shown: men stepping in between and a fallen cap on the sand",
+   "ambience": "village_night",
+   "shots": [
+    {
+     "id": "shot_056",
+     "startMs": 492421,
+     "endMs": 503391,
+     "narration_dhivehi": "ހަސަންފުޅު ބުނެލިއެވެ. \"އަހަރެން އެއީ ޖިންނިއެކޭ ބުނި ސަބަބަކީ އެއީ\" މި ބަސްތަކާ އެކު، ރުޅިގަދަވެފައި ހުރި ޝަމްއާން ގޮސް ހަސަންފުޅުގެ އަނގަމައްޗަށް ހޫނު ހަމަލާއެއް ދިނެވެ.",
+     "narration_english": "Hassanfulhu said, \"That is exactly why I said she is a jinni.\" At these words the enraged Shamaan went and struck Hassanfulhu hard in the mouth.",
+     "crop": "full",
+     "motion": "pan left",
+     "sfx": [
+      {
+       "name": "soft_thud",
+       "atMs": 502191,
+       "gainDb": -16,
+       "word": "ހަމަލާއެއް"
+      }
+     ],
+     "hum": true,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_057",
+     "startMs": 503391,
+     "endMs": 512602,
+     "narration_dhivehi": "ހަސަންފުޅުވެސް މަޑަކުން ނުހުއްޓެވެ. ދެމީހުންގެ މެދުގައި އުފެދުނު މި ހަމަނުޖެހުން ހުއްޓުވީ އެވަގުތު އެ ސަރަހައްދަށް އެއްވި ރަށުގެ ޒުވާނުންތަކެކެވެ.",
+     "narration_english": "Hassanfulhu did not stand still either. The scuffle between the two was stopped by the island youths who gathered there at that moment.",
+     "crop": "tight",
+     "motion": "slow pull-out",
+     "sfx": [
+      {
+       "name": "crowd_gasp",
+       "atMs": 511452,
+       "gainDb": -20,
+       "word": "ޒުވާނުންތަކެކެވެ."
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      32.8,
+      9.6,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Shamaan; reference image 2 is Hassanfulhu), create a new scene: Cinematic semi-realistic digital illustration with a quiet, mysterious island-village mood, moonlit palette of deep indigo, silver-blue and sea-teal with warm amber lamplight accents at night and soft natural tropical light by day, gentle atmospheric haze, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and calm, uncluttered space at the bottom for a logo.\nScene: a group of young island men stepping in between Shamaan and Hassanfulhu with outstretched arms, holding the two apart at a distance; Shamaan's face furious, Hassanfulhu's face stern; a white knitted skullcap lying on the sand in the foreground. Location: a narrow sandy island lane between low coral-stone walls and coconut palms, a simple white mosque with a small minaret far away at the end of the lane. Camera: medium wide, eye level, faces in the upper half, the cap on the sand in the lower third.\nCharacters: Shamaan: a slim Maldivian man about 28 with warm brown skin, a lean oval face, soft dark brown eyes with a sad tired look, straight dark eyebrows, short slightly wavy neatly combed black hair and a short neatly trimmed black beard; wears a plain light-blue long-sleeved button shirt with sleeves rolled to the forearm and dark grey long trousers. Hassanfulhu: a tall lean upright Maldivian man about 65 with weathered warm brown skin, a long calm stern face, sharp steady eyes and a long white beard; wears a white knitted skullcap, a white long-sleeved shirt and a white sarong to the ankles.\nMood/lighting: dusk, deep blue twilight with the last orange glow on the horizon, long shadows, urgent and emotional.\nModest Maldivian clothing (women in loose long-sleeved ankle-length dresses with hijab fully covering hair and neck; men in shirts and long trousers or sarong), culturally respectful, no violence shown, no blood, no gore, no monsters, no horror creatures, no text, no letters, no writing, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.346,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 62.5,
+    "y_pct": 44.8,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_018",
+   "startMs": 512602,
+   "endMs": 529212,
+   "new_image_reason": "scene and time change: Friday evening, the main road laid with white cloth and a big table",
+   "characters": [],
+   "location": "the island's broad sandy main road between coral-stone walls and coconut palms, long plain white cloths laid along the ground and hung along the walls, a big plain wooden table set in the middle of the road with simple plastic chairs in a circle around it",
+   "location_key": "road_setup",
+   "mood": "Friday evening close to sunset, fading orange light, dim and still, solemn and uneasy",
+   "visual": "the empty main road laid with long white cloths, a big wooden table in the middle with plastic chairs in a circle around it, a few strong young island men standing quietly at the edges, no one else",
+   "camera": "wide establishing shot, slightly high angle, the table in the upper half",
+   "image": "images/beat_018.png",
+   "reuse_of": null,
+   "transition_in": "black",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "village_night",
+   "shots": [
+    {
+     "id": "shot_058",
+     "startMs": 512602,
+     "endMs": 519252,
+     "narration_dhivehi": "ހުކުރުދުވަހު އިރުއޮއްސެން ގާތްވި ވަގުތު ރަށުގެ ބޮޑުމަގުގައި ހުރީ ހުދު ކުލައިގެ ފޮތިން ފުރާލާފައެވެ.",
+     "narration_english": "On Friday, close to sunset, the island's main road was covered with white cloth.",
+     "crop": "full",
+     "motion": "pan right",
+     "sfx": [
+      {
+       "name": "cloth_rustle",
+       "atMs": 517552,
+       "gainDb": -24,
+       "word": "ފޮތިން"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_059",
+     "startMs": 519252,
+     "endMs": 529212,
+     "narration_dhivehi": "މަގުގެ މެދަށްވާކަހަލަ ގޮތަކަށް ބޮޑު މޭޒެއް ބަހައްޓައި އެމޭޒުގެ ވަށައިގެން ގޮނޑި ޖަހައިފައި ހުއްޓެވެ. ރަށުގެ ބާރުގަދަކަމަށް ކިޔާ ޒުވާނުން ފިޔަވައި އެހެން ބަޔަކު ފެންނާކަށްނެތެވެ.",
+     "narration_english": "A big table had been set in the middle of the road with chairs placed around it. No one could be seen except the young men known as the island's strongest.",
+     "crop": "tight",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      20.3,
+      4.8,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Cinematic semi-realistic digital illustration with a quiet, mysterious island-village mood, moonlit palette of deep indigo, silver-blue and sea-teal with warm amber lamplight accents at night and soft natural tropical light by day, gentle atmospheric haze, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and calm, uncluttered space at the bottom for a logo.\nScene: the empty main road laid with long white cloths, a big wooden table in the middle with plastic chairs in a circle around it, a few strong young island men standing quietly at the edges, no one else. Location: the island's broad sandy main road between coral-stone walls and coconut palms, long plain white cloths laid along the ground and hung along the walls, a big plain wooden table set in the middle of the road with simple plastic chairs in a circle around it. Camera: wide establishing shot, slightly high angle, the table in the upper half.\nMood/lighting: Friday evening close to sunset, fading orange light, dim and still, solemn and uneasy.\nModest Maldivian clothing (women in loose long-sleeved ankle-length dresses with hijab fully covering hair and neck; men in shirts and long trousers or sarong), culturally respectful, no violence shown, no blood, no gore, no monsters, no horror creatures, no text, no letters, no writing, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.212,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 50.0,
+    "y_pct": 40.0,
+    "face_detected": false
+   }
+  },
+  {
+   "id": "beat_019",
+   "startMs": 529212,
+   "endMs": 552923,
+   "new_image_reason": "characters enter: Hassanfulhu and his group sit down after maghrib and begin the recitation",
+   "characters": [
+    "hassanfulhu"
+   ],
+   "location": "the island's broad sandy main road at night between coral-stone walls and coconut palms, long plain white cloths along the ground, a big plain wooden table in the middle of the road with simple plastic chairs in a circle around it, small clay oil lamps on the sand and thin incense smoke",
+   "location_key": "road_night",
+   "mood": "night after maghrib, dim light, warm flickering amber of small oil lamps and fires against deep indigo darkness, incense haze, tense and fearful",
+   "visual": "Hassanfulhu sitting at the head of the big table, his eyes closed and both palms open before him in recitation; young men in plain shirts seated on the chairs around the table with closed books, waiting attentively; small oil lamps on the sand",
+   "camera": "wide shot, eye level, the table group in the upper two-thirds",
+   "image": "images/beat_019.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "night_exterior",
+   "shots": [
+    {
+     "id": "shot_060",
+     "startMs": 529212,
+     "endMs": 537872,
+     "narration_dhivehi": "އަދި އެހިސާބުގައި ވަނީ ފަނޑު އަލިކަމެކެވެ. ހަސަންފުޅާއި އޭނަގެ ގްރޫޕް މަޣްރިބު ނަމާދުން ފައިބައިގެން އައިސް އިށީނީ އެމޭޒު ދޮށުގައެވެ.",
+     "narration_english": "The place was dimly lit. Hassanfulhu and his group came from the maghrib prayer and sat down by the table.",
+     "crop": "full",
+     "motion": "pan up",
+     "sfx": [
+      {
+       "name": "footsteps_sand",
+       "atMs": 534732,
+       "gainDb": -24,
+       "word": "ފައިބައިގެން"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_061",
+     "startMs": 537872,
+     "endMs": 545492,
+     "narration_dhivehi": "ވަށައިގެން ޖަހާފައި ހުރި ގޮނޑި ތަކުގައި ގްރޫޕްގެ ކުދިން އިށީނެވެ. އެންމެންވެސް ތިބީ ހަސަންފުޅުގެ އޯޑަރަށް އިންތިޒާރުގައެވެ.",
+     "narration_english": "The young men of the group sat on the chairs set around it. Everyone was waiting for Hassanfulhu's word.",
+     "crop": "tight",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      19.4,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_062",
+     "startMs": 545492,
+     "endMs": 552923,
+     "narration_dhivehi": "އެމީހުން މާގިނަ ވަގުތެއް އިންތިޒާރު ކުރާކަށް ނުޖެހުނެވެ. ހަސަންފުޅުގެ އޯޑަރު އައެވެ. ހަސަންފުޅު ކިޔެވެލި ކިޔަވަން ފަށައިފިއެވެ.",
+     "narration_english": "They did not have to wait long. Hassanfulhu gave the word. Hassanfulhu began the recitation.",
+     "crop": "full",
+     "motion": "pan down",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Hassanfulhu), create a new scene: Cinematic semi-realistic digital illustration with a quiet, mysterious island-village mood, moonlit palette of deep indigo, silver-blue and sea-teal with warm amber lamplight accents at night and soft natural tropical light by day, gentle atmospheric haze, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and calm, uncluttered space at the bottom for a logo.\nScene: Hassanfulhu sitting at the head of the big table, his eyes closed and both palms open before him in recitation; young men in plain shirts seated on the chairs around the table with closed books, waiting attentively; small oil lamps on the sand. Location: the island's broad sandy main road at night between coral-stone walls and coconut palms, long plain white cloths along the ground, a big plain wooden table in the middle of the road with simple plastic chairs in a circle around it, small clay oil lamps on the sand and thin incense smoke. Camera: wide shot, eye level, the table group in the upper two-thirds.\nCharacters: Hassanfulhu: a tall lean upright Maldivian man about 65 with weathered warm brown skin, a long calm stern face, sharp steady eyes and a long white beard; wears a white knitted skullcap, a white long-sleeved shirt and a white sarong to the ankles.\nMood/lighting: night after maghrib, dim light, warm flickering amber of small oil lamps and fires against deep indigo darkness, incense haze, tense and fearful.\nModest Maldivian clothing (women in loose long-sleeved ankle-length dresses with hijab fully covering hair and neck; men in shirts and long trousers or sarong), culturally respectful, no violence shown, no blood, no gore, no monsters, no horror creatures, no text, no letters, no writing, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.147,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 49.1,
+    "y_pct": 30.9,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_020",
+   "startMs": 552923,
+   "endMs": 579513,
+   "new_image_reason": "framing change: incense and encouragement; a young man voices doubt",
+   "characters": [
+    "hassanfulhu"
+   ],
+   "location": "the island's broad sandy main road at night between coral-stone walls and coconut palms, long plain white cloths along the ground, a big plain wooden table in the middle of the road with simple plastic chairs in a circle around it, small clay oil lamps on the sand and thin incense smoke",
+   "location_key": "road_night",
+   "mood": "night after maghrib, dim light, warm flickering amber of small oil lamps and fires against deep indigo darkness, incense haze, tense and fearful",
+   "visual": "closer view of Hassanfulhu raising one hand reassuringly while incense smoke curls up from a small clay burner on the table; beside him a young man in a plain shirt looks at him with doubtful, worried eyes",
+   "camera": "medium close shot, eye level",
+   "image": "images/beat_020.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "night_exterior",
+   "shots": [
+    {
+     "id": "shot_063",
+     "startMs": 552923,
+     "endMs": 560613,
+     "narration_dhivehi": "އަދި ދުންއަޅައި އޭނަގެ ޖާދޫ ދައްކަމުން ދިޔައެވެ. ކުދިންނޭ ހިތްވަރު ދޫކޮށް ނުލާތި. ކޮންމެފަދަ ކަމަކާއިވެސް ދިމާވެދާނެ.",
+     "narration_english": "He burned incense, showing off his craft. \"Boys, don't lose heart. Anything may happen.",
+     "crop": "full",
+     "motion": "static drift",
+     "sfx": [
+      {
+       "name": "fire_crackle",
+       "atMs": 553333,
+       "gainDb": -22,
+       "word": "ދުންއަޅައި"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_064",
+     "startMs": 560613,
+     "endMs": 570283,
+     "narration_dhivehi": "އެކަމަކު ބޭބެ މިހެން ހުރިހާ ދުވަހަކު ތިކުދިންނަށް އެއްވެސް ގެއްލުމެއް ނުލިބޭނެ\" ހަސަންފުޅު އެމީހުންނަށް ހިތްވަރު ދެމުންދިޔައެވެ. \"ތިހެން ކިޔޭ ކުރިންވެސް.",
+     "narration_english": "But as long as I am here, no harm will ever come to you,\" Hassanfulhu kept encouraging them. \"You said that before too.",
+     "crop": "tight",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      5.0,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_065",
+     "startMs": 570283,
+     "endMs": 579513,
+     "narration_dhivehi": "އެކަމަކު ކުރީރޭގަވެސް މީހަކު އެ ގެއްލުނީ\" އެތަނުން ޒުވާނަކު ބުނެލިއެވެ. ހީވަނީ އެމީހުންވެސް މިހާރު ހަސަންފުޅަކަށް އިތުބާރު ނުކުރަނީހެންނެވެ.",
+     "narration_english": "But last night we still lost someone,\" one of the young men said. It seemed that they too no longer trusted Hassanfulhu.",
+     "crop": "full",
+     "motion": "pan left",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Hassanfulhu), create a new scene: Cinematic semi-realistic digital illustration with a quiet, mysterious island-village mood, moonlit palette of deep indigo, silver-blue and sea-teal with warm amber lamplight accents at night and soft natural tropical light by day, gentle atmospheric haze, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and calm, uncluttered space at the bottom for a logo.\nScene: closer view of Hassanfulhu raising one hand reassuringly while incense smoke curls up from a small clay burner on the table; beside him a young man in a plain shirt looks at him with doubtful, worried eyes. Location: the island's broad sandy main road at night between coral-stone walls and coconut palms, long plain white cloths along the ground, a big plain wooden table in the middle of the road with simple plastic chairs in a circle around it, small clay oil lamps on the sand and thin incense smoke. Camera: medium close shot, eye level.\nCharacters: Hassanfulhu: a tall lean upright Maldivian man about 65 with weathered warm brown skin, a long calm stern face, sharp steady eyes and a long white beard; wears a white knitted skullcap, a white long-sleeved shirt and a white sarong to the ankles.\nMood/lighting: night after maghrib, dim light, warm flickering amber of small oil lamps and fires against deep indigo darkness, incense haze, tense and fearful.\nModest Maldivian clothing (women in loose long-sleeved ankle-length dresses with hijab fully covering hair and neck; men in shirts and long trousers or sarong), culturally respectful, no violence shown, no blood, no gore, no monsters, no horror creatures, no text, no letters, no writing, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.192,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 34.7,
+    "y_pct": 27.1,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_021",
+   "startMs": 579513,
+   "endMs": 606834,
+   "new_image_reason": "character enters: Shamaan charges in shouting, the men cannot stop him",
+   "characters": [
+    "shamaan",
+    "hassanfulhu"
+   ],
+   "location": "the island's broad sandy main road at night between coral-stone walls and coconut palms, long plain white cloths along the ground, a big plain wooden table in the middle of the road with simple plastic chairs in a circle around it, small clay oil lamps on the sand and thin incense smoke",
+   "location_key": "road_night",
+   "mood": "night after maghrib, dim light, warm flickering amber of small oil lamps and fires against deep indigo darkness, incense haze, tense and fearful",
+   "visual": "Shamaan running in along the white cloth with a wild furious face, several young men stepping in front of him with outstretched arms but failing to stop him; in the background Hassanfulhu sitting calm and ready at the table",
+   "camera": "medium wide, eye level, Shamaan's face in the upper half",
+   "image": "images/beat_021.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "night_exterior",
+   "shots": [
+    {
+     "id": "shot_066",
+     "startMs": 579513,
+     "endMs": 588373,
+     "narration_dhivehi": "\"އެއީ އޭނަ އަހަރެންގެ ބަސްނާހާ އުޅުނީމަ ވީގޮތް\" ހަސަންފުޅު ބުނެލިއެވެ. އެންމެން ސިހިގެން ދިޔައީ ޝަމްއާން ދުވެފައި އައިސް ހަޅޭލަވަން ފެށުމުންނެވެ.",
+     "narration_english": "\"That happened because he did not listen to me,\" Hassanfulhu said. Everyone was startled when Shamaan came running in and started shouting.",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [
+      {
+       "name": "crowd_gasp",
+       "atMs": 583913,
+       "gainDb": -20,
+       "word": "ސިހިގެން"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_067",
+     "startMs": 588373,
+     "endMs": 596974,
+     "narration_dhivehi": "ބަލާކަށް ނުތިބެ އެއްބަޔަކު ގޮސް ޝަމްއާން ހިފެހެއްޓިއެވެ. ނަމަވެސް އެކަންވީ ބޭކާރެވެ. ޝަމްއާންއަށް މިރޭ ލިބިފައި ހުރީ އާދަޔާ ހިލާފް ބާރެކެވެ.",
+     "narration_english": "Without hesitating, a few of them went and held Shamaan back. But it was in vain. Tonight Shamaan had an unnatural strength.",
+     "crop": "tight",
+     "motion": "pan right",
+     "sfx": [
+      {
+       "name": "cloth_rustle",
+       "atMs": 590453,
+       "gainDb": -20,
+       "word": "ހިފެހެއްޓިއެވެ."
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.2,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_068",
+     "startMs": 596974,
+     "endMs": 606834,
+     "narration_dhivehi": "އެކަކަށްވެސް ޝަމްއާން ހުއްޓުވޭކަމަކަށް ނުވިއެވެ. ޝަމްއާން ދުއްވައިގަތީ ހަސަންފުޅާއި ދިމާއަށެވެ. ހަސަންފުޅު އިނީ ދިމާވެދާނެ ހުރިހާ ކަމަކަށް ތައްޔާރުވެގެންނެވެ.",
+     "narration_english": "Not one of them could stop Shamaan. Shamaan charged towards Hassanfulhu. Hassanfulhu sat ready for anything that might happen.",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [
+      {
+       "name": "footsteps_sand",
+       "atMs": 600394,
+       "gainDb": -18,
+       "word": "ދުއްވައިގަތީ"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Shamaan; reference image 2 is Hassanfulhu), create a new scene: Cinematic semi-realistic digital illustration with a quiet, mysterious island-village mood, moonlit palette of deep indigo, silver-blue and sea-teal with warm amber lamplight accents at night and soft natural tropical light by day, gentle atmospheric haze, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and calm, uncluttered space at the bottom for a logo.\nScene: Shamaan running in along the white cloth with a wild furious face, several young men stepping in front of him with outstretched arms but failing to stop him; in the background Hassanfulhu sitting calm and ready at the table. Location: the island's broad sandy main road at night between coral-stone walls and coconut palms, long plain white cloths along the ground, a big plain wooden table in the middle of the road with simple plastic chairs in a circle around it, small clay oil lamps on the sand and thin incense smoke. Camera: medium wide, eye level, Shamaan's face in the upper half.\nCharacters: Shamaan: a slim Maldivian man about 28 with warm brown skin, a lean oval face, soft dark brown eyes with a sad tired look, straight dark eyebrows, short slightly wavy neatly combed black hair and a short neatly trimmed black beard; wears a plain light-blue long-sleeved button shirt with sleeves rolled to the forearm and dark grey long trousers. Hassanfulhu: a tall lean upright Maldivian man about 65 with weathered warm brown skin, a long calm stern face, sharp steady eyes and a long white beard; wears a white knitted skullcap, a white long-sleeved shirt and a white sarong to the ankles.\nMood/lighting: night after maghrib, dim light, warm flickering amber of small oil lamps and fires against deep indigo darkness, incense haze, tense and fearful.\nModest Maldivian clothing (women in loose long-sleeved ankle-length dresses with hijab fully covering hair and neck; men in shirts and long trousers or sarong), culturally respectful, no violence shown, no blood, no gore, no monsters, no horror creatures, no text, no letters, no writing, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.131,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 36.9,
+    "y_pct": 24.0,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_022",
+   "startMs": 606834,
+   "endMs": 622774,
+   "new_image_reason": "action change: water thrown in his face, Shamaan falls powerless",
+   "characters": [
+    "shamaan",
+    "hassanfulhu"
+   ],
+   "location": "the island's broad sandy main road at night between coral-stone walls and coconut palms, long plain white cloths along the ground, a big plain wooden table in the middle of the road with simple plastic chairs in a circle around it, small clay oil lamps on the sand and thin incense smoke",
+   "location_key": "road_night",
+   "mood": "night after maghrib, dim light, warm flickering amber of small oil lamps and fires against deep indigo darkness, incense haze, tense and fearful",
+   "visual": "Shamaan lying on his back on the white cloth fully clothed, eyes closed, completely still and breathing faintly, droplets of water on his face; Hassanfulhu standing over him holding an empty brass water bowl, calm and solemn",
+   "camera": "medium shot, slightly high angle, faces in the upper half",
+   "image": "images/beat_022.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": "violence",
+   "safe_substitution": "no impact shown: Shamaan unconscious and unhurt on the cloth, water droplets on his face",
+   "ambience": "night_exterior",
+   "shots": [
+    {
+     "id": "shot_069",
+     "startMs": 606834,
+     "endMs": 615604,
+     "narration_dhivehi": "ޝަމްއާން ހަސަންފުޅާއި ހަމަ ގާތްވެލިތަނާ ހަސަންފުޅު އަތުގައި ހުރި ފެންތަށި ޝަމްއާންގެ މޫނަށް ޖެހިއެވެ. ޝަމްއާން ވަގުތުން ބިންމައްޗަށް ވެއްޓިއްޖެއެވެ.",
+     "narration_english": "Just as Shamaan came close to Hassanfulhu, the water in the bowl in Hassanfulhu's hand struck Shamaan's face. Shamaan instantly fell to the ground.",
+     "crop": "full",
+     "motion": "pan up",
+     "sfx": [
+      {
+       "name": "splash",
+       "atMs": 610974,
+       "gainDb": -16,
+       "word": "ފެންތަށި"
+      },
+      {
+       "name": "soft_thud",
+       "atMs": 614714,
+       "gainDb": -16,
+       "word": "ވެއްޓިއްޖެއެވެ."
+      }
+     ],
+     "hum": true,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_070",
+     "startMs": 615604,
+     "endMs": 622774,
+     "narration_dhivehi": "އެހާ ގަދަފަދަ ބާރެއް ލިބިފައިވާ މީހާގެ ގައިގައި މިހާރު އެއްވެސް ބާރެއް ނެތެވެ. ހަމައެކަނި ނޭވާލާ ކަމެވެ.",
+     "narration_english": "The man who had been given such great strength now had no strength left in his body. He was only breathing.",
+     "crop": "tight",
+     "motion": "slow pull-out",
+     "sfx": [
+      {
+       "name": "breath",
+       "atMs": 621294,
+       "gainDb": -22,
+       "word": "ނޭވާލާ"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      22.2,
+      0.0,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Shamaan; reference image 2 is Hassanfulhu), create a new scene: Cinematic semi-realistic digital illustration with a quiet, mysterious island-village mood, moonlit palette of deep indigo, silver-blue and sea-teal with warm amber lamplight accents at night and soft natural tropical light by day, gentle atmospheric haze, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and calm, uncluttered space at the bottom for a logo.\nScene: Shamaan lying on his back on the white cloth fully clothed, eyes closed, completely still and breathing faintly, droplets of water on his face; Hassanfulhu standing over him holding an empty brass water bowl, calm and solemn. Location: the island's broad sandy main road at night between coral-stone walls and coconut palms, long plain white cloths along the ground, a big plain wooden table in the middle of the road with simple plastic chairs in a circle around it, small clay oil lamps on the sand and thin incense smoke. Camera: medium shot, slightly high angle, faces in the upper half.\nCharacters: Shamaan: a slim Maldivian man about 28 with warm brown skin, a lean oval face, soft dark brown eyes with a sad tired look, straight dark eyebrows, short slightly wavy neatly combed black hair and a short neatly trimmed black beard; wears a plain light-blue long-sleeved button shirt with sleeves rolled to the forearm and dark grey long trousers. Hassanfulhu: a tall lean upright Maldivian man about 65 with weathered warm brown skin, a long calm stern face, sharp steady eyes and a long white beard; wears a white knitted skullcap, a white long-sleeved shirt and a white sarong to the ankles.\nMood/lighting: night after maghrib, dim light, warm flickering amber of small oil lamps and fires against deep indigo darkness, incense haze, tense and fearful.\nModest Maldivian clothing (women in loose long-sleeved ankle-length dresses with hijab fully covering hair and neck; men in shirts and long trousers or sarong), culturally respectful, no violence shown, no blood, no gore, no monsters, no horror creatures, no text, no letters, no writing, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.342,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 52.0,
+    "y_pct": 29.8,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_023",
+   "startMs": 622774,
+   "endMs": 650645,
+   "new_image_reason": "action change: Shamaan laid on the big table, the men recite around him in fear",
+   "characters": [
+    "shamaan",
+    "hassanfulhu"
+   ],
+   "location": "the island's broad sandy main road at night between coral-stone walls and coconut palms, long plain white cloths along the ground, a big plain wooden table in the middle of the road with simple plastic chairs in a circle around it, small clay oil lamps on the sand and thin incense smoke",
+   "location_key": "road_night",
+   "mood": "night after maghrib, dim light, warm flickering amber of small oil lamps and fires against deep indigo darkness, incense haze, tense and fearful",
+   "visual": "Shamaan lying fully clothed and still on the big wooden table, eyes closed; Hassanfulhu seated beside the table leading the recitation with open palms; only young island men in plain shirts (no women at all) sitting around in a circle reciting intently from closed books, their faces tense and frightened; incense haze and oil lamps",
+   "camera": "wide shot, slightly high angle, the table in the upper half",
+   "image": "images/beat_023.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "night_exterior",
+   "shots": [
+    {
+     "id": "shot_071",
+     "startMs": 622774,
+     "endMs": 632804,
+     "narration_dhivehi": "ރަށުތެރޭގައި އޮތް ހަމަހިމޭންކަން މުގުރާލީ ހަސަންފުޅުގެ ގްރޫޕުން ކިޔަވަމުންދިޔަ ބާރު ކިޔެވެލީގެ އަޑުންނެވެ. ގޯތީގެ މެދުގައި ހުރި ބޮޑު މޭޒުމަތީގައި ޝަމްއާން ބާއްވައިގެން،",
+     "narration_english": "The silence over the island was broken by the loud recitation of Hassanfulhu's group. With Shamaan laid on the big table in the middle of the yard,",
+     "crop": "full",
+     "motion": "pan down",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_072",
+     "startMs": 632804,
+     "endMs": 642145,
+     "narration_dhivehi": "އޭނާގެ ވަށައިގެން އެންމެން ކިޔަވަމުން ދިޔައީ ނުހަނުމަތީ ދަރަޖައަކަށް ސަމާލުވެގެން ތިބެއެވެ. ޝަމްއާންގެ ހަށިގަނޑަށް އަންނަމުންދިޔަ ބަދަލުތަކާއި،",
+     "narration_english": "everyone around him recited with the utmost concentration. The changes coming over Shamaan's body,",
+     "crop": "tight",
+     "motion": "static drift",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      20.3,
+      4.8,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_073",
+     "startMs": 642145,
+     "endMs": 650645,
+     "narration_dhivehi": "އޭނާގެ ލޮލުގެ ކަޅި މައްޗަށް އަރަމުންދިޔަ މަންޒަރު ފެނި ކައިރީގައި ތިބި މީހުން ތިބީ ބިރުން ފިތްކަނޑައިގެންދާ ފަދަ ހާލަތެއްގައެވެ.",
+     "narration_english": "and the sight of his eyes rolling upward, left the people near him frozen with fear.",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [
+      {
+       "name": "heartbeat",
+       "atMs": 648015,
+       "gainDb": -20,
+       "word": "ބިރުން"
+      }
+     ],
+     "hum": true,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Shamaan; reference image 2 is Hassanfulhu), create a new scene: Cinematic semi-realistic digital illustration with a quiet, mysterious island-village mood, moonlit palette of deep indigo, silver-blue and sea-teal with warm amber lamplight accents at night and soft natural tropical light by day, gentle atmospheric haze, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and calm, uncluttered space at the bottom for a logo.\nScene: Shamaan lying fully clothed and still on the big wooden table, eyes closed; Hassanfulhu seated beside the table leading the recitation with open palms; only young island men in plain shirts (no women at all) sitting around in a circle reciting intently from closed books, their faces tense and frightened; incense haze and oil lamps. Location: the island's broad sandy main road at night between coral-stone walls and coconut palms, long plain white cloths along the ground, a big plain wooden table in the middle of the road with simple plastic chairs in a circle around it, small clay oil lamps on the sand and thin incense smoke. Camera: wide shot, slightly high angle, the table in the upper half.\nCharacters: Shamaan: a slim Maldivian man about 28 with warm brown skin, a lean oval face, soft dark brown eyes with a sad tired look, straight dark eyebrows, short slightly wavy neatly combed black hair and a short neatly trimmed black beard; wears a plain light-blue long-sleeved button shirt with sleeves rolled to the forearm and dark grey long trousers. Hassanfulhu: a tall lean upright Maldivian man about 65 with weathered warm brown skin, a long calm stern face, sharp steady eyes and a long white beard; wears a white knitted skullcap, a white long-sleeved shirt and a white sarong to the ankles.\nMood/lighting: night after maghrib, dim light, warm flickering amber of small oil lamps and fires against deep indigo darkness, incense haze, tense and fearful.\nModest Maldivian clothing (women in loose long-sleeved ankle-length dresses with hijab fully covering hair and neck; men in shirts and long trousers or sarong), culturally respectful, no violence shown, no blood, no gore, no monsters, no horror creatures, no text, no letters, no writing, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.2,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 50.0,
+    "y_pct": 40.0,
+    "face_detected": false
+   }
+  },
+  {
+   "id": "beat_024",
+   "startMs": 650645,
+   "endMs": 670325,
+   "new_image_reason": "character enters: Sakeena bursts in and rushes towards Hassanfulhu",
+   "characters": [
+    "sakeena",
+    "hassanfulhu"
+   ],
+   "location": "the island's broad sandy main road at night between coral-stone walls and coconut palms, long plain white cloths along the ground, a big plain wooden table in the middle of the road with simple plastic chairs in a circle around it, small clay oil lamps on the sand and thin incense smoke",
+   "location_key": "road_night",
+   "mood": "night after maghrib, dim light, warm flickering amber of small oil lamps and fires against deep indigo darkness, incense haze, tense and fearful",
+   "visual": "Sakeena rushing in from the dark edge of the road with a frantic tearful face, her empty hand raised, crying out; Hassanfulhu turning calmly towards her and signalling the young men with a raised palm",
+   "camera": "medium wide, eye level, faces in the upper half",
+   "image": "images/beat_024.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "night_exterior",
+   "shots": [
+    {
+     "id": "shot_074",
+     "startMs": 650645,
+     "endMs": 660545,
+     "narration_dhivehi": "ކުއްލިއަކަށް ކޮޓަރީގެ ދޮރު ހުޅުވާލާފައި އެތެރެއަށް ވަދެގެން އައީ ޝަމްއާންގެ މަންމައެވެ. އޭނާގެ އަތް ހޫރަމުން، ދުވެފައި އައީ ސީދާ ހަސަންފުޅާ ދިމާލަށެވެ.",
+     "narration_english": "Suddenly the door burst open and in came Shamaan's mother. Waving her hand, she ran straight towards Hassanfulhu.",
+     "crop": "full",
+     "motion": "pan left",
+     "sfx": [
+      {
+       "name": "door_open",
+       "atMs": 652235,
+       "gainDb": -18,
+       "word": "ހުޅުވާލާފައި"
+      },
+      {
+       "name": "footsteps_sand",
+       "atMs": 657955,
+       "gainDb": -20,
+       "word": "ދުވެފައި"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_075",
+     "startMs": 660545,
+     "endMs": 670325,
+     "narration_dhivehi": "\"މަގޭ ދަރިފުޅަށް ތިޔަ ކުރަނީ ކީއް؟\" އޭނާ ހަޅޭއްލަވަމުން ދިޔައެވެ. ހަސަންފުޅު ވަރަށް ހަމަޖެހިލާފައި، ކައިރީގައި ތިބި މީހުންނަށް ރައްކާތެރިވުމަށް އިޝާރާތް ކުރިއެވެ.",
+     "narration_english": "\"What are you doing to my son?\" she kept screaming. Very calmly, Hassanfulhu signalled the men near him to protect them.",
+     "crop": "tight",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      0.0,
+      0.0,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Sakeena; reference image 2 is Hassanfulhu), create a new scene: Cinematic semi-realistic digital illustration with a quiet, mysterious island-village mood, moonlit palette of deep indigo, silver-blue and sea-teal with warm amber lamplight accents at night and soft natural tropical light by day, gentle atmospheric haze, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and calm, uncluttered space at the bottom for a logo.\nScene: Sakeena rushing in from the dark edge of the road with a frantic tearful face, her empty hand raised, crying out; Hassanfulhu turning calmly towards her and signalling the young men with a raised palm. Location: the island's broad sandy main road at night between coral-stone walls and coconut palms, long plain white cloths along the ground, a big plain wooden table in the middle of the road with simple plastic chairs in a circle around it, small clay oil lamps on the sand and thin incense smoke. Camera: medium wide, eye level, faces in the upper half.\nCharacters: Sakeena: a short plump Maldivian woman in her mid 50s with warm brown skin, a round kind face with soft wrinkles and worried dark eyes; wears a loose long-sleeved ankle-length maroon traditional Maldivian dress with a thin gold-thread neckline band and a soft beige headscarf fully covering her hair and neck. Hassanfulhu: a tall lean upright Maldivian man about 65 with weathered warm brown skin, a long calm stern face, sharp steady eyes and a long white beard; wears a white knitted skullcap, a white long-sleeved shirt and a white sarong to the ankles.\nMood/lighting: night after maghrib, dim light, warm flickering amber of small oil lamps and fires against deep indigo darkness, incense haze, tense and fearful.\nModest Maldivian clothing (women in loose long-sleeved ankle-length dresses with hijab fully covering hair and neck; men in shirts and long trousers or sarong), culturally respectful, no violence shown, no blood, no gore, no monsters, no horror creatures, no text, no letters, no writing, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.175,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 25.3,
+    "y_pct": 24.9,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_025",
+   "startMs": 670325,
+   "endMs": 702186,
+   "new_image_reason": "action change: the young men hold Sakeena back; Hassanfulhu keeps reciting",
+   "characters": [
+    "sakeena",
+    "hassanfulhu"
+   ],
+   "location": "the island's broad sandy main road at night between coral-stone walls and coconut palms, long plain white cloths along the ground, a big plain wooden table in the middle of the road with simple plastic chairs in a circle around it, small clay oil lamps on the sand and thin incense smoke",
+   "location_key": "road_night",
+   "mood": "night after maghrib, dim light, warm flickering amber of small oil lamps and fires against deep indigo darkness, incense haze, tense and fearful",
+   "visual": "two young men holding Sakeena back gently with outstretched arms, her empty hands reaching forward, her face crying and desperate; behind them Hassanfulhu sitting at the table reciting with open palms, his face firm and unmoved",
+   "camera": "medium shot, eye level, Sakeena's face in the upper half",
+   "image": "images/beat_025.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": "violence",
+   "safe_substitution": "the knife taken from her hand is never shown: Sakeena held back by men's outstretched arms with empty hands (bible)",
+   "ambience": "night_exterior",
+   "shots": [
+    {
+     "id": "shot_076",
+     "startMs": 670325,
+     "endMs": 679726,
+     "narration_dhivehi": "ނަމަވެސް، ޝަމްއާންގެ މަންމައަށް ހަސަންފުޅާ ހަމައަށް ފޯރާވަރެއް ނުވިއެވެ. ހަސަންފުޅުގެ ގާތުގައި ތިބި ހުޝިޔާރު ޒުވާނުން ވަގުތުން އޭނާ ހުއްޓުވައި،",
+     "narration_english": "But Shamaan's mother could not reach Hassanfulhu. The alert young men beside Hassanfulhu stopped her at once,",
+     "crop": "full",
+     "motion": "pan right",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_077",
+     "startMs": 679726,
+     "endMs": 689006,
+     "narration_dhivehi": "އަތުން ކަތިވަޅި އަތުލިއެވެ. \"އޭތް! މަގޭ ދަރި މިހާރު ދޫކުރޭ! އޭނާއަށް ތިޔަ އަނިޔާ ކުރަނީ ކީއްވެ؟\" ޝަމްއާންގެ މަންމަ ރޮމުން ހަޅޭލަވަން ފެށިއެވެ.",
+     "narration_english": "and took the knife from her hand. \"Hey! Let my son go now! Why are you hurting him?\" Shamaan's mother began to scream, weeping.",
+     "crop": "tight",
+     "motion": "slow push-in",
+     "sfx": [
+      {
+       "name": "sob_breath",
+       "atMs": 687316,
+       "gainDb": -22,
+       "word": "ރޮމުން"
+      }
+     ],
+     "hum": true,
+     "crop_rect_pct": [
+      6.9,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_078",
+     "startMs": 689006,
+     "endMs": 702186,
+     "narration_dhivehi": "އޭނާގެ އަޑުގައި ވަނީ އިންތިހާ ދަރަޖައިގެ ކަންބޮޑުވުމާއި ބިރުވެރިކަމެވެ. \"ނޫން، ދުލެއް ނުކުރާނަން. މިއީ އޭނާގެ ފުރާނަ ސަލާމަތް ކުރެވެން އޮތް ހަމައެކަނި ގޮތް\" ހަސަންފުޅު ކިޔެވެލި މެދުކަނޑާލުމެއް ނެތި،",
+     "narration_english": "Her voice was full of the deepest worry and fear. \"No, I will not stop. This is the only way his life can be saved,\" said Hassanfulhu, without breaking off the recitation,",
+     "crop": "full",
+     "motion": "pan up",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Sakeena; reference image 2 is Hassanfulhu), create a new scene: Cinematic semi-realistic digital illustration with a quiet, mysterious island-village mood, moonlit palette of deep indigo, silver-blue and sea-teal with warm amber lamplight accents at night and soft natural tropical light by day, gentle atmospheric haze, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and calm, uncluttered space at the bottom for a logo.\nScene: two young men holding Sakeena back gently with outstretched arms, her empty hands reaching forward, her face crying and desperate; behind them Hassanfulhu sitting at the table reciting with open palms, his face firm and unmoved. Location: the island's broad sandy main road at night between coral-stone walls and coconut palms, long plain white cloths along the ground, a big plain wooden table in the middle of the road with simple plastic chairs in a circle around it, small clay oil lamps on the sand and thin incense smoke. Camera: medium shot, eye level, Sakeena's face in the upper half.\nCharacters: Sakeena: a short plump Maldivian woman in her mid 50s with warm brown skin, a round kind face with soft wrinkles and worried dark eyes; wears a loose long-sleeved ankle-length maroon traditional Maldivian dress with a thin gold-thread neckline band and a soft beige headscarf fully covering her hair and neck. Hassanfulhu: a tall lean upright Maldivian man about 65 with weathered warm brown skin, a long calm stern face, sharp steady eyes and a long white beard; wears a white knitted skullcap, a white long-sleeved shirt and a white sarong to the ankles.\nMood/lighting: night after maghrib, dim light, warm flickering amber of small oil lamps and fires against deep indigo darkness, incense haze, tense and fearful.\nModest Maldivian clothing (women in loose long-sleeved ankle-length dresses with hijab fully covering hair and neck; men in shirts and long trousers or sarong), culturally respectful, no violence shown, no blood, no gore, no monsters, no horror creatures, no text, no letters, no writing, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.152,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 36.6,
+    "y_pct": 30.3,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_026",
+   "startMs": 702186,
+   "endMs": 748327,
+   "new_image_reason": "shocking turn: flames rise in a ring around the table",
+   "characters": [
+    "hassanfulhu",
+    "shamaan"
+   ],
+   "location": "the island's broad sandy main road at night between coral-stone walls and coconut palms, long plain white cloths along the ground, a big plain wooden table in the middle of the road with simple plastic chairs in a circle around it, small clay oil lamps on the sand and thin incense smoke",
+   "location_key": "road_night",
+   "mood": "night after maghrib, dim light, warm flickering amber of small oil lamps and fires against deep indigo darkness, incense haze, tense and fearful",
+   "visual": "low flames burning in a circle on the sand at a distance around the big table, Shamaan lying unharmed and still on the table in the middle of the ring; Hassanfulhu standing with one arm raised commanding the startled young men to stay back; the men frozen in fear, faces lit orange",
+   "camera": "wide shot, slightly high angle, the ring of fire and table in the upper two-thirds",
+   "image": "images/beat_026.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": "other",
+   "safe_substitution": "the 'ring of fire' = flames in a circle on the sand at a distance around the table, Shamaan unharmed (bible)",
+   "ambience": "night_exterior",
+   "shots": [
+    {
+     "id": "shot_079",
+     "startMs": 702186,
+     "endMs": 715096,
+     "narration_dhivehi": "ވަރަށް ސާބިތުކަމާއެކު ޖަވާބު ދިނެވެ. މި ޒުވާބު ކުރިއަށް ދަނިކޮށް، މުޅި ތަނަށް ލިބުނީ ކުއްލި ސިހުމެކެވެ. ޝަމްއާން ބާއްވާފައި އޮތް މޭޒުގެ ހަތަރު ކަނުން ކުއްލިއަކަށް އަލިފާން ރޯވެ، މުޅި މޭޒު ހިސާރުކޮށްލިއެވެ.",
+     "narration_english": "answering very firmly. While this quarrel went on, the whole place was struck by a sudden shock. From the four corners of the table where Shamaan lay, fire suddenly blazed up and surrounded the whole table.",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [
+      {
+       "name": "crowd_gasp",
+       "atMs": 707796,
+       "gainDb": -18,
+       "word": "ސިހުމެކެވެ."
+      },
+      {
+       "name": "fire_crackle",
+       "atMs": 712676,
+       "gainDb": -16,
+       "word": "ރޯވެ،"
+      }
+     ],
+     "hum": true,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_080",
+     "startMs": 715096,
+     "endMs": 724957,
+     "narration_dhivehi": "އެ މަންޒަރު ފެނިފައި ގްރޫޕުގެ އެހެން މީހުން ބިރުން ދުއްވައިގަތީ ޝަމްއާން އަލިފާނުގެ ތެރެއިން ނެގުމަށެވެ. ޝަމްއާންގެ މަންމަވެސް ބާރަށް ހަޅޭއްލަވައިގަތެވެ.",
+     "narration_english": "Seeing that, the other members of the group rushed in fear to pull Shamaan out of the fire. Shamaan's mother screamed loudly.",
+     "crop": "tight",
+     "motion": "pan down",
+     "sfx": [
+      {
+       "name": "footsteps_sand",
+       "atMs": 718317,
+       "gainDb": -20,
+       "word": "ދުއްވައިގަތީ"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      20.3,
+      4.8,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_081",
+     "startMs": 724957,
+     "endMs": 732417,
+     "narration_dhivehi": "\"އޭނަ ބާއްވާ! އެކަކުވެސް އޭނަގެ ގައިގައި އަތްލައިގެން ނުވާނެ!\" ހަސަންފުޅުގެ ބާރު އަޑު މުޅި ގޯތިތެރޭގައި ގުގުމާލިއެވެ.",
+     "narration_english": "\"Leave him! No one is to touch his body!\" Hassanfulhu's loud voice rang through the whole yard.",
+     "crop": "full",
+     "motion": "static drift",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_082",
+     "startMs": 732417,
+     "endMs": 741757,
+     "narration_dhivehi": "އޭނާގެ އަމުރަށް އެންމެން މަޑުޖެހުނެވެ. \"މިއީ ބޭރުފުށުން ފެންނަ އަލިފާނެއް ނޫން. މިއީ އޭނާގެ ހަށިގަނޑުގައިވާ ނުބައި ބާރުތައް އަންދާލާ އަލިފާން.",
+     "narration_english": "At his command everyone stopped. \"This is not a fire you see on the outside. This is the fire that burns away the evil powers in his body.",
+     "crop": "medium",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      14.2,
+      0.0,
+      71.5,
+      84.7
+     ]
+    },
+    {
+     "id": "shot_083",
+     "startMs": 741757,
+     "endMs": 748327,
+     "narration_dhivehi": "އަތްލައިފިނަމަ ހުރިހާ ކަމެއް ގޯސްވާނެ\" ހަސަންފުޅުގެ ބަސްތަކާއެކު، އެންމެން ނޭވާ ހިފަހައްޓާލައިގެން ބަލަން ތިއްބެވެ.",
+     "narration_english": "If you touch him, everything will go wrong.\" At Hassanfulhu's words, everyone held their breath and watched.",
+     "crop": "tight",
+     "motion": "pan left",
+     "sfx": [
+      {
+       "name": "breath",
+       "atMs": 746297,
+       "gainDb": -22,
+       "word": "ނޭވާ"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      20.3,
+      4.8,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Hassanfulhu; reference image 2 is Shamaan), create a new scene: Cinematic semi-realistic digital illustration with a quiet, mysterious island-village mood, moonlit palette of deep indigo, silver-blue and sea-teal with warm amber lamplight accents at night and soft natural tropical light by day, gentle atmospheric haze, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and calm, uncluttered space at the bottom for a logo.\nScene: low flames burning in a circle on the sand at a distance around the big table, Shamaan lying unharmed and still on the table in the middle of the ring; Hassanfulhu standing with one arm raised commanding the startled young men to stay back; the men frozen in fear, faces lit orange. Location: the island's broad sandy main road at night between coral-stone walls and coconut palms, long plain white cloths along the ground, a big plain wooden table in the middle of the road with simple plastic chairs in a circle around it, small clay oil lamps on the sand and thin incense smoke. Camera: wide shot, slightly high angle, the ring of fire and table in the upper two-thirds.\nCharacters: Hassanfulhu: a tall lean upright Maldivian man about 65 with weathered warm brown skin, a long calm stern face, sharp steady eyes and a long white beard; wears a white knitted skullcap, a white long-sleeved shirt and a white sarong to the ankles. Shamaan: a slim Maldivian man about 28 with warm brown skin, a lean oval face, soft dark brown eyes with a sad tired look, straight dark eyebrows, short slightly wavy neatly combed black hair and a short neatly trimmed black beard; wears a plain light-blue long-sleeved button shirt with sleeves rolled to the forearm and dark grey long trousers.\nMood/lighting: night after maghrib, dim light, warm flickering amber of small oil lamps and fires against deep indigo darkness, incense haze, tense and fearful.\nModest Maldivian clothing (women in loose long-sleeved ankle-length dresses with hijab fully covering hair and neck; men in shirts and long trousers or sarong), culturally respectful, no violence shown, no blood, no gore, no monsters, no horror creatures, no text, no letters, no writing, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.147,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 50.0,
+    "y_pct": 40.0,
+    "face_detected": false
+   }
+  },
+  {
+   "id": "beat_027",
+   "startMs": 748327,
+   "endMs": 775978,
+   "new_image_reason": "character focus change: Sakeena held by men, Hassanfulhu alone by the table until the fire dies",
+   "characters": [
+    "sakeena",
+    "hassanfulhu"
+   ],
+   "location": "the island's broad sandy main road at night between coral-stone walls and coconut palms, long plain white cloths along the ground, a big plain wooden table in the middle of the road with simple plastic chairs in a circle around it, small clay oil lamps on the sand and thin incense smoke",
+   "location_key": "road_night",
+   "mood": "night after maghrib, dim light, warm flickering amber of small oil lamps and fires against deep indigo darkness, incense haze, tense and fearful",
+   "visual": "Sakeena crying out desperately, held back by several strong young men with outstretched arms, her empty hands reaching forward, the orange glow of the fire ring on her tear-streaked face; in the background Hassanfulhu sitting alone beside the table inside the dying ring of flames",
+   "camera": "medium wide, eye level, Sakeena's face in the upper half",
+   "image": "images/beat_027.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": "violence",
+   "safe_substitution": "no weapon, no harm: Sakeena only held back by outstretched arms",
+   "ambience": "night_exterior",
+   "shots": [
+    {
+     "id": "shot_084",
+     "startMs": 748327,
+     "endMs": 756677,
+     "narration_dhivehi": "ޝަމްއާން އޮތީ އެ އަލިފާނުގެ މެދުގައި އެއްވެސް ހަރަކާތެއް ނެތި، ހަމަހިމޭންވެފައެވެ. ޝަމްއާން މޭޒުމަތީގައި އޮވެގެން ތެޅިފޮޅެނީއެވެ.",
+     "narration_english": "Shamaan lay in the middle of that fire, unmoving and still. Shamaan was lying on the table, writhing.",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [
+      {
+       "name": "fire_crackle",
+       "atMs": 749497,
+       "gainDb": -20,
+       "word": "އަލިފާނުގެ"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_085",
+     "startMs": 756677,
+     "endMs": 766008,
+     "narration_dhivehi": "އޭނަގެ ކައިރީގައި ހުރެގެން ޝަމްއާންގެ މަންމަ މޮޔައެއް ފަދައިން ހަޅޭލަވަނީއެވެ. ޝަމްއާންގެ މަންމަގެ ގައިގައި ބާރުގަދަ ފަސް ފިރިހެނުން ހިފަހައްޓައިގެން ތިއްބެވެ.",
+     "narration_english": "Standing beside him, Shamaan's mother was screaming like one gone mad. Five strong men were holding her back.",
+     "crop": "tight",
+     "motion": "pan right",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      1.4,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_086",
+     "startMs": 766008,
+     "endMs": 775978,
+     "narration_dhivehi": "ޝަމްއާން އޮތް މޭޒުކައިރީގައި އިނީ ހަމައެކަނި ހަސަންފުޅެވެ. އެހެން މީހަކު އެމޭޒާއި ގާތްވާކަށް ހަސަންފުޅުގެ ހުއްދައެއް ނެތެވެ. އިރުކޮޅަކުން ރޯވެފައިވާ އަލިފާން ނިވިއްޖެއެވެ.",
+     "narration_english": "Only Hassanfulhu sat by the table where Shamaan lay. No one else had his permission to come near the table. After a while the fire died out.",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [
+      {
+       "name": "wind_gust",
+       "atMs": 775318,
+       "gainDb": -22,
+       "word": "ނިވިއްޖެއެވެ."
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Sakeena; reference image 2 is Hassanfulhu), create a new scene: Cinematic semi-realistic digital illustration with a quiet, mysterious island-village mood, moonlit palette of deep indigo, silver-blue and sea-teal with warm amber lamplight accents at night and soft natural tropical light by day, gentle atmospheric haze, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and calm, uncluttered space at the bottom for a logo.\nScene: Sakeena crying out desperately, held back by several strong young men with outstretched arms, her empty hands reaching forward, the orange glow of the fire ring on her tear-streaked face; in the background Hassanfulhu sitting alone beside the table inside the dying ring of flames. Location: the island's broad sandy main road at night between coral-stone walls and coconut palms, long plain white cloths along the ground, a big plain wooden table in the middle of the road with simple plastic chairs in a circle around it, small clay oil lamps on the sand and thin incense smoke. Camera: medium wide, eye level, Sakeena's face in the upper half.\nCharacters: Sakeena: a short plump Maldivian woman in her mid 50s with warm brown skin, a round kind face with soft wrinkles and worried dark eyes; wears a loose long-sleeved ankle-length maroon traditional Maldivian dress with a thin gold-thread neckline band and a soft beige headscarf fully covering her hair and neck. Hassanfulhu: a tall lean upright Maldivian man about 65 with weathered warm brown skin, a long calm stern face, sharp steady eyes and a long white beard; wears a white knitted skullcap, a white long-sleeved shirt and a white sarong to the ankles.\nMood/lighting: night after maghrib, dim light, warm flickering amber of small oil lamps and fires against deep indigo darkness, incense haze, tense and fearful.\nModest Maldivian clothing (women in loose long-sleeved ankle-length dresses with hijab fully covering hair and neck; men in shirts and long trousers or sarong), culturally respectful, no violence shown, no blood, no gore, no monsters, no horror creatures, no text, no letters, no writing, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.1,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 31.2,
+    "y_pct": 26.7,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_028",
+   "startMs": 775978,
+   "endMs": 793388,
+   "new_image_reason": "action change: the recitation ends, Shamaan is carried home",
+   "characters": [
+    "shamaan",
+    "sakeena"
+   ],
+   "location": "a dark sandy island lane at night leading to the open gate of Shamaan's family house, coral-stone walls and palms",
+   "location_key": "carry_lane",
+   "mood": "night, deep indigo darkness, a little warm lamplight from the house doorway, exhausted and sorrowful",
+   "visual": "young island men carrying the exhausted Shamaan home, his arms across two men's shoulders, his head drooping and eyes half closed; Sakeena following close behind, weeping and calling out",
+   "camera": "medium wide, eye level, faces in the upper half",
+   "image": "images/beat_028.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "village_night",
+   "shots": [
+    {
+     "id": "shot_087",
+     "startMs": 775978,
+     "endMs": 782858,
+     "narration_dhivehi": "ޝަމްއާންވެސް ތެދުވެއްޖެއެވެ. ޝަމްއާންގެ ގައިގައި އެއްވެސް ވަރެއް ނެތް ކަހަލައެވެ. ކޮޅަށް ހުރެވެނީވެސް ހަމަ ކިރިޔާއެވެ.",
+     "narration_english": "Shamaan got up too. There seemed to be no strength left in his body. He could barely stand.",
+     "crop": "full",
+     "motion": "pan up",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_088",
+     "startMs": 782858,
+     "endMs": 793388,
+     "narration_dhivehi": "ކިޔަވައި ނިމުމާއިއެކު އެންމެންގެ އަތްދަނޑިމަތީގައި ޝަމްއާން ގެނެސް ގެއަށް ވެއްދިއެވެ. އެއިރުވެސް ޝަމްއާންގެ މަންމަ އެމީހުންގެ ފަހަތުން މޮޔައެއްފަދައިން ހަޅޭލަވަމުން ދިޔައެވެ.",
+     "narration_english": "When the recitation was over, they all carried Shamaan on their shoulders and brought him into the house. Shamaan's mother still followed behind them, screaming like one gone mad.",
+     "crop": "tight",
+     "motion": "slow pull-out",
+     "sfx": [
+      {
+       "name": "footsteps_sand",
+       "atMs": 786258,
+       "gainDb": -20,
+       "word": "ގެނެސް"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      40.6,
+      0.0,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Shamaan; reference image 2 is Sakeena), create a new scene: Cinematic semi-realistic digital illustration with a quiet, mysterious island-village mood, moonlit palette of deep indigo, silver-blue and sea-teal with warm amber lamplight accents at night and soft natural tropical light by day, gentle atmospheric haze, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and calm, uncluttered space at the bottom for a logo.\nScene: young island men carrying the exhausted Shamaan home, his arms across two men's shoulders, his head drooping and eyes half closed; Sakeena following close behind, weeping and calling out. Location: a dark sandy island lane at night leading to the open gate of Shamaan's family house, coral-stone walls and palms. Camera: medium wide, eye level, faces in the upper half.\nCharacters: Shamaan: a slim Maldivian man about 28 with warm brown skin, a lean oval face, soft dark brown eyes with a sad tired look, straight dark eyebrows, short slightly wavy neatly combed black hair and a short neatly trimmed black beard; wears a plain light-blue long-sleeved button shirt with sleeves rolled to the forearm and dark grey long trousers. Sakeena: a short plump Maldivian woman in her mid 50s with warm brown skin, a round kind face with soft wrinkles and worried dark eyes; wears a loose long-sleeved ankle-length maroon traditional Maldivian dress with a thin gold-thread neckline band and a soft beige headscarf fully covering her hair and neck.\nMood/lighting: night, deep indigo darkness, a little warm lamplight from the house doorway, exhausted and sorrowful.\nModest Maldivian clothing (women in loose long-sleeved ankle-length dresses with hijab fully covering hair and neck; men in shirts and long trousers or sarong), culturally respectful, no violence shown, no blood, no gore, no monsters, no horror creatures, no text, no letters, no writing, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.151,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 77.9,
+    "y_pct": 30.3,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_029",
+   "startMs": 793388,
+   "endMs": 811269,
+   "new_image_reason": "scene change: in his bedroom, his mother comforts him and leaves",
+   "characters": [
+    "sakeena",
+    "shamaan"
+   ],
+   "location": "Shamaan's simple bedroom in an old Maldivian coral-stone house, whitewashed walls, a wooden single bed with a plain sheet, a wooden window with thin curtains, a wooden door",
+   "location_key": "bedroom",
+   "mood": "late night, cool silver-blue moonlight through the window and the faint amber of a small lamp, quiet, mysterious and sorrowful",
+   "visual": "Shamaan lying fully clothed on the bed under a sheet, exhausted, eyes half open; Sakeena sitting on the edge of the bed beside him, one hand gently on his shoulder, comforting him with a tired sad face",
+   "camera": "medium shot, eye level, faces in the upper half",
+   "image": "images/beat_029.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "room_night",
+   "shots": [
+    {
+     "id": "shot_089",
+     "startMs": 793388,
+     "endMs": 803369,
+     "narration_dhivehi": "\"ދަރިފުޅާ ހިތްވަރު ކުރޭ. އެމީހުން ކުރާކަންތަކާއި އަޅާނުލާ\" އެމީހުން ދިއުމުން ޝަމްއާންގެ މަންމަ ހިތްވަރު ދެމުން ދިޔައެވެ. ޒުމްރާވެސް އަދި ގެއަކަށް ނާދެއެވެ.",
+     "narration_english": "\"Be strong, my son. Pay no mind to what they do,\" his mother kept encouraging him after they had gone. Zumra had not come home yet either.",
+     "crop": "full",
+     "motion": "pan down",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_090",
+     "startMs": 803369,
+     "endMs": 811269,
+     "narration_dhivehi": "އެހެންވުމާއިއެކު ނިދާލާށޭ ކިޔާފައި ޝަމްއާންގެ މަންމަ ސަކީނާ ކޮޓަރީގެ ދޮރުލައްޕާފައި ނިކުތެވެ. ޝަމްއާންއަށް ވެސް ނިދިއްޖެއެވެ.",
+     "narration_english": "Then, telling him to get some sleep, Shamaan's mother Sakeena closed the bedroom door and went out. Shamaan fell asleep too.",
+     "crop": "tight",
+     "motion": "static drift",
+     "sfx": [
+      {
+       "name": "door_close",
+       "atMs": 808059,
+       "gainDb": -18,
+       "word": "ދޮރުލައްޕާފައި"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      39.0,
+      0.0,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Sakeena; reference image 2 is Shamaan), create a new scene: Cinematic semi-realistic digital illustration with a quiet, mysterious island-village mood, moonlit palette of deep indigo, silver-blue and sea-teal with warm amber lamplight accents at night and soft natural tropical light by day, gentle atmospheric haze, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and calm, uncluttered space at the bottom for a logo.\nScene: Shamaan lying fully clothed on the bed under a sheet, exhausted, eyes half open; Sakeena sitting on the edge of the bed beside him, one hand gently on his shoulder, comforting him with a tired sad face. Location: Shamaan's simple bedroom in an old Maldivian coral-stone house, whitewashed walls, a wooden single bed with a plain sheet, a wooden window with thin curtains, a wooden door. Camera: medium shot, eye level, faces in the upper half.\nCharacters: Sakeena: a short plump Maldivian woman in her mid 50s with warm brown skin, a round kind face with soft wrinkles and worried dark eyes; wears a loose long-sleeved ankle-length maroon traditional Maldivian dress with a thin gold-thread neckline band and a soft beige headscarf fully covering her hair and neck. Shamaan: a slim Maldivian man about 28 with warm brown skin, a lean oval face, soft dark brown eyes with a sad tired look, straight dark eyebrows, short slightly wavy neatly combed black hair and a short neatly trimmed black beard; wears a plain light-blue long-sleeved button shirt with sleeves rolled to the forearm and dark grey long trousers.\nMood/lighting: late night, cool silver-blue moonlight through the window and the faint amber of a small lamp, quiet, mysterious and sorrowful.\nModest Maldivian clothing (women in loose long-sleeved ankle-length dresses with hijab fully covering hair and neck; men in shirts and long trousers or sarong), culturally respectful, no violence shown, no blood, no gore, no monsters, no horror creatures, no text, no letters, no writing, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.284,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 68.8,
+    "y_pct": 28.0,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_030",
+   "startMs": 811269,
+   "endMs": 843680,
+   "new_image_reason": "character enters: late at night Zumra is in the room, hurt and in tears",
+   "characters": [
+    "zumra",
+    "shamaan"
+   ],
+   "location": "Shamaan's simple bedroom in an old Maldivian coral-stone house, whitewashed walls, a wooden single bed with a plain sheet, a wooden window with thin curtains, a wooden door",
+   "location_key": "bedroom",
+   "mood": "late night, cool silver-blue moonlight through the window and the faint amber of a small lamp, quiet, mysterious and sorrowful",
+   "visual": "Zumra standing in the moonlight by the window, holding her forearm wrapped in a plain cloth, her pained face streaked with tears and a faint silvery sparkle in her eyes; Shamaan standing near her, bewildered and worried, looking at her",
+   "camera": "medium two-shot, eye level, faces in the upper half",
+   "image": "images/beat_030.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": "violence",
+   "safe_substitution": "her injuries shown only as a forearm wrapped in plain cloth and a pained face; no wounds or blood",
+   "ambience": "room_night",
+   "shots": [
+    {
+     "id": "shot_091",
+     "startMs": 811269,
+     "endMs": 819599,
+     "narration_dhivehi": "ޝަމްއާން އަށް ހޭލެވުނީ ކޮޓަރީގައި މީހަކު އުޅޭހެން ހީވެގެންނެވެ. މަޑުމަޑުން ލޯހުޅުވައި ބަލައިލިއެވެ. ޝަމްއާންއަށް ހީވީ ރަނގަޅަށެވެ.",
+     "narration_english": "Shamaan woke up feeling that someone was moving about in the room. He slowly opened his eyes and looked. Shamaan had sensed right.",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [
+      {
+       "name": "breath",
+       "atMs": 812199,
+       "gainDb": -24,
+       "word": "ހޭލެވުނީ"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_092",
+     "startMs": 819599,
+     "endMs": 828599,
+     "narration_dhivehi": "ކޮޓަރިތެރޭގައި ޒުމްރާ ހިނގާލަ ހިނގާލަ ހުއްޓެވެ. ޝަމްއާން ތެދުވެގެންގޮސް ޒުމްރާގެ ގާތަށް ދިޔައެވެ. ޒުމްރާ ހުރީ ކޮންމެވެސް ވަރަކަށް ޒަޚަމްވެފައެވެ.",
+     "narration_english": "Zumra was pacing back and forth in the room. Shamaan got up and went to Zumra. Zumra had been hurt in some way.",
+     "crop": "tight",
+     "motion": "pan left",
+     "sfx": [
+      {
+       "name": "footsteps_pavement",
+       "atMs": 821039,
+       "gainDb": -24,
+       "word": "ހިނގާލަ"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      3.6,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_093",
+     "startMs": 828599,
+     "endMs": 836779,
+     "narration_dhivehi": "\"ކިހިނެތްވެފައި ތިޔަހުރީ\" ޝަމްއާން ހައިރާންކަމާއެކު އަހައިލިއެވެ. \"ކޮންމެހެން ނޭނގޭކަމަށް ހަދާނެކަމެއްނެތް\" ޒުމްރާ ހުރީ ހިތްހަމަނުޖެހިފައެވެ.",
+     "narration_english": "\"What has happened to you?\" Shamaan asked in surprise. \"There's no need to pretend you don't know,\" Zumra said, upset.",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_094",
+     "startMs": 836779,
+     "endMs": 843680,
+     "narration_dhivehi": "\"އަހަރެންނަކަށް ނޭނގެ\" ޝަމްއާން ޖަވާބުދިނެވެ. \"ބަލަ އެއުޅޭ ހަސަންފުޅުގެ ކަންތަކެއްނު މިއީ\" ޒުމްރާއަށް ރޮވެންފެށުނެވެ.",
+     "narration_english": "\"I don't know,\" Shamaan answered. \"Look, this is that Hassanfulhu's doing,\" Zumra said, and began to cry.",
+     "crop": "medium",
+     "motion": "pan right",
+     "sfx": [
+      {
+       "name": "sob_breath",
+       "atMs": 842759,
+       "gainDb": -22,
+       "word": "ރޮވެންފެށުނެވެ."
+      }
+     ],
+     "hum": true,
+     "crop_rect_pct": [
+      0.0,
+      0.0,
+      71.5,
+      84.7
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Zumra; reference image 2 is Shamaan), create a new scene: Cinematic semi-realistic digital illustration with a quiet, mysterious island-village mood, moonlit palette of deep indigo, silver-blue and sea-teal with warm amber lamplight accents at night and soft natural tropical light by day, gentle atmospheric haze, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and calm, uncluttered space at the bottom for a logo.\nScene: Zumra standing in the moonlight by the window, holding her forearm wrapped in a plain cloth, her pained face streaked with tears and a faint silvery sparkle in her eyes; Shamaan standing near her, bewildered and worried, looking at her. Location: Shamaan's simple bedroom in an old Maldivian coral-stone house, whitewashed walls, a wooden single bed with a plain sheet, a wooden window with thin curtains, a wooden door. Camera: medium two-shot, eye level, faces in the upper half.\nCharacters: Zumra: a slim graceful Maldivian young woman in her early 20s with smooth light-brown skin with a faint moonlit glow, a strikingly beautiful heart-shaped face, large dark eyes with an unusual silvery sparkle and an enigmatic faint smile; wears a loose long-sleeved ankle-length midnight-blue dress with fine silver embroidery at the cuffs and hem and a pale silver-grey hijab fully covering her hair and neck. Shamaan: a slim Maldivian man about 28 with warm brown skin, a lean oval face, soft dark brown eyes with a sad tired look, straight dark eyebrows, short slightly wavy neatly combed black hair and a short neatly trimmed black beard; wears a plain light-blue long-sleeved button shirt with sleeves rolled to the forearm and dark grey long trousers.\nMood/lighting: late night, cool silver-blue moonlight through the window and the faint amber of a small lamp, quiet, mysterious and sorrowful.\nModest Maldivian clothing (women in loose long-sleeved ankle-length dresses with hijab fully covering hair and neck; men in shirts and long trousers or sarong), culturally respectful, no violence shown, no blood, no gore, no monsters, no horror creatures, no text, no letters, no writing, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.108,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 33.3,
+    "y_pct": 24.3,
+    "face_detected": true
+   }
+  }
+ ]
+}

@@ -1,0 +1,2895 @@
+{
+ "series": "Sahar",
+ "episode": 421,
+ "beats": [
+  {
+   "id": "beat_001",
+   "startMs": 0,
+   "endMs": 25630,
+   "new_image_reason": "episode opening: the reunion at the cave mouth",
+   "characters": [
+    "fathimaa",
+    "sahar",
+    "hamza",
+    "laila"
+   ],
+   "location": "the mouth of a large limestone cave high on a wooded hillside west of Jerusalem, framed by pine trees, big boulders and thorny bushes, a rocky ledge in front of the opening",
+   "location_key": "cave_mouth",
+   "mood": "smoke-darkened ember day around noon, hazy amber light filtering through pines, a column of smoke far away, overwhelming relief and tears of joy",
+   "visual": "at the cave mouth Fathimaa hugs her daughter tightly, eyes shut, tears of joy on her cheeks; Sahar in her black thobe with deep-red embroidery and black hijab fully covering her hair and neck, her LEFT forearm resting in a sling made from a strip of plain beige cloth tied around her neck, no visible injury, weeping with relief in her mother's arms; Hamza in his red-and-white keffiyeh hurries towards them from the cave opening, arms reaching out; Laila in her indigo thobe and long white headscarf stands a step behind, exhausted",
+   "camera": "medium wide, eye level, the cave opening and pines behind, the rocky ledge as a calm lower third",
+   "image": "images/beat_001.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": "other",
+   "safe_substitution": "mother-daughter hug only (bible rule 7); Sahar's injury shown only as a clean cloth sling",
+   "ambience": "hillside_smoke",
+   "shots": [
+    {
+     "id": "shot_001",
+     "startMs": 0,
+     "endMs": 8810,
+     "narration_dhivehi": "\"ސުބުހާނައްﷲ! ހަމްޒާ... ހަމްޒާ! އެހެރީ މަގޭ ސަހަރް... ސަލާމަތުން... ދަރިފުޅާ!\" ފާތިމާއަށް ރޮވޭ ގޮތްވިއެވެ.",
+     "narration_english": "\"Subhanallah! Hamza... Hamza! There is my Sahar... safe... my child!\" Fathimaa burst into tears.",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [
+      {
+       "name": "sob_breath",
+       "atMs": 7740,
+       "gainDb": -22,
+       "word": "ރޮވޭ"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_002",
+     "startMs": 8810,
+     "endMs": 16650,
+     "narration_dhivehi": "ހޮހޮޅައިގެ ދޮރުމަތީގައި ސަހަރްމެން ތިބި ތަން ފެނުމުން، ފާތިމާއަށް ބުނެދޭންވެސް ނޭނގޭ އިޙްސާސްތަކެއް ކުރެވެން ފެށިއެވެ.",
+     "narration_english": "When she saw Sahar and the others at the mouth of the cave, Fathimaa felt emotions she could not describe.",
+     "crop": "tight",
+     "motion": "pan left",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      40.6,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_003",
+     "startMs": 16650,
+     "endMs": 25630,
+     "narration_dhivehi": "ބާރުބާރަށް ގޮސް ސަހަރްގެ ގައިގައި ބައްދާ އޮޅުލައިގަތެވެ. ފަހަތުން ހަމްޒާ ވެސް އައިސް ސަހަރްގެ ގައިގައި ބައްދާލިއެވެ. އަދި ލައިލާމެންނާ ސަލާމް ކުރުމަށްފަހު،",
+     "narration_english": "She ran and threw her arms around Sahar, holding her tight. Behind her Hamza came and hugged Sahar too. And after greeting Laila and the others,",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [
+      {
+       "name": "footsteps_sand",
+       "atMs": 16740,
+       "gainDb": -22,
+       "word": "ބާރުބާރަށް"
+      },
+      {
+       "name": "cloth_rustle",
+       "atMs": 18440,
+       "gainDb": -22,
+       "word": "ބައްދާ"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Fathimaa; reference image 2 is Sahar; reference image 3 is Hamza; reference image 4 is Laila), create a new scene: Cinematic semi-realistic digital illustration of Palestine in spring 1948, a warm ember-orange, smoky amber and deep charcoal palette like a historical war drama, golden Levantine limestone villages, terraced olive groves and pine hills, dusty sunlight and soft haze, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (stone floor, dirt path, rock, soft shadow, sea) for captions and a logo; peaceful scenes glow with warm spring gold, the attack and its aftermath have dark smoke-filled ember skies, night scenes are deep blue with a warm oil-lamp glow, and memories or dreams have a soft hazy golden dreamlike glow.\nScene: at the cave mouth Fathimaa hugs her daughter tightly, eyes shut, tears of joy on her cheeks; Sahar in her black thobe with deep-red embroidery and black hijab fully covering her hair and neck, her LEFT forearm resting in a sling made from a strip of plain beige cloth tied around her neck, no visible injury, weeping with relief in her mother's arms; Hamza in his red-and-white keffiyeh hurries towards them from the cave opening, arms reaching out; Laila in her indigo thobe and long white headscarf stands a step behind, exhausted. Location: the mouth of a large limestone cave high on a wooded hillside west of Jerusalem, framed by pine trees, big boulders and thorny bushes, a rocky ledge in front of the opening. Camera: medium wide, eye level, the cave opening and pines behind, the rocky ledge as a calm lower third.\nCharacters: Fathimaa: a sturdy Palestinian woman of about 45 with light olive-brown skin, a round gentle face, soft dark eyes and faint smile lines; wears a loose long-sleeved ankle-length deep forest-green Palestinian thobe with red-and-gold embroidery on the chest and a long cream headscarf fully covering her hair, neck and shoulders. Sahar: a slim Palestinian young woman of 18 with light olive-brown skin, a soft oval face with a clean unmarked complexion, large dark almond-shaped eyes, thick dark eyebrows and full lips; wears a loose long-sleeved ankle-length black Palestinian thobe with deep-red cross-stitch embroidery on the chest panel and cuffs and a black hijab fully covering her hair and neck. Hamza: a stocky Palestinian man of about 50 with light olive-brown skin, a square weathered face, thoughtful dark eyes and a neatly trimmed salt-and-pepper beard; wears a long plain white thobe robe under a brown wool jacket and a red-and-white checked keffiyeh on his head held by a black agal cord. Laila: a slightly plump Palestinian woman of about 45 with light olive-brown skin, a kind oval face with soft lines and warm brown eyes; wears a loose long-sleeved ankle-length deep indigo-blue Palestinian thobe with red embroidery on the chest and a long plain white headscarf fully covering her hair, neck and shoulders.\nMood/lighting: smoke-darkened ember day around noon, hazy amber light filtering through pines, a column of smoke far away, overwhelming relief and tears of joy.\nModest 1940s Palestinian village clothing (every woman and girl in a loose long-sleeved ankle-length dress with a headscarf or hijab fully covering her hair and neck; men in long-sleeved shirts or robes and long trousers, never shirtless), a clear respectful distance between men and women who are not married, culturally respectful and Islamic in spirit, no violence shown, no blood, no wounds, no injuries, no bruises, no corpses, no person lying on the ground, no guns, no rifles, no knives, no weapons, no chains on necks, no flags, no military insignia, no religious symbols of other faiths, no alcohol, no bottles, no smoking, no text, no letters, no numbers, no writing, no Arabic script, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.464,
+    "halo": true
+   },
+   "focus": {
+    "x_pct": 91.7,
+    "y_pct": 28.3,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_002",
+   "startMs": 25630,
+   "endMs": 45561,
+   "new_image_reason": "scene change: inside the cave, Sahar sees her parents and brother safe",
+   "characters": [
+    "sahar",
+    "ameen",
+    "fathimaa",
+    "hamza"
+   ],
+   "location": "inside a large, roomy limestone cave: rough golden-grey rock walls, a woven rug spread on the sandy floor, a few clay water jars, cloth sacks of food, a copper pot and canvas bags along the wall, the bright opening of the cave behind",
+   "location_key": "cave",
+   "mood": "smoke-darkened ember day, warm amber daylight spilling in from the cave opening, soft shadows on the rock, fragile relief mixed with grief",
+   "visual": "Sahar in her black thobe with deep-red embroidery and black hijab fully covering her hair and neck, her LEFT forearm resting in a sling made from a strip of plain beige cloth tied around her neck, no visible injury, sitting on a woven rug inside the cave with a tearful, relieved smile; her brother Ameen in his grey shirt sits beside her holding her right hand; Fathimaa in her forest-green thobe and cream headscarf and Hamza in his red-and-white keffiyeh sit facing her, Hamza resting one hand gently on top of her hijab",
+   "camera": "medium shot, eye level, the bright cave opening blurred behind",
+   "image": "images/beat_002.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": "other",
+   "safe_substitution": "only father (hand on head) and brother (hand held) touch Sahar (bible rule 7)",
+   "ambience": "cave",
+   "shots": [
+    {
+     "id": "shot_004",
+     "startMs": 25630,
+     "endMs": 36760,
+     "narration_dhivehi": "އެންމެން ވެސް އިށީނުމަށް އެދުނެވެ. ހޮހޮޅަ ތެރޭގައި، މަންމައާއި ބައްޕަ އަދި ކޮއްކޮ އަމީން ވެސް ސަލާމަތުން ހުރި ތަން ފެނުމުން، ސަހަރްގެ ހިތަށް އުފާވެރިކަން ވެރިވިއެވެ.",
+     "narration_english": "he asked everyone to sit. Inside the cave, seeing her mother, her father and her little brother Ameen safe, Sahar's heart filled with joy.",
+     "crop": "full",
+     "motion": "pan right",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_005",
+     "startMs": 36760,
+     "endMs": 45561,
+     "narration_dhivehi": "ކުދިކުދި ވެފައިވި އެ ހިތަށް ކޮންމެ ވެސް ވަރެއްގެ ލުއި ކަމެއް ލިބުނެވެ. އެއީ ތަނަވަސް ބޮޑު ހޮހޮޅައެކެވެ. ސަހަރް ކުޑައިރުގެ އެތައް ހަނދާނެއް ގުޅިފައިވާ ތަނެކެވެ.",
+     "narration_english": "That shattered heart found some kind of relief. It was a large, spacious cave, a place bound up with many of Sahar's childhood memories.",
+     "crop": "tight",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      19.5,
+      0.0,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "refused",
+     "rewrite_reason": null
+    },
+    {
+     "attempt": 2,
+     "result": "ok",
+     "rewrite_reason": "refused: removed trigger words, neutral emotion/setting wording"
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing, create a new scene: Cinematic semi-realistic digital illustration of Palestine in spring 1948, a warm ember-orange, smoky amber and deep charcoal palette like a historical war drama, golden Levantine limestone villages, terraced olive groves and pine hills, dusty sunlight and soft haze, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (stone floor, dirt path, rock, soft shadow, sea) for captions and a logo; peaceful scenes glow with warm spring gold, the attack and its aftermath have dark smoke-filled ember skies, night scenes are deep blue with a warm oil-lamp glow, and memories or dreams have a soft hazy golden dreamlike glow.\nScene: Sahar in her black thobe with deep-red embroidery and black hijab fully covering her hair and neck, her LEFT forearm resting in a sling made from a strip of plain beige cloth tied around her neck, no visible , sitting on a woven rug inside the cave with a , relieved smile; her brother Ameen in his grey shirt sits beside her holding her right hand; Fathimaa in her forest-green thobe and cream headscarf and Hamza in his red-and-white keffiyeh sit facing her, Hamza resting one hand gently on top of her hijab, calm and emotional. Location: inside a large, roomy limestone cave: rough golden-grey rock walls, a woven rug spread on the sandy floor, a few clay water jars, cloth sacks of food, a copper pot and canvas bags along the wall, the bright opening of the cave behind. Camera: medium shot, eye level, the bright cave opening blurred behind.\nCharacters: Sahar: a slim Palestinian young woman of 18 with light olive-brown skin, a soft oval face with a clean unmarked complexion, large dark almond-shaped eyes, thick dark eyebrows and full lips; wears a loose long-sleeved ankle-length black Palestinian thobe with deep-red cross-stitch embroidery on the chest panel and cuffs and a black hijab fully covering her hair and neck. Ameen: a lanky Palestinian boy of about 14 with light olive-brown skin, a thin boyish face, big earnest dark eyes, thick eyebrows and short curly black hair; wears a long-sleeved grey cotton shirt buttoned to the neck and dark-brown trousers. Fathimaa: a sturdy Palestinian woman of about 45 with light olive-brown skin, a round gentle face, soft dark eyes and faint smile lines; wears a loose long-sleeved ankle-length deep forest-green Palestinian thobe with red-and-gold embroidery on the chest and a long cream headscarf fully covering her hair, neck and shoulders. Hamza: a stocky Palestinian man of about 50 with light olive-brown skin, a square weathered face, thoughtful dark eyes and a neatly trimmed salt-and-pepper beard; wears a long plain white thobe robe under a brown wool jacket and a red-and-white checked keffiyeh on his head held by a black agal cord.\nMood/lighting: smoke-darkened ember day, warm amber daylight spilling in from the cave opening, soft shadows on the rock, fragile relief mixed with grief.\nModest 1940s Palestinian village clothing (every woman and girl in a loose long-sleeved ankle-length dress with a headscarf or hijab fully covering her hair and neck; men in long-sleeved shirts or robes and long trousers, never shirtless), a clear respectful distance between men and women who are not married, culturally respectful and Islamic in spirit, no violence shown, no blood, no wounds, no injuries, no bruises, no corpses, no person lying on the ground, no guns, no rifles, no knives, no weapons, no chains on necks, no flags, no military insignia, no religious symbols of other faiths, no alcohol, no bottles, no smoking, no text, no letters, no numbers, no writing, no Arabic script, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.229,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 49.2,
+    "y_pct": 34.1,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_003",
+   "startMs": 45561,
+   "endMs": 72861,
+   "new_image_reason": "the narrator describes the hidden cave: establishing shot",
+   "characters": [],
+   "location": "a steep terraced hillside of pine trees, olive trees and huge limestone boulders, the dark mouth of a cave almost completely hidden behind the trees and rocks halfway up the slope, a narrow footpath far below",
+   "location_key": "hillside",
+   "mood": "smoke-darkened ember day, dusty amber haze, distant columns of smoke on the horizon, hidden and silent",
+   "visual": "a steep pine-and-boulder hillside where the dark mouth of a cave is almost completely hidden behind trees and huge rocks; far away on the horizon thin columns of smoke rise into an amber sky; no people",
+   "camera": "wide shot, low angle from the footpath below, the hidden cave in the upper half",
+   "image": "images/beat_003.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "hillside_smoke",
+   "shots": [
+    {
+     "id": "shot_006",
+     "startMs": 45561,
+     "endMs": 54311,
+     "narration_dhivehi": "އެ ހޮހޮޅައަކީ ތިރިން ހިނގާފައިދާ މީހަކަށް، ނުފެންނަ ގޮތަށް، ގަސްތަކާއި ބޮޑެތި ހިލަތަކުގެ ސަބަބުން ވަރަށް ބޮޑަށް ފޮރުވިފައިވާ ހޮހޮޅައެކެވެ.",
+     "narration_english": "Thanks to the trees and big rocks, the cave was so well hidden that someone walking below could not see it.",
+     "crop": "full",
+     "motion": "pan up",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_007",
+     "startMs": 54311,
+     "endMs": 61461,
+     "narration_dhivehi": "މިފަދަ ހާލަތެއްގައި ފިލައި ތިބުމަށް އެކަށީގެންވާ ތަނެކެވެ. ހަމްޒާ އަދި ފާތިމާއަށް ވެސް ލިބުނީ ކުއްލި ހައިރާން ކަމެކެވެ.",
+     "narration_english": "It was a fitting place to hide in a situation like this. Hamza and Fathimaa too were overcome with sudden astonishment.",
+     "crop": "tight",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      33.0,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_008",
+     "startMs": 61461,
+     "endMs": 72861,
+     "narration_dhivehi": "ސަހަރް ސަލާމަތުން ފެންނާނެ ކަމަކަށް އެދެމީހުން ހީނުކުރެއެވެ. އެއީ ހަނގުރާމަވެރިން ފުރަތަމަ އަރައިގަތީ، ސަހަރްމެން ދިރިއުޅޭ ސަރަހައްދުގައި ހުރި ގެތަކަށް ކަމަށް މައުލޫމާތު ލިބިފައިވާތީއެވެ.",
+     "narration_english": "They had not expected to find Sahar alive, because they had heard that the fighters first attacked the houses in the area where Sahar's family lived.",
+     "crop": "full",
+     "motion": "pan down",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Cinematic semi-realistic digital illustration of Palestine in spring 1948, a warm ember-orange, smoky amber and deep charcoal palette like a historical war drama, golden Levantine limestone villages, terraced olive groves and pine hills, dusty sunlight and soft haze, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (stone floor, dirt path, rock, soft shadow, sea) for captions and a logo; peaceful scenes glow with warm spring gold, the attack and its aftermath have dark smoke-filled ember skies, night scenes are deep blue with a warm oil-lamp glow, and memories or dreams have a soft hazy golden dreamlike glow.\nScene: a steep pine-and-boulder hillside where the dark mouth of a cave is almost completely hidden behind trees and huge rocks; far away on the horizon thin columns of smoke rise into an amber sky; no people. Location: a steep terraced hillside of pine trees, olive trees and huge limestone boulders, the dark mouth of a cave almost completely hidden behind the trees and rocks halfway up the slope, a narrow footpath far below. Camera: wide shot, low angle from the footpath below, the hidden cave in the upper half.\nMood/lighting: smoke-darkened ember day, dusty amber haze, distant columns of smoke on the horizon, hidden and silent.\nModest 1940s Palestinian village clothing (every woman and girl in a loose long-sleeved ankle-length dress with a headscarf or hijab fully covering her hair and neck; men in long-sleeved shirts or robes and long trousers, never shirtless), a clear respectful distance between men and women who are not married, culturally respectful and Islamic in spirit, no violence shown, no blood, no wounds, no injuries, no bruises, no corpses, no person lying on the ground, no guns, no rifles, no knives, no weapons, no chains on necks, no flags, no military insignia, no religious symbols of other faiths, no alcohol, no bottles, no smoking, no text, no letters, no numbers, no writing, no Arabic script, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.36,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 62.7,
+    "y_pct": 25.0,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_004",
+   "startMs": 72861,
+   "endMs": 91792,
+   "new_image_reason": "emotional turning point: Hamza sees the broken arm and Fathimaa asks where the others are",
+   "characters": [
+    "hamza",
+    "sahar",
+    "fathimaa",
+    "laila"
+   ],
+   "location": "inside a large, roomy limestone cave: rough golden-grey rock walls, a woven rug spread on the sandy floor, a few clay water jars, cloth sacks of food, a copper pot and canvas bags along the wall, the bright opening of the cave behind",
+   "location_key": "cave",
+   "mood": "smoke-darkened ember day, warm amber daylight spilling in from the cave opening, soft shadows on the rock, fragile relief mixed with grief",
+   "visual": "Hamza, pale and stunned, looks down at his daughter's arm; Sahar in her black thobe with deep-red embroidery and black hijab fully covering her hair and neck, her LEFT forearm resting in a sling made from a strip of plain beige cloth tied around her neck, no visible injury, her face crumpling as her voice breaks; Fathimaa beside them presses one hand to her chest, eyes wide with dread; Laila sits a little apart, trembling",
+   "camera": "medium shot, eye level",
+   "image": "images/beat_004.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": "violence",
+   "safe_substitution": "the deliberately broken arm is shown only as the clean cloth sling, no injury",
+   "ambience": "cave",
+   "shots": [
+    {
+     "id": "shot_009",
+     "startMs": 72861,
+     "endMs": 83132,
+     "narration_dhivehi": "\"ދަރިފުޅުގެ އަތް ބިނދުނީތަ؟\" ފެންކަޅިވެ ހުރެ ހަމްޒާ އަހާލިއެވެ. \"ބިނދުނީ އެއް ނޫން.. ބިންދާލީ...\" ތުރުތުރު އަޅަމުންދިޔަ އަޑަކުން ލައިލާ ބުނެލިއެވެ. \"ކޮބައި އެހެން މީހުން؟",
+     "narration_english": "\"Did my child's arm break?\" Hamza asked, turning pale. \"It didn't break... it was broken...\" Laila said in a trembling voice. \"Where are the others?",
+     "crop": "full",
+     "motion": "static drift",
+     "sfx": [
+      {
+       "name": "sob_breath",
+       "atMs": 79282,
+       "gainDb": -24,
+       "word": "ތުރުތުރު"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_010",
+     "startMs": 83132,
+     "endMs": 91792,
+     "narration_dhivehi": "މަހްމޫދު، ނޫރު... ކޮބައި މަގޭ ދަރިފުޅު ޔަޒަން؟؟\" ބޯމަތީގައި އަތް އަޅަމުން ފާތިމާ އަހާލިއެވެ. \"މަންމާ\" ސަހަރްގެ އަޑު ބެދޭގޮތްވިއެވެ.",
+     "narration_english": "Mahmood, Noor... where is my child Yazan?\" Fathimaa asked, a hand on her chest. \"Mother...\" Sahar's voice broke.",
+     "crop": "tight",
+     "motion": "slow push-in",
+     "sfx": [
+      {
+       "name": "gasp",
+       "atMs": 90842,
+       "gainDb": -22,
+       "word": "ބެދޭގޮތްވިއެވެ."
+      }
+     ],
+     "hum": true,
+     "crop_rect_pct": [
+      0.0,
+      0.0,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Hamza; reference image 2 is Sahar; reference image 3 is Fathimaa; reference image 4 is Laila), create a new scene: Cinematic semi-realistic digital illustration of Palestine in spring 1948, a warm ember-orange, smoky amber and deep charcoal palette like a historical war drama, golden Levantine limestone villages, terraced olive groves and pine hills, dusty sunlight and soft haze, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (stone floor, dirt path, rock, soft shadow, sea) for captions and a logo; peaceful scenes glow with warm spring gold, the attack and its aftermath have dark smoke-filled ember skies, night scenes are deep blue with a warm oil-lamp glow, and memories or dreams have a soft hazy golden dreamlike glow.\nScene: Hamza, pale and stunned, looks down at his daughter's arm; Sahar in her black thobe with deep-red embroidery and black hijab fully covering her hair and neck, her LEFT forearm resting in a sling made from a strip of plain beige cloth tied around her neck, no visible injury, her face crumpling as her voice breaks; Fathimaa beside them presses one hand to her chest, eyes wide with dread; Laila sits a little apart, trembling. Location: inside a large, roomy limestone cave: rough golden-grey rock walls, a woven rug spread on the sandy floor, a few clay water jars, cloth sacks of food, a copper pot and canvas bags along the wall, the bright opening of the cave behind. Camera: medium shot, eye level.\nCharacters: Hamza: a stocky Palestinian man of about 50 with light olive-brown skin, a square weathered face, thoughtful dark eyes and a neatly trimmed salt-and-pepper beard; wears a long plain white thobe robe under a brown wool jacket and a red-and-white checked keffiyeh on his head held by a black agal cord. Sahar: a slim Palestinian young woman of 18 with light olive-brown skin, a soft oval face with a clean unmarked complexion, large dark almond-shaped eyes, thick dark eyebrows and full lips; wears a loose long-sleeved ankle-length black Palestinian thobe with deep-red cross-stitch embroidery on the chest panel and cuffs and a black hijab fully covering her hair and neck. Fathimaa: a sturdy Palestinian woman of about 45 with light olive-brown skin, a round gentle face, soft dark eyes and faint smile lines; wears a loose long-sleeved ankle-length deep forest-green Palestinian thobe with red-and-gold embroidery on the chest and a long cream headscarf fully covering her hair, neck and shoulders. Laila: a slightly plump Palestinian woman of about 45 with light olive-brown skin, a kind oval face with soft lines and warm brown eyes; wears a loose long-sleeved ankle-length deep indigo-blue Palestinian thobe with red embroidery on the chest and a long plain white headscarf fully covering her hair, neck and shoulders.\nMood/lighting: smoke-darkened ember day, warm amber daylight spilling in from the cave opening, soft shadows on the rock, fragile relief mixed with grief.\nModest 1940s Palestinian village clothing (every woman and girl in a loose long-sleeved ankle-length dress with a headscarf or hijab fully covering her hair and neck; men in long-sleeved shirts or robes and long trousers, never shirtless), a clear respectful distance between men and women who are not married, culturally respectful and Islamic in spirit, no violence shown, no blood, no wounds, no injuries, no bruises, no corpses, no person lying on the ground, no guns, no rifles, no knives, no weapons, no chains on necks, no flags, no military insignia, no religious symbols of other faiths, no alcohol, no bottles, no smoking, no text, no letters, no numbers, no writing, no Arabic script, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.4,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 23.3,
+    "y_pct": 23.0,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_005",
+   "startMs": 91792,
+   "endMs": 122563,
+   "new_image_reason": "focus moves to Laila telling her loss; Fathimaa weeps",
+   "characters": [
+    "laila",
+    "fathimaa"
+   ],
+   "location": "inside a large, roomy limestone cave: rough golden-grey rock walls, a woven rug spread on the sandy floor, a few clay water jars, cloth sacks of food, a copper pot and canvas bags along the wall, the bright opening of the cave behind",
+   "location_key": "cave",
+   "mood": "smoke-darkened ember day, warm amber daylight spilling in from the cave opening, soft shadows on the rock, fragile relief mixed with grief",
+   "visual": "Laila in her indigo thobe and long white headscarf sits on the woven rug, her face pale and drawn, tears running down, her hands open in her lap as she speaks through sobs; Fathimaa beside her covers her face with one hand, weeping",
+   "camera": "medium close-up, eye level",
+   "image": "images/beat_005.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": "violence",
+   "safe_substitution": "the killing of Mahmood and Noor is only spoken of; shown only as Laila's grieving face",
+   "ambience": "cave",
+   "shots": [
+    {
+     "id": "shot_011",
+     "startMs": 91792,
+     "endMs": 98702,
+     "narration_dhivehi": "ލައިލާގެ މިލާފައިވާ މޫނުމަތި ފެނުނު ކޮންމެ އިންސާނަކަށް ވެސް އެކުރަމުންދާ ހިތާމަ އިހްސާސްކުރެވޭ ކަހަލައެވެ.",
+     "narration_english": "Anyone who saw Laila's drawn face could feel the grief she was going through.",
+     "crop": "full",
+     "motion": "pan left",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_012",
+     "startMs": 98702,
+     "endMs": 105602,
+     "narration_dhivehi": "ލޯބިވާ ފިރިމީހާ އާއި ދެދަރިންނަށްޓަކައި ލައިލާ ކުރަމުންދާ ހިތާމަ ބަޔާންކޮށްދޭނީ ކޮން ގޮތަކަށްބާއެވެ.",
+     "narration_english": "How could one ever describe Laila's grief for her beloved husband and her two children?",
+     "crop": "tight",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": true,
+     "crop_rect_pct": [
+      10.1,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_013",
+     "startMs": 105602,
+     "endMs": 113062,
+     "narration_dhivehi": "ނަމަވެސް ހިތްވަރުކޮށްފައި ލައިލާ ވާހަކަ ދައްކަން ފެށިއެވެ. ރޮމުން، ގިސްލަމުންނެވެ. އިވެމުން މިދާ ވާހަކައިގެ ސަބަބުން،",
+     "narration_english": "Yet she gathered her courage and began to speak, weeping and sobbing. The story they were hearing",
+     "crop": "full",
+     "motion": "pan right",
+     "sfx": [
+      {
+       "name": "sob_breath",
+       "atMs": 109762,
+       "gainDb": -22,
+       "word": "ގިސްލަމުންނެވެ."
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_014",
+     "startMs": 113062,
+     "endMs": 122563,
+     "narration_dhivehi": "ހަމްޒާ އަދި ފާތިމާއަށް ވަރަށް ބޮޑަށް އަސަރުކުރިއެވެ. \"މިއީ ހުވަފެނެއްނަމަ ކޮންފަދަ....\" މޫނު މަތީގައި އަތްއަޅައި، ރޮމުން ފާތިމާ ބުނެލިއެވެ.",
+     "narration_english": "shook Hamza and Fathimaa deeply. \"If only this were a nightmare...\" Fathimaa said, crying, her hand over her face.",
+     "crop": "medium",
+     "motion": "slow push-in",
+     "sfx": [
+      {
+       "name": "sob_breath",
+       "atMs": 120703,
+       "gainDb": -24,
+       "word": "ރޮމުން"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      4.1,
+      0.0,
+      71.5,
+      84.7
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Laila; reference image 2 is Fathimaa), create a new scene: Cinematic semi-realistic digital illustration of Palestine in spring 1948, a warm ember-orange, smoky amber and deep charcoal palette like a historical war drama, golden Levantine limestone villages, terraced olive groves and pine hills, dusty sunlight and soft haze, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (stone floor, dirt path, rock, soft shadow, sea) for captions and a logo; peaceful scenes glow with warm spring gold, the attack and its aftermath have dark smoke-filled ember skies, night scenes are deep blue with a warm oil-lamp glow, and memories or dreams have a soft hazy golden dreamlike glow.\nScene: Laila in her indigo thobe and long white headscarf sits on the woven rug, her face pale and drawn, tears running down, her hands open in her lap as she speaks through sobs; Fathimaa beside her covers her face with one hand, weeping. Location: inside a large, roomy limestone cave: rough golden-grey rock walls, a woven rug spread on the sandy floor, a few clay water jars, cloth sacks of food, a copper pot and canvas bags along the wall, the bright opening of the cave behind. Camera: medium close-up, eye level.\nCharacters: Laila: a slightly plump Palestinian woman of about 45 with light olive-brown skin, a kind oval face with soft lines and warm brown eyes; wears a loose long-sleeved ankle-length deep indigo-blue Palestinian thobe with red embroidery on the chest and a long plain white headscarf fully covering her hair, neck and shoulders. Fathimaa: a sturdy Palestinian woman of about 45 with light olive-brown skin, a round gentle face, soft dark eyes and faint smile lines; wears a loose long-sleeved ankle-length deep forest-green Palestinian thobe with red-and-gold embroidery on the chest and a long cream headscarf fully covering her hair, neck and shoulders.\nMood/lighting: smoke-darkened ember day, warm amber daylight spilling in from the cave opening, soft shadows on the rock, fragile relief mixed with grief.\nModest 1940s Palestinian village clothing (every woman and girl in a loose long-sleeved ankle-length dress with a headscarf or hijab fully covering her hair and neck; men in long-sleeved shirts or robes and long trousers, never shirtless), a clear respectful distance between men and women who are not married, culturally respectful and Islamic in spirit, no violence shown, no blood, no wounds, no injuries, no bruises, no corpses, no person lying on the ground, no guns, no rifles, no knives, no weapons, no chains on necks, no flags, no military insignia, no religious symbols of other faiths, no alcohol, no bottles, no smoking, no text, no letters, no numbers, no writing, no Arabic script, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.174,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 39.8,
+    "y_pct": 27.9,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_006",
+   "startMs": 122563,
+   "endMs": 147313,
+   "new_image_reason": "focus moves to Hamza: grief for his friend, then he takes cloth from a bag",
+   "characters": [
+    "hamza"
+   ],
+   "location": "the mouth of a large limestone cave high on a wooded hillside west of Jerusalem, framed by pine trees, big boulders and thorny bushes, a rocky ledge in front of the opening",
+   "location_key": "cave_mouth",
+   "mood": "smoke-darkened ember day around noon, hazy amber light filtering through pines, a column of smoke far away, overwhelming relief and tears of joy",
+   "visual": "Hamza sits alone on a boulder at the cave mouth, head bowed, one hand pressed over his eyes in grief; in his other hand a folded piece of clean cloth taken from an open canvas bag beside him",
+   "camera": "medium shot, slightly from the side",
+   "image": "images/beat_006.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": "violence",
+   "safe_substitution": "Mahmood's martyrdom shown only as Hamza's private grief",
+   "ambience": "hillside_smoke",
+   "shots": [
+    {
+     "id": "shot_015",
+     "startMs": 122563,
+     "endMs": 129283,
+     "narration_dhivehi": "އެންމެ ގާތް އެއް އެކުވެރިޔާ މަހްމޫދުގެ ދެބަފައިން ޝަހީދުވެ، ދަނބިދަރިފުޅު ގެއްލިފައިވާކަން އެނގުމުން،",
+     "narration_english": "When he learned that his closest friend Mahmood and his child had been martyred and that his son-in-law was missing,",
+     "crop": "full",
+     "motion": "pan up",
+     "sfx": [],
+     "hum": true,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_016",
+     "startMs": 129283,
+     "endMs": 139483,
+     "narration_dhivehi": "ބުނެދޭން ވެސް ނޭނގޭ ކަހަލަ އިހްސާސެއް ހަމްޒާއަށް ކުރެވުނެވެ. ނަމަވެސް އާއިލާއަށްޓަކައި ހިތްވަރުކުރަން ޖެހޭކަން ހަމްޒާ ދިޔައީ އަމިއްލަ ނަފްސަށް ވިސްނައިދެމުންނެވެ.",
+     "narration_english": "Hamza felt something he could not put into words. But he kept telling himself that he had to stay strong for his family.",
+     "crop": "tight",
+     "motion": "slow pull-out",
+     "sfx": [
+      {
+       "name": "sigh",
+       "atMs": 138043,
+       "gainDb": -22,
+       "word": "ވިސްނައިދެމުންނެވެ."
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      20.3,
+      4.8,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_017",
+     "startMs": 139483,
+     "endMs": 147313,
+     "narration_dhivehi": "ހިތްވަރުކޮށްފައި ތެދުވެ، ދަބަހަކުން ފޮތި ގަނޑެއް ނަގައި، ސަހަރްގެ އަތަށް ކޮންމެވެސް ވަރެއްގެ ފަރުވާއެއް ދެވޭތޯ މަސައްކަތްކުރިއެވެ.",
+     "narration_english": "Gathering his courage he stood up, took a piece of cloth from a bag, and tried to give Sahar's arm some kind of treatment.",
+     "crop": "full",
+     "motion": "pan down",
+     "sfx": [
+      {
+       "name": "cloth_rustle",
+       "atMs": 141783,
+       "gainDb": -20,
+       "word": "ފޮތި"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Hamza), create a new scene: Cinematic semi-realistic digital illustration of Palestine in spring 1948, a warm ember-orange, smoky amber and deep charcoal palette like a historical war drama, golden Levantine limestone villages, terraced olive groves and pine hills, dusty sunlight and soft haze, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (stone floor, dirt path, rock, soft shadow, sea) for captions and a logo; peaceful scenes glow with warm spring gold, the attack and its aftermath have dark smoke-filled ember skies, night scenes are deep blue with a warm oil-lamp glow, and memories or dreams have a soft hazy golden dreamlike glow.\nScene: Hamza sits alone on a boulder at the cave mouth, head bowed, one hand pressed over his eyes in grief; in his other hand a folded piece of clean cloth taken from an open canvas bag beside him. Location: the mouth of a large limestone cave high on a wooded hillside west of Jerusalem, framed by pine trees, big boulders and thorny bushes, a rocky ledge in front of the opening. Camera: medium shot, slightly from the side.\nCharacters: Hamza: a stocky Palestinian man of about 50 with light olive-brown skin, a square weathered face, thoughtful dark eyes and a neatly trimmed salt-and-pepper beard; wears a long plain white thobe robe under a brown wool jacket and a red-and-white checked keffiyeh on his head held by a black agal cord.\nMood/lighting: smoke-darkened ember day around noon, hazy amber light filtering through pines, a column of smoke far away, overwhelming relief and tears of joy.\nModest 1940s Palestinian village clothing (every woman and girl in a loose long-sleeved ankle-length dress with a headscarf or hijab fully covering her hair and neck; men in long-sleeved shirts or robes and long trousers, never shirtless), a clear respectful distance between men and women who are not married, culturally respectful and Islamic in spirit, no violence shown, no blood, no wounds, no injuries, no bruises, no corpses, no person lying on the ground, no guns, no rifles, no knives, no weapons, no chains on necks, no flags, no military insignia, no religious symbols of other faiths, no alcohol, no bottles, no smoking, no text, no letters, no numbers, no writing, no Arabic script, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.54,
+    "halo": true
+   },
+   "focus": {
+    "x_pct": 50.0,
+    "y_pct": 40.0,
+    "face_detected": false
+   }
+  },
+  {
+   "id": "beat_007",
+   "startMs": 147313,
+   "endMs": 184394,
+   "new_image_reason": "action change: Fathimaa tends the arm while Safiyya tells her story",
+   "characters": [
+    "sahar",
+    "fathimaa",
+    "safiyya",
+    "sama"
+   ],
+   "location": "inside a large, roomy limestone cave: rough golden-grey rock walls, a woven rug spread on the sandy floor, a few clay water jars, cloth sacks of food, a copper pot and canvas bags along the wall, the bright opening of the cave behind",
+   "location_key": "cave",
+   "mood": "smoke-darkened ember day, warm amber daylight spilling in from the cave opening, soft shadows on the rock, fragile relief mixed with grief",
+   "visual": "Fathimaa kneels and gently adjusts the cloth sling on Sahar in her black thobe with deep-red embroidery and black hijab fully covering her hair and neck, her LEFT forearm resting in a sling made from a strip of plain beige cloth tied around her neck, no visible injury, a copper bowl of clean water and a folded white cloth on a rock beside them; nearby Safiyya in her dark thobe and black hijab, her forehead wrapped in a clean strip of plain white cloth over the hijab, no blood, speaks through tears; Sama, a 12-year-old girl in a pale-blue embroidered dress and white hijab, clings quietly to her mother's arm",
+   "camera": "medium wide, eye level",
+   "image": "images/beat_007.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": "violence",
+   "safe_substitution": "no wounds treated on screen: a sling adjusted, a bowl of water; Sama's father's killing and the soldiers' crimes are only spoken of",
+   "ambience": "cave",
+   "shots": [
+    {
+     "id": "shot_018",
+     "startMs": 147313,
+     "endMs": 157834,
+     "narration_dhivehi": "ކަރުނައިން ފޯވެފައިވާ ދެލޯ ފޮހެމުން، ފާތިމާ ވެސް ހިތްވަރުކުރަމުން، ހަމްޒާއާއެކު ސަހަރްއަށާއި ޞަފިއްޔާއަށް ލިބިފައިވާ އަނިޔާއަށް ފަރުވާއެއް ދެވޭތޯ މަސައްކަތްކުރިއެވެ.",
+     "narration_english": "Wiping her tear-filled eyes, Fathimaa too steadied herself and, together with Hamza, tried to tend to what Sahar and Safiyya had suffered.",
+     "crop": "full",
+     "motion": "static drift",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_019",
+     "startMs": 157834,
+     "endMs": 166934,
+     "narration_dhivehi": "އަދި ޞަފިއްޔާއާއި ސަމާގެ ގާތުން އެމީހުންގެ ވާހަކަތައް ވެސް އޮޅުންފިލުވިއެވެ. ސަމާގެ ބައްޕަ މަރާލައި، އެގެއަށް އަނިޔާވެރި ހަނގުރާމަވެރިން ވަދެ،",
+     "narration_english": "And Safiyya and Sama explained their story too. How Sama's father was killed, and the cruel fighters entered that house",
+     "crop": "tight",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      0.0,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_020",
+     "startMs": 166934,
+     "endMs": 174804,
+     "narration_dhivehi": "ހިންގި ޖަރީމާތަކުގެ ވާހަކަ ޞަފިއްޔާ ވެސް ކިޔައި ދިނީ، ރޮއެ ގިސްލަމުންނެވެ. ލިބުނު ހަނި ފުރުސަތަކުން، ފާރުމަތިން ފުންމާލައި،",
+     "narration_english": "and committed their crimes. Safiyya told it weeping and sobbing. How, at a brief chance, they jumped over the wall",
+     "crop": "full",
+     "motion": "pan left",
+     "sfx": [
+      {
+       "name": "sob_breath",
+       "atMs": 170604,
+       "gainDb": -24,
+       "word": "ގިސްލަމުންނެވެ."
+      },
+      {
+       "name": "soft_thud",
+       "atMs": 173924,
+       "gainDb": -22,
+       "word": "ފުންމާލައި،"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_021",
+     "startMs": 174804,
+     "endMs": 184394,
+     "narration_dhivehi": "އެދެމައިން ސަލާމަތްވި ގޮތް ބަޔާންކޮށްދިނީ ފުން އަސަރާއެކުގައެވެ. އަމީން ވެސް ދިޔައީ ސަހަރް ހަމަޖެއްސޭތޯ މަސައްކަތްކުރަމުންނެވެ. ސަހަރްގެ ބޯ މޮޑެދީ،",
+     "narration_english": "and mother and daughter escaped, she told with deep emotion. Ameen meanwhile kept trying to calm Sahar. Massaging Sahar's head,",
+     "crop": "medium",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      0.0,
+      0.0,
+      71.5,
+      84.7
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Sahar; reference image 2 is Fathimaa; reference image 3 is Safiyya; reference image 4 is Sama), create a new scene: Cinematic semi-realistic digital illustration of Palestine in spring 1948, a warm ember-orange, smoky amber and deep charcoal palette like a historical war drama, golden Levantine limestone villages, terraced olive groves and pine hills, dusty sunlight and soft haze, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (stone floor, dirt path, rock, soft shadow, sea) for captions and a logo; peaceful scenes glow with warm spring gold, the attack and its aftermath have dark smoke-filled ember skies, night scenes are deep blue with a warm oil-lamp glow, and memories or dreams have a soft hazy golden dreamlike glow.\nScene: Fathimaa kneels and gently adjusts the cloth sling on Sahar in her black thobe with deep-red embroidery and black hijab fully covering her hair and neck, her LEFT forearm resting in a sling made from a strip of plain beige cloth tied around her neck, no visible injury, a copper bowl of clean water and a folded white cloth on a rock beside them; nearby Safiyya in her dark thobe and black hijab, her forehead wrapped in a clean strip of plain white cloth over the hijab, no blood, speaks through tears; Sama, a 12-year-old girl in a pale-blue embroidered dress and white hijab, clings quietly to her mother's arm. Location: inside a large, roomy limestone cave: rough golden-grey rock walls, a woven rug spread on the sandy floor, a few clay water jars, cloth sacks of food, a copper pot and canvas bags along the wall, the bright opening of the cave behind. Camera: medium wide, eye level.\nCharacters: Sahar: a slim Palestinian young woman of 18 with light olive-brown skin, a soft oval face with a clean unmarked complexion, large dark almond-shaped eyes, thick dark eyebrows and full lips; wears a loose long-sleeved ankle-length black Palestinian thobe with deep-red cross-stitch embroidery on the chest panel and cuffs and a black hijab fully covering her hair and neck. Fathimaa: a sturdy Palestinian woman of about 45 with light olive-brown skin, a round gentle face, soft dark eyes and faint smile lines; wears a loose long-sleeved ankle-length deep forest-green Palestinian thobe with red-and-gold embroidery on the chest and a long cream headscarf fully covering her hair, neck and shoulders. Safiyya: a tall lean Palestinian woman of about 45 with light olive-brown skin, a lean strong face with high cheekbones and sharp steady dark eyes; wears a loose long-sleeved ankle-length charcoal-grey thobe with dark-red embroidery and a long black headscarf fully covering her hair, neck and shoulders. Sama: a small slight Palestinian girl of about 12 with light olive-brown skin, a small heart-shaped face and wide dark eyes; wears a loose long-sleeved ankle-length sky-blue thobe with small white embroidery and a white headscarf fully covering her hair and neck.\nMood/lighting: smoke-darkened ember day, warm amber daylight spilling in from the cave opening, soft shadows on the rock, fragile relief mixed with grief.\nModest 1940s Palestinian village clothing (every woman and girl in a loose long-sleeved ankle-length dress with a headscarf or hijab fully covering her hair and neck; men in long-sleeved shirts or robes and long trousers, never shirtless), a clear respectful distance between men and women who are not married, culturally respectful and Islamic in spirit, no violence shown, no blood, no wounds, no injuries, no bruises, no corpses, no person lying on the ground, no guns, no rifles, no knives, no weapons, no chains on necks, no flags, no military insignia, no religious symbols of other faiths, no alcohol, no bottles, no smoking, no text, no letters, no numbers, no writing, no Arabic script, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.256,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 16.9,
+    "y_pct": 24.0,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_008",
+   "startMs": 184394,
+   "endMs": 214195,
+   "new_image_reason": "characters change: Ameen comforts his sister",
+   "characters": [
+    "sahar",
+    "ameen"
+   ],
+   "location": "a quiet corner deep inside the limestone cave, rough rock wall, a woven rug, a folded wool blanket",
+   "location_key": "cave_inner",
+   "mood": "late afternoon, dim amber light reflected off the rock, deep shadows, grief and tenderness",
+   "visual": "Sahar in her black thobe with deep-red embroidery and black hijab fully covering her hair and neck, her LEFT forearm resting in a sling made from a strip of plain beige cloth tied around her neck, no visible injury, sitting against the rough cave wall, her right hand pressed over her eyes, weeping; Ameen sits close beside her, his arm around her shoulders, speaking softly with tears in his own eyes",
+   "camera": "medium shot, eye level",
+   "image": "images/beat_008.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": "violence",
+   "safe_substitution": "Yazan's imagined torture is not shown; only Sahar's weeping (brother's arm around her, rule 7)",
+   "ambience": "cave",
+   "shots": [
+    {
+     "id": "shot_022",
+     "startMs": 184394,
+     "endMs": 193925,
+     "narration_dhivehi": "ހިތްވަރުކުރަން ނަސޭޙަތްތެރިވަމުންނެވެ. \"ﷲ އިރާދަފުޅުކުރެއްވިއްޔާ ޔަޒަން ބޭބެ އަދި އަންނާނެ... އަހަރެން މިހުރީ ދައްތައާއެކު... އަހަރެން ދައްތަ ބަލާނަން...\"",
+     "narration_english": "he urged her to be strong. \"God willing, Yazan bebe will still come... I'm here with you, dhaththa... I'll look after you...\"",
+     "crop": "full",
+     "motion": "pan right",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_023",
+     "startMs": 193925,
+     "endMs": 204025,
+     "narration_dhivehi": "އަމީންނަށް ވެސް ރޮވޭ ގޮތްވިއެވެ. \"ދެން ނިދާލެވޭތޯ މަސައްކަތްކުރޭ... ތިހުރީ ވަރަށް ބޮޑަށް ވަރުބަލިވެފައެއްނު\" އޯގާތެރިކަމާއެކު އަމީން ބުނެލިއެވެ. \"ކިހިނެތް ނިދާނީ....",
+     "narration_english": "Ameen too broke into tears. \"Now try to get some sleep... you're so worn out,\" Ameen said tenderly. \"How can I sleep...",
+     "crop": "tight",
+     "motion": "slow push-in",
+     "sfx": [
+      {
+       "name": "sob_breath",
+       "atMs": 194805,
+       "gainDb": -24,
+       "word": "ރޮވޭ"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      20.3,
+      4.8,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_024",
+     "startMs": 204025,
+     "endMs": 214195,
+     "narration_dhivehi": "ލޯމަރާލިޔަސް ފެންނަނީ އެމީހުން ޔަޒަންނަށް އަނިޔާ ކުރާތަން.... އެފަކީރުވި ހާލެއްވެސް ނޭނގޭ'' މޫނުމަތީގައި އަތްއަޅައިގެން އޮވެ ރޮމުން ސަހަރް ވާހަކަ ދެއްކިއެވެ.",
+     "narration_english": "Even when I close my eyes I see them torturing Yazan... I don't even know what state that poor man is in,\" Sahar said, lying with her hand over her face, crying.",
+     "crop": "full",
+     "motion": "pan up",
+     "sfx": [
+      {
+       "name": "sob_breath",
+       "atMs": 212245,
+       "gainDb": -24,
+       "word": "ރޮމުން"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Sahar; reference image 2 is Ameen), create a new scene: Cinematic semi-realistic digital illustration of Palestine in spring 1948, a warm ember-orange, smoky amber and deep charcoal palette like a historical war drama, golden Levantine limestone villages, terraced olive groves and pine hills, dusty sunlight and soft haze, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (stone floor, dirt path, rock, soft shadow, sea) for captions and a logo; peaceful scenes glow with warm spring gold, the attack and its aftermath have dark smoke-filled ember skies, night scenes are deep blue with a warm oil-lamp glow, and memories or dreams have a soft hazy golden dreamlike glow.\nScene: Sahar in her black thobe with deep-red embroidery and black hijab fully covering her hair and neck, her LEFT forearm resting in a sling made from a strip of plain beige cloth tied around her neck, no visible injury, sitting against the rough cave wall, her right hand pressed over her eyes, weeping; Ameen sits close beside her, his arm around her shoulders, speaking softly with tears in his own eyes. Location: a quiet corner deep inside the limestone cave, rough rock wall, a woven rug, a folded wool blanket. Camera: medium shot, eye level.\nCharacters: Sahar: a slim Palestinian young woman of 18 with light olive-brown skin, a soft oval face with a clean unmarked complexion, large dark almond-shaped eyes, thick dark eyebrows and full lips; wears a loose long-sleeved ankle-length black Palestinian thobe with deep-red cross-stitch embroidery on the chest panel and cuffs and a black hijab fully covering her hair and neck. Ameen: a lanky Palestinian boy of about 14 with light olive-brown skin, a thin boyish face, big earnest dark eyes, thick eyebrows and short curly black hair; wears a long-sleeved grey cotton shirt buttoned to the neck and dark-brown trousers.\nMood/lighting: late afternoon, dim amber light reflected off the rock, deep shadows, grief and tenderness.\nModest 1940s Palestinian village clothing (every woman and girl in a loose long-sleeved ankle-length dress with a headscarf or hijab fully covering her hair and neck; men in long-sleeved shirts or robes and long trousers, never shirtless), a clear respectful distance between men and women who are not married, culturally respectful and Islamic in spirit, no violence shown, no blood, no wounds, no injuries, no bruises, no corpses, no person lying on the ground, no guns, no rifles, no knives, no weapons, no chains on necks, no flags, no military insignia, no religious symbols of other faiths, no alcohol, no bottles, no smoking, no text, no letters, no numbers, no writing, no Arabic script, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.047,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 50.0,
+    "y_pct": 40.0,
+    "face_detected": false
+   }
+  },
+  {
+   "id": "beat_009",
+   "startMs": 214195,
+   "endMs": 252506,
+   "new_image_reason": "emotional turning point: Sahar speaks of Yazan; tighter framing",
+   "characters": [
+    "sahar",
+    "ameen"
+   ],
+   "location": "a quiet corner deep inside the limestone cave, rough rock wall, a woven rug, a folded wool blanket",
+   "location_key": "cave_inner",
+   "mood": "late afternoon, dim amber light reflected off the rock, deep shadows, grief and tenderness",
+   "visual": "close two-shot: Sahar in her black thobe with deep-red embroidery and black hijab fully covering her hair and neck, her LEFT forearm resting in a sling made from a strip of plain beige cloth tied around her neck, no visible injury, looking at her brother with tear-filled eyes as she speaks of her husband; Ameen holds her right hand in both of his and gives a brave, tearful nod; a folded wool blanket beside them",
+   "camera": "close two-shot, eye level, faces in the upper half",
+   "image": "images/beat_009.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "cave",
+   "shots": [
+    {
+     "id": "shot_025",
+     "startMs": 214195,
+     "endMs": 221675,
+     "narration_dhivehi": "\"ކޮއްކޯ! އަހަރެން ކިހިނެތް ޔަޒަންނާ ނުލައި އުޅޭނީ؟ ކުޑައިރުންސުރެ އެކީ ބޮޑުވެ، މިއުޅުނީ އަބަދުވެސް އެއްކޮށް...",
+     "narration_english": "\"Kokko! How will I live without Yazan? We grew up together since we were little, always together...",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_026",
+     "startMs": 221675,
+     "endMs": 231776,
+     "narration_dhivehi": "އަހަރެންގެ ކޮންމެ ހަނދާނެއް ވެސް ވަނީ ޔަޒަންނާ ގުޅިފައި.. އެއީ ހާދަ ލޯބި، އޯގާތެރި ރަނގަޅު ފިރިއެކޭ... އައި ވިލް މިސް ހިމް ސޯ މަޗް ކޮއްކޯ!\"",
+     "narration_english": "every memory I have is tied to Yazan... such a loving, kind, good husband he is... I will miss him so much, kokko!\"",
+     "crop": "tight",
+     "motion": "pan down",
+     "sfx": [],
+     "hum": true,
+     "crop_rect_pct": [
+      11.0,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_027",
+     "startMs": 231776,
+     "endMs": 242146,
+     "narration_dhivehi": "ރޮމުން ސަހަރް ވާހަކަދެއްކިއެވެ. \"ބޭބެ އަންނާނެ... ވަރަށް އަވަހަށް އަންނާނެ... ބޭބެ ވަރަށް ހިތްވަރުގަދަވާނެ.. އިންޝާ ﷲ. އުންމީދު ގެއްލުވައިނުލާ....\"",
+     "narration_english": "Sahar said, weeping. \"Bebe will come... he'll come very soon... bebe will be very strong... inshaAllah. Don't lose hope...\"",
+     "crop": "full",
+     "motion": "static drift",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_028",
+     "startMs": 242146,
+     "endMs": 252506,
+     "narration_dhivehi": "ސަހަރްގެ ގައިގައި ބައްދާލާ، އަމީން ދިޔައީ ހިތްވަރުދެމުންނެވެ. އެގޮތުގައި ވަގުތުކޮޅެއް ހޭދަވުމަށްފަހު، ވެފައި ހުރި ވަރުބަލިން، ސަހަރްއަށް ނިދޭގޮތްވިއެވެ.",
+     "narration_english": "Holding Sahar close, Ameen kept encouraging her. After a while had passed like that, worn out as she was, Sahar fell asleep.",
+     "crop": "medium",
+     "motion": "slow push-in",
+     "sfx": [
+      {
+       "name": "cloth_rustle",
+       "atMs": 243266,
+       "gainDb": -24,
+       "word": "ބައްދާލާ،"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      5.0,
+      0.0,
+      71.5,
+      84.7
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "refused",
+     "rewrite_reason": null
+    },
+    {
+     "attempt": 2,
+     "result": "ok",
+     "rewrite_reason": "refused: removed trigger words, neutral emotion/setting wording"
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing, create a new scene: Cinematic semi-realistic digital illustration of Palestine in spring 1948, a warm ember-orange, smoky amber and deep charcoal palette like a historical war drama, golden Levantine limestone villages, terraced olive groves and pine hills, dusty sunlight and soft haze, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (stone floor, dirt path, rock, soft shadow, sea) for captions and a logo; peaceful scenes glow with warm spring gold, the attack and its aftermath have dark smoke-filled ember skies, night scenes are deep blue with a warm oil-lamp glow, and memories or dreams have a soft hazy golden dreamlike glow.\nScene: close two-shot: Sahar in her black thobe with deep-red embroidery and black hijab fully covering her hair and neck, her LEFT forearm resting in a sling made from a strip of plain beige cloth tied around her neck, no visible , looking at her brother with -filled eyes as she speaks of her husband; Ameen holds her right hand in both of his and gives a brave, nod; a folded wool blanket beside them, calm and emotional. Location: a quiet corner deep inside the limestone cave, rough rock wall, a woven rug, a folded wool blanket. Camera: close two-shot, eye level, faces in the upper half.\nCharacters: Sahar: a slim Palestinian young woman of 18 with light olive-brown skin, a soft oval face with a clean unmarked complexion, large dark almond-shaped eyes, thick dark eyebrows and full lips; wears a loose long-sleeved ankle-length black Palestinian thobe with deep-red cross-stitch embroidery on the chest panel and cuffs and a black hijab fully covering her hair and neck. Ameen: a lanky Palestinian boy of about 14 with light olive-brown skin, a thin boyish face, big earnest dark eyes, thick eyebrows and short curly black hair; wears a long-sleeved grey cotton shirt buttoned to the neck and dark-brown trousers.\nMood/lighting: late afternoon, dim amber light reflected off the rock, deep shadows, grief and tenderness.\nModest 1940s Palestinian village clothing (every woman and girl in a loose long-sleeved ankle-length dress with a headscarf or hijab fully covering her hair and neck; men in long-sleeved shirts or robes and long trousers, never shirtless), a clear respectful distance between men and women who are not married, culturally respectful and Islamic in spirit, no violence shown, no blood, no wounds, no injuries, no bruises, no corpses, no person lying on the ground, no guns, no rifles, no knives, no weapons, no chains on necks, no flags, no military insignia, no religious symbols of other faiths, no alcohol, no bottles, no smoking, no text, no letters, no numbers, no writing, no Arabic script, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.251,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 40.7,
+    "y_pct": 22.5,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_010",
+   "startMs": 252506,
+   "endMs": 287057,
+   "new_image_reason": "time jump: Sahar wakes; Fathimaa offers bread and water",
+   "characters": [
+    "sahar",
+    "fathimaa",
+    "ameen"
+   ],
+   "location": "inside a large, roomy limestone cave: rough golden-grey rock walls, a woven rug spread on the sandy floor, a few clay water jars, cloth sacks of food, a copper pot and canvas bags along the wall, the bright opening of the cave behind",
+   "location_key": "cave",
+   "mood": "smoke-darkened ember day, warm amber daylight spilling in from the cave opening, soft shadows on the rock, fragile relief mixed with grief",
+   "visual": "Sahar in her black thobe with deep-red embroidery and black hijab fully covering her hair and neck, her LEFT forearm resting in a sling made from a strip of plain beige cloth tied around her neck, no visible injury, just woken, sits up against the cave wall; Fathimaa kneels beside her holding out a piece of flatbread and a small clay cup of water with a kind, tired smile; behind them Ameen sits eating a piece of bread; clay jars and cloth sacks of food stacked along the wall",
+   "camera": "medium shot, eye level",
+   "image": "images/beat_010.png",
+   "reuse_of": null,
+   "transition_in": "black",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "cave",
+   "shots": [
+    {
+     "id": "shot_029",
+     "startMs": 252506,
+     "endMs": 261196,
+     "narration_dhivehi": "ވަގުތުތައް ދިޔަ ގޮތްވެސް ނޭނގެއެވެ. ސަހަރްއަށް ހޭލެވުނީ ފާތިމާ ގޮވުމުންނެވެ. އެއިރު އަމީން އިނީ ޕާން ފޮއްޗެއް ކާށެވެ. \"ދަރިފުޅު އެއްޗެއް ކާލަންވީނު؟\"",
+     "narration_english": "She did not know how the time went by. Sahar woke when Fathimaa called her. Ameen was sitting eating a piece of bread. \"You should eat something, my child?\"",
+     "crop": "full",
+     "motion": "pan left",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_030",
+     "startMs": 261196,
+     "endMs": 271227,
+     "narration_dhivehi": "އޯގާތެރިކަމާއެކު ފާތިމާ ބުނެލިއެވެ. \"ކޮބާ ޔަޒަންގެ މަންމަ؟\" ލައިލާ ފެންނަން ނެތުމުން ސަހަރް އަހާލިއެވެ. \"މަންމަ ދިޔައީ ފާހާނާ ކުރުމަށް، މިތާ ބޭރަށް.",
+     "narration_english": "Fathimaa said tenderly. \"Where is Yazan's mother?\" Sahar asked, not seeing Laila. \"Mother went outside here to relieve herself.",
+     "crop": "tight",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      13.8,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_031",
+     "startMs": 271227,
+     "endMs": 280227,
+     "narration_dhivehi": "ޞަފިއްޔާ ދައްތަ ވެސް ދިޔަ މަންމަ އާއެކު\" ޕާން ކޮޅަކާ، ފެން ތައްޓެއް ދިއްކޮށްލަމުން ފާތިމާ ބުނެލިއެވެ. \"މަންމަމެންނަށް ތައްޔާރުވާން ފުރުޞަތު ލިބުނީތަ؟",
+     "narration_english": "Safiyya dhaththa went with mother too,\" Fathimaa said, handing her a piece of bread and a cup of water. \"Did you have time to get ready, mother?",
+     "crop": "full",
+     "motion": "pan right",
+     "sfx": [
+      {
+       "name": "cup_clatter",
+       "atMs": 275007,
+       "gainDb": -22,
+       "word": "ތައްޓެއް"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_032",
+     "startMs": 280227,
+     "endMs": 287057,
+     "narration_dhivehi": "މިހެން މިއަހާލީ ކާއެއްޗިސްއާ ފެން މިތަނަށް ގެނެސްފައިހުރީމަ\" އޮޅުންފިލުވާލުމުގެ ގޮތުން ސަހަރް އަހާލިއެވެ.",
+     "narration_english": "I ask because food and water have been brought here,\" Sahar asked, wanting to understand.",
+     "crop": "medium",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      71.5,
+      84.7
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Sahar; reference image 2 is Fathimaa; reference image 3 is Ameen), create a new scene: Cinematic semi-realistic digital illustration of Palestine in spring 1948, a warm ember-orange, smoky amber and deep charcoal palette like a historical war drama, golden Levantine limestone villages, terraced olive groves and pine hills, dusty sunlight and soft haze, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (stone floor, dirt path, rock, soft shadow, sea) for captions and a logo; peaceful scenes glow with warm spring gold, the attack and its aftermath have dark smoke-filled ember skies, night scenes are deep blue with a warm oil-lamp glow, and memories or dreams have a soft hazy golden dreamlike glow.\nScene: Sahar in her black thobe with deep-red embroidery and black hijab fully covering her hair and neck, her LEFT forearm resting in a sling made from a strip of plain beige cloth tied around her neck, no visible injury, just woken, sits up against the cave wall; Fathimaa kneels beside her holding out a piece of flatbread and a small clay cup of water with a kind, tired smile; behind them Ameen sits eating a piece of bread; clay jars and cloth sacks of food stacked along the wall. Location: inside a large, roomy limestone cave: rough golden-grey rock walls, a woven rug spread on the sandy floor, a few clay water jars, cloth sacks of food, a copper pot and canvas bags along the wall, the bright opening of the cave behind. Camera: medium shot, eye level.\nCharacters: Sahar: a slim Palestinian young woman of 18 with light olive-brown skin, a soft oval face with a clean unmarked complexion, large dark almond-shaped eyes, thick dark eyebrows and full lips; wears a loose long-sleeved ankle-length black Palestinian thobe with deep-red cross-stitch embroidery on the chest panel and cuffs and a black hijab fully covering her hair and neck. Fathimaa: a sturdy Palestinian woman of about 45 with light olive-brown skin, a round gentle face, soft dark eyes and faint smile lines; wears a loose long-sleeved ankle-length deep forest-green Palestinian thobe with red-and-gold embroidery on the chest and a long cream headscarf fully covering her hair, neck and shoulders. Ameen: a lanky Palestinian boy of about 14 with light olive-brown skin, a thin boyish face, big earnest dark eyes, thick eyebrows and short curly black hair; wears a long-sleeved grey cotton shirt buttoned to the neck and dark-brown trousers.\nMood/lighting: smoke-darkened ember day, warm amber daylight spilling in from the cave opening, soft shadows on the rock, fragile relief mixed with grief.\nModest 1940s Palestinian village clothing (every woman and girl in a loose long-sleeved ankle-length dress with a headscarf or hijab fully covering her hair and neck; men in long-sleeved shirts or robes and long trousers, never shirtless), a clear respectful distance between men and women who are not married, culturally respectful and Islamic in spirit, no violence shown, no blood, no wounds, no injuries, no bruises, no corpses, no person lying on the ground, no guns, no rifles, no knives, no weapons, no chains on necks, no flags, no military insignia, no religious symbols of other faiths, no alcohol, no bottles, no smoking, no text, no letters, no numbers, no writing, no Arabic script, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.108,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 43.6,
+    "y_pct": 29.8,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_011",
+   "startMs": 287057,
+   "endMs": 328708,
+   "new_image_reason": "flashback: Fathimaa tells how Hamza followed the news and prepared",
+   "characters": [
+    "hamza"
+   ],
+   "location": "the sitting room of Hamza's golden limestone house in Deir Yassin at night: arched window, a low wooden table with an old wooden 1940s valve radio set and a few folded newspapers and books with no visible writing, woven cushions, an oil lamp",
+   "location_key": "memory_house",
+   "mood": "soft hazy golden dreamlike memory glow, warm oil-lamp light at night, quiet worry",
+   "visual": "Hamza sits at a low wooden table in his lamplit sitting room, leaning close to an old wooden valve radio set, a few folded newspapers with no visible writing beside him, his face deeply worried",
+   "camera": "medium shot, slightly from the side",
+   "image": "images/beat_011.png",
+   "reuse_of": null,
+   "transition_in": "dissolve",
+   "sensitive": "other",
+   "safe_substitution": "newspapers and books show no readable text; the political news is only a worried face",
+   "ambience": "memory",
+   "shots": [
+    {
+     "id": "shot_033",
+     "startMs": 287057,
+     "endMs": 297317,
+     "narration_dhivehi": "\"ބައްޕަ ދިޔައީ ޔަހޫދީ ހަނގުރާމަވެރިންގެ ކަންކަން ގާތުން ބަލަމުން. ބައްޕަގެ މަސައްކަތަކަށް އޮންނާނީ، ރޭޑިއޯ އަޑުއެހުމާ، ފޮތްތަކާ ނޫސް މަޖައްލާތައް ކިޔުން.",
+     "narration_english": "\"Your father had been watching what the Jewish fighters were doing closely. His work was listening to the radio and reading books, newspapers and magazines.",
+     "crop": "full",
+     "motion": "pan up",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_034",
+     "startMs": 297317,
+     "endMs": 306558,
+     "narration_dhivehi": "ބާޒާރަށް ނިކުތަސް ވަރަށް ގިނައިން ކާއެއްޗިހި ގަންނާނެ... މަންމަ ސުވާލު ކުރީމަ ބުނާނެ، މިސަރަހައްދު ދޫކޮށް ދާންޖެހިދާނެ ކަމުގެ ބިރު ހީވަނީއޭ.",
+     "narration_english": "Whenever he went to the market he would buy lots of food... When I asked, he'd say he feared we might have to leave this area.",
+     "crop": "tight",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      21.2,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_035",
+     "startMs": 306558,
+     "endMs": 316768,
+     "narration_dhivehi": "އަބަދުވެސް ތިބެންވާނީ ސަމާލުވެގެންއޭ. ދެން އަބަދުވެސް ވަރަށް ދެރަވެފަ ބުނާނެ މަހުމޫދު ގާތު މިވާހަކަ ދެއްކިޔަސް ގަބޫލެއް ނުކުރެއޭ. ބުނާނެޔޭ ތިއީ ކުށްހީއެކޭ.",
+     "narration_english": "That we must always stay alert. And he always said, very sadly, that even when he told Mahmood this, Mahmood wouldn't believe it, that he called it a false suspicion,",
+     "crop": "full",
+     "motion": "pan down",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_036",
+     "startMs": 316768,
+     "endMs": 328708,
+     "narration_dhivehi": "އެމީހުން ނޫޅޭނެޔޭ އަހަރެމެންގެ މައްޗަށް އަތްގަދަކުރާކަށް. މަހުމޫދު ޝަހީދުވި ވާހަކަ އަޑުއިވުމުން ބައްޕަ އެހުންނަނީ ވަރަށް ދެރަވެފަ\" އިސްޖަހަލައިގެން އިނދެ ފާތިމާ ވާހަކަ ދައްކަމުން ދިޔައެވެ.",
+     "narration_english": "that they would never come and overpower us. Since he heard Mahmood was martyred, your father has been so heartbroken,\" Fathimaa went on, her head bowed.",
+     "crop": "medium",
+     "motion": "static drift",
+     "sfx": [
+      {
+       "name": "sigh",
+       "atMs": 324568,
+       "gainDb": -22,
+       "word": "ދެރަވެފަ\""
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      15.1,
+      0.0,
+      71.5,
+      84.7
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Hamza), create a new scene: Cinematic semi-realistic digital illustration of Palestine in spring 1948, a warm ember-orange, smoky amber and deep charcoal palette like a historical war drama, golden Levantine limestone villages, terraced olive groves and pine hills, dusty sunlight and soft haze, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (stone floor, dirt path, rock, soft shadow, sea) for captions and a logo; peaceful scenes glow with warm spring gold, the attack and its aftermath have dark smoke-filled ember skies, night scenes are deep blue with a warm oil-lamp glow, and memories or dreams have a soft hazy golden dreamlike glow.\nScene: Hamza sits at a low wooden table in his lamplit sitting room, leaning close to an old wooden valve radio set, a few folded newspapers with no visible writing beside him, his face deeply worried. Location: the sitting room of Hamza's golden limestone house in Deir Yassin at night: arched window, a low wooden table with an old wooden 1940s valve radio set and a few folded newspapers and books with no visible writing, woven cushions, an oil lamp. Camera: medium shot, slightly from the side.\nCharacters: Hamza: a stocky Palestinian man of about 50 with light olive-brown skin, a square weathered face, thoughtful dark eyes and a neatly trimmed salt-and-pepper beard; wears a long plain white thobe robe under a brown wool jacket and a red-and-white checked keffiyeh on his head held by a black agal cord.\nMood/lighting: soft hazy golden dreamlike memory glow, warm oil-lamp light at night, quiet worry.\nModest 1940s Palestinian village clothing (every woman and girl in a loose long-sleeved ankle-length dress with a headscarf or hijab fully covering her hair and neck; men in long-sleeved shirts or robes and long trousers, never shirtless), a clear respectful distance between men and women who are not married, culturally respectful and Islamic in spirit, no violence shown, no blood, no wounds, no injuries, no bruises, no corpses, no person lying on the ground, no guns, no rifles, no knives, no weapons, no chains on necks, no flags, no military insignia, no religious symbols of other faiths, no alcohol, no bottles, no smoking, no text, no letters, no numbers, no writing, no Arabic script, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.16,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 50.9,
+    "y_pct": 34.3,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_012",
+   "startMs": 328708,
+   "endMs": 358289,
+   "new_image_reason": "flashback, scene change: the dawn of the attack, the family flees up the mountain",
+   "characters": [
+    "hamza",
+    "fathimaa",
+    "ameen"
+   ],
+   "location": "the wooded rocky hillside above Deir Yassin at dawn, a narrow goat path climbing between pines and boulders, the golden stone houses of the village far below",
+   "location_key": "memory_dawn",
+   "mood": "soft hazy golden dreamlike memory glow over a dawn blue-gold sky, dark columns of smoke rising far below over the village, urgent fear",
+   "visual": "seen from behind, Hamza leads Fathimaa and Ameen hurriedly up a narrow rocky path between pines; Hamza glances back over his shoulder towards the village below, where dark columns of smoke rise over the golden stone houses",
+   "camera": "wide shot from behind and below, the climbing figures in the upper half, the rocky path as the lower third",
+   "image": "images/beat_012.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": "violence",
+   "safe_substitution": "the guns and gunfire are shown only as distant smoke over the village and a muffled offscreen sound",
+   "ambience": "hillside_smoke",
+   "shots": [
+    {
+     "id": "shot_037",
+     "startMs": 328708,
+     "endMs": 336028,
+     "narration_dhivehi": "\"ރޭގަ ފަތިސް ނަމާދަށް ގޮސްފައި އައިސް ބައްޕަ ބުނީ ކަމަކުދާކަށް ނެތޭ، ބަޔަކު ބަޑި ހިފައިގެން އަންނަ ތަން ތިމަންނައަށް ފެނުނޭ.",
+     "narration_english": "\"This morning, after going to the Fajr prayer, your father came back and said it's not going well, he had seen a group coming with guns.",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_038",
+     "startMs": 336028,
+     "endMs": 345859,
+     "narration_dhivehi": "ތައްޔާރު ވެގެން ސަހަރްމެން ބަލައި ދާން ހިނގާށޭ. ކާރުވެސް ތައްޔާރުކޮށްފަ، ދާން އުޅެނިކޮށް ދަރިފުޅުމެން އުޅޭ ގެޔާ ދިމާލުން ބަޑީގެ އަޑުފައްގަނޑު އިވެން ފެށީ.",
+     "narration_english": "Let's get ready and go and fetch Sahar's family, he said. He even had the car ready; just as we were about to leave, gunfire started from the direction of your house.",
+     "crop": "tight",
+     "motion": "pan left",
+     "sfx": [
+      {
+       "name": "distant_shots",
+       "atMs": 343889,
+       "gainDb": -24,
+       "word": "ބަޑީގެ"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.1,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_039",
+     "startMs": 345859,
+     "endMs": 358289,
+     "narration_dhivehi": "ފަރުބަދަ މައްޗަށް ފިލަން އަރަމުން ބައްޕަ ބުނި ބައްޕަގެ ސަހަރް ސަލާމަތުން ހުރިއްޔާ މިދިމާލަށް އަންނާނެޔޭ\" ވާހަކަ މި ހިސާބަށް ދިޔަ ތަނާ ލައިލާ، ޞަފިއްޔާ އަދި ސަމާ އައިސް ހޮހޮޅަ ތެރެއަށް ވަދެފިއެވެ.",
+     "narration_english": "As we climbed the mountain to flee, your father said, 'If my Sahar is safe, she will come this way.'\" Just as the story reached this point, Laila, Safiyya and Sama came back into the cave.",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [
+      {
+       "name": "footsteps_sand",
+       "atMs": 357289,
+       "gainDb": -22,
+       "word": "ވަދެފިއެވެ."
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "refused",
+     "rewrite_reason": null
+    },
+    {
+     "attempt": 2,
+     "result": "ok",
+     "rewrite_reason": "refused: removed trigger words, neutral emotion/setting wording"
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing, create a new scene: Cinematic semi-realistic digital illustration of Palestine in spring 1948, a warm ember-orange, smoky amber and deep charcoal palette like a historical war drama, golden Levantine limestone villages, terraced olive groves and pine hills, dusty sunlight and soft haze, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (stone floor, dirt path, rock, soft shadow, sea) for captions and a logo; peaceful scenes glow with warm spring gold, the attack and its aftermath have dark smoke-filled ember skies, night scenes are deep blue with a warm oil-lamp glow, and memories or dreams have a soft hazy golden dreamlike glow.\nScene: seen from behind, Hamza leads Fathimaa and Ameen hurriedly up a narrow rocky path between pines; Hamza glances back over his shoulder towards the village below, where dark columns of smoke rise over the golden stone houses, calm and emotional. Location: the wooded rocky hillside above Deir Yassin at dawn, a narrow goat path climbing between pines and boulders, the golden stone houses of the village far below. Camera: wide shot from behind and below, the climbing figures in the upper half, the rocky path as the lower third.\nCharacters: Hamza: a stocky Palestinian man of about 50 with light olive-brown skin, a square weathered face, thoughtful dark eyes and a neatly trimmed salt-and-pepper beard; wears a long plain white thobe robe under a brown wool jacket and a red-and-white checked keffiyeh on his head held by a black agal cord. Fathimaa: a sturdy Palestinian woman of about 45 with light olive-brown skin, a round gentle face, soft dark eyes and faint smile lines; wears a loose long-sleeved ankle-length deep forest-green Palestinian thobe with red-and-gold embroidery on the chest and a long cream headscarf fully covering her hair, neck and shoulders. Ameen: a lanky Palestinian boy of about 14 with light olive-brown skin, a thin boyish face, big earnest dark eyes, thick eyebrows and short curly black hair; wears a long-sleeved grey cotton shirt buttoned to the neck and dark-brown trousers.\nMood/lighting: soft hazy golden dreamlike memory glow over a dawn blue-gold sky, dark columns of smoke rising far below over the village, urgent fear.\nModest 1940s Palestinian village clothing (every woman and girl in a loose long-sleeved ankle-length dress with a headscarf or hijab fully covering her hair and neck; men in long-sleeved shirts or robes and long trousers, never shirtless), a clear respectful distance between men and women who are not married, culturally respectful and Islamic in spirit, no violence shown, no blood, no wounds, no injuries, no bruises, no corpses, no person lying on the ground, no guns, no rifles, no knives, no weapons, no chains on necks, no flags, no military insignia, no religious symbols of other faiths, no alcohol, no bottles, no smoking, no text, no letters, no numbers, no writing, no Arabic script, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.342,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 36.8,
+    "y_pct": 30.4,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_013",
+   "startMs": 358289,
+   "endMs": 374579,
+   "new_image_reason": "back to the present, dusk: Hamza returns and says they must leave",
+   "characters": [
+    "hamza",
+    "laila",
+    "safiyya",
+    "sama"
+   ],
+   "location": "the mouth of the limestone cave seen from inside, the rough rock walls framing the opening, pine trees and the sky outside, a woven rug and bags on the floor",
+   "location_key": "cave_dusk",
+   "mood": "dusk, a smoke-darkened ember-orange sky outside the cave opening, deep charcoal shadows inside, urgency",
+   "visual": "Hamza stands in the cave opening, a dark figure against an ember-orange dusk sky, one hand raised urgently as he speaks; Laila in her white headscarf, Safiyya in her dark thobe and black hijab, her forehead wrapped in a clean strip of plain white cloth over the hijab, no blood, and Sama in her white hijab and pale-blue dress, who have just come back in, turn to look at him",
+   "camera": "medium wide, from inside the cave towards the opening",
+   "image": "images/beat_013.png",
+   "reuse_of": null,
+   "transition_in": "dissolve",
+   "sensitive": "violence",
+   "safe_substitution": "'the whole area is burning' is only the ember sky outside",
+   "ambience": "cave",
+   "shots": [
+    {
+     "id": "shot_040",
+     "startMs": 358289,
+     "endMs": 366889,
+     "narration_dhivehi": "އެމީހުންގެ ފަހަތުން ހަމްޒާ އައިސް، މޮޅި އަޑަކުން ބުނެލިއެވެ. \"އެންމެން ތައްޔާރުވޭ! އަހަރެމެންނަށް މިސަރަހައްދަކުން ދެން ހިޔާވަހި ކަމެއް ނެތް.",
+     "narration_english": "Behind them Hamza came in and said in a low voice: \"Everyone get ready! There's no shelter left for us in this area.",
+     "crop": "full",
+     "motion": "pan right",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_041",
+     "startMs": 366889,
+     "endMs": 374579,
+     "narration_dhivehi": "މުޅި ސަރަހައްދު އަނދާ ހުލި ވަނީ. ފަރުބަދަމަތިން ފިލައިގެން މިސަރަހައްދުން ދަމާ ހިނގާ... އިރުއަރަންވާއިރަށް މިތަނުން ދާންޖެހޭނެ..",
+     "narration_english": "The whole area is burning to ashes. Let's escape over the mountain and get away from here... we must be gone from here before sunrise...",
+     "crop": "tight",
+     "motion": "slow push-in",
+     "sfx": [
+      {
+       "name": "fire_crackle",
+       "atMs": 367789,
+       "gainDb": -24,
+       "word": "އަނދާ"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      14.8,
+      0.0,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Hamza; reference image 2 is Laila; reference image 3 is Safiyya; reference image 4 is Sama), create a new scene: Cinematic semi-realistic digital illustration of Palestine in spring 1948, a warm ember-orange, smoky amber and deep charcoal palette like a historical war drama, golden Levantine limestone villages, terraced olive groves and pine hills, dusty sunlight and soft haze, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (stone floor, dirt path, rock, soft shadow, sea) for captions and a logo; peaceful scenes glow with warm spring gold, the attack and its aftermath have dark smoke-filled ember skies, night scenes are deep blue with a warm oil-lamp glow, and memories or dreams have a soft hazy golden dreamlike glow.\nScene: Hamza stands in the cave opening, a dark figure against an ember-orange dusk sky, one hand raised urgently as he speaks; Laila in her white headscarf, Safiyya in her dark thobe and black hijab, her forehead wrapped in a clean strip of plain white cloth over the hijab, no blood, and Sama in her white hijab and pale-blue dress, who have just come back in, turn to look at him. Location: the mouth of the limestone cave seen from inside, the rough rock walls framing the opening, pine trees and the sky outside, a woven rug and bags on the floor. Camera: medium wide, from inside the cave towards the opening.\nCharacters: Hamza: a stocky Palestinian man of about 50 with light olive-brown skin, a square weathered face, thoughtful dark eyes and a neatly trimmed salt-and-pepper beard; wears a long plain white thobe robe under a brown wool jacket and a red-and-white checked keffiyeh on his head held by a black agal cord. Laila: a slightly plump Palestinian woman of about 45 with light olive-brown skin, a kind oval face with soft lines and warm brown eyes; wears a loose long-sleeved ankle-length deep indigo-blue Palestinian thobe with red embroidery on the chest and a long plain white headscarf fully covering her hair, neck and shoulders. Safiyya: a tall lean Palestinian woman of about 45 with light olive-brown skin, a lean strong face with high cheekbones and sharp steady dark eyes; wears a loose long-sleeved ankle-length charcoal-grey thobe with dark-red embroidery and a long black headscarf fully covering her hair, neck and shoulders. Sama: a small slight Palestinian girl of about 12 with light olive-brown skin, a small heart-shaped face and wide dark eyes; wears a loose long-sleeved ankle-length sky-blue thobe with small white embroidery and a white headscarf fully covering her hair and neck.\nMood/lighting: dusk, a smoke-darkened ember-orange sky outside the cave opening, deep charcoal shadows inside, urgency.\nModest 1940s Palestinian village clothing (every woman and girl in a loose long-sleeved ankle-length dress with a headscarf or hijab fully covering her hair and neck; men in long-sleeved shirts or robes and long trousers, never shirtless), a clear respectful distance between men and women who are not married, culturally respectful and Islamic in spirit, no violence shown, no blood, no wounds, no injuries, no bruises, no corpses, no person lying on the ground, no guns, no rifles, no knives, no weapons, no chains on necks, no flags, no military insignia, no religious symbols of other faiths, no alcohol, no bottles, no smoking, no text, no letters, no numbers, no writing, no Arabic script, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.134,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 44.5,
+    "y_pct": 25.1,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_014",
+   "startMs": 374579,
+   "endMs": 410570,
+   "new_image_reason": "characters change: Sahar clings to Laila, who consoles her",
+   "characters": [
+    "sahar",
+    "laila"
+   ],
+   "location": "the mouth of the limestone cave seen from inside, the rough rock walls framing the opening, pine trees and the sky outside, a woven rug and bags on the floor",
+   "location_key": "cave_dusk",
+   "mood": "dusk, a smoke-darkened ember-orange sky outside the cave opening, deep charcoal shadows inside, urgency",
+   "visual": "two women sit side by side on the rug just inside the cave; on the LEFT the young woman Sahar in her black thobe with deep-red embroidery and black hijab, HER OWN left forearm resting in a plain beige cloth sling, leans her head against the older woman, eyes shut, tears on her cheeks; on the RIGHT Laila in her indigo thobe and long white headscarf, with NO sling and both arms free, puts one arm around Sahar's shoulders and speaks softly with a brave, tearful face; inland wooded hills outside, no sea",
+   "camera": "medium close-up, eye level",
+   "image": "images/beat_014.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": "other",
+   "safe_substitution": "mother-in-law hug (rule 7); Yazan's feared torture is only spoken of",
+   "ambience": "cave",
+   "shots": [
+    {
+     "id": "shot_042",
+     "startMs": 374579,
+     "endMs": 382980,
+     "narration_dhivehi": "މިތަނުގައި ދެން އަމާންކަމެއް ނެތް\" ހަމްޒާއަށް ރޮވޭ ގޮތްވިއެވެ. \"ޔަޒަން ދެން ނުފެންނާނެ ދޯ؟ އެ ނުބައި މީހުން އެފަކީރަށް ދައްކާނެ އަހުވަޔާ،",
+     "narration_english": "There's no safety here anymore.\" Hamza broke into tears. \"We'll never see Yazan again, will we? The humiliation those evil men will make that poor man suffer,",
+     "crop": "full",
+     "motion": "pan up",
+     "sfx": [
+      {
+       "name": "sob_breath",
+       "atMs": 376850,
+       "gainDb": -24,
+       "word": "ރޮވޭ"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_043",
+     "startMs": 382980,
+     "endMs": 391850,
+     "narration_dhivehi": "ކުރާނެ އަނިޔާ ހިތަށް އަރާ ކޮންމެ ފަހަރަކު އަހަރެންގެ ހިތް ރޫރޫ އަޅާ\" ލައިލާ ގައިގައި ބައްދާލަމުން ސަހަރް ބުނެލިއެވެ. ”ހިތްވަރުކުރޭ ދަރިފުޅާ..",
+     "narration_english": "the torture they'll do to him - every time it comes to my mind my heart trembles,\" Sahar said, holding Laila tight. \"Be strong, my child...",
+     "crop": "tight",
+     "motion": "slow pull-out",
+     "sfx": [
+      {
+       "name": "cloth_rustle",
+       "atMs": 388190,
+       "gainDb": -24,
+       "word": "ބައްދާލަމުން"
+      },
+      {
+       "name": "heartbeat",
+       "atMs": 386330,
+       "gainDb": -20,
+       "word": "ރޫރޫ"
+      }
+     ],
+     "hum": true,
+     "crop_rect_pct": [
+      28.5,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_044",
+     "startMs": 391850,
+     "endMs": 401390,
+     "narration_dhivehi": "މިއީ މިއަދަށް މިންވަރުކުރެއްވި ގޮތް.. އަހަރެމެންނަށް އޮތީ ކެތްތެރިވުން.. ދަރިފުޅަކީ މަންމަގެ އުންމީދު...ދިރިހުރުމަށް ލިބޭ އެންމެ ބޮޑު ހިތްވަރު...",
+     "narration_english": "This is what was decreed for today... all we have is patience... you are my hope... the greatest strength I have to go on living...",
+     "crop": "full",
+     "motion": "pan down",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_045",
+     "startMs": 401390,
+     "endMs": 410570,
+     "narration_dhivehi": "ތިޔައީ ﷲ ލެއްވި ރަޙުމަތެއް... ދަރިފުޅާއެކު ވީހާލެއްގައި މަންމަ ވާނަން..\" ސަހަރްއަށް ކޮންމެ ވެސް ވަރެއްގެ ހިތްވަރެއް ދެވޭތޯ ލައިލާ މަސައްކަތްކުރިއެވެ.",
+     "narration_english": "you are a mercy Allah has given... whatever happens, I'll be with you...\" Laila tried to give Sahar some strength.",
+     "crop": "medium",
+     "motion": "static drift",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      22.5,
+      0.0,
+      71.5,
+      84.7
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Sahar; reference image 2 is Laila), create a new scene: Cinematic semi-realistic digital illustration of Palestine in spring 1948, a warm ember-orange, smoky amber and deep charcoal palette like a historical war drama, golden Levantine limestone villages, terraced olive groves and pine hills, dusty sunlight and soft haze, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (stone floor, dirt path, rock, soft shadow, sea) for captions and a logo; peaceful scenes glow with warm spring gold, the attack and its aftermath have dark smoke-filled ember skies, night scenes are deep blue with a warm oil-lamp glow, and memories or dreams have a soft hazy golden dreamlike glow.\nScene: two women sit side by side on the rug just inside the cave; on the LEFT the young woman Sahar in her black thobe with deep-red embroidery and black hijab, HER OWN left forearm resting in a plain beige cloth sling, leans her head against the older woman, eyes shut, tears on her cheeks; on the RIGHT Laila in her indigo thobe and long white headscarf, with NO sling and both arms free, puts one arm around Sahar's shoulders and speaks softly with a brave, tearful face; inland wooded hills outside, no sea. Location: the mouth of the limestone cave seen from inside, the rough rock walls framing the opening, pine trees and the sky outside, a woven rug and bags on the floor. Camera: medium close-up, eye level.\nCharacters: Sahar: a slim Palestinian young woman of 18 with light olive-brown skin, a soft oval face with a clean unmarked complexion, large dark almond-shaped eyes, thick dark eyebrows and full lips; wears a loose long-sleeved ankle-length black Palestinian thobe with deep-red cross-stitch embroidery on the chest panel and cuffs and a black hijab fully covering her hair and neck. Laila: a slightly plump Palestinian woman of about 45 with light olive-brown skin, a kind oval face with soft lines and warm brown eyes; wears a loose long-sleeved ankle-length deep indigo-blue Palestinian thobe with red embroidery on the chest and a long plain white headscarf fully covering her hair, neck and shoulders.\nMood/lighting: dusk, a smoke-darkened ember-orange sky outside the cave opening, deep charcoal shadows inside, urgency.\nModest 1940s Palestinian village clothing (every woman and girl in a loose long-sleeved ankle-length dress with a headscarf or hijab fully covering her hair and neck; men in long-sleeved shirts or robes and long trousers, never shirtless), a clear respectful distance between men and women who are not married, culturally respectful and Islamic in spirit, no violence shown, no blood, no wounds, no injuries, no bruises, no corpses, no person lying on the ground, no guns, no rifles, no knives, no weapons, no chains on necks, no flags, no military insignia, no religious symbols of other faiths, no alcohol, no bottles, no smoking, no text, no letters, no numbers, no writing, no Arabic script, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.176,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 58.2,
+    "y_pct": 24.4,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_015",
+   "startMs": 410570,
+   "endMs": 444891,
+   "new_image_reason": "time jump to midnight: Hamza prepares the hand-lamps",
+   "characters": [
+    "hamza",
+    "fathimaa",
+    "laila",
+    "sahar"
+   ],
+   "location": "inside the dark limestone cave at midnight, rough rock walls, bundles and canvas bags on a woven rug, two small sticks with a tiny flame on the sandy floor",
+   "location_key": "cave_night",
+   "mood": "midnight, deep blue darkness, a warm oil-lamp glow and a tiny flame, tense and prayerful",
+   "visual": "Hamza kneels by an open canvas bag, taking out small brass oil hand-lamps, speaking gravely in a low voice; around him in the dark Fathimaa, Laila and Sahar in her black thobe with deep-red embroidery and black hijab fully covering her hair and neck, her LEFT forearm resting in a sling made from a strip of plain beige cloth tied around her neck, no visible injury sit listening with bundles ready, their faces lit by one tiny flame",
+   "camera": "medium wide, eye level",
+   "image": "images/beat_015.png",
+   "reuse_of": null,
+   "transition_in": "black",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "cave_night",
+   "shots": [
+    {
+     "id": "shot_046",
+     "startMs": 410570,
+     "endMs": 419931,
+     "narration_dhivehi": "ހަމްޒާ މަޑުކޮށްގެން ހުރީ މެންދަމުގެ ވަގުތު ޖެހެންދެންނެވެ. މެންދަމުގެ ވަގުތު ޖެހުމުން، ހަނގުރާމަވެރިންގެ ހަރަކާތްތެރިކަން މަޑުވާނެކަން ހަމްޒާއަށް އިނގެއެވެ.",
+     "narration_english": "Hamza waited until midnight. He knew that at midnight the fighters' activity would slow down.",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_047",
+     "startMs": 419931,
+     "endMs": 427891,
+     "narration_dhivehi": "އަދި ފަރުބަދަމަތީ ސަރަހައްދުން ބޯ ޖަންގަލީގެ ތެރެއަށް ވަދެގެން ދެވޭނެ މަގުތައް ވެސް ހަމްޒާއަށް ހުރީ ދަސްވެފައެވެ.",
+     "narration_english": "And Hamza knew by heart the paths from the mountain area into the dense forest.",
+     "crop": "tight",
+     "motion": "pan left",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      38.2,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_048",
+     "startMs": 427891,
+     "endMs": 434521,
+     "narration_dhivehi": "މި ހިނގަން އުޅޭ މަގުގެ ބިރުވެރިކަމާއި، ނާމާންކަން ކިތަންމެހާ ވެސް ބޮޑެވެ. އެންމެވެސް ކެތްތެރިވުމަށާއި،",
+     "narration_english": "The danger and insecurity of the path they were about to take were enormous. He urged everyone to be patient",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_049",
+     "startMs": 434521,
+     "endMs": 444891,
+     "narration_dhivehi": "ދުޢާއާއި ޛިކުރުތަކުން ހިތްވަރު ލިބިގަތުމަށް ހަމްޒާ ނަސޭޙަތްތެރިވިއެވެ. އަދި ދަބަހަކަށް އަޅައިގެން ގެނެސްފައި ހުރި އަތްބައްތިތައް ދިއްލުމުގެ މަސައްކަތްފެށިއެވެ.",
+     "narration_english": "and to draw strength from dua and dhikr. Then he set about lighting the hand-lamps he had brought in a bag.",
+     "crop": "medium",
+     "motion": "pan right",
+     "sfx": [
+      {
+       "name": "cloth_rustle",
+       "atMs": 439611,
+       "gainDb": -22,
+       "word": "ދަބަހަކަށް"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      28.5,
+      0.0,
+      71.5,
+      84.7
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Hamza; reference image 2 is Fathimaa; reference image 3 is Laila; reference image 4 is Sahar), create a new scene: Cinematic semi-realistic digital illustration of Palestine in spring 1948, a warm ember-orange, smoky amber and deep charcoal palette like a historical war drama, golden Levantine limestone villages, terraced olive groves and pine hills, dusty sunlight and soft haze, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (stone floor, dirt path, rock, soft shadow, sea) for captions and a logo; peaceful scenes glow with warm spring gold, the attack and its aftermath have dark smoke-filled ember skies, night scenes are deep blue with a warm oil-lamp glow, and memories or dreams have a soft hazy golden dreamlike glow.\nScene: Hamza kneels by an open canvas bag, taking out small brass oil hand-lamps, speaking gravely in a low voice; around him in the dark Fathimaa, Laila and Sahar in her black thobe with deep-red embroidery and black hijab fully covering her hair and neck, her LEFT forearm resting in a sling made from a strip of plain beige cloth tied around her neck, no visible injury sit listening with bundles ready, their faces lit by one tiny flame. Location: inside the dark limestone cave at midnight, rough rock walls, bundles and canvas bags on a woven rug, two small sticks with a tiny flame on the sandy floor. Camera: medium wide, eye level.\nCharacters: Hamza: a stocky Palestinian man of about 50 with light olive-brown skin, a square weathered face, thoughtful dark eyes and a neatly trimmed salt-and-pepper beard; wears a long plain white thobe robe under a brown wool jacket and a red-and-white checked keffiyeh on his head held by a black agal cord. Fathimaa: a sturdy Palestinian woman of about 45 with light olive-brown skin, a round gentle face, soft dark eyes and faint smile lines; wears a loose long-sleeved ankle-length deep forest-green Palestinian thobe with red-and-gold embroidery on the chest and a long cream headscarf fully covering her hair, neck and shoulders. Laila: a slightly plump Palestinian woman of about 45 with light olive-brown skin, a kind oval face with soft lines and warm brown eyes; wears a loose long-sleeved ankle-length deep indigo-blue Palestinian thobe with red embroidery on the chest and a long plain white headscarf fully covering her hair, neck and shoulders. Sahar: a slim Palestinian young woman of 18 with light olive-brown skin, a soft oval face with a clean unmarked complexion, large dark almond-shaped eyes, thick dark eyebrows and full lips; wears a loose long-sleeved ankle-length black Palestinian thobe with deep-red cross-stitch embroidery on the chest panel and cuffs and a black hijab fully covering her hair and neck.\nMood/lighting: midnight, deep blue darkness, a warm oil-lamp glow and a tiny flame, tense and prayerful.\nModest 1940s Palestinian village clothing (every woman and girl in a loose long-sleeved ankle-length dress with a headscarf or hijab fully covering her hair and neck; men in long-sleeved shirts or robes and long trousers, never shirtless), a clear respectful distance between men and women who are not married, culturally respectful and Islamic in spirit, no violence shown, no blood, no wounds, no injuries, no bruises, no corpses, no person lying on the ground, no guns, no rifles, no knives, no weapons, no chains on necks, no flags, no military insignia, no religious symbols of other faiths, no alcohol, no bottles, no smoking, no text, no letters, no numbers, no writing, no Arabic script, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.217,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 67.9,
+    "y_pct": 26.4,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_016",
+   "startMs": 444891,
+   "endMs": 472882,
+   "new_image_reason": "action change: they leave the cave by lamplight onto the rocky path",
+   "characters": [],
+   "location": "a steep rocky path leading down from the dark mouth of the limestone cave at night, huge boulders, thorny bushes and pine trunks on both sides",
+   "location_key": "cave_exit",
+   "mood": "night, deep blue darkness, the small warm glow of a single oil hand-lamp, fear and resolve",
+   "visual": "seven small figures in long robes and headscarves leave the dark mouth of the cave in single file, seen from behind; the first, a man in a keffiyeh, holds up a small glowing oil hand-lamp; the path ahead is huge boulders and thorny bushes; the figures are small silhouettes",
+   "camera": "wide shot from behind, slightly high, the lamp glow in the upper half",
+   "image": "images/beat_016.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": "other",
+   "safe_substitution": "the family seen only as small silhouettes from behind",
+   "ambience": "forest_night",
+   "shots": [
+    {
+     "id": "shot_050",
+     "startMs": 444891,
+     "endMs": 455232,
+     "narration_dhivehi": "ހޮހޮޅަ ތެރެ އަލި ކުރުމަށް، ދެ ލަކުޑި ކޮޅު ހޫނުކޮށްގެން ރޯކޮށްފައިހުރި އަލިފާން ނަގައިގެން ބައްތިތައް ރޯކޮށް، ހަމްޒާ ކުރީގައި ހުރެގެން އެންމެން ވެސް ހޮހޮޅައިން ނިކުތެވެ.",
+     "narration_english": "With the fire they had lit by heating two sticks of wood to light the cave, he lit the lamps, and with Hamza in front, everyone left the cave.",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [
+      {
+       "name": "fire_crackle",
+       "atMs": 448251,
+       "gainDb": -22,
+       "word": "ރޯކޮށްފައިހުރި"
+      },
+      {
+       "name": "footsteps_sand",
+       "atMs": 454592,
+       "gainDb": -22,
+       "word": "ނިކުތެވެ."
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_051",
+     "startMs": 455232,
+     "endMs": 463592,
+     "narration_dhivehi": "ފައިމަގުގައި ހިގަން އޮތް މަގުގެ ދިގުކަމާއި، ތަކުލީފުގެ ބޮޑުކަން ހިތަށްއަރައި، އެންމެން ވެސް ތިބީ ބިރުވެރިކަމެއްގެ ތެރޭގައެވެ.",
+     "narration_english": "Thinking of the length of the road ahead on foot and how hard it would be, everyone was gripped by fear.",
+     "crop": "tight",
+     "motion": "pan up",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      40.6,
+      29.6,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_052",
+     "startMs": 463592,
+     "endMs": 472882,
+     "narration_dhivehi": "ބޮޑެތި ހިލަތަކާއި، ކަށި ގިނަ ގަސްތަކުން ފުރިފައިވާ މަގުން ކުރިއަށް ދިޔައީ މަޑުމަޑުންނެވެ. ހަމްޒާގެ އަމާޒަކަށްވީ އެމީހުން ދިރިއުޅުނު ސަރަހައްދު ދޫކޮށް،",
+     "narration_english": "They went forward slowly along a path full of big rocks and thorny trees. Hamza's aim was to leave the area where they had lived",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [
+      {
+       "name": "stone_scrape",
+       "atMs": 463932,
+       "gainDb": -22,
+       "word": "ހިލަތަކާއި،"
+      },
+      {
+       "name": "leaves_rustle",
+       "atMs": 465292,
+       "gainDb": -22,
+       "word": "ގަސްތަކުން"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Cinematic semi-realistic digital illustration of Palestine in spring 1948, a warm ember-orange, smoky amber and deep charcoal palette like a historical war drama, golden Levantine limestone villages, terraced olive groves and pine hills, dusty sunlight and soft haze, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (stone floor, dirt path, rock, soft shadow, sea) for captions and a logo; peaceful scenes glow with warm spring gold, the attack and its aftermath have dark smoke-filled ember skies, night scenes are deep blue with a warm oil-lamp glow, and memories or dreams have a soft hazy golden dreamlike glow.\nScene: seven small figures in long robes and headscarves leave the dark mouth of the cave in single file, seen from behind; the first, a man in a keffiyeh, holds up a small glowing oil hand-lamp; the path ahead is huge boulders and thorny bushes; the figures are small silhouettes. Location: a steep rocky path leading down from the dark mouth of the limestone cave at night, huge boulders, thorny bushes and pine trunks on both sides. Camera: wide shot from behind, slightly high, the lamp glow in the upper half.\nMood/lighting: night, deep blue darkness, the small warm glow of a single oil hand-lamp, fear and resolve.\nModest 1940s Palestinian village clothing (every woman and girl in a loose long-sleeved ankle-length dress with a headscarf or hijab fully covering her hair and neck; men in long-sleeved shirts or robes and long trousers, never shirtless), a clear respectful distance between men and women who are not married, culturally respectful and Islamic in spirit, no violence shown, no blood, no wounds, no injuries, no bruises, no corpses, no person lying on the ground, no guns, no rifles, no knives, no weapons, no chains on necks, no flags, no military insignia, no religious symbols of other faiths, no alcohol, no bottles, no smoking, no text, no letters, no numbers, no writing, no Arabic script, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.133,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 75.1,
+    "y_pct": 67.1,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_017",
+   "startMs": 472882,
+   "endMs": 512283,
+   "new_image_reason": "storyline cut: Yazan in the soldiers' camp at night",
+   "characters": [],
+   "location": "an open dusty field in the hills at night: a few dark canvas army tents in a loose half-circle, a small campfire in the middle of the field, pine-covered hills black against the sky",
+   "location_key": "camp_night",
+   "mood": "night, deep blue-black darkness, one small orange campfire far off, cold and menacing",
+   "visual": "a dark army camp seen from far away across an open field at night: a few canvas tents, one small campfire in the middle, a few standing figures around it only as tiny faceless dark silhouettes far away, no weapons, no uniforms with insignia, no flags; nobody on the ground is visible",
+   "camera": "extreme wide shot from a distance, the fire in the upper half, dark dry grass as the lower third",
+   "image": "images/beat_017.png",
+   "reuse_of": null,
+   "transition_in": "black",
+   "sensitive": "violence",
+   "safe_substitution": "the neck chain and being tied 'like a dog' are never shown (rule 4): only the camp from a distance and an offscreen chain rattle",
+   "ambience": "army_camp_night",
+   "shots": [
+    {
+     "id": "shot_053",
+     "startMs": 472882,
+     "endMs": 482412,
+     "narration_dhivehi": "\"އެއިން ކަރަމް\" ސަރަހައްދަށް ވަނުމެވެ. ޔަޒަންނަށް ހޭލެވުނީ ބަޔަކު ވާހަކަ ދައްކާ އަޑަށެވެ. އެ މީހުން ވާހަކަ ދައްކަމުން ދިޔައީ ޔަޒަން ދަންނަ ބަހުރުވަޔަކުން ނޫނެވެ.",
+     "narration_english": "and reach Ein Karem. Yazan woke to the sound of people talking. They were not speaking a language Yazan knew.",
+     "crop": "full",
+     "motion": "pan down",
+     "sfx": [
+      {
+       "name": "breath",
+       "atMs": 475852,
+       "gainDb": -24,
+       "word": "ހޭލެވުނީ"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_054",
+     "startMs": 482412,
+     "endMs": 491903,
+     "narration_dhivehi": "ވެފައިވާ ވަރުބަލި ކަމުގެ ތެރެއިން ފެން ފޮދެއް ދިނުމަށް އެމީހުންގެ ކިބައިން ޔަޒަން އެދުނެވެ. ޔަޒަން އޮތީ އެމައިދާނުގެ މެދުގައި ހުރި އަލިފާންގަނޑެއް ކައިރި،",
+     "narration_english": "Exhausted as he was, Yazan begged them for a drop of water. Yazan lay beside a fire in the middle of the field,",
+     "crop": "tight",
+     "motion": "static drift",
+     "sfx": [
+      {
+       "name": "fire_crackle",
+       "atMs": 490373,
+       "gainDb": -24,
+       "word": "އަލިފާންގަނޑެއް"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      20.3,
+      4.8,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_055",
+     "startMs": 491903,
+     "endMs": 501983,
+     "narration_dhivehi": "ކަރުގައި ޗޭނުގަނޑެއް އަޅުވައި، ވަލު ކުއްތާއެއް ބަންދުކުރާ ޒާތު ގޮތަކަށް ބަންދުކޮށްފައެވެ. މި އަނިޔާވެރިންގެ ނުބައި އަމަލުތަކުން ސަލާމަތް ކޮށްދެއްވުމަށާއި،",
+     "narration_english": "a chain put around his neck, tied up the way a wild dog is tied. That he be saved from the evil deeds of these cruel men,",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [
+      {
+       "name": "chain_rattle",
+       "atMs": 492713,
+       "gainDb": -22,
+       "word": "ޗޭނުގަނޑެއް"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_056",
+     "startMs": 501983,
+     "endMs": 512283,
+     "narration_dhivehi": "ލޯބިވާ އަނބިމީހާ އާއި މަންމަ ހެޔޮ ހާލުގައި ލެއްވުން އަދައިގެން މެދު ނުކެނޑި ޔަޒަން ދިޔައީ ދުޢާ ކުރަމުންނެވެ. އެތައް ފަހަރެއްގެ މަތިން ފެން ފޮދަކަށް އެދި ގޮވުމުން،",
+     "narration_english": "and that his beloved wife and mother be kept safe, Yazan prayed without stopping. When he had called out for a drop of water many times,",
+     "crop": "medium",
+     "motion": "pan left",
+     "sfx": [],
+     "hum": true,
+     "crop_rect_pct": [
+      14.2,
+      0.0,
+      71.5,
+      84.7
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Cinematic semi-realistic digital illustration of Palestine in spring 1948, a warm ember-orange, smoky amber and deep charcoal palette like a historical war drama, golden Levantine limestone villages, terraced olive groves and pine hills, dusty sunlight and soft haze, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (stone floor, dirt path, rock, soft shadow, sea) for captions and a logo; peaceful scenes glow with warm spring gold, the attack and its aftermath have dark smoke-filled ember skies, night scenes are deep blue with a warm oil-lamp glow, and memories or dreams have a soft hazy golden dreamlike glow.\nScene: a dark army camp seen from far away across an open field at night: a few canvas tents, one small campfire in the middle, a few standing figures around it only as tiny faceless dark silhouettes far away, no weapons, no uniforms with insignia, no flags; nobody on the ground is visible. Location: an open dusty field in the hills at night: a few dark canvas army tents in a loose half-circle, a small campfire in the middle of the field, pine-covered hills black against the sky. Camera: extreme wide shot from a distance, the fire in the upper half, dark dry grass as the lower third.\nMood/lighting: night, deep blue-black darkness, one small orange campfire far off, cold and menacing.\nModest 1940s Palestinian village clothing (every woman and girl in a loose long-sleeved ankle-length dress with a headscarf or hijab fully covering her hair and neck; men in long-sleeved shirts or robes and long trousers, never shirtless), a clear respectful distance between men and women who are not married, culturally respectful and Islamic in spirit, no violence shown, no blood, no wounds, no injuries, no bruises, no corpses, no person lying on the ground, no guns, no rifles, no knives, no weapons, no chains on necks, no flags, no military insignia, no religious symbols of other faiths, no alcohol, no bottles, no smoking, no text, no letters, no numbers, no writing, no Arabic script, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.092,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 50.0,
+    "y_pct": 40.0,
+    "face_detected": false
+   }
+  },
+  {
+   "id": "beat_018",
+   "startMs": 512283,
+   "endMs": 540314,
+   "new_image_reason": "focus moves to Yazan: humiliation endured, then Fajr prayer",
+   "characters": [
+    "yazan"
+   ],
+   "location": "the edge of a soldiers' camp at night, dark canvas tents blurred far behind, the warm flicker of a campfire just out of frame",
+   "location_key": "camp_face",
+   "mood": "night, harsh flickering orange firelight on one side of his face, the rest in deep shadow, humiliation endured with patience",
+   "visual": "close-up of Yazan as a prisoner: his same shirt and trousers dusty and creased, the black-and-white keffiyeh still loosely around his neck, his hands loosely wrapped in clean white cloth at the wrists and palms, no wounds, no blood, nothing on his neck but the keffiyeh; his face half in shadow and half in flickering firelight, head slightly bowed, eyes closed, lips moving silently in dua; his face clean, calm and enduring",
+   "camera": "close-up, eye level, his face in the upper half",
+   "image": "images/beat_018.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": "violence",
+   "safe_substitution": "the soldier urinating on him is never shown (rule 4): only his closed eyes and silent dua",
+   "ambience": "army_camp_night",
+   "shots": [
+    {
+     "id": "shot_057",
+     "startMs": 512283,
+     "endMs": 520013,
+     "narration_dhivehi": "އެތަނުން އެއް ހަނގުރާމަވެރި މީހަކު ޔަޒަންގެ ގާތަށް އައިސް، ޔަޒަންގެ މޫނު މައްޗަށް ކުޑަކަމު ދިޔައެވެ. އެއަށްފަހު،",
+     "narration_english": "one of the fighters there came over to Yazan and urinated on his face. After that,",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [
+      {
+       "name": "footsteps_sand",
+       "atMs": 515573,
+       "gainDb": -22,
+       "word": "އައިސް،"
+      }
+     ],
+     "hum": true,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_058",
+     "startMs": 520013,
+     "endMs": 529334,
+     "narration_dhivehi": "އިނގިރޭސި ބަހުން \"މިހާރު ހުންނާނީ ފެންބޮވިފައޭ\" ބުނެ ދުރަށް ދިޔައެވެ. ހިތްވަރުކުރުން ނޫން އިތުރުގޮތެއް މިއަދަކު ނެތެވެ. އެހާލުގައި ވެސް ޔަޒަން ނަމާދެއް ނާޅައެވެ.",
+     "narration_english": "he said in English, \"Now you'll have had your fill of water,\" and walked away. There was no other way today but to be strong. Even in that state Yazan did not miss his prayer.",
+     "crop": "tight",
+     "motion": "pan right",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      6.0,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_059",
+     "startMs": 529334,
+     "endMs": 540314,
+     "narration_dhivehi": "އަތްފައި ބަންދުކޮށްފައިނުވާތީ، ވަރަށް ހާލުން ތަޔައްމަމު ކޮށްގެން އިންތާ އިނދެގެން ފަތިސް ނަމާދުކުރިއެވެ. ނަމާދު ކުރަން އިންނަ އިރުވެސް ދޭތެރެއަކުން އޭގެ ހަނގުރާމަވެރިއަކު އައިސް،",
+     "narration_english": "Since his hands and feet were not tied, with great difficulty he did tayammum and prayed Fajr sitting where he was. Even while he was praying, now and then one of the fighters would come",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [
+      {
+       "name": "cloth_rustle",
+       "atMs": 531954,
+       "gainDb": -24,
+       "word": "ތަޔައްމަމު"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Yazan), create a new scene: Cinematic semi-realistic digital illustration of Palestine in spring 1948, a warm ember-orange, smoky amber and deep charcoal palette like a historical war drama, golden Levantine limestone villages, terraced olive groves and pine hills, dusty sunlight and soft haze, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (stone floor, dirt path, rock, soft shadow, sea) for captions and a logo; peaceful scenes glow with warm spring gold, the attack and its aftermath have dark smoke-filled ember skies, night scenes are deep blue with a warm oil-lamp glow, and memories or dreams have a soft hazy golden dreamlike glow.\nScene: close-up of Yazan as a prisoner: his same shirt and trousers dusty and creased, the black-and-white keffiyeh still loosely around his neck, his hands loosely wrapped in clean white cloth at the wrists and palms, no wounds, no blood, nothing on his neck but the keffiyeh; his face half in shadow and half in flickering firelight, head slightly bowed, eyes closed, lips moving silently in dua; his face clean, calm and enduring. Location: the edge of a soldiers' camp at night, dark canvas tents blurred far behind, the warm flicker of a campfire just out of frame. Camera: close-up, eye level, his face in the upper half.\nCharacters: Yazan: a tall broad-shouldered Palestinian young man of 20 with light olive-brown skin, a handsome lean face, deep-set dark eyes under strong eyebrows, a light dark stubble and thick curly black hair; wears a loose long-sleeved earth-brown collarless cotton shirt, dark-brown trousers and a black-and-white checked keffiyeh draped around his neck and shoulders.\nMood/lighting: night, harsh flickering orange firelight on one side of his face, the rest in deep shadow, humiliation endured with patience.\nModest 1940s Palestinian village clothing (every woman and girl in a loose long-sleeved ankle-length dress with a headscarf or hijab fully covering her hair and neck; men in long-sleeved shirts or robes and long trousers, never shirtless), a clear respectful distance between men and women who are not married, culturally respectful and Islamic in spirit, no violence shown, no blood, no wounds, no injuries, no bruises, no corpses, no person lying on the ground, no guns, no rifles, no knives, no weapons, no chains on necks, no flags, no military insignia, no religious symbols of other faiths, no alcohol, no bottles, no smoking, no text, no letters, no numbers, no writing, no Arabic script, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.105,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 35.7,
+    "y_pct": 31.5,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_019",
+   "startMs": 540314,
+   "endMs": 555324,
+   "new_image_reason": "time change: sunrise, his dua and the 'breakfast' of two olives",
+   "characters": [
+    "yazan"
+   ],
+   "location": "the edge of the open dusty field of the camp at sunrise, blurred canvas tents far behind, a flat stone on the ground, dry grass and pebbles",
+   "location_key": "camp_dawn",
+   "mood": "sunrise, dawn blue-gold light, long soft shadows, lonely and prayerful",
+   "visual": "Yazan as a prisoner: his same shirt and trousers dusty and creased, the black-and-white keffiyeh still loosely around his neck, his hands loosely wrapped in clean white cloth at the wrists and palms, no wounds, no blood, nothing on his neck but the keffiyeh, sitting on the ground seen from the side, both hands raised before his chest in dua, eyes closed; beside him on a flat stone lie just two olives and a tiny bottle cap of water",
+   "camera": "medium wide side view, eye level, the flat stone in the lower part",
+   "image": "images/beat_019.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": "violence",
+   "safe_substitution": "no chains, no wounds; the deprivation is shown only as two olives and a capful of water",
+   "ambience": "army_camp_dawn",
+   "shots": [
+    {
+     "id": "shot_060",
+     "startMs": 540314,
+     "endMs": 548394,
+     "narration_dhivehi": "ޔަޒަންނަށް ކޮންމެވެސް ކަހަލަ އުނދަގުލެއް ކުރިމަތިކުރުވައެވެ. އެގޮތުގައި ވަނިކޮށް އިރު އަރައިފިއެވެ. ހެނދުނުގެ ނާސްތާކަމަށް ބުނެ،",
+     "narration_english": "and cause Yazan some kind of trouble. And so the sun rose. Calling it breakfast,",
+     "crop": "full",
+     "motion": "pan up",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_061",
+     "startMs": 548394,
+     "endMs": 555324,
+     "narration_dhivehi": "އެންމެ ދެ ޒައިތޫނިޔާއި، ފެންފުޅިއެއްގެ މަތިގަނޑަކަށް ފެންފޮދެއް އަޅައިގެން ގެނެސްދިނެވެ.",
+     "narration_english": "they brought him just two olives and a drop of water in the cap of a water bottle.",
+     "crop": "tight",
+     "motion": "slow pull-out",
+     "sfx": [
+      {
+       "name": "stone_scrape",
+       "atMs": 553454,
+       "gainDb": -24,
+       "word": "ގެނެސްދިނެވެ."
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      20.3,
+      4.8,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Yazan), create a new scene: Cinematic semi-realistic digital illustration of Palestine in spring 1948, a warm ember-orange, smoky amber and deep charcoal palette like a historical war drama, golden Levantine limestone villages, terraced olive groves and pine hills, dusty sunlight and soft haze, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (stone floor, dirt path, rock, soft shadow, sea) for captions and a logo; peaceful scenes glow with warm spring gold, the attack and its aftermath have dark smoke-filled ember skies, night scenes are deep blue with a warm oil-lamp glow, and memories or dreams have a soft hazy golden dreamlike glow.\nScene: Yazan as a prisoner: his same shirt and trousers dusty and creased, the black-and-white keffiyeh still loosely around his neck, his hands loosely wrapped in clean white cloth at the wrists and palms, no wounds, no blood, nothing on his neck but the keffiyeh, sitting on the ground seen from the side, both hands raised before his chest in dua, eyes closed; beside him on a flat stone lie just two olives and a tiny bottle cap of water. Location: the edge of the open dusty field of the camp at sunrise, blurred canvas tents far behind, a flat stone on the ground, dry grass and pebbles. Camera: medium wide side view, eye level, the flat stone in the lower part.\nCharacters: Yazan: a tall broad-shouldered Palestinian young man of 20 with light olive-brown skin, a handsome lean face, deep-set dark eyes under strong eyebrows, a light dark stubble and thick curly black hair; wears a loose long-sleeved earth-brown collarless cotton shirt, dark-brown trousers and a black-and-white checked keffiyeh draped around his neck and shoulders.\nMood/lighting: sunrise, dawn blue-gold light, long soft shadows, lonely and prayerful.\nModest 1940s Palestinian village clothing (every woman and girl in a loose long-sleeved ankle-length dress with a headscarf or hijab fully covering her hair and neck; men in long-sleeved shirts or robes and long trousers, never shirtless), a clear respectful distance between men and women who are not married, culturally respectful and Islamic in spirit, no violence shown, no blood, no wounds, no injuries, no bruises, no corpses, no person lying on the ground, no guns, no rifles, no knives, no weapons, no chains on necks, no flags, no military insignia, no religious symbols of other faiths, no alcohol, no bottles, no smoking, no text, no letters, no numbers, no writing, no Arabic script, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.237,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 50.0,
+    "y_pct": 40.0,
+    "face_detected": false
+   }
+  },
+  {
+   "id": "beat_020",
+   "startMs": 555324,
+   "endMs": 585085,
+   "new_image_reason": "action change: the lorry takes him away",
+   "characters": [],
+   "location": "a dusty dirt track leaving the field camp at dawn, dry grass and stones on both sides, pine hills fading into haze, distant tents",
+   "location_key": "camp_truck",
+   "mood": "dawn blue-gold light through dust and haze, cold and uncertain",
+   "visual": "an old 1940s army truck with a closed canvas-covered wooden cargo bed, seen from behind, driving away down a dusty dirt track at dawn, a trail of dust behind it; no markings, no people visible",
+   "camera": "wide shot from behind, the truck in the upper half, the dusty track as the lower third",
+   "image": "images/beat_020.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": "violence",
+   "safe_substitution": "the animal cage and loading him into it are never shown (rule 4): only the closed truck from behind",
+   "ambience": "army_camp_dawn",
+   "shots": [
+    {
+     "id": "shot_062",
+     "startMs": 555324,
+     "endMs": 563844,
+     "narration_dhivehi": "އެއަށްފަހު ސިންގާފަދަ ޖަނަވާރުތައް ބަންދުކޮށްގެން އުފުލާ ޒާތު ދަގަނޑު ދެ ކޮށިގަނޑު ގެނެސް އޭގެތެރެއަށް ޔަޒަންލައި، ބޮޑު ލޮރީއަކަށް އެރުވިއެވެ.",
+     "narration_english": "After that they brought an iron cage of the kind used to carry animals like lions, put Yazan inside it, and loaded it onto a big lorry.",
+     "crop": "full",
+     "motion": "pan down",
+     "sfx": [
+      {
+       "name": "metal_gate",
+       "atMs": 559534,
+       "gainDb": -22,
+       "word": "ކޮށިގަނޑު"
+      },
+      {
+       "name": "truck_start",
+       "atMs": 562474,
+       "gainDb": -18,
+       "word": "ލޮރީއަކަށް"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_063",
+     "startMs": 563844,
+     "endMs": 570355,
+     "narration_dhivehi": "ކަރުގައި ޖަހާފައިވާ ޗޭނުގަނޑު ނައްޓާލުމުން ކޮންމެވެސް ވަރެއްގެ ލުއި ކަމެއް ޔަޒަންނަށް ލިބުނެވެ.",
+     "narration_english": "When the chain around his neck was taken off, Yazan felt some kind of relief.",
+     "crop": "tight",
+     "motion": "static drift",
+     "sfx": [
+      {
+       "name": "chain_rattle",
+       "atMs": 565515,
+       "gainDb": -22,
+       "word": "ޗޭނުގަނޑު"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      20.3,
+      4.8,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_064",
+     "startMs": 570355,
+     "endMs": 577615,
+     "narration_dhivehi": "ނަމަވެސް ކުރިމަތީގައި ދެން އޮތީ ކޮންފަދަ ބިރުވެރިކަމެއްބާއޭ ހިތަށް އަރައި، ޔަޒަން ވަނީ ވަރަށް ބޮޑަށް ކަންބޮޑުވެފައެވެ.",
+     "narration_english": "But wondering what kind of terror lay ahead of him, Yazan was deeply anxious.",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_065",
+     "startMs": 577615,
+     "endMs": 585085,
+     "narration_dhivehi": "ނަމަވެސް މާތް ﷲ އެއްވެސް އަޅަކަށް ދެރަގޮތެއް މިންވަރު ނުކުރައްވާނެކަން އެއީ ޔަޒަންގެ ހިތުގެ އަޑިން ގަބޫލުކުރާކަމެކެވެ.",
+     "narration_english": "Yet deep in his heart Yazan believed that Allah the Exalted does not decree evil for any of His servants.",
+     "crop": "medium",
+     "motion": "pan left",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      14.2,
+      0.0,
+      71.5,
+      84.7
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Cinematic semi-realistic digital illustration of Palestine in spring 1948, a warm ember-orange, smoky amber and deep charcoal palette like a historical war drama, golden Levantine limestone villages, terraced olive groves and pine hills, dusty sunlight and soft haze, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (stone floor, dirt path, rock, soft shadow, sea) for captions and a logo; peaceful scenes glow with warm spring gold, the attack and its aftermath have dark smoke-filled ember skies, night scenes are deep blue with a warm oil-lamp glow, and memories or dreams have a soft hazy golden dreamlike glow.\nScene: an old 1940s army truck with a closed canvas-covered wooden cargo bed, seen from behind, driving away down a dusty dirt track at dawn, a trail of dust behind it; no markings, no people visible. Location: a dusty dirt track leaving the field camp at dawn, dry grass and stones on both sides, pine hills fading into haze, distant tents. Camera: wide shot from behind, the truck in the upper half, the dusty track as the lower third.\nMood/lighting: dawn blue-gold light through dust and haze, cold and uncertain.\nModest 1940s Palestinian village clothing (every woman and girl in a loose long-sleeved ankle-length dress with a headscarf or hijab fully covering her hair and neck; men in long-sleeved shirts or robes and long trousers, never shirtless), a clear respectful distance between men and women who are not married, culturally respectful and Islamic in spirit, no violence shown, no blood, no wounds, no injuries, no bruises, no corpses, no person lying on the ground, no guns, no rifles, no knives, no weapons, no chains on necks, no flags, no military insignia, no religious symbols of other faiths, no alcohol, no bottles, no smoking, no text, no letters, no numbers, no writing, no Arabic script, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.396,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 50.0,
+    "y_pct": 40.0,
+    "face_detected": false
+   }
+  },
+  {
+   "id": "beat_021",
+   "startMs": 585085,
+   "endMs": 602765,
+   "new_image_reason": "storyline cut back to the family walking through the forest at night",
+   "characters": [],
+   "location": "a dense dark pine forest on rocky hills at night, tall straight pine trunks, thorny scrub and limestone boulders, a faint moonlit sky between the treetops",
+   "location_key": "forest",
+   "mood": "night, deep blue moonlit darkness among the trunks, tiny warm oil-lamp glows, eerie and frightening",
+   "visual": "deep in a dark pine forest seven tiny figures in long robes and headscarves walk close together in a line between tall trunks and thorny scrub, small silhouettes from a distance, two tiny oil-lamp glows among them",
+   "camera": "extreme wide shot, low angle, the lamp glows in the upper half, dark rocks as the lower third",
+   "image": "images/beat_021.png",
+   "reuse_of": null,
+   "transition_in": "black",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "forest_night",
+   "shots": [
+    {
+     "id": "shot_066",
+     "startMs": 585085,
+     "endMs": 594855,
+     "narration_dhivehi": "ބޯ ގަސްތަކުގެ ތެރެއިން ބައެއްފަހަރު އެކި ޖަނަވާރުންގެ އަޑުއަޑު ވެސް އިވެއެވެ. ވަށައިގެންވާ އަނދިރި ކަމުގެ ސަބަބުން ނާމާންކަން ހިތަށް ވެރިވަމުން ދިޔައެވެ.",
+     "narration_english": "From among the dense trees the calls of different animals could sometimes be heard. The darkness all around filled their hearts with dread.",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [
+      {
+       "name": "leaves_rustle",
+       "atMs": 585635,
+       "gainDb": -22,
+       "word": "ގަސްތަކުގެ"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_067",
+     "startMs": 594855,
+     "endMs": 602765,
+     "narration_dhivehi": "އެންމެން ވެސް ތިބީ އެކުއެކީގައެވެ. ކަށިކުނބުރު ގަސްތައް ފާހަގަކޮށް، އެގަސްތަކުން ސަލާމަތްވަމުން، ވަރަށް މަޑުމަޑުން ހިނގަމުން އައިސް،",
+     "narration_english": "They all stayed together. Picking out the thorny bushes and keeping clear of them, walking very slowly,",
+     "crop": "tight",
+     "motion": "pan right",
+     "sfx": [
+      {
+       "name": "footsteps_sand",
+       "atMs": 601555,
+       "gainDb": -22,
+       "word": "ހިނގަމުން"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      20.3,
+      4.8,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Cinematic semi-realistic digital illustration of Palestine in spring 1948, a warm ember-orange, smoky amber and deep charcoal palette like a historical war drama, golden Levantine limestone villages, terraced olive groves and pine hills, dusty sunlight and soft haze, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (stone floor, dirt path, rock, soft shadow, sea) for captions and a logo; peaceful scenes glow with warm spring gold, the attack and its aftermath have dark smoke-filled ember skies, night scenes are deep blue with a warm oil-lamp glow, and memories or dreams have a soft hazy golden dreamlike glow.\nScene: deep in a dark pine forest seven tiny figures in long robes and headscarves walk close together in a line between tall trunks and thorny scrub, small silhouettes from a distance, two tiny oil-lamp glows among them. Location: a dense dark pine forest on rocky hills at night, tall straight pine trunks, thorny scrub and limestone boulders, a faint moonlit sky between the treetops. Camera: extreme wide shot, low angle, the lamp glows in the upper half, dark rocks as the lower third.\nMood/lighting: night, deep blue moonlit darkness among the trunks, tiny warm oil-lamp glows, eerie and frightening.\nModest 1940s Palestinian village clothing (every woman and girl in a loose long-sleeved ankle-length dress with a headscarf or hijab fully covering her hair and neck; men in long-sleeved shirts or robes and long trousers, never shirtless), a clear respectful distance between men and women who are not married, culturally respectful and Islamic in spirit, no violence shown, no blood, no wounds, no injuries, no bruises, no corpses, no person lying on the ground, no guns, no rifles, no knives, no weapons, no chains on necks, no flags, no military insignia, no religious symbols of other faiths, no alcohol, no bottles, no smoking, no text, no letters, no numbers, no writing, no Arabic script, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.055,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 50.0,
+    "y_pct": 40.0,
+    "face_detected": false
+   }
+  },
+  {
+   "id": "beat_022",
+   "startMs": 602765,
+   "endMs": 634306,
+   "new_image_reason": "scene change: Ein Karem near dawn, the door opens",
+   "characters": [
+    "hashim",
+    "hamza",
+    "laila",
+    "sahar"
+   ],
+   "location": "the arched wooden front door of a two-storey golden limestone house in Ein Karem, a green valley village of stone houses, cypress trees and a stone step, a sleeping village around it",
+   "location_key": "ek_door",
+   "mood": "the blue hour just before dawn, deep blue sky, warm oil-lamp light from the doorway, hope and relief",
+   "visual": "the arched wooden door stands open; Hashim with his round glasses and white beard, in his tweed jacket, holds up an oil lamp in the doorway, surprised and kind; Hamza in his red-and-white keffiyeh stands on the step before him; behind Hamza wait Laila in her white headscarf and Sahar in her black thobe with deep-red embroidery and black hijab fully covering her hair and neck, her LEFT forearm resting in a sling made from a strip of plain beige cloth tied around her neck, no visible injury, exhausted",
+   "camera": "medium wide, eye level, from the side of the step",
+   "image": "images/beat_022.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "night_exterior",
+   "shots": [
+    {
+     "id": "shot_068",
+     "startMs": 602765,
+     "endMs": 610916,
+     "narration_dhivehi": "ހަމްޒާމެންނަށް \"އެއިން ކަރެމް\" ސަރަހައްދަށް އާދެވުނުއިރު ފަތިސް ވަގުތު ކައިރި ވަނީއެވެ. މުޅި ސަރަހައްދު ވަނީ ނިދައި ހަމަހިމޭންވެފައެވެ.",
+     "narration_english": "by the time Hamza and the others reached Ein Karem it was close to Fajr. The whole area was asleep and silent.",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_069",
+     "startMs": 610916,
+     "endMs": 625156,
+     "narration_dhivehi": "ޖެހިލުންވެ ހުރެ އެންމެ އަވަހަށް ފެނުނު ގޭގެ ދޮރުގައި ޓަކި ޖެހުމުން، އިރުކޮޅަކުން ހުޅުވައިފިއެވެ. އެގޭގެ އަހުލުވެރިންނަށް ހަމްޒާމެން ފެނުމުން މިއީ ހަނގުރާމައިގެ ސަބަބުން ހާލުގައި ޖެހިފައިވާ ފަރާތްތަކެއްކަމަށް ވިސްނުނެވެ.",
+     "narration_english": "Hesitantly they knocked at the door of the first house they saw, and after a while it opened. When the people of the house saw Hamza and the others, they realised these were people in distress because of the war.",
+     "crop": "tight",
+     "motion": "pan up",
+     "sfx": [
+      {
+       "name": "knock",
+       "atMs": 614076,
+       "gainDb": -16,
+       "word": "ޓަކި"
+      },
+      {
+       "name": "door_open",
+       "atMs": 615836,
+       "gainDb": -18,
+       "word": "ހުޅުވައިފިއެވެ."
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      40.5,
+      1.1,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_070",
+     "startMs": 625156,
+     "endMs": 634306,
+     "narration_dhivehi": "\"އެއިން ކަރެމް\" ސަރަހައްދަކީ \"ޑެއިރް ޔާސިން\" އާ ވަރަށް ކައިރި ސަރަހައްދެއްކަމުން ހަނގުރާމައިގެ ޚަބަރު \"އެއިން ކަރެމް\" ސަރަހައްދަށް އިސާހިތަކު ފޯރާފައިވެއެވެ.",
+     "narration_english": "Because Ein Karem is very close to Deir Yassin, the news of the attack had already reached Ein Karem.",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Hashim; reference image 2 is Hamza; reference image 3 is Laila; reference image 4 is Sahar), create a new scene: Cinematic semi-realistic digital illustration of Palestine in spring 1948, a warm ember-orange, smoky amber and deep charcoal palette like a historical war drama, golden Levantine limestone villages, terraced olive groves and pine hills, dusty sunlight and soft haze, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (stone floor, dirt path, rock, soft shadow, sea) for captions and a logo; peaceful scenes glow with warm spring gold, the attack and its aftermath have dark smoke-filled ember skies, night scenes are deep blue with a warm oil-lamp glow, and memories or dreams have a soft hazy golden dreamlike glow.\nScene: the arched wooden door stands open; Hashim with his round glasses and white beard, in his tweed jacket, holds up an oil lamp in the doorway, surprised and kind; Hamza in his red-and-white keffiyeh stands on the step before him; behind Hamza wait Laila in her white headscarf and Sahar in her black thobe with deep-red embroidery and black hijab fully covering her hair and neck, her LEFT forearm resting in a sling made from a strip of plain beige cloth tied around her neck, no visible injury, exhausted. Location: the arched wooden front door of a two-storey golden limestone house in Ein Karem, a green valley village of stone houses, cypress trees and a stone step, a sleeping village around it. Camera: medium wide, eye level, from the side of the step.\nCharacters: Hashim: a tall thin Palestinian man of about 58 with light olive-brown skin, a long thin kind face, wise dark eyes behind small round wire-rimmed glasses and a short white beard; wears a long dark-grey robe under a charcoal tweed jacket and a plain white keffiyeh held by a black agal cord. Hamza: a stocky Palestinian man of about 50 with light olive-brown skin, a square weathered face, thoughtful dark eyes and a neatly trimmed salt-and-pepper beard; wears a long plain white thobe robe under a brown wool jacket and a red-and-white checked keffiyeh on his head held by a black agal cord. Laila: a slightly plump Palestinian woman of about 45 with light olive-brown skin, a kind oval face with soft lines and warm brown eyes; wears a loose long-sleeved ankle-length deep indigo-blue Palestinian thobe with red embroidery on the chest and a long plain white headscarf fully covering her hair, neck and shoulders. Sahar: a slim Palestinian young woman of 18 with light olive-brown skin, a soft oval face with a clean unmarked complexion, large dark almond-shaped eyes, thick dark eyebrows and full lips; wears a loose long-sleeved ankle-length black Palestinian thobe with deep-red cross-stitch embroidery on the chest panel and cuffs and a black hijab fully covering her hair and neck.\nMood/lighting: the blue hour just before dawn, deep blue sky, warm oil-lamp light from the doorway, hope and relief.\nModest 1940s Palestinian village clothing (every woman and girl in a loose long-sleeved ankle-length dress with a headscarf or hijab fully covering her hair and neck; men in long-sleeved shirts or robes and long trousers, never shirtless), a clear respectful distance between men and women who are not married, culturally respectful and Islamic in spirit, no violence shown, no blood, no wounds, no injuries, no bruises, no corpses, no person lying on the ground, no guns, no rifles, no knives, no weapons, no chains on necks, no flags, no military insignia, no religious symbols of other faiths, no alcohol, no bottles, no smoking, no text, no letters, no numbers, no writing, no Arabic script, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.196,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 70.2,
+    "y_pct": 36.3,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_023",
+   "startMs": 634306,
+   "endMs": 662987,
+   "new_image_reason": "scene change: inside, Safoora brings water and dates",
+   "characters": [
+    "safoora",
+    "hashim",
+    "laila",
+    "sahar"
+   ],
+   "location": "the warm sitting room of Hashim and Safoora's stone house in Ein Karem: arched window, low cushioned benches along the walls, woven rugs, a brass tray, an oil lamp on a carved wooden table",
+   "location_key": "ek_room",
+   "mood": "the blue hour before dawn, warm oil-lamp glow inside, kindness and safety",
+   "visual": "in the lamplit sitting room Safoora in her olive-green embroidered thobe and white headscarf offers a brass tray with cups of water and a plate of dates to Laila and Sahar in her black thobe with deep-red embroidery and black hijab fully covering her hair and neck, her LEFT forearm resting in a sling made from a strip of plain beige cloth tied around her neck, no visible injury, who sit on a cushioned bench; Hashim stands behind, gesturing kindly for them to rest",
+   "camera": "medium shot, eye level",
+   "image": "images/beat_023.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "stone_house_night",
+   "shots": [
+    {
+     "id": "shot_071",
+     "startMs": 634306,
+     "endMs": 643617,
+     "narration_dhivehi": "އެހެންކަމުން ކަންވީ ގޮތް އޮޅުން ފިލުވުމުގެ ބަދަލުގައި، ވަގުތުން އެހީތެރިކަން ވެދޭން ފެށިއެވެ. ފެނާއި، ކަދުރުފަދަ ތަކެތި އެމީހުންނަށްދީ،",
+     "narration_english": "So instead of asking what had happened, they began to help at once. Giving them water and things like dates,",
+     "crop": "full",
+     "motion": "pan down",
+     "sfx": [
+      {
+       "name": "pour",
+       "atMs": 640477,
+       "gainDb": -22,
+       "word": "ފެނާއި،"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_072",
+     "startMs": 643617,
+     "endMs": 652747,
+     "narration_dhivehi": "ހަމަޖެހިލުމަށާއި، އަރާމު ކުރުމަށް ނަސޭޙަތްތެރިވަމުން ދިޔައެވެ. ސަހަރްމެންނަށް އާދެވުނީ ވަރަށް ރަނގަޅު ދެމަފިރިއަކު ދިރިއުޅޭ ގެޔަކަށެވެ.",
+     "narration_english": "they kept urging them to calm down and rest. Sahar and the others had come to the house of a very good couple.",
+     "crop": "tight",
+     "motion": "static drift",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      15.8,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_073",
+     "startMs": 652747,
+     "endMs": 662987,
+     "narration_dhivehi": "އެގޭގައި ދިރިއުޅެނީ މެދުއުމުރުގެ އެ ދެމަފިރިން އެކަންޏެވެ. ހަމްޒާ އާއި އަމީންނަށް ވަކި ކޮޓަރިއެއް އަދި ސަހަރްމެން ހުރިހާ އަންހެނުންނަށް ވަކި ކޮޓަރިއެއް ހަމަޖައްސައި ދިނެވެ.",
+     "narration_english": "Only that middle-aged couple lived in the house. They gave Hamza and Ameen a room of their own, and Sahar and all the women another.",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Safoora; reference image 2 is Hashim; reference image 3 is Laila; reference image 4 is Sahar), create a new scene: Cinematic semi-realistic digital illustration of Palestine in spring 1948, a warm ember-orange, smoky amber and deep charcoal palette like a historical war drama, golden Levantine limestone villages, terraced olive groves and pine hills, dusty sunlight and soft haze, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (stone floor, dirt path, rock, soft shadow, sea) for captions and a logo; peaceful scenes glow with warm spring gold, the attack and its aftermath have dark smoke-filled ember skies, night scenes are deep blue with a warm oil-lamp glow, and memories or dreams have a soft hazy golden dreamlike glow.\nScene: in the lamplit sitting room Safoora in her olive-green embroidered thobe and white headscarf offers a brass tray with cups of water and a plate of dates to Laila and Sahar in her black thobe with deep-red embroidery and black hijab fully covering her hair and neck, her LEFT forearm resting in a sling made from a strip of plain beige cloth tied around her neck, no visible injury, who sit on a cushioned bench; Hashim stands behind, gesturing kindly for them to rest. Location: the warm sitting room of Hashim and Safoora's stone house in Ein Karem: arched window, low cushioned benches along the walls, woven rugs, a brass tray, an oil lamp on a carved wooden table. Camera: medium shot, eye level.\nCharacters: Safoora: a short plump Palestinian woman of about 55 with light olive-brown skin, a round plump face, warm smiling dark eyes and soft wrinkles; wears a loose long-sleeved ankle-length olive-green thobe with orange-and-red embroidery and a long white headscarf fully covering her hair, neck and shoulders. Hashim: a tall thin Palestinian man of about 58 with light olive-brown skin, a long thin kind face, wise dark eyes behind small round wire-rimmed glasses and a short white beard; wears a long dark-grey robe under a charcoal tweed jacket and a plain white keffiyeh held by a black agal cord. Laila: a slightly plump Palestinian woman of about 45 with light olive-brown skin, a kind oval face with soft lines and warm brown eyes; wears a loose long-sleeved ankle-length deep indigo-blue Palestinian thobe with red embroidery on the chest and a long plain white headscarf fully covering her hair, neck and shoulders. Sahar: a slim Palestinian young woman of 18 with light olive-brown skin, a soft oval face with a clean unmarked complexion, large dark almond-shaped eyes, thick dark eyebrows and full lips; wears a loose long-sleeved ankle-length black Palestinian thobe with deep-red cross-stitch embroidery on the chest panel and cuffs and a black hijab fully covering her hair and neck.\nMood/lighting: the blue hour before dawn, warm oil-lamp glow inside, kindness and safety.\nModest 1940s Palestinian village clothing (every woman and girl in a loose long-sleeved ankle-length dress with a headscarf or hijab fully covering her hair and neck; men in long-sleeved shirts or robes and long trousers, never shirtless), a clear respectful distance between men and women who are not married, culturally respectful and Islamic in spirit, no violence shown, no blood, no wounds, no injuries, no bruises, no corpses, no person lying on the ground, no guns, no rifles, no knives, no weapons, no chains on necks, no flags, no military insignia, no religious symbols of other faiths, no alcohol, no bottles, no smoking, no text, no letters, no numbers, no writing, no Arabic script, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.276,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 45.5,
+    "y_pct": 10.1,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_024",
+   "startMs": 662987,
+   "endMs": 681278,
+   "new_image_reason": "scene change: the women's room; everyone rests but Sahar cannot sleep",
+   "characters": [
+    "sahar",
+    "laila",
+    "fathimaa",
+    "safiyya"
+   ],
+   "location": "a beautiful spacious bedroom in a 1940s stone house in Ein Karem: clean whitewashed arched walls, a carved wooden chest, woven rugs, folded wool blankets, simple geometric-patterned wall hangings and a string of prayer beads on a hook (no writing, no script, no symbols), a tall arched window",
+   "location_key": "women_room",
+   "mood": "night before dawn, a single small oil lamp glowing amber, deep blue shadows, sleepless grief",
+   "visual": "in the lamplit women's room the women sit asleep against the whitewashed wall under wool blankets, heads resting back, every hijab and headscarf fully on: Laila, Fathimaa and Safiyya in her dark thobe and black hijab, her forehead wrapped in a clean strip of plain white cloth over the hijab, no blood; at the end of the row Sahar in her black thobe with deep-red embroidery and black hijab fully covering her hair and neck, her LEFT forearm resting in a sling made from a strip of plain beige cloth tied around her neck, no visible injury, sits awake, eyes open, staring into the lamplight",
+   "camera": "medium wide, eye level",
+   "image": "images/beat_024.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": "clothing",
+   "safe_substitution": "sleeping women shown sitting against the wall, fully covered, never lying in a bed (rule 5)",
+   "ambience": "stone_house_night",
+   "shots": [
+    {
+     "id": "shot_074",
+     "startMs": 662987,
+     "endMs": 671437,
+     "narration_dhivehi": "ޒަމާނާ އެކަށީގެންވާ، ރީތި ތަނަވަސް ކޮޓަރިއެކެވެ. ކޮޓަރީގެ އެކި ދިމާލުގައި، ދީނީ ޝިޢާރުތައް ހަރުކޮށްފައި ހުއްޓެވެ.",
+     "narration_english": "It was a beautiful, spacious, modern room. Religious emblems were hung in different places around the room.",
+     "crop": "full",
+     "motion": "pan left",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_075",
+     "startMs": 671437,
+     "endMs": 681278,
+     "narration_dhivehi": "އެންމެން ނިދަން އޮށޯތުމުން ސަހަރް ވެސް ދިޔައީ ނިދޭތޯ މަސައްކަތް ކުރަމުންނެވެ. ނަމަވެސް ނިދޭ ގޮތެއް ނުވިއެވެ. ލޯ މަރާލިޔަސް ފެންނަނީ އިއްޔެގެ މަންޒަރުތަކެވެ.",
+     "narration_english": "When everyone lay down to sleep, Sahar too tried to sleep. But sleep would not come. Even with her eyes closed she saw yesterday's scenes.",
+     "crop": "tight",
+     "motion": "slow pull-out",
+     "sfx": [
+      {
+       "name": "cloth_rustle",
+       "atMs": 672117,
+       "gainDb": -24,
+       "word": "އޮށޯތުމުން"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      40.6,
+      0.0,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Sahar; reference image 2 is Laila; reference image 3 is Fathimaa; reference image 4 is Safiyya), create a new scene: Cinematic semi-realistic digital illustration of Palestine in spring 1948, a warm ember-orange, smoky amber and deep charcoal palette like a historical war drama, golden Levantine limestone villages, terraced olive groves and pine hills, dusty sunlight and soft haze, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (stone floor, dirt path, rock, soft shadow, sea) for captions and a logo; peaceful scenes glow with warm spring gold, the attack and its aftermath have dark smoke-filled ember skies, night scenes are deep blue with a warm oil-lamp glow, and memories or dreams have a soft hazy golden dreamlike glow.\nScene: in the lamplit women's room the women sit asleep against the whitewashed wall under wool blankets, heads resting back, every hijab and headscarf fully on: Laila, Fathimaa and Safiyya in her dark thobe and black hijab, her forehead wrapped in a clean strip of plain white cloth over the hijab, no blood; at the end of the row Sahar in her black thobe with deep-red embroidery and black hijab fully covering her hair and neck, her LEFT forearm resting in a sling made from a strip of plain beige cloth tied around her neck, no visible injury, sits awake, eyes open, staring into the lamplight. Location: a beautiful spacious bedroom in a 1940s stone house in Ein Karem: clean whitewashed arched walls, a carved wooden chest, woven rugs, folded wool blankets, simple geometric-patterned wall hangings and a string of prayer beads on a hook (no writing, no script, no symbols), a tall arched window. Camera: medium wide, eye level.\nCharacters: Sahar: a slim Palestinian young woman of 18 with light olive-brown skin, a soft oval face with a clean unmarked complexion, large dark almond-shaped eyes, thick dark eyebrows and full lips; wears a loose long-sleeved ankle-length black Palestinian thobe with deep-red cross-stitch embroidery on the chest panel and cuffs and a black hijab fully covering her hair and neck. Laila: a slightly plump Palestinian woman of about 45 with light olive-brown skin, a kind oval face with soft lines and warm brown eyes; wears a loose long-sleeved ankle-length deep indigo-blue Palestinian thobe with red embroidery on the chest and a long plain white headscarf fully covering her hair, neck and shoulders. Fathimaa: a sturdy Palestinian woman of about 45 with light olive-brown skin, a round gentle face, soft dark eyes and faint smile lines; wears a loose long-sleeved ankle-length deep forest-green Palestinian thobe with red-and-gold embroidery on the chest and a long cream headscarf fully covering her hair, neck and shoulders. Safiyya: a tall lean Palestinian woman of about 45 with light olive-brown skin, a lean strong face with high cheekbones and sharp steady dark eyes; wears a loose long-sleeved ankle-length charcoal-grey thobe with dark-red embroidery and a long black headscarf fully covering her hair, neck and shoulders.\nMood/lighting: night before dawn, a single small oil lamp glowing amber, deep blue shadows, sleepless grief.\nModest 1940s Palestinian village clothing (every woman and girl in a loose long-sleeved ankle-length dress with a headscarf or hijab fully covering her hair and neck; men in long-sleeved shirts or robes and long trousers, never shirtless), a clear respectful distance between men and women who are not married, culturally respectful and Islamic in spirit, no violence shown, no blood, no wounds, no injuries, no bruises, no corpses, no person lying on the ground, no guns, no rifles, no knives, no weapons, no chains on necks, no flags, no military insignia, no religious symbols of other faiths, no alcohol, no bottles, no smoking, no text, no letters, no numbers, no writing, no Arabic script, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.07,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 76.3,
+    "y_pct": 29.1,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_025",
+   "startMs": 681278,
+   "endMs": 699758,
+   "new_image_reason": "memory: Sahar remembers Yazan",
+   "characters": [
+    "sahar",
+    "yazan"
+   ],
+   "location": "the flowering garden of Mahmood's two-storey golden limestone house in Deir Yassin, almond and olive trees in blossom, roses, a stone path",
+   "location_key": "garden_memory",
+   "mood": "soft hazy golden dreamlike memory glow, golden-hour spring sunlight, tender love",
+   "visual": "a golden memory: Sahar in her black thobe with deep-red embroidery and black hijab (no sling, before her injury) walks side by side with Yazan, tall with curly black hair and his black-and-white keffiyeh, along the stone path of the flowering garden, exchanging a shy smiling glance; they do not embrace",
+   "camera": "medium wide, eye level, the couple in the upper half, the stone path as the lower third",
+   "image": "images/beat_025.png",
+   "reuse_of": null,
+   "transition_in": "dissolve",
+   "sensitive": "intimacy",
+   "safe_substitution": "'his caresses' and 'his manly body' are replaced by the couple walking side by side at golden hour (bible rule 6)",
+   "ambience": "dream_glow",
+   "shots": [
+    {
+     "id": "shot_076",
+     "startMs": 681278,
+     "endMs": 690528,
+     "narration_dhivehi": "އެ ހިތްދަތި ހަނދާންތަކުގެ ތެރެއިން ސަހަރްއަށް އެންމެ އުނދަގޫ ކުރަނީ ޔަޒަންގެ ހަނދާންތަކެވެ. އެ ހަންހާރަވެރި ފިރުމުންތަކާ، އޯގާތެރިވި ބަސްތަކެވެ.",
+     "narration_english": "Of all those painful memories, the ones that hurt Sahar most were her memories of Yazan: his passionate caresses and his tender words.",
+     "crop": "full",
+     "motion": "pan right",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_077",
+     "startMs": 690528,
+     "endMs": 699758,
+     "narration_dhivehi": "ލޯ މަރާލާ ކޮންމެ ފަހަރަކު ޔަޒަންގެ ފިރިހެންވަންތަ ހަށިގަނޑު ސަހަރްއަށް ސޫރަކުރެވިގެންދެއެވެ. ތުނިތުނި ރީތި ތުނބުޅިއާ، އެ އަސަރުގަދަ ދެލޮލެވެ.",
+     "narration_english": "Every time she closed her eyes, she pictured Yazan's manly figure, his thin handsome beard and those striking eyes.",
+     "crop": "tight",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": true,
+     "crop_rect_pct": [
+      6.3,
+      0.0,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Sahar; reference image 2 is Yazan), create a new scene: Cinematic semi-realistic digital illustration of Palestine in spring 1948, a warm ember-orange, smoky amber and deep charcoal palette like a historical war drama, golden Levantine limestone villages, terraced olive groves and pine hills, dusty sunlight and soft haze, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (stone floor, dirt path, rock, soft shadow, sea) for captions and a logo; peaceful scenes glow with warm spring gold, the attack and its aftermath have dark smoke-filled ember skies, night scenes are deep blue with a warm oil-lamp glow, and memories or dreams have a soft hazy golden dreamlike glow.\nScene: a golden memory: Sahar in her black thobe with deep-red embroidery and black hijab (no sling, before her injury) walks side by side with Yazan, tall with curly black hair and his black-and-white keffiyeh, along the stone path of the flowering garden, exchanging a shy smiling glance; they do not embrace. Location: the flowering garden of Mahmood's two-storey golden limestone house in Deir Yassin, almond and olive trees in blossom, roses, a stone path. Camera: medium wide, eye level, the couple in the upper half, the stone path as the lower third.\nCharacters: Sahar: a slim Palestinian young woman of 18 with light olive-brown skin, a soft oval face with a clean unmarked complexion, large dark almond-shaped eyes, thick dark eyebrows and full lips; wears a loose long-sleeved ankle-length black Palestinian thobe with deep-red cross-stitch embroidery on the chest panel and cuffs and a black hijab fully covering her hair and neck. Yazan: a tall broad-shouldered Palestinian young man of 20 with light olive-brown skin, a handsome lean face, deep-set dark eyes under strong eyebrows, a light dark stubble and thick curly black hair; wears a loose long-sleeved earth-brown collarless cotton shirt, dark-brown trousers and a black-and-white checked keffiyeh draped around his neck and shoulders.\nMood/lighting: soft hazy golden dreamlike memory glow, golden-hour spring sunlight, tender love.\nModest 1940s Palestinian village clothing (every woman and girl in a loose long-sleeved ankle-length dress with a headscarf or hijab fully covering her hair and neck; men in long-sleeved shirts or robes and long trousers, never shirtless), a clear respectful distance between men and women who are not married, culturally respectful and Islamic in spirit, no violence shown, no blood, no wounds, no injuries, no bruises, no corpses, no person lying on the ground, no guns, no rifles, no knives, no weapons, no chains on necks, no flags, no military insignia, no religious symbols of other faiths, no alcohol, no bottles, no smoking, no text, no letters, no numbers, no writing, no Arabic script, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.288,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 36.0,
+    "y_pct": 23.6,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_026",
+   "startMs": 699758,
+   "endMs": 720309,
+   "new_image_reason": "back from the memory: Sahar alone with her empty hand; the Fajr call",
+   "characters": [
+    "sahar",
+    "laila"
+   ],
+   "location": "a beautiful spacious bedroom in a 1940s stone house in Ein Karem: clean whitewashed arched walls, a carved wooden chest, woven rugs, folded wool blankets, simple geometric-patterned wall hangings and a string of prayer beads on a hook (no writing, no script, no symbols), a tall arched window",
+   "location_key": "women_room",
+   "mood": "night before dawn, a single small oil lamp glowing amber, deep blue shadows, sleepless grief",
+   "visual": "close shot: Sahar in her black thobe with deep-red embroidery and black hijab fully covering her hair and neck, her LEFT forearm resting in a sling made from a strip of plain beige cloth tied around her neck, no visible injury, sitting against the wall, gazes at her own open right palm in the amber lamplight, a tear on her cheek; beside her Laila sleeps sitting under a blanket, white headscarf on",
+   "camera": "medium close-up, eye level, her face and hand in the upper two-thirds",
+   "image": "images/beat_026.png",
+   "reuse_of": null,
+   "transition_in": "dissolve",
+   "sensitive": "intimacy",
+   "safe_substitution": "the longing for her husband shown as her empty hand (rule 6)",
+   "ambience": "stone_house_dawn",
+   "shots": [
+    {
+     "id": "shot_078",
+     "startMs": 699758,
+     "endMs": 709418,
+     "narration_dhivehi": "ސަހަރްއަށް އޮތީ މާތް ﷲ އަށް ދުޢާ ކުރުމެވެ. އެކަލާނގެއާ ދޭތެރޭ އޮތް ޔަގީންކަން އިތުރުކުރުމެވެ. ލޯބިވާ ފިރިމީހާއާ ބައްދަލުވާނެ ކަމުގެ އުންމީދު އައުކުރުމެވެ.",
+     "narration_english": "All Sahar could do was pray to Allah the Exalted, strengthen her certainty in Him, and renew her hope of meeting her beloved husband again.",
+     "crop": "full",
+     "motion": "pan up",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_079",
+     "startMs": 709418,
+     "endMs": 720309,
+     "narration_dhivehi": "އެހާލެއްގައި ފުރޮޅި ފުރޮޅި އޮއްވާ ފަތިސް ނަމާދަށް ބަންގި ގޮވާ އަޑު އިވުނެވެ. މީގެ އިރުކޮޅެއްކުރިން ލައިލާގެ ގިސްލުމުގެ އަޑެއް އިވުނު ނަމަވެސް މިހާރު ލައިލާއަށް ވެސް އޮތީ ނިދިފައެވެ.",
+     "narration_english": "As she lay tossing and turning, the call to the Fajr prayer was heard. A while earlier Laila's sobbing could be heard, but now Laila too had fallen asleep.",
+     "crop": "tight",
+     "motion": "slow pull-out",
+     "sfx": [
+      {
+       "name": "cloth_rustle",
+       "atMs": 710058,
+       "gainDb": -24,
+       "word": "ފުރޮޅި"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      12.8,
+      1.4,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Sahar; reference image 2 is Laila), create a new scene: Cinematic semi-realistic digital illustration of Palestine in spring 1948, a warm ember-orange, smoky amber and deep charcoal palette like a historical war drama, golden Levantine limestone villages, terraced olive groves and pine hills, dusty sunlight and soft haze, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (stone floor, dirt path, rock, soft shadow, sea) for captions and a logo; peaceful scenes glow with warm spring gold, the attack and its aftermath have dark smoke-filled ember skies, night scenes are deep blue with a warm oil-lamp glow, and memories or dreams have a soft hazy golden dreamlike glow.\nScene: close shot: Sahar in her black thobe with deep-red embroidery and black hijab fully covering her hair and neck, her LEFT forearm resting in a sling made from a strip of plain beige cloth tied around her neck, no visible injury, sitting against the wall, gazes at her own open right palm in the amber lamplight, a tear on her cheek; beside her Laila sleeps sitting under a blanket, white headscarf on. Location: a beautiful spacious bedroom in a 1940s stone house in Ein Karem: clean whitewashed arched walls, a carved wooden chest, woven rugs, folded wool blankets, simple geometric-patterned wall hangings and a string of prayer beads on a hook (no writing, no script, no symbols), a tall arched window. Camera: medium close-up, eye level, her face and hand in the upper two-thirds.\nCharacters: Sahar: a slim Palestinian young woman of 18 with light olive-brown skin, a soft oval face with a clean unmarked complexion, large dark almond-shaped eyes, thick dark eyebrows and full lips; wears a loose long-sleeved ankle-length black Palestinian thobe with deep-red cross-stitch embroidery on the chest panel and cuffs and a black hijab fully covering her hair and neck. Laila: a slightly plump Palestinian woman of about 45 with light olive-brown skin, a kind oval face with soft lines and warm brown eyes; wears a loose long-sleeved ankle-length deep indigo-blue Palestinian thobe with red embroidery on the chest and a long plain white headscarf fully covering her hair, neck and shoulders.\nMood/lighting: night before dawn, a single small oil lamp glowing amber, deep blue shadows, sleepless grief.\nModest 1940s Palestinian village clothing (every woman and girl in a loose long-sleeved ankle-length dress with a headscarf or hijab fully covering her hair and neck; men in long-sleeved shirts or robes and long trousers, never shirtless), a clear respectful distance between men and women who are not married, culturally respectful and Islamic in spirit, no violence shown, no blood, no wounds, no injuries, no bruises, no corpses, no person lying on the ground, no guns, no rifles, no knives, no weapons, no chains on necks, no flags, no military insignia, no religious symbols of other faiths, no alcohol, no bottles, no smoking, no text, no letters, no numbers, no writing, no Arabic script, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.157,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 42.5,
+    "y_pct": 36.7,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_027",
+   "startMs": 720309,
+   "endMs": 737649,
+   "new_image_reason": "action change: Sahar prays Fajr",
+   "characters": [
+    "sahar"
+   ],
+   "location": "a beautiful spacious bedroom in a 1940s stone house in Ein Karem: clean whitewashed arched walls, a carved wooden chest, woven rugs, folded wool blankets, simple geometric-patterned wall hangings and a string of prayer beads on a hook (no writing, no script, no symbols), a tall arched window",
+   "location_key": "women_dawn",
+   "mood": "dawn, soft blue-gold light from the arched window, a single small oil lamp, peaceful and prayerful",
+   "visual": "Sahar in her black thobe with deep-red embroidery and black hijab fully covering her hair and neck, her LEFT forearm resting in a sling made from a strip of plain beige cloth tied around her neck, no visible injury, seated on a simple prayer mat facing the arched window with the first blue-gold dawn light, her right hand raised in dua, head bowed; the other women are still covered shapes sleeping against the wall in the background",
+   "camera": "medium wide, from behind and slightly to the side",
+   "image": "images/beat_027.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": "other",
+   "safe_substitution": "prayer shown respectfully, no text; the bathroom/wudu is not shown",
+   "ambience": "stone_house_dawn",
+   "shots": [
+    {
+     "id": "shot_080",
+     "startMs": 720309,
+     "endMs": 729759,
+     "narration_dhivehi": "ސަހަރް މަޑުމަޑުން ތެދުވެ، ފާޚާނާއަށް ވަދެ ވުޟޫކޮށްގެން އައިސް ފަތިސް ނަމާދުކޮށް، އިރުއަރަންދެން ދުޢާ ކުރުމާއި، ޛިކުރު ކުރުމުގައި ހޭދަކުރިއެވެ.",
+     "narration_english": "Sahar quietly got up, went to the washroom, made wudu, came back and prayed Fajr, and spent the time until sunrise in dua and dhikr.",
+     "crop": "full",
+     "motion": "pan down",
+     "sfx": [
+      {
+       "name": "water_splash_small",
+       "atMs": 723239,
+       "gainDb": -22,
+       "word": "ވުޟޫކޮށްގެން"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_081",
+     "startMs": 729759,
+     "endMs": 737649,
+     "narration_dhivehi": "ވެފައިހުރި ވަރުބަލިކަމާއި، ހަށިގަނޑަށް ވެރިވެފައިހުރި ލޮޑުކަމުގެ ސަބަބުން ސަހަރް ނޫން އެންމެންނަށް ވެސް ތިބީ ނިދިފައެވެ.",
+     "narration_english": "Worn out and heavy with exhaustion, everyone except Sahar was asleep.",
+     "crop": "tight",
+     "motion": "static drift",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      20.3,
+      4.8,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Sahar), create a new scene: Cinematic semi-realistic digital illustration of Palestine in spring 1948, a warm ember-orange, smoky amber and deep charcoal palette like a historical war drama, golden Levantine limestone villages, terraced olive groves and pine hills, dusty sunlight and soft haze, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (stone floor, dirt path, rock, soft shadow, sea) for captions and a logo; peaceful scenes glow with warm spring gold, the attack and its aftermath have dark smoke-filled ember skies, night scenes are deep blue with a warm oil-lamp glow, and memories or dreams have a soft hazy golden dreamlike glow.\nScene: Sahar in her black thobe with deep-red embroidery and black hijab fully covering her hair and neck, her LEFT forearm resting in a sling made from a strip of plain beige cloth tied around her neck, no visible injury, seated on a simple prayer mat facing the arched window with the first blue-gold dawn light, her right hand raised in dua, head bowed; the other women are still covered shapes sleeping against the wall in the background. Location: a beautiful spacious bedroom in a 1940s stone house in Ein Karem: clean whitewashed arched walls, a carved wooden chest, woven rugs, folded wool blankets, simple geometric-patterned wall hangings and a string of prayer beads on a hook (no writing, no script, no symbols), a tall arched window. Camera: medium wide, from behind and slightly to the side.\nCharacters: Sahar: a slim Palestinian young woman of 18 with light olive-brown skin, a soft oval face with a clean unmarked complexion, large dark almond-shaped eyes, thick dark eyebrows and full lips; wears a loose long-sleeved ankle-length black Palestinian thobe with deep-red cross-stitch embroidery on the chest panel and cuffs and a black hijab fully covering her hair and neck.\nMood/lighting: dawn, soft blue-gold light from the arched window, a single small oil lamp, peaceful and prayerful.\nModest 1940s Palestinian village clothing (every woman and girl in a loose long-sleeved ankle-length dress with a headscarf or hijab fully covering her hair and neck; men in long-sleeved shirts or robes and long trousers, never shirtless), a clear respectful distance between men and women who are not married, culturally respectful and Islamic in spirit, no violence shown, no blood, no wounds, no injuries, no bruises, no corpses, no person lying on the ground, no guns, no rifles, no knives, no weapons, no chains on necks, no flags, no military insignia, no religious symbols of other faiths, no alcohol, no bottles, no smoking, no text, no letters, no numbers, no writing, no Arabic script, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.213,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 50.0,
+    "y_pct": 40.0,
+    "face_detected": false
+   }
+  },
+  {
+   "id": "beat_028",
+   "startMs": 737649,
+   "endMs": 753040,
+   "new_image_reason": "action change: sunrise, Sahar finally sleeps beside Laila",
+   "characters": [
+    "sahar",
+    "laila"
+   ],
+   "location": "a beautiful spacious bedroom in a 1940s stone house in Ein Karem: clean whitewashed arched walls, a carved wooden chest, woven rugs, folded wool blankets, simple geometric-patterned wall hangings and a string of prayer beads on a hook (no writing, no script, no symbols), a tall arched window",
+   "location_key": "women_morning",
+   "mood": "sunrise, warm golden morning light through the arched window, exhausted peace",
+   "visual": "Sahar in her black thobe with deep-red embroidery and black hijab fully covering her hair and neck, her LEFT forearm resting in a sling made from a strip of plain beige cloth tied around her neck, no visible injury, asleep sitting against the wall under a wool blanket beside Laila, her black hijab still fully on, her head resting against the wall, eyes closed and swollen from crying; Laila asleep beside her in her white headscarf; warm sunrise light across them from the window",
+   "camera": "medium shot, eye level",
+   "image": "images/beat_028.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": "clothing",
+   "safe_substitution": "removing her 'burqa' (face veil) is not shown: her black hijab stays fully on (bible rule 5)",
+   "ambience": "stone_house_dawn",
+   "shots": [
+    {
+     "id": "shot_082",
+     "startMs": 737649,
+     "endMs": 747899,
+     "narration_dhivehi": "ދުޢާ ކުރުމުގައި ހޭދަވި ވަގުތުގައި ރޮއެ ރޮއެ ސަހަރްގެ ދެ ލޯ ވަނީ ދުޅަވެފައެވެ. އަދި ވަރަށް ބޮޑު ބަރުކަމެއް އިޙްސާސްވާން ފެށުމުން ބޮލުގައި އަޅާފައިވާ ބުރުގާ ބޭލުމަށްފަހު،",
+     "narration_english": "From weeping and weeping through her dua, Sahar's eyes were swollen. And feeling a great heaviness, she took the veil off her head,",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [
+      {
+       "name": "sob_breath",
+       "atMs": 739559,
+       "gainDb": -24,
+       "word": "ރޮއެ"
+      }
+     ],
+     "hum": true,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_083",
+     "startMs": 747899,
+     "endMs": 753040,
+     "narration_dhivehi": "ލައިލާގެ ގާތުގައި ސަހަރް ވެސް އޮށޯވެލިއެވެ. އެއާއެކު އެހާ އިރެއްނުވެ ނިދޭ ގޮތްވިއެވެ.",
+     "narration_english": "and Sahar too lay down beside Laila. Before long, sleep came.",
+     "crop": "tight",
+     "motion": "pan left",
+     "sfx": [
+      {
+       "name": "breath",
+       "atMs": 752219,
+       "gainDb": -24,
+       "word": "ނިދޭ"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      20.3,
+      4.8,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Sahar; reference image 2 is Laila), create a new scene: Cinematic semi-realistic digital illustration of Palestine in spring 1948, a warm ember-orange, smoky amber and deep charcoal palette like a historical war drama, golden Levantine limestone villages, terraced olive groves and pine hills, dusty sunlight and soft haze, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (stone floor, dirt path, rock, soft shadow, sea) for captions and a logo; peaceful scenes glow with warm spring gold, the attack and its aftermath have dark smoke-filled ember skies, night scenes are deep blue with a warm oil-lamp glow, and memories or dreams have a soft hazy golden dreamlike glow.\nScene: Sahar in her black thobe with deep-red embroidery and black hijab fully covering her hair and neck, her LEFT forearm resting in a sling made from a strip of plain beige cloth tied around her neck, no visible injury, asleep sitting against the wall under a wool blanket beside Laila, her black hijab still fully on, her head resting against the wall, eyes closed and swollen from crying; Laila asleep beside her in her white headscarf; warm sunrise light across them from the window. Location: a beautiful spacious bedroom in a 1940s stone house in Ein Karem: clean whitewashed arched walls, a carved wooden chest, woven rugs, folded wool blankets, simple geometric-patterned wall hangings and a string of prayer beads on a hook (no writing, no script, no symbols), a tall arched window. Camera: medium shot, eye level.\nCharacters: Sahar: a slim Palestinian young woman of 18 with light olive-brown skin, a soft oval face with a clean unmarked complexion, large dark almond-shaped eyes, thick dark eyebrows and full lips; wears a loose long-sleeved ankle-length black Palestinian thobe with deep-red cross-stitch embroidery on the chest panel and cuffs and a black hijab fully covering her hair and neck. Laila: a slightly plump Palestinian woman of about 45 with light olive-brown skin, a kind oval face with soft lines and warm brown eyes; wears a loose long-sleeved ankle-length deep indigo-blue Palestinian thobe with red embroidery on the chest and a long plain white headscarf fully covering her hair, neck and shoulders.\nMood/lighting: sunrise, warm golden morning light through the arched window, exhausted peace.\nModest 1940s Palestinian village clothing (every woman and girl in a loose long-sleeved ankle-length dress with a headscarf or hijab fully covering her hair and neck; men in long-sleeved shirts or robes and long trousers, never shirtless), a clear respectful distance between men and women who are not married, culturally respectful and Islamic in spirit, no violence shown, no blood, no wounds, no injuries, no bruises, no corpses, no person lying on the ground, no guns, no rifles, no knives, no weapons, no chains on necks, no flags, no military insignia, no religious symbols of other faiths, no alcohol, no bottles, no smoking, no text, no letters, no numbers, no writing, no Arabic script, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.399,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 50.0,
+    "y_pct": 40.0,
+    "face_detected": false
+   }
+  }
+ ]
+}

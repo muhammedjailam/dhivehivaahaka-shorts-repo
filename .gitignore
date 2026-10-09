@@ -1,0 +1,50 @@
+# Whitelist: everything is ignored unless re-included below.
+# Excluded on purpose: audio (wav, *-audio.zip), captions (captions.ass, *-captions.json),
+# rendered videos (mp4), render scratch (segments_beats, qc, logs), credentials (env.txt).
+/*
+!/.gitignore
+!/README.md
+!/main prompt.txt
+!/logo.svg
+!/MVWaheed.otf
+!/shorts-integration.md
+!/docs/
+
+# --- pipeline scripts ---
+!/pipeline/
+/pipeline/*
+!/pipeline/*.py
+
+# --- series outputs ---
+!/output/
+/output/*
+!/output/*/
+/output/*/*
+!/output/*/agent_brief.md
+!/output/*/series_bible.md
+!/output/*/style.txt
+!/output/*/caption_style.json
+!/output/*/tail.txt
+!/output/*/refs_sheet.jpg
+
+# character cards, reference images, cover crops
+!/output/*/characters/
+
+# --- per-episode ---
+!/output/*/episode-*/
+/output/*/episode-*/*
+!/output/*/episode-*/images/
+!/output/*/episode-*/scenes.json
+!/output/*/episode-*/characters.json
+!/output/*/episode-*/story_notes.md
+!/output/*/episode-*/generation_log.jsonl
+!/output/*/episode-*/work/
+/output/*/episode-*/work/*
+!/output/*/episode-*/work/episode-*-cover.png
+!/output/*/episode-*/work/episode-*-cover.jpg
+!/output/*/episode-*/work/transcript.txt
+!/output/*/episode-*/work/synopsis.txt
+!/output/*/episode-*/work/story_notes.txt
+!/output/*/episode-*/work/segments.json
+
+__pycache__/

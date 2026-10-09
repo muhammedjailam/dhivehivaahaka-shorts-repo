@@ -1,0 +1,2311 @@
+{
+ "series": "Isq",
+ "episode": 428,
+ "beats": [
+  {
+   "id": "beat_001",
+   "startMs": 0,
+   "endMs": 19990,
+   "new_image_reason": "episode opening: continuing 393 in Nafeesa's kitchen at noon, Jaleel asks to tell her something big",
+   "characters": [
+    "jaleel",
+    "maura"
+   ],
+   "location": "the simple kitchen of Nafeesa's house on a small Maldivian local island: plain pale walls, a white sink under a small window, a small fridge with a box of tissues on top, a few pots and dishes on a wooden shelf, and a little open door looking out to the sunny sandy courtyard and the gate",
+   "location_key": "kitchen",
+   "mood": "noon, scorching tropical midday sunlight pouring through the small window and the open door, bright warm whites and gold, a hushed, charged tension",
+   "visual": "Jaleel, NOT in a suit: a white long-sleeved shirt with a faint pink juice stain on the front, black jeans, no jacket, no tie, black sunglasses folded and hooked at his open collar, his hair slicked back, standing a respectful step away from the sink with both hands in his pockets, looking at her with an intense, serious, earnest face; Maura in her white long-sleeved lace ankle-length dress and white hijab fully covering her hair and neck, a small white frangipani pinned at its side, standing by the sink holding a few folded tissues, looking up at him wide-eyed and speechless; a clear arm's-length gap between them, they do not touch",
+   "camera": "medium two-shot from the side, eye level, faces in the upper two-thirds, a calm uncluttered lower third (tiled kitchen floor in sunlight)",
+   "image": "images/beat_001.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": "other",
+   "safe_substitution": "two non-mahram young people alone in a kitchen: shown standing apart with a clear arm's-length gap, his hands in his pockets",
+   "ambience": "island_house_day",
+   "shots": [
+    {
+     "id": "shot_001",
+     "startMs": 0,
+     "endMs": 10180,
+     "narration_dhivehi": "\" މައުރާ... އަހަރެން ވަރަށް ބޮޑު ވާހަކައެއް ބުނަންވެފަ އެބައޮތް... އަހަރެންނަށް އެ ވާހަކަ ބުނުމުގެ ފުރުސަތެއް ދޭނަންތަ...؟\" ދެ ޖީބަށް އަތް ޖަހައިލަމުން ޖަލީލް ބުނެލިއެވެ.",
+     "narration_english": "\"Maura... I have something very big I want to tell you... Will you give me the chance to tell you?\" Jaleel said, putting his hands into both pockets.",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [
+      {
+       "name": "cloth_rustle",
+       "atMs": 7740,
+       "gainDb": -22,
+       "word": "ޖީބަށް"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_002",
+     "startMs": 10180,
+     "endMs": 19990,
+     "narration_dhivehi": "ބުނަންވީ އެއްޗެއް ނޭނގިފައި މައުރާއަށް ހުރެވުނެވެ. ޖަލީލްފަދަ ބޭފުޅެއް މައުރާ ކަހަލަ އާދައިގެ އަންހެން ކުއްޖެއްގެ ގާތުގައި ބުނަން އޮންނާނީ ކޮންފަދަ ބޮޑު ވާހަކައެއް ހެއްޔެވެ؟",
+     "narration_english": "Not knowing what to say, Maura could only stand there. What big matter could a man like Jaleel have to tell an ordinary girl like Maura?",
+     "crop": "tight",
+     "motion": "pan left",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      40.6,
+      0.0,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Yoosuf Jaleel; reference image 2 is Maura), create a new scene: Cinematic semi-realistic digital illustration with a warm romantic-drama look, rich gold and amber tones, soft golden lamplight with deep velvety shadows, luminous warm tropical daylight, gentle film grain, soft bokeh, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, sand lane, table top, balcony railing in soft shadow) for captions and a logo; a small Maldivian local island of white sandy lanes, coral-stone walls, bougainvillea, palms and turquoise lagoon, and, in Malé, a wealthy family's dark modern home glowing with gold lamps and city lights.\nScene: Jaleel, NOT in a suit: a white long-sleeved shirt with a faint pink juice stain on the front, black jeans, no jacket, no tie, black sunglasses folded and hooked at his open collar, his hair slicked back, standing a respectful step away from the sink with both hands in his pockets, looking at her with an intense, serious, earnest face; Maura in her white long-sleeved lace ankle-length dress and white hijab fully covering her hair and neck, a small white frangipani pinned at its side, standing by the sink holding a few folded tissues, looking up at him wide-eyed and speechless; a clear arm's-length gap between them, they do not touch. Location: the simple kitchen of Nafeesa's house on a small Maldivian local island: plain pale walls, a white sink under a small window, a small fridge with a box of tissues on top, a few pots and dishes on a wooden shelf, and a little open door looking out to the sunny sandy courtyard and the gate. Camera: medium two-shot from the side, eye level, faces in the upper two-thirds, a calm uncluttered lower third (tiled kitchen floor in sunlight).\nCharacters: Jaleel: a tall broad-shouldered athletic Maldivian man of 28 with wheatish warm-brown skin, a handsome strong face with a sharp defined jaw, intense dark eyes under straight heavy eyebrows, a neatly trimmed short black beard and thick slightly long black hair swept back to his collar; wears a tailored black suit over a crisp white long-sleeved shirt with a black tie, a white pocket square and a gold wristwatch. Maura: a petite slim Maldivian young woman of about 22 with fair light warm-brown skin, a soft round innocent face, large bright dark eyes, gently arched eyebrows, a small nose and a shy sweet smile; wears a loose long-sleeved ankle-length white dress with delicate lace sleeves and a plain white hijab wrapped snugly and fully covering her hair and neck, with a small white frangipani flower pinned at the side of the hijab.\nMood/lighting: noon, scorching tropical midday sunlight pouring through the small window and the open door, bright warm whites and gold, a hushed, charged tension.\nModest Maldivian clothing (every woman and girl in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck; men in shirts and long trousers, never shirtless, never in a towel), a clear respectful distance between unrelated men and women, nobody touching, culturally respectful, no cigarettes, no smoking, no violence, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "black",
+    "bg_luminance": 0.802,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 94.3,
+    "y_pct": 19.2,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_002",
+   "startMs": 19990,
+   "endMs": 39151,
+   "new_image_reason": "action change: at the sound of someone coming, he steps back, gives her one long deep look and leaves",
+   "characters": [
+    "jaleel",
+    "maura"
+   ],
+   "location": "the simple kitchen of Nafeesa's house on a small Maldivian local island: plain pale walls, a white sink under a small window, a small fridge with a box of tissues on top, a few pots and dishes on a wooden shelf, and a little open door looking out to the sunny sandy courtyard and the gate",
+   "location_key": "kitchen",
+   "mood": "noon, scorching tropical midday sunlight pouring through the small window and the open door, bright warm whites and gold, a hushed, charged tension",
+   "visual": "Jaleel, NOT in a suit: a white long-sleeved shirt with a faint pink juice stain on the front, black jeans, no jacket, no tie, black sunglasses folded and hooked at his open collar, his hair slicked back, having stepped back to the little open door of the kitchen, half turned to leave, looking back over his shoulder at her with a long, deep, unreadable look; Maura in her white long-sleeved lace ankle-length dress and white hijab fully covering her hair and neck, a small white frangipani pinned at its side, still by the sink in the background holding the tissues, watching him; a wide gap of several steps between them; bright sunlight in the doorway behind him",
+   "camera": "medium wide shot, eye level, faces in the upper two-thirds, a calm uncluttered lower third (sunlit kitchen floor)",
+   "image": "images/beat_002.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "island_house_day",
+   "shots": [
+    {
+     "id": "shot_003",
+     "startMs": 19990,
+     "endMs": 29080,
+     "narration_dhivehi": "ޖަވާބު ނުލިބޭ ސުވާލުތަކަކުން މައުރާގެ ސިކުނޑި ފުރެމުން ދިޔައެވެ. ބަދިގެ ފަރާތަށް މީހަކު އަންނަ އަޑަށް ނިކަން އަވަހަށް ޖަލީލް މައުރާއާއި ދުރަށް ޖެހިލައިފިއެވެ.",
+     "narration_english": "Maura's mind kept filling with questions that had no answers. At the sound of someone coming towards the kitchen, Jaleel quickly stepped away from Maura.",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [
+      {
+       "name": "footsteps_pavement",
+       "atMs": 25480,
+       "gainDb": -24,
+       "word": "އަންނަ"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_004",
+     "startMs": 29080,
+     "endMs": 39151,
+     "narration_dhivehi": "ނުހަނު ފުންކޮށް އަދި އެންމެ ފަހު ފަހަރަށް ބަލައިލާ ފަދައިން މައުރާއަށް ބަލައިލުމަށްފަހު ބަދިގެއިން ނުކުމެގެން ހަލުވި ފިޔަވަޅުތަކެއްގައި ޖަލީލް ހިނގައިގަތެވެ.",
+     "narration_english": "After looking at Maura very deeply, as if for the very last time, Jaleel walked out of the kitchen with quick steps.",
+     "crop": "tight",
+     "motion": "pan right",
+     "sfx": [
+      {
+       "name": "footsteps_pavement",
+       "atMs": 38321,
+       "gainDb": -22,
+       "word": "ހިނގައިގަތެވެ."
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      40.6,
+      0.0,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Yoosuf Jaleel; reference image 2 is Maura), create a new scene: Cinematic semi-realistic digital illustration with a warm romantic-drama look, rich gold and amber tones, soft golden lamplight with deep velvety shadows, luminous warm tropical daylight, gentle film grain, soft bokeh, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, sand lane, table top, balcony railing in soft shadow) for captions and a logo; a small Maldivian local island of white sandy lanes, coral-stone walls, bougainvillea, palms and turquoise lagoon, and, in Malé, a wealthy family's dark modern home glowing with gold lamps and city lights.\nScene: Jaleel, NOT in a suit: a white long-sleeved shirt with a faint pink juice stain on the front, black jeans, no jacket, no tie, black sunglasses folded and hooked at his open collar, his hair slicked back, having stepped back to the little open door of the kitchen, half turned to leave, looking back over his shoulder at her with a long, deep, unreadable look; Maura in her white long-sleeved lace ankle-length dress and white hijab fully covering her hair and neck, a small white frangipani pinned at its side, still by the sink in the background holding the tissues, watching him; a wide gap of several steps between them; bright sunlight in the doorway behind him. Location: the simple kitchen of Nafeesa's house on a small Maldivian local island: plain pale walls, a white sink under a small window, a small fridge with a box of tissues on top, a few pots and dishes on a wooden shelf, and a little open door looking out to the sunny sandy courtyard and the gate. Camera: medium wide shot, eye level, faces in the upper two-thirds, a calm uncluttered lower third (sunlit kitchen floor).\nCharacters: Jaleel: a tall broad-shouldered athletic Maldivian man of 28 with wheatish warm-brown skin, a handsome strong face with a sharp defined jaw, intense dark eyes under straight heavy eyebrows, a neatly trimmed short black beard and thick slightly long black hair swept back to his collar; wears a tailored black suit over a crisp white long-sleeved shirt with a black tie, a white pocket square and a gold wristwatch. Maura: a petite slim Maldivian young woman of about 22 with fair light warm-brown skin, a soft round innocent face, large bright dark eyes, gently arched eyebrows, a small nose and a shy sweet smile; wears a loose long-sleeved ankle-length white dress with delicate lace sleeves and a plain white hijab wrapped snugly and fully covering her hair and neck, with a small white frangipani flower pinned at the side of the hijab.\nMood/lighting: noon, scorching tropical midday sunlight pouring through the small window and the open door, bright warm whites and gold, a hushed, charged tension.\nModest Maldivian clothing (every woman and girl in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck; men in shirts and long trousers, never shirtless, never in a towel), a clear respectful distance between unrelated men and women, nobody touching, culturally respectful, no cigarettes, no smoking, no violence, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.527,
+    "halo": true
+   },
+   "focus": {
+    "x_pct": 72.2,
+    "y_pct": 20.7,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_003",
+   "startMs": 39151,
+   "endMs": 58621,
+   "new_image_reason": "character change: Jaleel has gone; Maura alone, rooted to the spot, full of questions",
+   "characters": [
+    "maura"
+   ],
+   "location": "the simple kitchen of Nafeesa's house on a small Maldivian local island: plain pale walls, a white sink under a small window, a small fridge with a box of tissues on top, a few pots and dishes on a wooden shelf, and a little open door looking out to the sunny sandy courtyard and the gate",
+   "location_key": "kitchen",
+   "mood": "noon, scorching tropical midday sunlight pouring through the small window and the open door, bright warm whites and gold, a hushed, charged tension",
+   "visual": "Maura in her white long-sleeved lace ankle-length dress and white hijab fully covering her hair and neck, a small white frangipani pinned at its side, standing alone and still by the sink, the folded tissues forgotten in one hand, the other hand resting on her chest, gazing at the empty sunlit doorway with a confused, tender, wondering expression",
+   "camera": "medium close-up, eye level, faces in the upper two-thirds, a calm uncluttered lower third (sink edge and floor in soft light)",
+   "image": "images/beat_003.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "island_house_day",
+   "shots": [
+    {
+     "id": "shot_005",
+     "startMs": 39151,
+     "endMs": 49711,
+     "narration_dhivehi": "ޖަލީލް ދިޔަތަން ބަލަން މައުރާއަށް ގަބުވެފައި ހުރެވުނީއެވެ. ހިތުގައި އުފެދިފައިވީ ސުވާލުތައް ހައްތަހާ ވީ ގިނައެވެ. ޖަލީލްގެ އެ ބަލައިލުމުން ބުނެދިނީ ކޮން ހަޤީޤަތެއް ހެއްޔެވެ؟",
+     "narration_english": "Maura stood rooted to the spot, watching Jaleel go. The questions that had formed in her heart were so many. What truth had that look of Jaleel's told her?",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_006",
+     "startMs": 49711,
+     "endMs": 58621,
+     "narration_dhivehi": "ބުނެދޭން ނޭނގޭފަދަ ގާތްކަމެއް އެ ނަޒަރުން މައުރާއަށް އިހުސާސްވީ ކީއްވެ ހެއްޔެވެ؟ އެ ގާތް ކަމަށް މައުރާގެ ޅަ ހިތް ދަހި ކުރުވީ ކީއްވެ ހެއްޔެވެ؟",
+     "narration_english": "Why did Maura feel an indescribable closeness in that gaze? Why did Maura's young heart long for that closeness?",
+     "crop": "tight",
+     "motion": "pan up",
+     "sfx": [
+      {
+       "name": "heartbeat",
+       "atMs": 56621,
+       "gainDb": -22,
+       "word": "ހިތް"
+      }
+     ],
+     "hum": true,
+     "crop_rect_pct": [
+      40.6,
+      29.6,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Maura), create a new scene: Cinematic semi-realistic digital illustration with a warm romantic-drama look, rich gold and amber tones, soft golden lamplight with deep velvety shadows, luminous warm tropical daylight, gentle film grain, soft bokeh, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, sand lane, table top, balcony railing in soft shadow) for captions and a logo; a small Maldivian local island of white sandy lanes, coral-stone walls, bougainvillea, palms and turquoise lagoon, and, in Malé, a wealthy family's dark modern home glowing with gold lamps and city lights.\nScene: Maura in her white long-sleeved lace ankle-length dress and white hijab fully covering her hair and neck, a small white frangipani pinned at its side, standing alone and still by the sink, the folded tissues forgotten in one hand, the other hand resting on her chest, gazing at the empty sunlit doorway with a confused, tender, wondering expression. Location: the simple kitchen of Nafeesa's house on a small Maldivian local island: plain pale walls, a white sink under a small window, a small fridge with a box of tissues on top, a few pots and dishes on a wooden shelf, and a little open door looking out to the sunny sandy courtyard and the gate. Camera: medium close-up, eye level, faces in the upper two-thirds, a calm uncluttered lower third (sink edge and floor in soft light).\nCharacters: Maura: a petite slim Maldivian young woman of about 22 with fair light warm-brown skin, a soft round innocent face, large bright dark eyes, gently arched eyebrows, a small nose and a shy sweet smile; wears a loose long-sleeved ankle-length white dress with delicate lace sleeves and a plain white hijab wrapped snugly and fully covering her hair and neck, with a small white frangipani flower pinned at the side of the hijab.\nMood/lighting: noon, scorching tropical midday sunlight pouring through the small window and the open door, bright warm whites and gold, a hushed, charged tension.\nModest Maldivian clothing (every woman and girl in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck; men in shirts and long trousers, never shirtless, never in a towel), a clear respectful distance between unrelated men and women, nobody touching, culturally respectful, no cigarettes, no smoking, no violence, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "black",
+    "bg_luminance": 0.637,
+    "halo": true
+   },
+   "focus": {
+    "x_pct": 83.2,
+    "y_pct": 76.6,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_004",
+   "startMs": 58621,
+   "endMs": 77592,
+   "new_image_reason": "scene change: night in Malé — Shaaliya sits down beside her mother-in-law Fauziyya on the cream sofa",
+   "characters": [
+    "shaaliya",
+    "fauziyya"
+   ],
+   "location": "Jaleel's dark, luxurious modern home high above Malé at night: a living room with floor-to-ceiling windows full of the city's night lights, gold lamps, black marble floor and walls, and a long cream sofa",
+   "location_key": "male_living",
+   "mood": "night, warm gold lamplight against deep velvety shadows, the glittering city lights beyond the glass, quiet and melancholic",
+   "visual": "Shaaliya in her black velvet long-sleeved dress with gold cuffs and deep-maroon hijab fully covering her hair and neck, sitting down on the cream sofa beside Fauziyya in her dark-green libaas, cream headscarf fully covering her hair and neck and gold-rimmed glasses; Fauziyya holds a small traditional red-and-black lacquered tray with betel leaves and areca nut resting on her knees; Shaaliya leans towards her with a polite, gentle smile, asking; the city lights glitter beyond the floor-to-ceiling windows",
+   "camera": "medium wide two-shot, eye level, faces in the upper two-thirds, a calm uncluttered lower third (black marble floor)",
+   "image": "images/beat_004.png",
+   "reuse_of": null,
+   "transition_in": "dissolve",
+   "sensitive": "other",
+   "safe_substitution": "the betel (dhufaa) tray is shown only as a small traditional lacquered tray with leaves",
+   "ambience": "mansion_night",
+   "shots": [
+    {
+     "id": "shot_007",
+     "startMs": 58621,
+     "endMs": 68812,
+     "narration_dhivehi": "ބަދިގެ ފަރާތުން ނިކުމެގެން އައި ޝާލިޔާއަށް ސޯފާގައި އިން ފައުޒިއްޔާ ފެނުނެވެ. ކޮޓަރިއަށް ދާން އުޅެފައިވެސް ޝާލިޔާ އެނބުރި އައިސް ފައުޒިއްޔާ ކައިރީގައި އިށީނެވެ.",
+     "narration_english": "Coming out from the direction of the kitchen, Shaaliya saw Fauziyya sitting on the sofa. Though she had been about to go to her room, Shaaliya turned back and sat down beside Fauziyya.",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [
+      {
+       "name": "cloth_rustle",
+       "atMs": 68202,
+       "gainDb": -24,
+       "word": "އިށީނެވެ."
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_008",
+     "startMs": 68812,
+     "endMs": 77592,
+     "narration_dhivehi": "\" މަންމަ ނުނިދަންތޯ އަދިވެސް....؟\" އަދަބުވެރިކަމާއިއެކު ޝާލިޔާ އަހައިލިއެވެ. \" ނޫނޭ... ދެން ދާންވީ... ކޮބާ ޖަލީލް ނުގުޅާތަ...؟\"",
+     "narration_english": "\"Mamma, aren't you going to sleep yet?\" Shaaliya asked politely. \"No... I'll go soon... So, hasn't Jaleel called?\"",
+     "crop": "tight",
+     "motion": "pan down",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      20.3,
+      4.8,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Shaaliya; reference image 2 is Fauziyya), create a new scene: Cinematic semi-realistic digital illustration with a warm romantic-drama look, rich gold and amber tones, soft golden lamplight with deep velvety shadows, luminous warm tropical daylight, gentle film grain, soft bokeh, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, sand lane, table top, balcony railing in soft shadow) for captions and a logo; a small Maldivian local island of white sandy lanes, coral-stone walls, bougainvillea, palms and turquoise lagoon, and, in Malé, a wealthy family's dark modern home glowing with gold lamps and city lights.\nScene: Shaaliya in her black velvet long-sleeved dress with gold cuffs and deep-maroon hijab fully covering her hair and neck, sitting down on the cream sofa beside Fauziyya in her dark-green libaas, cream headscarf fully covering her hair and neck and gold-rimmed glasses; Fauziyya holds a small traditional red-and-black lacquered tray with betel leaves and areca nut resting on her knees; Shaaliya leans towards her with a polite, gentle smile, asking; the city lights glitter beyond the floor-to-ceiling windows. Location: Jaleel's dark, luxurious modern home high above Malé at night: a living room with floor-to-ceiling windows full of the city's night lights, gold lamps, black marble floor and walls, and a long cream sofa. Camera: medium wide two-shot, eye level, faces in the upper two-thirds, a calm uncluttered lower third (black marble floor).\nCharacters: Shaaliya: a tall slender graceful Maldivian woman of about 26 with warm brown skin, an elegant oval face, large expressive dark eyes with long lashes, softly arched eyebrows and full lips; wears a loose long-sleeved ankle-length black velvet abaya-style dress with fine gold embroidery at the cuffs and a deep-maroon satin hijab wrapped snugly and fully covering her hair and neck. Fauziyya: a dignified slightly plump Maldivian woman of about 58 with warm brown skin, a round face with soft lines, calm dark eyes and small gold-rimmed reading glasses; wears a traditional loose long-sleeved ankle-length dark-green libaas-style dress with a gold-embroidered neckline and a cream headscarf fully covering her hair and neck.\nMood/lighting: night, warm gold lamplight against deep velvety shadows, the glittering city lights beyond the glass, quiet and melancholic.\nModest Maldivian clothing (every woman and girl in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck; men in shirts and long trousers, never shirtless, never in a towel), a clear respectful distance between unrelated men and women, nobody touching, culturally respectful, no cigarettes, no smoking, no violence, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.059,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 50.0,
+    "y_pct": 40.0,
+    "face_detected": false
+   }
+  },
+  {
+   "id": "beat_005",
+   "startMs": 77592,
+   "endMs": 99203,
+   "new_image_reason": "emotional turning point: at the question about Jaleel, Shaaliya's face falls and she forces a lie",
+   "characters": [
+    "shaaliya",
+    "fauziyya"
+   ],
+   "location": "Jaleel's dark, luxurious modern home high above Malé at night: a living room with floor-to-ceiling windows full of the city's night lights, gold lamps, black marble floor and walls, and a long cream sofa",
+   "location_key": "male_living",
+   "mood": "night, warm gold lamplight against deep velvety shadows, the glittering city lights beyond the glass, quiet and melancholic",
+   "visual": "close two-shot on the cream sofa: Shaaliya in her black velvet long-sleeved dress with gold cuffs and deep-maroon hijab fully covering her hair and neck in front, her face fallen, sad eyes cast down, forcing a small polite smile; beside her Fauziyya in her dark-green libaas, cream headscarf fully covering her hair and neck and gold-rimmed glasses looking down at the small lacquered tray on her knees, folding a betel leaf, not noticing",
+   "camera": "medium close-up two-shot, eye level, faces in the upper two-thirds, a calm uncluttered lower third (the lacquered tray and sofa cushion in soft shadow)",
+   "image": "images/beat_005.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "mansion_night",
+   "shots": [
+    {
+     "id": "shot_009",
+     "startMs": 77592,
+     "endMs": 89303,
+     "narration_dhivehi": "އާދައިގެ ގޮތަކަށް ފައުޒިއްޔާ އަހައިލިއެވެ. ފައުޒިއްޔާގެ އެ ސުވާލުން ޝާލިޔާގެ މޫނުމަތި މިލައިގެން ދިޔައެވެ. ނަމަވެސް ދުފާ ތަބައް އުނގަށް ލައިގެން އިން ފައުޒިއްޔާއަކަށް މިމަންޒަރެއް ނުފެނުނެވެ.",
+     "narration_english": "Fauziyya asked in an ordinary way. At that question Shaaliya's face fell. But Fauziyya, sitting with the betel tray on her knees, did not see it.",
+     "crop": "full",
+     "motion": "static drift",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_010",
+     "startMs": 89303,
+     "endMs": 99203,
+     "narration_dhivehi": "ފެނުނު ނަމަ ސުވާލުތަކެއް ފައުޒިއްޔާގެ ހިތުގައި އުފެދުނީހެވެ. \" ނޫން ގުޅާ ހަމަ... މަންމައަށް ސަލާމްވެސް ބުނި.....\" ޝާލިޔާއަށް ދޮގެއް ހަދަން މަޖުބޫރު ވިއެވެ.",
+     "narration_english": "Had she seen it, questions would have arisen in Fauziyya's heart. \"Yes, he calls... he even sent his salaam to Mamma...\" Shaaliya was forced to tell a lie.",
+     "crop": "tight",
+     "motion": "slow push-in",
+     "sfx": [
+      {
+       "name": "sigh",
+       "atMs": 98103,
+       "gainDb": -24,
+       "word": "މަޖުބޫރު"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      0.0,
+      0.0,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Shaaliya; reference image 2 is Fauziyya), create a new scene: Cinematic semi-realistic digital illustration with a warm romantic-drama look, rich gold and amber tones, soft golden lamplight with deep velvety shadows, luminous warm tropical daylight, gentle film grain, soft bokeh, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, sand lane, table top, balcony railing in soft shadow) for captions and a logo; a small Maldivian local island of white sandy lanes, coral-stone walls, bougainvillea, palms and turquoise lagoon, and, in Malé, a wealthy family's dark modern home glowing with gold lamps and city lights.\nScene: close two-shot on the cream sofa: Shaaliya in her black velvet long-sleeved dress with gold cuffs and deep-maroon hijab fully covering her hair and neck in front, her face fallen, sad eyes cast down, forcing a small polite smile; beside her Fauziyya in her dark-green libaas, cream headscarf fully covering her hair and neck and gold-rimmed glasses looking down at the small lacquered tray on her knees, folding a betel leaf, not noticing. Location: Jaleel's dark, luxurious modern home high above Malé at night: a living room with floor-to-ceiling windows full of the city's night lights, gold lamps, black marble floor and walls, and a long cream sofa. Camera: medium close-up two-shot, eye level, faces in the upper two-thirds, a calm uncluttered lower third (the lacquered tray and sofa cushion in soft shadow).\nCharacters: Shaaliya: a tall slender graceful Maldivian woman of about 26 with warm brown skin, an elegant oval face, large expressive dark eyes with long lashes, softly arched eyebrows and full lips; wears a loose long-sleeved ankle-length black velvet abaya-style dress with fine gold embroidery at the cuffs and a deep-maroon satin hijab wrapped snugly and fully covering her hair and neck. Fauziyya: a dignified slightly plump Maldivian woman of about 58 with warm brown skin, a round face with soft lines, calm dark eyes and small gold-rimmed reading glasses; wears a traditional loose long-sleeved ankle-length dark-green libaas-style dress with a gold-embroidered neckline and a cream headscarf fully covering her hair and neck.\nMood/lighting: night, warm gold lamplight against deep velvety shadows, the glittering city lights beyond the glass, quiet and melancholic.\nModest Maldivian clothing (every woman and girl in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck; men in shirts and long trousers, never shirtless, never in a towel), a clear respectful distance between unrelated men and women, nobody touching, culturally respectful, no cigarettes, no smoking, no violence, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.26,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 26.9,
+    "y_pct": 27.2,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_006",
+   "startMs": 99203,
+   "endMs": 137274,
+   "new_image_reason": "action change: alone, Shaaliya holds her silent phone — three days without a call; her unanswered love",
+   "characters": [
+    "shaaliya"
+   ],
+   "location": "Jaleel's dark, luxurious modern home high above Malé at night: a living room with floor-to-ceiling windows full of the city's night lights, gold lamps, black marble floor and walls, and a long cream sofa",
+   "location_key": "male_living",
+   "mood": "night, warm gold lamplight against deep velvety shadows, the glittering city lights beyond the glass, quiet and melancholic",
+   "visual": "Shaaliya in her black velvet long-sleeved dress with gold cuffs and deep-maroon hijab fully covering her hair and neck, standing alone at the floor-to-ceiling window of the dark living room, holding her phone against her chest with both hands, its screen dark, gazing out at Malé's night lights with quiet longing and hurt; her faint reflection in the glass",
+   "camera": "medium shot from slightly behind and to the side, eye level, faces in the upper two-thirds, a calm uncluttered lower third (black marble floor)",
+   "image": "images/beat_006.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "mansion_night",
+   "shots": [
+    {
+     "id": "shot_011",
+     "startMs": 99203,
+     "endMs": 107803,
+     "narration_dhivehi": "ޖަލީލް ރަށުން ބޭރަށް ދިޔަފަހުން ތިން ދުވަސް ވީ އިރު އެންމެ ފަހަރަކުވެސް ޝާލިޔާއަށް ގުޅައިނުލައެވެ. ޝާލިޔާ ގުޅައިލިޔަސް ފޯނުވެސް ނުނަގައެވެ.",
+     "narration_english": "In the three days since Jaleel left for the island, he had not called Shaaliya even once. Even when Shaaliya called, he would not pick up the phone.",
+     "crop": "full",
+     "motion": "pan left",
+     "sfx": [
+      {
+       "name": "phone_buzz",
+       "atMs": 105663,
+       "gainDb": -22,
+       "word": "ގުޅައިލިޔަސް"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_012",
+     "startMs": 107803,
+     "endMs": 121324,
+     "narration_dhivehi": "ހިތަށް އެއްޗެހި އެއްޗެހި އަރުވަން ބޭނުން ނުވިޔަސް އެކަމެއް ޝާލިޔާއަކަށް ނުވެއެވެ. ލޯތްބެއް ނެތި އާއިލާގެ އެދުމަށް ކުރެވުނު ކައިވެންޏަކަށް ވިޔަސް ޝާލިޔާގެ ހިތުގައި ޖަލީލްއަށްޓަކައި ވަނީ ލޯބީގެ ކުރިތައް ފަޅަން ފަށާފައެވެ.",
+     "narration_english": "Though she did not want thoughts running through her mind, Shaaliya could not help it. Even if it was a marriage made without love, at the family's wish, in Shaaliya's heart the buds of love for Jaleel had begun to bloom.",
+     "crop": "tight",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      17.1,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_013",
+     "startMs": 121324,
+     "endMs": 129454,
+     "narration_dhivehi": "ޖަލީލްގެ އެ ފަރުވާ ކުޑަ އަމަލުން ހިތްދަތި ކުރުވަނީ އެހެންވެއެވެ. ޖަލީލްގެ ހިތުގައިވެސް ޝާލިޔާއަށްޓަކައި ލޯބި އޮންނަން ޝާލިޔާ ބޭނުންވެއެވެ.",
+     "narration_english": "That is why Jaleel's careless behaviour hurts her. Shaaliya wants there to be love for her in Jaleel's heart too.",
+     "crop": "full",
+     "motion": "pan right",
+     "sfx": [],
+     "hum": true,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_014",
+     "startMs": 129454,
+     "endMs": 137274,
+     "narration_dhivehi": "އެންމެ ކުޑަމިނުން ޤަދަރުކުރަން ބޭނުން ވެއެވެ. ނަމަވެސް އެހެން އެކަން ނުވާނެކަންވެސް ޝާލިޔާއަށް މިއީ ރޭގަނޑު ފަދައިން ޔަޤީން ވެއެވެ.",
+     "narration_english": "At the very least she wants to be valued. But Shaaliya is as certain as the night that this will never happen.",
+     "crop": "medium",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      11.0,
+      0.0,
+      71.5,
+      84.7
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Shaaliya), create a new scene: Cinematic semi-realistic digital illustration with a warm romantic-drama look, rich gold and amber tones, soft golden lamplight with deep velvety shadows, luminous warm tropical daylight, gentle film grain, soft bokeh, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, sand lane, table top, balcony railing in soft shadow) for captions and a logo; a small Maldivian local island of white sandy lanes, coral-stone walls, bougainvillea, palms and turquoise lagoon, and, in Malé, a wealthy family's dark modern home glowing with gold lamps and city lights.\nScene: Shaaliya in her black velvet long-sleeved dress with gold cuffs and deep-maroon hijab fully covering her hair and neck, standing alone at the floor-to-ceiling window of the dark living room, holding her phone against her chest with both hands, its screen dark, gazing out at Malé's night lights with quiet longing and hurt; her faint reflection in the glass. Location: Jaleel's dark, luxurious modern home high above Malé at night: a living room with floor-to-ceiling windows full of the city's night lights, gold lamps, black marble floor and walls, and a long cream sofa. Camera: medium shot from slightly behind and to the side, eye level, faces in the upper two-thirds, a calm uncluttered lower third (black marble floor).\nCharacters: Shaaliya: a tall slender graceful Maldivian woman of about 26 with warm brown skin, an elegant oval face, large expressive dark eyes with long lashes, softly arched eyebrows and full lips; wears a loose long-sleeved ankle-length black velvet abaya-style dress with fine gold embroidery at the cuffs and a deep-maroon satin hijab wrapped snugly and fully covering her hair and neck.\nMood/lighting: night, warm gold lamplight against deep velvety shadows, the glittering city lights beyond the glass, quiet and melancholic.\nModest Maldivian clothing (every woman and girl in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck; men in shirts and long trousers, never shirtless, never in a towel), a clear respectful distance between unrelated men and women, nobody touching, culturally respectful, no cigarettes, no smoking, no violence, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.035,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 46.8,
+    "y_pct": 19.7,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_007",
+   "startMs": 137274,
+   "endMs": 162305,
+   "new_image_reason": "symbolic detail: the narration describes Jaleel's rigid principles, work, power and money (he is away)",
+   "characters": [],
+   "location": "a dark, luxurious modern home office in Jaleel's Malé home at night: a wide black marble desk with a gold desk lamp, a high-backed black leather chair, a closed slim laptop and neat folders with blank covers, floor-to-ceiling windows on Malé's city lights",
+   "location_key": "male_study",
+   "mood": "night, a single gold desk lamp, deep velvety shadows, cold city lights beyond the glass, empty, stern and lonely",
+   "visual": "Jaleel's empty home office at night: the high-backed black leather chair pushed in at the wide black marble desk, a gold desk lamp lighting a closed slim laptop, neat folders with blank covers and a gold fountain pen lying straight, the glittering city far below through the glass; no people",
+   "camera": "medium shot, eye level, the desk, chair and window in the upper two-thirds, the dark marble desk front as the calm lower third",
+   "image": "images/beat_007.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "mansion_night",
+   "shots": [
+    {
+     "id": "shot_015",
+     "startMs": 137274,
+     "endMs": 144044,
+     "narration_dhivehi": "ޖަލީލަކީ ހަރުކަށި އުސޫލުތަކެއް ގެންގުޅޭ ހަރުދަނާ މީހެކެވެ. މަސައްކަތުގައި އަބަދުމެ އަވަދިނެތި އުޅޭ މީހެކެވެ.",
+     "narration_english": "Jaleel is a firm man who keeps rigid principles, a man always tirelessly busy with his work.",
+     "crop": "full",
+     "motion": "pan up",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_016",
+     "startMs": 144044,
+     "endMs": 153395,
+     "narration_dhivehi": "ނުފޫޒާއި ބާރާއި ފައިސާ ޖަލީލްގެ އަތުގައި ވާފަދައިން އެ ހިތަށްވެސް ވަކި ކަހަލަ ގަވައިދުތަކެއް، ވަކި ކަހަލަ ސިފަތަކެއް ހާއްސަ ވަނީ ކަންނޭނގެއެވެ.",
+     "narration_english": "Perhaps, just as influence, power and money are in Jaleel's hands, his heart too has its own particular rules and its own particular nature.",
+     "crop": "tight",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      20.3,
+      4.8,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_017",
+     "startMs": 153395,
+     "endMs": 162305,
+     "narration_dhivehi": "ހަމަ ޔަގީނުންވެސް ޖަލީލްގެ ހަރު ހިތުގައި ލޯބީގެ ހުޅުކޮޅެއް ރޯ ކޮށްލެވޭ އަންހެން ކުއްޖާ ވާނީ ޔަޤީނުންވެސް ވަރަށް ހާއްސަ އިންސާނަކަށެވެ.",
+     "narration_english": "Surely the girl who can light a flame of love in Jaleel's hard heart would have to be a very special person.",
+     "crop": "full",
+     "motion": "pan down",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Cinematic semi-realistic digital illustration with a warm romantic-drama look, rich gold and amber tones, soft golden lamplight with deep velvety shadows, luminous warm tropical daylight, gentle film grain, soft bokeh, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, sand lane, table top, balcony railing in soft shadow) for captions and a logo; a small Maldivian local island of white sandy lanes, coral-stone walls, bougainvillea, palms and turquoise lagoon, and, in Malé, a wealthy family's dark modern home glowing with gold lamps and city lights.\nScene: Jaleel's empty home office at night: the high-backed black leather chair pushed in at the wide black marble desk, a gold desk lamp lighting a closed slim laptop, neat folders with blank covers and a gold fountain pen lying straight, the glittering city far below through the glass; no people. Location: a dark, luxurious modern home office in Jaleel's Malé home at night: a wide black marble desk with a gold desk lamp, a high-backed black leather chair, a closed slim laptop and neat folders with blank covers, floor-to-ceiling windows on Malé's city lights. Camera: medium shot, eye level, the desk, chair and window in the upper two-thirds, the dark marble desk front as the calm lower third.\nMood/lighting: night, a single gold desk lamp, deep velvety shadows, cold city lights beyond the glass, empty, stern and lonely.\nModest Maldivian clothing (every woman and girl in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck; men in shirts and long trousers, never shirtless, never in a towel), a clear respectful distance between unrelated men and women, nobody touching, culturally respectful, no cigarettes, no smoking, no violence, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.031,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 50.0,
+    "y_pct": 40.0,
+    "face_detected": false
+   }
+  },
+  {
+   "id": "beat_008",
+   "startMs": 162305,
+   "endMs": 186666,
+   "new_image_reason": "scene change: the island at night after Isha — Maura, bored and alone, steps out to her gate",
+   "characters": [
+    "maura"
+   ],
+   "location": "the front of Maura's family house on a small Maldivian local island at night: a two-storey house with pale onion-pink walls, a white gate (dhoraashi) in a coral-stone wall with magenta bougainvillea spilling over it, a sandy front yard with potted plants and a wooden joali seat, a white sandy lane lit by a streetlamp, palms, and further down the lane a small white mosque glowing softly",
+   "location_key": "gate",
+   "mood": "night after Isha, a full moon and stars, warm streetlamp glow on the sandy lane, a cool breeze stirring the bougainvillea, quiet and a little lonely",
+   "visual": "Maura in her white long-sleeved lace ankle-length dress and white hijab fully covering her hair and neck, a small white frangipani pinned at its side, standing at her open white gate under the bougainvillea, one hand on the gate post, looking down the moonlit sandy lane with a bored, slightly lonely face, the loose end of her white hijab stirring in the breeze while the hijab still fully covers her hair and neck; far down the lane a few men in shirts, sarongs and white skullcaps walk away from the softly lit small white mosque",
+   "camera": "medium wide shot, eye level, faces in the upper two-thirds, a calm uncluttered lower third (moonlit sandy lane)",
+   "image": "images/beat_008.png",
+   "reuse_of": null,
+   "transition_in": "dissolve",
+   "sensitive": "other",
+   "safe_substitution": "the Isha prayer is not shown, only men leaving the mosque far down the lane; her 'long curly hair in the wind' is the loose end of her hijab",
+   "ambience": "island_night",
+   "shots": [
+    {
+     "id": "shot_018",
+     "startMs": 162305,
+     "endMs": 170635,
+     "narration_dhivehi": "ގޭތެރޭގައި އިނދެ އިނދެ ފޫހިވެގެން މައުރާ ދޮރާށި ދޮށަށް ނިކުމެލިއެވެ. އޭރު އިޝާ ނަމާދުން ފައިބައިގެން މީހުންތައް މިސްކިތުން ދާތަން ފެނެއެވެ.",
+     "narration_english": "Bored of sitting inside the house, Maura stepped out to the gate. Just then she could see people coming out of the mosque after the Isha prayer.",
+     "crop": "full",
+     "motion": "static drift",
+     "sfx": [
+      {
+       "name": "door_open",
+       "atMs": 165485,
+       "gainDb": -22,
+       "word": "ނިކުމެލިއެވެ."
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_019",
+     "startMs": 170635,
+     "endMs": 180426,
+     "narration_dhivehi": "ޖެހިލާ ފިނި ފިނި ވައިރޯޅިތައް މައުރާގެ ދިގު ފަން އިސްތަށިގަނޑާއި ސަމާސާ ކޮށްލާފައި ދެއެވެ. ރަށަށް ބަދަލުވިތާ މާގިނަ ދުވަހެއް ނުވާތީ ރައްޓެއްސެއްވެސް މައުރާގެ ނެތެވެ.",
+     "narration_english": "The cool breezes kept playing with Maura's long curly hair. Since she had not been on the island many days, Maura had no friends yet.",
+     "crop": "tight",
+     "motion": "slow push-in",
+     "sfx": [
+      {
+       "name": "wind_gust",
+       "atMs": 171805,
+       "gainDb": -22,
+       "word": "ވައިރޯޅިތައް"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      0.2,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_020",
+     "startMs": 180426,
+     "endMs": 186666,
+     "narration_dhivehi": "ފައިގަ ރިއްސާތީ އުޅެއުޅެފައި ރީމާވެސް ކޮޓަރިއަށް ވަނުމުން މައުރާ މުޅިންހެން އެކަނިވީއެވެ.",
+     "narration_english": "And when Reema, whose legs were aching, also went into her room, Maura was left completely alone.",
+     "crop": "full",
+     "motion": "pan left",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Maura), create a new scene: Cinematic semi-realistic digital illustration with a warm romantic-drama look, rich gold and amber tones, soft golden lamplight with deep velvety shadows, luminous warm tropical daylight, gentle film grain, soft bokeh, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, sand lane, table top, balcony railing in soft shadow) for captions and a logo; a small Maldivian local island of white sandy lanes, coral-stone walls, bougainvillea, palms and turquoise lagoon, and, in Malé, a wealthy family's dark modern home glowing with gold lamps and city lights.\nScene: Maura in her white long-sleeved lace ankle-length dress and white hijab fully covering her hair and neck, a small white frangipani pinned at its side, standing at her open white gate under the bougainvillea, one hand on the gate post, looking down the moonlit sandy lane with a bored, slightly lonely face, the loose end of her white hijab stirring in the breeze while the hijab still fully covers her hair and neck; far down the lane a few men in shirts, sarongs and white skullcaps walk away from the softly lit small white mosque. Location: the front of Maura's family house on a small Maldivian local island at night: a two-storey house with pale onion-pink walls, a white gate (dhoraashi) in a coral-stone wall with magenta bougainvillea spilling over it, a sandy front yard with potted plants and a wooden joali seat, a white sandy lane lit by a streetlamp, palms, and further down the lane a small white mosque glowing softly. Camera: medium wide shot, eye level, faces in the upper two-thirds, a calm uncluttered lower third (moonlit sandy lane).\nCharacters: Maura: a petite slim Maldivian young woman of about 22 with fair light warm-brown skin, a soft round innocent face, large bright dark eyes, gently arched eyebrows, a small nose and a shy sweet smile; wears a loose long-sleeved ankle-length white dress with delicate lace sleeves and a plain white hijab wrapped snugly and fully covering her hair and neck, with a small white frangipani flower pinned at the side of the hijab.\nMood/lighting: night after Isha, a full moon and stars, warm streetlamp glow on the sandy lane, a cool breeze stirring the bougainvillea, quiet and a little lonely.\nModest Maldivian clothing (every woman and girl in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck; men in shirts and long trousers, never shirtless, never in a towel), a clear respectful distance between unrelated men and women, nobody touching, culturally respectful, no cigarettes, no smoking, no violence, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "black",
+    "bg_luminance": 0.692,
+    "halo": true
+   },
+   "focus": {
+    "x_pct": 29.9,
+    "y_pct": 31.7,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_009",
+   "startMs": 186666,
+   "endMs": 208137,
+   "new_image_reason": "scene change: she walks down to the empty beach under the full moon and stars",
+   "characters": [],
+   "location": "an empty white beach on a small Maldivian local island at night: traditional Maldivian joali seats (hanging seats of woven rope netting on a wooden frame) hung from the branches of leaning trees, a small open wooden beach pavilion (holhuashi) lit by a single white tube light, a calm lagoon and the open sea under a full moon, a sky full of stars",
+   "location_key": "beach",
+   "mood": "night, a brilliant full moon, silver-blue moonlight on white sand, a sky full of twinkling stars, the soft white glow of the pavilion's tube light, a cool sea breeze, tender, romantic and hushed",
+   "visual": "a wide view of the empty white beach at night under a huge full moon and a sky of twinkling stars, the moon's silver path on the calm sea, joali seats hanging under leaning trees, the small open pavilion glowing with its tube light; a small petite figure of a young woman in a long white dress and white hijab seen from behind, walking slowly across the white sand towards the joalis",
+   "camera": "wide establishing shot, eye level, the moon, sky and sea in the upper two-thirds, the smooth moonlit sand as the calm lower third",
+   "image": "images/beat_009.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "beach_night",
+   "shots": [
+    {
+     "id": "shot_021",
+     "startMs": 186666,
+     "endMs": 197846,
+     "narration_dhivehi": "އިރުކޮޅަކު ދޮރާށި ދޮށުގައި ހުރުމަށްފަހު އަތިރިމައްޗާއި ދިމާއަށް މައުރާ ހިނގައިގަތެވެ. ގެއާއި އަތިރިމަތި ފުދޭވަރަކަށް ކައިރިކަމުން ދެތިން މިނެޓުން ހިނގާލާފައި އަތިރި މައްޗަށް ފޭބުނެވެ.",
+     "narration_english": "After standing at the gate for a while, Maura began walking towards the beach. The house being close enough to the beach, after two or three minutes' walk she stepped down onto the sand.",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [
+      {
+       "name": "footsteps_sand",
+       "atMs": 190906,
+       "gainDb": -22,
+       "word": "ހިނގައިގަތެވެ."
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_022",
+     "startMs": 197846,
+     "endMs": 208137,
+     "narration_dhivehi": "މުޅި ހިސާބުގައިވެސް މީހެއްގެ ހިލަމެއް ނެތެވެ. ސާދަވިލޭރޭގެ ހަނދު އޭގެ ތަޙުތުގައި ރަނިކަން ކުރަން އިނެވެ. އޭގެ ވަށައިގެން އެ ރާނީގެ ހިދުމަތުގައި ވިދާ ބަބުޅަމުން ދިޔަ ތަރިތައް ވިއެވެ.",
+     "narration_english": "There was not a trace of anyone in the whole area. The moon of the fourteenth night sat reigning on its throne, and around it, in service to that queen, the stars twinkled brightly.",
+     "crop": "tight",
+     "motion": "pan right",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      40.6,
+      0.0,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Cinematic semi-realistic digital illustration with a warm romantic-drama look, rich gold and amber tones, soft golden lamplight with deep velvety shadows, luminous warm tropical daylight, gentle film grain, soft bokeh, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, sand lane, table top, balcony railing in soft shadow) for captions and a logo; a small Maldivian local island of white sandy lanes, coral-stone walls, bougainvillea, palms and turquoise lagoon, and, in Malé, a wealthy family's dark modern home glowing with gold lamps and city lights.\nScene: a wide view of the empty white beach at night under a huge full moon and a sky of twinkling stars, the moon's silver path on the calm sea, joali seats hanging under leaning trees, the small open pavilion glowing with its tube light; a small petite figure of a young woman in a long white dress and white hijab seen from behind, walking slowly across the white sand towards the joalis. Location: an empty white beach on a small Maldivian local island at night: traditional Maldivian joali seats (hanging seats of woven rope netting on a wooden frame) hung from the branches of leaning trees, a small open wooden beach pavilion (holhuashi) lit by a single white tube light, a calm lagoon and the open sea under a full moon, a sky full of stars. Camera: wide establishing shot, eye level, the moon, sky and sea in the upper two-thirds, the smooth moonlit sand as the calm lower third.\nMood/lighting: night, a brilliant full moon, silver-blue moonlight on white sand, a sky full of twinkling stars, the soft white glow of the pavilion's tube light, a cool sea breeze, tender, romantic and hushed.\nModest Maldivian clothing (every woman and girl in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck; men in shirts and long trousers, never shirtless, never in a towel), a clear respectful distance between unrelated men and women, nobody touching, culturally respectful, no cigarettes, no smoking, no violence, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.357,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 81.0,
+    "y_pct": 20.2,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_010",
+   "startMs": 208137,
+   "endMs": 229787,
+   "new_image_reason": "action change: Maura sits on a joali under a tree by the tube-lit pavilion, calmed by the breeze",
+   "characters": [
+    "maura"
+   ],
+   "location": "an empty white beach on a small Maldivian local island at night: traditional Maldivian joali seats (hanging seats of woven rope netting on a wooden frame) hung from the branches of leaning trees, a small open wooden beach pavilion (holhuashi) lit by a single white tube light, a calm lagoon and the open sea under a full moon, a sky full of stars",
+   "location_key": "beach",
+   "mood": "night, a brilliant full moon, silver-blue moonlight on white sand, a sky full of twinkling stars, the soft white glow of the pavilion's tube light, a cool sea breeze, tender, romantic and hushed",
+   "visual": "Maura in her white long-sleeved lace ankle-length dress and white hijab fully covering her hair and neck, a small white frangipani pinned at its side, sitting peacefully on a joali hung from a leaning tree, her hands folded in front of her, eyes half closed, a soft content smile as the sea breeze moves the loose end of her hijab; the small pavilion with its glowing tube light just behind her, the moonlit sea beyond",
+   "camera": "medium shot, eye level, faces in the upper two-thirds, a calm uncluttered lower third (moonlit sand under the joali)",
+   "image": "images/beat_010.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "beach_night",
+   "shots": [
+    {
+     "id": "shot_023",
+     "startMs": 208137,
+     "endMs": 220007,
+     "narration_dhivehi": "ޖެހެމުން ދިޔަ ފިނި ރޯޅިތަކުން މައުރާގެ ނަފްސަށް ހަމަޖެހުން ގެނެސްދެމުން ދިޔައެވެ. މަޑު ދޮންވެލިގަނޑު މަތީގައި ހިނގާލާފައި ގޮސް ރުކެއްގައި އެލުވާފައިވީ ޖޯއްޔެއްގައި މައުރާ އިށީނދެލިއެވެ.",
+     "narration_english": "The cool breezes kept bringing calm to Maura's soul. Walking on the soft white sand, Maura went and sat on a joali hung on a tree.",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [
+      {
+       "name": "wind_gust",
+       "atMs": 209427,
+       "gainDb": -24,
+       "word": "ރޯޅިތަކުން"
+      },
+      {
+       "name": "cloth_rustle",
+       "atMs": 219027,
+       "gainDb": -24,
+       "word": "އިށީނދެލިއެވެ."
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_024",
+     "startMs": 220007,
+     "endMs": 229787,
+     "narration_dhivehi": "ހޮޅުއަށި ކައިރީގައި ދިއްލާފައިވީ ހޮޅިބުރިން މުޅި ތަނަށް ވަނީ ފުދޭ ވަރެއްގެ އަލިކަމެއް ވެރިވެފައެވެ. މިސްކިތުން ނިކުމެގެން ގެސްޓު ހައުސް ހުންނަ މަގަށް އަޅަން",
+     "narration_english": "The tube light lit beside the beach pavilion spread just enough light over the whole place. Coming out of the mosque, as he was about to step onto the road where the guest house stands,",
+     "crop": "tight",
+     "motion": "pan up",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      20.3,
+      4.8,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Maura), create a new scene: Cinematic semi-realistic digital illustration with a warm romantic-drama look, rich gold and amber tones, soft golden lamplight with deep velvety shadows, luminous warm tropical daylight, gentle film grain, soft bokeh, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, sand lane, table top, balcony railing in soft shadow) for captions and a logo; a small Maldivian local island of white sandy lanes, coral-stone walls, bougainvillea, palms and turquoise lagoon, and, in Malé, a wealthy family's dark modern home glowing with gold lamps and city lights.\nScene: Maura in her white long-sleeved lace ankle-length dress and white hijab fully covering her hair and neck, a small white frangipani pinned at its side, sitting peacefully on a joali hung from a leaning tree, her hands folded in front of her, eyes half closed, a soft content smile as the sea breeze moves the loose end of her hijab; the small pavilion with its glowing tube light just behind her, the moonlit sea beyond. Location: an empty white beach on a small Maldivian local island at night: traditional Maldivian joali seats (hanging seats of woven rope netting on a wooden frame) hung from the branches of leaning trees, a small open wooden beach pavilion (holhuashi) lit by a single white tube light, a calm lagoon and the open sea under a full moon, a sky full of stars. Camera: medium shot, eye level, faces in the upper two-thirds, a calm uncluttered lower third (moonlit sand under the joali).\nCharacters: Maura: a petite slim Maldivian young woman of about 22 with fair light warm-brown skin, a soft round innocent face, large bright dark eyes, gently arched eyebrows, a small nose and a shy sweet smile; wears a loose long-sleeved ankle-length white dress with delicate lace sleeves and a plain white hijab wrapped snugly and fully covering her hair and neck, with a small white frangipani flower pinned at the side of the hijab.\nMood/lighting: night, a brilliant full moon, silver-blue moonlight on white sand, a sky full of twinkling stars, the soft white glow of the pavilion's tube light, a cool sea breeze, tender, romantic and hushed.\nModest Maldivian clothing (every woman and girl in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck; men in shirts and long trousers, never shirtless, never in a towel), a clear respectful distance between unrelated men and women, nobody touching, culturally respectful, no cigarettes, no smoking, no violence, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "black",
+    "bg_luminance": 0.631,
+    "halo": true
+   },
+   "focus": {
+    "x_pct": 50.0,
+    "y_pct": 40.0,
+    "face_detected": false
+   }
+  },
+  {
+   "id": "beat_011",
+   "startMs": 229787,
+   "endMs": 269649,
+   "new_image_reason": "character change: Jaleel, coming out of the mosque lane, recognises Maura from behind and slowly approaches",
+   "characters": [
+    "jaleel"
+   ],
+   "location": "the place where a white sandy island lane from the small white mosque opens onto an empty white beach at night, palms and coral-stone walls on one side, and beyond, the beach with traditional Maldivian joali seats (hanging seats of woven rope netting on a wooden frame) hung under leaning trees and a small open beach pavilion (holhuashi) lit by a single tube light",
+   "location_key": "beach_edge",
+   "mood": "night, a brilliant full moon, silver-blue moonlight on white sand, a sky full of twinkling stars, the soft white glow of the pavilion's tube light, a cool sea breeze, quiet and charged with wonder",
+   "visual": "Jaleel, NOT in a suit: a black long-sleeved shirt with the sleeves rolled up to the elbows and dark trousers, no jacket, no tie, a gold wristwatch, collar-length black hair swept back, standing where the sandy lane opens onto the beach, hands in his pockets, stopped mid-step and gazing towards the beach with quiet wonder and inner conflict on his stern face; far away across the sand a tiny figure of a young woman in white sits on a joali under a tree with her back to him, beside the small tube-lit pavilion; nobody else anywhere",
+   "camera": "medium shot from the side and slightly behind him, eye level, faces in the upper two-thirds, a calm uncluttered lower third (moonlit sand)",
+   "image": "images/beat_011.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "beach_night",
+   "shots": [
+    {
+     "id": "shot_025",
+     "startMs": 229787,
+     "endMs": 239928,
+     "narration_dhivehi": "އުޅެނިކޮށް އަތިރިމަތީގައި ހުރި ޖޯލީގައި އިން އަންހެން ކުއްޖާ ޖަލީލުގެ ލޮލުގައި އަޅައިގަތެވެ. ފުރަގަހުން ފެނުނު ކަމުގައިވިޔަސް އެއީ މައުރާކަން ޖަލީލަށް ޔަގީން ވިއެވެ.",
+     "narration_english": "the girl sitting on the joali on the beach caught Jaleel's eye. Even though he saw her only from behind, Jaleel was sure it was Maura.",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_026",
+     "startMs": 239928,
+     "endMs": 246778,
+     "narration_dhivehi": "މުޅި ހިސާބުގައިވެސް މީހެއް ފެންނަން ނެތުމުން ޖަލީލް މަޑުމަޑުން މައުރާއާއި ގާތަށް ފިޔަވަޅު ނަގަން ފެށީއެވެ.",
+     "narration_english": "As there was no one to be seen anywhere around, Jaleel slowly began to step closer to Maura.",
+     "crop": "tight",
+     "motion": "pan down",
+     "sfx": [
+      {
+       "name": "footsteps_sand",
+       "atMs": 245268,
+       "gainDb": -22,
+       "word": "ފިޔަވަޅު"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      20.3,
+      4.8,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_027",
+     "startMs": 246778,
+     "endMs": 254658,
+     "narration_dhivehi": "އެ އަންހެން ކުއްޖާގެ ގައިގާ ވަނީ ކޮންކަހަލަ ޖާދޫއެއް ކަމެއް ޖަލީލަކަށް ނޭނގުނެވެ. މިއީ ޖަލީލް ކުރިން އުޅުނު ގޮތެއް ނޫނެވެ.",
+     "narration_english": "Jaleel did not know what kind of magic that girl held. This was not the way Jaleel used to be.",
+     "crop": "full",
+     "motion": "static drift",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_028",
+     "startMs": 254658,
+     "endMs": 262108,
+     "narration_dhivehi": "އާވާރާއެއްހެން މަތިންބައިން އެއްވެސް މީހެއްގެ ގާތަށް އެއްވެސް ކަމަކު ދިޔުމަކީ ޖަލީލްގެ އުސޫލުތައް ތަން ދިން ކަމެއް ނޫނެވެ.",
+     "narration_english": "Going up to anyone on his own for anything, like some vagabond, was not something Jaleel's principles allowed.",
+     "crop": "medium",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      14.2,
+      0.0,
+      71.5,
+      84.7
+     ]
+    },
+    {
+     "id": "shot_029",
+     "startMs": 262108,
+     "endMs": 269649,
+     "narration_dhivehi": "ނަމަވެސް މައުރާއާއި ދިމާވާން ފެށިފަހުން އެ އުސޫލުތައް ވަނީ ކޮންތާކަށް ކަމެއް ހުދު ޖަލީލަކަށް ވެސް ނޭގުނެވެ. \" މައުރާ......\"",
+     "narration_english": "But ever since he began running into Maura, even Jaleel himself did not know where those principles had gone. \"Maura...\"",
+     "crop": "tight",
+     "motion": "pan left",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      20.3,
+      4.8,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Yoosuf Jaleel), create a new scene: Cinematic semi-realistic digital illustration with a warm romantic-drama look, rich gold and amber tones, soft golden lamplight with deep velvety shadows, luminous warm tropical daylight, gentle film grain, soft bokeh, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, sand lane, table top, balcony railing in soft shadow) for captions and a logo; a small Maldivian local island of white sandy lanes, coral-stone walls, bougainvillea, palms and turquoise lagoon, and, in Malé, a wealthy family's dark modern home glowing with gold lamps and city lights.\nScene: Jaleel, NOT in a suit: a black long-sleeved shirt with the sleeves rolled up to the elbows and dark trousers, no jacket, no tie, a gold wristwatch, collar-length black hair swept back, standing where the sandy lane opens onto the beach, hands in his pockets, stopped mid-step and gazing towards the beach with quiet wonder and inner conflict on his stern face; far away across the sand a tiny figure of a young woman in white sits on a joali under a tree with her back to him, beside the small tube-lit pavilion; nobody else anywhere. Location: the place where a white sandy island lane from the small white mosque opens onto an empty white beach at night, palms and coral-stone walls on one side, and beyond, the beach with traditional Maldivian joali seats (hanging seats of woven rope netting on a wooden frame) hung under leaning trees and a small open beach pavilion (holhuashi) lit by a single tube light. Camera: medium shot from the side and slightly behind him, eye level, faces in the upper two-thirds, a calm uncluttered lower third (moonlit sand).\nCharacters: Jaleel: a tall broad-shouldered athletic Maldivian man of 28 with wheatish warm-brown skin, a handsome strong face with a sharp defined jaw, intense dark eyes under straight heavy eyebrows, a neatly trimmed short black beard and thick slightly long black hair swept back to his collar; wears a tailored black suit over a crisp white long-sleeved shirt with a black tie, a white pocket square and a gold wristwatch.\nMood/lighting: night, a brilliant full moon, silver-blue moonlight on white sand, a sky full of twinkling stars, the soft white glow of the pavilion's tube light, a cool sea breeze, quiet and charged with wonder.\nModest Maldivian clothing (every woman and girl in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck; men in shirts and long trousers, never shirtless, never in a towel), a clear respectful distance between unrelated men and women, nobody touching, culturally respectful, no cigarettes, no smoking, no violence, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.302,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 50.0,
+    "y_pct": 40.0,
+    "face_detected": false
+   }
+  },
+  {
+   "id": "beat_012",
+   "startMs": 269649,
+   "endMs": 285949,
+   "new_image_reason": "action change: he calls her name; startled, she turns round on the joali",
+   "characters": [
+    "maura",
+    "jaleel"
+   ],
+   "location": "an empty white beach on a small Maldivian local island at night: traditional Maldivian joali seats (hanging seats of woven rope netting on a wooden frame) hung from the branches of leaning trees, a small open wooden beach pavilion (holhuashi) lit by a single white tube light, a calm lagoon and the open sea under a full moon, a sky full of stars",
+   "location_key": "beach",
+   "mood": "night, a brilliant full moon, silver-blue moonlight on white sand, a sky full of twinkling stars, the soft white glow of the pavilion's tube light, a cool sea breeze, tender, romantic and hushed",
+   "visual": "Maura in her white long-sleeved lace ankle-length dress and white hijab fully covering her hair and neck, a small white frangipani pinned at its side, sitting on the joali, turned round looking back over her shoulder, startled and shy, lips parted; Jaleel, NOT in a suit: a black long-sleeved shirt with the sleeves rolled up to the elbows and dark trousers, no jacket, no tie, a gold wristwatch, collar-length black hair swept back, standing on the sand a few steps behind her joali, hands in his pockets, looking at her; a clear arm's-length gap between them, they do not touch",
+   "camera": "medium two-shot, eye level, faces in the upper two-thirds, a calm uncluttered lower third (moonlit sand)",
+   "image": "images/beat_012.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": "other",
+   "safe_substitution": "two non-mahram young people alone on a beach at night: a clear distance between them, no contact",
+   "ambience": "beach_night",
+   "shots": [
+    {
+     "id": "shot_030",
+     "startMs": 269649,
+     "endMs": 278939,
+     "narration_dhivehi": "މައުރާގެ ފަހަތުގައި ހުއްޓިލަމުން ޖަލީލް ގޮވައިލިއެވެ. ސިހިފައި މައުރާ ފަހަތަށް އެނބުރި ބަލައިލިއެވެ. \" ލައްބަ.... \" އަދަބުވެރިކަމާއިއެކު މައުރާ ބުނެލިއެވެ.",
+     "narration_english": "Jaleel called, stopping behind Maura. Startled, Maura turned and looked back. \"Yes...\" Maura answered politely.",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [
+      {
+       "name": "gasp",
+       "atMs": 273149,
+       "gainDb": -20,
+       "word": "ސިހިފައި"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_031",
+     "startMs": 278939,
+     "endMs": 285949,
+     "narration_dhivehi": "\" މިތާ ކީއްކުރަނީ....؟\" ބޭ އިޚުތިޔާރުގައި ޖަލީލަށް އަހައިލެވުނެވެ. \"މިތާ ހަމަ އިނީ... \" މައުރާ ބުނެލިއެވެ.",
+     "narration_english": "\"What are you doing here...?\" Jaleel could not help asking. \"Just sitting here...\" Maura said.",
+     "crop": "tight",
+     "motion": "pan right",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      3.1,
+      6.0,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Maura; reference image 2 is Yoosuf Jaleel), create a new scene: Cinematic semi-realistic digital illustration with a warm romantic-drama look, rich gold and amber tones, soft golden lamplight with deep velvety shadows, luminous warm tropical daylight, gentle film grain, soft bokeh, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, sand lane, table top, balcony railing in soft shadow) for captions and a logo; a small Maldivian local island of white sandy lanes, coral-stone walls, bougainvillea, palms and turquoise lagoon, and, in Malé, a wealthy family's dark modern home glowing with gold lamps and city lights.\nScene: Maura in her white long-sleeved lace ankle-length dress and white hijab fully covering her hair and neck, a small white frangipani pinned at its side, sitting on the joali, turned round looking back over her shoulder, startled and shy, lips parted; Jaleel, NOT in a suit: a black long-sleeved shirt with the sleeves rolled up to the elbows and dark trousers, no jacket, no tie, a gold wristwatch, collar-length black hair swept back, standing on the sand a few steps behind her joali, hands in his pockets, looking at her; a clear arm's-length gap between them, they do not touch. Location: an empty white beach on a small Maldivian local island at night: traditional Maldivian joali seats (hanging seats of woven rope netting on a wooden frame) hung from the branches of leaning trees, a small open wooden beach pavilion (holhuashi) lit by a single white tube light, a calm lagoon and the open sea under a full moon, a sky full of stars. Camera: medium two-shot, eye level, faces in the upper two-thirds, a calm uncluttered lower third (moonlit sand).\nCharacters: Maura: a petite slim Maldivian young woman of about 22 with fair light warm-brown skin, a soft round innocent face, large bright dark eyes, gently arched eyebrows, a small nose and a shy sweet smile; wears a loose long-sleeved ankle-length white dress with delicate lace sleeves and a plain white hijab wrapped snugly and fully covering her hair and neck, with a small white frangipani flower pinned at the side of the hijab. Jaleel: a tall broad-shouldered athletic Maldivian man of 28 with wheatish warm-brown skin, a handsome strong face with a sharp defined jaw, intense dark eyes under straight heavy eyebrows, a neatly trimmed short black beard and thick slightly long black hair swept back to his collar; wears a tailored black suit over a crisp white long-sleeved shirt with a black tie, a white pocket square and a gold wristwatch.\nMood/lighting: night, a brilliant full moon, silver-blue moonlight on white sand, a sky full of twinkling stars, the soft white glow of the pavilion's tube light, a cool sea breeze, tender, romantic and hushed.\nModest Maldivian clothing (every woman and girl in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck; men in shirts and long trousers, never shirtless, never in a towel), a clear respectful distance between unrelated men and women, nobody touching, culturally respectful, no cigarettes, no smoking, no violence, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "black",
+    "bg_luminance": 0.672,
+    "halo": true
+   },
+   "focus": {
+    "x_pct": 32.8,
+    "y_pct": 41.2,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_013",
+   "startMs": 285949,
+   "endMs": 314830,
+   "new_image_reason": "action change: Jaleel sits on another joali a little apart and asks question after question",
+   "characters": [
+    "jaleel",
+    "maura"
+   ],
+   "location": "an empty white beach on a small Maldivian local island at night: traditional Maldivian joali seats (hanging seats of woven rope netting on a wooden frame) hung from the branches of leaning trees, a small open wooden beach pavilion (holhuashi) lit by a single white tube light, a calm lagoon and the open sea under a full moon, a sky full of stars",
+   "location_key": "beach",
+   "mood": "night, a brilliant full moon, silver-blue moonlight on white sand, a sky full of twinkling stars, the soft white glow of the pavilion's tube light, a cool sea breeze, tender, romantic and hushed",
+   "visual": "two separate joalis hung from two different trees with a clear gap of about two metres between them: Jaleel, NOT in a suit: a black long-sleeved shirt with the sleeves rolled up to the elbows and dark trousers, no jacket, no tie, a gold wristwatch, collar-length black hair swept back (IMPORTANT: he wears only the plain black shirt with rolled sleeves — absolutely no suit jacket, no tie, no white shirt), sitting on one, leaning forward slightly towards her with his forearms on his knees, asking; Maura in her white long-sleeved lace ankle-length dress and white hijab fully covering her hair and neck, a small white frangipani pinned at its side, sitting on the other, looking down with a shy sweet smile; the tube-lit pavilion and the moonlit sea behind; a clear arm's-length gap between them, they do not touch",
+   "camera": "medium wide two-shot, eye level, faces in the upper two-thirds, a calm uncluttered lower third (moonlit sand between the joalis)",
+   "image": "images/beat_013.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "beach_night",
+   "shots": [
+    {
+     "id": "shot_032",
+     "startMs": 285949,
+     "endMs": 294189,
+     "narration_dhivehi": "މައުރާއާއި ތަންކޮޅެއް ދުރުގައި އިން ޖޯލީގައި ޖަލީލް އިށީނދެލިއެވެ. \" ކީއްވެ އެކަނި...؟\" ސުވާލަކަށްފަހު ސުވާލެއް ޖަލީލް ކުރަމުން ދިޔައެވެ.",
+     "narration_english": "Jaleel sat down on a joali a little away from Maura. \"Why alone...?\" Jaleel went on asking question after question.",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [
+      {
+       "name": "cloth_rustle",
+       "atMs": 289309,
+       "gainDb": -24,
+       "word": "އިށީނދެލިއެވެ."
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_033",
+     "startMs": 294189,
+     "endMs": 305530,
+     "narration_dhivehi": "ނަމަވެސް އުނދަގޫ ވުމުގެ ބަދަލުގައި އެކަމުން މައުރާގެ ހިތަށް ފޮނިކަމެއް ލިބެމުން ދިޔައެވެ. ކުރިމަތީގައި އިން ޒުވާން ފިރިހެންވަންތަ ފިރިހެނާގެ ސިފަތައް މައުރާއަށް ކަމުދާން ފެށިއެވެ.",
+     "narration_english": "But instead of being bothered, it brought a sweetness to Maura's heart. Maura began to like the qualities of the young, manly man sitting before her.",
+     "crop": "tight",
+     "motion": "pan up",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      0.0,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_034",
+     "startMs": 305530,
+     "endMs": 314830,
+     "narration_dhivehi": "އެހެން ފިރިހެނުން ހުންނަ ފަދަ ޅަ ގޮތްގަނޑެއް ޖަލީލްގެ ގައިގައެއް ނެތެވެ. ކޮންމެ ހަރަކާތެއްގައިމެ ވަނީ ހަރު ގޮތްގަނޑެވެ. ފިރިހެންވަންތަ ކަމުގެވެސް އިންތިހާއެވެ.",
+     "narration_english": "Jaleel had none of the boyish ways other men have. Every movement carried firmness. Manliness at its very height.",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Yoosuf Jaleel; reference image 2 is Maura), create a new scene: Cinematic semi-realistic digital illustration with a warm romantic-drama look, rich gold and amber tones, soft golden lamplight with deep velvety shadows, luminous warm tropical daylight, gentle film grain, soft bokeh, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, sand lane, table top, balcony railing in soft shadow) for captions and a logo; a small Maldivian local island of white sandy lanes, coral-stone walls, bougainvillea, palms and turquoise lagoon, and, in Malé, a wealthy family's dark modern home glowing with gold lamps and city lights.\nScene: two separate joalis hung from two different trees with a clear gap of about two metres between them: Jaleel, NOT in a suit: a black long-sleeved shirt with the sleeves rolled up to the elbows and dark trousers, no jacket, no tie, a gold wristwatch, collar-length black hair swept back (IMPORTANT: he wears only the plain black shirt with rolled sleeves — absolutely no suit jacket, no tie, no white shirt), sitting on one, leaning forward slightly towards her with his forearms on his knees, asking; Maura in her white long-sleeved lace ankle-length dress and white hijab fully covering her hair and neck, a small white frangipani pinned at its side, sitting on the other, looking down with a shy sweet smile; the tube-lit pavilion and the moonlit sea behind; a clear arm's-length gap between them, they do not touch. Location: an empty white beach on a small Maldivian local island at night: traditional Maldivian joali seats (hanging seats of woven rope netting on a wooden frame) hung from the branches of leaning trees, a small open wooden beach pavilion (holhuashi) lit by a single white tube light, a calm lagoon and the open sea under a full moon, a sky full of stars. Camera: medium wide two-shot, eye level, faces in the upper two-thirds, a calm uncluttered lower third (moonlit sand between the joalis).\nCharacters: Jaleel: a tall broad-shouldered athletic Maldivian man of 28 with wheatish warm-brown skin, a handsome strong face with a sharp defined jaw, intense dark eyes under straight heavy eyebrows, a neatly trimmed short black beard and thick slightly long black hair swept back to his collar; wears a tailored black suit over a crisp white long-sleeved shirt with a black tie, a white pocket square and a gold wristwatch. Maura: a petite slim Maldivian young woman of about 22 with fair light warm-brown skin, a soft round innocent face, large bright dark eyes, gently arched eyebrows, a small nose and a shy sweet smile; wears a loose long-sleeved ankle-length white dress with delicate lace sleeves and a plain white hijab wrapped snugly and fully covering her hair and neck, with a small white frangipani flower pinned at the side of the hijab.\nMood/lighting: night, a brilliant full moon, silver-blue moonlight on white sand, a sky full of twinkling stars, the soft white glow of the pavilion's tube light, a cool sea breeze, tender, romantic and hushed.\nModest Maldivian clothing (every woman and girl in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck; men in shirts and long trousers, never shirtless, never in a towel), a clear respectful distance between unrelated men and women, nobody touching, culturally respectful, no cigarettes, no smoking, no violence, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.372,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 27.7,
+    "y_pct": 35.2,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_014",
+   "startMs": 314830,
+   "endMs": 341971,
+   "new_image_reason": "framing change: Maura's view of Jaleel — his firm, manly presence in the moonlight",
+   "characters": [
+    "jaleel"
+   ],
+   "location": "an empty white beach on a small Maldivian local island at night: traditional Maldivian joali seats (hanging seats of woven rope netting on a wooden frame) hung from the branches of leaning trees, a small open wooden beach pavilion (holhuashi) lit by a single white tube light, a calm lagoon and the open sea under a full moon, a sky full of stars",
+   "location_key": "beach",
+   "mood": "night, a brilliant full moon, silver-blue moonlight on white sand, a sky full of twinkling stars, the soft white glow of the pavilion's tube light, a cool sea breeze, tender, romantic and hushed",
+   "visual": "Jaleel, NOT in a suit: a black long-sleeved shirt with the sleeves rolled up to the elbows and dark trousers, no jacket, no tie, a gold wristwatch, collar-length black hair swept back, sitting on his joali in the moonlight, seen in three-quarter view, his black sleeves rolled to the elbows, collar-length black hair swept back and stirred by the breeze, a neatly trimmed beard, a calm, firm, serious face looking towards the side of the frame; fully dressed",
+   "camera": "medium close-up, eye level, faces in the upper two-thirds, a calm uncluttered lower third (his folded hands and the joali netting in soft shadow)",
+   "image": "images/beat_014.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": "other",
+   "safe_substitution": "her admiration of his body and scent is shown only as a close-up of his face and rolled sleeves, fully dressed",
+   "ambience": "beach_night",
+   "shots": [
+    {
+     "id": "shot_035",
+     "startMs": 314830,
+     "endMs": 327251,
+     "narration_dhivehi": "ހަށިގަނޑަށް ބެލިޔަސް ކަސްރަތީވެފައި ވަރުގަދަ ކަމަށް ދައްކައެވެ. ގަމީހުގެ ގިރުވާން ކިރިޔާ ފޮރުވޭ ވަރުގެ ކަޅު ދިގު އިސްތަށިގަނޑާއި ހަމުގައި ހުރި މާ ދޮން ނޫން އަދި މާ ކަޅު ނޫން ކުލަވެސް މައުރާގެ ހިތުގައި އަޅައިގަތެވެ.",
+     "narration_english": "Even his build looked fit and strong. His long black hair, just long enough to hide his shirt collar, and his beard, neither too light nor too dark, struck Maura's heart.",
+     "crop": "full",
+     "motion": "pan down",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_036",
+     "startMs": 327251,
+     "endMs": 334821,
+     "narration_dhivehi": "ލައިގެން ހުރި ކަޅު ކުލައިގެ އަތްދިގު ގަމީސް އުޅަނބޯއްޓާއި ހަމައަށް އޮޅާލާފައި ވީއިރު އިތުރަށް ހިތްގައިމު ކަމަށް ދައްކައެވެ.",
+     "narration_english": "The long-sleeved black shirt he wore, rolled up to the elbows, made him look even more attractive.",
+     "crop": "tight",
+     "motion": "static drift",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      13.2,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_037",
+     "startMs": 334821,
+     "endMs": 341971,
+     "narration_dhivehi": "ޖެހެމުން ދިޔަ ވައިރޯޅިތައް ޖަލީލްގެ ފިރިހެންވަންތަ ވަސް މައުރާއާއި ހަމައަށް ގެނެސް ދިނުމުގައި ކުރި ހޯދަމުން ދިޔައެވެ.",
+     "narration_english": "The passing breezes succeeded in carrying Jaleel's manly scent to Maura.",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [
+      {
+       "name": "wind_gust",
+       "atMs": 335531,
+       "gainDb": -24,
+       "word": "ވައިރޯޅިތައް"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Yoosuf Jaleel), create a new scene: Cinematic semi-realistic digital illustration with a warm romantic-drama look, rich gold and amber tones, soft golden lamplight with deep velvety shadows, luminous warm tropical daylight, gentle film grain, soft bokeh, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, sand lane, table top, balcony railing in soft shadow) for captions and a logo; a small Maldivian local island of white sandy lanes, coral-stone walls, bougainvillea, palms and turquoise lagoon, and, in Malé, a wealthy family's dark modern home glowing with gold lamps and city lights.\nScene: Jaleel, NOT in a suit: a black long-sleeved shirt with the sleeves rolled up to the elbows and dark trousers, no jacket, no tie, a gold wristwatch, collar-length black hair swept back, sitting on his joali in the moonlight, seen in three-quarter view, his black sleeves rolled to the elbows, collar-length black hair swept back and stirred by the breeze, a neatly trimmed beard, a calm, firm, serious face looking towards the side of the frame; fully dressed. Location: an empty white beach on a small Maldivian local island at night: traditional Maldivian joali seats (hanging seats of woven rope netting on a wooden frame) hung from the branches of leaning trees, a small open wooden beach pavilion (holhuashi) lit by a single white tube light, a calm lagoon and the open sea under a full moon, a sky full of stars. Camera: medium close-up, eye level, faces in the upper two-thirds, a calm uncluttered lower third (his folded hands and the joali netting in soft shadow).\nCharacters: Jaleel: a tall broad-shouldered athletic Maldivian man of 28 with wheatish warm-brown skin, a handsome strong face with a sharp defined jaw, intense dark eyes under straight heavy eyebrows, a neatly trimmed short black beard and thick slightly long black hair swept back to his collar; wears a tailored black suit over a crisp white long-sleeved shirt with a black tie, a white pocket square and a gold wristwatch.\nMood/lighting: night, a brilliant full moon, silver-blue moonlight on white sand, a sky full of twinkling stars, the soft white glow of the pavilion's tube light, a cool sea breeze, tender, romantic and hushed.\nModest Maldivian clothing (every woman and girl in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck; men in shirts and long trousers, never shirtless, never in a towel), a clear respectful distance between unrelated men and women, nobody touching, culturally respectful, no cigarettes, no smoking, no violence, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.075,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 42.9,
+    "y_pct": 27.5,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_015",
+   "startMs": 341971,
+   "endMs": 376992,
+   "new_image_reason": "back to the two of them talking on their joalis",
+   "characters": [
+    "jaleel",
+    "maura"
+   ],
+   "location": "an empty white beach on a small Maldivian local island at night: traditional Maldivian joali seats (hanging seats of woven rope netting on a wooden frame) hung from the branches of leaning trees, a small open wooden beach pavilion (holhuashi) lit by a single white tube light, a calm lagoon and the open sea under a full moon, a sky full of stars",
+   "location_key": "beach",
+   "mood": "night, a brilliant full moon, silver-blue moonlight on white sand, a sky full of twinkling stars, the soft white glow of the pavilion's tube light, a cool sea breeze, tender, romantic and hushed",
+   "visual": "reuse of beat_013",
+   "camera": "medium shot, eye level",
+   "image": "images/beat_013.png",
+   "reuse_of": "beat_013",
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "beach_night",
+   "shots": [
+    {
+     "id": "shot_038",
+     "startMs": 341971,
+     "endMs": 351331,
+     "narration_dhivehi": "ބުނެދޭން ނޭނގޭ ފަދަ އާލަމަށް މައުރާއަށް ދަތުރު ކުރެވެމުން ދިޔަ ކަމުގެ އިހުސާސް ކުރެވެމުން ދިޔައެވެ. \" ދެން ހަމަ އިނީ... އަދި ރައްޓެއްސެއްވެސް ނެތީމަ...\"",
+     "narration_english": "Maura felt as though she were travelling into an indescribable world. \"I'm just sitting... since I don't have any friends yet...\"",
+     "crop": "tight",
+     "motion": "pan left",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      0.0,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_039",
+     "startMs": 351331,
+     "endMs": 361072,
+     "narration_dhivehi": "މައުރާ ބުނެލިއެވެ. \" އެއީ ކީއްވެ... ތިއީ މިރަށު ކުއްޖެއް ނޫންތަ....؟\" މައުރާއާއި ބެހޭ ގޮތުން އެނގުމަށް ޖަލީލްގެ ހިތް އިތުރަށް ޝައުގުވެރިކަން ފާޅު ކޮށްލިއެވެ.",
+     "narration_english": "Maura said. \"Why is that... aren't you from this island...?\" Jaleel's heart grew even more eager to know about Maura.",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_040",
+     "startMs": 361072,
+     "endMs": 367732,
+     "narration_dhivehi": "އެ އަންހެން ކުއްޖާ ޖަލީލަށް ޖައްސަމުން ދަނީ ކޮންފަދަ ސިހުރެއް ކަމެއްވެސް ނޭނގެއެވެ. \" ނޫން މިއީ މިރަށު ކުއްޖެއް....",
+     "narration_english": "He did not even know what kind of spell that girl was casting on him. \"No, I am from this island...",
+     "crop": "medium",
+     "motion": "pan right",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      0.0,
+      0.0,
+      71.5,
+      84.7
+     ]
+    },
+    {
+     "id": "shot_041",
+     "startMs": 367732,
+     "endMs": 376992,
+     "narration_dhivehi": "އެކަމަކު ކިޔަވަން މާލޭގަ ހުރެފަ ދެ ދުވަސް މިވީ އަދި ރަށަށް އައި ފަހުން... އެހެންވެ....\" މައުރާ މަޑުމައިތިރި ކަމާއިއެކުގައި ބުނެލިއެވެ. \" އެހެންތަ...؟",
+     "narration_english": "But I was in Malé studying, and it's only been two days since I came back to the island... that's why...\" Maura said softly and modestly. \"Is that so...?",
+     "crop": "tight",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      0.0,
+      0.0,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [],
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.346,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 27.7,
+    "y_pct": 35.2,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_016",
+   "startMs": 376992,
+   "endMs": 398993,
+   "new_image_reason": "emotional turning point: 'Business...' — their eyes meet and an unspoken current passes between them",
+   "characters": [
+    "maura",
+    "jaleel"
+   ],
+   "location": "an empty white beach on a small Maldivian local island at night: traditional Maldivian joali seats (hanging seats of woven rope netting on a wooden frame) hung from the branches of leaning trees, a small open wooden beach pavilion (holhuashi) lit by a single white tube light, a calm lagoon and the open sea under a full moon, a sky full of stars",
+   "location_key": "beach",
+   "mood": "night, a brilliant full moon, silver-blue moonlight on white sand, a sky full of twinkling stars, the soft white glow of the pavilion's tube light, a cool sea breeze, tender, romantic and hushed",
+   "visual": "side view of the two BOTH SITTING on their own separate joalis hung from two different trees, nobody standing, turned towards each other, their eyes meeting; Maura in her white long-sleeved lace ankle-length dress and white hijab fully covering her hair and neck, a small white frangipani pinned at its side, sitting, looking up at him with a shy, luminous look; Jaleel, NOT in a suit: a black long-sleeved shirt with the sleeves rolled up to the elbows and dark trousers, no jacket, no tie, a gold wristwatch, collar-length black hair swept back, gazing back with a rare softness in his stern face; the full moon over the sea fills the gap of about two metres between them; a clear arm's-length gap between them, they do not touch",
+   "camera": "medium two-shot in profile, eye level, faces in the upper two-thirds, a calm uncluttered lower third (moonlit sand)",
+   "image": "images/beat_016.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "beach_night",
+   "shots": [
+    {
+     "id": "shot_042",
+     "startMs": 376992,
+     "endMs": 384372,
+     "narration_dhivehi": "ކޮން އެއްޗެއް ކިޔެވީ....؟\" ޖަލީލް އަހައިލިއެވެ. \" ބިޒްނަސް.....\" ޖަލީލްއާއި ހަތަރުކަޅި ހަމަކޮށްލަމުން މައުރާ ބުނެލިއެވެ.",
+     "narration_english": "What did you study...?\" Jaleel asked. \"Business...\" Maura said, meeting Jaleel's eyes.",
+     "crop": "full",
+     "motion": "pan up",
+     "sfx": [
+      {
+       "name": "heartbeat",
+       "atMs": 381932,
+       "gainDb": -22,
+       "word": "ހަތަރުކަޅި"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_043",
+     "startMs": 384372,
+     "endMs": 398993,
+     "narration_dhivehi": "ބުނެދޭން ނޭނގޭ ފަދަ އޮއެވަރެއް ދެމީހުންގެ ދެމެދުގައި ދަތުރުކޮށްލިއެވެ. އެ ހިތްގައިމު މާހައުލާއި އެ ރީތި ހަނދުވަރާއި ޖެހެމުން ދިޔަ ނަލަނަލަ ވައިރޯޅިތައް ދެމީހުންގެ ހިތުގެ އަޑު އެއް އަޑަކަށް ހަދައި ދިނުމުގައި ކުރި ހޯދަމުން ދިޔައެވެ.",
+     "narration_english": "An indescribable current passed between the two of them. That lovely setting, that beautiful moonlight and the gentle passing breezes made the sound of their two hearts one.",
+     "crop": "tight",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": true,
+     "crop_rect_pct": [
+      0.0,
+      15.7,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Maura; reference image 2 is Yoosuf Jaleel), create a new scene: Cinematic semi-realistic digital illustration with a warm romantic-drama look, rich gold and amber tones, soft golden lamplight with deep velvety shadows, luminous warm tropical daylight, gentle film grain, soft bokeh, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, sand lane, table top, balcony railing in soft shadow) for captions and a logo; a small Maldivian local island of white sandy lanes, coral-stone walls, bougainvillea, palms and turquoise lagoon, and, in Malé, a wealthy family's dark modern home glowing with gold lamps and city lights.\nScene: side view of the two BOTH SITTING on their own separate joalis hung from two different trees, nobody standing, turned towards each other, their eyes meeting; Maura in her white long-sleeved lace ankle-length dress and white hijab fully covering her hair and neck, a small white frangipani pinned at its side, sitting, looking up at him with a shy, luminous look; Jaleel, NOT in a suit: a black long-sleeved shirt with the sleeves rolled up to the elbows and dark trousers, no jacket, no tie, a gold wristwatch, collar-length black hair swept back, gazing back with a rare softness in his stern face; the full moon over the sea fills the gap of about two metres between them; a clear arm's-length gap between them, they do not touch. Location: an empty white beach on a small Maldivian local island at night: traditional Maldivian joali seats (hanging seats of woven rope netting on a wooden frame) hung from the branches of leaning trees, a small open wooden beach pavilion (holhuashi) lit by a single white tube light, a calm lagoon and the open sea under a full moon, a sky full of stars. Camera: medium two-shot in profile, eye level, faces in the upper two-thirds, a calm uncluttered lower third (moonlit sand).\nCharacters: Maura: a petite slim Maldivian young woman of about 22 with fair light warm-brown skin, a soft round innocent face, large bright dark eyes, gently arched eyebrows, a small nose and a shy sweet smile; wears a loose long-sleeved ankle-length white dress with delicate lace sleeves and a plain white hijab wrapped snugly and fully covering her hair and neck, with a small white frangipani flower pinned at the side of the hijab. Jaleel: a tall broad-shouldered athletic Maldivian man of 28 with wheatish warm-brown skin, a handsome strong face with a sharp defined jaw, intense dark eyes under straight heavy eyebrows, a neatly trimmed short black beard and thick slightly long black hair swept back to his collar; wears a tailored black suit over a crisp white long-sleeved shirt with a black tie, a white pocket square and a gold wristwatch.\nMood/lighting: night, a brilliant full moon, silver-blue moonlight on white sand, a sky full of twinkling stars, the soft white glow of the pavilion's tube light, a cool sea breeze, tender, romantic and hushed.\nModest Maldivian clothing (every woman and girl in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck; men in shirts and long trousers, never shirtless, never in a towel), a clear respectful distance between unrelated men and women, nobody touching, culturally respectful, no cigarettes, no smoking, no violence, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.52,
+    "halo": true
+   },
+   "focus": {
+    "x_pct": 14.6,
+    "y_pct": 50.9,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_017",
+   "startMs": 398993,
+   "endMs": 435244,
+   "new_image_reason": "framing change: a long silence on the empty beach; he worries what people would say if they were seen",
+   "characters": [],
+   "location": "an empty white beach on a small Maldivian local island at night: traditional Maldivian joali seats (hanging seats of woven rope netting on a wooden frame) hung from the branches of leaning trees, a small open wooden beach pavilion (holhuashi) lit by a single white tube light, a calm lagoon and the open sea under a full moon, a sky full of stars",
+   "location_key": "beach",
+   "mood": "night, a brilliant full moon, silver-blue moonlight on white sand, a sky full of twinkling stars, the soft white glow of the pavilion's tube light, a cool sea breeze, tender, romantic and hushed",
+   "visual": "a wide view from behind of the empty moonlit beach: two separate joalis hung under two trees far apart, on one a man in a black long-sleeved shirt glancing back over his shoulder towards the dark sandy lane, on the other a petite young woman in a long white dress and white hijab looking out at the sea; the small pavilion glows with its tube light; the full moon and stars over the calm sea",
+   "camera": "wide shot from behind, eye level, the moon, sea and the two small figures in the upper two-thirds, the smooth sand as the calm lower third",
+   "image": "images/beat_017.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "beach_night",
+   "shots": [
+    {
+     "id": "shot_044",
+     "startMs": 398993,
+     "endMs": 409613,
+     "narration_dhivehi": "ޖަލީލްއާއި ބެހޭ ގޮތުން މައުރާ އެނގެން ޝައުގުވެރިވީ ކަމުގައި ވިޔަސް ޖަލީލްގެ ފެންވަރުގެ ސަބަބުން މައުރާއަކަށް ޖަލީލްގެ ގާތު އެއްވެސް އެއްޗެއް އަހާލާކަށް ނުކެރުނެވެ.",
+     "narration_english": "Though Maura was eager to know about Jaleel, because of Jaleel's standing she did not dare to ask him anything.",
+     "crop": "full",
+     "motion": "pan down",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_045",
+     "startMs": 409613,
+     "endMs": 417834,
+     "narration_dhivehi": "ހަމަ ހިމޭން ކަމެއް ދެމެދަށް ވެރިވެގެން ދިޔައީ އެހެންވެއެވެ. ނަމަވެސް އެ ފަޅު ކަމާއި އެ ހަމަހިމޭންކަން ވީ ޖަލީލްގެ ހިތަށް ލިބުނު ތުރާލަކަށެވެ.",
+     "narration_english": "That is why a quiet silence settled between them. But that emptiness and that silence were a treasure to Jaleel's heart.",
+     "crop": "tight",
+     "motion": "static drift",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      38.1,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_046",
+     "startMs": 417834,
+     "endMs": 426274,
+     "narration_dhivehi": "އަނެއްކޮޅުން މީހަކަށް ޖަލީލް މައުރާ ގާތުގައި އިންދަ ފެނިއްޖެއްޔާ އަރުވަފާނެ އަޑަކާއި ދޭތެރޭގައިވެސް ވިސްނަން ޖަލީލްއަށް މަޖުބޫރެވެ.",
+     "narration_english": "Jaleel was also forced to think about the talk that might spread if anyone saw him sitting near Maura.",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_047",
+     "startMs": 426274,
+     "endMs": 435244,
+     "narration_dhivehi": "މައުރާގެ ނަމަށް ހުތުރު ވާކަށް ޖަލީލްގެ ހިތެއް ނޭދުނެވެ. މާހައުލަށް ވެރިވި ހަމަހިމޭންކަން ނެތިކޮށްލީ ޖަލީލްގެ ފޯނުގެ ރިންގުގެ އަޑުންނެވެ.",
+     "narration_english": "Jaleel's heart did not want Maura's name to be shamed. The silence that had settled over the place was broken by the ringing of Jaleel's phone.",
+     "crop": "medium",
+     "motion": "pan left",
+     "sfx": [
+      {
+       "name": "phone_buzz",
+       "atMs": 433814,
+       "gainDb": -18,
+       "word": "ރިންގުގެ"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      28.5,
+      0.0,
+      71.5,
+      84.7
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Cinematic semi-realistic digital illustration with a warm romantic-drama look, rich gold and amber tones, soft golden lamplight with deep velvety shadows, luminous warm tropical daylight, gentle film grain, soft bokeh, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, sand lane, table top, balcony railing in soft shadow) for captions and a logo; a small Maldivian local island of white sandy lanes, coral-stone walls, bougainvillea, palms and turquoise lagoon, and, in Malé, a wealthy family's dark modern home glowing with gold lamps and city lights.\nScene: a wide view from behind of the empty moonlit beach: two separate joalis hung under two trees far apart, on one a man in a black long-sleeved shirt glancing back over his shoulder towards the dark sandy lane, on the other a petite young woman in a long white dress and white hijab looking out at the sea; the small pavilion glows with its tube light; the full moon and stars over the calm sea. Location: an empty white beach on a small Maldivian local island at night: traditional Maldivian joali seats (hanging seats of woven rope netting on a wooden frame) hung from the branches of leaning trees, a small open wooden beach pavilion (holhuashi) lit by a single white tube light, a calm lagoon and the open sea under a full moon, a sky full of stars. Camera: wide shot from behind, eye level, the moon, sea and the two small figures in the upper two-thirds, the smooth sand as the calm lower third.\nMood/lighting: night, a brilliant full moon, silver-blue moonlight on white sand, a sky full of twinkling stars, the soft white glow of the pavilion's tube light, a cool sea breeze, tender, romantic and hushed.\nModest Maldivian clothing (every woman and girl in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck; men in shirts and long trousers, never shirtless, never in a towel), a clear respectful distance between unrelated men and women, nobody touching, culturally respectful, no cigarettes, no smoking, no violence, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.241,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 67.8,
+    "y_pct": 18.1,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_018",
+   "startMs": 435244,
+   "endMs": 466765,
+   "new_image_reason": "action change: his phone rings — Shaaliya; his calm vanishes, sweat on his brow, and Maura notices",
+   "characters": [
+    "jaleel",
+    "maura"
+   ],
+   "location": "an empty white beach on a small Maldivian local island at night: traditional Maldivian joali seats (hanging seats of woven rope netting on a wooden frame) hung from the branches of leaning trees, a small open wooden beach pavilion (holhuashi) lit by a single white tube light, a calm lagoon and the open sea under a full moon, a sky full of stars",
+   "location_key": "beach",
+   "mood": "night, a brilliant full moon, silver-blue moonlight on white sand, a sky full of twinkling stars, the soft white glow of the pavilion's tube light, a cool sea breeze, tender, romantic and hushed",
+   "visual": "Jaleel, NOT in a suit: a black long-sleeved shirt with the sleeves rolled up to the elbows and dark trousers, no jacket, no tie, a gold wristwatch, collar-length black hair swept back, sitting on his joali holding his phone, the back of the phone towards the viewer so its screen is not visible, its cold glow on his face, his calm gone, a few beads of sweat on his forehead, jaw tight; in the soft-focus background Maura in her white long-sleeved lace ankle-length dress and white hijab fully covering her hair and neck, a small white frangipani pinned at its side on her own joali watching him with quiet concern; a clear arm's-length gap between them, they do not touch",
+   "camera": "medium close-up on him, eye level, faces in the upper two-thirds, a calm uncluttered lower third (his knee and the joali netting in shadow)",
+   "image": "images/beat_018.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "beach_night",
+   "shots": [
+    {
+     "id": "shot_048",
+     "startMs": 435244,
+     "endMs": 443554,
+     "narration_dhivehi": "ޖީބުން ފޯނު ނަގައި ބަލައިލުމާއިއެކު މީހާގެ މޫނުމަތީގައި ހުރި ހަމަޖެހުން ގެއްލި ނިތަށް ރޫ ގިނަވެލިތަން މައުރާއަށް ހަމަ ރީއްޗަށް ފެނުނެވެ.",
+     "narration_english": "As he took the phone out of his pocket and looked at it, Maura clearly saw the calm leave his face and sweat bead on his forehead.",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [
+      {
+       "name": "cloth_rustle",
+       "atMs": 435314,
+       "gainDb": -24,
+       "word": "ޖީބުން"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_049",
+     "startMs": 443554,
+     "endMs": 451995,
+     "narration_dhivehi": "އެވަރުގެ ސިހުމެއް ޖަލީލްއަށް އެދިނީ ކާކު ހެއްޔެވެ؟ \" ހެލޯ....\" ފޯނު ނެގުމާއިއެކު ޝާލިޔާގެ ތުނި އަޑު ޖަލީލްގެ ކަންފަތުގައި ޖެހުނެވެ.",
+     "narration_english": "Who could have given Jaleel such a start? \"Hello...\" As he answered the phone, Shaaliya's soft voice reached Jaleel's ear.",
+     "crop": "tight",
+     "motion": "pan right",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      0.0,
+      0.3,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_050",
+     "startMs": 451995,
+     "endMs": 459875,
+     "narration_dhivehi": "ހިތްތައް ލޯބިން ވިރުވައި އަޅާނެފަދަ ހިމަ އަޑަކަށް އެ އަޑު ވި ކަމުގައި ވިޔަސް ޖަލީލްއަށް އެ އަޑުން ލިބުނު ހިތްހަމަޖެހުމެއް އުފަލެއް ނެތެވެ.",
+     "narration_english": "Though that voice was gentle enough to melt hearts with love, Jaleel found no peace and no joy in it.",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_051",
+     "startMs": 459875,
+     "endMs": 466765,
+     "narration_dhivehi": "އައިބެއް ނެތް އޯގާތެރި އަނބިމީހާ ދެކެ ޖަލީލްއަކަށް ލޯތްބެއް ނުވެވުނެވެ. ގަޔާއެއް ނުވެވުނެވެ. \" ހެލޯ....\"",
+     "narration_english": "Jaleel could not love his faultless, kind wife. He could not feel attached to her. \"Hello...\"",
+     "crop": "medium",
+     "motion": "pan up",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      0.0,
+      0.0,
+      71.5,
+      84.7
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Yoosuf Jaleel; reference image 2 is Maura), create a new scene: Cinematic semi-realistic digital illustration with a warm romantic-drama look, rich gold and amber tones, soft golden lamplight with deep velvety shadows, luminous warm tropical daylight, gentle film grain, soft bokeh, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, sand lane, table top, balcony railing in soft shadow) for captions and a logo; a small Maldivian local island of white sandy lanes, coral-stone walls, bougainvillea, palms and turquoise lagoon, and, in Malé, a wealthy family's dark modern home glowing with gold lamps and city lights.\nScene: Jaleel, NOT in a suit: a black long-sleeved shirt with the sleeves rolled up to the elbows and dark trousers, no jacket, no tie, a gold wristwatch, collar-length black hair swept back, sitting on his joali holding his phone, the back of the phone towards the viewer so its screen is not visible, its cold glow on his face, his calm gone, a few beads of sweat on his forehead, jaw tight; in the soft-focus background Maura in her white long-sleeved lace ankle-length dress and white hijab fully covering her hair and neck, a small white frangipani pinned at its side on her own joali watching him with quiet concern; a clear arm's-length gap between them, they do not touch. Location: an empty white beach on a small Maldivian local island at night: traditional Maldivian joali seats (hanging seats of woven rope netting on a wooden frame) hung from the branches of leaning trees, a small open wooden beach pavilion (holhuashi) lit by a single white tube light, a calm lagoon and the open sea under a full moon, a sky full of stars. Camera: medium close-up on him, eye level, faces in the upper two-thirds, a calm uncluttered lower third (his knee and the joali netting in shadow).\nCharacters: Jaleel: a tall broad-shouldered athletic Maldivian man of 28 with wheatish warm-brown skin, a handsome strong face with a sharp defined jaw, intense dark eyes under straight heavy eyebrows, a neatly trimmed short black beard and thick slightly long black hair swept back to his collar; wears a tailored black suit over a crisp white long-sleeved shirt with a black tie, a white pocket square and a gold wristwatch. Maura: a petite slim Maldivian young woman of about 22 with fair light warm-brown skin, a soft round innocent face, large bright dark eyes, gently arched eyebrows, a small nose and a shy sweet smile; wears a loose long-sleeved ankle-length white dress with delicate lace sleeves and a plain white hijab wrapped snugly and fully covering her hair and neck, with a small white frangipani flower pinned at the side of the hijab.\nMood/lighting: night, a brilliant full moon, silver-blue moonlight on white sand, a sky full of twinkling stars, the soft white glow of the pavilion's tube light, a cool sea breeze, tender, romantic and hushed.\nModest Maldivian clothing (every woman and girl in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck; men in shirts and long trousers, never shirtless, never in a towel), a clear respectful distance between unrelated men and women, nobody touching, culturally respectful, no cigarettes, no smoking, no violence, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.114,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 28.1,
+    "y_pct": 35.5,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_019",
+   "startMs": 466765,
+   "endMs": 483416,
+   "new_image_reason": "framing change: on the phone, his gaze is fixed on the end of her hijab fluttering in the wind",
+   "characters": [
+    "maura"
+   ],
+   "location": "an empty white beach on a small Maldivian local island at night: traditional Maldivian joali seats (hanging seats of woven rope netting on a wooden frame) hung from the branches of leaning trees, a small open wooden beach pavilion (holhuashi) lit by a single white tube light, a calm lagoon and the open sea under a full moon, a sky full of stars",
+   "location_key": "beach",
+   "mood": "night, a brilliant full moon, silver-blue moonlight on white sand, a sky full of twinkling stars, the soft white glow of the pavilion's tube light, a cool sea breeze, tender, romantic and hushed",
+   "visual": "Maura in her white long-sleeved lace ankle-length dress and white hijab fully covering her hair and neck, a small white frangipani pinned at its side, sitting on her joali in profile, looking out at the moonlit sea with a soft dreamy face, the long loose end of her white hijab fluttering and lifting in the sea breeze while the hijab stays snugly covering all her hair and neck; moonlight on her face",
+   "camera": "medium close-up in profile, eye level, faces in the upper two-thirds, a calm uncluttered lower third (the joali netting and moonlit sand)",
+   "image": "images/beat_019.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": "clothing",
+   "safe_substitution": "'her long curly hair in the wind' is shown as the loose end of her hijab fluttering; no hair visible",
+   "ambience": "beach_night",
+   "shots": [
+    {
+     "id": "shot_052",
+     "startMs": 466765,
+     "endMs": 475726,
+     "narration_dhivehi": "ފޯނަށް ޖަވާބު ދިން އިރުވެސް ޖަލީލްގެ ނަޒަރު ހުއްޓިފައިވީ ކުރިމަތީގައި އިން މައުރާގެ ވިހުރެމުން ދިޔަ ނަލަ ފަން ދިގު އިސްތަށިގަނޑަށެވެ.",
+     "narration_english": "Even as he answered the phone, Jaleel's gaze stayed fixed on Maura's lovely long curly hair scattering in the wind in front of him.",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [
+      {
+       "name": "wind_gust",
+       "atMs": 472455,
+       "gainDb": -24,
+       "word": "ވިހުރެމުން"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_053",
+     "startMs": 475726,
+     "endMs": 483416,
+     "narration_dhivehi": "މައުރާގެ އިސްތަށިގަނޑާއި ސަމާސާ ކުރަމުން އެދާ ފިނި ވައިރޯޅި ތަކަކީ ޖަލީލްއަށް ވީ ނަމައޭ ޖަލީލްގެ ހިތަށް އަރަމުން ދިޔައެވެ.",
+     "narration_english": "The thought kept rising in Jaleel's heart: if only he were the cool breeze that plays with Maura's hair.",
+     "crop": "tight",
+     "motion": "pan down",
+     "sfx": [],
+     "hum": true,
+     "crop_rect_pct": [
+      10.2,
+      3.7,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Maura), create a new scene: Cinematic semi-realistic digital illustration with a warm romantic-drama look, rich gold and amber tones, soft golden lamplight with deep velvety shadows, luminous warm tropical daylight, gentle film grain, soft bokeh, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, sand lane, table top, balcony railing in soft shadow) for captions and a logo; a small Maldivian local island of white sandy lanes, coral-stone walls, bougainvillea, palms and turquoise lagoon, and, in Malé, a wealthy family's dark modern home glowing with gold lamps and city lights.\nScene: Maura in her white long-sleeved lace ankle-length dress and white hijab fully covering her hair and neck, a small white frangipani pinned at its side, sitting on her joali in profile, looking out at the moonlit sea with a soft dreamy face, the long loose end of her white hijab fluttering and lifting in the sea breeze while the hijab stays snugly covering all her hair and neck; moonlight on her face. Location: an empty white beach on a small Maldivian local island at night: traditional Maldivian joali seats (hanging seats of woven rope netting on a wooden frame) hung from the branches of leaning trees, a small open wooden beach pavilion (holhuashi) lit by a single white tube light, a calm lagoon and the open sea under a full moon, a sky full of stars. Camera: medium close-up in profile, eye level, faces in the upper two-thirds, a calm uncluttered lower third (the joali netting and moonlit sand).\nCharacters: Maura: a petite slim Maldivian young woman of about 22 with fair light warm-brown skin, a soft round innocent face, large bright dark eyes, gently arched eyebrows, a small nose and a shy sweet smile; wears a loose long-sleeved ankle-length white dress with delicate lace sleeves and a plain white hijab wrapped snugly and fully covering her hair and neck, with a small white frangipani flower pinned at the side of the hijab.\nMood/lighting: night, a brilliant full moon, silver-blue moonlight on white sand, a sky full of twinkling stars, the soft white glow of the pavilion's tube light, a cool sea breeze, tender, romantic and hushed.\nModest Maldivian clothing (every woman and girl in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck; men in shirts and long trousers, never shirtless, never in a towel), a clear respectful distance between unrelated men and women, nobody touching, culturally respectful, no cigarettes, no smoking, no violence, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.518,
+    "halo": true
+   },
+   "focus": {
+    "x_pct": 39.9,
+    "y_pct": 38.9,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_020",
+   "startMs": 483416,
+   "endMs": 498436,
+   "new_image_reason": "character/scene change: Shaaliya on the other end of the call in the Malé bedroom",
+   "characters": [
+    "shaaliya"
+   ],
+   "location": "the dark, luxurious master bedroom of Jaleel's Malé home at night: black marble and cream textiles, gold lamps, a cream upholstered bench beside a tall glass balcony door with Malé's city lights and a road far below",
+   "location_key": "male_bedroom",
+   "mood": "night, dim gold lamplight and deep velvety shadows, cool blue city light through the glass, lonely and heartbroken",
+   "visual": "Shaaliya in her black velvet long-sleeved dress with gold cuffs and deep-maroon hijab fully covering her hair and neck, sitting alone on the cream upholstered bench by the glass balcony door, holding the phone to her ear, her face tender and hopeful but anxious, her other hand clasped at her chest; city lights through the glass",
+   "camera": "medium shot, eye level, faces in the upper two-thirds, a calm uncluttered lower third (dark marble floor)",
+   "image": "images/beat_020.png",
+   "reuse_of": null,
+   "transition_in": "dissolve",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "mansion_night",
+   "shots": [
+    {
+     "id": "shot_054",
+     "startMs": 483416,
+     "endMs": 489816,
+     "narration_dhivehi": "އެފަދަ ނަސީބެއް ލިބޭނެ ނަމައޭ ހިތަށް އަރަމުން ދިޔައެވެ. \" ކިހިނެތް ތަ ހާލު....؟ ތިކޮޅަށް ދިޔަ ފަހުން ގުޅާވެސް ނުލަމޭނުން....؟\"",
+     "narration_english": "If only such fortune could be his, the thought kept rising. \"How are you...? You haven't even called since you went there...?\"",
+     "crop": "full",
+     "motion": "static drift",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_055",
+     "startMs": 489816,
+     "endMs": 498436,
+     "narration_dhivehi": "އަންބަކަށް ވީތީ ޝާލިޔާއަށް ޝަކުވާ ކޮށްލެވުނެވެ. \" އާން ބިޒީ ކަމުން....\" ކޮންމެވެސް އެއްޗެކޭ ބުނެލަން ވެގެން ޖަލީލް ބުނެލިއެވެ.",
+     "narration_english": "Being his wife, Shaaliya could not help complaining. \"Yes, because I've been busy...\" Jaleel said, just to say something.",
+     "crop": "tight",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      11.6,
+      0.0,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Shaaliya), create a new scene: Cinematic semi-realistic digital illustration with a warm romantic-drama look, rich gold and amber tones, soft golden lamplight with deep velvety shadows, luminous warm tropical daylight, gentle film grain, soft bokeh, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, sand lane, table top, balcony railing in soft shadow) for captions and a logo; a small Maldivian local island of white sandy lanes, coral-stone walls, bougainvillea, palms and turquoise lagoon, and, in Malé, a wealthy family's dark modern home glowing with gold lamps and city lights.\nScene: Shaaliya in her black velvet long-sleeved dress with gold cuffs and deep-maroon hijab fully covering her hair and neck, sitting alone on the cream upholstered bench by the glass balcony door, holding the phone to her ear, her face tender and hopeful but anxious, her other hand clasped at her chest; city lights through the glass. Location: the dark, luxurious master bedroom of Jaleel's Malé home at night: black marble and cream textiles, gold lamps, a cream upholstered bench beside a tall glass balcony door with Malé's city lights and a road far below. Camera: medium shot, eye level, faces in the upper two-thirds, a calm uncluttered lower third (dark marble floor).\nCharacters: Shaaliya: a tall slender graceful Maldivian woman of about 26 with warm brown skin, an elegant oval face, large expressive dark eyes with long lashes, softly arched eyebrows and full lips; wears a loose long-sleeved ankle-length black velvet abaya-style dress with fine gold embroidery at the cuffs and a deep-maroon satin hijab wrapped snugly and fully covering her hair and neck.\nMood/lighting: night, dim gold lamplight and deep velvety shadows, cool blue city light through the glass, lonely and heartbroken.\nModest Maldivian clothing (every woman and girl in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck; men in shirts and long trousers, never shirtless, never in a towel), a clear respectful distance between unrelated men and women, nobody touching, culturally respectful, no cigarettes, no smoking, no violence, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.005,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 41.3,
+    "y_pct": 20.0,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_021",
+   "startMs": 498436,
+   "endMs": 505897,
+   "new_image_reason": "back to the beach: Maura tucks the edge of her hijab by her ear and his heart stands still",
+   "characters": [
+    "maura"
+   ],
+   "location": "an empty white beach on a small Maldivian local island at night: traditional Maldivian joali seats (hanging seats of woven rope netting on a wooden frame) hung from the branches of leaning trees, a small open wooden beach pavilion (holhuashi) lit by a single white tube light, a calm lagoon and the open sea under a full moon, a sky full of stars",
+   "location_key": "beach",
+   "mood": "night, a brilliant full moon, silver-blue moonlight on white sand, a sky full of twinkling stars, the soft white glow of the pavilion's tube light, a cool sea breeze, tender, romantic and hushed",
+   "visual": "reuse of beat_019",
+   "camera": "medium shot, eye level",
+   "image": "images/beat_019.png",
+   "reuse_of": "beat_019",
+   "transition_in": "dissolve",
+   "sensitive": "clothing",
+   "safe_substitution": "'a strand of hair behind her ear' stays on the hijab image; no hair visible",
+   "ambience": "beach_night",
+   "shots": [
+    {
+     "id": "shot_056",
+     "startMs": 498436,
+     "endMs": 505897,
+     "narration_dhivehi": "އެހިނދު ކަންފަތް ކައިރިއަށް މައުރާ އިސްތަށިކޮޅެއް ލައްވައިލިއެވެ. އެ މަންޒަރަށް ޖަލީލްގެ ހިތް ހިނދުކޮޅަކަށް މަޑު ޖެހިލިއެވެ.",
+     "narration_english": "At that moment Maura tucked a strand of hair by her ear. At that sight Jaleel's heart stood still for a moment.",
+     "crop": "medium",
+     "motion": "pan left",
+     "sfx": [
+      {
+       "name": "heartbeat",
+       "atMs": 503877,
+       "gainDb": -22,
+       "word": "ހިތް"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      4.2,
+      0.0,
+      71.5,
+      84.7
+     ]
+    }
+   ],
+   "prompt_attempts": [],
+   "logo": {
+    "color": "black",
+    "bg_luminance": 0.579,
+    "halo": true
+   },
+   "focus": {
+    "x_pct": 39.9,
+    "y_pct": 38.9,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_022",
+   "startMs": 505897,
+   "endMs": 525747,
+   "new_image_reason": "back to Jaleel on the phone: he forgets the call, then hurriedly cuts it short",
+   "characters": [
+    "jaleel",
+    "maura"
+   ],
+   "location": "an empty white beach on a small Maldivian local island at night: traditional Maldivian joali seats (hanging seats of woven rope netting on a wooden frame) hung from the branches of leaning trees, a small open wooden beach pavilion (holhuashi) lit by a single white tube light, a calm lagoon and the open sea under a full moon, a sky full of stars",
+   "location_key": "beach",
+   "mood": "night, a brilliant full moon, silver-blue moonlight on white sand, a sky full of twinkling stars, the soft white glow of the pavilion's tube light, a cool sea breeze, tender, romantic and hushed",
+   "visual": "reuse of beat_018",
+   "camera": "medium shot, eye level",
+   "image": "images/beat_018.png",
+   "reuse_of": "beat_018",
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "beach_night",
+   "shots": [
+    {
+     "id": "shot_057",
+     "startMs": 505897,
+     "endMs": 516057,
+     "narration_dhivehi": "ކުޑަ ހިނދުކޮޅަކަށް އަނބިމީހާގެ ފޯނެއްގައި ހުރެވުނުކަންވެސް ހަނދައިން ނެތުނެވެ. \" އެކަމަކުވެސް މެސެޖެއް ނަމަވެސް ކޮށްލެވުނީހޭނުން....\" ޝާލިޔާ ޝަކުވާގެ ރާގެއްގައި ބުނެލިއެވެ.",
+     "narration_english": "For a brief moment he even forgot he was on a call with his wife. \"But you could at least have sent a message...\" Shaaliya said in a complaining tone.",
+     "crop": "tight",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      0.0,
+      0.3,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_058",
+     "startMs": 516057,
+     "endMs": 525747,
+     "narration_dhivehi": "\" އާން... ވަގުތެއް ނުވެގެން ހަމަ... އަހަރެން ފަހުން ގުޅަން އިނގޭ އެބަ... ކަމެއްގަ މިހާރުވެސް....\" އަވަސް އަވަހަށް ޖަލީލް ބުނެލަމުން ފޯނު ކަނޑައިލިއެވެ.",
+     "narration_english": "\"Yes... I just didn't have time... I'll call later, okay... I'm busy with something right now...\" Jaleel said hurriedly and cut the call.",
+     "crop": "full",
+     "motion": "pan right",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [],
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.109,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 28.1,
+    "y_pct": 35.5,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_023",
+   "startMs": 525747,
+   "endMs": 543808,
+   "new_image_reason": "character/scene change: the call cut off, Shaaliya alone and heartbroken",
+   "characters": [
+    "shaaliya"
+   ],
+   "location": "the dark, luxurious master bedroom of Jaleel's Malé home at night: black marble and cream textiles, gold lamps, a cream upholstered bench beside a tall glass balcony door with Malé's city lights and a road far below",
+   "location_key": "male_bedroom",
+   "mood": "night, dim gold lamplight and deep velvety shadows, cool blue city light through the glass, lonely and heartbroken",
+   "visual": "Shaaliya in her black velvet long-sleeved dress with gold cuffs and deep-maroon hijab fully covering her hair and neck, sitting alone on the cream bench by the glass balcony door, the phone lowered in both hands with its screen dark, one hand then pressed to her chest, staring at nothing with glistening eyes, deeply hurt; dim gold lamp and cold city light",
+   "camera": "medium close-up, eye level, faces in the upper two-thirds, a calm uncluttered lower third (her hands and the phone in soft shadow)",
+   "image": "images/beat_023.png",
+   "reuse_of": null,
+   "transition_in": "dissolve",
+   "sensitive": "other",
+   "safe_substitution": "'as if someone squeezed her heart' is shown as her hand pressed to her chest and a quiet, hurt face",
+   "ambience": "mansion_night",
+   "shots": [
+    {
+     "id": "shot_059",
+     "startMs": 525747,
+     "endMs": 534528,
+     "narration_dhivehi": "އެކޮޅުން ޝާލިޔާއަށް އެއްޗެއް ބުނެވުމުގެ ކުރިންނެވެ. ޝާލިޔާގެ ހިތުގައި ހީވީ މީހަކު އަތް އަޅައި ގަންބާލި ހެނެވެ. އިންތިހާއަށް ހިތުގައި ޖެހި ދެރަވިއެވެ.",
+     "narration_english": "before Shaaliya could say anything at her end. Shaaliya felt as if someone had reached in and squeezed her heart. She was hurt beyond measure.",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [
+      {
+       "name": "sob_breath",
+       "atMs": 533738,
+       "gainDb": -24,
+       "word": "ދެރަވިއެވެ."
+      }
+     ],
+     "hum": true,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_060",
+     "startMs": 534528,
+     "endMs": 543808,
+     "narration_dhivehi": "ޖަލީލް ޝާލިޔާ ދެކެ ލޯބި ނުވާކަން އެއީ ޝާލިޔާއަށް އެނގޭ ހަޤީޤަތެކެވެ. ނަމަވެސް ޖަލީލްގެ އެ ފަރުވާކުޑަ އަމަލުވީ ޝާލިޔާގެ ހިތަށް ހެރުނު ކައްޓަކަށެވެ.",
+     "narration_english": "That Jaleel did not love Shaaliya was a truth Shaaliya knew. But that careless act of Jaleel's was a thorn that pierced Shaaliya's heart.",
+     "crop": "tight",
+     "motion": "pan up",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      15.8,
+      0.0,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Shaaliya), create a new scene: Cinematic semi-realistic digital illustration with a warm romantic-drama look, rich gold and amber tones, soft golden lamplight with deep velvety shadows, luminous warm tropical daylight, gentle film grain, soft bokeh, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, sand lane, table top, balcony railing in soft shadow) for captions and a logo; a small Maldivian local island of white sandy lanes, coral-stone walls, bougainvillea, palms and turquoise lagoon, and, in Malé, a wealthy family's dark modern home glowing with gold lamps and city lights.\nScene: Shaaliya in her black velvet long-sleeved dress with gold cuffs and deep-maroon hijab fully covering her hair and neck, sitting alone on the cream bench by the glass balcony door, the phone lowered in both hands with its screen dark, one hand then pressed to her chest, staring at nothing with glistening eyes, deeply hurt; dim gold lamp and cold city light. Location: the dark, luxurious master bedroom of Jaleel's Malé home at night: black marble and cream textiles, gold lamps, a cream upholstered bench beside a tall glass balcony door with Malé's city lights and a road far below. Camera: medium close-up, eye level, faces in the upper two-thirds, a calm uncluttered lower third (her hands and the phone in soft shadow).\nCharacters: Shaaliya: a tall slender graceful Maldivian woman of about 26 with warm brown skin, an elegant oval face, large expressive dark eyes with long lashes, softly arched eyebrows and full lips; wears a loose long-sleeved ankle-length black velvet abaya-style dress with fine gold embroidery at the cuffs and a deep-maroon satin hijab wrapped snugly and fully covering her hair and neck.\nMood/lighting: night, dim gold lamplight and deep velvety shadows, cool blue city light through the glass, lonely and heartbroken.\nModest Maldivian clothing (every woman and girl in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck; men in shirts and long trousers, never shirtless, never in a towel), a clear respectful distance between unrelated men and women, nobody touching, culturally respectful, no cigarettes, no smoking, no violence, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.014,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 45.5,
+    "y_pct": 24.6,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_024",
+   "startMs": 543808,
+   "endMs": 563298,
+   "new_image_reason": "scene/action change: back on the beach, Jaleel stands up from the joali — 'I'm going'",
+   "characters": [
+    "jaleel",
+    "maura"
+   ],
+   "location": "an empty white beach on a small Maldivian local island at night: traditional Maldivian joali seats (hanging seats of woven rope netting on a wooden frame) hung from the branches of leaning trees, a small open wooden beach pavilion (holhuashi) lit by a single white tube light, a calm lagoon and the open sea under a full moon, a sky full of stars",
+   "location_key": "beach",
+   "mood": "night, a brilliant full moon, silver-blue moonlight on white sand, a sky full of twinkling stars, the soft white glow of the pavilion's tube light, a cool sea breeze, tender, romantic and hushed",
+   "visual": "Jaleel, NOT in a suit: a black long-sleeved shirt with the sleeves rolled up to the elbows and dark trousers, no jacket, no tie, a gold wristwatch, collar-length black hair swept back, standing up beside his joali, hands sliding into his pockets, looking down at her with a composed face; Maura in her white long-sleeved lace ankle-length dress and white hijab fully covering her hair and neck, a small white frangipani pinned at its side, still sitting on her own joali, looking up at him with a faint hidden disappointment, saying 'okay'; a clear arm's-length gap between them, they do not touch",
+   "camera": "medium wide two-shot, eye level, faces in the upper two-thirds, a calm uncluttered lower third (moonlit sand)",
+   "image": "images/beat_024.png",
+   "reuse_of": null,
+   "transition_in": "dissolve",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "beach_night",
+   "shots": [
+    {
+     "id": "shot_061",
+     "startMs": 543808,
+     "endMs": 555248,
+     "narration_dhivehi": "މައުރާގެ ހަރަކާތް ތަކަށް ބަލަން އިނދެ ޖަލީލް ޖޯލިން ތެދުވިއެވެ. \" ދަނީ އިނގޭ....\" ޖަލީލް ބުނެލިއެވެ. ނަމަވެސް މައުރާއަށް އެ އަޑު އިވުނީ އަހަރެންނާއި އެކުގައި އަންނާށޭ ބުނި ފަދައިންނެވެ.",
+     "narration_english": "Watching Maura's movements, Jaleel stood up from the joali. \"I'm going, okay...\" Jaleel said. But to Maura it sounded as if he had said, \"Come with me.\"",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [
+      {
+       "name": "cloth_rustle",
+       "atMs": 546598,
+       "gainDb": -24,
+       "word": "ތެދުވިއެވެ."
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_062",
+     "startMs": 555248,
+     "endMs": 563298,
+     "narration_dhivehi": "\" އޯކޭ....\" ހިތަށްއެރި އެތި ސިއްރު ކުރަމުން މައުރާ މަޑުމަޑުން ބުނެލިއެވެ. ކުޑަ ތަންކޮޅަކަށް ގޮސްފައި ޖަލީލް ފަސްއެނބުރި ބަލައިލިއެވެ.",
+     "narration_english": "\"Okay...\" Maura said softly, hiding the many thoughts in her heart. After going a little way, Jaleel turned back and looked.",
+     "crop": "tight",
+     "motion": "pan down",
+     "sfx": [
+      {
+       "name": "footsteps_sand",
+       "atMs": 560738,
+       "gainDb": -22,
+       "word": "ގޮސްފައި"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      20.3,
+      4.8,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Yoosuf Jaleel; reference image 2 is Maura), create a new scene: Cinematic semi-realistic digital illustration with a warm romantic-drama look, rich gold and amber tones, soft golden lamplight with deep velvety shadows, luminous warm tropical daylight, gentle film grain, soft bokeh, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, sand lane, table top, balcony railing in soft shadow) for captions and a logo; a small Maldivian local island of white sandy lanes, coral-stone walls, bougainvillea, palms and turquoise lagoon, and, in Malé, a wealthy family's dark modern home glowing with gold lamps and city lights.\nScene: Jaleel, NOT in a suit: a black long-sleeved shirt with the sleeves rolled up to the elbows and dark trousers, no jacket, no tie, a gold wristwatch, collar-length black hair swept back, standing up beside his joali, hands sliding into his pockets, looking down at her with a composed face; Maura in her white long-sleeved lace ankle-length dress and white hijab fully covering her hair and neck, a small white frangipani pinned at its side, still sitting on her own joali, looking up at him with a faint hidden disappointment, saying 'okay'; a clear arm's-length gap between them, they do not touch. Location: an empty white beach on a small Maldivian local island at night: traditional Maldivian joali seats (hanging seats of woven rope netting on a wooden frame) hung from the branches of leaning trees, a small open wooden beach pavilion (holhuashi) lit by a single white tube light, a calm lagoon and the open sea under a full moon, a sky full of stars. Camera: medium wide two-shot, eye level, faces in the upper two-thirds, a calm uncluttered lower third (moonlit sand).\nCharacters: Jaleel: a tall broad-shouldered athletic Maldivian man of 28 with wheatish warm-brown skin, a handsome strong face with a sharp defined jaw, intense dark eyes under straight heavy eyebrows, a neatly trimmed short black beard and thick slightly long black hair swept back to his collar; wears a tailored black suit over a crisp white long-sleeved shirt with a black tie, a white pocket square and a gold wristwatch. Maura: a petite slim Maldivian young woman of about 22 with fair light warm-brown skin, a soft round innocent face, large bright dark eyes, gently arched eyebrows, a small nose and a shy sweet smile; wears a loose long-sleeved ankle-length white dress with delicate lace sleeves and a plain white hijab wrapped snugly and fully covering her hair and neck, with a small white frangipani flower pinned at the side of the hijab.\nMood/lighting: night, a brilliant full moon, silver-blue moonlight on white sand, a sky full of twinkling stars, the soft white glow of the pavilion's tube light, a cool sea breeze, tender, romantic and hushed.\nModest Maldivian clothing (every woman and girl in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck; men in shirts and long trousers, never shirtless, never in a towel), a clear respectful distance between unrelated men and women, nobody touching, culturally respectful, no cigarettes, no smoking, no violence, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.482,
+    "halo": true
+   },
+   "focus": {
+    "x_pct": 50.0,
+    "y_pct": 40.0,
+    "face_detected": false
+   }
+  },
+  {
+   "id": "beat_025",
+   "startMs": 563298,
+   "endMs": 581899,
+   "new_image_reason": "action change: a few steps away he turns back — 'Aren't you coming? The house is close.'",
+   "characters": [
+    "jaleel",
+    "maura"
+   ],
+   "location": "an empty white beach on a small Maldivian local island at night: traditional Maldivian joali seats (hanging seats of woven rope netting on a wooden frame) hung from the branches of leaning trees, a small open wooden beach pavilion (holhuashi) lit by a single white tube light, a calm lagoon and the open sea under a full moon, a sky full of stars",
+   "location_key": "beach",
+   "mood": "night, a brilliant full moon, silver-blue moonlight on white sand, a sky full of twinkling stars, the soft white glow of the pavilion's tube light, a cool sea breeze, tender, romantic and hushed",
+   "visual": "Jaleel, NOT in a suit: a black long-sleeved shirt with the sleeves rolled up to the elbows and dark trousers, no jacket, no tie, a gold wristwatch, collar-length black hair swept back, several steps away on the moonlit sand towards the lane, turned half back and looking over his shoulder at her with a rare gentle look, one hand lifted slightly towards the lane as an invitation; in the soft-focus foreground Maura in her white long-sleeved lace ankle-length dress and white hijab fully covering her hair and neck, a small white frangipani pinned at its side seen from behind on her joali; a wide gap between them",
+   "camera": "medium wide shot over her shoulder, eye level, faces in the upper two-thirds, a calm uncluttered lower third (moonlit sand)",
+   "image": "images/beat_025.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "beach_night",
+   "shots": [
+    {
+     "id": "shot_063",
+     "startMs": 563298,
+     "endMs": 574159,
+     "narration_dhivehi": "މައުރާ ނުލައި ދާން ޖަލީލްގެ ހިތް އެއްބަހެއް ނުވިއެވެ. އެފަދަ މާހައުލެއްގައި މައުރާ އެކަނި ބައިންދަން ހިތެއް ނޭދުނެވެ. ރަށުގެ މީހުންގެ ގޮތްވެސް ނޭނގޭތީއެވެ. \" ނުދާނަން....؟",
+     "narration_english": "Jaleel's heart would not agree to leave without Maura. He did not want to leave Maura alone in such a setting, not knowing what the island's people were like. \"Aren't you coming...?",
+     "crop": "full",
+     "motion": "static drift",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_064",
+     "startMs": 574159,
+     "endMs": 581899,
+     "narration_dhivehi": "އަންނަން ވީނުން... ގެ ވެސް ކައިރިއޭނުން....\" ޖަލީލްގެ ދަޢުވަތަށް ނޫނެކޭ ބުންނަން ކެރޭނީ ކޮން އަންހެން ކުއްޖަލަށް ހެއްޔެވެ؟...",
+     "narration_english": "You should come... the house is close too, isn't it...\" What girl would dare say no to Jaleel's invitation?...",
+     "crop": "tight",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      26.1,
+      29.6,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Yoosuf Jaleel; reference image 2 is Maura), create a new scene: Cinematic semi-realistic digital illustration with a warm romantic-drama look, rich gold and amber tones, soft golden lamplight with deep velvety shadows, luminous warm tropical daylight, gentle film grain, soft bokeh, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, sand lane, table top, balcony railing in soft shadow) for captions and a logo; a small Maldivian local island of white sandy lanes, coral-stone walls, bougainvillea, palms and turquoise lagoon, and, in Malé, a wealthy family's dark modern home glowing with gold lamps and city lights.\nScene: Jaleel, NOT in a suit: a black long-sleeved shirt with the sleeves rolled up to the elbows and dark trousers, no jacket, no tie, a gold wristwatch, collar-length black hair swept back, several steps away on the moonlit sand towards the lane, turned half back and looking over his shoulder at her with a rare gentle look, one hand lifted slightly towards the lane as an invitation; in the soft-focus foreground Maura in her white long-sleeved lace ankle-length dress and white hijab fully covering her hair and neck, a small white frangipani pinned at its side seen from behind on her joali; a wide gap between them. Location: an empty white beach on a small Maldivian local island at night: traditional Maldivian joali seats (hanging seats of woven rope netting on a wooden frame) hung from the branches of leaning trees, a small open wooden beach pavilion (holhuashi) lit by a single white tube light, a calm lagoon and the open sea under a full moon, a sky full of stars. Camera: medium wide shot over her shoulder, eye level, faces in the upper two-thirds, a calm uncluttered lower third (moonlit sand).\nCharacters: Jaleel: a tall broad-shouldered athletic Maldivian man of 28 with wheatish warm-brown skin, a handsome strong face with a sharp defined jaw, intense dark eyes under straight heavy eyebrows, a neatly trimmed short black beard and thick slightly long black hair swept back to his collar; wears a tailored black suit over a crisp white long-sleeved shirt with a black tie, a white pocket square and a gold wristwatch. Maura: a petite slim Maldivian young woman of about 22 with fair light warm-brown skin, a soft round innocent face, large bright dark eyes, gently arched eyebrows, a small nose and a shy sweet smile; wears a loose long-sleeved ankle-length white dress with delicate lace sleeves and a plain white hijab wrapped snugly and fully covering her hair and neck, with a small white frangipani flower pinned at the side of the hijab.\nMood/lighting: night, a brilliant full moon, silver-blue moonlight on white sand, a sky full of twinkling stars, the soft white glow of the pavilion's tube light, a cool sea breeze, tender, romantic and hushed.\nModest Maldivian clothing (every woman and girl in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck; men in shirts and long trousers, never shirtless, never in a towel), a clear respectful distance between unrelated men and women, nobody touching, culturally respectful, no cigarettes, no smoking, no violence, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "black",
+    "bg_luminance": 0.592,
+    "halo": true
+   },
+   "focus": {
+    "x_pct": 55.8,
+    "y_pct": 94.6,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_026",
+   "startMs": 581899,
+   "endMs": 592720,
+   "new_image_reason": "action change: Maura comes to him smiling and they walk side by side with a clear gap",
+   "characters": [
+    "maura",
+    "jaleel"
+   ],
+   "location": "a white sandy island lane leading up from the empty beach towards the houses at night, coral-stone walls, palms and breadfruit trees, the moonlit sea behind",
+   "location_key": "beach_lane",
+   "mood": "night, a brilliant full moon, silver-blue moonlight on white sand, a sky full of twinkling stars, the soft white glow of the pavilion's tube light, a cool sea breeze, tender and hopeful",
+   "visual": "Maura in her white long-sleeved lace ankle-length dress and white hijab fully covering her hair and neck, a small white frangipani pinned at its side and Jaleel, NOT in a suit: a black long-sleeved shirt with the sleeves rolled up to the elbows and dark trousers, no jacket, no tie, a gold wristwatch, collar-length black hair swept back walking side by side up the moonlit sandy lane from the beach towards the houses, a clear arm's-length gap between them, they do not touch; Maura looking down with a light, shy smile she tries to hide, Jaleel with his hands in his pockets and a softened face; the moonlit sea behind them",
+   "camera": "medium wide shot from the front, eye level, faces in the upper two-thirds, a calm uncluttered lower third (moonlit sandy lane)",
+   "image": "images/beat_026.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": "other",
+   "safe_substitution": "walking home together at night: side by side with a clear gap, no contact",
+   "ambience": "beach_night",
+   "shots": [
+    {
+     "id": "shot_065",
+     "startMs": 581899,
+     "endMs": 592720,
+     "narration_dhivehi": "ހިތް އުފަލުން އުދުއްސައި ގަނެދާނެހެން ހީވިޔަސް މައުރާގެ މޫނުމަތިން އެކަން ނުދައްކައި ވޭތޯ ބަލަމުން ލުއި ހިނިތުންވުމެއްގައި ހުރެ ޖަލީލްގެ ގާތަށް މައުރާ އައެވެ. ނުނިމޭ",
+     "narration_english": "Though her heart felt as if it would fly away with joy, trying not to let it show on her face, Maura came to Jaleel with a light smile. To be continued.",
+     "crop": "full",
+     "motion": "pan left",
+     "sfx": [
+      {
+       "name": "footsteps_sand",
+       "atMs": 591579,
+       "gainDb": -22,
+       "word": "އައެވެ."
+      }
+     ],
+     "hum": true,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Maura; reference image 2 is Yoosuf Jaleel), create a new scene: Cinematic semi-realistic digital illustration with a warm romantic-drama look, rich gold and amber tones, soft golden lamplight with deep velvety shadows, luminous warm tropical daylight, gentle film grain, soft bokeh, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, sand lane, table top, balcony railing in soft shadow) for captions and a logo; a small Maldivian local island of white sandy lanes, coral-stone walls, bougainvillea, palms and turquoise lagoon, and, in Malé, a wealthy family's dark modern home glowing with gold lamps and city lights.\nScene: Maura in her white long-sleeved lace ankle-length dress and white hijab fully covering her hair and neck, a small white frangipani pinned at its side and Jaleel, NOT in a suit: a black long-sleeved shirt with the sleeves rolled up to the elbows and dark trousers, no jacket, no tie, a gold wristwatch, collar-length black hair swept back walking side by side up the moonlit sandy lane from the beach towards the houses, a clear arm's-length gap between them, they do not touch; Maura looking down with a light, shy smile she tries to hide, Jaleel with his hands in his pockets and a softened face; the moonlit sea behind them. Location: a white sandy island lane leading up from the empty beach towards the houses at night, coral-stone walls, palms and breadfruit trees, the moonlit sea behind. Camera: medium wide shot from the front, eye level, faces in the upper two-thirds, a calm uncluttered lower third (moonlit sandy lane).\nCharacters: Maura: a petite slim Maldivian young woman of about 22 with fair light warm-brown skin, a soft round innocent face, large bright dark eyes, gently arched eyebrows, a small nose and a shy sweet smile; wears a loose long-sleeved ankle-length white dress with delicate lace sleeves and a plain white hijab wrapped snugly and fully covering her hair and neck, with a small white frangipani flower pinned at the side of the hijab. Jaleel: a tall broad-shouldered athletic Maldivian man of 28 with wheatish warm-brown skin, a handsome strong face with a sharp defined jaw, intense dark eyes under straight heavy eyebrows, a neatly trimmed short black beard and thick slightly long black hair swept back to his collar; wears a tailored black suit over a crisp white long-sleeved shirt with a black tie, a white pocket square and a gold wristwatch.\nMood/lighting: night, a brilliant full moon, silver-blue moonlight on white sand, a sky full of twinkling stars, the soft white glow of the pavilion's tube light, a cool sea breeze, tender and hopeful.\nModest Maldivian clothing (every woman and girl in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck; men in shirts and long trousers, never shirtless, never in a towel), a clear respectful distance between unrelated men and women, nobody touching, culturally respectful, no cigarettes, no smoking, no violence, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.504,
+    "halo": true
+   },
+   "focus": {
+    "x_pct": 35.4,
+    "y_pct": 70.5,
+    "face_detected": true
+   }
+  }
+ ]
+}

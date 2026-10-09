@@ -1,0 +1,721 @@
+{
+ "series": "Taubaa",
+ "episode": 287,
+ "beats": [
+  {
+   "id": "beat_001",
+   "startMs": 0,
+   "endMs": 15330,
+   "new_image_reason": "episode opening: the son and his nights in front of the TV",
+   "characters": [
+    "tv_son"
+   ],
+   "location": "the small plain living room of an ordinary old Maldivian house late at night, bare whitewashed coral-stone walls, a simple low wooden cabinet with an old flat-screen TV, a worn cushioned sofa, a woven mat on a tiled floor, a ceiling fan, a single dim wall lamp",
+   "location_key": "living",
+   "mood": "late night, the cold blue-white flicker of the TV screen on his face, the rest of the room in deep teal shadow, careless and empty",
+   "visual": "the son slumped on a worn sofa in the dark living room, seen from the side and slightly behind the TV, his tired face lit cold blue-white by the TV glow, staring at the screen with a blank absorbed look; the TV screen itself faces away from the viewer so only its glow is seen",
+   "camera": "medium shot, eye level, from beside the TV",
+   "image": "images/beat_001.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": "other",
+   "safe_substitution": "the films and dramas are never shown; the screen faces away, only its glow on his face",
+   "ambience": "living_night",
+   "shots": [
+    {
+     "id": "shot_001",
+     "startMs": 0,
+     "endMs": 8940,
+     "narration_dhivehi": "އޭނާ ދިރިއުޅެމުން ދިޔައީ އޭނާގެ މުސްކުޅި މަންމައާއެކު އާދައިގެ ކުޑަ ގެއެއްގައެވެ. އޭނާގެ ގިނަ ވަގުތުތައް ހޭދަކުރަނީ ޓީވީގެ ކުރިމަތީގައެވެ.",
+     "narration_english": "He lived with his old mother in an ordinary little house. Most of his time he spent in front of the TV.",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_002",
+     "startMs": 8940,
+     "endMs": 15330,
+     "narration_dhivehi": "ފިލްމުތަކާއި ޑްރާމާތައް ބެލުމަށް އޭނާ ވަރަށް ފޯރި ހުރެއެވެ. އަދި އެކަމުގައި ރޭގަނޑުތައް ހޭލާ ހޭދަކުރެއެވެ.",
+     "narration_english": "He was very keen on watching films and dramas, and he spent his nights awake doing it.",
+     "crop": "tight",
+     "motion": "pan left",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      8.8,
+      0.0,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is the son), create a new scene: Cinematic semi-realistic digital illustration with a reflective, spiritual mood, deep teal and smoky steel-blue palette with warm amber lamplight and soft dawn-gold accents, gentle atmospheric haze and rim light, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and calm, uncluttered space at the bottom for a logo.\nScene: the son slumped on a worn sofa in the dark living room, seen from the side and slightly behind the TV, his tired face lit cold blue-white by the TV glow, staring at the screen with a blank absorbed look; the TV screen itself faces away from the viewer so only its glow is seen. Location: the small plain living room of an ordinary old Maldivian house late at night, bare whitewashed coral-stone walls, a simple low wooden cabinet with an old flat-screen TV, a worn cushioned sofa, a woven mat on a tiled floor, a ceiling fan, a single dim wall lamp. Camera: medium shot, eye level, from beside the TV.\nCharacters: The son: a slim Maldivian young man in his early 20s with warm brown skin, short messy black hair, a lean face, dark tired eyes with shadows under them, straight thick eyebrows, a thin moustache and light stubble; wears a faded charcoal-grey long-sleeved t-shirt and dark navy track trousers.\nMood/lighting: late night, the cold blue-white flicker of the TV screen on his face, the rest of the room in deep teal shadow, careless and empty.\nModest clothing appropriate to the story's setting, culturally respectful and Islamic in spirit, no violence shown, no alcohol, no drugs, no smoking, no text, no letters, no writing, no Arabic script, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.144,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 38.5,
+    "y_pct": 35.3,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_002",
+   "startMs": 15330,
+   "endMs": 46212,
+   "new_image_reason": "characters change: the mother advises him to pray and he mocks her",
+   "characters": [
+    "devout_mother",
+    "tv_son"
+   ],
+   "location": "the small plain living room of an ordinary old Maldivian house late at night, bare whitewashed coral-stone walls, a simple low wooden cabinet with an old flat-screen TV, a worn cushioned sofa, a woven mat on a tiled floor, a ceiling fan, a single dim wall lamp",
+   "location_key": "living",
+   "mood": "late night, the cold blue-white flicker of the TV screen on his face, the rest of the room in deep teal shadow, careless and empty",
+   "visual": "the frail old mother standing a few steps beside the sofa with her hands gently clasped, leaning towards her son and pleading softly with sad eyes; the son still slouched on the sofa, waving a dismissive hand at her without looking away from the TV glow, a mocking smirk on his face; the TV screen faces away from the viewer",
+   "camera": "medium wide two-shot, eye level",
+   "image": "images/beat_002.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "living_night",
+   "shots": [
+    {
+     "id": "shot_003",
+     "startMs": 15330,
+     "endMs": 24391,
+     "narration_dhivehi": "މުސްލިމުންނާއެކު ފަރުޟު ނަމާދު އަދާކުރުމަށް އޭނާ މިސްކިތަކަށް ނުދެއެވެ. ނަމާދުކުރުމަށް އޭނާގެ މުސްކުޅި މަންމަ ނަސޭހަތްތެރިވާ ކޮންމެ ފަހަރަކު،",
+     "narration_english": "He did not go to the mosque to pray the obligatory prayers with the Muslims. And every time his old mother advised him to pray,",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_004",
+     "startMs": 24391,
+     "endMs": 34441,
+     "narration_dhivehi": "އޭނާ މަންމައަށް މަލާމާތްކޮށް ފުރައްސާރަކުރެއެވެ. އަދި މަންމަގެ ބަހަށް އެއްވެސް ސަމާލުކަމެއް ނުދެއެވެ. އެ ނިކަމެތި މަންމަ ހާދަ ދެރަވާނެއެވެ! އެއީ އެއްވެސް ބާރެއް ނެތް،",
+     "narration_english": "he scolded and mocked her, and paid no attention at all to what she said. How sad that poor mother must have been! She was a powerless,",
+     "crop": "tight",
+     "motion": "pan right",
+     "sfx": [
+      {
+       "name": "sigh",
+       "atMs": 31721,
+       "gainDb": -22,
+       "word": "ދެރަވާނެއެވެ!"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      20.3,
+      4.8,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_005",
+     "startMs": 34441,
+     "endMs": 46212,
+     "narration_dhivehi": "ބަލިކަށި މުސްކުޅި އަންހެނެކެވެ. ހިދާޔަތަކީ ގަންނަން ލިބޭ އެއްޗެއް ނަމަ، އެ މަންމަގެ އަތުގައިވާ ހުރިހާ އެއްޗެއް ދީފައިވެސް އޭނާގެ ހަމައެކަނި ހުރި ދަރިފުޅަށްޓަކައި އެ ހިދާޔަތް ގަތީހެވެ.",
+     "narration_english": "frail old woman. If guidance were something that could be bought, that mother would have given everything she had to buy it for her only child.",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": true,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is the mother; reference image 2 is the son), create a new scene: Cinematic semi-realistic digital illustration with a reflective, spiritual mood, deep teal and smoky steel-blue palette with warm amber lamplight and soft dawn-gold accents, gentle atmospheric haze and rim light, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and calm, uncluttered space at the bottom for a logo.\nScene: the frail old mother standing a few steps beside the sofa with her hands gently clasped, leaning towards her son and pleading softly with sad eyes; the son still slouched on the sofa, waving a dismissive hand at her without looking away from the TV glow, a mocking smirk on his face; the TV screen faces away from the viewer. Location: the small plain living room of an ordinary old Maldivian house late at night, bare whitewashed coral-stone walls, a simple low wooden cabinet with an old flat-screen TV, a worn cushioned sofa, a woven mat on a tiled floor, a ceiling fan, a single dim wall lamp. Camera: medium wide two-shot, eye level.\nCharacters: The mother: a small thin slightly stooped Maldivian woman about 70 with warm brown skin, a thin wrinkled kind face and gentle sad eyes; wears a loose long-sleeved ankle-length faded sea-green traditional Maldivian dress and a plain white cotton headscarf fully covering her hair and neck. The son: a slim Maldivian young man in his early 20s with warm brown skin, short messy black hair, a lean face, dark tired eyes with shadows under them, straight thick eyebrows, a thin moustache and light stubble; wears a faded charcoal-grey long-sleeved t-shirt and dark navy track trousers.\nMood/lighting: late night, the cold blue-white flicker of the TV screen on his face, the rest of the room in deep teal shadow, careless and empty.\nModest clothing appropriate to the story's setting, culturally respectful and Islamic in spirit, no violence shown, no alcohol, no drugs, no smoking, no text, no letters, no writing, no Arabic script, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.154,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 50.0,
+    "y_pct": 40.0,
+    "face_detected": false
+   }
+  },
+  {
+   "id": "beat_003",
+   "startMs": 46212,
+   "endMs": 64293,
+   "new_image_reason": "scene change: the house at night — the mother's dua versus the son's late nights",
+   "characters": [],
+   "location": "a small ordinary single-storey Maldivian house with a corrugated tin roof and a low coral-stone boundary wall on a quiet sandy island lane late at night, coconut palms, a starry sky",
+   "location_key": "exterior",
+   "mood": "late night, deep blue sky full of stars, one window glowing with warm amber lamplight and another window flickering cold blue, silence, quiet longing",
+   "visual": "the small single-storey house seen from the sandy lane at night under a sky full of stars, two small windows: the left one glowing with warm amber lamplight, the right one flickering cold blue, a faint soft golden light rising from the roof into the starry sky; no people visible",
+   "camera": "wide establishing shot, low angle, the house in the upper half, the sandy lane forming a calm lower third",
+   "image": "images/beat_003.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "night_exterior",
+   "shots": [
+    {
+     "id": "shot_006",
+     "startMs": 46212,
+     "endMs": 56003,
+     "narration_dhivehi": "އެ މަންމަގެ އަތުގައި ވަނީ ހަމައެކަނި އެންމެ އެއްޗެކެވެ... ހަމައެކަނި އެންމެ އެއްޗެކެވެ. އެއީ ދުޢާއެވެ. ރޭގަނޑުގެ ދަންވަރުގެ ވަގުތުގައި ކުރަމުން އެދާ ދުޢާތަކެވެ.",
+     "narration_english": "That mother had only one thing... only one thing. It was dua — the duas she kept making in the last part of the night.",
+     "crop": "full",
+     "motion": "pan up",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_007",
+     "startMs": 56003,
+     "endMs": 64293,
+     "narration_dhivehi": "އެއީ ދުވަހަކުވެސް އަމާޒުން ކައްސާނުލާނެ ތީރުތަކެކެވެ. ނުބައި މަންޒަރުތައް ބެލުމުގައި އެ މަންމަގެ ދަރިފުޅު ރޭގަނޑު ހޭލާ ހުންނައިރު،",
+     "narration_english": "Those are arrows that never miss their target. While her son stayed awake at night watching bad scenes,",
+     "crop": "tight",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      20.3,
+      4.8,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Cinematic semi-realistic digital illustration with a reflective, spiritual mood, deep teal and smoky steel-blue palette with warm amber lamplight and soft dawn-gold accents, gentle atmospheric haze and rim light, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and calm, uncluttered space at the bottom for a logo.\nScene: the small single-storey house seen from the sandy lane at night under a sky full of stars, two small windows: the left one glowing with warm amber lamplight, the right one flickering cold blue, a faint soft golden light rising from the roof into the starry sky; no people visible. Location: a small ordinary single-storey Maldivian house with a corrugated tin roof and a low coral-stone boundary wall on a quiet sandy island lane late at night, coconut palms, a starry sky. Camera: wide establishing shot, low angle, the house in the upper half, the sandy lane forming a calm lower third.\nMood/lighting: late night, deep blue sky full of stars, one window glowing with warm amber lamplight and another window flickering cold blue, silence, quiet longing.\nModest clothing appropriate to the story's setting, culturally respectful and Islamic in spirit, no violence shown, no alcohol, no drugs, no smoking, no text, no letters, no writing, no Arabic script, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.164,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 50.0,
+    "y_pct": 40.0,
+    "face_detected": false
+   }
+  },
+  {
+   "id": "beat_004",
+   "startMs": 64293,
+   "endMs": 101565,
+   "new_image_reason": "scene and character change: the mother in dua in the last third of the night",
+   "characters": [
+    "devout_mother"
+   ],
+   "location": "the mother's small plain bedroom in an old Maldivian house late at night, whitewashed walls, a narrow wooden bed with a simple sheet, a small wooden table with a single small oil lamp, a prayer mat on the tiled floor facing a plain wall",
+   "location_key": "mother_room",
+   "mood": "the last third of the night, warm amber glow of the small oil lamp against deep teal shadows, deep silence, prayerful, tender and sorrowful",
+   "visual": "the old mother sitting on a prayer mat on the floor of her dim room, both palms raised before her chest in dua, eyes lifted, tears running down her wrinkled cheeks, the small oil lamp beside her casting warm amber light on her face and white headscarf",
+   "camera": "medium shot, eye level, slightly from the side",
+   "image": "images/beat_004.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "room_night",
+   "shots": [
+    {
+     "id": "shot_008",
+     "startMs": 64293,
+     "endMs": 73724,
+     "narration_dhivehi": "އެ މަންމަ ރޭގަނޑުގެ ދަންވަރު ތެދުވެ، ދަރިފުޅަށް ހިދާޔަތާއި ހެޔޮގޮތް މިންވަރުކުރެއްވުން އެދި ދުޢާކުރެއެވެ. އެއީ އަޖައިބުވާންޖެހޭ ކަމެއް ނޫނެވެ.",
+     "narration_english": "that mother rose in the last part of the night and prayed that her son be granted guidance and goodness. That is no wonder.",
+     "crop": "full",
+     "motion": "pan down",
+     "sfx": [
+      {
+       "name": "cloth_rustle",
+       "atMs": 66083,
+       "gainDb": -24,
+       "word": "ތެދުވެ،"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_009",
+     "startMs": 73724,
+     "endMs": 84044,
+     "narration_dhivehi": "އެހެނީ މައިވަންތަކަމުގެ ލޯތްބާއި ކުލުނަކީ އެހެން އެއްވެސް ކަމަކާ އެއްފަދަ ކުރެވޭނެ އެއްޗެއް ނޫނެވެ. އެއީ މަންމައެވެ. މަންމަގެ ލޯތްބެވެ. އެއްރެއެއްގެ ދަންވަރު ވަގުތެވެ.",
+     "narration_english": "For a mother's love and tenderness cannot be compared with anything else. That is a mother. A mother's love. It was the last part of one night.",
+     "crop": "tight",
+     "motion": "static drift",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      16.7,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_010",
+     "startMs": 84044,
+     "endMs": 91515,
+     "narration_dhivehi": "ދުނިޔެއަށް ވެރިވެފައިވަނީ ހިމޭންކަމެވެ. އެ މަންމަ ދެއަތް މައްޗަށް ނަގައިގެން ﷲ އަށް ދުޢާކުރަން އިނީ ކޮޓަރީގައެވެ.",
+     "narration_english": "Silence had settled over the world. The mother was sitting in her room with both hands raised, praying to Allah.",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_011",
+     "startMs": 91515,
+     "endMs": 101565,
+     "narration_dhivehi": "އެ މަންމަގެ ދެކޯތާފަތްމަތިން ކަރުނަތައް ފައިބަމުން ދިޔައެވެ. އެއީ ހިތާމައާއި ވޭނުގެ ކަރުނައެވެ. ކުއްލިއަކަށް އެ ފުން ހިމޭންކަން ނަގާލީ ބާރު އަޑުފައްގަނޑަކުންނެވެ.",
+     "narration_english": "Tears were running down her cheeks — tears of grief and pain. Suddenly that deep silence was broken by a loud crash.",
+     "crop": "medium",
+     "motion": "pan left",
+     "sfx": [
+      {
+       "name": "sob_breath",
+       "atMs": 93105,
+       "gainDb": -24,
+       "word": "ކަރުނަތައް"
+      },
+      {
+       "name": "glass_break",
+       "atMs": 100005,
+       "gainDb": -14,
+       "word": "އަޑުފައްގަނޑަކުންނެވެ."
+      }
+     ],
+     "hum": true,
+     "crop_rect_pct": [
+      10.6,
+      0.0,
+      71.5,
+      84.7
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is the mother), create a new scene: Cinematic semi-realistic digital illustration with a reflective, spiritual mood, deep teal and smoky steel-blue palette with warm amber lamplight and soft dawn-gold accents, gentle atmospheric haze and rim light, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and calm, uncluttered space at the bottom for a logo.\nScene: the old mother sitting on a prayer mat on the floor of her dim room, both palms raised before her chest in dua, eyes lifted, tears running down her wrinkled cheeks, the small oil lamp beside her casting warm amber light on her face and white headscarf. Location: the mother's small plain bedroom in an old Maldivian house late at night, whitewashed walls, a narrow wooden bed with a simple sheet, a small wooden table with a single small oil lamp, a prayer mat on the tiled floor facing a plain wall. Camera: medium shot, eye level, slightly from the side.\nCharacters: The mother: a small thin slightly stooped Maldivian woman about 70 with warm brown skin, a thin wrinkled kind face and gentle sad eyes; wears a loose long-sleeved ankle-length faded sea-green traditional Maldivian dress and a plain white cotton headscarf fully covering her hair and neck.\nMood/lighting: the last third of the night, warm amber glow of the small oil lamp against deep teal shadows, deep silence, prayerful, tender and sorrowful.\nModest clothing appropriate to the story's setting, culturally respectful and Islamic in spirit, no violence shown, no alcohol, no drugs, no smoking, no text, no letters, no writing, no Arabic script, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.168,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 46.4,
+    "y_pct": 20.1,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_005",
+   "startMs": 101565,
+   "endMs": 109226,
+   "new_image_reason": "action change: the crash — she runs crying towards her son's room",
+   "characters": [
+    "devout_mother"
+   ],
+   "location": "a narrow dark corridor inside a small old Maldivian house late at night, whitewashed walls, a wooden door at the far end left half open with a pale light spilling out",
+   "location_key": "corridor",
+   "mood": "night, deep shadows, pale light from the half-open door, sudden urgency and fear",
+   "visual": "the frail old mother hurrying down the narrow dark corridor towards a half-open door at the far end, one hand raised towards it, her face full of alarm, her white headscarf and sea-green dress caught in the pale light from the doorway",
+   "camera": "medium wide, from behind and slightly to the side of her",
+   "image": "images/beat_005.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "home_night",
+   "shots": [
+    {
+     "id": "shot_012",
+     "startMs": 101565,
+     "endMs": 109226,
+     "narration_dhivehi": "އެއީ އާދަޔާޚިލާފު އަޑެކެވެ. \"މަގޭ ލޯބިވާ ދަރިފުޅާ!\" އޭ ކިޔައި ހަޅޭއްލަވަމުން އެ އަޑު އައި ދިމާއަށް މަންމަ އަވަހަށް ދުވެފައި ދިޔައެވެ.",
+     "narration_english": "It was an unusual sound. Crying out 'My beloved son!', the mother ran quickly towards where the sound had come from.",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [
+      {
+       "name": "gasp",
+       "atMs": 105426,
+       "gainDb": -20,
+       "word": "ހަޅޭއްލަވަމުން"
+      },
+      {
+       "name": "footsteps_pavement",
+       "atMs": 108106,
+       "gainDb": -22,
+       "word": "ދުވެފައި"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is the mother), create a new scene: Cinematic semi-realistic digital illustration with a reflective, spiritual mood, deep teal and smoky steel-blue palette with warm amber lamplight and soft dawn-gold accents, gentle atmospheric haze and rim light, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and calm, uncluttered space at the bottom for a logo.\nScene: the frail old mother hurrying down the narrow dark corridor towards a half-open door at the far end, one hand raised towards it, her face full of alarm, her white headscarf and sea-green dress caught in the pale light from the doorway. Location: a narrow dark corridor inside a small old Maldivian house late at night, whitewashed walls, a wooden door at the far end left half open with a pale light spilling out. Camera: medium wide, from behind and slightly to the side of her.\nCharacters: The mother: a small thin slightly stooped Maldivian woman about 70 with warm brown skin, a thin wrinkled kind face and gentle sad eyes; wears a loose long-sleeved ankle-length faded sea-green traditional Maldivian dress and a plain white cotton headscarf fully covering her hair and neck.\nMood/lighting: night, deep shadows, pale light from the half-open door, sudden urgency and fear.\nModest clothing appropriate to the story's setting, culturally respectful and Islamic in spirit, no violence shown, no alcohol, no drugs, no smoking, no text, no letters, no writing, no Arabic script, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.128,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 71.4,
+    "y_pct": 80.4,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_006",
+   "startMs": 109226,
+   "endMs": 129667,
+   "new_image_reason": "scene and action change: the son has smashed the TV",
+   "characters": [
+    "tv_son",
+    "devout_mother"
+   ],
+   "location": "the son's small cluttered bedroom in an old Maldivian house late at night, whitewashed walls, an unmade single bed, a low wooden cabinet, a single bare ceiling bulb",
+   "location_key": "son_room",
+   "mood": "night, harsh single bulb light and long shadows, tense turning point then tender release",
+   "visual": "the son standing over an old flat-screen TV lying on the floor, its dark screen cracked across in a spider-web pattern; he holds a wooden mallet lowered loosely at his side, breathing hard, his face resolved and remorseful, looking up towards the doorway where his old mother stands frozen in surprise, one hand at her chest; nobody is hurt",
+   "camera": "medium wide, eye level",
+   "image": "images/beat_006.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": "violence",
+   "safe_substitution": "the smashing itself is not shown: only the aftermath — a cracked dark screen and the tool lowered at his side; nobody is harmed",
+   "ambience": "room_night",
+   "shots": [
+    {
+     "id": "shot_013",
+     "startMs": 109226,
+     "endMs": 119916,
+     "narration_dhivehi": "ދަރިފުޅުގެ ކޮޓަރިއަށް ވަދެވުނުއިރު، އޭނާގެ އަތުގައި އޮތް އުދައްޔަކުން ޓީވީ ތަޅައި ސުންނާފަތި ކުރަނީއެވެ. އެއީ ﷲ އަށާއި މަންމައަށް ކިޔަމަންތެރިވުމުން އޭނާ ދުރުކުރުވައި،",
+     "narration_english": "When she entered her son's room, he was smashing the TV to pieces with a mallet, saying it was the thing that had kept him from obeying Allah and his mother,",
+     "crop": "full",
+     "motion": "pan right",
+     "sfx": [
+      {
+       "name": "door_open",
+       "atMs": 110666,
+       "gainDb": -20,
+       "word": "ވަދެވުނުއިރު،"
+      },
+      {
+       "name": "soft_thud",
+       "atMs": 113946,
+       "gainDb": -16,
+       "word": "ތަޅައި"
+      },
+      {
+       "name": "glass_break",
+       "atMs": 114486,
+       "gainDb": -18,
+       "word": "ސުންނާފަތި"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_014",
+     "startMs": 119916,
+     "endMs": 129667,
+     "narration_dhivehi": "ފަރުޟު ނަމާދުތައް އެޅުމަށް މެދުވެރިވި އެއްޗެއް ކަމުގައި ބުނަމުންނެވެ. ދެން އޭނާ މަންމަގެ ގާތަށް ގޮސް މަންމަގެ ބޮލުގައި ބޮސްދީ، މޭގައި ޖައްސައި ބައްދާލިއެވެ.",
+     "narration_english": "and from praying the obligatory prayers. Then he went to his mother, kissed her head, pressed her to his chest and embraced her.",
+     "crop": "tight",
+     "motion": "slow push-in",
+     "sfx": [
+      {
+       "name": "cloth_rustle",
+       "atMs": 128387,
+       "gainDb": -22,
+       "word": "ބައްދާލިއެވެ."
+      }
+     ],
+     "hum": true,
+     "crop_rect_pct": [
+      20.3,
+      4.8,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is the son; reference image 2 is the mother), create a new scene: Cinematic semi-realistic digital illustration with a reflective, spiritual mood, deep teal and smoky steel-blue palette with warm amber lamplight and soft dawn-gold accents, gentle atmospheric haze and rim light, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and calm, uncluttered space at the bottom for a logo.\nScene: the son standing over an old flat-screen TV lying on the floor, its dark screen cracked across in a spider-web pattern; he holds a wooden mallet lowered loosely at his side, breathing hard, his face resolved and remorseful, looking up towards the doorway where his old mother stands frozen in surprise, one hand at her chest; nobody is hurt. Location: the son's small cluttered bedroom in an old Maldivian house late at night, whitewashed walls, an unmade single bed, a low wooden cabinet, a single bare ceiling bulb. Camera: medium wide, eye level.\nCharacters: The son: a slim Maldivian young man in his early 20s with warm brown skin, short messy black hair, a lean face, dark tired eyes with shadows under them, straight thick eyebrows, a thin moustache and light stubble; wears a faded charcoal-grey long-sleeved t-shirt and dark navy track trousers. The mother: a small thin slightly stooped Maldivian woman about 70 with warm brown skin, a thin wrinkled kind face and gentle sad eyes; wears a loose long-sleeved ankle-length faded sea-green traditional Maldivian dress and a plain white cotton headscarf fully covering her hair and neck.\nMood/lighting: night, harsh single bulb light and long shadows, tense turning point then tender release.\nModest clothing appropriate to the story's setting, culturally respectful and Islamic in spirit, no violence shown, no alcohol, no drugs, no smoking, no text, no letters, no writing, no Arabic script, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.176,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 50.0,
+    "y_pct": 40.0,
+    "face_detected": false
+   }
+  },
+  {
+   "id": "beat_007",
+   "startMs": 129667,
+   "endMs": 147998,
+   "new_image_reason": "action change: he kisses his mother's head and embraces her; her tears of joy",
+   "characters": [
+    "tv_son",
+    "devout_mother"
+   ],
+   "location": "the son's small cluttered bedroom in an old Maldivian house late at night, whitewashed walls, an unmade single bed, a low wooden cabinet, a single bare ceiling bulb",
+   "location_key": "son_room",
+   "mood": "night, harsh single bulb light and long shadows, tense turning point then tender release",
+   "visual": "the son gently embracing his small old mother, bending to kiss the top of her white headscarf, his eyes closed in remorse; the mother held against his chest, her eyes closed, tears of joy on her cheeks and a trembling grateful smile; both fully clothed, a tender modest embrace",
+   "camera": "medium close-up, eye level",
+   "image": "images/beat_007.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": "intimacy",
+   "safe_substitution": "mother and son (mahram): a modest forehead/head kiss and gentle embrace, both fully clothed",
+   "ambience": "room_night",
+   "shots": [
+    {
+     "id": "shot_015",
+     "startMs": 129667,
+     "endMs": 138597,
+     "narration_dhivehi": "އެވަގުތު މަންމަ އަންތަރީސްވެފައި ހުރިއިރު، ދެކޯތާފަތްމަތިން ކަރުނަ ފައިބަމުން ދިޔައެވެ. ނަމަވެސް މިފަހަރު އެއީ ހިތާމައާއި ވޭނުގެ ކަރުނައެއް ނޫނެވެ.",
+     "narration_english": "At that moment, as the mother stood stunned, tears ran down her cheeks. But this time they were not tears of grief and pain.",
+     "crop": "full",
+     "motion": "pan up",
+     "sfx": [
+      {
+       "name": "sob_breath",
+       "atMs": 133127,
+       "gainDb": -24,
+       "word": "ކަރުނަ"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_016",
+     "startMs": 138597,
+     "endMs": 147998,
+     "narration_dhivehi": "އެއީ އުފާވެރިކަމުގެ ކަރުނައެވެ. އެގޮތަށް ﷲ އެ މަންމަގެ ދުޢާ އިޖާބަކުރައްވައި، ދަރިފުޅަށް ހިދާޔަތް ދެއްވިއެވެ. ﷲ ތަޢާލާގެ ވަޙީބަސްފުޅަކީ ތެދުބަސްފުޅެކެވެ.",
+     "narration_english": "They were tears of joy. In this way Allah answered that mother's dua and gave her son guidance. The word of Allah the Exalted is the truth.",
+     "crop": "tight",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": true,
+     "crop_rect_pct": [
+      11.5,
+      5.0,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is the son; reference image 2 is the mother), create a new scene: Cinematic semi-realistic digital illustration with a reflective, spiritual mood, deep teal and smoky steel-blue palette with warm amber lamplight and soft dawn-gold accents, gentle atmospheric haze and rim light, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and calm, uncluttered space at the bottom for a logo.\nScene: the son gently embracing his small old mother, bending to kiss the top of her white headscarf, his eyes closed in remorse; the mother held against his chest, her eyes closed, tears of joy on her cheeks and a trembling grateful smile; both fully clothed, a tender modest embrace. Location: the son's small cluttered bedroom in an old Maldivian house late at night, whitewashed walls, an unmade single bed, a low wooden cabinet, a single bare ceiling bulb. Camera: medium close-up, eye level.\nCharacters: The son: a slim Maldivian young man in his early 20s with warm brown skin, short messy black hair, a lean face, dark tired eyes with shadows under them, straight thick eyebrows, a thin moustache and light stubble; wears a faded charcoal-grey long-sleeved t-shirt and dark navy track trousers. The mother: a small thin slightly stooped Maldivian woman about 70 with warm brown skin, a thin wrinkled kind face and gentle sad eyes; wears a loose long-sleeved ankle-length faded sea-green traditional Maldivian dress and a plain white cotton headscarf fully covering her hair and neck.\nMood/lighting: night, harsh single bulb light and long shadows, tense turning point then tender release.\nModest clothing appropriate to the story's setting, culturally respectful and Islamic in spirit, no violence shown, no alcohol, no drugs, no smoking, no text, no letters, no writing, no Arabic script, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.19,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 41.2,
+    "y_pct": 40.2,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_008",
+   "startMs": 147998,
+   "endMs": 175130,
+   "new_image_reason": "the closing Quran verse (Al-Baqarah 2:186): symbolic imagery",
+   "characters": [],
+   "location": "the sky over a small Maldivian island at the break of dawn, a calm lagoon, coconut palms in silhouette and a simple white mosque minaret against the sky",
+   "location_key": "dawn",
+   "mood": "dawn, soft gold light rays breaking through blue haze, peaceful, hopeful, spiritual",
+   "visual": "soft golden rays of dawn breaking through blue haze over a calm lagoon, a simple white minaret and coconut palms in silhouette against the brightening sky, no people",
+   "camera": "wide shot, the sky and minaret in the upper two-thirds, the still lagoon as a calm lower third",
+   "image": "images/beat_008.png",
+   "reuse_of": null,
+   "transition_in": "dissolve",
+   "sensitive": "other",
+   "safe_substitution": "Quran verse shown only as symbolic dawn light and a minaret; no Arabic script rendered",
+   "ambience": "dawn_exterior",
+   "shots": [
+    {
+     "id": "shot_017",
+     "startMs": 147998,
+     "endMs": 159469,
+     "narration_dhivehi": "{وَإِذَا سَأَلَكَ عِبَادِی عَنِّی فَإِنِّی قَرِیبٌۖ أُجِیبُ دَعۡوَةَ ٱلدَّاعِ إِذَا دَعَانِ} \"އަދި ތިމަންރަސްކަލާނގެއާމެދު ތިމަންރަސްކަލާނގެ އަޅުން ކަލޭގެފާނާ ސުވާލު ކޮށްފިނަމަ،",
+     "narration_english": "[Al-Baqarah 2:186, recited in Arabic] \"And when My servants ask you concerning Me,",
+     "crop": "full",
+     "motion": "pan down",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_018",
+     "startMs": 159469,
+     "endMs": 167709,
+     "narration_dhivehi": "(ކަލޭގެފާނު ވިދާޅުވާށެވެ!) ފަހެ، ހަމަކަށަވަރުން ތިމަންރަސްކަލާނގެއީ (އެއުރެންނާ) ކުއްތަންވެ ވޮޑިގެންވާ ރަސްކަލާނގެއެވެ.",
+     "narration_english": "(say!) then indeed I am near (to them).",
+     "crop": "tight",
+     "motion": "static drift",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      20.3,
+      4.8,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_019",
+     "startMs": 167709,
+     "endMs": 175130,
+     "narration_dhivehi": "ތިމަންރަސްކަލާނގެ ޙަޟްރަތަށް ދުޢާކޮށްފިނަމަ ދުޢާކުރި މީހާގެ ދުޢާ ތިމަންރަސްކަލާނގެ އިޖާބަ ކުރައްވަމެވެ.\" (ނިމުނީ)",
+     "narration_english": "I answer the call of the caller when he calls upon Me.\" (The end)",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": true,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Cinematic semi-realistic digital illustration with a reflective, spiritual mood, deep teal and smoky steel-blue palette with warm amber lamplight and soft dawn-gold accents, gentle atmospheric haze and rim light, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and calm, uncluttered space at the bottom for a logo.\nScene: soft golden rays of dawn breaking through blue haze over a calm lagoon, a simple white minaret and coconut palms in silhouette against the brightening sky, no people. Location: the sky over a small Maldivian island at the break of dawn, a calm lagoon, coconut palms in silhouette and a simple white mosque minaret against the sky. Camera: wide shot, the sky and minaret in the upper two-thirds, the still lagoon as a calm lower third.\nMood/lighting: dawn, soft gold light rays breaking through blue haze, peaceful, hopeful, spiritual.\nModest clothing appropriate to the story's setting, culturally respectful and Islamic in spirit, no violence shown, no alcohol, no drugs, no smoking, no text, no letters, no writing, no Arabic script, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.489,
+    "halo": true
+   },
+   "focus": {
+    "x_pct": 50.0,
+    "y_pct": 40.0,
+    "face_detected": false
+   }
+  }
+ ]
+}

@@ -1,0 +1,2502 @@
+{
+ "series": "Mamma",
+ "episode": 308,
+ "beats": [
+  {
+   "id": "beat_001",
+   "startMs": 0,
+   "endMs": 17671,
+   "new_image_reason": "episode opening: the black storm night over the sea, waves rising",
+   "characters": [],
+   "location": "the open Indian Ocean at night just off a small Maldivian local island: huge dark rolling waves with white foam crests, the dark line of the island's palms on the horizon, a few tiny amber lights of the island harbour, black storm clouds filling the whole sky, no moon, no stars",
+   "location_key": "storm_sea",
+   "mood": "storm night, black sky with no moon, a jagged flash of lightning lighting the clouds, howling wind and spray, ominous, grief-heavy",
+   "visual": "black storm clouds swallowing the whole night sky, no moon and no stars, a jagged lightning bolt far away lighting the cloud edges, huge dark waves with white foam crests rolling towards the dark low island on the horizon with a few tiny amber harbour lights; no people",
+   "camera": "wide establishing shot, the sky and the island horizon in the upper two-thirds, dark rolling water as a calm lower third",
+   "image": "images/beat_001.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "storm_night",
+   "shots": [
+    {
+     "id": "shot_001",
+     "startMs": 0,
+     "endMs": 10020,
+     "narration_dhivehi": "ކަޅު ބޯ ވިލާތަކުން މުޅި އުޑުމަތި ބައްދާލައިފިއެވެ. ހަނދުގެ ރިހި އަލިކަން ފަނޑުވެ، ތަރިތަކުގެ ވިދުން ގެއްލި މުޅި ކައުނަށް ވެރިވެފައިވަނީ ބަނަކަމެވެ.",
+     "narration_english": "Black heavy clouds had wrapped the whole sky. The moon's silver light had faded, the stars' glitter was lost, and darkness ruled the whole universe.",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_002",
+     "startMs": 10020,
+     "endMs": 17671,
+     "narration_dhivehi": "ހީވަނީ މުޅި މާހައުލު ހިތާމައިގެ ކަޅު ސާލެއް އޮޅާލައިގެން އޮތް ހެންނެވެ. ވައި ބާރުވެ، ކަނޑުގެ ރާޅުތައް ކެކިއަރަމުން ދިޔައެވެ.",
+     "narration_english": "It seemed as if the whole world had wrapped itself in a black shawl of grief. The wind grew strong and the waves of the sea rose roaring.",
+     "crop": "tight",
+     "motion": "pan left",
+     "sfx": [
+      {
+       "name": "wind_gust",
+       "atMs": 14800,
+       "gainDb": -20,
+       "word": "ބާރުވެ،"
+      },
+      {
+       "name": "wave_crash",
+       "atMs": 16120,
+       "gainDb": -20,
+       "word": "ރާޅުތައް"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      20.3,
+      4.8,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Cinematic semi-realistic digital illustration with a tender, melancholic family-drama look, deep blue-black night shadows lit by warm amber lamplight, rain-wet reflections and soft glowing bokeh, gentle hazy tropical daylight on the island, warm homely interiors that turn dim and cold in sad moments, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, wet pavement, sand, table top, bedspread, soft shadow) for captions and a logo; set in the present-day Maldives: a small local island with a stone jetty, white sandy roads, an old white mosque and a walled cemetery, and Malé's narrow streets and a comfortable older family townhouse.\nScene: black storm clouds swallowing the whole night sky, no moon and no stars, a jagged lightning bolt far away lighting the cloud edges, huge dark waves with white foam crests rolling towards the dark low island on the horizon with a few tiny amber harbour lights; no people. Location: the open Indian Ocean at night just off a small Maldivian local island: huge dark rolling waves with white foam crests, the dark line of the island's palms on the horizon, a few tiny amber lights of the island harbour, black storm clouds filling the whole sky, no moon, no stars. Camera: wide establishing shot, the sky and the island horizon in the upper two-thirds, dark rolling water as a calm lower third.\nMood/lighting: storm night, black sky with no moon, a jagged flash of lightning lighting the clouds, howling wind and spray, ominous, grief-heavy.\nModest Maldivian clothing (every woman and girl in loose long-sleeved ankle-length opaque clothing with a hijab fully covering her hair and neck, indoors too; men in shirts or t-shirts with long trousers or a sarong, never shirtless), a clear respectful distance between men and women, nobody touching, culturally respectful, no violence, nobody hitting or grabbing anyone, no blood, no wounds, no bruises, no marks on any face, no injuries, no corpses, no medical procedures, no needles, no knives, no cigarettes, no smoking, no tattoos, no text, no letters, no numbers, no writing, no readable screens or papers, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.043,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 50.0,
+    "y_pct": 40.0,
+    "face_detected": false
+   }
+  },
+  {
+   "id": "beat_002",
+   "startMs": 17671,
+   "endMs": 34542,
+   "new_image_reason": "scene change: a passenger dhoni battles into the harbour and comes alongside the jetty; passengers hurry off",
+   "characters": [],
+   "location": "the small harbour of a Maldivian local island at night: a long stone jetty (faalan) with a few lamp posts casting warm amber pools of light, a wooden passenger dhoni with a white-and-blue hull and a small wheelhouse rocking in choppy black water beside the jetty, palm trees and low island buildings behind",
+   "location_key": "harbour_night",
+   "mood": "storm night, black sky, heavy clouds, wind-whipped water, warm amber lamps on the jetty, the first raindrops, tense and hurried",
+   "visual": "a wooden passenger dhoni tilting in the choppy black water as it comes alongside the stone jetty, spray on its bow; small figures of passengers in raincoats and headscarves hurrying from the deck onto the jetty with bags, seen from a distance in the amber jetty lamps; the first raindrops slanting in the wind",
+   "camera": "wide shot from the end of the jetty, slightly high, the dhoni and lamps in the upper two-thirds, faces in the upper two-thirds, a calm uncluttered lower third (wet jetty stones)",
+   "image": "images/beat_002.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "storm_night",
+   "shots": [
+    {
+     "id": "shot_003",
+     "startMs": 17671,
+     "endMs": 27891,
+     "narration_dhivehi": "ކަނޑުގެ ރާޅުތަކުގެ ވަކިތަކުގެ ދަށުން ސަލާމަތްވުމަށް މަސައްކަތް ކުރަމުން އައި ދޯންޏެއް އެ ވަގުތު ރަށުގެ ފަޅަށް ވަދެ، ދެ ފަރާތަށް ކިރެމުން ގޮސް ފާލަމާ ގާތްކޮށްލިއެވެ.",
+     "narration_english": "A dhoni that had come struggling to stay safe under the crests of the waves entered the island's harbour at that moment and, rocking from side to side, came alongside the jetty.",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [
+      {
+       "name": "dhoni_engine",
+       "atMs": 22541,
+       "gainDb": -18,
+       "word": "ދޯންޏެއް"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_004",
+     "startMs": 27891,
+     "endMs": 34542,
+     "narration_dhivehi": "ބޯކޮށް ވާރޭ އޮއްސައިގަތުމުގެ ކުރިން، ދޯނީގައި ތިބި ފަސިންޖަރުން އަވަސްއަވަހަށް ފާލަމަށް ފައިބަން ފެށިއެވެ.",
+     "narration_english": "Before the heavy rain poured down, the passengers on the dhoni quickly began to get off onto the jetty.",
+     "crop": "tight",
+     "motion": "pan right",
+     "sfx": [
+      {
+       "name": "footsteps_pavement",
+       "atMs": 33521,
+       "gainDb": -22,
+       "word": "ފައިބަން"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      20.3,
+      4.8,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Cinematic semi-realistic digital illustration with a tender, melancholic family-drama look, deep blue-black night shadows lit by warm amber lamplight, rain-wet reflections and soft glowing bokeh, gentle hazy tropical daylight on the island, warm homely interiors that turn dim and cold in sad moments, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, wet pavement, sand, table top, bedspread, soft shadow) for captions and a logo; set in the present-day Maldives: a small local island with a stone jetty, white sandy roads, an old white mosque and a walled cemetery, and Malé's narrow streets and a comfortable older family townhouse.\nScene: a wooden passenger dhoni tilting in the choppy black water as it comes alongside the stone jetty, spray on its bow; small figures of passengers in raincoats and headscarves hurrying from the deck onto the jetty with bags, seen from a distance in the amber jetty lamps; the first raindrops slanting in the wind. Location: the small harbour of a Maldivian local island at night: a long stone jetty (faalan) with a few lamp posts casting warm amber pools of light, a wooden passenger dhoni with a white-and-blue hull and a small wheelhouse rocking in choppy black water beside the jetty, palm trees and low island buildings behind. Camera: wide shot from the end of the jetty, slightly high, the dhoni and lamps in the upper two-thirds, faces in the upper two-thirds, a calm uncluttered lower third (wet jetty stones).\nMood/lighting: storm night, black sky, heavy clouds, wind-whipped water, warm amber lamps on the jetty, the first raindrops, tense and hurried.\nModest Maldivian clothing (every woman and girl in loose long-sleeved ankle-length opaque clothing with a hijab fully covering her hair and neck, indoors too; men in shirts or t-shirts with long trousers or a sarong, never shirtless), a clear respectful distance between men and women, nobody touching, culturally respectful, no violence, nobody hitting or grabbing anyone, no blood, no wounds, no bruises, no marks on any face, no injuries, no corpses, no medical procedures, no needles, no knives, no cigarettes, no smoking, no tattoos, no text, no letters, no numbers, no writing, no readable screens or papers, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.098,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 50.0,
+    "y_pct": 40.0,
+    "face_detected": false
+   }
+  },
+  {
+   "id": "beat_003",
+   "startMs": 34542,
+   "endMs": 52213,
+   "new_image_reason": "character focus: Shahula steps off with her sleeping baby and a bag and stands lost, looking up the main road",
+   "characters": [
+    "shahula"
+   ],
+   "location": "the landward end of the island's stone jetty at night, a lamp post glowing amber above, wet stones reflecting the light, the wide white sandy main road (bodumagu) of the island stretching inland between palms and low coral-stone walls, a few weak streetlamps fading into the darkness",
+   "location_key": "jetty_night",
+   "mood": "storm night, black sky, warm amber lamplight, fine rain starting to fall in the lamp glow, lost, lonely and anxious",
+   "visual": "Shahula (reference used for her face only) wearing a loose long-sleeved ankle-length black abaya and a black hijab with a white under-scarf showing at the forehead, fully covering her hair and neck, NOT the dusty-rose dress and NOT the cream hijab, standing alone at the end of the stone jetty under a glowing lamp post, her baby son Zidhaan, a healthy few-months-old baby in a pale-blue long-sleeved baby suit wrapped in a pale-blue cotton blanket, asleep with his head on her shoulder, a travel bag in her other hand, looking up the dark sandy main road with an anxious, bewildered face; fine rain beginning to fall in the lamp glow; seen three-quarter from the front",
+   "camera": "medium wide shot, eye level, faces in the upper two-thirds, a calm uncluttered lower third (wet jetty stones reflecting the lamp)",
+   "image": "images/beat_003.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "storm_night",
+   "shots": [
+    {
+     "id": "shot_005",
+     "startMs": 34542,
+     "endMs": 44292,
+     "narration_dhivehi": "ޝަހުލާ ވެސް އޭނާގެ ކުޑަ ދަރިފުޅު މޭގައި ޖައްސާލައިގެން ދޯނިން ފޭބިއެވެ. އަދި ހާސްކަމާއި ހައިރާންކަމާއެކު ވަށައިގެންވާ މާހައުލަށް ބަލައިލުމަށްފަހު،",
+     "narration_english": "Shahula too got off the dhoni holding her little child to her chest. And after looking around her surroundings with worry and bewilderment,",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_006",
+     "startMs": 44292,
+     "endMs": 52213,
+     "narration_dhivehi": "ދާނެ ވަކި މަންޒިލެއް ނޭނގިފައިވާ ހާލު ރަށުގެ ބޮޑުމަގާ ދިމާއަށް ބަލަހައްޓައިގެން ހުއްޓެވެ. އެ ވަގުތު ތުނިކޮށް ވާރޭ ވެހެން ފެށިއެވެ.",
+     "narration_english": "not knowing of any place to go, she stood looking towards the island's main road. At that moment a fine rain began to fall.",
+     "crop": "tight",
+     "motion": "pan up",
+     "sfx": [
+      {
+       "name": "rain_start",
+       "atMs": 51243,
+       "gainDb": -18,
+       "word": "ވެހެން"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      8.1,
+      0.0,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Shahula), create a new scene: Cinematic semi-realistic digital illustration with a tender, melancholic family-drama look, deep blue-black night shadows lit by warm amber lamplight, rain-wet reflections and soft glowing bokeh, gentle hazy tropical daylight on the island, warm homely interiors that turn dim and cold in sad moments, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, wet pavement, sand, table top, bedspread, soft shadow) for captions and a logo; set in the present-day Maldives: a small local island with a stone jetty, white sandy roads, an old white mosque and a walled cemetery, and Malé's narrow streets and a comfortable older family townhouse.\nScene: Shahula (reference used for her face only) wearing a loose long-sleeved ankle-length black abaya and a black hijab with a white under-scarf showing at the forehead, fully covering her hair and neck, NOT the dusty-rose dress and NOT the cream hijab, standing alone at the end of the stone jetty under a glowing lamp post, her baby son Zidhaan, a healthy few-months-old baby in a pale-blue long-sleeved baby suit wrapped in a pale-blue cotton blanket, asleep with his head on her shoulder, a travel bag in her other hand, looking up the dark sandy main road with an anxious, bewildered face; fine rain beginning to fall in the lamp glow; seen three-quarter from the front. Location: the landward end of the island's stone jetty at night, a lamp post glowing amber above, wet stones reflecting the light, the wide white sandy main road (bodumagu) of the island stretching inland between palms and low coral-stone walls, a few weak streetlamps fading into the darkness. Camera: medium wide shot, eye level, faces in the upper two-thirds, a calm uncluttered lower third (wet jetty stones reflecting the lamp).\nCharacters: Shahula: a slim Maldivian woman of about 24 with light warm-brown skin, a soft oval face, large dark expressive eyes with long lashes, thick softly arched eyebrows, a small straight nose and full lips; wears a loose long-sleeved ankle-length dusty-rose house dress and a cream hijab fully covering her hair and neck.\nMood/lighting: storm night, black sky, warm amber lamplight, fine rain starting to fall in the lamp glow, lost, lonely and anxious.\nModest Maldivian clothing (every woman and girl in loose long-sleeved ankle-length opaque clothing with a hijab fully covering her hair and neck, indoors too; men in shirts or t-shirts with long trousers or a sarong, never shirtless), a clear respectful distance between men and women, nobody touching, culturally respectful, no violence, nobody hitting or grabbing anyone, no blood, no wounds, no bruises, no marks on any face, no injuries, no corpses, no medical procedures, no needles, no knives, no cigarettes, no smoking, no tattoos, no text, no letters, no numbers, no writing, no readable screens or papers, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.099,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 37.8,
+    "y_pct": 27.5,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_004",
+   "startMs": 52213,
+   "endMs": 83364,
+   "new_image_reason": "action change: she walks up the main road; lightning and thunder make her flinch, the rain pours",
+   "characters": [
+    "shahula"
+   ],
+   "location": "the wide white sandy main road (bodumagu) of a small Maldivian island at night, low white coral-stone walls and tall palms on both sides, a few streetlamps casting warm amber pools of light on the wet sand, puddles reflecting the lamps, nobody else around",
+   "location_key": "main_road_night",
+   "mood": "storm night, heavy rain slanting in the amber streetlamp light, a white flash of lightning in the black sky, frightened and alone",
+   "visual": "Shahula (reference used for her face only) wearing a loose long-sleeved ankle-length black abaya and a black hijab with a white under-scarf showing at the forehead, fully covering her hair and neck, NOT the dusty-rose dress and NOT the cream hijab, walking up the wide sandy main road in slanting heavy rain, her baby son Zidhaan, a healthy few-months-old baby in a pale-blue long-sleeved baby suit wrapped in a pale-blue cotton blanket, asleep with his head on her shoulder, her bag in her other hand; she has stopped mid-step and flinched, shoulders drawn up, looking up fearfully at a white flash of lightning in the black sky; her abaya soaked; she shields the baby's head with her cheek",
+   "camera": "medium wide shot, eye level, faces in the upper two-thirds, a calm uncluttered lower third (wet sand with puddles reflecting the lamps)",
+   "image": "images/beat_004.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "storm_night",
+   "shots": [
+    {
+     "id": "shot_007",
+     "startMs": 52213,
+     "endMs": 61403,
+     "narration_dhivehi": "ޝަހުލާ ފުން ނޭވާއެއް ދޫކޮށްލުމަށްފަހު، ކޮނޑުމަތީގައި ނިދިފައި އޮތް ދަރިފުޅު ހަމަޖައްސާލަމުން، އަތުގައި އޮތް ދަބަސް ހިފައިގެން ބޮޑުމަގާ ދިމާއަށް ހިނގައިގަތެވެ.",
+     "narration_english": "Shahula let out a deep breath, settled the child sleeping on her shoulder, took the bag in her hand and started walking towards the main road.",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [
+      {
+       "name": "sigh",
+       "atMs": 52943,
+       "gainDb": -22,
+       "word": "ނޭވާއެއް"
+      },
+      {
+       "name": "footsteps_sand",
+       "atMs": 60523,
+       "gainDb": -22,
+       "word": "ހިނގައިގަތެވެ."
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_008",
+     "startMs": 61403,
+     "endMs": 70404,
+     "narration_dhivehi": "ވިދާލި ވިދުވަރާއެކު ގުގުރައިގަތް ބާރު އަޑަށް، ޝަހުލާ ދިޔައީ ސިއްސައިގެންނެވެ. ފިޔަވަޅުތައް ހުއްޓުނު ހިނދު، ބިރުވެރިކަމާއެކު ވަށައިގެން ހޯދައިލެވުނެވެ.",
+     "narration_english": "At the loud crack of thunder that came with the flash of lightning, Shahula flinched. Her steps stopped, and she looked around in fear.",
+     "crop": "tight",
+     "motion": "pan down",
+     "sfx": [
+      {
+       "name": "thunder",
+       "atMs": 62943,
+       "gainDb": -14,
+       "word": "ގުގުރައިގަތް"
+      },
+      {
+       "name": "gasp",
+       "atMs": 65403,
+       "gainDb": -22,
+       "word": "ސިއްސައިގެންނެވެ."
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      0.0,
+      29.6,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_009",
+     "startMs": 70404,
+     "endMs": 83364,
+     "narration_dhivehi": "އިސާހިތަކު ވާރޭގެ ތިކިތައް ބޯވެ، ހަށިގަނޑު ތެމިފޯވާ ވަރަށް ވާރޭ އޮއްސައިގަތެވެ. އުރާލައިގެން އިން ތުއްތު ދަރިފުޅުގެ ރައްކާތެރިކަމަށްޓަކައި، ކޮންމެވެސް ހިޔާވައްސެއް ހޯދުމަށް އޭނާގެ ހިތް އަވަސްވެގަތެވެ.",
+     "narration_english": "In an instant the raindrops grew heavy and the rain poured enough to soak her through. For the safety of the tiny child she held to her chest, her heart hurried to find some shelter.",
+     "crop": "full",
+     "motion": "static drift",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Shahula), create a new scene: Cinematic semi-realistic digital illustration with a tender, melancholic family-drama look, deep blue-black night shadows lit by warm amber lamplight, rain-wet reflections and soft glowing bokeh, gentle hazy tropical daylight on the island, warm homely interiors that turn dim and cold in sad moments, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, wet pavement, sand, table top, bedspread, soft shadow) for captions and a logo; set in the present-day Maldives: a small local island with a stone jetty, white sandy roads, an old white mosque and a walled cemetery, and Malé's narrow streets and a comfortable older family townhouse.\nScene: Shahula (reference used for her face only) wearing a loose long-sleeved ankle-length black abaya and a black hijab with a white under-scarf showing at the forehead, fully covering her hair and neck, NOT the dusty-rose dress and NOT the cream hijab, walking up the wide sandy main road in slanting heavy rain, her baby son Zidhaan, a healthy few-months-old baby in a pale-blue long-sleeved baby suit wrapped in a pale-blue cotton blanket, asleep with his head on her shoulder, her bag in her other hand; she has stopped mid-step and flinched, shoulders drawn up, looking up fearfully at a white flash of lightning in the black sky; her abaya soaked; she shields the baby's head with her cheek. Location: the wide white sandy main road (bodumagu) of a small Maldivian island at night, low white coral-stone walls and tall palms on both sides, a few streetlamps casting warm amber pools of light on the wet sand, puddles reflecting the lamps, nobody else around. Camera: medium wide shot, eye level, faces in the upper two-thirds, a calm uncluttered lower third (wet sand with puddles reflecting the lamps).\nCharacters: Shahula: a slim Maldivian woman of about 24 with light warm-brown skin, a soft oval face, large dark expressive eyes with long lashes, thick softly arched eyebrows, a small straight nose and full lips; wears a loose long-sleeved ankle-length dusty-rose house dress and a cream hijab fully covering her hair and neck.\nMood/lighting: storm night, heavy rain slanting in the amber streetlamp light, a white flash of lightning in the black sky, frightened and alone.\nModest Maldivian clothing (every woman and girl in loose long-sleeved ankle-length opaque clothing with a hijab fully covering her hair and neck, indoors too; men in shirts or t-shirts with long trousers or a sarong, never shirtless), a clear respectful distance between men and women, nobody touching, culturally respectful, no violence, nobody hitting or grabbing anyone, no blood, no wounds, no bruises, no marks on any face, no injuries, no corpses, no medical procedures, no needles, no knives, no cigarettes, no smoking, no tattoos, no text, no letters, no numbers, no writing, no readable screens or papers, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.04,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 12.7,
+    "y_pct": 79.7,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_005",
+   "startMs": 83364,
+   "endMs": 101406,
+   "new_image_reason": "scene change: the island mosque ahead; she hurries into the shelter of its porch",
+   "characters": [
+    "shahula"
+   ],
+   "location": "the island's old mosque at night seen from the sandy road: white-washed coral-stone walls, a low pitched corrugated roof, a wide covered front porch with low white wall-benches and square white pillars, a single warm amber lamp glowing under the porch roof, a sandy yard, palms bending in the wind",
+   "location_key": "mosque_front_night",
+   "mood": "storm night, heavy rain, black sky, the porch lamp a warm amber refuge in the darkness, urgent relief",
+   "visual": "the old white island mosque with its lamp-lit covered porch glowing amber ahead in the storm; Shahula (reference used for her face only) wearing a loose long-sleeved ankle-length black abaya and a black hijab with a white under-scarf showing at the forehead, fully covering her hair and neck, NOT the dusty-rose dress and NOT the cream hijab, small in the frame, hurrying across the sandy yard towards the porch steps in the pouring rain, her baby son Zidhaan, a healthy few-months-old baby in a pale-blue long-sleeved baby suit wrapped in a pale-blue cotton blanket, asleep with his head on her shoulder, bag in hand; seen from behind and to the side",
+   "camera": "wide shot, eye level, the mosque in the upper two-thirds, faces in the upper two-thirds, a calm uncluttered lower third (wet sandy yard with puddles)",
+   "image": "images/beat_005.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "storm_night",
+   "shots": [
+    {
+     "id": "shot_010",
+     "startMs": 83364,
+     "endMs": 93055,
+     "narration_dhivehi": "އެ ވަގުތު ކުރިމަތިން ފެންނަން ހުރީ ރަށުގެ މިސްކިތެވެ. ފުން ނޭވާއެއް ދޫކޮށްލުމަށްފަހު، ހިތްވަރުކޮށްފައި ބާރު ހިނގުމެއްގައި ގޮސް އޭނާ މިސްކިތަށް ވަނެވެ.",
+     "narration_english": "At that moment, the island's mosque could be seen in front of her. Letting out a deep breath, she gathered her courage and, walking fast, went into the mosque.",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [
+      {
+       "name": "footsteps_sand",
+       "atMs": 90365,
+       "gainDb": -22,
+       "word": "ހިނގުމެއްގައި"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_011",
+     "startMs": 93055,
+     "endMs": 101406,
+     "narration_dhivehi": "އެ ހިޔާވަހިކަން ލިބުމުން، ޝަހުލާގެ ހިތަށް ކުޑަނަމަވެސް ހަމަޖެހުމެއް ލިބިގެންދިޔައެވެ. \"ހާދަހާވާ ތޫފާނީ ރެއެކެވެ!\" ޝަހުލާގެ ހިތަށް އެރިއެވެ.",
+     "narration_english": "With that shelter, Shahula's heart found a little calm. \"What a stormy night!\" Shahula thought.",
+     "crop": "tight",
+     "motion": "pan left",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      20.3,
+      4.8,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Shahula), create a new scene: Cinematic semi-realistic digital illustration with a tender, melancholic family-drama look, deep blue-black night shadows lit by warm amber lamplight, rain-wet reflections and soft glowing bokeh, gentle hazy tropical daylight on the island, warm homely interiors that turn dim and cold in sad moments, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, wet pavement, sand, table top, bedspread, soft shadow) for captions and a logo; set in the present-day Maldives: a small local island with a stone jetty, white sandy roads, an old white mosque and a walled cemetery, and Malé's narrow streets and a comfortable older family townhouse.\nScene: the old white island mosque with its lamp-lit covered porch glowing amber ahead in the storm; Shahula (reference used for her face only) wearing a loose long-sleeved ankle-length black abaya and a black hijab with a white under-scarf showing at the forehead, fully covering her hair and neck, NOT the dusty-rose dress and NOT the cream hijab, small in the frame, hurrying across the sandy yard towards the porch steps in the pouring rain, her baby son Zidhaan, a healthy few-months-old baby in a pale-blue long-sleeved baby suit wrapped in a pale-blue cotton blanket, asleep with his head on her shoulder, bag in hand; seen from behind and to the side. Location: the island's old mosque at night seen from the sandy road: white-washed coral-stone walls, a low pitched corrugated roof, a wide covered front porch with low white wall-benches and square white pillars, a single warm amber lamp glowing under the porch roof, a sandy yard, palms bending in the wind. Camera: wide shot, eye level, the mosque in the upper two-thirds, faces in the upper two-thirds, a calm uncluttered lower third (wet sandy yard with puddles).\nCharacters: Shahula: a slim Maldivian woman of about 24 with light warm-brown skin, a soft oval face, large dark expressive eyes with long lashes, thick softly arched eyebrows, a small straight nose and full lips; wears a loose long-sleeved ankle-length dusty-rose house dress and a cream hijab fully covering her hair and neck.\nMood/lighting: storm night, heavy rain, black sky, the porch lamp a warm amber refuge in the darkness, urgent relief.\nModest Maldivian clothing (every woman and girl in loose long-sleeved ankle-length opaque clothing with a hijab fully covering her hair and neck, indoors too; men in shirts or t-shirts with long trousers or a sarong, never shirtless), a clear respectful distance between men and women, nobody touching, culturally respectful, no violence, nobody hitting or grabbing anyone, no blood, no wounds, no bruises, no marks on any face, no injuries, no corpses, no medical procedures, no needles, no knives, no cigarettes, no smoking, no tattoos, no text, no letters, no numbers, no writing, no readable screens or papers, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.308,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 50.0,
+    "y_pct": 40.0,
+    "face_detected": false
+   }
+  },
+  {
+   "id": "beat_006",
+   "startMs": 101406,
+   "endMs": 123847,
+   "new_image_reason": "action change: under the porch she sets the bag down and shifts the baby to her other arm, murmuring to herself",
+   "characters": [
+    "shahula"
+   ],
+   "location": "under the wide covered front porch of the island's old white mosque at night: square white pillars, a low white wall-bench along the edge, a smooth tiled porch floor wet near the edge, a single warm amber lamp on the wall, sheets of rain pouring off the edge of the roof into the dark sandy yard",
+   "location_key": "mosque_porch_night",
+   "mood": "storm night, black sky, heavy rain curtains lit amber by the single porch lamp, cold blue shadows, weary, lonely and fragile",
+   "visual": "Shahula (reference used for her face only) wearing a loose long-sleeved ankle-length black abaya and a black hijab with a white under-scarf showing at the forehead, fully covering her hair and neck, NOT the dusty-rose dress and NOT the cream hijab, standing under the mosque porch beside a white pillar, soaked and weary, her travel bag set down on the low wall-bench beside her; she is shifting her sleeping baby Zidhaan (a healthy few-months-old baby in a pale-blue baby suit wrapped in a pale-blue blanket) from one tired arm to the other, cradling him to her shoulder, looking out at the rain with a tired, worried face, lips slightly parted as if murmuring",
+   "camera": "medium shot, eye level, faces in the upper two-thirds, a calm uncluttered lower third (the wet tiled porch floor)",
+   "image": "images/beat_006.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "rain_night",
+   "shots": [
+    {
+     "id": "shot_012",
+     "startMs": 101406,
+     "endMs": 109106,
+     "narration_dhivehi": "އަތުގައި އޮތް ދަބަސް އެއްފަރާތެއްގައި ބެހެއްޓުމަށްފަހު، ވަރުބަލިވެފައިވާ އަތުން ކުޑަދަރިފުޅު އަނެއް އަތަށް ބަދަލުކޮށްލިއެވެ.",
+     "narration_english": "Setting the bag in her hand down to one side, she moved the little child from her tired arm to the other arm.",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [
+      {
+       "name": "cloth_rustle",
+       "atMs": 103726,
+       "gainDb": -22,
+       "word": "ބެހެއްޓުމަށްފަހު،"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_013",
+     "startMs": 109106,
+     "endMs": 116366,
+     "narration_dhivehi": "\"މި ވާރޭގަނޑު އަޅެ ހުއްޓާލާނީ ކޮން އިރަކުން ބާވައެވެ؟\" އޭނާއަށް އަމިއްލަ ނަފުސާ މުޚާޠަބުކޮށް މަޑުމަޑުން ބުނެވުނެވެ.",
+     "narration_english": "\"When will this downpour ever stop?\" she murmured softly to herself.",
+     "crop": "tight",
+     "motion": "pan right",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      5.7,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_014",
+     "startMs": 116366,
+     "endMs": 123847,
+     "narration_dhivehi": "\"މިހާ ބޯ ވިއްސާރައިގެ ތެރޭގައި، ޒިދާން ގޮވައިގެން ދާނީ ވެސް ކިހިނެއް ހެއްޔެވެ؟\" ނިދީގެ އަސަރުން ބުރަހެލިވެފައިވާ ދެ ލޮލުން،",
+     "narration_english": "\"In rain this heavy, how will I even take Zidhaan anywhere?\" With eyes heavy with sleep,",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Shahula), create a new scene: Cinematic semi-realistic digital illustration with a tender, melancholic family-drama look, deep blue-black night shadows lit by warm amber lamplight, rain-wet reflections and soft glowing bokeh, gentle hazy tropical daylight on the island, warm homely interiors that turn dim and cold in sad moments, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, wet pavement, sand, table top, bedspread, soft shadow) for captions and a logo; set in the present-day Maldives: a small local island with a stone jetty, white sandy roads, an old white mosque and a walled cemetery, and Malé's narrow streets and a comfortable older family townhouse.\nScene: Shahula (reference used for her face only) wearing a loose long-sleeved ankle-length black abaya and a black hijab with a white under-scarf showing at the forehead, fully covering her hair and neck, NOT the dusty-rose dress and NOT the cream hijab, standing under the mosque porch beside a white pillar, soaked and weary, her travel bag set down on the low wall-bench beside her; she is shifting her sleeping baby Zidhaan (a healthy few-months-old baby in a pale-blue baby suit wrapped in a pale-blue blanket) from one tired arm to the other, cradling him to her shoulder, looking out at the rain with a tired, worried face, lips slightly parted as if murmuring. Location: under the wide covered front porch of the island's old white mosque at night: square white pillars, a low white wall-bench along the edge, a smooth tiled porch floor wet near the edge, a single warm amber lamp on the wall, sheets of rain pouring off the edge of the roof into the dark sandy yard. Camera: medium shot, eye level, faces in the upper two-thirds, a calm uncluttered lower third (the wet tiled porch floor).\nCharacters: Shahula: a slim Maldivian woman of about 24 with light warm-brown skin, a soft oval face, large dark expressive eyes with long lashes, thick softly arched eyebrows, a small straight nose and full lips; wears a loose long-sleeved ankle-length dusty-rose house dress and a cream hijab fully covering her hair and neck.\nMood/lighting: storm night, black sky, heavy rain curtains lit amber by the single porch lamp, cold blue shadows, weary, lonely and fragile.\nModest Maldivian clothing (every woman and girl in loose long-sleeved ankle-length opaque clothing with a hijab fully covering her hair and neck, indoors too; men in shirts or t-shirts with long trousers or a sarong, never shirtless), a clear respectful distance between men and women, nobody touching, culturally respectful, no violence, nobody hitting or grabbing anyone, no blood, no wounds, no bruises, no marks on any face, no injuries, no corpses, no medical procedures, no needles, no knives, no cigarettes, no smoking, no tattoos, no text, no letters, no numbers, no writing, no readable screens or papers, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.228,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 35.4,
+    "y_pct": 20.7,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_007",
+   "startMs": 123847,
+   "endMs": 172250,
+   "new_image_reason": "framing change: she looks out into the storm, lightning and thunder, holds Zidhaan tighter; tears and memories rise",
+   "characters": [
+    "shahula"
+   ],
+   "location": "under the wide covered front porch of the island's old white mosque at night: square white pillars, a low white wall-bench along the edge, a smooth tiled porch floor wet near the edge, a single warm amber lamp on the wall, sheets of rain pouring off the edge of the roof into the dark sandy yard",
+   "location_key": "mosque_porch_night",
+   "mood": "storm night, black sky, heavy rain curtains lit amber by the single porch lamp, cold blue shadows, weary, lonely and fragile",
+   "visual": "Shahula (reference used for her face only) wearing a loose long-sleeved ankle-length black abaya and a black hijab with a white under-scarf showing at the forehead, fully covering her hair and neck, NOT the dusty-rose dress and NOT the cream hijab, standing at the edge of the porch beside a white pillar, cradling her sleeping baby Zidhaan (a healthy few-months-old baby in a pale-blue baby suit wrapped in a pale-blue blanket) on her shoulder with both arms, gazing out into the dark storm with weary, sorrowful, glistening eyes; a white flash of lightning lights the rain curtain pouring off the porch roof behind her",
+   "camera": "medium shot, eye level, faces in the upper two-thirds, a calm uncluttered lower third (the wet tiled porch floor and her black abaya in soft shadow)",
+   "image": "images/beat_007.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "storm_night",
+   "shots": [
+    {
+     "id": "shot_015",
+     "startMs": 123847,
+     "endMs": 134047,
+     "narration_dhivehi": "މިސްކިތުގެ ދޮރާއްޓާ ދިމާއަށް އޭނާ ބަލައިލިއެވެ. އޭރުވެސް އުޑުމަތި ބަނަކޮށްލައިފައި، ހުއްޓުމެއް ނެތި ބޯވިއްސާރަ އޮއްސަމުން ދިޔައެވެ. ޖަހަމުންދިޔަ ގަދަ ވިދުވަރުތަކާއި،",
+     "narration_english": "she looked towards the mosque's gate. The sky was still dark, and the heavy rain kept pouring without a pause. The strong flashes of lightning",
+     "crop": "full",
+     "motion": "pan up",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_016",
+     "startMs": 134047,
+     "endMs": 143468,
+     "narration_dhivehi": "ގުގުމަމުންދިޔަ ގުގުރީގެ އަޑުފަށްގަނޑުން މުޅި މާޙައުލު ވަނީ ބިރުވެރިކަމުން ފުރިފައެވެ. އެއާއެކު، ބިރުވެރިކަމުގެ ރާޅުތަކެއް ޝަހުލާގެ ހިތް ވަށާލިއެވެ.",
+     "narration_english": "and the rumbling roar of thunder filled the whole surroundings with fear. With that, waves of fear surrounded Shahula's heart.",
+     "crop": "tight",
+     "motion": "slow pull-out",
+     "sfx": [
+      {
+       "name": "thunder",
+       "atMs": 135128,
+       "gainDb": -16,
+       "word": "ގުގުރީގެ"
+      },
+      {
+       "name": "heartbeat",
+       "atMs": 140468,
+       "gainDb": -22,
+       "word": "ބިރުވެރިކަމުގެ"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      0.0,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_017",
+     "startMs": 143468,
+     "endMs": 155449,
+     "narration_dhivehi": "ގަދަ ނިދީގައި އޮތް ޒިދާންގެ ކުޑަކުޑަ ހަށިގަނޑުގައި އޭނާ އިތުރަށް ބާރަށް ބައްދާލިއެވެ. \"ސުބުޙާނަﷲ!\" ހިތަށް ވެރިވި ނާމާންކަމާއެކު، ޝަހުލާގެ ދުލުން ބޭއިޚުތިޔާރުގައި ބުނެލެވުނެވެ.",
+     "narration_english": "She held Zidhaan's tiny body, deep in sleep, even more tightly. \"Subhanallah!\" With the helplessness that filled her heart, the words slipped from Shahula's lips without her meaning to.",
+     "crop": "full",
+     "motion": "pan down",
+     "sfx": [
+      {
+       "name": "breath",
+       "atMs": 147808,
+       "gainDb": -22,
+       "word": "ބައްދާލިއެވެ."
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_018",
+     "startMs": 155449,
+     "endMs": 163999,
+     "narration_dhivehi": "ހިތަށް އެކަނިވެރިކަން ވެރިވާ ކޮންމެ ހިނދެއްގައި، ކަރުނުން ފުރިފައިވާ ދެ ލޯ މަރައިލެވެއެވެ. ކިތަންމެ ހަނދާން ނައްތައިލަން ބޭނުންވި ނަމަވެސް،",
+     "narration_english": "Every time loneliness takes over her heart, her eyes, full of tears, close. However much she wants to erase the memories,",
+     "crop": "medium",
+     "motion": "static drift",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      0.0,
+      0.0,
+      71.5,
+      84.7
+     ]
+    },
+    {
+     "id": "shot_019",
+     "startMs": 163999,
+     "endMs": 172250,
+     "narration_dhivehi": "މާޒީގެ ޞަފްޙާތައް ލޯ މަތިން އެއްވެސް އިޚްތިޔާރެއް ނެތި ހުޅުވިގެންދެއެވެ. އަދި މަޖުބޫރުވެގެން އެއިން ކޮންމެ ޞަފްޙާއެއް ކިޔައިލަން ޖެހެއެވެ.",
+     "narration_english": "the pages of the past open before her eyes without her having any choice. And she is forced to read every one of those pages.",
+     "crop": "tight",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      0.0,
+      0.0,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Shahula), create a new scene: Cinematic semi-realistic digital illustration with a tender, melancholic family-drama look, deep blue-black night shadows lit by warm amber lamplight, rain-wet reflections and soft glowing bokeh, gentle hazy tropical daylight on the island, warm homely interiors that turn dim and cold in sad moments, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, wet pavement, sand, table top, bedspread, soft shadow) for captions and a logo; set in the present-day Maldives: a small local island with a stone jetty, white sandy roads, an old white mosque and a walled cemetery, and Malé's narrow streets and a comfortable older family townhouse.\nScene: Shahula (reference used for her face only) wearing a loose long-sleeved ankle-length black abaya and a black hijab with a white under-scarf showing at the forehead, fully covering her hair and neck, NOT the dusty-rose dress and NOT the cream hijab, standing at the edge of the porch beside a white pillar, cradling her sleeping baby Zidhaan (a healthy few-months-old baby in a pale-blue baby suit wrapped in a pale-blue blanket) on her shoulder with both arms, gazing out into the dark storm with weary, sorrowful, glistening eyes; a white flash of lightning lights the rain curtain pouring off the porch roof behind her. Location: under the wide covered front porch of the island's old white mosque at night: square white pillars, a low white wall-bench along the edge, a smooth tiled porch floor wet near the edge, a single warm amber lamp on the wall, sheets of rain pouring off the edge of the roof into the dark sandy yard. Camera: medium shot, eye level, faces in the upper two-thirds, a calm uncluttered lower third (the wet tiled porch floor and her black abaya in soft shadow).\nCharacters: Shahula: a slim Maldivian woman of about 24 with light warm-brown skin, a soft oval face, large dark expressive eyes with long lashes, thick softly arched eyebrows, a small straight nose and full lips; wears a loose long-sleeved ankle-length dusty-rose house dress and a cream hijab fully covering her hair and neck.\nMood/lighting: storm night, black sky, heavy rain curtains lit amber by the single porch lamp, cold blue shadows, weary, lonely and fragile.\nModest Maldivian clothing (every woman and girl in loose long-sleeved ankle-length opaque clothing with a hijab fully covering her hair and neck, indoors too; men in shirts or t-shirts with long trousers or a sarong, never shirtless), a clear respectful distance between men and women, nobody touching, culturally respectful, no violence, nobody hitting or grabbing anyone, no blood, no wounds, no bruises, no marks on any face, no injuries, no corpses, no medical procedures, no needles, no knives, no cigarettes, no smoking, no tattoos, no text, no letters, no numbers, no writing, no readable screens or papers, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.145,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 29.2,
+    "y_pct": 23.3,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_008",
+   "startMs": 172250,
+   "endMs": 203982,
+   "new_image_reason": "flashback: Khadheeja, the brave single mother who worked in island houses to pay for Shahula's schooling",
+   "characters": [
+    "khadheeja",
+    "shahula_child"
+   ],
+   "location": "a neighbour's sunny sandy back yard on the small home island, years ago: a coral-stone wall, a washing line with colourful clothes between two palms, a plastic washing basin, a low wooden step at a kitchen door, soft breadfruit-tree shade",
+   "location_key": "memory_island_day",
+   "mood": "memory: soft warm hazy glow, gentle golden tropical daylight, slightly desaturated, tender and nostalgic",
+   "visual": "memory: Khadheeja in her faded green libaas and white headscarf hanging washed clothes on a line in a neighbour's sunny yard, turning with a tired but loving smile towards 12-year-old Shahula in her faded pink long-sleeved ankle-length dress and white headscarf fully covering her hair and neck, who sits on a low wooden step nearby with an open school exercise book on her knees (blank pages, no writing), smiling up at her mother",
+   "camera": "medium wide shot, eye level, faces in the upper two-thirds, a calm uncluttered lower third (sunny sand of the yard)",
+   "image": "images/beat_008.png",
+   "reuse_of": null,
+   "transition_in": "dissolve",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "memory",
+   "shots": [
+    {
+     "id": "shot_020",
+     "startMs": 172250,
+     "endMs": 184711,
+     "narration_dhivehi": "ޝަހުލާއަކީ ރަށުގެ އެންމެ ފާހަގަކޮށްލެވޭ ރީތި ކުދިންގެ ތެރޭގައި ހިމެނޭ ކުއްޖެކެވެ. ބައްޕައެއްގެ އެހީތެރިކަމެއް ނެތި، ޝަހުލާ ބަލައިބޮޑުކުރީ އޭނާގެ ހިތްވަރުގަދަ، އެކަނިވެރި މަންމަ ޙަދީޖާ އެވެ.",
+     "narration_english": "Shahula was one of the most noticeably pretty girls of the island. Without any help from a father, Shahula was raised by her brave, lonely mother Khadheeja.",
+     "crop": "full",
+     "motion": "pan left",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_021",
+     "startMs": 184711,
+     "endMs": 193451,
+     "narration_dhivehi": "ޙަދީޖާ މަސައްކަތްކުރީ ރަށުގެ ގޭގެޔަށް ގޮސް އެކި މަސައްކަތްތައް ކޮށްދީގެން، ޝަހުލާއަށް ރަށުން ލިބެން އޮތް އެންމެ މަތީ ތަޢުލީމެއް ހޯދައިދިނުމަށެވެ.",
+     "narration_english": "Khadheeja worked going from house to house on the island doing all kinds of work, to give Shahula the highest education the island could offer.",
+     "crop": "tight",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      8.5,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_022",
+     "startMs": 193451,
+     "endMs": 203982,
+     "narration_dhivehi": "ނަމަވެސް އެ މަންމަގެ ލޯތްބާއި އަޅާލުން ލިބުނީ މަދު ދުވަސްކޮޅަކަށެވެ. އެ މަންމަ މި ފަނާވަނިވި ދުނިޔެއާ އަބަދަށްޓަކައި އަލްވަދާޢު ކީވެސް، ހަމަ މިފަދަ ތޫފާނީ ރެއެއްގައެވެ.",
+     "narration_english": "But that mother's love and care lasted only a few short days. That mother said her farewell to this passing world forever on just such a stormy night.",
+     "crop": "full",
+     "motion": "pan right",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Khadheeja; reference image 2 is Shahula), create a new scene: Cinematic semi-realistic digital illustration with a tender, melancholic family-drama look, deep blue-black night shadows lit by warm amber lamplight, rain-wet reflections and soft glowing bokeh, gentle hazy tropical daylight on the island, warm homely interiors that turn dim and cold in sad moments, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, wet pavement, sand, table top, bedspread, soft shadow) for captions and a logo; set in the present-day Maldives: a small local island with a stone jetty, white sandy roads, an old white mosque and a walled cemetery, and Malé's narrow streets and a comfortable older family townhouse.\nScene: memory: Khadheeja in her faded green libaas and white headscarf hanging washed clothes on a line in a neighbour's sunny yard, turning with a tired but loving smile towards 12-year-old Shahula in her faded pink long-sleeved ankle-length dress and white headscarf fully covering her hair and neck, who sits on a low wooden step nearby with an open school exercise book on her knees (blank pages, no writing), smiling up at her mother. Location: a neighbour's sunny sandy back yard on the small home island, years ago: a coral-stone wall, a washing line with colourful clothes between two palms, a plastic washing basin, a low wooden step at a kitchen door, soft breadfruit-tree shade. Camera: medium wide shot, eye level, faces in the upper two-thirds, a calm uncluttered lower third (sunny sand of the yard).\nCharacters: Khadheeja: a thin Maldivian woman of about 38 with warm brown skin, a thin gentle face, tired kind dark eyes and a soft smile; wears a faded green traditional long-sleeved ankle-length libaas dress and a white headscarf fully covering her hair and neck. 12-year-old Shahula: a small slim Maldivian girl with light warm-brown skin, a small round childish face, big dark eyes and thick eyebrows; wears a faded pink long-sleeved ankle-length cotton dress and a white headscarf fully covering her hair and neck.\nMood/lighting: memory: soft warm hazy glow, gentle golden tropical daylight, slightly desaturated, tender and nostalgic.\nModest Maldivian clothing (every woman and girl in loose long-sleeved ankle-length opaque clothing with a hijab fully covering her hair and neck, indoors too; men in shirts or t-shirts with long trousers or a sarong, never shirtless), a clear respectful distance between men and women, nobody touching, culturally respectful, no violence, nobody hitting or grabbing anyone, no blood, no wounds, no bruises, no marks on any face, no injuries, no corpses, no medical procedures, no needles, no knives, no cigarettes, no smoking, no tattoos, no text, no letters, no numbers, no writing, no readable screens or papers, no logos, no watermark.",
+   "logo": {
+    "color": "black",
+    "bg_luminance": 0.624,
+    "halo": true
+   },
+   "focus": {
+    "x_pct": 38.2,
+    "y_pct": 16.8,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_009",
+   "startMs": 203982,
+   "endMs": 231253,
+   "new_image_reason": "scene change back to the present: her gaze falls on the walled cemetery beside the mosque; 'Mamma'",
+   "characters": [
+    "shahula"
+   ],
+   "location": "the view from the edge of the old mosque's covered porch at night: just beside the mosque the small island cemetery — a sandy yard of plain small white-washed coral headstones without any writing under dark frangipani trees — now enclosed by a new low white wall, all under pouring rain, lit only by the porch lamp and flashes of lightning",
+   "location_key": "cemetery_view_night",
+   "mood": "storm night, black sky, a flash of lightning silvering the white headstones, heavy rain, warm amber porch light at the edge of the frame, deep grief",
+   "visual": "Shahula (reference used for her face only) wearing a loose long-sleeved ankle-length black abaya and a black hijab with a white under-scarf showing at the forehead, fully covering her hair and neck, NOT the dusty-rose dress and NOT the cream hijab, seen from behind and slightly to the side at the edge of the mosque porch, her baby son Zidhaan, a healthy few-months-old baby in a pale-blue long-sleeved baby suit wrapped in a pale-blue cotton blanket, asleep with his head on her shoulder, her head bowed slightly, looking out at the small cemetery beside the mosque with its new low white wall and plain white headstones under frangipani trees in the pouring rain, lit silver by a flash of lightning",
+   "camera": "medium wide over-the-shoulder shot, eye level, the cemetery in the upper two-thirds, faces in the upper two-thirds, a calm uncluttered lower third (wet porch floor)",
+   "image": "images/beat_009.png",
+   "reuse_of": null,
+   "transition_in": "dissolve",
+   "sensitive": "death",
+   "safe_substitution": "her mother's resting place shown only as the walled cemetery in the rain",
+   "ambience": "storm_night",
+   "shots": [
+    {
+     "id": "shot_023",
+     "startMs": 203982,
+     "endMs": 214602,
+     "narration_dhivehi": "އެ ހިތްދަތި ހަނދާންތަކާ ދުރަށް ދާން ކިތަންމެ ބޭނުންވި ނަމަވެސް، އެކަން ވާކަށް ނެތެވެ. އޭނާގެ ނަޒަރު ހުއްޓުނީ މިސްކިތާ މާދުރުނޫން ހިސާބެއްގައި އޮތް ޤަބުރުސްތާނަށެވެ.",
+     "narration_english": "However much she wanted to get away from those painful memories, it could not be done. Her gaze stopped at the cemetery not far from the mosque.",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_024",
+     "startMs": 214602,
+     "endMs": 224373,
+     "narration_dhivehi": "އެ ތަނުގެ ވަށައިގެން މިހާރު ވަނީ ފާރެއްވެސް ރާނާލެވިފައެވެ. ދަރިފުޅު ގޮވައިގެން ކުރިއަށް ދެތިން ފިޔަވަޅެއް އެޅުނު ހިނދު، މުޅި ސަހަރާއަށް ނަޒަރު ހުއްޓައިލެވުނެވެ.",
+     "narration_english": "Now there is even a wall built all around it. Taking two or three steps forward with her child, her gaze settled on the whole cemetery.",
+     "crop": "tight",
+     "motion": "pan up",
+     "sfx": [
+      {
+       "name": "footsteps_pavement",
+       "atMs": 219853,
+       "gainDb": -24,
+       "word": "ފިޔަވަޅެއް"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      18.6,
+      29.6,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_025",
+     "startMs": 224373,
+     "endMs": 231253,
+     "narration_dhivehi": "އެއާއެކު ކަރުނުން ފުރިބާރުވެފައިވި ދެލޯ މަރައިލެވުނެވެ. ދުލުން ބޭރުވެގެން ދިޔައީ ހަމައެކަނި \"މަންމާ\" މި ލަފުޒެވެ.",
+     "narration_english": "With that, her eyes, brimming with tears, closed. The only word that left her lips was \"Mamma\".",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [
+      {
+       "name": "sob_breath",
+       "atMs": 229913,
+       "gainDb": -22,
+       "word": "\"މަންމާ\""
+      }
+     ],
+     "hum": true,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Shahula), create a new scene: Cinematic semi-realistic digital illustration with a tender, melancholic family-drama look, deep blue-black night shadows lit by warm amber lamplight, rain-wet reflections and soft glowing bokeh, gentle hazy tropical daylight on the island, warm homely interiors that turn dim and cold in sad moments, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, wet pavement, sand, table top, bedspread, soft shadow) for captions and a logo; set in the present-day Maldives: a small local island with a stone jetty, white sandy roads, an old white mosque and a walled cemetery, and Malé's narrow streets and a comfortable older family townhouse.\nScene: Shahula (reference used for her face only) wearing a loose long-sleeved ankle-length black abaya and a black hijab with a white under-scarf showing at the forehead, fully covering her hair and neck, NOT the dusty-rose dress and NOT the cream hijab, seen from behind and slightly to the side at the edge of the mosque porch, her baby son Zidhaan, a healthy few-months-old baby in a pale-blue long-sleeved baby suit wrapped in a pale-blue cotton blanket, asleep with his head on her shoulder, her head bowed slightly, looking out at the small cemetery beside the mosque with its new low white wall and plain white headstones under frangipani trees in the pouring rain, lit silver by a flash of lightning. Location: the view from the edge of the old mosque's covered porch at night: just beside the mosque the small island cemetery — a sandy yard of plain small white-washed coral headstones without any writing under dark frangipani trees — now enclosed by a new low white wall, all under pouring rain, lit only by the porch lamp and flashes of lightning. Camera: medium wide over-the-shoulder shot, eye level, the cemetery in the upper two-thirds, faces in the upper two-thirds, a calm uncluttered lower third (wet porch floor).\nCharacters: Shahula: a slim Maldivian woman of about 24 with light warm-brown skin, a soft oval face, large dark expressive eyes with long lashes, thick softly arched eyebrows, a small straight nose and full lips; wears a loose long-sleeved ankle-length dusty-rose house dress and a cream hijab fully covering her hair and neck.\nMood/lighting: storm night, black sky, a flash of lightning silvering the white headstones, heavy rain, warm amber porch light at the edge of the frame, deep grief.\nModest Maldivian clothing (every woman and girl in loose long-sleeved ankle-length opaque clothing with a hijab fully covering her hair and neck, indoors too; men in shirts or t-shirts with long trousers or a sarong, never shirtless), a clear respectful distance between men and women, nobody touching, culturally respectful, no violence, nobody hitting or grabbing anyone, no blood, no wounds, no bruises, no marks on any face, no injuries, no corpses, no medical procedures, no needles, no knives, no cigarettes, no smoking, no tattoos, no text, no letters, no numbers, no writing, no readable screens or papers, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.189,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 48.3,
+    "y_pct": 82.4,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_010",
+   "startMs": 231253,
+   "endMs": 263285,
+   "new_image_reason": "deep flashback: 12-year-old Shahula takes a last look at her mother's face and breaks into sobs",
+   "characters": [
+    "shahula_child"
+   ],
+   "location": "the small front room of Khadheeja's modest old coral-stone island house on a rainy day: bare whitewashed walls, a woven mat on the floor, a wooden window with its shutter half open onto grey rain, a few women relatives seated on the mat along the wall",
+   "location_key": "khadheeja_room_day",
+   "mood": "memory of a grey rainy day: dim cool daylight through the window, soft warm haze at the edges, hushed, heartbroken",
+   "visual": "12-year-old Shahula in her faded pink long-sleeved ankle-length dress and white headscarf fully covering her hair and neck, sitting on her knees on the woven mat in the dim front room, her head bowed, her big dark eyes glistening and sad, both hands folded together at her chest; behind her, island women relatives in long dresses and headscarves sit quietly along the wall with lowered heads; grey rainy light from the window",
+   "camera": "medium shot, eye level, facing her, faces in the upper two-thirds, a calm uncluttered lower third (the woven mat in soft shadow)",
+   "image": "images/beat_010.png",
+   "reuse_of": null,
+   "transition_in": "dissolve",
+   "sensitive": "death",
+   "safe_substitution": "her mother is never shown: only the child's tearful face looking down at something off-frame",
+   "ambience": "rain_day",
+   "shots": [
+    {
+     "id": "shot_026",
+     "startMs": 231253,
+     "endMs": 238544,
+     "narration_dhivehi": "ހިނދުކޮޅެއްގެ ތެރޭގައި މާޒީގެ ފުން ހަނދާންތަކުގެ ތެރެއަށް ޣަރަޤުވެގެން ދިޔައެވެ. އުމުރުން އެންމެ ބާރަ އަހަރުގެ ޝަހުލާ،",
+     "narration_english": "In a moment she sank into the deep memories of the past. Shahula, only twelve years old,",
+     "crop": "full",
+     "motion": "pan down",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_027",
+     "startMs": 238544,
+     "endMs": 248944,
+     "narration_dhivehi": "އޭނާގެ ލޯބިވާ މަންމަގެ މޫނަށް އެންމެ ފަހު ފަހަރަށް ނަޒަރު ހިންގައިލިއެވެ. ރުއިމުގެ ސަބަބުން ރަތްވެ، ކަރުނުން ފުރިފައިވި ދެލޮލުން މަންމަގެ މޫނަށް އޭނާ ބަލަމުން ދިޔައީ،",
+     "narration_english": "cast her gaze on her loving mother's face for the very last time. With eyes reddened from crying and full of tears, she kept looking at her mother's face,",
+     "crop": "tight",
+     "motion": "static drift",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      22.7,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_028",
+     "startMs": 248944,
+     "endMs": 256895,
+     "narration_dhivehi": "އެ ލޮބުވެތި ސޫރަ އަބަދުގެ އަބަދަށް އޭނާގެ ހިތުގެ ފުންމިނުގައި ބިންވަޅު ނަގައި ރައްކާކުރުމުގެ މާތް މަޤްޞަދުގައެވެ. \"މަންމާ!\"",
+     "narration_english": "with the noble purpose of laying that beloved image forever in the very depths of her heart. \"Mamma!\"",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": true,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_029",
+     "startMs": 256895,
+     "endMs": 263285,
+     "narration_dhivehi": "ޝަހުލާގެ ދުލުން މި ލަފުޒު ބޭރުވުމާއެކު، ހިތްފަޅައިގެންދާ ފަދަ ގިސްލުމަކުން އޭނާއަށް ރޮވިއްޖެއެވެ.",
+     "narration_english": "As this word left Shahula's lips, she broke into heartbreaking sobs.",
+     "crop": "medium",
+     "motion": "pan left",
+     "sfx": [
+      {
+       "name": "sob_breath",
+       "atMs": 262595,
+       "gainDb": -20,
+       "word": "ރޮވިއްޖެއެވެ."
+      }
+     ],
+     "hum": true,
+     "crop_rect_pct": [
+      16.7,
+      0.0,
+      71.5,
+      84.7
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Shahula), create a new scene: Cinematic semi-realistic digital illustration with a tender, melancholic family-drama look, deep blue-black night shadows lit by warm amber lamplight, rain-wet reflections and soft glowing bokeh, gentle hazy tropical daylight on the island, warm homely interiors that turn dim and cold in sad moments, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, wet pavement, sand, table top, bedspread, soft shadow) for captions and a logo; set in the present-day Maldives: a small local island with a stone jetty, white sandy roads, an old white mosque and a walled cemetery, and Malé's narrow streets and a comfortable older family townhouse.\nScene: 12-year-old Shahula in her faded pink long-sleeved ankle-length dress and white headscarf fully covering her hair and neck, sitting on her knees on the woven mat in the dim front room, her head bowed, her big dark eyes glistening and sad, both hands folded together at her chest; behind her, island women relatives in long dresses and headscarves sit quietly along the wall with lowered heads; grey rainy light from the window. Location: the small front room of Khadheeja's modest old coral-stone island house on a rainy day: bare whitewashed walls, a woven mat on the floor, a wooden window with its shutter half open onto grey rain, a few women relatives seated on the mat along the wall. Camera: medium shot, eye level, facing her, faces in the upper two-thirds, a calm uncluttered lower third (the woven mat in soft shadow).\nCharacters: 12-year-old Shahula: a small slim Maldivian girl with light warm-brown skin, a small round childish face, big dark eyes and thick eyebrows; wears a faded pink long-sleeved ankle-length cotton dress and a white headscarf fully covering her hair and neck.\nMood/lighting: memory of a grey rainy day: dim cool daylight through the window, soft warm haze at the edges, hushed, heartbroken.\nModest Maldivian clothing (every woman and girl in loose long-sleeved ankle-length opaque clothing with a hijab fully covering her hair and neck, indoors too; men in shirts or t-shirts with long trousers or a sarong, never shirtless), a clear respectful distance between men and women, nobody touching, culturally respectful, no violence, nobody hitting or grabbing anyone, no blood, no wounds, no bruises, no marks on any face, no injuries, no corpses, no medical procedures, no needles, no knives, no cigarettes, no smoking, no tattoos, no text, no letters, no numbers, no writing, no readable screens or papers, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.381,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 52.4,
+    "y_pct": 30.2,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_011",
+   "startMs": 263285,
+   "endMs": 294847,
+   "new_image_reason": "character enters: Faathanikey draws her aside and tells her to be patient; she cannot stop crying",
+   "characters": [
+    "faathanikey",
+    "shahula_child"
+   ],
+   "location": "the small front room of Khadheeja's modest old coral-stone island house on a rainy day: bare whitewashed walls, a woven mat on the floor, a wooden window with its shutter half open onto grey rain, a few women relatives seated on the mat along the wall",
+   "location_key": "khadheeja_room_day",
+   "mood": "memory of a grey rainy day: dim cool daylight through the window, soft warm haze at the edges, hushed, heartbroken",
+   "visual": "Faathanikey in her maroon libaas and white headscarf standing beside 12-year-old Shahula in her faded pink long-sleeved ankle-length dress and white headscarf fully covering her hair and neck near the wall of the dim room, one hand resting gently on the girl's shoulder, bending to speak softly with worried, kind eyes; the girl stands with her head bowed, tears running down her cheeks, wiping her eyes with the back of her hand",
+   "camera": "medium shot, eye level, faces in the upper two-thirds, a calm uncluttered lower third (the woven mat on the floor)",
+   "image": "images/beat_011.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": "death",
+   "safe_substitution": "the covering of the mother's face is not shown; only Faathanikey consoling the girl",
+   "ambience": "rain_day",
+   "shots": [
+    {
+     "id": "shot_030",
+     "startMs": 263285,
+     "endMs": 272466,
+     "narration_dhivehi": "ކައިރީގައި ހުރި ފާތާނިކެ، ޝަހުލާގެ އަތުގައި ހިފައި އެއްފަރާތަކަށް ޖައްސައިލުމަށްފަހު، ނުރޮއި ކެތްތެރިވުމަށް އެންގިއެވެ. އެހެން ނަމަވެސް،",
+     "narration_english": "Faathanikey, who was standing nearby, took Shahula by the hand, moved her to one side and told her not to cry but to be patient. But",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_031",
+     "startMs": 272466,
+     "endMs": 279526,
+     "narration_dhivehi": "މިއަދު އެއިން އެއްވެސް ބަހެއް އަޑުއަހާނެ ހިތްވަރެއް އޭނާގެ ނެތެވެ. ކަރުނަތައް ހުއްޓުމެއްނެތި ފައިބަމުން ދިޔައީއެވެ.",
+     "narration_english": "today she had no strength to listen to a single one of those words. Her tears kept falling without stopping.",
+     "crop": "tight",
+     "motion": "pan right",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      0.0,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_032",
+     "startMs": 279526,
+     "endMs": 287617,
+     "narration_dhivehi": "މަންމަގެ މޫނު ނިވާކުރުމަށްޓަކައި ޝަހުލާގެ އަތުން ކަފަކޮޅު ބާއްވައިލުމާއެކު، އަނެއްކާވެސް މީހުން އޭނާ ދުރަށް ޖައްސައިލިއެވެ.",
+     "narration_english": "As the shroud was taken from Shahula's hand to cover her mother's face, people moved her away once again.",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_033",
+     "startMs": 287617,
+     "endMs": 294847,
+     "narration_dhivehi": "އޭގެ ފަހުން މަންމަގެ އެ ލޯބިވާ މޫނު ދެކިލުމުގެ ފުރުޞަތެއް އޭނާއަކަށް ނުލިބުނެވެ. ބަސްބުނާހައި ހިނދުކޮޅެއްގެ ތެރޭގައި،",
+     "narration_english": "After that she never got another chance to see her mother's beloved face. In less time than it takes to speak a word,",
+     "crop": "medium",
+     "motion": "pan up",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      0.0,
+      0.0,
+      71.5,
+      84.7
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Faathanikey; reference image 2 is Shahula), create a new scene: Cinematic semi-realistic digital illustration with a tender, melancholic family-drama look, deep blue-black night shadows lit by warm amber lamplight, rain-wet reflections and soft glowing bokeh, gentle hazy tropical daylight on the island, warm homely interiors that turn dim and cold in sad moments, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, wet pavement, sand, table top, bedspread, soft shadow) for captions and a logo; set in the present-day Maldives: a small local island with a stone jetty, white sandy roads, an old white mosque and a walled cemetery, and Malé's narrow streets and a comfortable older family townhouse.\nScene: Faathanikey in her maroon libaas and white headscarf standing beside 12-year-old Shahula in her faded pink long-sleeved ankle-length dress and white headscarf fully covering her hair and neck near the wall of the dim room, one hand resting gently on the girl's shoulder, bending to speak softly with worried, kind eyes; the girl stands with her head bowed, tears running down her cheeks, wiping her eyes with the back of her hand. Location: the small front room of Khadheeja's modest old coral-stone island house on a rainy day: bare whitewashed walls, a woven mat on the floor, a wooden window with its shutter half open onto grey rain, a few women relatives seated on the mat along the wall. Camera: medium shot, eye level, faces in the upper two-thirds, a calm uncluttered lower third (the woven mat on the floor).\nCharacters: Faathanikey: a plump short Maldivian woman of about 42 with warm brown skin, a round kind face and soft worried dark eyes; wears a maroon dhigu-hedhun style long-sleeved ankle-length libaas dress and a white headscarf fully covering her hair and neck. 12-year-old Shahula: a small slim Maldivian girl with light warm-brown skin, a small round childish face, big dark eyes and thick eyebrows; wears a faded pink long-sleeved ankle-length cotton dress and a white headscarf fully covering her hair and neck.\nMood/lighting: memory of a grey rainy day: dim cool daylight through the window, soft warm haze at the edges, hushed, heartbroken.\nModest Maldivian clothing (every woman and girl in loose long-sleeved ankle-length opaque clothing with a hijab fully covering her hair and neck, indoors too; men in shirts or t-shirts with long trousers or a sarong, never shirtless), a clear respectful distance between men and women, nobody touching, culturally respectful, no violence, nobody hitting or grabbing anyone, no blood, no wounds, no bruises, no marks on any face, no injuries, no corpses, no medical procedures, no needles, no knives, no cigarettes, no smoking, no tattoos, no text, no letters, no numbers, no writing, no readable screens or papers, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.156,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 17.7,
+    "y_pct": 31.6,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_012",
+   "startMs": 294847,
+   "endMs": 326679,
+   "new_image_reason": "action change: the bier is carried out; the eldest aunt stops Shahula at the door; she begs to go with her mother",
+   "characters": [
+    "shahula_child"
+   ],
+   "location": "the open wooden front door of Khadheeja's small coral-stone island house on a rainy day, seen from inside: the doorway frames the white sandy lane outside under grey pouring rain, palms and coral-stone walls beyond",
+   "location_key": "khadheeja_door_day",
+   "mood": "memory of a grey rainy day, cold grey light outside, dim interior, heavy rain, desperate grief",
+   "visual": "in the open front doorway, an elderly island woman (the eldest aunt) in a dark-brown long-sleeved ankle-length libaas dress and a dark headscarf fully covering her hair and neck stands blocking the way with one arm stretched across the door frame, stern; facing her, 12-year-old Shahula in her faded pink long-sleeved ankle-length dress and white headscarf fully covering her hair and neck with her hands clasped in pleading, tears on her face; beyond them, through the doorway, far away down the rainy sandy lane, a small group of men in white shirts and sarongs carrying a white-shrouded bier on their shoulders away into the grey rain, seen only from behind and very small",
+   "camera": "medium wide shot from inside the room, eye level, faces in the upper two-thirds, a calm uncluttered lower third (the doorstep and wet floor)",
+   "image": "images/beat_012.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": "death",
+   "safe_substitution": "the white-shrouded bier only tiny and far away from behind; the aunt bars the door with her arm on the frame, nobody is pulled or held",
+   "ambience": "rain_day",
+   "shots": [
+    {
+     "id": "shot_034",
+     "startMs": 294847,
+     "endMs": 304808,
+     "narration_dhivehi": "މަންމަގެ ސަންދޯއް ގޭތެރެއިން ނެރެގެން ގެންދަން ފަށައިފިއެވެ. ޝަހުލާވެސް މަންމައާއެކު ދިއުމަށްޓަކައި އެ މީހުންގެ ފަހަތުން ބާރަށް ހިނގައިގަތެވެ. ނަމަވެސް،",
+     "narration_english": "they began to carry her mother's bier out of the house. Shahula too walked quickly after them, to go with her mother. But",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [
+      {
+       "name": "footsteps_sand",
+       "atMs": 302818,
+       "gainDb": -22,
+       "word": "ހިނގައިގަތެވެ."
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_035",
+     "startMs": 304808,
+     "endMs": 316228,
+     "narration_dhivehi": "ބޮޑުދައިތަ އައިސް ގަދަކަމުން އޭނާ ހުއްޓުވައި، އެ ދިޔުން މަނާކުރިއެވެ. \"އަހަރެން ބޭނުމީ މަންމައާއެކު ދާން. އާދޭސްކޮށްފައި ބުނަން، އަހަރެންގެ މަންމަގެ ގާތަށް އަހަރެން ދިޔަދީ!\"",
+     "narration_english": "the eldest aunt came and forcefully stopped her, forbidding her to go. \"I want to go with Mamma. I'm begging you, let me go to my Mamma!\"",
+     "crop": "tight",
+     "motion": "pan down",
+     "sfx": [],
+     "hum": true,
+     "crop_rect_pct": [
+      23.1,
+      29.6,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_036",
+     "startMs": 316228,
+     "endMs": 326679,
+     "narration_dhivehi": "ގިސްލާ ރޮމުން ޝަހުލާ އާދޭސްކުރަމުން ދިޔައެވެ. ނަމަވެސް، އެ ވަގުތު އެމީހުން ދިނީ ބީރު ކަންފަތެކެވެ. އެ އާދޭސްތަކަކުން އެއިން އެއްވެސް ހިތަކަށް އަސަރެއް ނުކުރިއެވެ.",
+     "narration_english": "Sobbing and crying, Shahula kept pleading. But at that moment they turned a deaf ear. Her pleas touched not a single one of those hearts.",
+     "crop": "full",
+     "motion": "static drift",
+     "sfx": [
+      {
+       "name": "sob_breath",
+       "atMs": 316638,
+       "gainDb": -22,
+       "word": "ގިސްލާ"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Shahula), create a new scene: Cinematic semi-realistic digital illustration with a tender, melancholic family-drama look, deep blue-black night shadows lit by warm amber lamplight, rain-wet reflections and soft glowing bokeh, gentle hazy tropical daylight on the island, warm homely interiors that turn dim and cold in sad moments, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, wet pavement, sand, table top, bedspread, soft shadow) for captions and a logo; set in the present-day Maldives: a small local island with a stone jetty, white sandy roads, an old white mosque and a walled cemetery, and Malé's narrow streets and a comfortable older family townhouse.\nScene: in the open front doorway, an elderly island woman (the eldest aunt) in a dark-brown long-sleeved ankle-length libaas dress and a dark headscarf fully covering her hair and neck stands blocking the way with one arm stretched across the door frame, stern; facing her, 12-year-old Shahula in her faded pink long-sleeved ankle-length dress and white headscarf fully covering her hair and neck with her hands clasped in pleading, tears on her face; beyond them, through the doorway, far away down the rainy sandy lane, a small group of men in white shirts and sarongs carrying a white-shrouded bier on their shoulders away into the grey rain, seen only from behind and very small. Location: the open wooden front door of Khadheeja's small coral-stone island house on a rainy day, seen from inside: the doorway frames the white sandy lane outside under grey pouring rain, palms and coral-stone walls beyond. Camera: medium wide shot from inside the room, eye level, faces in the upper two-thirds, a calm uncluttered lower third (the doorstep and wet floor).\nCharacters: 12-year-old Shahula: a small slim Maldivian girl with light warm-brown skin, a small round childish face, big dark eyes and thick eyebrows; wears a faded pink long-sleeved ankle-length cotton dress and a white headscarf fully covering her hair and neck.\nMood/lighting: memory of a grey rainy day, cold grey light outside, dim interior, heavy rain, desperate grief.\nModest Maldivian clothing (every woman and girl in loose long-sleeved ankle-length opaque clothing with a hijab fully covering her hair and neck, indoors too; men in shirts or t-shirts with long trousers or a sarong, never shirtless), a clear respectful distance between men and women, nobody touching, culturally respectful, no violence, nobody hitting or grabbing anyone, no blood, no wounds, no bruises, no marks on any face, no injuries, no corpses, no medical procedures, no needles, no knives, no cigarettes, no smoking, no tattoos, no text, no letters, no numbers, no writing, no readable screens or papers, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.412,
+    "halo": true
+   },
+   "focus": {
+    "x_pct": 52.8,
+    "y_pct": 89.6,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_013",
+   "startMs": 326679,
+   "endMs": 346400,
+   "new_image_reason": "action/scene change: she slips out of the room and runs through the heavy rain to the cemetery",
+   "characters": [
+    "shahula_child"
+   ],
+   "location": "a white sandy lane of the island in heavy daytime rain, low coral-stone walls and palms on both sides, the sand dark and full of puddles, grey sky, the white wall of the old mosque visible far ahead",
+   "location_key": "lane_rain_day",
+   "mood": "memory of a grey rainy day, heavy rain, cold grey light, a small lonely figure, urgent sorrow",
+   "visual": "12-year-old Shahula in her faded pink long-sleeved ankle-length dress and white headscarf fully covering her hair and neck, running alone along the empty sandy lane through heavy rain towards the white wall of the mosque far ahead, her pink dress and white headscarf soaked, seen from behind and slightly to the side, splashes of rain on the puddles",
+   "camera": "medium wide shot, eye level, faces in the upper two-thirds, a calm uncluttered lower third (puddled wet sand)",
+   "image": "images/beat_013.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "rain_day",
+   "shots": [
+    {
+     "id": "shot_037",
+     "startMs": 326679,
+     "endMs": 336500,
+     "narration_dhivehi": "ކޮޓަރިއަށް ގެންގޮސް ވެއްދި ނަމަވެސް، ޝަހުލާ އެ ތަނުން ނުކުމެގެން ސަހަރާއާ ދިމާއަށް ދުއްވައިގަތެވެ. އަދި އޭނާ ދިޔަކަން އެހެން މީހުންނަށް ރޭކާނުލީތީ،",
+     "narration_english": "Though she was taken into a room, Shahula got out of it and ran towards the cemetery. And because the others did not notice her leaving,",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [
+      {
+       "name": "door_open",
+       "atMs": 330279,
+       "gainDb": -22,
+       "word": "ނުކުމެގެން"
+      },
+      {
+       "name": "footsteps_sand",
+       "atMs": 332239,
+       "gainDb": -20,
+       "word": "ދުއްވައިގަތެވެ."
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_038",
+     "startMs": 336500,
+     "endMs": 346400,
+     "narration_dhivehi": "ﷲގެ ޙަޟްރަތަށް ޙަމްދާއި ޝުކުރު ކުރިއެވެ. ބޯކޮށް ވެހެމުންދިޔަ ވާރޭގެ ތެރޭގައި އޭނާ ދުވެފައި ގޮސް ކުރު ފާރަކުން ވަށައިގެންވާ ޤަބުރުސްތާނުގެ ތެރެއަށް ވަނެވެ.",
+     "narration_english": "she gave praise and thanks to Allah. Through the heavily pouring rain she ran and went into the cemetery surrounded by a low wall.",
+     "crop": "tight",
+     "motion": "pan left",
+     "sfx": [
+      {
+       "name": "footsteps_sand",
+       "atMs": 341880,
+       "gainDb": -22,
+       "word": "ދުވެފައި"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      40.6,
+      18.5,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Shahula), create a new scene: Cinematic semi-realistic digital illustration with a tender, melancholic family-drama look, deep blue-black night shadows lit by warm amber lamplight, rain-wet reflections and soft glowing bokeh, gentle hazy tropical daylight on the island, warm homely interiors that turn dim and cold in sad moments, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, wet pavement, sand, table top, bedspread, soft shadow) for captions and a logo; set in the present-day Maldives: a small local island with a stone jetty, white sandy roads, an old white mosque and a walled cemetery, and Malé's narrow streets and a comfortable older family townhouse.\nScene: 12-year-old Shahula in her faded pink long-sleeved ankle-length dress and white headscarf fully covering her hair and neck, running alone along the empty sandy lane through heavy rain towards the white wall of the mosque far ahead, her pink dress and white headscarf soaked, seen from behind and slightly to the side, splashes of rain on the puddles. Location: a white sandy lane of the island in heavy daytime rain, low coral-stone walls and palms on both sides, the sand dark and full of puddles, grey sky, the white wall of the old mosque visible far ahead. Camera: medium wide shot, eye level, faces in the upper two-thirds, a calm uncluttered lower third (puddled wet sand).\nCharacters: 12-year-old Shahula: a small slim Maldivian girl with light warm-brown skin, a small round childish face, big dark eyes and thick eyebrows; wears a faded pink long-sleeved ankle-length cotton dress and a white headscarf fully covering her hair and neck.\nMood/lighting: memory of a grey rainy day, heavy rain, cold grey light, a small lonely figure, urgent sorrow.\nModest Maldivian clothing (every woman and girl in loose long-sleeved ankle-length opaque clothing with a hijab fully covering her hair and neck, indoors too; men in shirts or t-shirts with long trousers or a sarong, never shirtless), a clear respectful distance between men and women, nobody touching, culturally respectful, no violence, nobody hitting or grabbing anyone, no blood, no wounds, no bruises, no marks on any face, no injuries, no corpses, no medical procedures, no needles, no knives, no cigarettes, no smoking, no tattoos, no text, no letters, no numbers, no writing, no readable screens or papers, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.475,
+    "halo": true
+   },
+   "focus": {
+    "x_pct": 81.7,
+    "y_pct": 53.7,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_014",
+   "startMs": 346400,
+   "endMs": 364471,
+   "new_image_reason": "scene change: from beside the cemetery wall she watches her mother being laid to rest",
+   "characters": [
+    "shahula_child"
+   ],
+   "location": "the small island cemetery beside the old white mosque on a grey rainy day: a sandy yard of plain small white-washed coral headstones without any writing under frangipani trees with fallen white flowers, enclosed by a low white coral wall, heavy rain",
+   "location_key": "cemetery_rain_day",
+   "mood": "memory of a grey rainy day, heavy rain, muted greys and greens, soft haze, silent overwhelming grief",
+   "visual": "12-year-old Shahula in her faded pink long-sleeved ankle-length dress and white headscarf fully covering her hair and neck, standing just inside the low white cemetery wall in the heavy rain, seen from behind and to the side, one hand on the wall, watching; far off across the cemetery a group of men in white shirts and sarongs stand in a quiet circle with their backs to the camera and heads bowed under the frangipani trees",
+   "camera": "medium wide shot, eye level, faces in the upper two-thirds, a calm uncluttered lower third (wet sand and fallen frangipani flowers)",
+   "image": "images/beat_014.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": "death",
+   "safe_substitution": "the burial is shown only as mourners' bowed backs far away; nothing of the bier or the ground work is visible",
+   "ambience": "memory_rain",
+   "shots": [
+    {
+     "id": "shot_039",
+     "startMs": 346400,
+     "endMs": 355131,
+     "narration_dhivehi": "އޭރު އޭނާގެ ލޯބިވާ މަންމަގެ ސަންދޯއް ވަޅަށް ތިރިކޮށް، ފަސްއަޅައި ފޮރުވަމުން ދަނީއެވެ. މުޅި ދުނިޔެ އެކީ ހުއްޓުމަކަށް އައި ފަދަ އިޙްސާސަކާއެކު،",
+     "narration_english": "At that time her beloved mother's bier had been lowered into the grave and sand was being poured to cover it. With a feeling as if the whole world had come to a stop,",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": true,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_040",
+     "startMs": 355131,
+     "endMs": 364471,
+     "narration_dhivehi": "ހިތްފަޅައިގެންދާ ފަދަ ހިތާމައިގައި ގިސްލަގިސްލާފައި އޭނާއަށް އެ މަންޒަރު ބަލަން ހުރެވުނެވެ. ޖަނާޒާގެ ކަންކަން ނިމި އެންމެން އެ ތަނުން ދިއުމުން،",
+     "narration_english": "she stood watching that scene, sobbing and sobbing in heartbreaking grief. When the funeral rites were over and everyone had left the place,",
+     "crop": "tight",
+     "motion": "pan right",
+     "sfx": [
+      {
+       "name": "sob_breath",
+       "atMs": 357701,
+       "gainDb": -22,
+       "word": "ގިސްލަގިސްލާފައި"
+      }
+     ],
+     "hum": true,
+     "crop_rect_pct": [
+      40.6,
+      5.8,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "refused",
+     "rewrite_reason": null
+    },
+    {
+     "attempt": 2,
+     "result": "ok",
+     "rewrite_reason": "refused: removed trigger words, neutral emotion/setting wording"
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing, create a new scene: Cinematic semi-realistic digital illustration with a tender, melancholic family-drama look, deep blue-black night shadows lit by warm amber lamplight, rain-wet reflections and soft glowing bokeh, gentle hazy tropical daylight on the island, warm homely interiors that turn dim and cold in sad moments, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, wet pavement, sand, table top, bedspread, soft shadow) for captions and a logo; set in the present-day Maldives: a small local island with a stone jetty, white sandy roads, an old white mosque and a walled cemetery, and Malé's narrow streets and a comfortable older family townhouse.\nScene: 12-year-old Shahula in her faded pink long-sleeved ankle-length dress and white headscarf fully covering her hair and neck, standing just inside the low white wall in the heavy rain, seen from behind and to the side, one hand on the wall, watching; far off across the a group of men in white shirts and sarongs stand in a quiet circle with their backs to the camera and heads bowed under the frangipani trees, calm and emotional. Location: the small island cemetery beside the old white mosque on a grey rainy day: a sandy yard of plain small white-washed coral headstones without any writing under frangipani trees with fallen white flowers, enclosed by a low white coral wall, heavy rain. Camera: medium wide shot, eye level, faces in the upper two-thirds, a calm uncluttered lower third (wet sand and fallen frangipani flowers).\nCharacters: 12-year-old Shahula: a small slim Maldivian girl with light warm-brown skin, a small round childish face, big dark eyes and thick eyebrows; wears a faded pink long-sleeved ankle-length cotton dress and a white headscarf fully covering her hair and neck.\nMood/lighting: memory of a grey rainy day, heavy rain, muted greys and greens, soft haze, silent overwhelming grief.\nModest Maldivian clothing (every woman and girl in loose long-sleeved ankle-length opaque clothing with a hijab fully covering her hair and neck, indoors too; men in shirts or t-shirts with long trousers or a sarong, never shirtless), a clear respectful distance between men and women, nobody touching, culturally respectful, no violence, nobody hitting or grabbing anyone, no blood, no wounds, no bruises, no marks on any face, no injuries, no corpses, no medical procedures, no needles, no knives, no cigarettes, no smoking, no tattoos, no text, no letters, no numbers, no writing, no readable screens or papers, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.395,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 84.9,
+    "y_pct": 41.0,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_015",
+   "startMs": 364471,
+   "endMs": 383012,
+   "new_image_reason": "action change: alone after everyone has left, she kneels by her mother's resting place, head bowed to the sand",
+   "characters": [
+    "shahula_child"
+   ],
+   "location": "the small island cemetery beside the old white mosque on a grey rainy day: a sandy yard of plain small white-washed coral headstones without any writing under frangipani trees with fallen white flowers, enclosed by a low white coral wall, heavy rain",
+   "location_key": "cemetery_rain_day",
+   "mood": "memory of a grey rainy day, heavy rain, muted greys and greens, soft haze, silent overwhelming grief",
+   "visual": "12-year-old Shahula in her faded pink long-sleeved ankle-length dress and white headscarf fully covering her hair and neck, seen from the side at a little distance, sitting on her knees on the wet sand in the rain beside a small low mound of white sand marked with a plain white coral stone and a few white frangipani flowers, her head bowed, her hands resting in her lap; frangipani trees and the low white wall around her, nobody else there",
+   "camera": "medium shot, slightly high angle, the girl and the headstone in the upper two-thirds, faces in the upper two-thirds, a calm uncluttered lower third (wet sand)",
+   "image": "images/beat_015.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": "death",
+   "safe_substitution": "only the fresh sand mound and a plain white headstone; the child kneels with dignity, head bowed",
+   "ambience": "memory_rain",
+   "shots": [
+    {
+     "id": "shot_041",
+     "startMs": 364471,
+     "endMs": 371612,
+     "narration_dhivehi": "ކަރުނައިން ފުރިގެންވާ ޙާލު އޭނާ ގޮސް މަންމަގެ މަހާނަ ކައިރީގައި އިށީނެވެ. އަދި ހިތާމައިން ފުރިގެންވާ ގިސްލުމާއެކު،",
+     "narration_english": "full of tears, she went and sat down beside her mother's grave. And with sobs full of grief,",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_042",
+     "startMs": 371612,
+     "endMs": 383012,
+     "narration_dhivehi": "މަންމަ ފަސްދާނުލެވިފައިވާ އެ ފަސްގަނޑުމަތީގައި ބޯ އަޅައިލިއެވެ. މަންމަގެ އަސަރުގަދަ އަޑު އޭނާގެ ކަންފަތްދޮށުގައި ގުގުމަމުން ދިޔައީ ކޮންމެވެސް ވަސިއްޔަތެއް ކުރާ ފަދައިންނެވެ.",
+     "narration_english": "she laid her head on the sand where her mother was buried. Her mother's moving voice echoed by her ear as if she were giving some last advice.",
+     "crop": "tight",
+     "motion": "pan up",
+     "sfx": [],
+     "hum": true,
+     "crop_rect_pct": [
+      20.3,
+      4.8,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "refused",
+     "rewrite_reason": null
+    },
+    {
+     "attempt": 2,
+     "result": "ok",
+     "rewrite_reason": "refused: removed trigger words, neutral emotion/setting wording"
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing, create a new scene: Cinematic semi-realistic digital illustration with a tender, melancholic family-drama look, deep blue-black night shadows lit by warm amber lamplight, rain-wet reflections and soft glowing bokeh, gentle hazy tropical daylight on the island, warm homely interiors that turn dim and cold in sad moments, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, wet pavement, sand, table top, bedspread, soft shadow) for captions and a logo; set in the present-day Maldives: a small local island with a stone jetty, white sandy roads, an old white mosque and a walled cemetery, and Malé's narrow streets and a comfortable older family townhouse.\nScene: 12-year-old Shahula in her faded pink long-sleeved ankle-length dress and white headscarf fully covering her hair and neck, seen from the side at a little distance, sitting on her knees on the wet sand in the rain beside a small low mound of white sand marked with a plain white coral stone and a few white frangipani flowers, her head bowed, her hands resting in her ; frangipani trees and the low white wall around her, nobody else there, calm and emotional. Location: the small island cemetery beside the old white mosque on a grey rainy day: a sandy yard of plain small white-washed coral headstones without any writing under frangipani trees with fallen white flowers, enclosed by a low white coral wall, heavy rain. Camera: medium shot, slightly high angle, the girl and the headstone in the upper two-thirds, faces in the upper two-thirds, a calm uncluttered lower third (wet sand).\nCharacters: 12-year-old Shahula: a small slim Maldivian girl with light warm-brown skin, a small round childish face, big dark eyes and thick eyebrows; wears a faded pink long-sleeved ankle-length cotton dress and a white headscarf fully covering her hair and neck.\nMood/lighting: memory of a grey rainy day, heavy rain, muted greys and greens, soft haze, silent overwhelming grief.\nModest Maldivian clothing (every woman and girl in loose long-sleeved ankle-length opaque clothing with a hijab fully covering her hair and neck, indoors too; men in shirts or t-shirts with long trousers or a sarong, never shirtless), a clear respectful distance between men and women, nobody touching, culturally respectful, no violence, nobody hitting or grabbing anyone, no blood, no wounds, no bruises, no marks on any face, no injuries, no corpses, no medical procedures, no needles, no knives, no cigarettes, no smoking, no tattoos, no text, no letters, no numbers, no writing, no readable screens or papers, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.416,
+    "halo": true
+   },
+   "focus": {
+    "x_pct": 50.0,
+    "y_pct": 40.0,
+    "face_detected": false
+   }
+  },
+  {
+   "id": "beat_016",
+   "startMs": 383012,
+   "endMs": 418904,
+   "new_image_reason": "memory: her mother's loving voice comes to her ear with her last advice",
+   "characters": [
+    "khadheeja"
+   ],
+   "location": "a soft, dreamlike memory space glowing with warm golden haze and floating light particles, a hint of island palms and a coral-stone wall dissolved into soft light",
+   "location_key": "memory_glow",
+   "mood": "memory: soft warm hazy golden glow, dreamlike vignette, tender, loving and sorrowful",
+   "visual": "memory: close-up of Khadheeja in her faded green libaas and white headscarf, her thin gentle face softly glowing in warm golden haze, looking straight at the viewer with tender, tear-bright loving eyes and a faint smile, as if giving her daughter a last gentle piece of advice",
+   "camera": "close-up, eye level, faces in the upper two-thirds, a calm uncluttered lower third (soft golden haze)",
+   "image": "images/beat_016.png",
+   "reuse_of": null,
+   "transition_in": "dissolve",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "memory",
+   "shots": [
+    {
+     "id": "shot_043",
+     "startMs": 383012,
+     "endMs": 392233,
+     "narration_dhivehi": "\"ދަރިފުޅާ! މަންމަގެ ދެ ލޮލުގެ ނޫރާ! މަންމަ މި ދުނިޔެއާ ވަކިވެގެން ދިޔަކަމުގައި ވިޔަސް، ދަރިފުޅުގެ ތަޢުލީމީ ޙަޔާތް ބަނަވިޔަ ނުދޭތި!",
+     "narration_english": "\"My child! Light of Mamma's two eyes! Even though Mamma has left this world, don't let your education go dark!",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": true,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_044",
+     "startMs": 392233,
+     "endMs": 401223,
+     "narration_dhivehi": "މަންމަގެ ހިތުގެ ވިންދާ ގުޅިފައިވާ ލޯބިވާ ދަރިފުޅަކީ، އިލްމާއި ހުނަރުން ފުރިގެންވާ މޮޅު މީހަކަށް ވުމަކީ މަންމަގެ އެންމެ ބޮޑު އުންމީދު،",
+     "narration_english": "That Mamma's beloved child, bound to the beat of her heart, becomes a great person full of knowledge and skill is Mamma's greatest hope,",
+     "crop": "tight",
+     "motion": "pan down",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      20.2,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_045",
+     "startMs": 401223,
+     "endMs": 411374,
+     "narration_dhivehi": "ދުނިޔެއާއި އާޚިރަތުގެ ބާއްޖަވެރިކަން ދަރިފުޅަށް ލިބުމޭ މަންމަގެ ފުރާނަފަދަ ލޯބިވާ ދަރިފުޅާ! މަންމަ ދުނިޔޭގައި ނެތް ދުވަހަކު ވެސް މާތް އަޚްލާޤުގެ މަތީގައި ސާބިތުވެ،",
+     "narration_english": "success in this world and the hereafter for you, my beloved child, dear to Mamma as her own soul! Even on the days when Mamma is no longer in this world, stay firm on good character,",
+     "crop": "full",
+     "motion": "static drift",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_046",
+     "startMs": 411374,
+     "endMs": 418904,
+     "narration_dhivehi": "ކިޔަމަންތެރި ކުއްޖެއްގެ ގޮތުގައި ވާތި، ތިޔައީ މަންމަގެ މުޅި ދިރިއުޅުން.\" ހަށިގަނޑު ހޫނުވެ ފިހެމުންދިޔަ ހާލުގައި ވެސް،",
+     "narration_english": "be an obedient child; you are Mamma's whole life.\" Even while her body burned hot with fever,",
+     "crop": "medium",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      14.2,
+      0.0,
+      71.5,
+      84.7
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Khadheeja), create a new scene: Cinematic semi-realistic digital illustration with a tender, melancholic family-drama look, deep blue-black night shadows lit by warm amber lamplight, rain-wet reflections and soft glowing bokeh, gentle hazy tropical daylight on the island, warm homely interiors that turn dim and cold in sad moments, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, wet pavement, sand, table top, bedspread, soft shadow) for captions and a logo; set in the present-day Maldives: a small local island with a stone jetty, white sandy roads, an old white mosque and a walled cemetery, and Malé's narrow streets and a comfortable older family townhouse.\nScene: memory: close-up of Khadheeja in her faded green libaas and white headscarf, her thin gentle face softly glowing in warm golden haze, looking straight at the viewer with tender, tear-bright loving eyes and a faint smile, as if giving her daughter a last gentle piece of advice. Location: a soft, dreamlike memory space glowing with warm golden haze and floating light particles, a hint of island palms and a coral-stone wall dissolved into soft light. Camera: close-up, eye level, faces in the upper two-thirds, a calm uncluttered lower third (soft golden haze).\nCharacters: Khadheeja: a thin Maldivian woman of about 38 with warm brown skin, a thin gentle face, tired kind dark eyes and a soft smile; wears a faded green traditional long-sleeved ankle-length libaas dress and a white headscarf fully covering her hair and neck.\nMood/lighting: memory: soft warm hazy golden glow, dreamlike vignette, tender, loving and sorrowful.\nModest Maldivian clothing (every woman and girl in loose long-sleeved ankle-length opaque clothing with a hijab fully covering her hair and neck, indoors too; men in shirts or t-shirts with long trousers or a sarong, never shirtless), a clear respectful distance between men and women, nobody touching, culturally respectful, no violence, nobody hitting or grabbing anyone, no blood, no wounds, no bruises, no marks on any face, no injuries, no corpses, no medical procedures, no needles, no knives, no cigarettes, no smoking, no tattoos, no text, no letters, no numbers, no writing, no readable screens or papers, no logos, no watermark.",
+   "logo": {
+    "color": "black",
+    "bg_luminance": 0.635,
+    "halo": true
+   },
+   "focus": {
+    "x_pct": 49.9,
+    "y_pct": 31.3,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_017",
+   "startMs": 418904,
+   "endMs": 442876,
+   "new_image_reason": "time jump: that night Shahula burns with fever; Faathanikey keeps changing the wet cloths",
+   "characters": [
+    "shahula_child",
+    "faathanikey"
+   ],
+   "location": "Shahula's small bare bedroom in Zubair's old coral-stone island house at night: whitewashed walls, a narrow wooden bed with a thin pillow, a closed wooden window with rain on the panes, a small kerosene-style lamp on a stool giving warm amber light, a metal basin of water on the floor",
+   "location_key": "zubair_room_night",
+   "mood": "night, a single warm amber lamp, deep shadows, rain on the window, anxious and caring",
+   "visual": "12-year-old Shahula in her faded pink long-sleeved ankle-length dress and white headscarf fully covering her hair and neck, sitting propped up on a pillow against the head of her narrow bed under a thin faded blanket up to her chest, eyes half closed, cheeks flushed with fever, lips murmuring; Faathanikey in her maroon libaas and white headscarf sitting on the edge of the bed pressing a folded wet white cloth to the girl's forehead with a frightened, worried face; a metal basin of water on the stool beside the lamp",
+   "camera": "medium shot, eye level, faces in the upper two-thirds, a calm uncluttered lower third (the blanket and the floor in shadow)",
+   "image": "images/beat_017.png",
+   "reuse_of": null,
+   "transition_in": "black",
+   "sensitive": "other",
+   "safe_substitution": "fever shown with the girl sitting up propped on a pillow, fully dressed with headscarf, a cool cloth on her forehead",
+   "ambience": "room_night",
+   "shots": [
+    {
+     "id": "shot_047",
+     "startMs": 418904,
+     "endMs": 432965,
+     "narration_dhivehi": "އޭނާގެ ދުލުން ތަކުރާރުކޮށް ކިޔެމުންދިޔައީ އެ ލޯބިވާ މަންމަގެ ނަމެވެ. ފާތާނިކެ މެދުކެނޑުމެއްނެތި ފެންފޮތި ބަދަލުކުރަމުން ޝަހުލާގެ ނިތްކުރިމަތީގައި އަޅަމުންދިޔަ ނަމަވެސް، ހުމުގެ ހޫނުކަމަކަށް އެއްވެސް ބަދަލެއް ނާދެއެވެ.",
+     "narration_english": "what her lips kept repeating was her beloved mother's name. Though Faathanikey kept changing the wet cloths on Shahula's forehead without a pause, the heat of the fever did not change at all.",
+     "crop": "full",
+     "motion": "pan left",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_048",
+     "startMs": 432965,
+     "endMs": 442876,
+     "narration_dhivehi": "އެއާއެކު ފާތާނިކެގެ ހިތުގެ ބިރުވެރިކަމާއި ކަންބޮޑުވުން ދިޔައީ އިންތިހާއަށް ބޮޑުވަމުންނެވެ. އޭނާއަށް ސިއްރުން ޝަހުލާ ސަހަރާއަށް ދިޔަ ޚަބަރު ޒުބައިރަށް އެނގިއްޖެނަމަ،",
+     "narration_english": "With that, Faathanikey's fear and worry grew beyond measure. Thinking of what would happen if Zubair learned that Shahula had secretly gone to the cemetery,",
+     "crop": "tight",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      20.3,
+      4.8,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Shahula; reference image 2 is Faathanikey), create a new scene: Cinematic semi-realistic digital illustration with a tender, melancholic family-drama look, deep blue-black night shadows lit by warm amber lamplight, rain-wet reflections and soft glowing bokeh, gentle hazy tropical daylight on the island, warm homely interiors that turn dim and cold in sad moments, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, wet pavement, sand, table top, bedspread, soft shadow) for captions and a logo; set in the present-day Maldives: a small local island with a stone jetty, white sandy roads, an old white mosque and a walled cemetery, and Malé's narrow streets and a comfortable older family townhouse.\nScene: 12-year-old Shahula in her faded pink long-sleeved ankle-length dress and white headscarf fully covering her hair and neck, sitting propped up on a pillow against the head of her narrow bed under a thin faded blanket up to her chest, eyes half closed, cheeks flushed with fever, lips murmuring; Faathanikey in her maroon libaas and white headscarf sitting on the edge of the bed pressing a folded wet white cloth to the girl's forehead with a frightened, worried face; a metal basin of water on the stool beside the lamp. Location: Shahula's small bare bedroom in Zubair's old coral-stone island house at night: whitewashed walls, a narrow wooden bed with a thin pillow, a closed wooden window with rain on the panes, a small kerosene-style lamp on a stool giving warm amber light, a metal basin of water on the floor. Camera: medium shot, eye level, faces in the upper two-thirds, a calm uncluttered lower third (the blanket and the floor in shadow).\nCharacters: 12-year-old Shahula: a small slim Maldivian girl with light warm-brown skin, a small round childish face, big dark eyes and thick eyebrows; wears a faded pink long-sleeved ankle-length cotton dress and a white headscarf fully covering her hair and neck. Faathanikey: a plump short Maldivian woman of about 42 with warm brown skin, a round kind face and soft worried dark eyes; wears a maroon dhigu-hedhun style long-sleeved ankle-length libaas dress and a white headscarf fully covering her hair and neck.\nMood/lighting: night, a single warm amber lamp, deep shadows, rain on the window, anxious and caring.\nModest Maldivian clothing (every woman and girl in loose long-sleeved ankle-length opaque clothing with a hijab fully covering her hair and neck, indoors too; men in shirts or t-shirts with long trousers or a sarong, never shirtless), a clear respectful distance between men and women, nobody touching, culturally respectful, no violence, nobody hitting or grabbing anyone, no blood, no wounds, no bruises, no marks on any face, no injuries, no corpses, no medical procedures, no needles, no knives, no cigarettes, no smoking, no tattoos, no text, no letters, no numbers, no writing, no readable screens or papers, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.145,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 50.0,
+    "y_pct": 40.0,
+    "face_detected": false
+   }
+  },
+  {
+   "id": "beat_018",
+   "startMs": 442876,
+   "endMs": 479768,
+   "new_image_reason": "scene change: Zubair, her uncle, a fisherman stranded far away at sea by engine trouble",
+   "characters": [
+    "zubair"
+   ],
+   "location": "the open sea far away from the atoll on a grey stormy day: a wooden Maldivian fishing dhoni with a small wheelhouse drifting on rough grey-green waves, low dark rain clouds, spray in the air, no land in sight",
+   "location_key": "open_sea_day",
+   "mood": "grey stormy daylight far out at sea, cold muted blues and greys, rough and stranded",
+   "visual": "Zubair in his faded blue checked shirt, dark sarong and a faded cap, standing on the deck of a drifting fishing dhoni on rough grey waves, one hand on the wheelhouse, looking at the empty horizon with a stern, impatient frown; the engine hatch open beside him",
+   "camera": "medium wide shot, eye level, the man and the horizon in the upper two-thirds, faces in the upper two-thirds, a calm uncluttered lower third (wooden deck)",
+   "image": "images/beat_018.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "sea_boat",
+   "shots": [
+    {
+     "id": "shot_049",
+     "startMs": 442876,
+     "endMs": 451866,
+     "narration_dhivehi": "ދެން ކުރިމަތިލާންޖެހޭނެ ހިތްދަތި ކަންތައްތަކާމެދު ވިސްނާފައެވެ. ޝަހުލާގެ މަންމަ ޚަދީޖާގެ އެއްބަނޑުއެއްބަފާ ބޭބެ ޒުބައިރަކީ މަސްވެރިއަކަށް ވާތީ،",
+     "narration_english": "and of the hard things they would have to face then. Since Zubair, Shahula's mother Khadheeja's full brother, was a fisherman,",
+     "crop": "full",
+     "motion": "pan right",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_050",
+     "startMs": 451866,
+     "endMs": 462277,
+     "narration_dhivehi": "އޭނާ މަހަށް ފުރިގޮތަށް އަދި ރަށަކަށް ނާދެވެއެވެ. ޚަދީޖާ ނިޔާވި ޚަބަރު ދިންއިރު އޭނާ ހުރީ އަތޮޅާ ވަރަށް ދުރުގައެވެ. އަދި ރަށަށް އައުމަށްޓަކައި ދަތުރުފެށި ނަމަވެސް،",
+     "narration_english": "once he set out fishing he did not come back to the island quickly. When the news of Khadheeja's passing was sent, he was very far from the atoll. And though he had set out for the island,",
+     "crop": "tight",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      20.3,
+      4.8,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_051",
+     "startMs": 462277,
+     "endMs": 470158,
+     "narration_dhivehi": "ދޯނީގެ އިންޖީނަށް ދިމާވި މައްސަލައަކާ ގުޅިގެން ދަތުރު ލަސްވެ، މިހާތަނަށް ވެސް އެ ދޯންޏަށް ރަށާ ހަމައަށް ވާސިލުވެވިފައެއް ނުވެއެވެ.",
+     "narration_english": "because of a problem with the dhoni's engine the trip was delayed, and even now the dhoni had not reached the island.",
+     "crop": "full",
+     "motion": "pan up",
+     "sfx": [
+      {
+       "name": "dhoni_engine",
+       "atMs": 463107,
+       "gainDb": -22,
+       "word": "އިންޖީނަށް"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_052",
+     "startMs": 470158,
+     "endMs": 479768,
+     "narration_dhivehi": "މައްޔިތާ ގިނައިރު ބޭއްވުމަކީ އެދެވިގެންވާ ކަމަކަށް ނުވާތީ، ރަށުގެ މުދިމުގެ އިރުޝާދާ އެއްގޮތަށް ޚަދީޖާގެ ޖަނާޒާގެ ކަންކަން ނިންމައި އޭނާ ވަޅުލީއެވެ.",
+     "narration_english": "Since it is not desirable to keep the deceased waiting long, following the advice of the island's imam, Khadheeja's funeral rites were completed and she was buried.",
+     "crop": "medium",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      14.2,
+      0.0,
+      71.5,
+      84.7
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Zubair), create a new scene: Cinematic semi-realistic digital illustration with a tender, melancholic family-drama look, deep blue-black night shadows lit by warm amber lamplight, rain-wet reflections and soft glowing bokeh, gentle hazy tropical daylight on the island, warm homely interiors that turn dim and cold in sad moments, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, wet pavement, sand, table top, bedspread, soft shadow) for captions and a logo; set in the present-day Maldives: a small local island with a stone jetty, white sandy roads, an old white mosque and a walled cemetery, and Malé's narrow streets and a comfortable older family townhouse.\nScene: Zubair in his faded blue checked shirt, dark sarong and a faded cap, standing on the deck of a drifting fishing dhoni on rough grey waves, one hand on the wheelhouse, looking at the empty horizon with a stern, impatient frown; the engine hatch open beside him. Location: the open sea far away from the atoll on a grey stormy day: a wooden Maldivian fishing dhoni with a small wheelhouse drifting on rough grey-green waves, low dark rain clouds, spray in the air, no land in sight. Camera: medium wide shot, eye level, the man and the horizon in the upper two-thirds, faces in the upper two-thirds, a calm uncluttered lower third (wooden deck).\nCharacters: Zubair: a stocky Maldivian fisherman of about 45 with sun-weathered dark brown skin, a weathered square face, deep-set stern dark eyes, short greying black hair and a short greying beard; wears a faded blue checked long-sleeved shirt with rolled cuffs and a dark-brown sarong.\nMood/lighting: grey stormy daylight far out at sea, cold muted blues and greys, rough and stranded.\nModest Maldivian clothing (every woman and girl in loose long-sleeved ankle-length opaque clothing with a hijab fully covering her hair and neck, indoors too; men in shirts or t-shirts with long trousers or a sarong, never shirtless), a clear respectful distance between men and women, nobody touching, culturally respectful, no violence, nobody hitting or grabbing anyone, no blood, no wounds, no bruises, no marks on any face, no injuries, no corpses, no medical procedures, no needles, no knives, no cigarettes, no smoking, no tattoos, no text, no letters, no numbers, no writing, no readable screens or papers, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.172,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 50.0,
+    "y_pct": 40.0,
+    "face_detected": false
+   }
+  },
+  {
+   "id": "beat_019",
+   "startMs": 479768,
+   "endMs": 496929,
+   "new_image_reason": "time jump: next morning his dhoni returns; Zubair walks home with his share of fish, no grief on his face",
+   "characters": [
+    "zubair"
+   ],
+   "location": "the white sandy main road of the island in the early morning after the storm: puddles on the sand, palms and coral-stone walls, soft hazy golden light, the harbour and a moored fishing dhoni small in the background",
+   "location_key": "island_road_morning",
+   "mood": "early morning after the storm, soft hazy tropical light, wet sand glistening, quiet and cold-hearted",
+   "visual": "Zubair in his faded blue checked shirt and dark sarong, walking up the wet sandy road in the soft morning light carrying a string of three whole silver tuna fish in one hand, his face blank and hard with no sign of grief; a fishing dhoni moored in the harbour behind him",
+   "camera": "medium shot, eye level, faces in the upper two-thirds, a calm uncluttered lower third (wet sand with puddles)",
+   "image": "images/beat_019.png",
+   "reuse_of": null,
+   "transition_in": "black",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "village_day",
+   "shots": [
+    {
+     "id": "shot_053",
+     "startMs": 479768,
+     "endMs": 489769,
+     "narration_dhivehi": "އޭގެ އަނެއް ދުވަހުގެ ހެނދުނުގެ ވަގުތެވެ. ޒުބައިރުމެން ފުރައިގެން ދިޔަ ދޯނި އެނބުރި ރަށަށް ލެފިއެވެ. ޒުބައިރު ގެއަށް އައީ އޭނާއަށް ލިބުނު މަސްބައި ހިފައިގެންނެވެ.",
+     "narration_english": "It was the morning of the next day. The dhoni Zubair had sailed on came back to the island. Zubair came home carrying his share of the fish.",
+     "crop": "full",
+     "motion": "pan down",
+     "sfx": [
+      {
+       "name": "dhoni_engine",
+       "atMs": 484028,
+       "gainDb": -20,
+       "word": "ދޯނި"
+      },
+      {
+       "name": "footsteps_sand",
+       "atMs": 486569,
+       "gainDb": -22,
+       "word": "ގެއަށް"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_054",
+     "startMs": 489769,
+     "endMs": 496929,
+     "narration_dhivehi": "އޭނާގެ ދައްތަ މި ދުނިޔެ ދޫކޮށް ދިޔަކަމުގެ އެއްވެސް ހިތާމައެއް ނުވަތަ އަސަރެއް އޭނާގެ މޫނުމަތިން ފެންނާކަށް ނެތެވެ.",
+     "narration_english": "Not a trace of grief or sorrow at his sister having left this world could be seen on his face.",
+     "crop": "tight",
+     "motion": "static drift",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      22.0,
+      0.0,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Zubair), create a new scene: Cinematic semi-realistic digital illustration with a tender, melancholic family-drama look, deep blue-black night shadows lit by warm amber lamplight, rain-wet reflections and soft glowing bokeh, gentle hazy tropical daylight on the island, warm homely interiors that turn dim and cold in sad moments, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, wet pavement, sand, table top, bedspread, soft shadow) for captions and a logo; set in the present-day Maldives: a small local island with a stone jetty, white sandy roads, an old white mosque and a walled cemetery, and Malé's narrow streets and a comfortable older family townhouse.\nScene: Zubair in his faded blue checked shirt and dark sarong, walking up the wet sandy road in the soft morning light carrying a string of three whole silver tuna fish in one hand, his face blank and hard with no sign of grief; a fishing dhoni moored in the harbour behind him. Location: the white sandy main road of the island in the early morning after the storm: puddles on the sand, palms and coral-stone walls, soft hazy golden light, the harbour and a moored fishing dhoni small in the background. Camera: medium shot, eye level, faces in the upper two-thirds, a calm uncluttered lower third (wet sand with puddles).\nCharacters: Zubair: a stocky Maldivian fisherman of about 45 with sun-weathered dark brown skin, a weathered square face, deep-set stern dark eyes, short greying black hair and a short greying beard; wears a faded blue checked long-sleeved shirt with rolled cuffs and a dark-brown sarong.\nMood/lighting: early morning after the storm, soft hazy tropical light, wet sand glistening, quiet and cold-hearted.\nModest Maldivian clothing (every woman and girl in loose long-sleeved ankle-length opaque clothing with a hijab fully covering her hair and neck, indoors too; men in shirts or t-shirts with long trousers or a sarong, never shirtless), a clear respectful distance between men and women, nobody touching, culturally respectful, no violence, nobody hitting or grabbing anyone, no blood, no wounds, no bruises, no marks on any face, no injuries, no corpses, no medical procedures, no needles, no knives, no cigarettes, no smoking, no tattoos, no text, no letters, no numbers, no writing, no readable screens or papers, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.301,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 51.8,
+    "y_pct": 18.3,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_020",
+   "startMs": 496929,
+   "endMs": 533541,
+   "new_image_reason": "scene/character change: in the yard he lays the fish on a tray; Faathanikey comes with a water pot and asks about Shahula's fever",
+   "characters": [
+    "faathanikey",
+    "zubair"
+   ],
+   "location": "the sandy yard of Zubair's old coral-stone island house in the morning: an outdoor kitchen area under a corrugated roof, a low wooden table, a big wooden tray, a wooden joali seat, a plastic water barrel, a towel hanging on a line, the open dark doorway of the house, palms",
+   "location_key": "zubair_yard_morning",
+   "mood": "morning, soft hazy tropical light and cool shade under the roof, tense and hurtful",
+   "visual": "Zubair sitting on a low stool at the low wooden table in the yard, three whole silver tuna fish lying on a big wooden tray in front of him, his hands resting flat on the edge of the tray, not looking up, his face cold; Faathanikey in her maroon libaas and white headscarf standing a few steps away with a metal water pot (bandiyaa) on her hip, speaking to him with a very worried face",
+   "camera": "medium wide shot, eye level, faces in the upper two-thirds, a calm uncluttered lower third (the tray and the sandy ground)",
+   "image": "images/beat_020.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": "other",
+   "safe_substitution": "whole fish on a tray only; nothing in his hands, no cutting shown",
+   "ambience": "island_house_day",
+   "shots": [
+    {
+     "id": "shot_055",
+     "startMs": 496929,
+     "endMs": 505640,
+     "narration_dhivehi": "ޒުބައިރު އެ މަސްކޮޅު ތެއްޔަކަށް އަޅައި، މަސް ކަނޑަން ތައްޔާރުވެލިއެވެ. އެ ވަގުތު ފާތާނިކެ ގެއަށް ވަދެގެން އައީ ފެންބަނޑިޔަލެއް ހިފައިގެންނެވެ.",
+     "narration_english": "Zubair put the fish on a tray and got ready to cut them. At that moment Faathanikey came into the house carrying a water pot.",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [
+      {
+       "name": "footsteps_sand",
+       "atMs": 502609,
+       "gainDb": -22,
+       "word": "ވަދެގެން"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_056",
+     "startMs": 505640,
+     "endMs": 515070,
+     "narration_dhivehi": "ބަނޑިޔާ ބެހެއްޓުމަށްފަހު، ފާތާނިކެ ހިނގައިގަތީ ޒުބައިރާ ދިމާއަށެވެ. \"ޝަހުލާގެ ހާލު ބަލައިލިންތަ؟ އެ ކުއްޖާގެ ހުން އަދިވެސް މައިތިރިއެއް ނުވޭ.\"",
+     "narration_english": "After setting the pot down, Faathanikey walked towards Zubair. \"Did you look in on Shahula? That girl's fever still hasn't come down.\"",
+     "crop": "tight",
+     "motion": "pan left",
+     "sfx": [
+      {
+       "name": "soft_thud",
+       "atMs": 506210,
+       "gainDb": -24,
+       "word": "ބެހެއްޓުމަށްފަހު،"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      2.7,
+      0.7,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_057",
+     "startMs": 515070,
+     "endMs": 523271,
+     "narration_dhivehi": "އިންތިހާއަށް ކަންބޮޑުވެފައިވާ އަޑަކުން ފާތާނިކެ ބުންޏެވެ. ނަމަވެސް، ޒުބައިރުގެ ފަރާތުން އެއްވެސް އިޖާބައެއް ނުލިބުނެވެ.",
+     "narration_english": "Faathanikey said in an extremely worried voice. But no answer came from Zubair.",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_058",
+     "startMs": 523271,
+     "endMs": 533541,
+     "narration_dhivehi": "އޭނާ އެއްވެސް ފަރުވާލެއް ނެތް ފަދަ ގޮތަކަށް، މަސް ކެނޑުމުގެ މަސައްކަތައިގެން ކުރިއަށް ދިޔައީއެވެ. ފާތާނިކެ އަނެއްކާ ވެސް އޭނާގެ ވާހަކަ ތަކުރާރުކޮށްލިއެވެ. އެހެންނަމަ ވެސް،",
+     "narration_english": "As if he did not care at all, he carried on with the work of cutting the fish. Faathanikey repeated her words once more. But",
+     "crop": "medium",
+     "motion": "pan right",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      0.0,
+      0.0,
+      71.5,
+      84.7
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Faathanikey; reference image 2 is Zubair), create a new scene: Cinematic semi-realistic digital illustration with a tender, melancholic family-drama look, deep blue-black night shadows lit by warm amber lamplight, rain-wet reflections and soft glowing bokeh, gentle hazy tropical daylight on the island, warm homely interiors that turn dim and cold in sad moments, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, wet pavement, sand, table top, bedspread, soft shadow) for captions and a logo; set in the present-day Maldives: a small local island with a stone jetty, white sandy roads, an old white mosque and a walled cemetery, and Malé's narrow streets and a comfortable older family townhouse.\nScene: Zubair sitting on a low stool at the low wooden table in the yard, three whole silver tuna fish lying on a big wooden tray in front of him, his hands resting flat on the edge of the tray, not looking up, his face cold; Faathanikey in her maroon libaas and white headscarf standing a few steps away with a metal water pot (bandiyaa) on her hip, speaking to him with a very worried face. Location: the sandy yard of Zubair's old coral-stone island house in the morning: an outdoor kitchen area under a corrugated roof, a low wooden table, a big wooden tray, a wooden joali seat, a plastic water barrel, a towel hanging on a line, the open dark doorway of the house, palms. Camera: medium wide shot, eye level, faces in the upper two-thirds, a calm uncluttered lower third (the tray and the sandy ground).\nCharacters: Faathanikey: a plump short Maldivian woman of about 42 with warm brown skin, a round kind face and soft worried dark eyes; wears a maroon dhigu-hedhun style long-sleeved ankle-length libaas dress and a white headscarf fully covering her hair and neck. Zubair: a stocky Maldivian fisherman of about 45 with sun-weathered dark brown skin, a weathered square face, deep-set stern dark eyes, short greying black hair and a short greying beard; wears a faded blue checked long-sleeved shirt with rolled cuffs and a dark-brown sarong.\nMood/lighting: morning, soft hazy tropical light and cool shade under the roof, tense and hurtful.\nModest Maldivian clothing (every woman and girl in loose long-sleeved ankle-length opaque clothing with a hijab fully covering her hair and neck, indoors too; men in shirts or t-shirts with long trousers or a sarong, never shirtless), a clear respectful distance between men and women, nobody touching, culturally respectful, no violence, nobody hitting or grabbing anyone, no blood, no wounds, no bruises, no marks on any face, no injuries, no corpses, no medical procedures, no needles, no knives, no cigarettes, no smoking, no tattoos, no text, no letters, no numbers, no writing, no readable screens or papers, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.281,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 32.4,
+    "y_pct": 35.9,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_021",
+   "startMs": 533541,
+   "endMs": 568593,
+   "new_image_reason": "framing change: Zubair snaps at her with his hard, cruel answer",
+   "characters": [
+    "zubair"
+   ],
+   "location": "the sandy yard of Zubair's old coral-stone island house in the morning: an outdoor kitchen area under a corrugated roof, a low wooden table, a big wooden tray, a wooden joali seat, a plastic water barrel, a towel hanging on a line, the open dark doorway of the house, palms",
+   "location_key": "zubair_yard_morning",
+   "mood": "morning, soft hazy tropical light and cool shade under the roof, tense and hurtful",
+   "visual": "close-up of Zubair seated at the fish tray, his weathered face tight with irritation, brows drawn down, glaring sideways at someone off-frame as he speaks sharply, the edge of the tray and a whole fish visible below; nothing in his hands",
+   "camera": "close-up, eye level, faces in the upper two-thirds, a calm uncluttered lower third (the wooden tray edge in soft focus)",
+   "image": "images/beat_021.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": "other",
+   "safe_substitution": "harsh words shown only as a stern face",
+   "ambience": "island_house_day",
+   "shots": [
+    {
+     "id": "shot_059",
+     "startMs": 533541,
+     "endMs": 541952,
+     "narration_dhivehi": "މިފަހަރު އޭނާއަށް އަޑުއަހަން ޖެހުނީ ހީވެސް ނުކުރާ ފަދަ ހިތްދަތި ޖަވާބެކެވެ. \"ބޮލަށް ތުރާނުކޮށް ދުރަށް ގޮސްބަލަ! މަހަށް ގޮސް،",
+     "narration_english": "this time she had to hear a painful answer she never expected. \"Go away and stop pestering my head! After going out to sea,",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_060",
+     "startMs": 541952,
+     "endMs": 550812,
+     "narration_dhivehi": "ގަދަ ވަޔާއި ވިއްސާރައިގައި ލޮލާ ބޯ ފިއްސައިގެން ހޭބޯނާރާ އުޅެފައި އައުމުން ވެސް، ފާތާނިކެގެ ވިސްނުމަކީ ހަމަ ބޮލަށް އުނދަގޫ ކުރުންތަ؟",
+     "narration_english": "after struggling without rest in strong wind and rain until my eyes and head are swollen, is all Faathanikey can think of to bother my head as soon as I come home?",
+     "crop": "tight",
+     "motion": "pan up",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      23.8,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_061",
+     "startMs": 550812,
+     "endMs": 560663,
+     "narration_dhivehi": "ތިޔަ ވާހަކަތައް ދޯނިން ފެށިގެން ރަށާ ހަމައަށް އަދި ރަށުން ފެށިގެން ގެއާ ހަމައަށް އަންނަންދެން ވެސް ދެއްކި އަޑު އިވިއްޖެއެވެ. އެ ވަރުން ވެސް ނުފުދިގެން،",
+     "narration_english": "I heard you going on about this all the way from the dhoni to the island, and from the island all the way to the house. Not satisfied even with that,",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_062",
+     "startMs": 560663,
+     "endMs": 568593,
+     "narration_dhivehi": "މި ގެޔަށް ވަނުމަށްފަހު ވެސް ތިޔަ ހުއްޓައެއް ނުލެވުނެއްނު؟ މިއީ ކޮންފަދަ ބޮޑު ތުރާލެއް؟ މީހަކު މަރުވެގެން މި އުޅެނީ އަލަށްތަ؟\"",
+     "narration_english": "you couldn't stop even after coming into this house, could you? What kind of great burden is this? Is this the first time someone has died?\"",
+     "crop": "medium",
+     "motion": "pan down",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      17.8,
+      0.0,
+      71.5,
+      84.7
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Zubair), create a new scene: Cinematic semi-realistic digital illustration with a tender, melancholic family-drama look, deep blue-black night shadows lit by warm amber lamplight, rain-wet reflections and soft glowing bokeh, gentle hazy tropical daylight on the island, warm homely interiors that turn dim and cold in sad moments, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, wet pavement, sand, table top, bedspread, soft shadow) for captions and a logo; set in the present-day Maldives: a small local island with a stone jetty, white sandy roads, an old white mosque and a walled cemetery, and Malé's narrow streets and a comfortable older family townhouse.\nScene: close-up of Zubair seated at the fish tray, his weathered face tight with irritation, brows drawn down, glaring sideways at someone off-frame as he speaks sharply, the edge of the tray and a whole fish visible below; nothing in his hands. Location: the sandy yard of Zubair's old coral-stone island house in the morning: an outdoor kitchen area under a corrugated roof, a low wooden table, a big wooden tray, a wooden joali seat, a plastic water barrel, a towel hanging on a line, the open dark doorway of the house, palms. Camera: close-up, eye level, faces in the upper two-thirds, a calm uncluttered lower third (the wooden tray edge in soft focus).\nCharacters: Zubair: a stocky Maldivian fisherman of about 45 with sun-weathered dark brown skin, a weathered square face, deep-set stern dark eyes, short greying black hair and a short greying beard; wears a faded blue checked long-sleeved shirt with rolled cuffs and a dark-brown sarong.\nMood/lighting: morning, soft hazy tropical light and cool shade under the roof, tense and hurtful.\nModest Maldivian clothing (every woman and girl in loose long-sleeved ankle-length opaque clothing with a hijab fully covering her hair and neck, indoors too; men in shirts or t-shirts with long trousers or a sarong, never shirtless), a clear respectful distance between men and women, nobody touching, culturally respectful, no violence, nobody hitting or grabbing anyone, no blood, no wounds, no bruises, no marks on any face, no injuries, no corpses, no medical procedures, no needles, no knives, no cigarettes, no smoking, no tattoos, no text, no letters, no numbers, no writing, no readable screens or papers, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.18,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 53.5,
+    "y_pct": 29.7,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_022",
+   "startMs": 568593,
+   "endMs": 585644,
+   "new_image_reason": "character change: Faathanikey, stunned and disappointed, reminds him it was his own sister",
+   "characters": [
+    "faathanikey"
+   ],
+   "location": "the sandy yard of Zubair's old coral-stone island house in the morning: an outdoor kitchen area under a corrugated roof, a low wooden table, a big wooden tray, a wooden joali seat, a plastic water barrel, a towel hanging on a line, the open dark doorway of the house, palms",
+   "location_key": "zubair_yard_morning",
+   "mood": "morning, soft hazy tropical light and cool shade under the roof, tense and hurtful",
+   "visual": "medium close-up of Faathanikey in her maroon libaas and white headscarf, standing in the yard with the water pot set down at her feet, one hand on her chest, her round kind face full of astonishment and hurt, eyes wide and wet, speaking pleadingly towards someone off-frame",
+   "camera": "medium close-up, eye level, faces in the upper two-thirds, a calm uncluttered lower third (sandy ground in soft shadow)",
+   "image": "images/beat_022.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "island_house_day",
+   "shots": [
+    {
+     "id": "shot_063",
+     "startMs": 568593,
+     "endMs": 576584,
+     "narration_dhivehi": "ޒުބައިރު ނުރުހުންތެރިކަމާއެކު ރައްދު ދިނެވެ. \"ބަލަ ޒުބައިރޫ! އެއީ ހަމަ ކަލޭގެ އުފަން އެއްބަނޑު އެއްބަފާ ދައްތައޭ.",
+     "narration_english": "Zubair answered with displeasure. \"Look, Zubair! She was your own sister, born of the same mother and father.",
+     "crop": "full",
+     "motion": "static drift",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_064",
+     "startMs": 576584,
+     "endMs": 585644,
+     "narration_dhivehi": "ޒުބައިރަށްޓަކައި އެ ދައްތަ ކޮށްދިން މިންނެތް ޚިދުމަތްތައް ހަނދާން ނެތުނީތަ؟\" ހައިރާންކަމާއި މާޔޫސްކަމުން ފުރިގެންވީ އަޑަކުން ފާތާނިކެ ބުންޏެވެ.",
+     "narration_english": "Have you forgotten all the countless things that sister did for Zubair?\" Faathanikey said in a voice full of astonishment and disappointment.",
+     "crop": "tight",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      20.1,
+      0.0,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Faathanikey), create a new scene: Cinematic semi-realistic digital illustration with a tender, melancholic family-drama look, deep blue-black night shadows lit by warm amber lamplight, rain-wet reflections and soft glowing bokeh, gentle hazy tropical daylight on the island, warm homely interiors that turn dim and cold in sad moments, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, wet pavement, sand, table top, bedspread, soft shadow) for captions and a logo; set in the present-day Maldives: a small local island with a stone jetty, white sandy roads, an old white mosque and a walled cemetery, and Malé's narrow streets and a comfortable older family townhouse.\nScene: medium close-up of Faathanikey in her maroon libaas and white headscarf, standing in the yard with the water pot set down at her feet, one hand on her chest, her round kind face full of astonishment and hurt, eyes wide and wet, speaking pleadingly towards someone off-frame. Location: the sandy yard of Zubair's old coral-stone island house in the morning: an outdoor kitchen area under a corrugated roof, a low wooden table, a big wooden tray, a wooden joali seat, a plastic water barrel, a towel hanging on a line, the open dark doorway of the house, palms. Camera: medium close-up, eye level, faces in the upper two-thirds, a calm uncluttered lower third (sandy ground in soft shadow).\nCharacters: Faathanikey: a plump short Maldivian woman of about 42 with warm brown skin, a round kind face and soft worried dark eyes; wears a maroon dhigu-hedhun style long-sleeved ankle-length libaas dress and a white headscarf fully covering her hair and neck.\nMood/lighting: morning, soft hazy tropical light and cool shade under the roof, tense and hurtful.\nModest Maldivian clothing (every woman and girl in loose long-sleeved ankle-length opaque clothing with a hijab fully covering her hair and neck, indoors too; men in shirts or t-shirts with long trousers or a sarong, never shirtless), a clear respectful distance between men and women, nobody touching, culturally respectful, no violence, nobody hitting or grabbing anyone, no blood, no wounds, no bruises, no marks on any face, no injuries, no corpses, no medical procedures, no needles, no knives, no cigarettes, no smoking, no tattoos, no text, no letters, no numbers, no writing, no readable screens or papers, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.11,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 49.8,
+    "y_pct": 24.1,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_023",
+   "startMs": 585644,
+   "endMs": 604716,
+   "new_image_reason": "back to Zubair's hard face: 'better if she had taken her along!'",
+   "characters": [
+    "zubair"
+   ],
+   "location": "the sandy yard of Zubair's old coral-stone island house in the morning: an outdoor kitchen area under a corrugated roof, a low wooden table, a big wooden tray, a wooden joali seat, a plastic water barrel, a towel hanging on a line, the open dark doorway of the house, palms",
+   "location_key": "zubair_yard_morning",
+   "mood": "morning, soft hazy tropical light and cool shade under the roof, tense and hurtful",
+   "visual": "reuse of beat_021",
+   "camera": "medium shot, eye level",
+   "image": "images/beat_021.png",
+   "reuse_of": "beat_021",
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "island_house_day",
+   "shots": [
+    {
+     "id": "shot_065",
+     "startMs": 585644,
+     "endMs": 596635,
+     "narration_dhivehi": "\"އެ ޚިދުމަތްތަކުގެ އަގު އަދާކުރުވަން ޖައްސާފައެއްނު އެ ދިޔައީ؟ އަހަރެމެންނަށް އަމިއްލަ ދިރިއުޅުމުގެ ކަންކަން ނުބެލެހެއްޓިގެން އުޅޭއިރު، މި ޖެހުނީ ޝަހުލާގެ ކަންތަކާ އުޅެން.",
+     "narration_english": "\"Didn't she make us pay the price of those services before she went? While we can't even manage our own lives, now we are stuck dealing with Shahula's affairs.",
+     "crop": "tight",
+     "motion": "pan left",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      23.8,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_066",
+     "startMs": 596635,
+     "endMs": 604716,
+     "narration_dhivehi": "މިއީ ދެން ކޮންފަދަ ބޮޑު ތަކުލީފެއް؟ ދިޔައިރު އޭނާ ގޮވައިގެން ދިޔަނަމަ ކިހާ ރަނގަޅު ވީސް!\" މަސްކެނޑުން ހުއްޓާލުމަށްފަހު،",
+     "narration_english": "What kind of great hardship is this now? How good it would have been if she had taken her along when she went!\" After he stopped cutting the fish,",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": true,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [],
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.202,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 53.5,
+    "y_pct": 29.7,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_024",
+   "startMs": 604716,
+   "endMs": 624887,
+   "new_image_reason": "back to Faathanikey's shock as he stands and rinses his hands; can this be the kind man she knew?",
+   "characters": [
+    "faathanikey"
+   ],
+   "location": "the sandy yard of Zubair's old coral-stone island house in the morning: an outdoor kitchen area under a corrugated roof, a low wooden table, a big wooden tray, a wooden joali seat, a plastic water barrel, a towel hanging on a line, the open dark doorway of the house, palms",
+   "location_key": "zubair_yard_morning",
+   "mood": "morning, soft hazy tropical light and cool shade under the roof, tense and hurtful",
+   "visual": "reuse of beat_022",
+   "camera": "medium shot, eye level",
+   "image": "images/beat_022.png",
+   "reuse_of": "beat_022",
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "island_house_day",
+   "shots": [
+    {
+     "id": "shot_067",
+     "startMs": 604716,
+     "endMs": 614606,
+     "narration_dhivehi": "ނުރުހުމުގެ ރާގުގައި އަތްދޮވެލައިގެން ޒުބައިރު ތެދުވިއެވެ. ޒުބައިރުގެ މި ބަދަލުވެފައިވާ ހަރުކަށި ޢަމަލުތަކުން ފާތާނިކެގެ ހިތަށް ބޮޑު ސިހުމެއް ލިބުނެވެ.",
+     "narration_english": "Zubair rinsed his hands in a displeased manner and stood up. Zubair's changed, harsh behaviour gave Faathanikey's heart a great shock.",
+     "crop": "tight",
+     "motion": "pan right",
+     "sfx": [
+      {
+       "name": "pour",
+       "atMs": 606296,
+       "gainDb": -20,
+       "word": "އަތްދޮވެލައިގެން"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      20.1,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_068",
+     "startMs": 614606,
+     "endMs": 624887,
+     "narration_dhivehi": "މިއީ ހަމަ އެނާ ދަންނަ އޯގާތެރި ޒުބައިރު ބާވައެވެ؟ އިންސާނަކު މިހާ ކުޑަ ހިނދުކޮޅެއްގެ ތެރޭގައި މިހާ ބޮޑަށް ބަދަލުވެދާނެ ހެއްޔެވެ؟ އެއީ ޤަބޫލުކުރަން ވެސް ދަތި ޙަޤީޤަތެކެވެ.",
+     "narration_english": "Was this really the same kind Zubair she knew? Could a person change so much in such a short while? It was a truth hard even to believe.",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [],
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.109,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 49.8,
+    "y_pct": 24.1,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_025",
+   "startMs": 624887,
+   "endMs": 647968,
+   "new_image_reason": "action change: Zubair walks inside with the towel; Faathanikey, in tears, sits down to finish the fish",
+   "characters": [
+    "faathanikey",
+    "zubair"
+   ],
+   "location": "the sandy yard of Zubair's old coral-stone island house in the morning: an outdoor kitchen area under a corrugated roof, a low wooden table, a big wooden tray, a wooden joali seat, a plastic water barrel, a towel hanging on a line, the open dark doorway of the house, palms",
+   "location_key": "zubair_yard_morning",
+   "mood": "morning, soft hazy tropical light and cool shade under the roof, tense and hurtful",
+   "visual": "Faathanikey sitting on the low stool at the wooden tray of whole fish, shoulders slumped, eyes full of tears, looking down at the fish lost in thought, her hands resting on her knees; in the background Zubair with a towel over his shoulder walking away into the dark doorway of the house, his back turned",
+   "camera": "medium wide shot, eye level, faces in the upper two-thirds, a calm uncluttered lower third (the tray and the sandy ground)",
+   "image": "images/beat_025.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": "other",
+   "safe_substitution": "whole fish on a tray only; nothing in her hands",
+   "ambience": "island_house_day",
+   "shots": [
+    {
+     "id": "shot_069",
+     "startMs": 624887,
+     "endMs": 637688,
+     "narration_dhivehi": "މާޔޫސްކަމުގެ ތެރެއިން ފާތާނިކެގެ ދެ ލޯ ކަރުނުން ފުރިގެން ބަންޑުންވާން ފެށިއެވެ. ޒުބައިރު އަޅާލުމެއްނެތި، އަޅުވާފައި އޮތް ރުވާލި ހިފައިގެން ގޭތެރެއަށް ވަދެގެން ދިޔުމުން، ފާތާނިކެ ފުން ވިސްނުމެއްގައި ހުރެ،",
+     "narration_english": "Through her disappointment, Faathanikey's eyes filled with tears and began to blur. When Zubair carelessly took the towel that was hung up and went into the house, Faathanikey, lost in deep thought,",
+     "crop": "full",
+     "motion": "pan up",
+     "sfx": [
+      {
+       "name": "footsteps_sand",
+       "atMs": 634337,
+       "gainDb": -22,
+       "word": "ވަދެގެން"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_070",
+     "startMs": 637688,
+     "endMs": 647968,
+     "narration_dhivehi": "ޒުބައިރު ކަނޑަން ދޫކޮށްލާފައި ދިޔަ މަސްތަކަށް ބަލައިލިއެވެ. މާޔޫސްކަމާއެކު ފާތާނިކެ އިށީނދެލީ، ޒުބައިރު ފުރިހަމަނުކޮށް ދޫކޮށްލާފައި ދިޔަ މަސައްކަތް ނިންމުމަށެވެ.",
+     "narration_english": "looked at the fish Zubair had left uncut. In despair, Faathanikey sat down to finish the work Zubair had left unfinished.",
+     "crop": "tight",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      5.7,
+      0.0,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Faathanikey; reference image 2 is Zubair), create a new scene: Cinematic semi-realistic digital illustration with a tender, melancholic family-drama look, deep blue-black night shadows lit by warm amber lamplight, rain-wet reflections and soft glowing bokeh, gentle hazy tropical daylight on the island, warm homely interiors that turn dim and cold in sad moments, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, wet pavement, sand, table top, bedspread, soft shadow) for captions and a logo; set in the present-day Maldives: a small local island with a stone jetty, white sandy roads, an old white mosque and a walled cemetery, and Malé's narrow streets and a comfortable older family townhouse.\nScene: Faathanikey sitting on the low stool at the wooden tray of whole fish, shoulders slumped, eyes full of tears, looking down at the fish lost in thought, her hands resting on her knees; in the background Zubair with a towel over his shoulder walking away into the dark doorway of the house, his back turned. Location: the sandy yard of Zubair's old coral-stone island house in the morning: an outdoor kitchen area under a corrugated roof, a low wooden table, a big wooden tray, a wooden joali seat, a plastic water barrel, a towel hanging on a line, the open dark doorway of the house, palms. Camera: medium wide shot, eye level, faces in the upper two-thirds, a calm uncluttered lower third (the tray and the sandy ground).\nCharacters: Faathanikey: a plump short Maldivian woman of about 42 with warm brown skin, a round kind face and soft worried dark eyes; wears a maroon dhigu-hedhun style long-sleeved ankle-length libaas dress and a white headscarf fully covering her hair and neck. Zubair: a stocky Maldivian fisherman of about 45 with sun-weathered dark brown skin, a weathered square face, deep-set stern dark eyes, short greying black hair and a short greying beard; wears a faded blue checked long-sleeved shirt with rolled cuffs and a dark-brown sarong.\nMood/lighting: morning, soft hazy tropical light and cool shade under the roof, tense and hurtful.\nModest Maldivian clothing (every woman and girl in loose long-sleeved ankle-length opaque clothing with a hijab fully covering her hair and neck, indoors too; men in shirts or t-shirts with long trousers or a sarong, never shirtless), a clear respectful distance between men and women, nobody touching, culturally respectful, no violence, nobody hitting or grabbing anyone, no blood, no wounds, no bruises, no marks on any face, no injuries, no corpses, no medical procedures, no needles, no knives, no cigarettes, no smoking, no tattoos, no text, no letters, no numbers, no writing, no readable screens or papers, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.253,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 35.4,
+    "y_pct": 31.1,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_026",
+   "startMs": 647968,
+   "endMs": 670700,
+   "new_image_reason": "character/emotional turn: she sees Shahula in the doorway, wrapped in a blanket, shivering, in tears — she heard everything",
+   "characters": [
+    "shahula_child"
+   ],
+   "location": "the open dark wooden doorway of Zubair's old coral-stone island house seen from the sandy yard in the morning, the dim interior behind, soft hazy morning light on the coral-stone wall",
+   "location_key": "zubair_doorway_morning",
+   "mood": "morning, soft hazy light outside and a dim doorway, fragile and heartbreaking",
+   "visual": "12-year-old Shahula in her faded pink long-sleeved ankle-length dress and white headscarf fully covering her hair and neck, standing in the dark open doorway of the house, wrapped in a faded checked blanket over her pink dress and white headscarf, shivering with fever, clutching the blanket at her chest with both hands, silent tears streaming from her big dark eyes, lips pressed together trembling, looking out towards the yard",
+   "camera": "medium shot, eye level, faces in the upper two-thirds, a calm uncluttered lower third (the doorstep and the sandy ground)",
+   "image": "images/beat_026.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": "other",
+   "safe_substitution": "the feverish, heartbroken child shown with dignity, standing wrapped in a blanket",
+   "ambience": "island_house_day",
+   "shots": [
+    {
+     "id": "shot_071",
+     "startMs": 647968,
+     "endMs": 657179,
+     "narration_dhivehi": "ނިތްކުރިމަތިން ފައިބަމުންދިޔަ ދާތިކިތައް ފޮހެލަން އުޅުނު ވަގުތު، އޭނާއާ ދިމާއަށް ބަލަހައްޓައިގެން ހުރި ޝަހުލާ ފެނި ފާތާނިކެގެ ލޮލުގައި އަޅައިގަތެވެ.",
+     "narration_english": "As she tried to wipe away the drops of sweat running down her forehead, Faathanikey's eyes fell on Shahula, standing there looking towards her.",
+     "crop": "full",
+     "motion": "pan down",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_072",
+     "startMs": 657179,
+     "endMs": 665759,
+     "narration_dhivehi": "ގައިގައި ރަޖާގަނޑު އޮޅާލައިގެން ހީކަރުވައިގަނެގެން ތުރުތުރުއަޅަމުން ދިޔައިރު، ޝަހުލާގެ ދެ ލޮލުން ހޯސްލާފައި ކަރުނަ ފައިބަމުން ދިޔައެވެ.",
+     "narration_english": "Wrapped in a blanket, shaking with feverish chills, tears were streaming from Shahula's two eyes.",
+     "crop": "tight",
+     "motion": "static drift",
+     "sfx": [
+      {
+       "name": "breath",
+       "atMs": 660779,
+       "gainDb": -22,
+       "word": "ތުރުތުރުއަޅަމުން"
+      }
+     ],
+     "hum": true,
+     "crop_rect_pct": [
+      6.4,
+      7.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_073",
+     "startMs": 665759,
+     "endMs": 670700,
+     "narration_dhivehi": "އަދި އޭނާގެ ތުންފަތްމަތިން ފެންނަމުންދިޔައީ ހިތްދަތި މަޑު ގިސްލުމެއްގެ އަސަރެވެ.",
+     "narration_english": "And on her lips could be seen the trace of a quiet, painful sob.",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [
+      {
+       "name": "sob_breath",
+       "atMs": 669139,
+       "gainDb": -22,
+       "word": "ގިސްލުމެއްގެ"
+      }
+     ],
+     "hum": true,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Shahula), create a new scene: Cinematic semi-realistic digital illustration with a tender, melancholic family-drama look, deep blue-black night shadows lit by warm amber lamplight, rain-wet reflections and soft glowing bokeh, gentle hazy tropical daylight on the island, warm homely interiors that turn dim and cold in sad moments, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, wet pavement, sand, table top, bedspread, soft shadow) for captions and a logo; set in the present-day Maldives: a small local island with a stone jetty, white sandy roads, an old white mosque and a walled cemetery, and Malé's narrow streets and a comfortable older family townhouse.\nScene: 12-year-old Shahula in her faded pink long-sleeved ankle-length dress and white headscarf fully covering her hair and neck, standing in the dark open doorway of the house, wrapped in a faded checked blanket over her pink dress and white headscarf, shivering with fever, clutching the blanket at her chest with both hands, silent tears streaming from her big dark eyes, lips pressed together trembling, looking out towards the yard. Location: the open dark wooden doorway of Zubair's old coral-stone island house seen from the sandy yard in the morning, the dim interior behind, soft hazy morning light on the coral-stone wall. Camera: medium shot, eye level, faces in the upper two-thirds, a calm uncluttered lower third (the doorstep and the sandy ground).\nCharacters: 12-year-old Shahula: a small slim Maldivian girl with light warm-brown skin, a small round childish face, big dark eyes and thick eyebrows; wears a faded pink long-sleeved ankle-length cotton dress and a white headscarf fully covering her hair and neck.\nMood/lighting: morning, soft hazy light outside and a dim doorway, fragile and heartbreaking.\nModest Maldivian clothing (every woman and girl in loose long-sleeved ankle-length opaque clothing with a hijab fully covering her hair and neck, indoors too; men in shirts or t-shirts with long trousers or a sarong, never shirtless), a clear respectful distance between men and women, nobody touching, culturally respectful, no violence, nobody hitting or grabbing anyone, no blood, no wounds, no bruises, no marks on any face, no injuries, no corpses, no medical procedures, no needles, no knives, no cigarettes, no smoking, no tattoos, no text, no letters, no numbers, no writing, no readable screens or papers, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.536,
+    "halo": true
+   },
+   "focus": {
+    "x_pct": 36.1,
+    "y_pct": 42.2,
+    "face_detected": true
+   }
+  }
+ ]
+}

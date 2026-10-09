@@ -1,0 +1,1560 @@
+{
+ "series": "Taubaa",
+ "episode": 298,
+ "beats": [
+  {
+   "id": "beat_001",
+   "startMs": 0,
+   "endMs": 21221,
+   "new_image_reason": "episode opening: Jawad's former life abroad, shown only as a lone man at a night window",
+   "characters": [
+    "jawad"
+   ],
+   "location": "a dark, sparse hotel room high up in a big foreign city at night, a tall window with sheer curtains, the city's lights far away and blurred below",
+   "location_key": "hotel_window",
+   "mood": "night, cold blue city glow on one side, deep shadows, lonely and empty",
+   "visual": "Jawad standing alone at a tall dark hotel window at night, one hand resting on the glass, looking out at far-away blurred city lights, his face half in shadow, empty and restless; nobody else in the room",
+   "camera": "medium shot from slightly behind and to the side",
+   "image": "images/beat_001.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": "alcohol, zina, dancing",
+   "safe_substitution": "none of it shown: a lone fully clothed man at a night window with distant city lights",
+   "ambience": "city_night_far",
+   "shots": [
+    {
+     "id": "shot_001",
+     "startMs": 0,
+     "endMs": 9870,
+     "narration_dhivehi": "އޭނާވަނީ ގިނަގުނަ ޙަރާމް ކަންތައްތަކަކަށް އަރައިގަނެފައެވެ. ރާބުއިމާއި، ޒިނޭކުރުމާއި، ނެށުމާއި، މިހެން ގޮސް މިފަދަ ކިތަންމެ ކަމެކެވެ.",
+     "narration_english": "He had fallen into many haram things: drinking, zina, dancing — countless things like these.",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_002",
+     "startMs": 9870,
+     "endMs": 21221,
+     "narration_dhivehi": "މިއިން ކޮންމެ ކަމަކީ އޭނާ އިންތިހާއަށް ލޯބިކުރި ކަންކަމެވެ. ލޮބުވެތި ކިޔުންތެރިޔާއެވެ! ތައުބާވެފައިވާ ޖަވާދަށް ކުރިމަތިވި ކަންތައްތަކުގެ ވާހަކަ އޭނާގެ އަމިއްލަ ދުލުން ކިޔައިދޭއިރު،",
+     "narration_english": "He loved every one of them intensely. Dear reader! As repentant Jawad tells, in his own words, what he went through,",
+     "crop": "tight",
+     "motion": "pan left",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      21.0,
+      0.0,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Jawad), create a new scene: Cinematic semi-realistic digital illustration with a reflective, spiritual mood, deep teal and smoky steel-blue palette with warm amber lamplight and soft dawn-gold accents, gentle atmospheric haze and rim light, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and calm, uncluttered space at the bottom for a logo.\nScene: Jawad standing alone at a tall dark hotel window at night, one hand resting on the glass, looking out at far-away blurred city lights, his face half in shadow, empty and restless; nobody else in the room. Location: a dark, sparse hotel room high up in a big foreign city at night, a tall window with sheer curtains, the city's lights far away and blurred below. Camera: medium shot from slightly behind and to the side.\nCharacters: Jawad: a tall athletic Saudi Arab man in his early 30s with warm olive-tan skin, short neatly styled black hair, a short neatly trimmed black beard, deep-set dark brown eyes and strong eyebrows; wears a dark navy zip jacket over a plain grey crew-neck shirt and dark long trousers.\nMood/lighting: night, cold blue city glow on one side, deep shadows, lonely and empty.\nModest clothing appropriate to the story's setting, culturally respectful and Islamic in spirit, no violence shown, no alcohol, no drugs, no smoking, no text, no letters, no writing, no Arabic script, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.104,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 50.7,
+    "y_pct": 20.0,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_002",
+   "startMs": 21221,
+   "endMs": 59603,
+   "new_image_reason": "scene change: reflection on Allah's mercy and a Quran verse (symbolic imagery)",
+   "characters": [],
+   "location": "an open desert landscape at dawn under a vast sky, soft clouds, a slender minaret silhouetted far away on the horizon",
+   "location_key": "dawn_sky",
+   "mood": "dawn, soft gold light rays breaking through clouds, merciful, vast and calm",
+   "visual": "a pure landscape: a vast empty desert of sand dunes at dawn, soft golden light rays breaking through ordinary clouds and falling across the sand, a tiny slender minaret far away on the horizon; absolutely no people, no human figures, no faces or shapes in the clouds or sky",
+   "camera": "wide shot, low horizon",
+   "image": "images/beat_002.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": "Quran verse 36:82",
+   "safe_substitution": "symbolic dawn sky and minaret; no script rendered",
+   "ambience": "dawn_exterior",
+   "shots": [
+    {
+     "id": "shot_003",
+     "startMs": 21221,
+     "endMs": 30771,
+     "narration_dhivehi": "އެ ވާހަކަތަކަށް އަޅުގަނޑުމެން ނަޒަރު ހިންގާލަމާތޯއެވެ. އޭނާ ކިޔައިދިނެވެ. ﷲ ތަޢާލާ އެކަލާނގެ އަޅުތަކުންނަށް އޯގާވަންތަ ދީލަތިވަންތަ އިލާހެވެ. އެކަލާނގެ،",
+     "narration_english": "let us look over his story. He said: Allah the Exalted is a kind and generous God to His servants. He",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_004",
+     "startMs": 30771,
+     "endMs": 40562,
+     "narration_dhivehi": "އެމީހުންނަށް ވަގުތު ދެއްވައެވެ. ނަމަވެސް އެމީހުން ދޫކޮށްނުލައްވައެވެ. އަދި އެކަލާނގެ ރަޙްމަތްވަނީ އެކަލާނގެ ކޯފާގެ މައްޗަށް ކުރިއަރައިފައެވެ. އެހެން ނޫންނަމަ،",
+     "narration_english": "gives them time, but He does not abandon them. And His mercy surpasses His wrath. Otherwise,",
+     "crop": "tight",
+     "motion": "pan right",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      20.3,
+      4.8,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_005",
+     "startMs": 40562,
+     "endMs": 49512,
+     "narration_dhivehi": "އެކަލާނގެ އިރާދަކުރައްވާ ކޮންމެ އިރަކު އަޅުތަކުންގެ މައްޗަށް ޢަޛާބާއި ޢުޤޫބާތް ބާވައިލެއްވުމަށް އެކަލާނގެއަށް ހުރަސްއަޅާނީ ކޮން އެއްޗެއް ހެއްޔެވެ؟",
+     "narration_english": "what would stop Him from sending down punishment and penalty upon His servants whenever He wills?",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_006",
+     "startMs": 49512,
+     "endMs": 59603,
+     "narration_dhivehi": "\"އެކަލާނގެ ކަމަކަށް އިރާދަކުރައްވައިފިނަމަ، އެކަލާނގެ އަމުރުފުޅުވާކަން ކަށަވަރީ، އެކަމަކަށް [ވާށޭ] އަންގަވައި ވަޙީކުރެއްވުމެވެ. ދެން އެކަމެއް ވެދެއެވެ.\"",
+     "narration_english": "\"His command, when He wills a thing, is only to say to it 'Be', and it is.\"",
+     "crop": "medium",
+     "motion": "pan up",
+     "sfx": [],
+     "hum": true,
+     "crop_rect_pct": [
+      14.2,
+      0.0,
+      71.5,
+      84.7
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Cinematic semi-realistic digital illustration with a reflective, spiritual mood, deep teal and smoky steel-blue palette with warm amber lamplight and soft dawn-gold accents, gentle atmospheric haze and rim light, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and calm, uncluttered space at the bottom for a logo.\nScene: a pure landscape: a vast empty desert of sand dunes at dawn, soft golden light rays breaking through ordinary clouds and falling across the sand, a tiny slender minaret far away on the horizon; absolutely no people, no human figures, no faces or shapes in the clouds or sky. Location: an open desert landscape at dawn under a vast sky, soft clouds, a slender minaret silhouetted far away on the horizon. Camera: wide shot, low horizon.\nMood/lighting: dawn, soft gold light rays breaking through clouds, merciful, vast and calm.\nModest clothing appropriate to the story's setting, culturally respectful and Islamic in spirit, no violence shown, no alcohol, no drugs, no smoking, no text, no letters, no writing, no Arabic script, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.298,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 50.0,
+    "y_pct": 40.0,
+    "face_detected": false
+   }
+  },
+  {
+   "id": "beat_003",
+   "startMs": 59603,
+   "endMs": 75673,
+   "new_image_reason": "character change: Jawad today, reflecting on his ending and his prayers",
+   "characters": [
+    "jawad"
+   ],
+   "location": "a quiet, simple room in a Saudi home in the late afternoon, plain cream walls, a patterned prayer mat on the floor, a closed Quran resting on a small wooden stand, a tall window with warm light",
+   "location_key": "saudi_room",
+   "mood": "late afternoon, warm amber window light, quiet, reflective and humble",
+   "visual": "Jawad here wears a plain white Saudi thobe instead of his navy jacket, same face and trimmed beard as the reference. Jawad sitting cross-legged on a prayer mat in a quiet room, hands resting on his knees, looking down thoughtfully with a humble, worried expression; a closed Quran on a small wooden stand beside him",
+   "camera": "medium shot, eye level",
+   "image": "images/beat_003.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "room_day",
+   "shots": [
+    {
+     "id": "shot_007",
+     "startMs": 59603,
+     "endMs": 68783,
+     "narration_dhivehi": "ﷲ ތަޢާލާ އަހަންނަށް ހެޔޮގޮތް މިންވަރުކުރެއްވުމަށް އިރާދަކުރެއްވީ ކަމަށް ވެދާނެއެވެ. އަހަރެން އަބަދުވެސް ނުބައި ނިމުމަކުން ނިމިދާނެތީ އެކަމާ ވިސްނަމެވެ.",
+     "narration_english": "Perhaps Allah willed good for me. I always think about it, afraid of ending badly.",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_008",
+     "startMs": 68783,
+     "endMs": 75673,
+     "narration_dhivehi": "އަދި އަމިއްލަ ނަފްސާ ސުވާލުކުރަމެވެ. މިސާލަކަށް، ނަމާދުކުރުމަށް އަހަންނަށް ހުރަހަކަށްވަނީ ކޮން ކަމެއް ހެއްޔެވެ؟",
+     "narration_english": "And I question myself: for example, what is it that stops me from praying?",
+     "crop": "tight",
+     "motion": "pan down",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      12.4,
+      0.0,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Jawad), create a new scene: Cinematic semi-realistic digital illustration with a reflective, spiritual mood, deep teal and smoky steel-blue palette with warm amber lamplight and soft dawn-gold accents, gentle atmospheric haze and rim light, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and calm, uncluttered space at the bottom for a logo.\nScene: Jawad here wears a plain white Saudi thobe instead of his navy jacket, same face and trimmed beard as the reference. Jawad sitting cross-legged on a prayer mat in a quiet room, hands resting on his knees, looking down thoughtfully with a humble, worried expression; a closed Quran on a small wooden stand beside him. Location: a quiet, simple room in a Saudi home in the late afternoon, plain cream walls, a patterned prayer mat on the floor, a closed Quran resting on a small wooden stand, a tall window with warm light. Camera: medium shot, eye level.\nCharacters: Jawad: a tall athletic Saudi Arab man in his early 30s with warm olive-tan skin, short neatly styled black hair, a short neatly trimmed black beard, deep-set dark brown eyes and strong eyebrows; wears a dark navy zip jacket over a plain grey crew-neck shirt and dark long trousers.\nMood/lighting: late afternoon, warm amber window light, quiet, reflective and humble.\nModest clothing appropriate to the story's setting, culturally respectful and Islamic in spirit, no violence shown, no alcohol, no drugs, no smoking, no text, no letters, no writing, no Arabic script, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.45,
+    "halo": true
+   },
+   "focus": {
+    "x_pct": 42.1,
+    "y_pct": 25.1,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_004",
+   "startMs": 75673,
+   "endMs": 94504,
+   "new_image_reason": "flashback / scene change: travelling from country to country",
+   "characters": [
+    "jawad"
+   ],
+   "location": "a large international airport departure hall with floor-to-ceiling glass windows, a passenger plane waiting outside at dusk",
+   "location_key": "airport",
+   "mood": "dusk, cool teal light through the glass, amber lamps, restless travel",
+   "visual": "Jawad in his navy zip jacket with a backpack on one shoulder, standing alone at the floor-to-ceiling window of an airport departure hall, looking out at a waiting passenger plane at dusk, restless and distant",
+   "camera": "medium wide, from the side",
+   "image": "images/beat_004.png",
+   "reuse_of": null,
+   "transition_in": "dissolve",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "hall_crowd",
+   "shots": [
+    {
+     "id": "shot_009",
+     "startMs": 75673,
+     "endMs": 85234,
+     "narration_dhivehi": "ނަމަވެސް އަހަރެންގެ ނަފްސާއި ޝައިޠާނާ ވީ އަހަންނާ ދެކޮޅަށެވެ. އަހަރެން އެއް ޤައުމުން އަނެއް ޤައުމަށް ދަތުރުކުރީމެވެ. ގްރީސް އިން ފްރާންސަށެވެ.",
+     "narration_english": "But my nafs and Shaytan were against me. I travelled from one country to another — from Greece to France,",
+     "crop": "full",
+     "motion": "static drift",
+     "sfx": [
+      {
+       "name": "plane_pass",
+       "atMs": 81884,
+       "gainDb": -20,
+       "word": "ދަތުރުކުރީމެވެ."
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_010",
+     "startMs": 85234,
+     "endMs": 94504,
+     "narration_dhivehi": "އަދި ހޮލެންޑަށާއި، ކެނެޑާއަށާއި، އެމެރިކާއާއި އަދި އެހެނިހެން ޤައުމުތަކަށެވެ. އެމެރިކާގައި އަހަރެން ގާތްގަނޑަކަށް ތިން އަހަރު ހޭދަކުރީމެވެ.",
+     "narration_english": "to Holland, to Canada, to America and other countries. In America I spent about three years.",
+     "crop": "tight",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      14.4,
+      0.0,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Jawad), create a new scene: Cinematic semi-realistic digital illustration with a reflective, spiritual mood, deep teal and smoky steel-blue palette with warm amber lamplight and soft dawn-gold accents, gentle atmospheric haze and rim light, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and calm, uncluttered space at the bottom for a logo.\nScene: Jawad in his navy zip jacket with a backpack on one shoulder, standing alone at the floor-to-ceiling window of an airport departure hall, looking out at a waiting passenger plane at dusk, restless and distant. Location: a large international airport departure hall with floor-to-ceiling glass windows, a passenger plane waiting outside at dusk. Camera: medium wide, from the side.\nCharacters: Jawad: a tall athletic Saudi Arab man in his early 30s with warm olive-tan skin, short neatly styled black hair, a short neatly trimmed black beard, deep-set dark brown eyes and strong eyebrows; wears a dark navy zip jacket over a plain grey crew-neck shirt and dark long trousers.\nMood/lighting: dusk, cool teal light through the glass, amber lamps, restless travel.\nModest clothing appropriate to the story's setting, culturally respectful and Islamic in spirit, no violence shown, no alcohol, no drugs, no smoking, no text, no letters, no writing, no Arabic script, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.184,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 44.1,
+    "y_pct": 17.8,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_005",
+   "startMs": 94504,
+   "endMs": 120746,
+   "new_image_reason": "scene change: years in America, only one Friday prayer; walking away from the mosque",
+   "characters": [
+    "jawad"
+   ],
+   "location": "a rain-wet street in an American city at dusk, brick buildings, wet reflective pavement, warm streetlights; across the road a small modest mosque with a warmly lit doorway and a small dome",
+   "location_key": "us_street",
+   "mood": "dusk, steel-blue rain light, warm glow from the mosque doorway, longing and regret",
+   "visual": "Jawad in his navy zip jacket, hands in his pockets, walking away along a rain-wet city street at dusk and glancing back over his shoulder at a small mosque with a warmly lit doorway across the road; his face torn and guilty",
+   "camera": "medium wide, eye level",
+   "image": "images/beat_005.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "street_night",
+   "shots": [
+    {
+     "id": "shot_011",
+     "startMs": 94504,
+     "endMs": 101285,
+     "narration_dhivehi": "މިސްކިތެއްގައި ހަމައެކަނި އެންމެ ހުކުރު ނަމާދެއް ފިޔަވައި އެހެން ނަމާދެއް ކުރިކަމެއް އަހަރެން ހަނދާނެއް ނެތެވެ.",
+     "narration_english": "I don't remember praying a single prayer in a mosque except one Friday prayer.",
+     "crop": "full",
+     "motion": "pan left",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_012",
+     "startMs": 101285,
+     "endMs": 113415,
+     "narration_dhivehi": "ސަލާމަތްތެރި ފިޠުރަތާއި އަހަރެން ކުޑައިރު އުޅެ ބޮޑުވި މާޙައުލު ﷲގެ މަގަށް އަހަންނަށް ގޮވަމުން ދިޔައެވެ. ނަމަވެސް ޝައިޠާނާ އަހަރެންގެ މައްޗަށް ބާރުފޯރުވައި، ﷲ މަތިން ހަނދުމަކުރުން އަހަރެންގެ ހިތުން ފޮހެލިއެވެ.",
+     "narration_english": "My sound fitrah and the environment I grew up in kept calling me to Allah's path. But Shaytan overpowered me and wiped the remembrance of Allah from my heart.",
+     "crop": "tight",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": true,
+     "crop_rect_pct": [
+      10.7,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_013",
+     "startMs": 113415,
+     "endMs": 120746,
+     "narration_dhivehi": "ފާފަތަކާއި އެންމެހާ ނޭއްގާނީ ކަންކަމުގެ ތެރެއަށް އަހަރެން ފީނަމުން ދިއައީމެވެ. އެއްވެސް ބިރެއް ނެތް މީހެއް ފަދައިންނެވެ.",
+     "narration_english": "I kept sinking deeper into sins and every shameful thing, like a man without any fear.",
+     "crop": "full",
+     "motion": "pan right",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Jawad), create a new scene: Cinematic semi-realistic digital illustration with a reflective, spiritual mood, deep teal and smoky steel-blue palette with warm amber lamplight and soft dawn-gold accents, gentle atmospheric haze and rim light, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and calm, uncluttered space at the bottom for a logo.\nScene: Jawad in his navy zip jacket, hands in his pockets, walking away along a rain-wet city street at dusk and glancing back over his shoulder at a small mosque with a warmly lit doorway across the road; his face torn and guilty. Location: a rain-wet street in an American city at dusk, brick buildings, wet reflective pavement, warm streetlights; across the road a small modest mosque with a warmly lit doorway and a small dome. Camera: medium wide, eye level.\nCharacters: Jawad: a tall athletic Saudi Arab man in his early 30s with warm olive-tan skin, short neatly styled black hair, a short neatly trimmed black beard, deep-set dark brown eyes and strong eyebrows; wears a dark navy zip jacket over a plain grey crew-neck shirt and dark long trousers.\nMood/lighting: dusk, steel-blue rain light, warm glow from the mosque doorway, longing and regret.\nModest clothing appropriate to the story's setting, culturally respectful and Islamic in spirit, no violence shown, no alcohol, no drugs, no smoking, no text, no letters, no writing, no Arabic script, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.232,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 40.4,
+    "y_pct": 21.1,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_006",
+   "startMs": 120746,
+   "endMs": 144787,
+   "new_image_reason": "characters change: religious friends visit him",
+   "characters": [
+    "jawad"
+   ],
+   "location": "a modest student apartment living room in an American city in the evening, a plain sofa and armchairs, a low table with small cups of tea, a lamp, a window showing city lights",
+   "location_key": "us_living",
+   "mood": "evening, warm amber lamp light, peaceful, admiring",
+   "visual": "in a modest apartment living room two kind bearded young men in white thobes and white ghutras sit on a sofa at a respectful distance, talking gently, small cups of tea on the low table; Jawad in his navy zip jacket sits in an armchair opposite, listening to them with admiring, longing eyes",
+   "camera": "medium wide, eye level",
+   "image": "images/beat_006.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "living_night",
+   "shots": [
+    {
+     "id": "shot_014",
+     "startMs": 120746,
+     "endMs": 127466,
+     "narration_dhivehi": "އެމެރިކާގައި އަހަރެން އެ އަހަރުތައް ހޭދަކުރީ ދެކަފި މަގަކާ ކުރިމަތިލައިގެންނެވެ. އަހަންނަށް ހިދާޔަތް ލިބުމަށް އެދޭ،",
+     "narration_english": "In America I spent those years standing at a crossroads. Wishing for my guidance,",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_015",
+     "startMs": 127466,
+     "endMs": 137087,
+     "narration_dhivehi": "ދީނަށް އުޅޭ ރައްޓެހިން އަހަންނަށް ޒިޔާރަތްކުރަމުން ދިޔައެވެ. އަހަރެންގެ ހިތް އެމީހުންނަށް ލެނބެމުން ދިޔައެވެ. އަދި އެމީހުންގެ މުޢާމަލާތްތަކާއި، އަޚްލާޤާއި،",
+     "narration_english": "religious friends kept visiting me. My heart was drawn to them. Their dealings, their character,",
+     "crop": "tight",
+     "motion": "pan up",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      20.3,
+      4.8,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_016",
+     "startMs": 137087,
+     "endMs": 144787,
+     "narration_dhivehi": "ހެއްދެވިފަރާތަށް އެމީހުން އަދާކުރާ ކިޔަމަންތެރިކަން ފެނި، އެމީހުން ފަދަ މީހަކަށް ވުމަށް އަހަރެން އުންމީދު ކުރީމެވެ.",
+     "narration_english": "and the obedience they showed the Creator — seeing it, I hoped to become like them.",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Jawad), create a new scene: Cinematic semi-realistic digital illustration with a reflective, spiritual mood, deep teal and smoky steel-blue palette with warm amber lamplight and soft dawn-gold accents, gentle atmospheric haze and rim light, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and calm, uncluttered space at the bottom for a logo.\nScene: in a modest apartment living room two kind bearded young men in white thobes and white ghutras sit on a sofa at a respectful distance, talking gently, small cups of tea on the low table; Jawad in his navy zip jacket sits in an armchair opposite, listening to them with admiring, longing eyes. Location: a modest student apartment living room in an American city in the evening, a plain sofa and armchairs, a low table with small cups of tea, a lamp, a window showing city lights. Camera: medium wide, eye level.\nCharacters: Jawad: a tall athletic Saudi Arab man in his early 30s with warm olive-tan skin, short neatly styled black hair, a short neatly trimmed black beard, deep-set dark brown eyes and strong eyebrows; wears a dark navy zip jacket over a plain grey crew-neck shirt and dark long trousers.\nMood/lighting: evening, warm amber lamp light, peaceful, admiring.\nModest clothing appropriate to the story's setting, culturally respectful and Islamic in spirit, no violence shown, no alcohol, no drugs, no smoking, no text, no letters, no writing, no Arabic script, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.195,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 50.0,
+    "y_pct": 40.0,
+    "face_detected": false
+   }
+  },
+  {
+   "id": "beat_007",
+   "startMs": 144787,
+   "endMs": 159588,
+   "new_image_reason": "action change: weekends going out with bad company (symbolic)",
+   "characters": [
+    "jawad"
+   ],
+   "location": "a dark empty city street abroad at night, wet asphalt, blurred distant city lights glowing at the end of the street",
+   "location_key": "night_street",
+   "mood": "night, smoky steel-blue, blurred distant lights, uneasy, nothing glamorous",
+   "visual": "seen from behind: Jawad in his navy zip jacket walking down a dark empty wet street at night between two shadowy male figures seen only from behind as dark silhouettes, heading toward blurred distant city lights; no signs, no crowds, nothing glamorous",
+   "camera": "wide shot from behind, low angle",
+   "image": "images/beat_007.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": "discos, nightclubs",
+   "safe_substitution": "no club, no neon, no dancing: three figures from behind walking toward distant blurred lights",
+   "ambience": "street_night",
+   "shots": [
+    {
+     "id": "shot_017",
+     "startMs": 144787,
+     "endMs": 151947,
+     "narration_dhivehi": "އެހެނަސް އަނެއްކޮޅުން، ޝައިޠާނާގެ ގޮވާލުންތަކަށް އިޖާބަދިނުމަށް އަހަރެން އަބަދުވެސް ހުންނަނީ ތައްޔާރަށެވެ.",
+     "narration_english": "Yet on the other side, I was always ready to answer the calls of Shaytan.",
+     "crop": "full",
+     "motion": "pan down",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_018",
+     "startMs": 151947,
+     "endMs": 159588,
+     "narration_dhivehi": "ކޮންމެ ހަފްތާ ބަންދެއްގައި ޑިސްކޯތަކާއި މަޝްހޫރު ނައިޓްކްލަބްތަކަށް އަހަރެން ދަމެވެ. ފުރަތަމަކޮޅު އަހަރެން ރާއެއް ނުބޮމެވެ.",
+     "narration_english": "Every weekend I went to discos and famous nightclubs. At first I didn't drink.",
+     "crop": "tight",
+     "motion": "static drift",
+     "sfx": [
+      {
+       "name": "footsteps_pavement",
+       "atMs": 156548,
+       "gainDb": -24,
+       "word": "ދަމެވެ."
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      28.7,
+      29.6,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Jawad), create a new scene: Cinematic semi-realistic digital illustration with a reflective, spiritual mood, deep teal and smoky steel-blue palette with warm amber lamplight and soft dawn-gold accents, gentle atmospheric haze and rim light, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and calm, uncluttered space at the bottom for a logo.\nScene: seen from behind: Jawad in his navy zip jacket walking down a dark empty wet street at night between two shadowy male figures seen only from behind as dark silhouettes, heading toward blurred distant city lights; no signs, no crowds, nothing glamorous. Location: a dark empty city street abroad at night, wet asphalt, blurred distant city lights glowing at the end of the street. Camera: wide shot from behind, low angle.\nCharacters: Jawad: a tall athletic Saudi Arab man in his early 30s with warm olive-tan skin, short neatly styled black hair, a short neatly trimmed black beard, deep-set dark brown eyes and strong eyebrows; wears a dark navy zip jacket over a plain grey crew-neck shirt and dark long trousers.\nMood/lighting: night, smoky steel-blue, blurred distant lights, uneasy, nothing glamorous.\nModest clothing appropriate to the story's setting, culturally respectful and Islamic in spirit, no violence shown, no alcohol, no drugs, no smoking, no text, no letters, no writing, no Arabic script, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.126,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 58.4,
+    "y_pct": 74.5,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_008",
+   "startMs": 159588,
+   "endMs": 179279,
+   "new_image_reason": "action change: he falls into the trap — the hollow aftermath",
+   "characters": [
+    "jawad"
+   ],
+   "location": "a bare, untidy rented room abroad in cold grey dawn light, an unmade bed in the background, a plain wall mirror, curtains half drawn",
+   "location_key": "grey_room",
+   "mood": "grey cold dawn light, hollow, empty and ashamed",
+   "visual": "Jawad, fully clothed in his grey crew-neck shirt, standing in front of a plain wall mirror in a bare untidy room in cold grey dawn light, his reflection hollow-eyed and ashamed, his hand clenched into a fist at his side; the room otherwise empty",
+   "camera": "medium close-up over his shoulder into the mirror",
+   "image": "images/beat_008.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": "alcohol, zina",
+   "safe_substitution": "never shown: a hollow-eyed reflection in a mirror in grey dawn light, a closed fist",
+   "ambience": "room_night",
+   "shots": [
+    {
+     "id": "shot_019",
+     "startMs": 159588,
+     "endMs": 168198,
+     "narration_dhivehi": "ނަމަވެސް ފަސާދައާއި ގޯސްކަންތައްތަކުން ފުރިފައިވާ މާޙައުލެއްގައި ނަފްސާ ހަނގުރާމަކުރުންވީ އުނދަގޫ ކަމަކަށެވެ. އަހަރެން އެ މަޅީގައި ޖެހިއްޖެއެވެ.",
+     "narration_english": "But in an environment full of corruption, fighting the nafs became hard. I fell into that trap.",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": true,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_020",
+     "startMs": 168198,
+     "endMs": 179279,
+     "narration_dhivehi": "އަދި ރާބޯން ފެށީމެވެ. އެކި ވައްތަރުގެ ރާ އަހަރެން ބުއީމެވެ. އަދި ރާބުއިމާއެކު ހަޑިމުޑުދާރު ފާޙިޝް ޢަމަލުތަކާއި ޒިނޭކުރުން ފަދަ ކަންކަމުގައި ޝާމިލުވާން ފެށީމެވެ.",
+     "narration_english": "And I started drinking — all kinds of it. And with the drinking I began taking part in obscene deeds like zina.",
+     "crop": "tight",
+     "motion": "pan left",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      20.5,
+      0.0,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Jawad), create a new scene: Cinematic semi-realistic digital illustration with a reflective, spiritual mood, deep teal and smoky steel-blue palette with warm amber lamplight and soft dawn-gold accents, gentle atmospheric haze and rim light, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and calm, uncluttered space at the bottom for a logo.\nScene: Jawad, fully clothed in his grey crew-neck shirt, standing in front of a plain wall mirror in a bare untidy room in cold grey dawn light, his reflection hollow-eyed and ashamed, his hand clenched into a fist at his side; the room otherwise empty. Location: a bare, untidy rented room abroad in cold grey dawn light, an unmade bed in the background, a plain wall mirror, curtains half drawn. Camera: medium close-up over his shoulder into the mirror.\nCharacters: Jawad: a tall athletic Saudi Arab man in his early 30s with warm olive-tan skin, short neatly styled black hair, a short neatly trimmed black beard, deep-set dark brown eyes and strong eyebrows; wears a dark navy zip jacket over a plain grey crew-neck shirt and dark long trousers.\nMood/lighting: grey cold dawn light, hollow, empty and ashamed.\nModest clothing appropriate to the story's setting, culturally respectful and Islamic in spirit, no violence shown, no alcohol, no drugs, no smoking, no text, no letters, no writing, no Arabic script, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.142,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 50.2,
+    "y_pct": 24.6,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_009",
+   "startMs": 179279,
+   "endMs": 201150,
+   "new_image_reason": "time jump and new character: married, he takes his wife back to America",
+   "characters": [
+    "jawad",
+    "jawad_wife"
+   ],
+   "location": "a large international airport departure hall with floor-to-ceiling glass windows, a passenger plane waiting outside at dusk",
+   "location_key": "airport",
+   "mood": "dusk, cool teal light through the glass, amber lamps, restless travel",
+   "visual": "Jawad in his navy zip jacket and his wife in her black abaya and dusty-rose hijab standing side by side, not touching, at the glass wall of an airport departure hall, each with a rolling suitcase, a plane outside at dusk; she looks ahead hopefully, his eyes are evasive",
+   "camera": "medium wide two-shot, eye level",
+   "image": "images/beat_009.png",
+   "reuse_of": null,
+   "transition_in": "black",
+   "sensitive": "couple; secret sins",
+   "safe_substitution": "married couple only side by side, no touching; the secret sins are not shown",
+   "ambience": "hall_crowd",
+   "shots": [
+    {
+     "id": "shot_021",
+     "startMs": 179279,
+     "endMs": 190549,
+     "narration_dhivehi": "އެމެރިކާއިން އަހަރެންގެ އަމިއްލަ ޤައުމަށް އެނބުރި އަންނަންދެން އަހަރެން ހުރީ މި ޙާލަތުގައެވެ. އަހަރެން ކައިވެނިކުރީ ހިތްހެޔޮ، ޞާލިޙު އަދި ދީންވެރި ޢާއިލާއެއްގެ އަންހެން ކުއްޖަކާއެވެ.",
+     "narration_english": "I stayed in this state until I came back from America to my own country. I married a kind-hearted, righteous girl from a religious family.",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_022",
+     "startMs": 190549,
+     "endMs": 201150,
+     "narration_dhivehi": "ކައިވެންޏަށްފަހު އަނބިމީހާ ގޮވައިގެން އަހަރެން އެނބުރި އެމެރިކާއަށް ދިޔައީމެވެ. އަދި އަނބިމީހާއަށް ސިއްރުން ކައިވެނީގެ ކުރިން އަހަރެން އުޅުނު ގޮތަށް އަނެއްކާވެސް އުޅެން ފެށީމެވެ.",
+     "narration_english": "After the wedding I took my wife back to America. And secretly from her, I started living again the way I had lived before marriage.",
+     "crop": "tight",
+     "motion": "pan right",
+     "sfx": [
+      {
+       "name": "plane_pass",
+       "atMs": 194570,
+       "gainDb": -22,
+       "word": "ދިޔައީމެވެ."
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      2.8,
+      0.0,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Jawad; reference image 2 is Jawad's wife), create a new scene: Cinematic semi-realistic digital illustration with a reflective, spiritual mood, deep teal and smoky steel-blue palette with warm amber lamplight and soft dawn-gold accents, gentle atmospheric haze and rim light, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and calm, uncluttered space at the bottom for a logo.\nScene: Jawad in his navy zip jacket and his wife in her black abaya and dusty-rose hijab standing side by side, not touching, at the glass wall of an airport departure hall, each with a rolling suitcase, a plane outside at dusk; she looks ahead hopefully, his eyes are evasive. Location: a large international airport departure hall with floor-to-ceiling glass windows, a passenger plane waiting outside at dusk. Camera: medium wide two-shot, eye level.\nCharacters: Jawad: a tall athletic Saudi Arab man in his early 30s with warm olive-tan skin, short neatly styled black hair, a short neatly trimmed black beard, deep-set dark brown eyes and strong eyebrows; wears a dark navy zip jacket over a plain grey crew-neck shirt and dark long trousers. Jawad's wife: a slim Saudi Arab woman in her late 20s with warm olive-tan skin, a gentle oval face, kind dark eyes and soft features; wears a loose ankle-length black abaya with subtle dark embroidery at the cuffs and a dusty-rose hijab fully covering her hair and neck.\nMood/lighting: dusk, cool teal light through the glass, amber lamps, restless travel.\nModest clothing appropriate to the story's setting, culturally respectful and Islamic in spirit, no violence shown, no alcohol, no drugs, no smoking, no text, no letters, no writing, no Arabic script, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.143,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 32.5,
+    "y_pct": 18.9,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_010",
+   "startMs": 201150,
+   "endMs": 221481,
+   "new_image_reason": "characters change: the married bad friends advise him to rent an apartment",
+   "characters": [
+    "jawad"
+   ],
+   "location": "a dim corner booth of a quiet café abroad in the evening, a dark wooden table, low amber lamp light, deep shadows",
+   "location_key": "cafe",
+   "mood": "evening, low amber light, heavy shadows, conspiratorial and uneasy",
+   "visual": "in a dim café booth two men seen from behind and in deep shadow, faces not visible, one of them sliding a single plain door key across the dark wooden table toward Jawad; Jawad in his navy zip jacket sits opposite looking down at the key, uneasy and troubled",
+   "camera": "medium shot over the shadowy men's shoulders",
+   "image": "images/beat_010.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": "zina",
+   "safe_substitution": "symbolised only by a plain apartment key slid across a table; bad friends faceless in shadow",
+   "ambience": "cafe",
+   "shots": [
+    {
+     "id": "shot_023",
+     "startMs": 201150,
+     "endMs": 210120,
+     "narration_dhivehi": "މިކަމުގައި ނުބައި އެކުވެރިންގެ ދައުރު ވަރަށް ބޮޑެވެ. ހިތާމަޔަކީ އެމީހުންނަކީވެސް އަހަރެންގެ ކުރިން ކައިވެނިކޮށްގެން އުޅުނު މީހުން ކަމަށް ވުމެވެ.",
+     "narration_english": "Bad friends played a big part in this. Sadly, they too were men who had married before me.",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_024",
+     "startMs": 210120,
+     "endMs": 221481,
+     "narration_dhivehi": "އެމީހުންވެސް އެހެން އުޅެމުން ދިޔައީ އެމީހުންގެ އަނބީންނަށް ސިއްރުންނެވެ. ވަގަށެވެ. އެމީހުން އަހަންނަށް ލަފާދިނީ ޙަރާމް ކަންތައްތައް ކުރުމަށްޓަކައި އެޕާޓްމަންޓެއް ކުއްޔަށް ހިފުމަށެވެ.",
+     "narration_english": "They too lived that way secretly from their wives, behind their backs. They advised me to rent an apartment for haram things.",
+     "crop": "tight",
+     "motion": "pan up",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      25.5,
+      0.0,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Jawad), create a new scene: Cinematic semi-realistic digital illustration with a reflective, spiritual mood, deep teal and smoky steel-blue palette with warm amber lamplight and soft dawn-gold accents, gentle atmospheric haze and rim light, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and calm, uncluttered space at the bottom for a logo.\nScene: in a dim café booth two men seen from behind and in deep shadow, faces not visible, one of them sliding a single plain door key across the dark wooden table toward Jawad; Jawad in his navy zip jacket sits opposite looking down at the key, uneasy and troubled. Location: a dim corner booth of a quiet café abroad in the evening, a dark wooden table, low amber lamp light, deep shadows. Camera: medium shot over the shadowy men's shoulders.\nCharacters: Jawad: a tall athletic Saudi Arab man in his early 30s with warm olive-tan skin, short neatly styled black hair, a short neatly trimmed black beard, deep-set dark brown eyes and strong eyebrows; wears a dark navy zip jacket over a plain grey crew-neck shirt and dark long trousers.\nMood/lighting: evening, low amber light, heavy shadows, conspiratorial and uneasy.\nModest clothing appropriate to the story's setting, culturally respectful and Islamic in spirit, no violence shown, no alcohol, no drugs, no smoking, no text, no letters, no writing, no Arabic script, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.075,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 55.2,
+    "y_pct": 25.1,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_011",
+   "startMs": 221481,
+   "endMs": 236952,
+   "new_image_reason": "action change: he goes to his wife — 'we must go back to Saudi'",
+   "characters": [
+    "jawad",
+    "jawad_wife"
+   ],
+   "location": "the same modest American apartment by a large window in the evening, a city skyline outside at dusk",
+   "location_key": "us_window",
+   "mood": "dusk, teal sky and warm lamp, tense resolve and quiet relief",
+   "visual": "Jawad and his wife standing side by side, not touching, by a large apartment window with a city skyline at dusk; Jawad turned toward her, speaking urgently with a resolved, exhausted face; she in her black abaya and dusty-rose hijab listens with relieved, hopeful eyes",
+   "camera": "medium two-shot, eye level",
+   "image": "images/beat_011.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": "couple",
+   "safe_substitution": "side by side, fully clothed, no touching",
+   "ambience": "living_night",
+   "shots": [
+    {
+     "id": "shot_025",
+     "startMs": 221481,
+     "endMs": 230131,
+     "narration_dhivehi": "ފުރަތަމަވެސް އަހަރެންގެ ނަފްސު މި ލަދުވެތި ހަޑިމުޑުދާރު ޙާލަތަށް އިންކާރުކުރިއެވެ. ވަގުތުން އަހަރެންގެ ލޯބިވާ އަނބިމީހާ ގާތަށް ގޮސް ބުނީމެވެ.",
+     "narration_english": "From the start my soul refused this shameful, filthy state. At once I went to my beloved wife and said:",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [
+      {
+       "name": "footsteps_pavement",
+       "atMs": 228871,
+       "gainDb": -24,
+       "word": "ގޮސް"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_026",
+     "startMs": 230131,
+     "endMs": 236952,
+     "narration_dhivehi": "\"އެންމެ އަވަސް ފުރުޞަތެއްގައި އަހަރެމެން އެނބުރި ސަޢޫދީއަށް ދާންވެއްޖެ... އަހަންނަކަށް ދެން ކެތެއް ނުކުރެވޭނެ...\"",
+     "narration_english": "\"At the earliest chance we must go back to Saudi... I can't bear it any more...\"",
+     "crop": "tight",
+     "motion": "pan down",
+     "sfx": [],
+     "hum": true,
+     "crop_rect_pct": [
+      40.6,
+      0.0,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Jawad; reference image 2 is Jawad's wife), create a new scene: Cinematic semi-realistic digital illustration with a reflective, spiritual mood, deep teal and smoky steel-blue palette with warm amber lamplight and soft dawn-gold accents, gentle atmospheric haze and rim light, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and calm, uncluttered space at the bottom for a logo.\nScene: Jawad and his wife standing side by side, not touching, by a large apartment window with a city skyline at dusk; Jawad turned toward her, speaking urgently with a resolved, exhausted face; she in her black abaya and dusty-rose hijab listens with relieved, hopeful eyes. Location: the same modest American apartment by a large window in the evening, a city skyline outside at dusk. Camera: medium two-shot, eye level.\nCharacters: Jawad: a tall athletic Saudi Arab man in his early 30s with warm olive-tan skin, short neatly styled black hair, a short neatly trimmed black beard, deep-set dark brown eyes and strong eyebrows; wears a dark navy zip jacket over a plain grey crew-neck shirt and dark long trousers. Jawad's wife: a slim Saudi Arab woman in her late 20s with warm olive-tan skin, a gentle oval face, kind dark eyes and soft features; wears a loose ankle-length black abaya with subtle dark embroidery at the cuffs and a dusty-rose hijab fully covering her hair and neck.\nMood/lighting: dusk, teal sky and warm lamp, tense resolve and quiet relief.\nModest clothing appropriate to the story's setting, culturally respectful and Islamic in spirit, no violence shown, no alcohol, no drugs, no smoking, no text, no letters, no writing, no Arabic script, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.222,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 71.3,
+    "y_pct": 29.3,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_012",
+   "startMs": 236952,
+   "endMs": 251903,
+   "new_image_reason": "the bad friends return to change his mind (reuse)",
+   "characters": [
+    "jawad"
+   ],
+   "location": "a dim corner booth of a quiet café abroad in the evening, a dark wooden table, low amber lamp light, deep shadows",
+   "location_key": "cafe",
+   "mood": "evening, low amber light, heavy shadows, conspiratorial and uneasy",
+   "visual": "(reuse) the faceless friends in the café booth",
+   "camera": "medium shot, eye level",
+   "image": "images/beat_010.png",
+   "reuse_of": "beat_010",
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "cafe",
+   "shots": [
+    {
+     "id": "shot_027",
+     "startMs": 236952,
+     "endMs": 245132,
+     "narration_dhivehi": "އެނބުރި ޤައުމަށް ދިއުމަށް އަހަރެން ކަނޑައެޅި ޢަޒުމް ބަދަލުކުރުވުމަށް ބައެއް ރައްޓެހިން އައެވެ. އެމީހުން ވަރަށް މަސައްކަތް ކުރިއެވެ.",
+     "narration_english": "Some friends came to change my decision to go back home. They tried very hard.",
+     "crop": "tight",
+     "motion": "static drift",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      25.5,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_028",
+     "startMs": 245132,
+     "endMs": 251903,
+     "narration_dhivehi": "އެކި ގޮތްގޮތަށް އަހަރެން އެއްބަސްކުރުވޭތޯ އުޅުނެވެ. ނަމަވެސް ހުރިހާ މަގުފުރެދުންތަކަކަށް އަހަރެން ނޫނެކޭ ބުނީމެވެ.",
+     "narration_english": "They tried every way to make me agree. But to every deviation I said no.",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [],
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.076,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 55.2,
+    "y_pct": 25.1,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_013",
+   "startMs": 251903,
+   "endMs": 276434,
+   "new_image_reason": "back home, yet the same life and tourism trips (reuse of the lone night window)",
+   "characters": [
+    "jawad"
+   ],
+   "location": "a dark, sparse hotel room high up in a big foreign city at night, a tall window with sheer curtains, the city's lights far away and blurred below",
+   "location_key": "hotel_window",
+   "mood": "night, cold blue city glow on one side, deep shadows, lonely and empty",
+   "visual": "(reuse) Jawad alone at a night window with distant city lights",
+   "camera": "medium shot, eye level",
+   "image": "images/beat_001.png",
+   "reuse_of": "beat_001",
+   "transition_in": "black",
+   "sensitive": "alcohol, nightclubs",
+   "safe_substitution": "lone man at a night window, nothing else shown",
+   "ambience": "city_night_far",
+   "shots": [
+    {
+     "id": "shot_029",
+     "startMs": 251903,
+     "endMs": 261293,
+     "narration_dhivehi": "އަދި ކިޔެވުމުން ރަނގަޅު ނަތީޖާ ހޯދައި، އަހަރެންގެ ޤައުމަށް އެނބުރި އައީމެވެ. އެހެންނަމަވެސް އަހަރެންގެ ހުރީ ހަމަ ކުރިންވެސް އުޅުނު އުޅުމެވެ.",
+     "narration_english": "I finished my studies with good results and came back to my country. Yet I stayed in the very same life as before.",
+     "crop": "tight",
+     "motion": "pan left",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      21.0,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_030",
+     "startMs": 261293,
+     "endMs": 267313,
+     "narration_dhivehi": "އެހެނީ ﷲ އަހަންނަށް އަދި ހިދާޔަތް މިންވަރު ނުކުރައްވައެވެ. އަހަރެން ޙަރާމް ކަންތައްތައް ކުރަމުން ދިޔައީމެވެ.",
+     "narration_english": "Because Allah had not yet decreed guidance for me. I went on doing haram things.",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_031",
+     "startMs": 267313,
+     "endMs": 276434,
+     "narration_dhivehi": "އަދި ފަތުރުވެރިކަމުގެ ބޭނުމުގައި އެކި ޤައުމުތަކަށް ދަތުރުކުރީމެވެ. އެ ގައުމުތަކުގައި ރާބޮއެ ނައިޓްކްލަބްތަކަށް ގޮސް އުޅުނީމެވެ.",
+     "narration_english": "And I travelled to different countries as a tourist, and in those countries I drank and went to nightclubs.",
+     "crop": "medium",
+     "motion": "pan right",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      14.9,
+      0.0,
+      71.5,
+      84.7
+     ]
+    }
+   ],
+   "prompt_attempts": [],
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.112,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 50.7,
+    "y_pct": 20.0,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_014",
+   "startMs": 276434,
+   "endMs": 302165,
+   "new_image_reason": "time jump (a year later) and new object: the cassette in his car",
+   "characters": [],
+   "location": "the dashboard of a car in Saudi Arabia in the morning, an old-fashioned car cassette tape deck, warm morning sunlight through the windscreen, a blurred empty road ahead",
+   "location_key": "car_deck",
+   "mood": "morning, warm golden sunlight, still and intimate",
+   "visual": "close-up of a man's hand in a white thobe sleeve pushing a plain unlabelled audio cassette into a car's old cassette tape deck on the dashboard, warm morning sunlight through the windscreen, a blurred empty road ahead",
+   "camera": "close-up",
+   "image": "images/beat_014.png",
+   "reuse_of": null,
+   "transition_in": "black",
+   "sensitive": "real person (Sheikh Ali Jaber)",
+   "safe_substitution": "the sheikh is never depicted: only the plain cassette in the tape deck and the morning road",
+   "ambience": "car_interior",
+   "shots": [
+    {
+     "id": "shot_032",
+     "startMs": 276434,
+     "endMs": 285234,
+     "narration_dhivehi": "މި ޙާލަތުގައި ގާތްގަނޑަކަށް އަހަރެއްހާ ދުވަސްވީފަހުން، ﷲ ގެ މިންވަރުފުޅުން އަހަރެންގެ ކާރުގެ ތެރެއިން ޝައިޚް ޢަލީ ޖާބިރު ގެ އޯޑިއޯ ޓޭޕެއް ފެނުނެވެ.",
+     "narration_english": "After about a year in this state, by Allah's decree, I found in my car an audio tape of Sheikh Ali Jaber.",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_033",
+     "startMs": 285234,
+     "endMs": 293595,
+     "narration_dhivehi": "އޭގައިވަނީ ކީރިތި ޤުރުއާންގެ އާޔަތްތަކަކާއި ޤުނޫތުގެ ދުޢާއެކެވެ. ޝައިޚް ކިޔަވާ އަޑު އަހަން އަހަރެން އިނީމެވެ. އެއީ ވަރަށް އަސަރުގަދަ ކިޔެވުމެކެވެ.",
+     "narration_english": "On it were verses of the Noble Quran and the qunut dua. I sat listening to the sheikh's recitation. It was a deeply moving recitation.",
+     "crop": "tight",
+     "motion": "pan up",
+     "sfx": [],
+     "hum": true,
+     "crop_rect_pct": [
+      20.3,
+      4.8,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_034",
+     "startMs": 293595,
+     "endMs": 302165,
+     "narration_dhivehi": "ކިޔެވުން ނިމުމުން ޝެއިޚް ދުޢާކުރައްވަން ފެއްޓެވިއެވެ. އެއީ އަހަރެން ވަޒީފާއަށް ދިޔަ މަގުމަތީގައެވެ. ހެނދުނުގެ ވަގުތެވެ.",
+     "narration_english": "When the recitation ended, the sheikh began the dua. I was on the road, going to work. It was morning.",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [
+      {
+       "name": "car_pass",
+       "atMs": 298855,
+       "gainDb": -22,
+       "word": "މަގުމަތީގައެވެ."
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Cinematic semi-realistic digital illustration with a reflective, spiritual mood, deep teal and smoky steel-blue palette with warm amber lamplight and soft dawn-gold accents, gentle atmospheric haze and rim light, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and calm, uncluttered space at the bottom for a logo.\nScene: close-up of a man's hand in a white thobe sleeve pushing a plain unlabelled audio cassette into a car's old cassette tape deck on the dashboard, warm morning sunlight through the windscreen, a blurred empty road ahead. Location: the dashboard of a car in Saudi Arabia in the morning, an old-fashioned car cassette tape deck, warm morning sunlight through the windscreen, a blurred empty road ahead. Camera: close-up.\nMood/lighting: morning, warm golden sunlight, still and intimate.\nModest clothing appropriate to the story's setting, culturally respectful and Islamic in spirit, no violence shown, no alcohol, no drugs, no smoking, no text, no letters, no writing, no Arabic script, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.129,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 50.0,
+    "y_pct": 40.0,
+    "face_detected": false
+   }
+  },
+  {
+   "id": "beat_015",
+   "startMs": 302165,
+   "endMs": 316756,
+   "new_image_reason": "action change: he breaks down weeping and pulls over",
+   "characters": [
+    "jawad"
+   ],
+   "location": "inside a car pulled over on the shoulder of a road in Saudi Arabia in the morning, sunlight through the windscreen",
+   "location_key": "car_roadside",
+   "mood": "morning, soft golden light, overwhelming emotion, tears",
+   "visual": "Jawad here wears a plain white Saudi thobe instead of his navy jacket, same face and trimmed beard as the reference. Jawad sitting in the driver's seat of a car pulled over at the roadside in the morning, his forehead bowed onto his hands on the steering wheel, eyes shut, tears on his cheeks, shoulders heaving; warm morning light through the windscreen",
+   "camera": "medium close-up from the passenger seat",
+   "image": "images/beat_015.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "car_interior",
+   "shots": [
+    {
+     "id": "shot_035",
+     "startMs": 302165,
+     "endMs": 308815,
+     "narration_dhivehi": "އެވަގުތު ކުޑަކުއްޖަކު ފަދައިން އަހަންނަށް ބާރަށް ރޮވެން ފެށުނެވެ. ކާރު ދުއްވަންވެސް އަހަންނަށް ނުކުޅެދުނެވެ.",
+     "narration_english": "Then I began to cry hard, like a little child. I couldn't even drive the car.",
+     "crop": "full",
+     "motion": "pan down",
+     "sfx": [
+      {
+       "name": "sob_breath",
+       "atMs": 304775,
+       "gainDb": -22,
+       "word": "ރޮވެން"
+      }
+     ],
+     "hum": true,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_036",
+     "startMs": 308815,
+     "endMs": 316756,
+     "narration_dhivehi": "އެހެންކަމުން މަގުގެ އެއްފަރާތުގައި ކާރު މަޑުކޮށްލައިގެން، އެ ކިޔެވުމާއި ދުޢާ އަޑުއަހަން އިނީމެވެ. ގިސްލަގިސްލާފައި އަހަރެން ރުއީމެވެ.",
+     "narration_english": "So I stopped the car at the side of the road and sat listening to the recitation and the dua. I wept and sobbed.",
+     "crop": "tight",
+     "motion": "static drift",
+     "sfx": [
+      {
+       "name": "sob_breath",
+       "atMs": 314316,
+       "gainDb": -22,
+       "word": "ގިސްލަގިސްލާފައި"
+      }
+     ],
+     "hum": true,
+     "crop_rect_pct": [
+      10.0,
+      0.0,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Jawad), create a new scene: Cinematic semi-realistic digital illustration with a reflective, spiritual mood, deep teal and smoky steel-blue palette with warm amber lamplight and soft dawn-gold accents, gentle atmospheric haze and rim light, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and calm, uncluttered space at the bottom for a logo.\nScene: Jawad here wears a plain white Saudi thobe instead of his navy jacket, same face and trimmed beard as the reference. Jawad sitting in the driver's seat of a car pulled over at the roadside in the morning, his forehead bowed onto his hands on the steering wheel, eyes shut, tears on his cheeks, shoulders heaving; warm morning light through the windscreen. Location: inside a car pulled over on the shoulder of a road in Saudi Arabia in the morning, sunlight through the windscreen. Camera: medium close-up from the passenger seat.\nCharacters: Jawad: a tall athletic Saudi Arab man in his early 30s with warm olive-tan skin, short neatly styled black hair, a short neatly trimmed black beard, deep-set dark brown eyes and strong eyebrows; wears a dark navy zip jacket over a plain grey crew-neck shirt and dark long trousers.\nMood/lighting: morning, soft golden light, overwhelming emotion, tears.\nModest clothing appropriate to the story's setting, culturally respectful and Islamic in spirit, no violence shown, no alcohol, no drugs, no smoking, no text, no letters, no writing, no Arabic script, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.345,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 39.7,
+    "y_pct": 26.4,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_016",
+   "startMs": 316756,
+   "endMs": 343397,
+   "new_image_reason": "scene change: the inner call to repent — the car alone at the roadside under breaking light",
+   "characters": [],
+   "location": "an empty straight desert highway in Saudi Arabia at sunrise, a gravel shoulder, low dunes",
+   "location_key": "desert_road",
+   "mood": "sunrise, golden light rays bursting through clouds, awe, a turning point",
+   "visual": "a single white car parked on the gravel shoulder of an empty straight desert highway at sunrise, golden light rays bursting through clouds above it, long soft shadows, no people visible",
+   "camera": "wide shot, low angle",
+   "image": "images/beat_016.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "dawn_exterior",
+   "shots": [
+    {
+     "id": "shot_037",
+     "startMs": 316756,
+     "endMs": 325836,
+     "narration_dhivehi": "ހީވީ އަލަށް ﷲ ގެ އާޔަތްތައް އަޑުއިވުނު ހެންނެވެ. ހީވީ އަލަށް އެފަދަ ދުޢާއެއްގެ އަޑު އިވުނު ހެންނެވެ. އަހަރެންގެ ސިކުނޑި ވިސްނަން ފެށިއެވެ. އަދި ހިތް ތެޅެން ފެށިއެވެ.",
+     "narration_english": "It was as if I were hearing Allah's verses for the first time, hearing such a dua for the first time. My mind began to think, and my heart began to tremble.",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [
+      {
+       "name": "heartbeat",
+       "atMs": 325136,
+       "gainDb": -18,
+       "word": "ތެޅެން"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_038",
+     "startMs": 325836,
+     "endMs": 333637,
+     "narration_dhivehi": "އަދި އަހަރެންގެ މުޅި ހަށިގަނޑު އަހަންނަށް ގޮވަމުން ދިޔައެވެ: \"ޝައިޠާނާއާއި ހަވާނަފްސު މަރާލާށެވެ...އޭ ޖަވާދެވެ!",
+     "narration_english": "And my whole being kept calling out to me: \"Kill Shaytan and desire... O Jawad!",
+     "crop": "tight",
+     "motion": "pan left",
+     "sfx": [],
+     "hum": true,
+     "crop_rect_pct": [
+      20.3,
+      4.8,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_039",
+     "startMs": 333637,
+     "endMs": 343397,
+     "narration_dhivehi": "ތި ހަޑިމުޑުދާރު ފާޙިޝް ކަންކަމާ ދުރުވެ އިސްލާހުވާންވީ ވަގުތު ޖެހިއްޖެއެވެ. ތައުބާ ވާށެވެ! ފުރުސަތު ނަގާނުލާށެވެ!\" އަހރެން ތައުބާވީމެވެ.",
+     "narration_english": "The time has come to leave those filthy, shameful things and reform. Repent! Don't let the chance slip away!\" I repented.",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": true,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Cinematic semi-realistic digital illustration with a reflective, spiritual mood, deep teal and smoky steel-blue palette with warm amber lamplight and soft dawn-gold accents, gentle atmospheric haze and rim light, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and calm, uncluttered space at the bottom for a logo.\nScene: a single white car parked on the gravel shoulder of an empty straight desert highway at sunrise, golden light rays bursting through clouds above it, long soft shadows, no people visible. Location: an empty straight desert highway in Saudi Arabia at sunrise, a gravel shoulder, low dunes. Camera: wide shot, low angle.\nMood/lighting: sunrise, golden light rays bursting through clouds, awe, a turning point.\nModest clothing appropriate to the story's setting, culturally respectful and Islamic in spirit, no violence shown, no alcohol, no drugs, no smoking, no text, no letters, no writing, no Arabic script, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.206,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 50.0,
+    "y_pct": 40.0,
+    "face_detected": false
+   }
+  },
+  {
+   "id": "beat_017",
+   "startMs": 343397,
+   "endMs": 360458,
+   "new_image_reason": "action change: he raises his hands asking forgiveness and steadfastness",
+   "characters": [
+    "jawad"
+   ],
+   "location": "an empty straight desert highway in Saudi Arabia at sunrise, a gravel shoulder, low dunes",
+   "location_key": "desert_road",
+   "mood": "sunrise, golden light rays bursting through clouds, awe, a turning point",
+   "visual": "Jawad here wears a plain white Saudi thobe instead of his navy jacket, same face and trimmed beard as the reference. Jawad standing beside his parked white car at the roadside, both hands raised in dua, eyes closed, tears on his cheeks, dawn-gold light on his face, the empty desert highway behind him",
+   "camera": "medium shot, eye level",
+   "image": "images/beat_017.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": "dua",
+   "safe_substitution": "raised hands at dawn, no script",
+   "ambience": "dawn_exterior",
+   "shots": [
+    {
+     "id": "shot_040",
+     "startMs": 343397,
+     "endMs": 351778,
+     "narration_dhivehi": "ގިސްލަގިސްލާފައި ފާފަތައް ފުއްސަވައިދެއްވުން އެދި ދެންނެވީމެވެ. އަދި ދުވަހަކުވެސް އެ ފާފަތަކަށް އަނބުރާ ނުދިއުމަށް ޢަޒުމު ކަނޑައެޅީމެވެ.",
+     "narration_english": "Sobbing, I begged for my sins to be forgiven, and I resolved never to return to those sins again.",
+     "crop": "full",
+     "motion": "pan right",
+     "sfx": [
+      {
+       "name": "sob_breath",
+       "atMs": 343417,
+       "gainDb": -22,
+       "word": "ގިސްލަގިސްލާފައި"
+      }
+     ],
+     "hum": true,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_041",
+     "startMs": 351778,
+     "endMs": 360458,
+     "narration_dhivehi": "ދީނުގައި ސާބިތުކޮށްދެއްވުން އެދި ﷲގެ ޙަޟްރަތުގައި އާދޭސް ދެންނެވީމެވެ. އެ ދުވަހު އަހަރެން ވަރަށް ރުއީމެވެ. މީން ދުވަހަކު ނުރޯ ވަރަށެވެ.",
+     "narration_english": "I pleaded before Allah for steadfastness in the religion. That day I cried a great deal — as I had never cried on any day.",
+     "crop": "tight",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      9.4,
+      0.0,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Jawad), create a new scene: Cinematic semi-realistic digital illustration with a reflective, spiritual mood, deep teal and smoky steel-blue palette with warm amber lamplight and soft dawn-gold accents, gentle atmospheric haze and rim light, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and calm, uncluttered space at the bottom for a logo.\nScene: Jawad here wears a plain white Saudi thobe instead of his navy jacket, same face and trimmed beard as the reference. Jawad standing beside his parked white car at the roadside, both hands raised in dua, eyes closed, tears on his cheeks, dawn-gold light on his face, the empty desert highway behind him. Location: an empty straight desert highway in Saudi Arabia at sunrise, a gravel shoulder, low dunes. Camera: medium shot, eye level.\nCharacters: Jawad: a tall athletic Saudi Arab man in his early 30s with warm olive-tan skin, short neatly styled black hair, a short neatly trimmed black beard, deep-set dark brown eyes and strong eyebrows; wears a dark navy zip jacket over a plain grey crew-neck shirt and dark long trousers.\nMood/lighting: sunrise, golden light rays bursting through clouds, awe, a turning point.\nModest clothing appropriate to the story's setting, culturally respectful and Islamic in spirit, no violence shown, no alcohol, no drugs, no smoking, no text, no letters, no writing, no Arabic script, no watermark.",
+   "logo": {
+    "color": "black",
+    "bg_luminance": 0.557,
+    "halo": true
+   },
+   "focus": {
+    "x_pct": 39.1,
+    "y_pct": 21.9,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_018",
+   "startMs": 360458,
+   "endMs": 378159,
+   "new_image_reason": "time jump: his life changes, he guards his prayers",
+   "characters": [
+    "jawad"
+   ],
+   "location": "the prayer hall of a simple Saudi mosque, a plain wall, soft carpet in rows, warm light from high windows",
+   "location_key": "mosque",
+   "mood": "soft warm light, peace and devotion",
+   "visual": "Jawad here wears a plain white Saudi thobe instead of his navy jacket, same face and trimmed beard as the reference. Jawad standing in prayer in a row with other men in white thobes seen from behind, hands folded on his chest, eyes lowered, facing a plain mosque wall, peaceful soft light from high windows",
+   "camera": "medium shot from the side and slightly behind",
+   "image": "images/beat_018.png",
+   "reuse_of": null,
+   "transition_in": "black",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "mosque_interior",
+   "shots": [
+    {
+     "id": "shot_042",
+     "startMs": 360458,
+     "endMs": 368749,
+     "narration_dhivehi": "ދެން މަޑުމަޑުން އަހަރެންގެ ޙަޔާތް ބަދަލުވާން ފެށިއެވެ. އަހަރެންގެ ސިފައާއި މިޒާޖު ބަދަލުވާން ފެށިއެވެ. އަދި ހެޔޮކަމުގެ މަގުގައި ހިނގަން ފެށީމެވެ.",
+     "narration_english": "Then slowly my life began to change. My appearance and my character began to change, and I began walking on the path of good.",
+     "crop": "full",
+     "motion": "pan up",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_043",
+     "startMs": 368749,
+     "endMs": 378159,
+     "narration_dhivehi": "ނަމާދުތަކަށް ފަރުވާތެރިވާން ފެށީމެވެ. އަޅުކަމުގައި ހީވާގިވާން ފެށީމެވެ. އަހަރެން ﷲ ގެ ޙަޟްރަތުން އެދެނީ އަހަރެންގެ ތައުބާ ޤަބޫލުކުރެއްވުމެވެ.",
+     "narration_english": "I began guarding my prayers and grew strong in worship. I ask Allah to accept my repentance,",
+     "crop": "tight",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      20.3,
+      4.8,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Jawad), create a new scene: Cinematic semi-realistic digital illustration with a reflective, spiritual mood, deep teal and smoky steel-blue palette with warm amber lamplight and soft dawn-gold accents, gentle atmospheric haze and rim light, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and calm, uncluttered space at the bottom for a logo.\nScene: Jawad here wears a plain white Saudi thobe instead of his navy jacket, same face and trimmed beard as the reference. Jawad standing in prayer in a row with other men in white thobes seen from behind, hands folded on his chest, eyes lowered, facing a plain mosque wall, peaceful soft light from high windows. Location: the prayer hall of a simple Saudi mosque, a plain wall, soft carpet in rows, warm light from high windows. Camera: medium shot from the side and slightly behind.\nCharacters: Jawad: a tall athletic Saudi Arab man in his early 30s with warm olive-tan skin, short neatly styled black hair, a short neatly trimmed black beard, deep-set dark brown eyes and strong eyebrows; wears a dark navy zip jacket over a plain grey crew-neck shirt and dark long trousers.\nMood/lighting: soft warm light, peace and devotion.\nModest clothing appropriate to the story's setting, culturally respectful and Islamic in spirit, no violence shown, no alcohol, no drugs, no smoking, no text, no letters, no writing, no Arabic script, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.405,
+    "halo": true
+   },
+   "focus": {
+    "x_pct": 50.0,
+    "y_pct": 40.0,
+    "face_detected": false
+   }
+  },
+  {
+   "id": "beat_019",
+   "startMs": 378159,
+   "endMs": 387420,
+   "new_image_reason": "closing dua for a good ending: Jawad and his wife walk to the mosque",
+   "characters": [
+    "jawad",
+    "jawad_wife"
+   ],
+   "location": "a quiet paved path leading to a Saudi neighbourhood mosque with a minaret at golden dusk, palm trees",
+   "location_key": "mosque_path",
+   "mood": "golden dusk, hopeful, peaceful, a good ending",
+   "visual": "Jawad here wears a plain white Saudi thobe instead of his navy jacket, same face and trimmed beard as the reference. Seen from behind: Jawad in his white thobe and his wife in her black abaya and dusty-rose hijab walking side by side, not touching, along a quiet path toward a mosque with a minaret glowing in golden dusk light",
+   "camera": "wide shot from behind",
+   "image": "images/beat_019.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": "couple",
+   "safe_substitution": "side by side from behind, no touching",
+   "ambience": "dawn_exterior",
+   "shots": [
+    {
+     "id": "shot_044",
+     "startMs": 378159,
+     "endMs": 387420,
+     "narration_dhivehi": "އަހަރެންގެ ނިމުމާއި ތިޔަ އެންމެހާ ބޭފުޅުންގެ ނިމުންވެސް ހެޔޮގޮތުގައި ލެއްވުމެވެ. އަހަރެންނާއި ތިބާއަށްވެސް ދީނުގައި ސާބިތުކަން ދެއްވުމެވެ. (ނިމުނީ)",
+     "narration_english": "and to make my ending and the ending of all of you good, and to grant me and you steadfastness in the religion. (The end)",
+     "crop": "full",
+     "motion": "pan down",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Jawad; reference image 2 is Jawad's wife), create a new scene: Cinematic semi-realistic digital illustration with a reflective, spiritual mood, deep teal and smoky steel-blue palette with warm amber lamplight and soft dawn-gold accents, gentle atmospheric haze and rim light, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and calm, uncluttered space at the bottom for a logo.\nScene: Jawad here wears a plain white Saudi thobe instead of his navy jacket, same face and trimmed beard as the reference. Seen from behind: Jawad in his white thobe and his wife in her black abaya and dusty-rose hijab walking side by side, not touching, along a quiet path toward a mosque with a minaret glowing in golden dusk light. Location: a quiet paved path leading to a Saudi neighbourhood mosque with a minaret at golden dusk, palm trees. Camera: wide shot from behind.\nCharacters: Jawad: a tall athletic Saudi Arab man in his early 30s with warm olive-tan skin, short neatly styled black hair, a short neatly trimmed black beard, deep-set dark brown eyes and strong eyebrows; wears a dark navy zip jacket over a plain grey crew-neck shirt and dark long trousers. Jawad's wife: a slim Saudi Arab woman in her late 20s with warm olive-tan skin, a gentle oval face, kind dark eyes and soft features; wears a loose ankle-length black abaya with subtle dark embroidery at the cuffs and a dusty-rose hijab fully covering her hair and neck.\nMood/lighting: golden dusk, hopeful, peaceful, a good ending.\nModest clothing appropriate to the story's setting, culturally respectful and Islamic in spirit, no violence shown, no alcohol, no drugs, no smoking, no text, no letters, no writing, no Arabic script, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.363,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 52.2,
+    "y_pct": 43.4,
+    "face_detected": true
+   }
+  }
+ ]
+}

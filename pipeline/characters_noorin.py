@@ -1,0 +1,140 @@
+"""Series character cards for Noorin (a Maldivian crime/romance drama on two timelines: the present, where Noorin is a
+police inspector, and flashbacks to twelve years earlier).
+Creates card.json only for characters that don't exist yet.
+Usage: python characters_noorin.py <series_dir> <first_episode>
+"""
+import json, os, sys
+
+MV = "Maldivian, South Asian features, warm brown skin"
+NOORIN_FACE = "oval face, large dark almond-shaped eyes, straight dark eyebrows, small straight nose, full lips"
+CARDS = [
+    dict(id="noorin", name="Noorin", name_dhivehi="ނޫރިން",
+         role="protagonist (PRESENT, about 34); police officer just promoted to Inspector; secretly writes film scripts as 'WhiteLily'; composed and cold in public, deeply wounded inside",
+         gender="female", age="about 34",
+         ethnicity_look=MV,
+         face=NOORIN_FACE + ", a composed serious expression",
+         hair="fully covered by a black hijab",
+         build="slim, upright, average height",
+         default_outfit="dark-navy long-sleeved Maldivian police uniform shirt with shoulder epaulettes each bearing two small silver stars, buttoned to the collar, dark-navy uniform trousers, a plain black belt, polished black boots, a black hijab wrapped snugly and fully covering her hair and neck, a black beret worn over the hijab",
+         distinguishing_features="black beret over black hijab, navy uniform, two silver stars on each shoulder, cool steady gaze",
+         personality_cues="disciplined, controlled, unsmiling, flashes of fierce anger and hidden grief",
+         visual_prompt="Noorin: a slim upright Maldivian woman of about 34 with warm brown skin, an oval face, large dark almond-shaped eyes, straight dark eyebrows, a small straight nose, full lips and a composed serious expression; wears a dark-navy long-sleeved police uniform shirt buttoned to the collar with shoulder epaulettes each bearing two small silver stars, dark-navy uniform trousers, a black belt and polished black boots, a black hijab wrapped snugly and fully covering her hair and neck, and a black beret worn over the hijab.",
+         reference_from_cover=True, cover_crop=[0.30, 0.13, 0.68, 0.50]),
+    dict(id="noorin_young", name="Noorin (twelve years ago)", name_dhivehi="ނޫރިން",
+         role="FLASHBACK protagonist (about 22); gentle, frightened young woman who fled her stepfather's house; resort secretary; briefly Uvaish's wife",
+         gender="female", age="about 22",
+         ethnicity_look=MV,
+         face=NOORIN_FACE + ", softer and rounder young face, gentle sad eyes",
+         hair="fully covered by a cream hijab",
+         build="slim, slight, average height",
+         default_outfit="a loose long-sleeved ankle-length dusty-rose cotton dress, a plain cream hijab wrapped snugly and fully covering her hair and neck, simple flat sandals, a small worn brown shoulder bag",
+         distinguishing_features="dusty-rose dress, cream hijab, gentle frightened eyes",
+         personality_cues="shy, kind, easily startled, often looking down",
+         visual_prompt="young Noorin: a slim slight Maldivian young woman of about 22 with warm brown skin, a soft oval face, large dark almond-shaped gentle eyes, straight dark eyebrows, a small straight nose and full lips; wears a loose long-sleeved ankle-length dusty-rose cotton dress and a plain cream hijab wrapped snugly and fully covering her hair and neck.",
+         reference_from_cover=True, cover_crop=[0.30, 0.13, 0.68, 0.50]),
+    dict(id="uvaish", name="Uvaish", name_dhivehi="އުވައިޝް",
+         role="PRESENT (about 38); famous Maldivian businessman and resort owner; Noorin's former husband, haunted by guilt",
+         gender="male", age="about 38",
+         ethnicity_look=MV,
+         face="handsome strong face with a defined jaw, deep-set dark eyes, a neatly trimmed short black beard with a touch of grey",
+         hair="short black hair combed back, slightly grey at the temples",
+         build="tall, broad-shouldered",
+         default_outfit="tailored charcoal-grey suit with a long-sleeved white shirt open at the collar (no tie), polished black shoes, a silver wristwatch",
+         distinguishing_features="charcoal suit, trimmed beard greying at the temples",
+         personality_cues="powerful but remorseful, pleading eyes",
+         visual_prompt="Uvaish: a tall broad-shouldered Maldivian man of about 38 with warm brown skin, a handsome strong face with a defined jaw, deep-set dark eyes, short black hair combed back and slightly grey at the temples and a neatly trimmed short black beard with a touch of grey; wears a tailored charcoal-grey suit over a long-sleeved white shirt open at the collar and a silver wristwatch."),
+    dict(id="uvaish_young", name="Uvaish (twelve years ago)", name_dhivehi="އުވައިޝް",
+         role="FLASHBACK (about 26); charming rich young owner of a resort under construction; rescues and marries Noorin, then divorces her",
+         gender="male", age="about 26",
+         ethnicity_look=MV,
+         face="handsome youthful face with a defined jaw, bright dark eyes, a playful confident smile, clean-shaven",
+         hair="thick short wavy black hair",
+         build="tall, athletic",
+         default_outfit="a crisp white long-sleeved linen shirt with sleeves neatly buttoned, beige chino trousers, brown leather loafers, a silver wristwatch",
+         distinguishing_features="white linen shirt, wavy hair, playful smile",
+         personality_cues="charming, teasing, confident",
+         visual_prompt="young Uvaish: a tall athletic Maldivian man of about 26 with warm brown skin, a handsome clean-shaven youthful face with a defined jaw, bright dark eyes, a playful confident smile and thick short wavy black hair; wears a crisp white long-sleeved linen shirt, beige chino trousers and a silver wristwatch."),
+    dict(id="aakif", name="Aakif", name_dhivehi="އާކިފް",
+         role="PRESENT (about 36); Noorin's devoted friend from twelve years ago, now strong and formidable after years of training abroad; still loves her",
+         gender="male", age="about 36",
+         ethnicity_look=MV,
+         face="lean angular face, calm intense dark eyes, a short dark stubble beard",
+         hair="very short black hair",
+         build="tall, muscular, upright",
+         default_outfit="a fitted black long-sleeved shirt with buttoned cuffs, dark-grey trousers, black boots, a black leather wristwatch",
+         distinguishing_features="all-black clothes, very short hair, steady protective gaze",
+         personality_cues="quiet, confident, gentle towards Noorin",
+         visual_prompt="Aakif: a tall muscular upright Maldivian man of about 36 with warm brown skin, a lean angular face, calm intense dark eyes, very short black hair and a short dark stubble beard; wears a fitted black long-sleeved shirt with buttoned cuffs, dark-grey trousers and a black leather wristwatch."),
+    dict(id="aakif_young", name="Aakif (twelve years ago)", name_dhivehi="އާކިފް",
+         role="FLASHBACK (about 24); gentle young man from a respected Malé family who has asthma; Noorin saved him during an attack; later shelters her",
+         gender="male", age="about 24",
+         ethnicity_look=MV,
+         face="thin gentle face, kind dark eyes behind thin black-rimmed glasses, clean-shaven",
+         hair="short neat black hair with a side parting",
+         build="slim, slightly slight",
+         default_outfit="a light-blue long-sleeved button-up shirt tucked into navy trousers, a small blue inhaler in his shirt pocket",
+         distinguishing_features="thin black-rimmed glasses, light-blue shirt, inhaler",
+         personality_cues="kind, grateful, earnest",
+         visual_prompt="young Aakif: a slim Maldivian young man of about 24 with warm brown skin, a thin gentle clean-shaven face, kind dark eyes behind thin black-rimmed glasses and short neat black hair with a side parting; wears a light-blue long-sleeved button-up shirt tucked into navy trousers."),
+    dict(id="zee", name="Zee", name_dhivehi="ޒީ",
+         role="Noorin's close female friend who handles her film scripts and business as 'WhiteLily'",
+         gender="female", age="about 35",
+         ethnicity_look=MV,
+         face="round cheerful face, bright dark eyes behind red-framed glasses, a warm smile",
+         hair="fully covered by a mustard-yellow hijab",
+         build="medium build, average height",
+         default_outfit="a loose long-sleeved ankle-length olive-green dress with a long open cardigan, a mustard-yellow hijab fully covering her hair and neck, red-framed glasses",
+         distinguishing_features="red-framed glasses, mustard hijab, olive dress",
+         personality_cues="lively, loyal, apologetic",
+         visual_prompt="Zee: a Maldivian woman of about 35 with warm brown skin, medium build, a round cheerful face and bright dark eyes behind red-framed glasses; wears a loose long-sleeved ankle-length olive-green dress with a long open cardigan and a mustard-yellow hijab fully covering her hair and neck."),
+    dict(id="reem", name="Reem", name_dhivehi="ރީމް",
+         role="Uvaish's wife by a family arrangement (fulfilling his grandfather's promise), later divorced and married to Naaif; kind and honest",
+         gender="female", age="about 22 in flashbacks, about 34 in the present",
+         ethnicity_look=MV,
+         face="elegant heart-shaped face, calm light-brown eyes, softly arched eyebrows",
+         hair="fully covered by a soft beige hijab",
+         build="slim, graceful, average height",
+         default_outfit="a loose long-sleeved ankle-length deep-teal abaya-style dress with fine gold embroidery at the cuffs, a soft beige hijab fully covering her hair and neck",
+         distinguishing_features="deep-teal embroidered dress, beige hijab, light-brown eyes",
+         personality_cues="gentle, dignified, sincere",
+         visual_prompt="Reem: a slim graceful Maldivian woman with warm brown skin, an elegant heart-shaped face, calm light-brown eyes and softly arched eyebrows; wears a loose long-sleeved ankle-length deep-teal abaya-style dress with fine gold embroidery at the cuffs and a soft beige hijab fully covering her hair and neck."),
+    dict(id="naahidh", name="Naahidh", name_dhivehi="ނާހިދު",
+         role="FLASHBACK; Noorin's young male co-worker in the resort office",
+         gender="male", age="about 25",
+         ethnicity_look=MV,
+         face="friendly round face, small dark eyes, thin moustache",
+         hair="short black hair, slightly spiky",
+         build="short, stocky",
+         default_outfit="a navy-blue long-sleeved resort staff polo shirt, grey trousers, a staff lanyard with a blank card",
+         distinguishing_features="navy staff polo shirt, lanyard",
+         personality_cues="matter-of-fact, casual",
+         visual_prompt="Naahidh: a short stocky Maldivian young man of about 25 with warm brown skin, a friendly round face, small dark eyes, a thin moustache and short slightly spiky black hair; wears a navy-blue long-sleeved resort staff polo shirt, grey trousers and a staff lanyard with a blank card."),
+    dict(id="uvaish_lawyer", name="Uvaish's lawyer", name_dhivehi="ވަކީލު",
+         role="PRESENT; Uvaish's lawyer who comes to Noorin about custody of the child",
+         gender="male", age="about 50",
+         ethnicity_look=MV,
+         face="long serious face, narrow dark eyes behind rectangular gold-rimmed glasses, a short neat grey beard",
+         hair="short grey hair, neatly parted",
+         build="thin, upright",
+         default_outfit="a dark-navy suit with a long-sleeved pale-blue shirt and a plain dark tie, carrying a black leather briefcase",
+         distinguishing_features="gold-rimmed glasses, grey beard, briefcase",
+         personality_cues="formal, cool, businesslike",
+         visual_prompt="the lawyer: a thin upright Maldivian man of about 50 with warm brown skin, a long serious face, narrow dark eyes behind rectangular gold-rimmed glasses, short neatly parted grey hair and a short neat grey beard; wears a dark-navy suit, a long-sleeved pale-blue shirt and a plain dark tie."),
+]
+
+FIRST = dict(noorin=495, noorin_young=495, uvaish=495, uvaish_young=497, aakif=495, aakif_young=501, zee=497,
+             reem=501, naahidh=497, uvaish_lawyer=503)
+
+if __name__ == "__main__":
+    series_dir, episode = sys.argv[1], int(sys.argv[2])
+    for c in CARDS:
+        d = os.path.join(series_dir, "characters", c["id"])
+        p = os.path.join(d, "card.json")
+        if os.path.exists(p):
+            continue
+        os.makedirs(d, exist_ok=True)
+        card = dict(c)
+        card["first_seen_episode"] = FIRST.get(c["id"], episode)
+        card["reference_from_cover"] = bool(c.get("reference_from_cover"))
+        json.dump(card, open(p, "w", encoding="utf-8"), ensure_ascii=False, indent=2)
+        print("new", c["id"])

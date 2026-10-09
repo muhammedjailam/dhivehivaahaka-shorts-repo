@@ -1,0 +1,3136 @@
+{
+ "series": "Noorin",
+ "episode": 495,
+ "beats": [
+  {
+   "id": "beat_001",
+   "startMs": 0,
+   "endMs": 35621,
+   "new_image_reason": "episode opening: twelve years ago, thunderstorm over a crowded Malé street at night",
+   "characters": [],
+   "location": "a busy commercial street in Malé twelve years ago at night, a row of small shops with canvas awnings and roller shutters, wet tarmac reflecting shop lights and streetlamps, parked motorbikes, narrow multi-storey buildings",
+   "location_key": "street",
+   "mood": "twelve years earlier, warm soft golden haze over a stormy night: flashes of lightning, heavy slanting rain lit amber by shop lights and streetlamps, glistening reflections, lonely and desperate",
+   "visual": "a wide view of the crowded Malé street at night under a thunderstorm: a jagged bolt of lightning splits the dark clouds above narrow buildings, heavy rain, motorbikes and cars jammed on the wet road with headlights glaring, many people hurrying to shelter under the shop awnings; nobody's face in close detail",
+   "camera": "wide establishing shot, slightly high angle, the stormy sky and street in the upper two-thirds, the glistening wet road as the calm lower third",
+   "image": "images/beat_001.png",
+   "reuse_of": null,
+   "transition_in": "dissolve",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "storm_night",
+   "shots": [
+    {
+     "id": "shot_001",
+     "startMs": 0,
+     "endMs": 9170,
+     "narration_dhivehi": "ވިދާލި ވިދުވަރާއެކު މުޅި ފަޒާ ގުގުމައިގެން ދިޔައީ ބާރު ގުގުރީގެ އަޑުންނެވެ. ބަނަވެފައިވާ އުޑުމަތިން ފެންނަމުން ދިޔައީ ކޯފާވެފައިވާ ފަދަ ސިފައެކެވެ.",
+     "narration_english": "With the flash of lightning the whole sky echoed with the roar of thunder. The darkened sky looked as if it were furious.",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [
+      {
+       "name": "thunder",
+       "atMs": 3480,
+       "gainDb": -14,
+       "word": "ގުގުރީގެ"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_002",
+     "startMs": 9170,
+     "endMs": 15720,
+     "narration_dhivehi": "ކަޅު ވިލާތަކުން އުޑުމަތި ބައްދަމުން ދިޔަވަރަކަށް، ވިދުވަރާއި ގުގުރުމުގެ ބާރު ދިޔައީ ގަދަވަމުންނެވެ.",
+     "narration_english": "As black clouds closed over the sky, the lightning and thunder grew ever stronger.",
+     "crop": "tight",
+     "motion": "pan left",
+     "sfx": [
+      {
+       "name": "thunder",
+       "atMs": 13260,
+       "gainDb": -16,
+       "word": "ގުގުރުމުގެ"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      12.0,
+      29.6,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_003",
+     "startMs": 15720,
+     "endMs": 24460,
+     "narration_dhivehi": "މަގުމަތީގެ ހަލަބޮލިކަން އިންތިހާއަށް ބޮޑުވެ، އެކި ދިމަދިމާއަށް ދަތުރުކުރާ އުޅަނދުފަހަރާއި މީހުންނާއިގެން މަގުތައް ތޮއްޖެހި ބާރުބޮޑުވިއެވެ.",
+     "narration_english": "The chaos on the road grew extreme; the streets were jammed with vehicles and people going in every direction.",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [
+      {
+       "name": "car_pass",
+       "atMs": 20280,
+       "gainDb": -22,
+       "word": "އުޅަނދުފަހަރާއި"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_004",
+     "startMs": 24460,
+     "endMs": 35621,
+     "narration_dhivehi": "ރޭގަނޑުގެ މި ވަގުތަކީ އާންމުކޮށް ވެސް މަގުތައް ބާރުބޮޑު ވަގުތަކަށް ވެފައި، ބޯކޮށް ވާރޭ ވެހެން ފެށުމުން ފިހާރަތަކުގެއަސްކަނިތަކުގެ ދަށަށް ވަދެ ފިލާތިބި މީހުން ވެސް މަދެއް ނޫނެވެ.",
+     "narration_english": "At this time of night the roads are usually busy anyway, and when heavy rain began to fall, many people ran to shelter under the shop awnings.",
+     "crop": "medium",
+     "motion": "pan right",
+     "sfx": [
+      {
+       "name": "rain_start",
+       "atMs": 29881,
+       "gainDb": -18,
+       "word": "ވާރޭ"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      5.9,
+      15.3,
+      71.5,
+      84.7
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Cinematic semi-realistic digital illustration with a moody modern crime-drama look, deep navy, teal and charcoal shadows with crimson and electric-blue accents and warm amber practical lights, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, wet pavement, sand, table top, soft shadow) for captions and a logo; present-day night scenes in Malé glisten with rain and reflections, while flashback scenes from twelve years earlier have softer, warmer golden light and a gentle haze.\nScene: a wide view of the crowded Malé street at night under a thunderstorm: a jagged bolt of lightning splits the dark clouds above narrow buildings, heavy rain, motorbikes and cars jammed on the wet road with headlights glaring, many people hurrying to shelter under the shop awnings; nobody's face in close detail. Location: a busy commercial street in Malé twelve years ago at night, a row of small shops with canvas awnings and roller shutters, wet tarmac reflecting shop lights and streetlamps, parked motorbikes, narrow multi-storey buildings. Camera: wide establishing shot, slightly high angle, the stormy sky and street in the upper two-thirds, the glistening wet road as the calm lower third.\nMood/lighting: twelve years earlier, warm soft golden haze over a stormy night: flashes of lightning, heavy slanting rain lit amber by shop lights and streetlamps, glistening reflections, lonely and desperate.\nModest Maldivian clothing (every woman in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck; men in long-sleeved shirts or suits and long trousers), a clear respectful distance between men and women, nobody touching, culturally respectful, no violence shown, no blood, no wounds, no injuries, no weapons, no guns, no person lying on the ground, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.301,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 41.7,
+    "y_pct": 94.9,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_002",
+   "startMs": 35621,
+   "endMs": 63082,
+   "new_image_reason": "character enters: young Noorin among the people sheltering under an awning",
+   "characters": [
+    "noorin_young"
+   ],
+   "location": "a busy commercial street in Malé twelve years ago at night, a row of small shops with canvas awnings and roller shutters, wet tarmac reflecting shop lights and streetlamps, parked motorbikes, narrow multi-storey buildings",
+   "location_key": "street",
+   "mood": "twelve years earlier, warm soft golden haze over a stormy night: flashes of lightning, heavy slanting rain lit amber by shop lights and streetlamps, glistening reflections, lonely and desperate",
+   "visual": "young Noorin (about 22) standing among a few strangers under a shop's canvas awning, soaked through, her dusty-rose dress and cream hijab dark with rain, her eyes red and swollen, tears mixing with raindrops on her cheeks, staring out at the downpour with a lost, anguished look; the other people are blurred and keep their distance",
+   "camera": "medium shot, eye level, faces in the upper two-thirds, a calm uncluttered lower third (wet pavement)",
+   "image": "images/beat_002.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "rain_night",
+   "shots": [
+    {
+     "id": "shot_005",
+     "startMs": 35621,
+     "endMs": 43061,
+     "narration_dhivehi": "ވާރޭ ހުއްޓައިލާނެ އިރެއްގެ އިންތިޒާރުގައި، އަސްކަންޏެއްގެ ހިޔާވަހިކަން ހޯދައިގެން ހުރި މީހުންގެ ތެރޭގައި ނޫރިން ވެސް ހުއްޓެވެ.",
+     "narration_english": "Waiting for the rain to stop, among the people sheltering under an awning, stood Noorin too.",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_006",
+     "startMs": 43061,
+     "endMs": 51751,
+     "narration_dhivehi": "އޭނާގެ މޫނުމަތިން ފެންނަމުން ދިޔައީ ނުތަނަވަސްކަމާއި އިންތިހާ ހާސްކަމެވެ. ރޮއިރޮއި ރަތްވެ ދުޅަވެފައިވާ ދެ ލޮލުން ފައިބަމުން ދިޔަ ކަރުނަތައް،",
+     "narration_english": "Her face showed unease and deep distress. The tears falling from her eyes, red and swollen from crying,",
+     "crop": "tight",
+     "motion": "pan up",
+     "sfx": [
+      {
+       "name": "sob_breath",
+       "atMs": 47781,
+       "gainDb": -24,
+       "word": "ރޮއިރޮއި"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      18.2,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_007",
+     "startMs": 51751,
+     "endMs": 63082,
+     "narration_dhivehi": "މޫނުމައްޗަށް ވެހެމުން ދިޔަ ވާރޭގެ ތިކިތަކާ އެކުވަމުން ދިޔައެވެ. އޭނާގެ މި ހިތްދަތި މަޖުބޫރު ހާލަތަށް ހަމްދަރުދީވާނެ އެކަކު ވެސް މި ދުނިޔޭގައި ނެތްކަން މިހާރު އޭނާއަށް ޔަގީންވެއްޖެއެވެ.",
+     "narration_english": "were mixing with the raindrops running down her face. She was now certain that there was no one in this world who would feel for her helpless state.",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": true,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Noorin), create a new scene: Cinematic semi-realistic digital illustration with a moody modern crime-drama look, deep navy, teal and charcoal shadows with crimson and electric-blue accents and warm amber practical lights, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, wet pavement, sand, table top, soft shadow) for captions and a logo; present-day night scenes in Malé glisten with rain and reflections, while flashback scenes from twelve years earlier have softer, warmer golden light and a gentle haze.\nScene: young Noorin (about 22) standing among a few strangers under a shop's canvas awning, soaked through, her dusty-rose dress and cream hijab dark with rain, her eyes red and swollen, tears mixing with raindrops on her cheeks, staring out at the downpour with a lost, anguished look; the other people are blurred and keep their distance. Location: a busy commercial street in Malé twelve years ago at night, a row of small shops with canvas awnings and roller shutters, wet tarmac reflecting shop lights and streetlamps, parked motorbikes, narrow multi-storey buildings. Camera: medium shot, eye level, faces in the upper two-thirds, a calm uncluttered lower third (wet pavement).\nCharacters: young Noorin: a slim slight Maldivian young woman of about 22 with warm brown skin, a soft oval face, large dark almond-shaped gentle eyes, straight dark eyebrows, a small straight nose and full lips; wears a loose long-sleeved ankle-length dusty-rose cotton dress and a plain cream hijab wrapped snugly and fully covering her hair and neck.\nMood/lighting: twelve years earlier, warm soft golden haze over a stormy night: flashes of lightning, heavy slanting rain lit amber by shop lights and streetlamps, glistening reflections, lonely and desperate.\nModest Maldivian clothing (every woman in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck; men in long-sleeved shirts or suits and long trousers), a clear respectful distance between men and women, nobody touching, culturally respectful, no violence shown, no blood, no wounds, no injuries, no weapons, no guns, no person lying on the ground, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.151,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 47.9,
+    "y_pct": 24.0,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_003",
+   "startMs": 63082,
+   "endMs": 72932,
+   "new_image_reason": "memory/time change: she had come to her birth mother in Malé full of hope",
+   "characters": [
+    "noorin_young"
+   ],
+   "location": "a busy ferry jetty on the edge of Malé twelve years ago, small wooden passenger ferries moored at a concrete quay, the city's colourful low-rise buildings behind",
+   "location_key": "jetty",
+   "mood": "twelve years earlier, warm soft golden haze, bright gentle morning sunshine, turquoise water, hopeful and innocent",
+   "visual": "young Noorin (about 22) stepping off a small wooden ferry onto the sunny quay, holding a small cloth travel bag in both hands, a shy hopeful smile, looking up towards the city buildings",
+   "camera": "medium wide shot, eye level, faces in the upper two-thirds, a calm uncluttered lower third (sunlit concrete quay)",
+   "image": "images/beat_003.png",
+   "reuse_of": null,
+   "transition_in": "dissolve",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "jetty_day",
+   "shots": [
+    {
+     "id": "shot_008",
+     "startMs": 63082,
+     "endMs": 72932,
+     "narration_dhivehi": "ބައްޕަގެ ވަކިވުމަށް ފަހު، ދޮންމަންމަގެ އަނިޔާވެރި އަތްދަށުން ސަލާމަތްވެ، އުފަލުން ފުރިގެންވާ ފޮނި އުންމީދުތަކާއެކު އޭނާ އައީ އުފަން މަންމަގެ ގާތަށެވެ.",
+     "narration_english": "After her father left, she had escaped from her cruel stepmother's hands and come to her birth mother, full of sweet, joyful hopes.",
+     "crop": "full",
+     "motion": "pan down",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Noorin), create a new scene: Cinematic semi-realistic digital illustration with a moody modern crime-drama look, deep navy, teal and charcoal shadows with crimson and electric-blue accents and warm amber practical lights, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, wet pavement, sand, table top, soft shadow) for captions and a logo; present-day night scenes in Malé glisten with rain and reflections, while flashback scenes from twelve years earlier have softer, warmer golden light and a gentle haze.\nScene: young Noorin (about 22) stepping off a small wooden ferry onto the sunny quay, holding a small cloth travel bag in both hands, a shy hopeful smile, looking up towards the city buildings. Location: a busy ferry jetty on the edge of Malé twelve years ago, small wooden passenger ferries moored at a concrete quay, the city's colourful low-rise buildings behind. Camera: medium wide shot, eye level, faces in the upper two-thirds, a calm uncluttered lower third (sunlit concrete quay).\nCharacters: young Noorin: a slim slight Maldivian young woman of about 22 with warm brown skin, a soft oval face, large dark almond-shaped gentle eyes, straight dark eyebrows, a small straight nose and full lips; wears a loose long-sleeved ankle-length dusty-rose cotton dress and a plain cream hijab wrapped snugly and fully covering her hair and neck.\nMood/lighting: twelve years earlier, warm soft golden haze, bright gentle morning sunshine, turquoise water, hopeful and innocent.\nModest Maldivian clothing (every woman in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck; men in long-sleeved shirts or suits and long trousers), a clear respectful distance between men and women, nobody touching, culturally respectful, no violence shown, no blood, no wounds, no injuries, no weapons, no guns, no person lying on the ground, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "black",
+    "bg_luminance": 0.641,
+    "halo": true
+   },
+   "focus": {
+    "x_pct": 43.6,
+    "y_pct": 20.3,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_004",
+   "startMs": 72932,
+   "endMs": 114884,
+   "new_image_reason": "scene change: her struggle in her mother's house, shown only through her face, rain and a closed door",
+   "characters": [
+    "noorin_young"
+   ],
+   "location": "a small plain bedroom in an old Malé apartment twelve years ago at night, whitewashed walls, a narrow window streaked with rain, a single wooden chair, a closed wooden door",
+   "location_key": "mother_room",
+   "mood": "twelve years earlier, warm soft golden haze on a rainy night, dim lamplight, deep soft shadows, rain trickling down the glass, silent heartbreak",
+   "visual": "young Noorin (about 22) standing alone at a narrow rain-streaked window in a small dim room at night, one hand resting flat on the glass, her face half turned towards us with quiet anguish and stubborn resolve, her small cloth bag packed on the chair; behind her a closed wooden door; nobody else in the room",
+   "camera": "medium shot, eye level, slightly from the side, faces in the upper two-thirds, a calm uncluttered lower third (bare floor in soft shadow)",
+   "image": "images/beat_004.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": "other",
+   "safe_substitution": "the stepfather and the danger to her honour are never shown or implied; only her face, rain on the window and a closed door",
+   "ambience": "memory_rain",
+   "shots": [
+    {
+     "id": "shot_009",
+     "startMs": 72932,
+     "endMs": 85223,
+     "narration_dhivehi": "ނަމަވެސް، މަންމަގެ ގޭގައި ހޭދަކުރަން ލިބުނު މަދު ދުވަސްކޮޅު ވެގެންދިޔައީ އޭނާގެ އަމިއްލަ އިއްފަތްތެރިކަމާއި އަބުރު ރައްކާތެރިކުރުމަށްޓަކައި ކުރަން ޖެހުނު ބޮޑު ހަނގުރާމައަކަށެވެ.",
+     "narration_english": "But the few days she was able to spend in her mother's house became a great battle she had to fight to protect her own honour and dignity.",
+     "crop": "full",
+     "motion": "static drift",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_010",
+     "startMs": 85223,
+     "endMs": 97143,
+     "narration_dhivehi": "މަންމަ އޭނާ ދެކެ ކިތަންމެ ލޯބިވި ނަމަވެސް، އެ މަންމައަށް ކޮށްދެވޭނެ ކަމެއް ނެތްކަން ނޫރިނަށް ވިސްނުނެވެ. އަދި ދޮންބައްޕައަށް މަންމަ ކުރާ ފުރިހަމަ އިތުބާރާއި އިޙްތިރާމް ގެއްލުވައިލާކަށް ވެސް ނޫރިން ބޭނުމެއް ނުވިއެވެ.",
+     "narration_english": "However much her mother loved her, Noorin understood that there was nothing her mother could do. And Noorin did not want to destroy the complete trust and respect her mother had for her stepfather.",
+     "crop": "tight",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      9.8,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_011",
+     "startMs": 97143,
+     "endMs": 104273,
+     "narration_dhivehi": "އެހެންކަމުން މަންމަގެ ކުރިމަތީގައި ހިތުގެ ރިހުން ފޮރުވައި، އެ ހިތި ހަގީގަތް ހިތުގެ އެންމެ ފުނުގައި ވަޅުލީއެވެ.",
+     "narration_english": "So she hid the pain in her heart in front of her mother and buried that bitter truth in the deepest part of her heart.",
+     "crop": "full",
+     "motion": "pan left",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_012",
+     "startMs": 104273,
+     "endMs": 114884,
+     "narration_dhivehi": "ނޫރިންގެ ހުށިޔާރުކަމުން ދޮންބައްޕަގެ ވިޔާނުދާ ވަކިތަކުން ސަލާމަތްވި ނަމަވެސް، އެފަދަ ނުރައްކާތެރި ހަނގުރާމައެއްގައި އޭނާއަށް ކެތްކޮށްލެވޭނީ ކިހާ ދުވަހަކު ހެއްޔެވެ؟",
+     "narration_english": "Thanks to her alertness she had escaped her stepfather's traps, but how long could she endure such a dangerous battle?",
+     "crop": "medium",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      3.8,
+      0.0,
+      71.5,
+      84.7
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Noorin), create a new scene: Cinematic semi-realistic digital illustration with a moody modern crime-drama look, deep navy, teal and charcoal shadows with crimson and electric-blue accents and warm amber practical lights, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, wet pavement, sand, table top, soft shadow) for captions and a logo; present-day night scenes in Malé glisten with rain and reflections, while flashback scenes from twelve years earlier have softer, warmer golden light and a gentle haze.\nScene: young Noorin (about 22) standing alone at a narrow rain-streaked window in a small dim room at night, one hand resting flat on the glass, her face half turned towards us with quiet anguish and stubborn resolve, her small cloth bag packed on the chair; behind her a closed wooden door; nobody else in the room. Location: a small plain bedroom in an old Malé apartment twelve years ago at night, whitewashed walls, a narrow window streaked with rain, a single wooden chair, a closed wooden door. Camera: medium shot, eye level, slightly from the side, faces in the upper two-thirds, a calm uncluttered lower third (bare floor in soft shadow).\nCharacters: young Noorin: a slim slight Maldivian young woman of about 22 with warm brown skin, a soft oval face, large dark almond-shaped gentle eyes, straight dark eyebrows, a small straight nose and full lips; wears a loose long-sleeved ankle-length dusty-rose cotton dress and a plain cream hijab wrapped snugly and fully covering her hair and neck.\nMood/lighting: twelve years earlier, warm soft golden haze on a rainy night, dim lamplight, deep soft shadows, rain trickling down the glass, silent heartbreak.\nModest Maldivian clothing (every woman in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck; men in long-sleeved shirts or suits and long trousers), a clear respectful distance between men and women, nobody touching, culturally respectful, no violence shown, no blood, no wounds, no injuries, no weapons, no guns, no person lying on the ground, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.147,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 39.6,
+    "y_pct": 18.4,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_005",
+   "startMs": 114884,
+   "endMs": 131484,
+   "new_image_reason": "action change: she leaves her mother's house sobbing into the dark rainy night",
+   "characters": [
+    "noorin_young"
+   ],
+   "location": "a narrow residential lane in Malé twelve years ago at night, the gated entrance of an old multi-storey apartment building, rain-wet concrete, a few lit windows above",
+   "location_key": "mother_lane",
+   "mood": "twelve years earlier, warm soft golden haze on a rainy night, a dim amber lamp over the gate, deep blue shadows, heartbreak",
+   "visual": "young Noorin (about 22) hurrying out through the gate of the old apartment building into the dark rainy lane, her small cloth bag clutched to her chest, one hand pressed to her mouth, tears on her face, glancing back up at a softly lit window; nobody else in the lane",
+   "camera": "medium wide shot, eye level, faces in the upper two-thirds, a calm uncluttered lower third (wet concrete lane)",
+   "image": "images/beat_005.png",
+   "reuse_of": null,
+   "transition_in": "dissolve",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "rain_night",
+   "shots": [
+    {
+     "id": "shot_013",
+     "startMs": 114884,
+     "endMs": 124344,
+     "narration_dhivehi": "އެންމެ ފަހުން، މަންމަގެ ހިތް ކުދިކުދިކޮށްލައިފައި ނަމަވެސް އަމިއްލަ އިއްފަތްތެރިކަން ސަލާމަތްކުރުމަށްޓަކައި، ރޮމުން ގިސްލަމުން އޭނާ އެ ގެއިން ނުކުތީއެވެ.",
+     "narration_english": "In the end, to save her own honour, even though it would break her mother's heart, she left that house crying and sobbing.",
+     "crop": "full",
+     "motion": "pan right",
+     "sfx": [
+      {
+       "name": "door_close",
+       "atMs": 123544,
+       "gainDb": -20,
+       "word": "ނުކުތީއެވެ."
+      },
+      {
+       "name": "sob_breath",
+       "atMs": 122144,
+       "gainDb": -24,
+       "word": "ގިސްލަމުން"
+      }
+     ],
+     "hum": true,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_014",
+     "startMs": 124344,
+     "endMs": 131484,
+     "narration_dhivehi": "އެކަމަކު މި އަނދިރި ރޭގައި ދާނީ ވަކި ކޮންތާކަށް ހެއްޔެވެ؟ އޭނާގެ މިސްރާބެއް، ދާނެ މަންޒިލެއް ނެތެވެ.",
+     "narration_english": "But where could she go on this dark night? She had no direction, no destination to go to.",
+     "crop": "tight",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      29.6,
+      0.0,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Noorin), create a new scene: Cinematic semi-realistic digital illustration with a moody modern crime-drama look, deep navy, teal and charcoal shadows with crimson and electric-blue accents and warm amber practical lights, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, wet pavement, sand, table top, soft shadow) for captions and a logo; present-day night scenes in Malé glisten with rain and reflections, while flashback scenes from twelve years earlier have softer, warmer golden light and a gentle haze.\nScene: young Noorin (about 22) hurrying out through the gate of the old apartment building into the dark rainy lane, her small cloth bag clutched to her chest, one hand pressed to her mouth, tears on her face, glancing back up at a softly lit window; nobody else in the lane. Location: a narrow residential lane in Malé twelve years ago at night, the gated entrance of an old multi-storey apartment building, rain-wet concrete, a few lit windows above. Camera: medium wide shot, eye level, faces in the upper two-thirds, a calm uncluttered lower third (wet concrete lane).\nCharacters: young Noorin: a slim slight Maldivian young woman of about 22 with warm brown skin, a soft oval face, large dark almond-shaped gentle eyes, straight dark eyebrows, a small straight nose and full lips; wears a loose long-sleeved ankle-length dusty-rose cotton dress and a plain cream hijab wrapped snugly and fully covering her hair and neck.\nMood/lighting: twelve years earlier, warm soft golden haze on a rainy night, a dim amber lamp over the gate, deep blue shadows, heartbreak.\nModest Maldivian clothing (every woman in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck; men in long-sleeved shirts or suits and long trousers), a clear respectful distance between men and women, nobody touching, culturally respectful, no violence shown, no blood, no wounds, no injuries, no weapons, no guns, no person lying on the ground, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.139,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 59.3,
+    "y_pct": 23.6,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_006",
+   "startMs": 131484,
+   "endMs": 149085,
+   "new_image_reason": "time change: the rain eases, people leave, shops close at eleven; she stands frozen",
+   "characters": [
+    "noorin_young"
+   ],
+   "location": "a busy commercial street in Malé twelve years ago at night, a row of small shops with canvas awnings and roller shutters, wet tarmac reflecting shop lights and streetlamps, parked motorbikes, narrow multi-storey buildings",
+   "location_key": "street",
+   "mood": "twelve years earlier, warm soft golden haze over a stormy night: flashes of lightning, heavy slanting rain lit amber by shop lights and streetlamps, glistening reflections, lonely and desperate",
+   "visual": "the rain thinning over the street late at night: a shopkeeper in the background pulling down a metal roller shutter, the last few people walking away with umbrellas in different directions; young Noorin (about 22) standing completely still alone under the awning in the middle of the frame, soaked, staring blankly ahead like a statue",
+   "camera": "medium wide shot, eye level, faces in the upper two-thirds, a calm uncluttered lower third (glistening empty pavement)",
+   "image": "images/beat_006.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "rain_night",
+   "shots": [
+    {
+     "id": "shot_015",
+     "startMs": 131484,
+     "endMs": 139925,
+     "narration_dhivehi": "ވާރޭ ތުނިކޮށްލުމާ އެކު، އަސްކަނި ދަށުގައި ތިބި މީހުން އެކި މިސްރާބަށް ދާން ފެށިއެވެ. ނަމަވެސް ހަދާނެ ގޮތް ހުސްވެފައިވާ ނޫރިން،",
+     "narration_english": "As the rain eased, the people under the awning began to leave in different directions. But Noorin, with nowhere left to turn,",
+     "crop": "full",
+     "motion": "pan up",
+     "sfx": [
+      {
+       "name": "footsteps_pavement",
+       "atMs": 136145,
+       "gainDb": -24,
+       "word": "ދާން"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_016",
+     "startMs": 139925,
+     "endMs": 149085,
+     "narration_dhivehi": "ހުރި ފިޔަވަޅުމަތީގައި ބުދެއްހެން ގުޑުމެއް ނެތި ހުއްޓެވެ. ގަޑިން ރޭގަނޑު އެގާރަ ޖެހުމާއެކު ފިހާރަތައް ބަންދުކޮށް، މަގުމަތި ހިމޭންވާން ފެށިއެވެ.",
+     "narration_english": "stood where she was like a statue, without moving. When the clock struck eleven at night, the shops closed and the street began to fall silent.",
+     "crop": "tight",
+     "motion": "slow pull-out",
+     "sfx": [
+      {
+       "name": "metal_door",
+       "atMs": 146285,
+       "gainDb": -22,
+       "word": "ބަންދުކޮށް،"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      9.5,
+      0.0,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Noorin), create a new scene: Cinematic semi-realistic digital illustration with a moody modern crime-drama look, deep navy, teal and charcoal shadows with crimson and electric-blue accents and warm amber practical lights, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, wet pavement, sand, table top, soft shadow) for captions and a logo; present-day night scenes in Malé glisten with rain and reflections, while flashback scenes from twelve years earlier have softer, warmer golden light and a gentle haze.\nScene: the rain thinning over the street late at night: a shopkeeper in the background pulling down a metal roller shutter, the last few people walking away with umbrellas in different directions; young Noorin (about 22) standing completely still alone under the awning in the middle of the frame, soaked, staring blankly ahead like a statue. Location: a busy commercial street in Malé twelve years ago at night, a row of small shops with canvas awnings and roller shutters, wet tarmac reflecting shop lights and streetlamps, parked motorbikes, narrow multi-storey buildings. Camera: medium wide shot, eye level, faces in the upper two-thirds, a calm uncluttered lower third (glistening empty pavement).\nCharacters: young Noorin: a slim slight Maldivian young woman of about 22 with warm brown skin, a soft oval face, large dark almond-shaped gentle eyes, straight dark eyebrows, a small straight nose and full lips; wears a loose long-sleeved ankle-length dusty-rose cotton dress and a plain cream hijab wrapped snugly and fully covering her hair and neck.\nMood/lighting: twelve years earlier, warm soft golden haze over a stormy night: flashes of lightning, heavy slanting rain lit amber by shop lights and streetlamps, glistening reflections, lonely and desperate.\nModest Maldivian clothing (every woman in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck; men in long-sleeved shirts or suits and long trousers), a clear respectful distance between men and women, nobody touching, culturally respectful, no violence shown, no blood, no wounds, no injuries, no weapons, no guns, no person lying on the ground, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.211,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 39.3,
+    "y_pct": 19.8,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_007",
+   "startMs": 149085,
+   "endMs": 166366,
+   "new_image_reason": "action change: exhausted, she sits down at the roadside in the rain, shivering",
+   "characters": [
+    "noorin_young"
+   ],
+   "location": "a busy commercial street in Malé twelve years ago at night, a row of small shops with canvas awnings and roller shutters, wet tarmac reflecting shop lights and streetlamps, parked motorbikes, narrow multi-storey buildings",
+   "location_key": "street",
+   "mood": "twelve years earlier, warm soft golden haze over a stormy night: flashes of lightning, heavy slanting rain lit amber by shop lights and streetlamps, glistening reflections, lonely and desperate",
+   "visual": "young Noorin (about 22) sitting hunched on the edge of the pavement at the empty roadside in the rain, arms wrapped tightly around herself, shivering, her dress and hijab soaked, eyes half closed with exhaustion and grief, closed shutters behind her and puddles reflecting the streetlamps",
+   "camera": "medium shot, slightly high angle, faces in the upper two-thirds, a calm uncluttered lower third (wet road surface)",
+   "image": "images/beat_007.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "rain_night",
+   "shots": [
+    {
+     "id": "shot_017",
+     "startMs": 149085,
+     "endMs": 156545,
+     "narration_dhivehi": "ވަރުބަލިވެ ހާލުދެރަވެފައިވާ ނޫރިން މަޑުމަޑުން ގޮސް މަގުގެ އަރިމަތީގައި އިށީނދެލިއެވެ. އޭރު ވެސް ވާރޭ ކަނި ޖަހަމުން ދިޔައެވެ.",
+     "narration_english": "Exhausted and wretched, Noorin slowly went and sat down at the side of the road. The rain was still pouring.",
+     "crop": "full",
+     "motion": "pan down",
+     "sfx": [
+      {
+       "name": "footsteps_pavement",
+       "atMs": 151805,
+       "gainDb": -24,
+       "word": "ގޮސް"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_018",
+     "startMs": 156545,
+     "endMs": 166366,
+     "narration_dhivehi": "ލައިގެން ހުރި ހެދުން އެއްކޮށް ތެމި، ޖެހެމުން ދިޔަ ފިނި ވައިރޯޅިތަކުން ހަށިގަނޑު ރޫރޫ އަޅަމުން ދިޔައެވެ. ވިސްނާ ވިސްނާ ބޯ ގޮވާފައިވާ ނޫރިންގެ ދެ ލޯ މަޑުމަޑުން މެރި،",
+     "narration_english": "The clothes she wore were soaked through, and her body shivered in the cold gusts of wind. Her head aching from thinking and thinking, Noorin's eyes slowly closed,",
+     "crop": "tight",
+     "motion": "static drift",
+     "sfx": [
+      {
+       "name": "wind_gust",
+       "atMs": 159805,
+       "gainDb": -20,
+       "word": "ވައިރޯޅިތަކުން"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      13.4,
+      0.0,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Noorin), create a new scene: Cinematic semi-realistic digital illustration with a moody modern crime-drama look, deep navy, teal and charcoal shadows with crimson and electric-blue accents and warm amber practical lights, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, wet pavement, sand, table top, soft shadow) for captions and a logo; present-day night scenes in Malé glisten with rain and reflections, while flashback scenes from twelve years earlier have softer, warmer golden light and a gentle haze.\nScene: young Noorin (about 22) sitting hunched on the edge of the pavement at the empty roadside in the rain, arms wrapped tightly around herself, shivering, her dress and hijab soaked, eyes half closed with exhaustion and grief, closed shutters behind her and puddles reflecting the streetlamps. Location: a busy commercial street in Malé twelve years ago at night, a row of small shops with canvas awnings and roller shutters, wet tarmac reflecting shop lights and streetlamps, parked motorbikes, narrow multi-storey buildings. Camera: medium shot, slightly high angle, faces in the upper two-thirds, a calm uncluttered lower third (wet road surface).\nCharacters: young Noorin: a slim slight Maldivian young woman of about 22 with warm brown skin, a soft oval face, large dark almond-shaped gentle eyes, straight dark eyebrows, a small straight nose and full lips; wears a loose long-sleeved ankle-length dusty-rose cotton dress and a plain cream hijab wrapped snugly and fully covering her hair and neck.\nMood/lighting: twelve years earlier, warm soft golden haze over a stormy night: flashes of lightning, heavy slanting rain lit amber by shop lights and streetlamps, glistening reflections, lonely and desperate.\nModest Maldivian clothing (every woman in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck; men in long-sleeved shirts or suits and long trousers), a clear respectful distance between men and women, nobody touching, culturally respectful, no violence shown, no blood, no wounds, no injuries, no weapons, no guns, no person lying on the ground, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.175,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 43.1,
+    "y_pct": 32.4,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_008",
+   "startMs": 166366,
+   "endMs": 183896,
+   "new_image_reason": "character change: a stranger with an umbrella is beside her (young Uvaish, shown only from behind)",
+   "characters": [],
+   "location": "a busy commercial street in Malé twelve years ago at night, a row of small shops with canvas awnings and roller shutters, wet tarmac reflecting shop lights and streetlamps, parked motorbikes, narrow multi-storey buildings",
+   "location_key": "street",
+   "mood": "twelve years earlier, warm soft golden haze over a stormy night: flashes of lightning, heavy slanting rain lit amber by shop lights and streetlamps, glistening reflections, lonely and desperate",
+   "visual": "the empty rain-wet street late at night: a tall young man seen only from behind as a dark silhouette, in a white long-sleeved shirt and beige trousers, holding a large black umbrella, standing still at the edge of the pavement and looking down towards the kerb, under the warm halo of a single streetlamp, rain falling in silver streaks; his face is not shown and no one else is visible",
+   "camera": "wide shot from behind the man, low angle, his silhouette and the umbrella in the upper two-thirds, the shining wet road as the calm lower third",
+   "image": "images/beat_008.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": "other",
+   "safe_substitution": "her fainting and being lifted in his arms are never shown; only the stranger (young Uvaish) as a silhouette with an umbrella seen from behind, no contact",
+   "ambience": "rain_night",
+   "shots": [
+    {
+     "id": "shot_019",
+     "startMs": 166366,
+     "endMs": 175096,
+     "narration_dhivehi": "މީހާ އަރިއަޅައިގެން ދިޔައެވެ. ނަމަވެސް އޭނާގެ ބޯ ތަޅުންގަނޑުގައި ޖެހުމުގެ ކުރިން، ކައިރީގައި ހުރި މީހެއްގެ ފައިމައްޗަށް ވެއްޓުނެވެ.",
+     "narration_english": "and she fainted. But before her head struck the ground, she fell against the feet of a man standing beside her.",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [
+      {
+       "name": "soft_thud",
+       "atMs": 173926,
+       "gainDb": -22,
+       "word": "ވެއްޓުނެވެ."
+      }
+     ],
+     "hum": true,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_020",
+     "startMs": 175096,
+     "endMs": 183896,
+     "narration_dhivehi": "އެ މީހަކު ހުރީ ހަމަ އެފަދަ ވަގުތަކަށް އިންތިޒާރުކޮށްގެން ހުރި ފަދައެވެ. ވަގުތުން އެ މީހަކު ތިރިވެ، އޭނާގެ ވަރުގަދަ ދެ އަތުން ނޫރިން އުފުއްލައިލިއެވެ.",
+     "narration_english": "It was as if that man had been standing there waiting for just such a moment. At once he bent down and lifted Noorin in his strong arms.",
+     "crop": "tight",
+     "motion": "pan left",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      0.0,
+      8.7,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Cinematic semi-realistic digital illustration with a moody modern crime-drama look, deep navy, teal and charcoal shadows with crimson and electric-blue accents and warm amber practical lights, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, wet pavement, sand, table top, soft shadow) for captions and a logo; present-day night scenes in Malé glisten with rain and reflections, while flashback scenes from twelve years earlier have softer, warmer golden light and a gentle haze.\nScene: the empty rain-wet street late at night: a tall young man seen only from behind as a dark silhouette, in a white long-sleeved shirt and beige trousers, holding a large black umbrella, standing still at the edge of the pavement and looking down towards the kerb, under the warm halo of a single streetlamp, rain falling in silver streaks; his face is not shown and no one else is visible. Location: a busy commercial street in Malé twelve years ago at night, a row of small shops with canvas awnings and roller shutters, wet tarmac reflecting shop lights and streetlamps, parked motorbikes, narrow multi-storey buildings. Camera: wide shot from behind the man, low angle, his silhouette and the umbrella in the upper two-thirds, the shining wet road as the calm lower third.\nMood/lighting: twelve years earlier, warm soft golden haze over a stormy night: flashes of lightning, heavy slanting rain lit amber by shop lights and streetlamps, glistening reflections, lonely and desperate.\nModest Maldivian clothing (every woman in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck; men in long-sleeved shirts or suits and long trousers), a clear respectful distance between men and women, nobody touching, culturally respectful, no violence shown, no blood, no wounds, no injuries, no weapons, no guns, no person lying on the ground, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.148,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 11.8,
+    "y_pct": 43.9,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_009",
+   "startMs": 183896,
+   "endMs": 215528,
+   "new_image_reason": "time and scene change: she wakes in an unknown luxurious room in clean clothes",
+   "characters": [
+    "noorin_young"
+   ],
+   "location": "a luxurious modern bedroom twelve years ago, cream and soft-gold decor, a wide neatly made bed with crisp white linen, sheer curtains, a tall wooden wardrobe, a sleek modern writing desk with a lamp and a notebook",
+   "location_key": "luxury_room",
+   "mood": "twelve years earlier, warm soft golden haze, soft morning light through sheer curtains, a calm luxurious stillness contrasting with her confusion and fear",
+   "visual": "young Noorin (about 22) sitting bolt upright on the edge of the wide neatly made bed, feet on the floor, startled and frightened, eyes wide, one hand at her chest, looking around the strange elegant room; she is fully dressed in a clean dry dusty-rose long-sleeved ankle-length dress and a cream hijab fully covering her hair and neck",
+   "camera": "medium wide shot, eye level, faces in the upper two-thirds, a calm uncluttered lower third (soft cream carpet)",
+   "image": "images/beat_009.png",
+   "reuse_of": null,
+   "transition_in": "black",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "room_day",
+   "shots": [
+    {
+     "id": "shot_021",
+     "startMs": 183896,
+     "endMs": 191257,
+     "narration_dhivehi": "ނޫރިނަށް ހޭލެވުނުއިރު އޮވެވުނީ މުޅިން ބީރައްޓެހި މާހައުލެއްގައެވެ. ނޭފަތުގައި ޖެހެމުން ދިޔައީ ހިތްގައިމު މީރުވަހެކެވެ.",
+     "narration_english": "When Noorin came to, she found herself in a completely unfamiliar place. A pleasant fragrance filled her nose.",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [
+      {
+       "name": "breath",
+       "atMs": 184766,
+       "gainDb": -22,
+       "word": "ހޭލެވުނުއިރު"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_022",
+     "startMs": 191257,
+     "endMs": 198377,
+     "narration_dhivehi": "ސިހިފައި އެނދުން ތެދުވި ވަގުތު، އޭނާގެ ގައިގައި އޮތީ ބަދަލުކޮށްފައިވާ ސާފު ހެދުމެއްކަން ފާހަގަކުރެވުނެވެ.",
+     "narration_english": "When she sat up from the bed with a start, she noticed she was wearing clean, changed clothes.",
+     "crop": "tight",
+     "motion": "pan right",
+     "sfx": [
+      {
+       "name": "gasp",
+       "atMs": 191447,
+       "gainDb": -20,
+       "word": "ސިހިފައި"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      13.7,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_023",
+     "startMs": 198377,
+     "endMs": 208317,
+     "narration_dhivehi": "ނާމާން ބިރުވެރިކަމަކާއެކު ވަށައިގެން ހޯދައިލިއިރު އެއްވެސް މީހެއްގެ ހިލަމެއް ނެތެވެ. އެއީ ނުހަނު ފުރިހަމައަށް، ޒަމާނީ ފެންވަރަށް ޒީނަތްތެރިކޮށްފައިވާ ކޮޓަރިއެކެވެ.",
+     "narration_english": "Looking around with an unknown fear, there was no trace of anyone. It was a room decorated to perfection, in a modern style.",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_024",
+     "startMs": 208317,
+     "endMs": 215528,
+     "narration_dhivehi": "ތެދުވަން އުޅުމުން ބޮލަށް ކުޑަކޮށް އެނބުރުން އެރި ނަމަވެސް، ރޭގައި ހިނގައިދިޔަ އެއްވެސް ކަމެއް ހަނދާނަކަށް ނައެވެ.",
+     "narration_english": "As she tried to get up her head spun a little, but she could not remember anything that had happened in the night.",
+     "crop": "medium",
+     "motion": "pan up",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.7,
+      0.0,
+      71.5,
+      84.7
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Noorin), create a new scene: Cinematic semi-realistic digital illustration with a moody modern crime-drama look, deep navy, teal and charcoal shadows with crimson and electric-blue accents and warm amber practical lights, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, wet pavement, sand, table top, soft shadow) for captions and a logo; present-day night scenes in Malé glisten with rain and reflections, while flashback scenes from twelve years earlier have softer, warmer golden light and a gentle haze.\nScene: young Noorin (about 22) sitting bolt upright on the edge of the wide neatly made bed, feet on the floor, startled and frightened, eyes wide, one hand at her chest, looking around the strange elegant room; she is fully dressed in a clean dry dusty-rose long-sleeved ankle-length dress and a cream hijab fully covering her hair and neck. Location: a luxurious modern bedroom twelve years ago, cream and soft-gold decor, a wide neatly made bed with crisp white linen, sheer curtains, a tall wooden wardrobe, a sleek modern writing desk with a lamp and a notebook. Camera: medium wide shot, eye level, faces in the upper two-thirds, a calm uncluttered lower third (soft cream carpet).\nCharacters: young Noorin: a slim slight Maldivian young woman of about 22 with warm brown skin, a soft oval face, large dark almond-shaped gentle eyes, straight dark eyebrows, a small straight nose and full lips; wears a loose long-sleeved ankle-length dusty-rose cotton dress and a plain cream hijab wrapped snugly and fully covering her hair and neck.\nMood/lighting: twelve years earlier, warm soft golden haze, soft morning light through sheer curtains, a calm luxurious stillness contrasting with her confusion and fear.\nModest Maldivian clothing (every woman in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck; men in long-sleeved shirts or suits and long trousers), a clear respectful distance between men and women, nobody touching, culturally respectful, no violence shown, no blood, no wounds, no injuries, no weapons, no guns, no person lying on the ground, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.421,
+    "halo": true
+   },
+   "focus": {
+    "x_pct": 43.5,
+    "y_pct": 18.7,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_010",
+   "startMs": 215528,
+   "endMs": 252479,
+   "new_image_reason": "action change: she finds her bag by the wardrobe, writes a short note and hurries out",
+   "characters": [
+    "noorin_young"
+   ],
+   "location": "a luxurious modern bedroom twelve years ago, cream and soft-gold decor, a wide neatly made bed with crisp white linen, sheer curtains, a tall wooden wardrobe, a sleek modern writing desk with a lamp and a notebook",
+   "location_key": "luxury_room",
+   "mood": "twelve years earlier, warm soft golden haze, soft morning light through sheer curtains, a calm luxurious stillness contrasting with her confusion and fear",
+   "visual": "young Noorin (about 22) bending over the sleek writing desk, quickly writing a short note in an open notebook with a pen, her small cloth bag already over her shoulder, glancing anxiously towards the door; the tall wardrobe behind her; the notebook page shows only faint blurred lines",
+   "camera": "medium shot, eye level, faces in the upper two-thirds, a calm uncluttered lower third (desk top in soft light)",
+   "image": "images/beat_010.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "room_day",
+   "shots": [
+    {
+     "id": "shot_025",
+     "startMs": 215528,
+     "endMs": 223448,
+     "narration_dhivehi": "އެނދުގެ އަރިމަތީގައި ހުރި އަލަމާރި ކައިރީގައި އޭނާގެ ދަބަސް ހުރިތަން ފެނުމުން، ހިތްވަރުކޮށްފައި ގޮސް ދަބަސް ހުޅުވައި ބަލައިލިއެވެ.",
+     "narration_english": "When she saw her bag beside the wardrobe next to the bed, she gathered her courage, went over, opened the bag and looked inside.",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [
+      {
+       "name": "cloth_rustle",
+       "atMs": 222208,
+       "gainDb": -22,
+       "word": "ހުޅުވައި"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_026",
+     "startMs": 223448,
+     "endMs": 233368,
+     "narration_dhivehi": "އޭގައިވާ ހުރިހާ އެއްޗެއް ހަމައަށް ހުއްޓެވެ. ސުވާލުތަކުން ސިކުނޑި ފުރިފައިވާ ހާލު، ނޫރިން އަނެއްކާ ވެސް އެ ކޮޓަރީގެ ވަށައިގެން ބަލައިލިއެވެ. \"މިއީ ކޮން ގެއެއް ހެއްޔެވެ؟",
+     "narration_english": "Everything in it was as it had been. Her mind full of questions, Noorin looked around the room once again. \"Whose house is this?",
+     "crop": "tight",
+     "motion": "pan down",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      22.0,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_027",
+     "startMs": 233368,
+     "endMs": 241769,
+     "narration_dhivehi": "އަހަންނަށް މި ތަނަށް އާދެވުނީ ކިހިނެއް ބާ؟\" ނޫރިންގެ ހިތުގައި ސުވާލުތައް ފުނިޖެހުނެވެ. ނަމަވެސް، މާ ގިނައިރު ވިސްނަން ނުހުރެ،",
+     "narration_english": "How did I come to be here?\" The questions piled up in Noorin's heart. But without thinking for long,",
+     "crop": "full",
+     "motion": "static drift",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_028",
+     "startMs": 241769,
+     "endMs": 252479,
+     "narration_dhivehi": "މޭޒުމަތީގައި އޮތް ނޯޓުފޮތުގައި ކުރު ލިޔުމެއް ލިޔެލުމަށް ފަހު، ވަގުތު ބޭކާރު ނުކޮށް އޭނާގެ ދަބަސް ހިފައިގެން އަވަސް އަވަހަށް އެ ތަނުން ނުކުމެގެން ހިނގައްޖެއެވެ.",
+     "narration_english": "after writing a short note in the notebook lying on the desk, she wasted no time: she took her bag and hurried out of that place.",
+     "crop": "medium",
+     "motion": "slow push-in",
+     "sfx": [
+      {
+       "name": "pen_scribble",
+       "atMs": 244809,
+       "gainDb": -20,
+       "word": "ލިޔެލުމަށް"
+      },
+      {
+       "name": "door_close",
+       "atMs": 250789,
+       "gainDb": -22,
+       "word": "ނުކުމެގެން"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      15.9,
+      0.0,
+      71.5,
+      84.7
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Noorin), create a new scene: Cinematic semi-realistic digital illustration with a moody modern crime-drama look, deep navy, teal and charcoal shadows with crimson and electric-blue accents and warm amber practical lights, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, wet pavement, sand, table top, soft shadow) for captions and a logo; present-day night scenes in Malé glisten with rain and reflections, while flashback scenes from twelve years earlier have softer, warmer golden light and a gentle haze.\nScene: young Noorin (about 22) bending over the sleek writing desk, quickly writing a short note in an open notebook with a pen, her small cloth bag already over her shoulder, glancing anxiously towards the door; the tall wardrobe behind her; the notebook page shows only faint blurred lines. Location: a luxurious modern bedroom twelve years ago, cream and soft-gold decor, a wide neatly made bed with crisp white linen, sheer curtains, a tall wooden wardrobe, a sleek modern writing desk with a lamp and a notebook. Camera: medium shot, eye level, faces in the upper two-thirds, a calm uncluttered lower third (desk top in soft light).\nCharacters: young Noorin: a slim slight Maldivian young woman of about 22 with warm brown skin, a soft oval face, large dark almond-shaped gentle eyes, straight dark eyebrows, a small straight nose and full lips; wears a loose long-sleeved ankle-length dusty-rose cotton dress and a plain cream hijab wrapped snugly and fully covering her hair and neck.\nMood/lighting: twelve years earlier, warm soft golden haze, soft morning light through sheer curtains, a calm luxurious stillness contrasting with her confusion and fear.\nModest Maldivian clothing (every woman in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck; men in long-sleeved shirts or suits and long trousers), a clear respectful distance between men and women, nobody touching, culturally respectful, no violence shown, no blood, no wounds, no injuries, no weapons, no guns, no person lying on the ground, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.222,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 51.7,
+    "y_pct": 27.2,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_011",
+   "startMs": 252479,
+   "endMs": 282750,
+   "new_image_reason": "time jump to the present: Inspector Noorin comes home, puts her cap down and looks at her stars in the mirror",
+   "characters": [
+    "noorin"
+   ],
+   "location": "Noorin's tidy modern apartment in Malé today at night, a small dining table, a writing desk with a laptop, a tall wall mirror, grey-blue walls, a window with rain and city lights",
+   "location_key": "apartment",
+   "mood": "present day, night, cool navy and teal tones, warm amber desk lamp, the cold glow of a laptop screen, rain on the window, quiet and private",
+   "visual": "Noorin in her dark-navy police uniform, her black beret just taken off and placed neatly on the table beside her, her black hijab still fully covering her hair and neck: she stands before the tall wall mirror in her apartment, fingertips touching the two small silver stars on her shoulder epaulette, a quiet proud look; seen from behind her shoulder with her reflection in the mirror",
+   "camera": "medium shot over her shoulder, eye level, faces in the upper two-thirds, a calm uncluttered lower third (table top with the beret)",
+   "image": "images/beat_011.png",
+   "reuse_of": null,
+   "transition_in": "dissolve",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "home_night",
+   "shots": [
+    {
+     "id": "shot_029",
+     "startMs": 252479,
+     "endMs": 261109,
+     "narration_dhivehi": "12 އަހަރު ފަސް ކޮޓަރީގެ ދޮރު ހުޅުވާލުމަށް ފަހު ނޫރިން އެތެރެއަށް ވަނެވެ. ލައިގެން ހުރި ފުލުހުންގެ ޔުނީފޯމު ބަދަލުކުރުމުގެ ކުރިން،",
+     "narration_english": "Twelve years later. Opening the door of the room, Noorin stepped inside. Before changing out of the police uniform she was wearing,",
+     "crop": "full",
+     "motion": "pan left",
+     "sfx": [
+      {
+       "name": "door_open",
+       "atMs": 254889,
+       "gainDb": -20,
+       "word": "ހުޅުވާލުމަށް"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_030",
+     "startMs": 261109,
+     "endMs": 271190,
+     "narration_dhivehi": "ބޮލުގައި އަޅައިގެން ހުރި ތޮފި ނަގައި މޭޒުމަތީގައި ރީތިކޮށް ބޭއްވިއެވެ. އެއަށް ފަހު ލޯގަނޑުގެ ކުރިމަތީގައި ހުއްޓިލަމުން، އޭނާގެ ޔުނީފޯމަށް ނަޒަރު ހިންގައިލިއެވެ.",
+     "narration_english": "she took off the cap on her head and placed it neatly on the table. Then, stopping in front of the mirror, she ran her eyes over her uniform.",
+     "crop": "tight",
+     "motion": "slow pull-out",
+     "sfx": [
+      {
+       "name": "cloth_rustle",
+       "atMs": 262909,
+       "gainDb": -24,
+       "word": "ނަގައި"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      34.6,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_031",
+     "startMs": 271190,
+     "endMs": 282750,
+     "narration_dhivehi": "އަދި ކޮނޑުގައި ވިދަމުން ދިޔަ ދެ ތަރީގައި ފިރުމައިލިއެވެ. މިއަދު އޭނާއަށް ލިބުނު ޕްރޮމޯޝަނަކީ، ވޭތުވެދިޔަ ދުވަސްތަކުގައި ދެއްކި ކެތްތެރިކަމާއި ކުރި ބުރަ މަސައްކަތުގެ ފޮނި ނަތީޖާއެވެ.",
+     "narration_english": "And she touched the two stars shining on her shoulder. The promotion she received today was the sweet result of the patience and hard work of the past days.",
+     "crop": "full",
+     "motion": "pan right",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Noorin), create a new scene: Cinematic semi-realistic digital illustration with a moody modern crime-drama look, deep navy, teal and charcoal shadows with crimson and electric-blue accents and warm amber practical lights, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, wet pavement, sand, table top, soft shadow) for captions and a logo; present-day night scenes in Malé glisten with rain and reflections, while flashback scenes from twelve years earlier have softer, warmer golden light and a gentle haze.\nScene: Noorin in her dark-navy police uniform, her black beret just taken off and placed neatly on the table beside her, her black hijab still fully covering her hair and neck: she stands before the tall wall mirror in her apartment, fingertips touching the two small silver stars on her shoulder epaulette, a quiet proud look; seen from behind her shoulder with her reflection in the mirror. Location: Noorin's tidy modern apartment in Malé today at night, a small dining table, a writing desk with a laptop, a tall wall mirror, grey-blue walls, a window with rain and city lights. Camera: medium shot over her shoulder, eye level, faces in the upper two-thirds, a calm uncluttered lower third (table top with the beret).\nCharacters: Noorin: a slim upright Maldivian woman of about 34 with warm brown skin, an oval face, large dark almond-shaped eyes, straight dark eyebrows, a small straight nose, full lips and a composed serious expression; wears a dark-navy long-sleeved police uniform shirt buttoned to the collar with shoulder epaulettes each bearing two small silver stars, dark-navy uniform trousers, a black belt and polished black boots, a black hijab wrapped snugly and fully covering her hair and neck, and a black beret worn over the hijab.\nMood/lighting: present day, night, cool navy and teal tones, warm amber desk lamp, the cold glow of a laptop screen, rain on the window, quiet and private.\nModest Maldivian clothing (every woman in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck; men in long-sleeved shirts or suits and long trousers), a clear respectful distance between men and women, nobody touching, culturally respectful, no violence shown, no blood, no wounds, no injuries, no weapons, no guns, no person lying on the ground, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.091,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 64.4,
+    "y_pct": 25.8,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_012",
+   "startMs": 282750,
+   "endMs": 298871,
+   "new_image_reason": "action change: freshened up, she opens her laptop and reads her e-mails; her face changes",
+   "characters": [
+    "noorin"
+   ],
+   "location": "Noorin's tidy modern apartment in Malé today at night, a small dining table, a writing desk with a laptop, a tall wall mirror, grey-blue walls, a window with rain and city lights",
+   "location_key": "apartment",
+   "mood": "present day, night, cool navy and teal tones, warm amber desk lamp, the cold glow of a laptop screen, rain on the window, quiet and private",
+   "visual": "Noorin, not in uniform: wearing a loose deep-plum long abaya-style dress and a black hijab fully covering her hair and neck, no cap, sitting at the writing desk, the open laptop angled away from the viewer so its screen is not visible, its cold glow on her face, her expression suddenly changing to tense surprise",
+   "camera": "medium shot, eye level, faces in the upper two-thirds, a calm uncluttered lower third (desk top)",
+   "image": "images/beat_012.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "home_night",
+   "shots": [
+    {
+     "id": "shot_032",
+     "startMs": 282750,
+     "endMs": 290550,
+     "narration_dhivehi": "އިންސްޕެކްޓަރެއްގެ މަގާމު ލިބުމުން، މިއަދު އޭނާ އަމިއްލަ ނަފުސާ މެދު ނުހަނު ފަޚުރުވެރިވެއެވެ. ފެންވަރައި ތާޒާވެލައިގެން ނުކުމެ،",
+     "narration_english": "Having been made an Inspector, today she felt truly proud of herself. After a shower she came out refreshed,",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_033",
+     "startMs": 290550,
+     "endMs": 298871,
+     "narration_dhivehi": "ލެޕްޓޮޕް ހުޅުވާލުމަށްފަހު އައިސްފައިވާ އީމެއިލްތައް ބަލަން ފެށިއެވެ. ކުއްލިއަކަށް ނޫރިންގެ މޫނުމަތީގެ ކުލަވަރު ބަދަލުވެގެން ދިޔައެވެ.",
+     "narration_english": "opened her laptop and began to look through the e-mails that had arrived. Suddenly the colour of Noorin's face changed.",
+     "crop": "tight",
+     "motion": "pan up",
+     "sfx": [
+      {
+       "name": "keyboard_typing",
+       "atMs": 290930,
+       "gainDb": -22,
+       "word": "ލެޕްޓޮޕް"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      27.2,
+      0.0,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Noorin), create a new scene: Cinematic semi-realistic digital illustration with a moody modern crime-drama look, deep navy, teal and charcoal shadows with crimson and electric-blue accents and warm amber practical lights, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, wet pavement, sand, table top, soft shadow) for captions and a logo; present-day night scenes in Malé glisten with rain and reflections, while flashback scenes from twelve years earlier have softer, warmer golden light and a gentle haze.\nScene: Noorin, not in uniform: wearing a loose deep-plum long abaya-style dress and a black hijab fully covering her hair and neck, no cap, sitting at the writing desk, the open laptop angled away from the viewer so its screen is not visible, its cold glow on her face, her expression suddenly changing to tense surprise. Location: Noorin's tidy modern apartment in Malé today at night, a small dining table, a writing desk with a laptop, a tall wall mirror, grey-blue walls, a window with rain and city lights. Camera: medium shot, eye level, faces in the upper two-thirds, a calm uncluttered lower third (desk top).\nCharacters: Noorin: a slim upright Maldivian woman of about 34 with warm brown skin, an oval face, large dark almond-shaped eyes, straight dark eyebrows, a small straight nose, full lips and a composed serious expression; wears a dark-navy long-sleeved police uniform shirt buttoned to the collar with shoulder epaulettes each bearing two small silver stars, dark-navy uniform trousers, a black belt and polished black boots, a black hijab wrapped snugly and fully covering her hair and neck, and a black beret worn over the hijab.\nMood/lighting: present day, night, cool navy and teal tones, warm amber desk lamp, the cold glow of a laptop screen, rain on the window, quiet and private.\nModest Maldivian clothing (every woman in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck; men in long-sleeved shirts or suits and long trousers), a clear respectful distance between men and women, nobody touching, culturally respectful, no violence shown, no blood, no wounds, no injuries, no weapons, no guns, no person lying on the ground, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.09,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 56.9,
+    "y_pct": 29.3,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_013",
+   "startMs": 298871,
+   "endMs": 330672,
+   "new_image_reason": "action change: she phones Zee about PictureLand and her pen name WhiteLily",
+   "characters": [
+    "noorin"
+   ],
+   "location": "Noorin's tidy modern apartment in Malé today at night, a small dining table, a writing desk with a laptop, a tall wall mirror, grey-blue walls, a window with rain and city lights",
+   "location_key": "apartment",
+   "mood": "present day, night, cool navy and teal tones, warm amber desk lamp, the cold glow of a laptop screen, rain on the window, quiet and private",
+   "visual": "Noorin, not in uniform: wearing a loose deep-plum long abaya-style dress and a black hijab fully covering her hair and neck, no cap, sitting at the desk holding a phone to her ear, speaking firmly with an irritated frown, her other hand raised palm-up in exasperation, the laptop beside her angled away from the viewer",
+   "camera": "medium close-up, eye level, faces in the upper two-thirds, a calm uncluttered lower third (desk top)",
+   "image": "images/beat_013.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "home_night",
+   "shots": [
+    {
+     "id": "shot_034",
+     "startMs": 298871,
+     "endMs": 306401,
+     "narration_dhivehi": "އަވަސް އަވަހަށް މޭޒުމަތީގައި އޮތް ފޯނު ނަގައި ނަންބަރަކަށް ގުޅައިލިއެވެ. \"ހަލޯ! އަނެއްކާ ވެސް ޕިކްޗަލޭންޑުން މެއިލް ކޮށްފި.",
+     "narration_english": "Quickly she picked up the phone lying on the desk and dialled a number. \"Hello! PictureLand has mailed again.",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_035",
+     "startMs": 306401,
+     "endMs": 314751,
+     "narration_dhivehi": "އަހަރެން މިހާރު ވާނީ ސާފުކޮށް ބުނެފައި އަހަރެންގެ އަސްލު ނަމެއް ނުދެވޭނޭ. 'ވައިޓްލިލީ'ގެ ނަމުގައި އޮތުމުން ޖެހޭ މައްސަލައަކީ ކޮބާތަ؟",
+     "narration_english": "I've already told them clearly that I can't give my real name. What is the problem with it being under the name 'WhiteLily'?",
+     "crop": "tight",
+     "motion": "pan down",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      9.8,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_036",
+     "startMs": 314751,
+     "endMs": 323582,
+     "narration_dhivehi": "އަހަރެން ސްކްރިޕްޓް ލިޔަނީ ވައިޓްލިލީގެ ނަމުގައި، އެ ނަން ބަދަލެއް ނުކުރެވޭނެ. އެ މީހުން ސްކްރިޕްޓް ގަންނަން ބޭނުމިއްޔާ ގަންނަންވީ،",
+     "narration_english": "I write scripts under the name WhiteLily, and that name can't be changed. If they want to buy the script they should buy it,",
+     "crop": "full",
+     "motion": "static drift",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_037",
+     "startMs": 323582,
+     "endMs": 330672,
+     "narration_dhivehi": "ބޭނުން ނޫނިއްޔާ ދޫކޮށްލާ. އަހަންނަކަށް އެއްވެސް މައްސަލައެއް ނެތް.\" ނޫރިން ހިތްހަމަނުޖެހިފައި ހުރެ ބުންޏެވެ.",
+     "narration_english": "if not, let it go. I have no problem at all.\" Noorin said, unsettled.",
+     "crop": "medium",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      3.8,
+      0.0,
+      71.5,
+      84.7
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Noorin), create a new scene: Cinematic semi-realistic digital illustration with a moody modern crime-drama look, deep navy, teal and charcoal shadows with crimson and electric-blue accents and warm amber practical lights, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, wet pavement, sand, table top, soft shadow) for captions and a logo; present-day night scenes in Malé glisten with rain and reflections, while flashback scenes from twelve years earlier have softer, warmer golden light and a gentle haze.\nScene: Noorin, not in uniform: wearing a loose deep-plum long abaya-style dress and a black hijab fully covering her hair and neck, no cap, sitting at the desk holding a phone to her ear, speaking firmly with an irritated frown, her other hand raised palm-up in exasperation, the laptop beside her angled away from the viewer. Location: Noorin's tidy modern apartment in Malé today at night, a small dining table, a writing desk with a laptop, a tall wall mirror, grey-blue walls, a window with rain and city lights. Camera: medium close-up, eye level, faces in the upper two-thirds, a calm uncluttered lower third (desk top).\nCharacters: Noorin: a slim upright Maldivian woman of about 34 with warm brown skin, an oval face, large dark almond-shaped eyes, straight dark eyebrows, a small straight nose, full lips and a composed serious expression; wears a dark-navy long-sleeved police uniform shirt buttoned to the collar with shoulder epaulettes each bearing two small silver stars, dark-navy uniform trousers, a black belt and polished black boots, a black hijab wrapped snugly and fully covering her hair and neck, and a black beret worn over the hijab.\nMood/lighting: present day, night, cool navy and teal tones, warm amber desk lamp, the cold glow of a laptop screen, rain on the window, quiet and private.\nModest Maldivian clothing (every woman in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck; men in long-sleeved shirts or suits and long trousers), a clear respectful distance between men and women, nobody touching, culturally respectful, no violence shown, no blood, no wounds, no injuries, no weapons, no guns, no person lying on the ground, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.147,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 39.6,
+    "y_pct": 28.9,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_014",
+   "startMs": 330672,
+   "endMs": 337962,
+   "new_image_reason": "character change: Zee on the other end of the line",
+   "characters": [
+    "zee"
+   ],
+   "location": "Zee's small cosy home office in Malé at night, shelves of bound scripts, a desk lamp, film posters with blank unreadable surfaces on the wall",
+   "location_key": "zee_office",
+   "mood": "present day, night, warm amber desk lamp, cosy and earnest",
+   "visual": "Zee sitting at her desk holding a phone to her ear, leaning forward with an earnest, coaxing expression, a stack of bound script pages with blank covers on the desk in front of her",
+   "camera": "medium shot, eye level, faces in the upper two-thirds, a calm uncluttered lower third (desk top)",
+   "image": "images/beat_014.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "office_night",
+   "shots": [
+    {
+     "id": "shot_038",
+     "startMs": 330672,
+     "endMs": 337962,
+     "narration_dhivehi": "\"އެ މީހުން ބޭނުންވަނީ ފިލްމު ފެސްޓިވަލުގައި 'ރިހުން' ފިލްމު ބައިވެރިކުރަން.\" ފޯނުގެ އަނެއްކޮޅުން އިވުނެވެ. \"ޒީ!",
+     "narration_english": "\"They want to enter the film 'Rihun' in the film festival,\" came the voice from the other end of the phone. \"Zee!",
+     "crop": "full",
+     "motion": "pan left",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Zee), create a new scene: Cinematic semi-realistic digital illustration with a moody modern crime-drama look, deep navy, teal and charcoal shadows with crimson and electric-blue accents and warm amber practical lights, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, wet pavement, sand, table top, soft shadow) for captions and a logo; present-day night scenes in Malé glisten with rain and reflections, while flashback scenes from twelve years earlier have softer, warmer golden light and a gentle haze.\nScene: Zee sitting at her desk holding a phone to her ear, leaning forward with an earnest, coaxing expression, a stack of bound script pages with blank covers on the desk in front of her. Location: Zee's small cosy home office in Malé at night, shelves of bound scripts, a desk lamp, film posters with blank unreadable surfaces on the wall. Camera: medium shot, eye level, faces in the upper two-thirds, a calm uncluttered lower third (desk top).\nCharacters: Zee: a Maldivian woman of about 35 with warm brown skin, medium build, a round cheerful face and bright dark eyes behind red-framed glasses; wears a loose long-sleeved ankle-length olive-green dress with a long open cardigan and a mustard-yellow hijab fully covering her hair and neck.\nMood/lighting: present day, night, warm amber desk lamp, cosy and earnest.\nModest Maldivian clothing (every woman in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck; men in long-sleeved shirts or suits and long trousers), a clear respectful distance between men and women, nobody touching, culturally respectful, no violence shown, no blood, no wounds, no injuries, no weapons, no guns, no person lying on the ground, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.146,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 49.2,
+    "y_pct": 34.0,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_015",
+   "startMs": 337962,
+   "endMs": 347382,
+   "new_image_reason": "back to Noorin on the phone",
+   "characters": [
+    "noorin"
+   ],
+   "location": "Noorin's tidy modern apartment in Malé today at night, a small dining table, a writing desk with a laptop, a tall wall mirror, grey-blue walls, a window with rain and city lights",
+   "location_key": "apartment",
+   "mood": "present day, night, cool navy and teal tones, warm amber desk lamp, the cold glow of a laptop screen, rain on the window, quiet and private",
+   "visual": "reuse of beat_013",
+   "camera": "medium shot, eye level",
+   "image": "images/beat_013.png",
+   "reuse_of": "beat_013",
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "home_night",
+   "shots": [
+    {
+     "id": "shot_039",
+     "startMs": 337962,
+     "endMs": 347382,
+     "narration_dhivehi": "އަހަންނަކަށް ދެން މިކަމާ މާ ގިނަ ވާހަކައެއް ނުދެއްކޭނެ. އެ މީހުން ކައިރީ ބުނޭ 'ވައިޓްލިލީ' ގެ ނަމުގައި ފެސްޓިވަލުގައި ބައިވެރިކުރަންޏާ ކުރާށޭ.",
+     "narration_english": "I can't talk much more about this. Tell them that if they want to enter it in the festival, they can do it under the name 'WhiteLily'.",
+     "crop": "medium",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      3.8,
+      0.0,
+      71.5,
+      84.7
+     ]
+    }
+   ],
+   "prompt_attempts": [],
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.135,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 39.6,
+    "y_pct": 28.9,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_016",
+   "startMs": 347382,
+   "endMs": 366323,
+   "new_image_reason": "emotional turning point: she sees Uvaish's name in the business news and shuts the laptop",
+   "characters": [
+    "noorin"
+   ],
+   "location": "Noorin's tidy modern apartment in Malé today at night, a small dining table, a writing desk with a laptop, a tall wall mirror, grey-blue walls, a window with rain and city lights",
+   "location_key": "apartment",
+   "mood": "present day, night, cool navy and teal tones, warm amber desk lamp, the cold glow of a laptop screen, rain on the window, quiet and private",
+   "visual": "close-up of Noorin, not in uniform: wearing a loose deep-plum long abaya-style dress and a black hijab fully covering her hair and neck, no cap, pressing the laptop lid shut with her palm, her face hardened and cold, jaw tight, eyes burning with old pain, the last glow of the screen fading; the screen itself is not visible",
+   "camera": "close-up, eye level, faces in the upper two-thirds, a calm uncluttered lower third (the closed laptop on the desk)",
+   "image": "images/beat_016.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "home_night",
+   "shots": [
+    {
+     "id": "shot_040",
+     "startMs": 347382,
+     "endMs": 357813,
+     "narration_dhivehi": "އިތުރަށް ބަހުސްކުރާކަށް އަހަރެން ބޭނުމެއް ނޫން.\" މިހެން ބުނެ ނޫރިން ފޯނު ކަނޑައިލިއެވެ. އަދި ދުވަހުގެ ޚަބަރުތައް ބަލަން ފެށިއެވެ. ވިޔަފާރިވެރިންގެ ޚަބަރުތަކުގެ ތެރެއިން،",
+     "narration_english": "I don't want to argue any more.\" Saying this, Noorin hung up. Then she began to look at the day's news. Among the business news,",
+     "crop": "full",
+     "motion": "pan right",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_041",
+     "startMs": 357813,
+     "endMs": 366323,
+     "narration_dhivehi": "ފާހަގަކޮށްލެވޭ ބޮޑު އަކުރުން ފަވައިލެވިފައިވާ \"އުވައިޝް\"ގެ ނަން ފެނުމާއެކު، ނޫރިންގެ މޫނުމަތީގެ އަސަރުތައް އެއްކޮށް ބަދަލުވެގެން ދިޔައެވެ.",
+     "narration_english": "on seeing the name \"Uvaish\" printed in big bold letters, every expression on Noorin's face changed.",
+     "crop": "tight",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": true,
+     "crop_rect_pct": [
+      25.0,
+      0.0,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Noorin), create a new scene: Cinematic semi-realistic digital illustration with a moody modern crime-drama look, deep navy, teal and charcoal shadows with crimson and electric-blue accents and warm amber practical lights, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, wet pavement, sand, table top, soft shadow) for captions and a logo; present-day night scenes in Malé glisten with rain and reflections, while flashback scenes from twelve years earlier have softer, warmer golden light and a gentle haze.\nScene: close-up of Noorin, not in uniform: wearing a loose deep-plum long abaya-style dress and a black hijab fully covering her hair and neck, no cap, pressing the laptop lid shut with her palm, her face hardened and cold, jaw tight, eyes burning with old pain, the last glow of the screen fading; the screen itself is not visible. Location: Noorin's tidy modern apartment in Malé today at night, a small dining table, a writing desk with a laptop, a tall wall mirror, grey-blue walls, a window with rain and city lights. Camera: close-up, eye level, faces in the upper two-thirds, a calm uncluttered lower third (the closed laptop on the desk).\nCharacters: Noorin: a slim upright Maldivian woman of about 34 with warm brown skin, an oval face, large dark almond-shaped eyes, straight dark eyebrows, a small straight nose, full lips and a composed serious expression; wears a dark-navy long-sleeved police uniform shirt buttoned to the collar with shoulder epaulettes each bearing two small silver stars, dark-navy uniform trousers, a black belt and polished black boots, a black hijab wrapped snugly and fully covering her hair and neck, and a black beret worn over the hijab.\nMood/lighting: present day, night, cool navy and teal tones, warm amber desk lamp, the cold glow of a laptop screen, rain on the window, quiet and private.\nModest Maldivian clothing (every woman in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck; men in long-sleeved shirts or suits and long trousers), a clear respectful distance between men and women, nobody touching, culturally respectful, no violence shown, no blood, no wounds, no injuries, no weapons, no guns, no person lying on the ground, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.058,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 54.7,
+    "y_pct": 31.4,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_017",
+   "startMs": 366323,
+   "endMs": 391824,
+   "new_image_reason": "scene change: a case — a girl rushed to hospital (shown only as the ambulance outside)",
+   "characters": [],
+   "location": "the outside of a small two-storey house on a narrow Malé street at night, rain-wet road, an ambulance parked at the door",
+   "location_key": "case_house",
+   "mood": "present day, night, flashing red and blue emergency lights on wet tarmac, urgent and grave",
+   "visual": "an ambulance with flashing red and blue lights parked outside the small house at night, its rear doors open, two paramedics in uniform seen from behind hurrying in through the lit front door, a few neighbours watching from across the wet street; nobody else visible",
+   "camera": "wide shot from across the street, eye level, the house and ambulance in the upper two-thirds, the wet reflective road as the calm lower third",
+   "image": "images/beat_017.png",
+   "reuse_of": null,
+   "transition_in": "black",
+   "sensitive": "violence",
+   "safe_substitution": "the girl, her wrist, any blood or cloth are never shown; only the ambulance lights and paramedics' backs at the door, seen from far",
+   "ambience": "night_exterior",
+   "shots": [
+    {
+     "id": "shot_042",
+     "startMs": 366323,
+     "endMs": 376314,
+     "narration_dhivehi": "އަދި ހިތްނުތަނަވަސްކަމާ އެކު ވަގުތުން ލެޕްޓޮޕް ލައްޕައިލިއެވެ. އެނދުގެ އެއްފަރާތުގައި އަންހެން ކުއްޖަކު ވެއްޓިފައި އޮތެވެ. އަތުގެ މައިނާރު ބުރިވުމުގެ ސަބަބުން،",
+     "narration_english": "Disturbed, she shut the laptop at once. A girl lay fallen beside a bed. Because a vein in her wrist had been cut,",
+     "crop": "full",
+     "motion": "pan up",
+     "sfx": [
+      {
+       "name": "soft_thud",
+       "atMs": 369013,
+       "gainDb": -18,
+       "word": "ލައްޕައިލިއެވެ."
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_043",
+     "startMs": 376314,
+     "endMs": 384444,
+     "narration_dhivehi": "އެ ކުއްޖާ އޮތް ދިމާލުން ތަޅުންގަނޑުމަތީގައި ލޭގެ ކޯރެއް ހެދެމުން ދިޔައެވެ. މީހުން ދިޔައީ އެ ކުއްޖާގެ އަތުގައި ފޮތިގަނޑެއް ބަނދެ،",
+     "narration_english": "a pool of blood was forming on the floor where she lay. People were tying a cloth around the girl's arm,",
+     "crop": "tight",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      20.3,
+      4.8,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_044",
+     "startMs": 384444,
+     "endMs": 391824,
+     "narration_dhivehi": "ލޭ މަނާކުރެވޭތޯ ހުއްޓުމެއް ނެތި މަސައްކަތް ކުރަމުންނެވެ. އަވަސް ފަރުވާއަށްޓަކައި އެ ކުއްޖާ ހޮސްޕިޓަލަށް ގެންދިޔުމުން،",
+     "narration_english": "working without pause to stop the bleeding. When the girl was rushed to hospital for urgent treatment,",
+     "crop": "full",
+     "motion": "pan down",
+     "sfx": [
+      {
+       "name": "siren",
+       "atMs": 390194,
+       "gainDb": -20,
+       "word": "ހޮސްޕިޓަލަށް"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Cinematic semi-realistic digital illustration with a moody modern crime-drama look, deep navy, teal and charcoal shadows with crimson and electric-blue accents and warm amber practical lights, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, wet pavement, sand, table top, soft shadow) for captions and a logo; present-day night scenes in Malé glisten with rain and reflections, while flashback scenes from twelve years earlier have softer, warmer golden light and a gentle haze.\nScene: an ambulance with flashing red and blue lights parked outside the small house at night, its rear doors open, two paramedics in uniform seen from behind hurrying in through the lit front door, a few neighbours watching from across the wet street; nobody else visible. Location: the outside of a small two-storey house on a narrow Malé street at night, rain-wet road, an ambulance parked at the door. Camera: wide shot from across the street, eye level, the house and ambulance in the upper two-thirds, the wet reflective road as the calm lower third.\nMood/lighting: present day, night, flashing red and blue emergency lights on wet tarmac, urgent and grave.\nModest Maldivian clothing (every woman in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck; men in long-sleeved shirts or suits and long trousers), a clear respectful distance between men and women, nobody touching, culturally respectful, no violence shown, no blood, no wounds, no injuries, no weapons, no guns, no person lying on the ground, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.213,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 50.0,
+    "y_pct": 40.0,
+    "face_detected": false
+   }
+  },
+  {
+   "id": "beat_018",
+   "startMs": 391824,
+   "endMs": 426495,
+   "new_image_reason": "character change: Noorin notices the girl's sobbing mother and walks to her",
+   "characters": [
+    "noorin"
+   ],
+   "location": "a modest living room of a Malé house at night, a worn fabric sofa, a low table, a woven rug, a ceiling fan, a window reflecting flashing red and blue light from the street",
+   "location_key": "case_living",
+   "mood": "present day, night, a single dim lamp, flashing red and blue light from the window, heavy grief",
+   "visual": "a Maldivian mother in her forties in a loose long-sleeved dark-green dress and a grey hijab fully covering her hair, sitting on the sofa bent forward with her face in her hands, sobbing; Noorin in her dark-navy police uniform, black hijab fully covering her hair and neck and black beret standing a few steps away, looking at her with a grave, controlled expression",
+   "camera": "medium wide shot, eye level, faces in the upper two-thirds, a calm uncluttered lower third (woven rug)",
+   "image": "images/beat_018.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "living_night",
+   "shots": [
+    {
+     "id": "shot_045",
+     "startMs": 391824,
+     "endMs": 401244,
+     "narration_dhivehi": "ނޫރިންގެ ނަޒަރު ހުއްޓުނީ އެއްފަރާތެއް ގައި ގިސްލާ ރޯން ހުރި އެ ކުއްޖާގެ މަންމައަށެވެ. ނޫރިން މަޑުމަޑުން އެ އަންހެން މީހާއާ ދިމާއަށް ހިނގައިގަތެވެ.",
+     "narration_english": "Noorin's gaze fell on the girl's mother, standing to one side sobbing and crying. Noorin slowly walked towards the woman.",
+     "crop": "full",
+     "motion": "static drift",
+     "sfx": [
+      {
+       "name": "sob_breath",
+       "atMs": 394634,
+       "gainDb": -22,
+       "word": "ގިސްލާ"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_046",
+     "startMs": 401244,
+     "endMs": 408845,
+     "narration_dhivehi": "\"މި ވަރުގެ ބޮޑު ކަމެއް ހިނގަމުން ދިޔައިރު ވެސް ރޭކާނުލީ ކީއްވެގެން؟\" ނޫރިން މަޑުމައިތިރިކަމާ އެކު ސުވާލުކުރިއެވެ. އެއާއެކު،",
+     "narration_english": "\"Why didn't you stop it when something this serious was going on?\" Noorin asked calmly. At that,",
+     "crop": "tight",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      38.7,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_047",
+     "startMs": 408845,
+     "endMs": 417445,
+     "narration_dhivehi": "އެ އަންހެންމީހާގެ ރުއިމުގެ އަޑު ކުރިއަށްވުރެ ބާރުވިއެވެ. \"ރުޔަސް ދެން ވާނެ ފައިދާއެއް ނެތް. ވޭތުވެދިޔަ ކަމެއް އަނބުރައެއް ނުގެނެވޭނެ.",
+     "narration_english": "the woman's crying grew louder. \"Crying is no use now. What has passed can't be undone.",
+     "crop": "full",
+     "motion": "pan left",
+     "sfx": [
+      {
+       "name": "sob_breath",
+       "atMs": 410135,
+       "gainDb": -22,
+       "word": "ރުއިމުގެ"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_048",
+     "startMs": 417445,
+     "endMs": 426495,
+     "narration_dhivehi": "ދަރިއެއްގެ ހިތުގައި އަޅާ ވޭނާއި އުދާސްތައް މަޔަކަށް އިހުސާސް ނުވެއެއް ނުދާނެ. މައިވަންތަކަމުގެ ގުޅުމަކީ އެއަށްވުރެ މާ ވަރުގަދަ، ޚާއްޞަ ގުޅުމެއް.\"",
+     "narration_english": "A mother cannot fail to feel the pain and sorrow in her child's heart. The bond of motherhood is far stronger, a special bond.\"",
+     "crop": "medium",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      28.5,
+      0.0,
+      71.5,
+      84.7
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Noorin), create a new scene: Cinematic semi-realistic digital illustration with a moody modern crime-drama look, deep navy, teal and charcoal shadows with crimson and electric-blue accents and warm amber practical lights, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, wet pavement, sand, table top, soft shadow) for captions and a logo; present-day night scenes in Malé glisten with rain and reflections, while flashback scenes from twelve years earlier have softer, warmer golden light and a gentle haze.\nScene: a Maldivian mother in her forties in a loose long-sleeved dark-green dress and a grey hijab fully covering her hair, sitting on the sofa bent forward with her face in her hands, sobbing; Noorin in her dark-navy police uniform, black hijab fully covering her hair and neck and black beret standing a few steps away, looking at her with a grave, controlled expression. Location: a modest living room of a Malé house at night, a worn fabric sofa, a low table, a woven rug, a ceiling fan, a window reflecting flashing red and blue light from the street. Camera: medium wide shot, eye level, faces in the upper two-thirds, a calm uncluttered lower third (woven rug).\nCharacters: Noorin: a slim upright Maldivian woman of about 34 with warm brown skin, an oval face, large dark almond-shaped eyes, straight dark eyebrows, a small straight nose, full lips and a composed serious expression; wears a dark-navy long-sleeved police uniform shirt buttoned to the collar with shoulder epaulettes each bearing two small silver stars, dark-navy uniform trousers, a black belt and polished black boots, a black hijab wrapped snugly and fully covering her hair and neck, and a black beret worn over the hijab.\nMood/lighting: present day, night, a single dim lamp, flashing red and blue light from the window, heavy grief.\nModest Maldivian clothing (every woman in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck; men in long-sleeved shirts or suits and long trousers), a clear respectful distance between men and women, nobody touching, culturally respectful, no violence shown, no blood, no wounds, no injuries, no weapons, no guns, no person lying on the ground, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.129,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 68.5,
+    "y_pct": 17.1,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_019",
+   "startMs": 426495,
+   "endMs": 453536,
+   "new_image_reason": "framing change: the mother's plea — what people would say, where could she go",
+   "characters": [
+    "noorin"
+   ],
+   "location": "a modest living room of a Malé house at night, a worn fabric sofa, a low table, a woven rug, a ceiling fan, a window reflecting flashing red and blue light from the street",
+   "location_key": "case_living",
+   "mood": "present day, night, a single dim lamp, flashing red and blue light from the window, heavy grief",
+   "visual": "the mother on the sofa looking up with red, tear-filled eyes, her hands clasped together in a pleading gesture, speaking through sobs; Noorin's dark-navy uniformed shoulder and black hijab soft and out of focus in the foreground, her face turned away",
+   "camera": "medium close-up on the mother over Noorin's shoulder, eye level, faces in the upper two-thirds, a calm uncluttered lower third",
+   "image": "images/beat_019.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "living_night",
+   "shots": [
+    {
+     "id": "shot_049",
+     "startMs": 426495,
+     "endMs": 436486,
+     "narration_dhivehi": "ނޫރިން ހަމްދަރުދީއާ އެކު ބުންޏެވެ. \"އަހަންނަށް ހުރިހާ ކަމެއް ވެސް އެނގޭ. އެކަމަކު ދުނިޔޭގެ ލަދަށްޓަކައި... އެހެން ނޫނަސް އަހަރެން އެ ދަރިފުޅު ގޮވައިގެން ވަކި ދާނީ ކޮންތާކަށް؟",
+     "narration_english": "Noorin said with sympathy. \"I know everything. But for fear of what people would say... and even otherwise, where would I go with my daughter?",
+     "crop": "full",
+     "motion": "pan right",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_050",
+     "startMs": 436486,
+     "endMs": 446716,
+     "narration_dhivehi": "އަހަރެމެންނަށް އެހީވާނީ ކާކު؟\" އަންހެންމީހާ ގިސްލަމުން ބުންޏެވެ. \"ދުނިޔޭގެ ލަދަށްޓަކައި ތިމާގެ އަމިއްލަ ބަނޑުން ވިހޭ ދަރިފުޅު މަރުގެ ތުންފަތްމައްޗަށް ދޫކޮށްލީތަ؟",
+     "narration_english": "Who would help us?\" the woman said, sobbing. \"For fear of what people would say, you left the child born of your own womb on the lips of death?",
+     "crop": "tight",
+     "motion": "slow push-in",
+     "sfx": [
+      {
+       "name": "sob_breath",
+       "atMs": 439816,
+       "gainDb": -24,
+       "word": "ގިސްލަމުން"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      20.3,
+      4.8,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_051",
+     "startMs": 446716,
+     "endMs": 453536,
+     "narration_dhivehi": "އެ ކުއްޖާއަށް އެ ލިބެމުން ދިޔަ އަނިޔާތަކަށް ކެތްނުކުރެވި ގެން އެފަދަ ނުރައްކާތެރި ފިޔަވަޅެއް އެ އެޅީ.",
+     "narration_english": "She took such a dangerous step because she could not bear the torment she was suffering.",
+     "crop": "full",
+     "motion": "pan up",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Noorin), create a new scene: Cinematic semi-realistic digital illustration with a moody modern crime-drama look, deep navy, teal and charcoal shadows with crimson and electric-blue accents and warm amber practical lights, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, wet pavement, sand, table top, soft shadow) for captions and a logo; present-day night scenes in Malé glisten with rain and reflections, while flashback scenes from twelve years earlier have softer, warmer golden light and a gentle haze.\nScene: the mother on the sofa looking up with red, tear-filled eyes, her hands clasped together in a pleading gesture, speaking through sobs; Noorin's dark-navy uniformed shoulder and black hijab soft and out of focus in the foreground, her face turned away. Location: a modest living room of a Malé house at night, a worn fabric sofa, a low table, a woven rug, a ceiling fan, a window reflecting flashing red and blue light from the street. Camera: medium close-up on the mother over Noorin's shoulder, eye level, faces in the upper two-thirds, a calm uncluttered lower third.\nCharacters: Noorin: a slim upright Maldivian woman of about 34 with warm brown skin, an oval face, large dark almond-shaped eyes, straight dark eyebrows, a small straight nose, full lips and a composed serious expression; wears a dark-navy long-sleeved police uniform shirt buttoned to the collar with shoulder epaulettes each bearing two small silver stars, dark-navy uniform trousers, a black belt and polished black boots, a black hijab wrapped snugly and fully covering her hair and neck, and a black beret worn over the hijab.\nMood/lighting: present day, night, a single dim lamp, flashing red and blue light from the window, heavy grief.\nModest Maldivian clothing (every woman in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck; men in long-sleeved shirts or suits and long trousers), a clear respectful distance between men and women, nobody touching, culturally respectful, no violence shown, no blood, no wounds, no injuries, no weapons, no guns, no person lying on the ground, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.053,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 50.0,
+    "y_pct": 40.0,
+    "face_detected": false
+   }
+  },
+  {
+   "id": "beat_020",
+   "startMs": 453536,
+   "endMs": 485598,
+   "new_image_reason": "framing change: Noorin's stern rebuke of the mother",
+   "characters": [
+    "noorin"
+   ],
+   "location": "a modest living room of a Malé house at night, a worn fabric sofa, a low table, a woven rug, a ceiling fan, a window reflecting flashing red and blue light from the street",
+   "location_key": "case_living",
+   "mood": "present day, night, a single dim lamp, flashing red and blue light from the window, heavy grief",
+   "visual": "close-up of Noorin in her dark-navy police uniform, black hijab fully covering her hair and neck and black beret, speaking firmly with stern, disappointed eyes, slightly shaking her head, the mother blurred on the sofa behind her",
+   "camera": "close-up, eye level, faces in the upper two-thirds, a calm uncluttered lower third",
+   "image": "images/beat_020.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "living_night",
+   "shots": [
+    {
+     "id": "shot_052",
+     "startMs": 453536,
+     "endMs": 462657,
+     "narration_dhivehi": "އެ ދަރިފުޅު ގޮވައިގެން އަމިއްލަ އިއްޒަތާއި އަބުރު ރައްކާތެރިކޮށްގެން ގަދަރުވެރި ދިރިއުޅުމެއް އުޅެވުނީސް. އެކަމަށް ބޭނުންވަނީ ކުޑަކުޑަ ހިތްވަރެއް.",
+     "narration_english": "You could have taken your daughter and lived an honourable life, protecting your own dignity and honour. All that takes is a little courage.",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_053",
+     "startMs": 462657,
+     "endMs": 470397,
+     "narration_dhivehi": "އެ ކުއްޖާއަށް ބަފައެއްގެ ލޯބި ހޯދައިދިނުމުގެ ނަމުގައި، ޖަނަވާރެއް ފަދަ އިންސާނެއްގެ ވަކިތަކުގެ ދަށަށް އެ ކުއްޖާ ދޫކޮށްލީ ކީއްވެ؟",
+     "narration_english": "In the name of finding her a father's love, why did you leave the child in the traps of a man who is like a beast?",
+     "crop": "tight",
+     "motion": "pan down",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      9.2,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_054",
+     "startMs": 470397,
+     "endMs": 479277,
+     "narration_dhivehi": "ދަރިންގެ ހިތުގެ އުދާސްތައް މައިންނަށް އެނގެންވާނެ. އެ ކުދިން ހިމާޔަތްކުރުމަކީ މައިންބަފައިންގެ ކޮނޑުގައި އެޅިފައިވާ އެންމެ ބޮޑު ޒިންމާ.",
+     "narration_english": "Mothers must know the sorrows in their children's hearts. Protecting those children is the greatest responsibility placed on a parent's shoulders.",
+     "crop": "full",
+     "motion": "static drift",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_055",
+     "startMs": 479277,
+     "endMs": 485598,
+     "narration_dhivehi": "އެ ޒިންމާގެ މަތިން ހަނދާންނެތުނީ ކީއްވެގެން؟\" ނޫރިން މާޔޫސްކަމާ އެކު ދެ ފަރާތަށް ބޯ ހޫރައިލިއެވެ.",
+     "narration_english": "Why did you forget that responsibility?\" Noorin shook her head in despair.",
+     "crop": "medium",
+     "motion": "slow push-in",
+     "sfx": [
+      {
+       "name": "sigh",
+       "atMs": 484378,
+       "gainDb": -22,
+       "word": "ހޫރައިލިއެވެ."
+      }
+     ],
+     "hum": true,
+     "crop_rect_pct": [
+      3.1,
+      0.0,
+      71.5,
+      84.7
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Noorin), create a new scene: Cinematic semi-realistic digital illustration with a moody modern crime-drama look, deep navy, teal and charcoal shadows with crimson and electric-blue accents and warm amber practical lights, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, wet pavement, sand, table top, soft shadow) for captions and a logo; present-day night scenes in Malé glisten with rain and reflections, while flashback scenes from twelve years earlier have softer, warmer golden light and a gentle haze.\nScene: close-up of Noorin in her dark-navy police uniform, black hijab fully covering her hair and neck and black beret, speaking firmly with stern, disappointed eyes, slightly shaking her head, the mother blurred on the sofa behind her. Location: a modest living room of a Malé house at night, a worn fabric sofa, a low table, a woven rug, a ceiling fan, a window reflecting flashing red and blue light from the street. Camera: close-up, eye level, faces in the upper two-thirds, a calm uncluttered lower third.\nCharacters: Noorin: a slim upright Maldivian woman of about 34 with warm brown skin, an oval face, large dark almond-shaped eyes, straight dark eyebrows, a small straight nose, full lips and a composed serious expression; wears a dark-navy long-sleeved police uniform shirt buttoned to the collar with shoulder epaulettes each bearing two small silver stars, dark-navy uniform trousers, a black belt and polished black boots, a black hijab wrapped snugly and fully covering her hair and neck, and a black beret worn over the hijab.\nMood/lighting: present day, night, a single dim lamp, flashing red and blue light from the window, heavy grief.\nModest Maldivian clothing (every woman in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck; men in long-sleeved shirts or suits and long trousers), a clear respectful distance between men and women, nobody touching, culturally respectful, no violence shown, no blood, no wounds, no injuries, no weapons, no guns, no person lying on the ground, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.074,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 38.9,
+    "y_pct": 27.1,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_021",
+   "startMs": 485598,
+   "endMs": 518489,
+   "new_image_reason": "scene change: Noorin sits alone at her office desk, old wounds reopened",
+   "characters": [
+    "noorin"
+   ],
+   "location": "Noorin's office at the Malé police headquarters, a large wooden desk with stacked folders with blank covers, a desk lamp, window blinds, a plain wall",
+   "location_key": "office",
+   "mood": "present day, daytime, cool grey-blue light through the blinds, a warm desk lamp, controlled and heavy",
+   "visual": "Noorin in her dark-navy police uniform, black hijab fully covering her hair and neck and black beret sitting alone at her office desk, hands folded on the desk, back straight, her face composed and serious but her eyes heavy with old pain, stacked folders beside her",
+   "camera": "medium shot, eye level, faces in the upper two-thirds, a calm uncluttered lower third (desk top)",
+   "image": "images/beat_021.png",
+   "reuse_of": null,
+   "transition_in": "black",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "office_day",
+   "shots": [
+    {
+     "id": "shot_056",
+     "startMs": 485598,
+     "endMs": 492818,
+     "narration_dhivehi": "އެ އަންހެންމީހާ އިސްޖަހައިގެން އިނދެ ގިސްލަމުން ގެންދިޔައެވެ. އޮފީހަށް ވަދެވުމާއެކު ނޫރިން މޭޒު ދޮށުގައި އިށީނދެލިއެވެ.",
+     "narration_english": "The woman sat with her head bowed, sobbing on. On entering her office, Noorin sat down at her desk.",
+     "crop": "full",
+     "motion": "pan left",
+     "sfx": [
+      {
+       "name": "sob_breath",
+       "atMs": 487578,
+       "gainDb": -24,
+       "word": "ގިސްލަމުން"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_057",
+     "startMs": 492818,
+     "endMs": 503018,
+     "narration_dhivehi": "އޭނާގެ ސިކުނޑީގައި އެނބުރެމުންދާ ހައިޖާނެއްގެ ހަގީގަތް ހުދު އޭނާއަށް ވެސް ފަހުމެއް ނުވެއެވެ. މިއަދު އަނެއްކާ ވެސް އެ ހިތުގެ ޒަޚަމްތައް ތާޒާވެ ރިއްސައިގަތީއެވެ.",
+     "narration_english": "Even she could not grasp the truth of the storm whirling in her mind. Today, once again, the wounds of her heart had opened fresh and ached.",
+     "crop": "tight",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      21.4,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_058",
+     "startMs": 503018,
+     "endMs": 511909,
+     "narration_dhivehi": "އޭނާގެ ޒުވާން އުމުރުގެ ހިތި ހަނދާންތައް ލޯ މަތިން ސިފަވަމުން ދިޔައެވެ. ހިތުގައި އުފެދެމުން ދިޔަ ވޭނާއި ކެކުޅުންތައް މޫނުމަތިން ފާޅުވިޔަ ނުދީ،",
+     "narration_english": "The bitter memories of her youth passed before her eyes. Not letting the pain and anguish rising in her heart show on her face,",
+     "crop": "full",
+     "motion": "pan right",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_059",
+     "startMs": 511909,
+     "endMs": 518489,
+     "narration_dhivehi": "އަބަދު ވެސް ސާބިތުކަމާ އެކު ސީރިއަސް މިޒާޖެއް ދެއްކި ނަމަވެސް، އެ ހިތް ދިޔައީ ކުދިކުދިވަމުންނެވެ.",
+     "narration_english": "though she always showed a firm, serious manner, that heart was breaking into pieces.",
+     "crop": "medium",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      15.3,
+      0.0,
+      71.5,
+      84.7
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Noorin), create a new scene: Cinematic semi-realistic digital illustration with a moody modern crime-drama look, deep navy, teal and charcoal shadows with crimson and electric-blue accents and warm amber practical lights, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, wet pavement, sand, table top, soft shadow) for captions and a logo; present-day night scenes in Malé glisten with rain and reflections, while flashback scenes from twelve years earlier have softer, warmer golden light and a gentle haze.\nScene: Noorin in her dark-navy police uniform, black hijab fully covering her hair and neck and black beret sitting alone at her office desk, hands folded on the desk, back straight, her face composed and serious but her eyes heavy with old pain, stacked folders beside her. Location: Noorin's office at the Malé police headquarters, a large wooden desk with stacked folders with blank covers, a desk lamp, window blinds, a plain wall. Camera: medium shot, eye level, faces in the upper two-thirds, a calm uncluttered lower third (desk top).\nCharacters: Noorin: a slim upright Maldivian woman of about 34 with warm brown skin, an oval face, large dark almond-shaped eyes, straight dark eyebrows, a small straight nose, full lips and a composed serious expression; wears a dark-navy long-sleeved police uniform shirt buttoned to the collar with shoulder epaulettes each bearing two small silver stars, dark-navy uniform trousers, a black belt and polished black boots, a black hijab wrapped snugly and fully covering her hair and neck, and a black beret worn over the hijab.\nMood/lighting: present day, daytime, cool grey-blue light through the blinds, a warm desk lamp, controlled and heavy.\nModest Maldivian clothing (every woman in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck; men in long-sleeved shirts or suits and long trousers), a clear respectful distance between men and women, nobody touching, culturally respectful, no violence shown, no blood, no wounds, no injuries, no weapons, no guns, no person lying on the ground, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.105,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 51.1,
+    "y_pct": 28.9,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_022",
+   "startMs": 518489,
+   "endMs": 553940,
+   "new_image_reason": "symbolic detail: the children's voices she has heard in her cases (no child shown)",
+   "characters": [],
+   "location": "an empty school classroom in Malé on a rainy day, rows of small wooden desks and chairs, a large rain-streaked window",
+   "location_key": "classroom",
+   "mood": "rainy grey daylight, soft muted blue tones, empty and lonely, a quiet memory",
+   "visual": "an empty small wooden school desk and chair by a large rain-streaked window, a small child's school bag resting alone against the desk leg, raindrops running down the glass; no people",
+   "camera": "medium shot, eye level, the window and desk in the upper two-thirds, the plain floor as the calm lower third",
+   "image": "images/beat_022.png",
+   "reuse_of": null,
+   "transition_in": "dissolve",
+   "sensitive": "other",
+   "safe_substitution": "the child's confession about 'something friends gave' is never shown: no child, no drugs, no pills, no smoke; only an empty desk and a school bag by a rainy window",
+   "ambience": "rain_day",
+   "shots": [
+    {
+     "id": "shot_060",
+     "startMs": 518489,
+     "endMs": 525649,
+     "narration_dhivehi": "ކުޑަކުދިންނަށް ކުރާ ޖިންސީ ގޯނާގެ މައްސަލަތައް ދުވަހެއް ދުވަހަކަށް އިތުރުވަމުން ދިއުމަކީ އޭނާ ކަންބޮޑުވާ ކަމެކެވެ.",
+     "narration_english": "The cases of crimes against children increasing day by day was something that worried her deeply.",
+     "crop": "full",
+     "motion": "pan up",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_061",
+     "startMs": 525649,
+     "endMs": 535479,
+     "narration_dhivehi": "މިފަދަ ލާއިންސާނީ އަމަލުތައް ހުއްޓުވޭނީ ކޮން ގޮތަކުން ހެއްޔެވެ؟ އިންސާނިއްޔަތުކަން އެއްކިބާކޮށް، ޖަނަވާރުން ފަދައިން ބައެއް މީހުން އުޅެނީ ކީއްވެގެން ހެއްޔެވެ؟",
+     "narration_english": "How can such inhuman acts be stopped? Why do some people cast humanity aside and live like beasts?",
+     "crop": "tight",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      0.0,
+      29.6,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_062",
+     "startMs": 535479,
+     "endMs": 544440,
+     "narration_dhivehi": "އެ މަޢުޞޫމު ކުދިން ބުނަމުން ދިޔަ ޖުމްލަތައް ނޫރިންގެ ކަންފަތުގައި ތަކުރާރުވަމުން ދިޔައެވެ. \"މަންމައާއި ބައްޕަގެ ޒުވާބު، އެހެން ކުދިންގެ ފުރައްސާރަ،",
+     "narration_english": "The sentences those innocent children had spoken kept echoing in Noorin's ears. \"Mum and Dad's quarrels, the other kids' mockery,",
+     "crop": "full",
+     "motion": "pan down",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_063",
+     "startMs": 544440,
+     "endMs": 553940,
+     "narration_dhivehi": "މުދައްރިސުންގެ އަދަބުތައް... މި ހުރިހާ ކަމަކުން ސަލާމަތްވާން ވެގެން ރައްޓެހިން ދިން އެއްޗެއް ބޭނުންކުރީ. އެ ބޭނުންކުރީމާ ހިތަށް ވަރަށް ހަމަޖެހުން ލިބޭ.",
+     "narration_english": "the teachers' punishments... to escape from all of it I used something my friends gave me. When I use it my heart feels very calm.",
+     "crop": "medium",
+     "motion": "static drift",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      0.0,
+      15.3,
+      71.5,
+      84.7
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Cinematic semi-realistic digital illustration with a moody modern crime-drama look, deep navy, teal and charcoal shadows with crimson and electric-blue accents and warm amber practical lights, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, wet pavement, sand, table top, soft shadow) for captions and a logo; present-day night scenes in Malé glisten with rain and reflections, while flashback scenes from twelve years earlier have softer, warmer golden light and a gentle haze.\nScene: an empty small wooden school desk and chair by a large rain-streaked window, a small child's school bag resting alone against the desk leg, raindrops running down the glass; no people. Location: an empty school classroom in Malé on a rainy day, rows of small wooden desks and chairs, a large rain-streaked window. Camera: medium shot, eye level, the window and desk in the upper two-thirds, the plain floor as the calm lower third.\nMood/lighting: rainy grey daylight, soft muted blue tones, empty and lonely, a quiet memory.\nModest Maldivian clothing (every woman in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck; men in long-sleeved shirts or suits and long trousers), a clear respectful distance between men and women, nobody touching, culturally respectful, no violence shown, no blood, no wounds, no injuries, no weapons, no guns, no person lying on the ground, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.467,
+    "halo": true
+   },
+   "focus": {
+    "x_pct": 24.1,
+    "y_pct": 90.4,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_023",
+   "startMs": 553940,
+   "endMs": 578671,
+   "new_image_reason": "symbolic detail: the child's sleepless, frightened nights (no child shown)",
+   "characters": [],
+   "location": "a small child's bedroom in a Malé flat at night, a little study desk with closed schoolbooks and a small desk lamp, a dark rain-streaked window",
+   "location_key": "child_room",
+   "mood": "night, a small warm desk lamp against deep blue shadows, rain on the window, fearful and lonely",
+   "visual": "a little study desk in a dim child's room at night with closed schoolbooks and a small glowing desk lamp, a small school bag hanging on the chair, the dark window streaked with rain; no people",
+   "camera": "medium shot, eye level, the desk and window in the upper two-thirds, the floor in soft shadow as the calm lower third",
+   "image": "images/beat_023.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": "other",
+   "safe_substitution": "no child shown; symbolic empty study desk at night",
+   "ambience": "room_night",
+   "shots": [
+    {
+     "id": "shot_064",
+     "startMs": 553940,
+     "endMs": 562351,
+     "narration_dhivehi": "އެއްވެސް އަޑެއް ނީވޭ، ސިކުނޑިއަށް ލުއިކަން ލިބޭ!\" އެ ކުއްޖާގެ ގިސްލުމުގެ އަޑު އިވެމުން ދިޔައެވެ. \"ފިލާވަޅު ދަސްކުރާނީ ކިހިނެއް؟",
+     "narration_english": "I can't hear any sound, my mind feels light!\" The sound of that child's sobbing could be heard. \"How am I supposed to learn my lessons?",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [
+      {
+       "name": "sob_breath",
+       "atMs": 558420,
+       "gainDb": -24,
+       "word": "ގިސްލުމުގެ"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_065",
+     "startMs": 562351,
+     "endMs": 571971,
+     "narration_dhivehi": "ސިކުނޑިއަށް އެއްވެސް އެއްޗެއް ނުވިސްނޭ. ރޭގަނޑު ބިރުން ނުނިދޭ. ނިދޭއިރަށް ތަދުވާން ފަށާ. އެހެން ނުހަދާށޭ ބުންޏަސް ހަމަ ތަކުރާރުކޮށް އެކަން ކުރަނީ.",
+     "narration_english": "My mind can't think of anything. At night I can't sleep from fear. When I fall asleep it starts to hurt. Even when I'm told not to, I keep doing it again and again.",
+     "crop": "tight",
+     "motion": "pan left",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      20.3,
+      4.8,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_066",
+     "startMs": 571971,
+     "endMs": 578671,
+     "narration_dhivehi": "ކިހިނެއް ކިޔަވާނީ؟ ކިޔަވާ އެއްޗެއް ސިކުނޑިއަކަށް ނުނެގޭ. މީހަކު ގާތު ބުންޏަސް އެކަކު ވެސް ގަބޫލެއް ނުކުރޭ.",
+     "narration_english": "How am I supposed to study? Nothing I study stays in my head. Even if I tell someone, no one believes me.",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Cinematic semi-realistic digital illustration with a moody modern crime-drama look, deep navy, teal and charcoal shadows with crimson and electric-blue accents and warm amber practical lights, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, wet pavement, sand, table top, soft shadow) for captions and a logo; present-day night scenes in Malé glisten with rain and reflections, while flashback scenes from twelve years earlier have softer, warmer golden light and a gentle haze.\nScene: a little study desk in a dim child's room at night with closed schoolbooks and a small glowing desk lamp, a small school bag hanging on the chair, the dark window streaked with rain; no people. Location: a small child's bedroom in a Malé flat at night, a little study desk with closed schoolbooks and a small desk lamp, a dark rain-streaked window. Camera: medium shot, eye level, the desk and window in the upper two-thirds, the floor in soft shadow as the calm lower third.\nMood/lighting: night, a small warm desk lamp against deep blue shadows, rain on the window, fearful and lonely.\nModest Maldivian clothing (every woman in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck; men in long-sleeved shirts or suits and long trousers), a clear respectful distance between men and women, nobody touching, culturally respectful, no violence shown, no blood, no wounds, no injuries, no weapons, no guns, no person lying on the ground, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.056,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 50.0,
+    "y_pct": 40.0,
+    "face_detected": false
+   }
+  },
+  {
+   "id": "beat_024",
+   "startMs": 578671,
+   "endMs": 595872,
+   "new_image_reason": "back to Noorin: she covers her ears to shut out the voices",
+   "characters": [
+    "noorin"
+   ],
+   "location": "Noorin's office at the Malé police headquarters, a large wooden desk with stacked folders with blank covers, a desk lamp, window blinds, a plain wall",
+   "location_key": "office",
+   "mood": "present day, daytime, cool grey-blue light through the blinds, a warm desk lamp, controlled and heavy",
+   "visual": "Noorin in her dark-navy police uniform, black hijab fully covering her hair and neck and black beret at her office desk with both hands pressed over her ears, eyes squeezed shut, head turned slightly as if shaking off voices, anguish breaking through her composure",
+   "camera": "medium close-up, eye level, faces in the upper two-thirds, a calm uncluttered lower third (desk top)",
+   "image": "images/beat_024.png",
+   "reuse_of": null,
+   "transition_in": "dissolve",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "office_day",
+   "shots": [
+    {
+     "id": "shot_067",
+     "startMs": 578671,
+     "endMs": 586261,
+     "narration_dhivehi": "އަހަރެންގެ ވޭނާއި ކެކުޅުން އިހުސާސް ކުރާނެ މީހަކު ނެތް.\" އެ ވޭނީ އަޑުތައް ނޫރިންގެ ކަންފަތުގައި ގުގުމަމުން ދިޔުމުން،",
+     "narration_english": "There's no one who feels my pain and anguish.\" As those painful voices echoed in Noorin's ears,",
+     "crop": "full",
+     "motion": "pan right",
+     "sfx": [],
+     "hum": true,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_068",
+     "startMs": 586261,
+     "endMs": 595872,
+     "narration_dhivehi": "އޭނާ ދެ ކަންފަތުގައި އަތް އަޅައި ދެ ފަރާތަށް ބޯ ހޫރައިލީ އެ އަޑުތަކާ ދުރަށް ދިއުމަށެވެ. އެ ތަނަށް ގެނެވޭ ކުށްވެރިވެފައިވާ ކުދިންނަށް އެހީތެރިކަން ފޯރުކޮށްދީ،",
+     "narration_english": "she covered both ears with her hands and shook her head to get away from those voices. Helping the young offenders brought there,",
+     "crop": "tight",
+     "motion": "slow push-in",
+     "sfx": [
+      {
+       "name": "heartbeat",
+       "atMs": 587241,
+       "gainDb": -20,
+       "word": "ކަންފަތުގައި"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      27.6,
+      0.0,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Noorin), create a new scene: Cinematic semi-realistic digital illustration with a moody modern crime-drama look, deep navy, teal and charcoal shadows with crimson and electric-blue accents and warm amber practical lights, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, wet pavement, sand, table top, soft shadow) for captions and a logo; present-day night scenes in Malé glisten with rain and reflections, while flashback scenes from twelve years earlier have softer, warmer golden light and a gentle haze.\nScene: Noorin in her dark-navy police uniform, black hijab fully covering her hair and neck and black beret at her office desk with both hands pressed over her ears, eyes squeezed shut, head turned slightly as if shaking off voices, anguish breaking through her composure. Location: Noorin's office at the Malé police headquarters, a large wooden desk with stacked folders with blank covers, a desk lamp, window blinds, a plain wall. Camera: medium close-up, eye level, faces in the upper two-thirds, a calm uncluttered lower third (desk top).\nCharacters: Noorin: a slim upright Maldivian woman of about 34 with warm brown skin, an oval face, large dark almond-shaped eyes, straight dark eyebrows, a small straight nose, full lips and a composed serious expression; wears a dark-navy long-sleeved police uniform shirt buttoned to the collar with shoulder epaulettes each bearing two small silver stars, dark-navy uniform trousers, a black belt and polished black boots, a black hijab wrapped snugly and fully covering her hair and neck, and a black beret worn over the hijab.\nMood/lighting: present day, daytime, cool grey-blue light through the blinds, a warm desk lamp, controlled and heavy.\nModest Maldivian clothing (every woman in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck; men in long-sleeved shirts or suits and long trousers), a clear respectful distance between men and women, nobody touching, culturally respectful, no violence shown, no blood, no wounds, no injuries, no weapons, no guns, no person lying on the ground, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.071,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 57.3,
+    "y_pct": 33.9,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_025",
+   "startMs": 595872,
+   "endMs": 605252,
+   "new_image_reason": "scene change: her work with young offenders; she walks into the prison",
+   "characters": [
+    "noorin"
+   ],
+   "location": "a narrow corridor in a Maldivian prison, steel-barred cell doors along one side, grey concrete walls, cold fluorescent ceiling lights",
+   "location_key": "prison_corridor",
+   "mood": "present day, cold fluorescent white light and hard shadows, tense",
+   "visual": "Noorin in her dark-navy police uniform, black hijab fully covering her hair and neck and black beret walking purposefully down the narrow prison corridor away from the camera towards a barred cell door that a male prison officer in uniform holds open ahead of her, an arm's-length gap between them",
+   "camera": "medium wide shot, eye level, down the corridor, the figures in the upper two-thirds, the polished concrete floor as the calm lower third",
+   "image": "images/beat_025.png",
+   "reuse_of": null,
+   "transition_in": "black",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "detention_room",
+   "shots": [
+    {
+     "id": "shot_069",
+     "startMs": 595872,
+     "endMs": 605252,
+     "narration_dhivehi": "މުޖުތަމަ އަށް ބޭނުންތެރި ބަޔަކަށް އެ ކުދިން ހެދުމަށް ނޫރިން އަބަދު ވެސް ނުހަނު ބުރަކޮށް މަސައްކަތް ކުރެއެވެ. ނޫރިން ޖަލުގެ ގޮޅިއަށް ވަދެގެން ދިޔައެވެ.",
+     "narration_english": "Noorin always works extremely hard to make those children useful members of society. Noorin went into the prison cell.",
+     "crop": "full",
+     "motion": "pan up",
+     "sfx": [
+      {
+       "name": "metal_door",
+       "atMs": 604302,
+       "gainDb": -18,
+       "word": "ވަދެގެން"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Noorin), create a new scene: Cinematic semi-realistic digital illustration with a moody modern crime-drama look, deep navy, teal and charcoal shadows with crimson and electric-blue accents and warm amber practical lights, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, wet pavement, sand, table top, soft shadow) for captions and a logo; present-day night scenes in Malé glisten with rain and reflections, while flashback scenes from twelve years earlier have softer, warmer golden light and a gentle haze.\nScene: Noorin in her dark-navy police uniform, black hijab fully covering her hair and neck and black beret walking purposefully down the narrow prison corridor away from the camera towards a barred cell door that a male prison officer in uniform holds open ahead of her, an arm's-length gap between them. Location: a narrow corridor in a Maldivian prison, steel-barred cell doors along one side, grey concrete walls, cold fluorescent ceiling lights. Camera: medium wide shot, eye level, down the corridor, the figures in the upper two-thirds, the polished concrete floor as the calm lower third.\nCharacters: Noorin: a slim upright Maldivian woman of about 34 with warm brown skin, an oval face, large dark almond-shaped eyes, straight dark eyebrows, a small straight nose, full lips and a composed serious expression; wears a dark-navy long-sleeved police uniform shirt buttoned to the collar with shoulder epaulettes each bearing two small silver stars, dark-navy uniform trousers, a black belt and polished black boots, a black hijab wrapped snugly and fully covering her hair and neck, and a black beret worn over the hijab.\nMood/lighting: present day, cold fluorescent white light and hard shadows, tense.\nModest Maldivian clothing (every woman in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck; men in long-sleeved shirts or suits and long trousers), a clear respectful distance between men and women, nobody touching, culturally respectful, no violence shown, no blood, no wounds, no injuries, no weapons, no guns, no person lying on the ground, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.314,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 44.0,
+    "y_pct": 84.7,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_026",
+   "startMs": 605252,
+   "endMs": 650274,
+   "new_image_reason": "action change: the smirking offender across the table taunts her",
+   "characters": [
+    "noorin"
+   ],
+   "location": "a bare prison interview cell, grey concrete walls, a wall of steel bars with a barred door, a small metal table and two metal chairs, a small security camera high in one corner",
+   "location_key": "prison_cell",
+   "mood": "present day, cold fluorescent light, harsh shadows, steel-grey and navy tones, tense and charged",
+   "visual": "a smirking middle-aged Maldivian man in a plain grey long-sleeved prison shirt and grey trousers sitting back in a metal chair with his arms folded and a mocking grin; Noorin in her dark-navy police uniform, black hijab fully covering her hair and neck and black beret standing on the other side of the small metal table, the table and a clear arm's-length gap between them, looking down at him coldly",
+   "camera": "medium wide two-shot from the side, eye level, faces in the upper two-thirds, a calm uncluttered lower third (bare concrete floor)",
+   "image": "images/beat_026.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "detention_room",
+   "shots": [
+    {
+     "id": "shot_070",
+     "startMs": 605252,
+     "endMs": 612292,
+     "narration_dhivehi": "އަދި އޭނާގެ ކުރިމަތީގައި ފުރައްސާރައިގެ ހިނިތުންވުމެއްގައި ހުރި މެދު އުމުރުގެ ކުށްވެރިޔާއާ ދިމާއަށް ބަލައިލިއެވެ.",
+     "narration_english": "And she looked at the middle-aged offender standing before her with a mocking smile.",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_071",
+     "startMs": 612292,
+     "endMs": 621873,
+     "narration_dhivehi": "\"ކަލޭމެން ކަހަލަ މީހުން ގެންގުޅެން ޖެހޭނީ ޖަނަވާރުން ބައިތިއްބާ ކޮށީގައި. ތިޔައީ އިންސާނިއްޔަތުކަމުގެ އެއްވެސް ސިފައެއް ނެތް ދަށުދަރަޖައިގެ ބައެއް.",
+     "narration_english": "\"People like you should be kept in a pen with the beasts. You are a low kind with no trace of humanity.",
+     "crop": "tight",
+     "motion": "pan down",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      12.0,
+      29.6,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_072",
+     "startMs": 621873,
+     "endMs": 629993,
+     "narration_dhivehi": "އިންސާނުންނަކީ މާތް، އޯގާތެރި ހިތެއްގެ ވެރިބައެއް. އެކަމަކު...\" ނޫރިންގެ ވާހަކަ މެދުކަނޑައިލިއެވެ. \"އެކަމަކު ކީއްކުރާނީ؟",
+     "narration_english": "Human beings have noble, kind hearts. But...\" Noorin's words were cut off. \"But what can be done?",
+     "crop": "full",
+     "motion": "static drift",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_073",
+     "startMs": 629993,
+     "endMs": 639913,
+     "narration_dhivehi": "ކަލޭމެންނަށް ނޭނގެނީތަ އަހަރެމެންގެ އެދުންތަކެއް ހުންނާނެކަން؟ ޔުނީފޯމު އަޅައިގެން އަހަރެންގެ ކުރިމައްޗަށް އައުމުން އަހަރެން ބިރުގަންނާނެ ކަމަށް ހީކުރީތަ؟",
+     "narration_english": "Don't you know we men have our desires? Did you think I'd be afraid because you came before me wearing a uniform?",
+     "crop": "medium",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      5.9,
+      15.3,
+      71.5,
+      84.7
+     ]
+    },
+    {
+     "id": "shot_074",
+     "startMs": 639913,
+     "endMs": 650274,
+     "narration_dhivehi": "ކޮންމެ ހެދުމެއް ލިޔަސް އަންހެނުން ވާނީ ހަމަ އަންހެނުންނަށް. ކަލޭމެންނަކީ އަހަރެމެންގެ އެދުންތައް ފުއްދައިދޭން ތިބޭ ބައެއް.\" ކުށްވެރިޔާ މަލާމާތުގެ ރާގަކަށް ބުންޏެވެ.",
+     "narration_english": "Whatever clothes they wear, women are still just women. You lot are there to satisfy our desires,\" the offender said in a scornful tone.",
+     "crop": "tight",
+     "motion": "pan left",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      12.0,
+      29.6,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Noorin), create a new scene: Cinematic semi-realistic digital illustration with a moody modern crime-drama look, deep navy, teal and charcoal shadows with crimson and electric-blue accents and warm amber practical lights, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, wet pavement, sand, table top, soft shadow) for captions and a logo; present-day night scenes in Malé glisten with rain and reflections, while flashback scenes from twelve years earlier have softer, warmer golden light and a gentle haze.\nScene: a smirking middle-aged Maldivian man in a plain grey long-sleeved prison shirt and grey trousers sitting back in a metal chair with his arms folded and a mocking grin; Noorin in her dark-navy police uniform, black hijab fully covering her hair and neck and black beret standing on the other side of the small metal table, the table and a clear arm's-length gap between them, looking down at him coldly. Location: a bare prison interview cell, grey concrete walls, a wall of steel bars with a barred door, a small metal table and two metal chairs, a small security camera high in one corner. Camera: medium wide two-shot from the side, eye level, faces in the upper two-thirds, a calm uncluttered lower third (bare concrete floor).\nCharacters: Noorin: a slim upright Maldivian woman of about 34 with warm brown skin, an oval face, large dark almond-shaped eyes, straight dark eyebrows, a small straight nose, full lips and a composed serious expression; wears a dark-navy long-sleeved police uniform shirt buttoned to the collar with shoulder epaulettes each bearing two small silver stars, dark-navy uniform trousers, a black belt and polished black boots, a black hijab wrapped snugly and fully covering her hair and neck, and a black beret worn over the hijab.\nMood/lighting: present day, cold fluorescent light, harsh shadows, steel-grey and navy tones, tense and charged.\nModest Maldivian clothing (every woman in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck; men in long-sleeved shirts or suits and long trousers), a clear respectful distance between men and women, nobody touching, culturally respectful, no violence shown, no blood, no wounds, no injuries, no weapons, no guns, no person lying on the ground, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.25,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 41.7,
+    "y_pct": 67.1,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_027",
+   "startMs": 650274,
+   "endMs": 683575,
+   "new_image_reason": "emotional turning point: her fury breaks loose (the strikes are never shown)",
+   "characters": [
+    "noorin"
+   ],
+   "location": "a bare prison interview cell, grey concrete walls, a wall of steel bars with a barred door, a small metal table and two metal chairs, a small security camera high in one corner",
+   "location_key": "prison_cell",
+   "mood": "present day, cold fluorescent light, harsh shadows, steel-grey and navy tones, tense and charged",
+   "visual": "close-up of Noorin in her dark-navy police uniform, black hijab fully covering her hair and neck and black beret, her face in cold fury, jaw clenched, eyes blazing, one hand pressed flat on the metal table; the offender only a blurred grey shape far across the table behind her",
+   "camera": "close-up, slightly low angle, faces in the upper two-thirds, a calm uncluttered lower third (table top)",
+   "image": "images/beat_027.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": "violence",
+   "safe_substitution": "the two strikes and his reaction are never shown: only her furious face before, with muffled offscreen thuds; he never touches her on screen",
+   "ambience": "detention_room",
+   "shots": [
+    {
+     "id": "shot_075",
+     "startMs": 650274,
+     "endMs": 657444,
+     "narration_dhivehi": "އެ ދަށުދަރަޖައިގެ ބަސްތައް އިވުމާއެކު ނޫރިންގެ ރުޅިގަނޑު ކޮންޓްރޯލުން ނެއްޓިއެވެ. އިތުރަށް ބަލާކަށް ނުހުރެ،",
+     "narration_english": "Hearing those vile words, Noorin's anger slipped out of control. Without waiting any longer,",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": true,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_076",
+     "startMs": 657444,
+     "endMs": 665214,
+     "narration_dhivehi": "އޭނާ އެ މީހާގެ މޫނުމައްޗަށް ވީއްލައިލި ވަރުގަދަ އެތިފަހަރާއެކު އެ މީހާގެ އަނގަމަތިން ލޭ ހިލިގެން ދިޔައެވެ. އެއާއެކު،",
+     "narration_english": "she swung a powerful blow at the man's face, and blood ran from his mouth. At that,",
+     "crop": "tight",
+     "motion": "pan right",
+     "sfx": [
+      {
+       "name": "soft_thud",
+       "atMs": 659544,
+       "gainDb": -22,
+       "word": "ވީއްލައިލި"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      17.0,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_077",
+     "startMs": 665214,
+     "endMs": 676125,
+     "narration_dhivehi": "ވޭނާއި ރުޅިވެރިކަމާ އެކު އެ މީހާ ނޫރިނާ ދިމާއަށް ހުތުރު ބަހުން އެއްޗެހި ކިޔަން ފެށިއެވެ. ދެވަނަ ފަހަރަށް ވެސް ނޫރިން އެ މީހާގެ ކަންފަތްމައްޗަށް ހޫނު އެތިފަހަރެއް ވީއްލައިލިއެވެ.",
+     "narration_english": "in pain and rage the man began to shout filthy words at Noorin. A second time Noorin swung a hot blow at the side of his head.",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [
+      {
+       "name": "soft_thud",
+       "atMs": 675065,
+       "gainDb": -22,
+       "word": "ވީއްލައިލިއެވެ."
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_078",
+     "startMs": 676125,
+     "endMs": 683575,
+     "narration_dhivehi": "އެއާއެކު، ރުޅިވެރިކަމާއެކު އެނބުރިގަތް އެ މީހާ ނޫރިންގެ މޫނުމަތީގައި ޖަހައި، ޔުނީފޯމުގެ ގިރުވާނުގައި ހިފިއެވެ.",
+     "narration_english": "At that, the man turned on her in fury, struck Noorin in the face and grabbed the collar of her uniform.",
+     "crop": "medium",
+     "motion": "pan up",
+     "sfx": [
+      {
+       "name": "soft_thud",
+       "atMs": 680585,
+       "gainDb": -24,
+       "word": "ޖަހައި،"
+      },
+      {
+       "name": "cloth_rustle",
+       "atMs": 682845,
+       "gainDb": -22,
+       "word": "ހިފިއެވެ."
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      10.9,
+      0.0,
+      71.5,
+      84.7
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Noorin), create a new scene: Cinematic semi-realistic digital illustration with a moody modern crime-drama look, deep navy, teal and charcoal shadows with crimson and electric-blue accents and warm amber practical lights, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, wet pavement, sand, table top, soft shadow) for captions and a logo; present-day night scenes in Malé glisten with rain and reflections, while flashback scenes from twelve years earlier have softer, warmer golden light and a gentle haze.\nScene: close-up of Noorin in her dark-navy police uniform, black hijab fully covering her hair and neck and black beret, her face in cold fury, jaw clenched, eyes blazing, one hand pressed flat on the metal table; the offender only a blurred grey shape far across the table behind her. Location: a bare prison interview cell, grey concrete walls, a wall of steel bars with a barred door, a small metal table and two metal chairs, a small security camera high in one corner. Camera: close-up, slightly low angle, faces in the upper two-thirds, a calm uncluttered lower third (table top).\nCharacters: Noorin: a slim upright Maldivian woman of about 34 with warm brown skin, an oval face, large dark almond-shaped eyes, straight dark eyebrows, a small straight nose, full lips and a composed serious expression; wears a dark-navy long-sleeved police uniform shirt buttoned to the collar with shoulder epaulettes each bearing two small silver stars, dark-navy uniform trousers, a black belt and polished black boots, a black hijab wrapped snugly and fully covering her hair and neck, and a black beret worn over the hijab.\nMood/lighting: present day, cold fluorescent light, harsh shadows, steel-grey and navy tones, tense and charged.\nModest Maldivian clothing (every woman in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck; men in long-sleeved shirts or suits and long trousers), a clear respectful distance between men and women, nobody touching, culturally respectful, no violence shown, no blood, no wounds, no injuries, no weapons, no guns, no person lying on the ground, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.276,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 46.7,
+    "y_pct": 30.2,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_028",
+   "startMs": 683575,
+   "endMs": 727167,
+   "new_image_reason": "action change: officers rush in and move the offender away; she calmly reveals it was recorded and leaves",
+   "characters": [
+    "noorin"
+   ],
+   "location": "a bare prison interview cell, grey concrete walls, a wall of steel bars with a barred door, a small metal table and two metal chairs, a small security camera high in one corner",
+   "location_key": "prison_cell",
+   "mood": "present day, cold fluorescent light, harsh shadows, steel-grey and navy tones, tense and charged",
+   "visual": "two male police officers in uniform stepping in and steering the offender (grey prison shirt) away to the far side of the cell by his arms; Noorin in her dark-navy police uniform, black hijab fully covering her hair and neck and black beret standing composed on the other side of the room, straightening her uniform collar, a faint cold mocking smile; the small security camera with a red light high in the corner; nobody is hurt",
+   "camera": "medium wide shot, eye level, faces in the upper two-thirds, a calm uncluttered lower third (concrete floor)",
+   "image": "images/beat_028.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": "violence",
+   "safe_substitution": "aftermath only: officers between them, Noorin composed, no injury, no handcuffs",
+   "ambience": "detention_room",
+   "shots": [
+    {
+     "id": "shot_079",
+     "startMs": 683575,
+     "endMs": 692505,
+     "narration_dhivehi": "ވަގުތުން ބޭރުގައި ތިބި ފުލުހުން އެތެރެއަށް ވަދެ، އެ މީހާ ދުރުކުރިއެވެ. ނޫރިންގެ ތުންފަތްމައްޗަށް ވެރިވީ މަލާމާތުގެ ހިނިތުންވުމެކެވެ.",
+     "narration_english": "At once the police officers outside came in and pulled the man away. A mocking smile settled on Noorin's lips.",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [
+      {
+       "name": "metal_door",
+       "atMs": 686225,
+       "gainDb": -18,
+       "word": "ވަދެ،"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_080",
+     "startMs": 692505,
+     "endMs": 702796,
+     "narration_dhivehi": "\"ދެން މި ތަނުން ސަލާމަތްވެގެން ނިކުމެ ވޭނެ ކަމަށް ހިތަށް ވެސް ނާރުވާތި! އަންހެނަކު ކީއްކުރަން، ފިރިހެނެއްގެ އެހީތެރިކަމެއް ވެސް ދެނެއް ނުލިބޭނެ. ސުވާލެއް",
+     "narration_english": "\"Don't even dream of getting out of this place now! Whatever a woman can do, you won't get help from any man now. For a question",
+     "crop": "tight",
+     "motion": "pan down",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      0.0,
+      1.2,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_081",
+     "startMs": 702796,
+     "endMs": 712126,
+     "narration_dhivehi": "ކޮށްލުމުން، އެއްވެސް ހައްގަކާ ނުލައި ފުލުހެއްގެ ޔުނީފޯމުގައި އަތްލައި، އަހަރެންގެ ގައިގައި ތި ޖެހީ. އިސް އޮފިސަރަކަށް ހަމަލާދިނުމުގެ އަދަބު އެނގޭތަ؟\"",
+     "narration_english": "I asked, you laid hands on a police officer's uniform without any right and struck me. Do you know the penalty for assaulting a senior officer?\"",
+     "crop": "full",
+     "motion": "static drift",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_082",
+     "startMs": 712126,
+     "endMs": 720396,
+     "narration_dhivehi": "ހަމަޖެހޭ ރާގެއްގައި ނޫރިން ބުނެލިއެވެ. \"ކޮބާ ތި ކަމުގެ ހެއްކަކީ؟\" އެ މީހާ ހަރުކަށިކަމާއެކު ރައްދު ދިނެވެ. \"ހެކި މަދީތަ؟",
+     "narration_english": "Noorin said in a calm tone. \"Where's your proof of that?\" the man replied stubbornly. \"Not enough witnesses?",
+     "crop": "medium",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      0.0,
+      0.0,
+      71.5,
+      84.7
+     ]
+    },
+    {
+     "id": "shot_083",
+     "startMs": 720396,
+     "endMs": 727167,
+     "narration_dhivehi": "މުޅި މަންޒަރުގެ ރެކޯޑިންގ ވެސް އެބައޮތް.\" ނޫރިން ނުހަނު ހަމަޖެހިލާފައި އެ ތަނުން ނުކުމެގެން ހިނގައިގަތެވެ.",
+     "narration_english": "There's a recording of the whole scene too.\" Utterly calm, Noorin walked out of the place.",
+     "crop": "tight",
+     "motion": "pan left",
+     "sfx": [
+      {
+       "name": "footsteps_pavement",
+       "atMs": 726107,
+       "gainDb": -22,
+       "word": "ހިނގައިގަތެވެ."
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      0.0,
+      1.2,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Noorin), create a new scene: Cinematic semi-realistic digital illustration with a moody modern crime-drama look, deep navy, teal and charcoal shadows with crimson and electric-blue accents and warm amber practical lights, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, wet pavement, sand, table top, soft shadow) for captions and a logo; present-day night scenes in Malé glisten with rain and reflections, while flashback scenes from twelve years earlier have softer, warmer golden light and a gentle haze.\nScene: two male police officers in uniform stepping in and steering the offender (grey prison shirt) away to the far side of the cell by his arms; Noorin in her dark-navy police uniform, black hijab fully covering her hair and neck and black beret standing composed on the other side of the room, straightening her uniform collar, a faint cold mocking smile; the small security camera with a red light high in the corner; nobody is hurt. Location: a bare prison interview cell, grey concrete walls, a wall of steel bars with a barred door, a small metal table and two metal chairs, a small security camera high in one corner. Camera: medium wide shot, eye level, faces in the upper two-thirds, a calm uncluttered lower third (concrete floor).\nCharacters: Noorin: a slim upright Maldivian woman of about 34 with warm brown skin, an oval face, large dark almond-shaped eyes, straight dark eyebrows, a small straight nose, full lips and a composed serious expression; wears a dark-navy long-sleeved police uniform shirt buttoned to the collar with shoulder epaulettes each bearing two small silver stars, dark-navy uniform trousers, a black belt and polished black boots, a black hijab wrapped snugly and fully covering her hair and neck, and a black beret worn over the hijab.\nMood/lighting: present day, cold fluorescent light, harsh shadows, steel-grey and navy tones, tense and charged.\nModest Maldivian clothing (every woman in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck; men in long-sleeved shirts or suits and long trousers), a clear respectful distance between men and women, nobody touching, culturally respectful, no violence shown, no blood, no wounds, no injuries, no weapons, no guns, no person lying on the ground, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.21,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 22.9,
+    "y_pct": 36.4,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_029",
+   "startMs": 727167,
+   "endMs": 737767,
+   "new_image_reason": "scene and time change: leaving the court with other officers, she suddenly stops",
+   "characters": [
+    "noorin"
+   ],
+   "location": "the steps and paved forecourt of a white court building in Malé in the daytime, a few palm trees, a white police vehicle with a light bar parked at the kerb, traffic in the street",
+   "location_key": "court",
+   "mood": "present day, bright tropical midday sun, crisp shadows, blue sky",
+   "visual": "Noorin in her dark-navy police uniform, black hijab fully covering her hair and neck and black beret walking down the court steps with two male police officers in uniform towards the white police vehicle, an arm's-length gap between her and them, suddenly stopping mid-step, her eyes fixed on someone ahead",
+   "camera": "medium wide shot, eye level, faces in the upper two-thirds, a calm uncluttered lower third (sunlit paving)",
+   "image": "images/beat_029.png",
+   "reuse_of": null,
+   "transition_in": "black",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "city_day",
+   "shots": [
+    {
+     "id": "shot_084",
+     "startMs": 727167,
+     "endMs": 737767,
+     "narration_dhivehi": "ކޯޓުން ނުކުމެ، އެހެން އޮފިސަރުންނާ އެކު ފުލުހުންގެ ވެހިކަލާ ދިމާއަށް ދަނިކޮށް، ކުރިމަތިން ފެނުނު ސޫރައަކުން ނޫރިންގެ ފިޔަވަޅުތަކަށް ކުއްލި ހުއްޓުމެއް އައެވެ.",
+     "narration_english": "Coming out of the court, as she walked with the other officers towards the police vehicle, a face she saw ahead brought Noorin's steps to a sudden stop.",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [
+      {
+       "name": "footsteps_pavement",
+       "atMs": 731987,
+       "gainDb": -24,
+       "word": "ދަނިކޮށް،"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Noorin), create a new scene: Cinematic semi-realistic digital illustration with a moody modern crime-drama look, deep navy, teal and charcoal shadows with crimson and electric-blue accents and warm amber practical lights, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, wet pavement, sand, table top, soft shadow) for captions and a logo; present-day night scenes in Malé glisten with rain and reflections, while flashback scenes from twelve years earlier have softer, warmer golden light and a gentle haze.\nScene: Noorin in her dark-navy police uniform, black hijab fully covering her hair and neck and black beret walking down the court steps with two male police officers in uniform towards the white police vehicle, an arm's-length gap between her and them, suddenly stopping mid-step, her eyes fixed on someone ahead. Location: the steps and paved forecourt of a white court building in Malé in the daytime, a few palm trees, a white police vehicle with a light bar parked at the kerb, traffic in the street. Camera: medium wide shot, eye level, faces in the upper two-thirds, a calm uncluttered lower third (sunlit paving).\nCharacters: Noorin: a slim upright Maldivian woman of about 34 with warm brown skin, an oval face, large dark almond-shaped eyes, straight dark eyebrows, a small straight nose, full lips and a composed serious expression; wears a dark-navy long-sleeved police uniform shirt buttoned to the collar with shoulder epaulettes each bearing two small silver stars, dark-navy uniform trousers, a black belt and polished black boots, a black hijab wrapped snugly and fully covering her hair and neck, and a black beret worn over the hijab.\nMood/lighting: present day, bright tropical midday sun, crisp shadows, blue sky.\nModest Maldivian clothing (every woman in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck; men in long-sleeved shirts or suits and long trousers), a clear respectful distance between men and women, nobody touching, culturally respectful, no violence shown, no blood, no wounds, no injuries, no weapons, no guns, no person lying on the ground, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "black",
+    "bg_luminance": 0.712,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 39.6,
+    "y_pct": 19.8,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_030",
+   "startMs": 737767,
+   "endMs": 747857,
+   "new_image_reason": "character change: Aakif sees her from a distance, overjoyed",
+   "characters": [
+    "aakif"
+   ],
+   "location": "the steps and paved forecourt of a white court building in Malé in the daytime, a few palm trees, a white police vehicle with a light bar parked at the kerb, traffic in the street",
+   "location_key": "court",
+   "mood": "present day, bright tropical midday sun, crisp shadows, blue sky",
+   "visual": "Aakif standing completely alone in the middle of the open sunny court forecourt, nobody near him and nobody in the foreground, staring into the distance with wide eyes and parted lips, overwhelmed wonder and joy in his face as if he has found a long-lost jewel, palm trees and traffic far behind him",
+   "camera": "medium shot, eye level, faces in the upper two-thirds, a calm uncluttered lower third (sunlit paving)",
+   "image": "images/beat_030.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "city_day",
+   "shots": [
+    {
+     "id": "shot_085",
+     "startMs": 737767,
+     "endMs": 747857,
+     "narration_dhivehi": "އެ މީހާގެ މޫނުމަތިން ފެނިގެންދިޔައީ އިންތިހާ ދަރަޖައިގެ އުފާވެރިކަމެވެ. ހީވީ އެތައް ޒަމާނަކަށް ފަހު ގެއްލިފައިވާ އަގުބޮޑު ޖަވާހިރެއް ފެނުނު ހެންނެވެ. ނަމަވެސް،",
+     "narration_english": "On that man's face was joy of the highest degree. It was as if he had found a precious jewel lost for ages. But",
+     "crop": "full",
+     "motion": "pan right",
+     "sfx": [],
+     "hum": true,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Aakif), create a new scene: Cinematic semi-realistic digital illustration with a moody modern crime-drama look, deep navy, teal and charcoal shadows with crimson and electric-blue accents and warm amber practical lights, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, wet pavement, sand, table top, soft shadow) for captions and a logo; present-day night scenes in Malé glisten with rain and reflections, while flashback scenes from twelve years earlier have softer, warmer golden light and a gentle haze.\nScene: Aakif standing completely alone in the middle of the open sunny court forecourt, nobody near him and nobody in the foreground, staring into the distance with wide eyes and parted lips, overwhelmed wonder and joy in his face as if he has found a long-lost jewel, palm trees and traffic far behind him. Location: the steps and paved forecourt of a white court building in Malé in the daytime, a few palm trees, a white police vehicle with a light bar parked at the kerb, traffic in the street. Camera: medium shot, eye level, faces in the upper two-thirds, a calm uncluttered lower third (sunlit paving).\nCharacters: Aakif: a tall muscular upright Maldivian man of about 36 with warm brown skin, a lean angular face, calm intense dark eyes, very short black hair and a short dark stubble beard; wears a fitted black long-sleeved shirt with buttoned cuffs, dark-grey trousers and a black leather wristwatch.\nMood/lighting: present day, bright tropical midday sun, crisp shadows, blue sky.\nModest Maldivian clothing (every woman in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck; men in long-sleeved shirts or suits and long trousers), a clear respectful distance between men and women, nobody touching, culturally respectful, no violence shown, no blood, no wounds, no injuries, no weapons, no guns, no person lying on the ground, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.157,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 49.4,
+    "y_pct": 20.7,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_031",
+   "startMs": 747857,
+   "endMs": 756578,
+   "new_image_reason": "action change: she puts on sunglasses, ignores him and gets into the vehicle",
+   "characters": [
+    "noorin"
+   ],
+   "location": "the steps and paved forecourt of a white court building in Malé in the daytime, a few palm trees, a white police vehicle with a light bar parked at the kerb, traffic in the street",
+   "location_key": "court",
+   "mood": "present day, bright tropical midday sun, crisp shadows, blue sky",
+   "visual": "Noorin in her dark-navy police uniform, black hijab fully covering her hair and neck and black beret sliding on dark sunglasses with an expressionless face as she walks alone towards the white police vehicle and reaches for its open passenger door herself; two male officers already walking to the far side of the vehicle several steps away from her, a wide gap between them",
+   "camera": "medium shot, eye level, faces in the upper two-thirds, a calm uncluttered lower third (sunlit road)",
+   "image": "images/beat_031.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "city_day",
+   "shots": [
+    {
+     "id": "shot_086",
+     "startMs": 747857,
+     "endMs": 756578,
+     "narration_dhivehi": "ނޫރިން އެކަމަށް އެއްވެސް ސަމާލުކަމެއް ނުދީ، އަވިއައިނު އަޅައިގެން ކުރިއަށް ހިނގައިގަތެވެ. އަދި އޮފިސަރުންނާ ވާހަކަދައްކަމުން ގޮސް ވެހިކަލަށް އެރިއެވެ.",
+     "narration_english": "Noorin paid it no attention at all; putting on her sunglasses she walked on. And talking with the officers, she got into the vehicle.",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [
+      {
+       "name": "car_door",
+       "atMs": 755948,
+       "gainDb": -18,
+       "word": "އެރިއެވެ."
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Noorin), create a new scene: Cinematic semi-realistic digital illustration with a moody modern crime-drama look, deep navy, teal and charcoal shadows with crimson and electric-blue accents and warm amber practical lights, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, wet pavement, sand, table top, soft shadow) for captions and a logo; present-day night scenes in Malé glisten with rain and reflections, while flashback scenes from twelve years earlier have softer, warmer golden light and a gentle haze.\nScene: Noorin in her dark-navy police uniform, black hijab fully covering her hair and neck and black beret sliding on dark sunglasses with an expressionless face as she walks alone towards the white police vehicle and reaches for its open passenger door herself; two male officers already walking to the far side of the vehicle several steps away from her, a wide gap between them. Location: the steps and paved forecourt of a white court building in Malé in the daytime, a few palm trees, a white police vehicle with a light bar parked at the kerb, traffic in the street. Camera: medium shot, eye level, faces in the upper two-thirds, a calm uncluttered lower third (sunlit road).\nCharacters: Noorin: a slim upright Maldivian woman of about 34 with warm brown skin, an oval face, large dark almond-shaped eyes, straight dark eyebrows, a small straight nose, full lips and a composed serious expression; wears a dark-navy long-sleeved police uniform shirt buttoned to the collar with shoulder epaulettes each bearing two small silver stars, dark-navy uniform trousers, a black belt and polished black boots, a black hijab wrapped snugly and fully covering her hair and neck, and a black beret worn over the hijab.\nMood/lighting: present day, bright tropical midday sun, crisp shadows, blue sky.\nModest Maldivian clothing (every woman in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck; men in long-sleeved shirts or suits and long trousers), a clear respectful distance between men and women, nobody touching, culturally respectful, no violence shown, no blood, no wounds, no injuries, no weapons, no guns, no person lying on the ground, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.318,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 48.5,
+    "y_pct": 21.8,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_032",
+   "startMs": 756578,
+   "endMs": 774068,
+   "new_image_reason": "back to Aakif: he thinks he imagined her",
+   "characters": [
+    "aakif"
+   ],
+   "location": "the steps and paved forecourt of a white court building in Malé in the daytime, a few palm trees, a white police vehicle with a light bar parked at the kerb, traffic in the street",
+   "location_key": "court",
+   "mood": "present day, bright tropical midday sun, crisp shadows, blue sky",
+   "visual": "reuse of beat_030",
+   "camera": "medium shot, eye level",
+   "image": "images/beat_030.png",
+   "reuse_of": "beat_030",
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "city_day",
+   "shots": [
+    {
+     "id": "shot_087",
+     "startMs": 756578,
+     "endMs": 765448,
+     "narration_dhivehi": "އެ މަންޒަރު ފެނި ހައިރާންވެފައި ހުރި އެ މީހާގެ އަމިއްލަ ނަފުސަށް ބުނެވުނެވެ. \"އެއީ ހަމަ ނޫރިން... އެކަމަކު ނޫރިން ފުލުހުންގެ ޔުނީފޯމުގައި؟",
+     "narration_english": "Stunned by the sight, the man said to himself: \"That was Noorin herself... but Noorin in a police uniform?",
+     "crop": "tight",
+     "motion": "pan up",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      19.7,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_088",
+     "startMs": 765448,
+     "endMs": 774068,
+     "narration_dhivehi": "ނޫން، އެއީ އަހަންނަށް ހީވި ކުށްހީއެއް. ނޫރިން އެއަށްވުރެ މާ ފިނޑިވާނެ.\" އާކިފަށް ބުނެވުނެވެ. ވެހިކަލް ދުއްވާލުމާއެކު،",
+     "narration_english": "No, I must have imagined it. Noorin is far weaker than that,\" Aakif told himself. As the vehicle drove off,",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [
+      {
+       "name": "car_drive_off",
+       "atMs": 772848,
+       "gainDb": -18,
+       "word": "ދުއްވާލުމާއެކު،"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [],
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.138,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 49.4,
+    "y_pct": 20.7,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_033",
+   "startMs": 774068,
+   "endMs": 802910,
+   "new_image_reason": "scene change: inside the moving vehicle she looks back at Aakif in the side mirror",
+   "characters": [
+    "noorin"
+   ],
+   "location": "the inside of a police vehicle driving through Malé in the daytime, the passenger-side window and side mirror, city buildings sliding past",
+   "location_key": "car",
+   "mood": "present day, bright daylight through the window, cool shade inside the vehicle, quiet and guarded",
+   "visual": "Noorin in her dark-navy police uniform, black hijab fully covering her hair and neck and black beret in the passenger seat of the moving police vehicle, holding her sunglasses in one hand, looking into the side mirror with a guarded, unreadable, faintly sad expression; in the mirror a small distant figure of a man in black on the sunny road",
+   "camera": "medium close-up from inside the vehicle, eye level, faces in the upper two-thirds, a calm uncluttered lower third (dashboard in soft shade)",
+   "image": "images/beat_033.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "car_interior",
+   "shots": [
+    {
+     "id": "shot_089",
+     "startMs": 774068,
+     "endMs": 782269,
+     "narration_dhivehi": "ނޫރިން އައިނު ނަގައި، ސައިޑް ލޯގަނޑުން އާކިފަށް ބަލައިލިއެވެ. މިއަދު އޭނާ އާކިފަކީ ދަންނަ މީހަކަށް ހަދާކަށް ބޭނުމެއް ނޫނެވެ.",
+     "narration_english": "Noorin took off her glasses and looked at Aakif in the side mirror. Today she had no wish to treat Aakif as someone she knew.",
+     "crop": "full",
+     "motion": "pan down",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_090",
+     "startMs": 782269,
+     "endMs": 790339,
+     "narration_dhivehi": "އޭނާގެ ދިރިއުޅުމުގެ މުހިންމު ބާބެއް ހިއްސާކުރި އާކިފްގެ މަތިން، މީގެ ބާރަ އަހަރު ކުރިން އޭނާ ވަނީ ހަނދާން ނައްތައިލައިފައެވެ.",
+     "narration_english": "Twelve years ago she had erased from her memory Aakif, who had shared an important chapter of her life.",
+     "crop": "tight",
+     "motion": "static drift",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_091",
+     "startMs": 790339,
+     "endMs": 799219,
+     "narration_dhivehi": "އެ މީހުންގެ ދުނިޔެއާއި އޭނާގެ ދުނިޔެއަކީ މުޅިން ތަފާތު ދެ ދުނިޔެއެކެވެ. އޭނާ މި ވަނީ އޭނާގެ މުޅި ހަޔާތް ގައުމާއި ދީނުގެ ޚިދުމަތަށް ހުސްކޮށްފައެވެ.",
+     "narration_english": "Their world and hers were two completely different worlds. She has devoted her whole life to the service of her nation and her religion.",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_092",
+     "startMs": 799219,
+     "endMs": 802910,
+     "narration_dhivehi": "އެ ހިތުގައި ދުންޔަވީ ލޯބީގެ ޖަޒުބާތުތަކަށް އެއްވެސް ޖާގައެއް ނެތެވެ.",
+     "narration_english": "In that heart there is no room at all for the feelings of worldly love.",
+     "crop": "medium",
+     "motion": "pan left",
+     "sfx": [],
+     "hum": true,
+     "crop_rect_pct": [
+      1.7,
+      0.0,
+      71.5,
+      84.7
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Noorin), create a new scene: Cinematic semi-realistic digital illustration with a moody modern crime-drama look, deep navy, teal and charcoal shadows with crimson and electric-blue accents and warm amber practical lights, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, wet pavement, sand, table top, soft shadow) for captions and a logo; present-day night scenes in Malé glisten with rain and reflections, while flashback scenes from twelve years earlier have softer, warmer golden light and a gentle haze.\nScene: Noorin in her dark-navy police uniform, black hijab fully covering her hair and neck and black beret in the passenger seat of the moving police vehicle, holding her sunglasses in one hand, looking into the side mirror with a guarded, unreadable, faintly sad expression; in the mirror a small distant figure of a man in black on the sunny road. Location: the inside of a police vehicle driving through Malé in the daytime, the passenger-side window and side mirror, city buildings sliding past. Camera: medium close-up from inside the vehicle, eye level, faces in the upper two-thirds, a calm uncluttered lower third (dashboard in soft shade).\nCharacters: Noorin: a slim upright Maldivian woman of about 34 with warm brown skin, an oval face, large dark almond-shaped eyes, straight dark eyebrows, a small straight nose, full lips and a composed serious expression; wears a dark-navy long-sleeved police uniform shirt buttoned to the collar with shoulder epaulettes each bearing two small silver stars, dark-navy uniform trousers, a black belt and polished black boots, a black hijab wrapped snugly and fully covering her hair and neck, and a black beret worn over the hijab.\nMood/lighting: present day, bright daylight through the window, cool shade inside the vehicle, quiet and guarded.\nModest Maldivian clothing (every woman in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck; men in long-sleeved shirts or suits and long trousers), a clear respectful distance between men and women, nobody touching, culturally respectful, no violence shown, no blood, no wounds, no injuries, no weapons, no guns, no person lying on the ground, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.045,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 37.5,
+    "y_pct": 27.3,
+    "face_detected": true
+   }
+  }
+ ]
+}

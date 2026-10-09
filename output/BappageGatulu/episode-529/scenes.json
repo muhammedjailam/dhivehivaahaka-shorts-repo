@@ -1,0 +1,3288 @@
+{
+ "series": "BappageGatulu",
+ "episode": 529,
+ "beats": [
+  {
+   "id": "beat_001",
+   "startMs": 0,
+   "endMs": 19910,
+   "new_image_reason": "episode opening: the stormy sky over Malé just past 2 am",
+   "characters": [],
+   "location": "the skyline of Malé city at night seen across the dark rough sea: dense tall buildings with a few lit windows, black storm clouds piled overhead, wet rooftops",
+   "location_key": "male_sky",
+   "mood": "just past 2 am, pitch-dark sky, a jagged white lightning flash lighting the clouds and the sea, cold damp wind, rain about to pour, ominous",
+   "visual": "a jagged white lightning bolt splitting the black storm clouds over the dark Malé skyline, the rough sea below catching the flash, wind bending a few palm trees in the foreground silhouette, no people",
+   "camera": "wide establishing shot, the sky and lightning in the upper two-thirds, the dark sea as a calm lower third",
+   "image": "images/beat_001.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "storm_night",
+   "shots": [
+    {
+     "id": "shot_001",
+     "startMs": 0,
+     "endMs": 9760,
+     "narration_dhivehi": "މާލޭގެ އުދަރެސް އޮތީ ވަރަށްބޮޑަށް އަނދިރިކޮށެވެ. ދޭތެރެ ދޭތެރެއިން ވިދާ ގުގުރަމުން ދެއެވެ. ވިދާލާ ކޮންމެ ވިދުވަރަކުން ބިރުވެރި އަލިކަމެއް ފެތުރިގެން ދެއެވެ.",
+     "narration_english": "The sky over Malé was pitch dark. Now and then lightning flashed, and every flash spread a frightening light.",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [
+      {
+       "name": "thunder",
+       "atMs": 4600,
+       "gainDb": -16,
+       "word": "ގުގުރަމުން"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_002",
+     "startMs": 9760,
+     "endMs": 19910,
+     "narration_dhivehi": "ގުގުރީގެ އަޑު އަދި މާގަދައެވެ. ތެތްފިނި ކަމާއެކު ބާރަށް ވައި ޖެހެމުން ދެއެވެ. ހީވަނީ ދެންމެ ދެންމެ ވާރޭ އޮއްސާލަފާނެ ހެންނެވެ. ގަޑިން މެންދަމުން އަލިވަނީއެވެ.",
+     "narration_english": "The thunder was louder still. A cold, damp wind was blowing hard. It seemed the rain could pour at any moment. The clock had just passed midnight.",
+     "crop": "tight",
+     "motion": "pan left",
+     "sfx": [
+      {
+       "name": "thunder",
+       "atMs": 10120,
+       "gainDb": -18,
+       "word": "ގުގުރީގެ"
+      },
+      {
+       "name": "wind_gust",
+       "atMs": 13620,
+       "gainDb": -20,
+       "word": "ވައި"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      20.3,
+      4.8,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Cinematic semi-realistic digital illustration with a dark modern political-thriller noir look, deep charcoal and teal shadows with blood-red accents and warm amber practical lights, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, wet pavement, desk top, soft shadow) for captions and a logo; night scenes in Malé glisten with rain, wet reflective streets and red-and-teal neon reflections, while the 2011 flashback scenes have a slightly desaturated, cold blue-grey haze.\nScene: a jagged white lightning bolt splitting the black storm clouds over the dark Malé skyline, the rough sea below catching the flash, wind bending a few palm trees in the foreground silhouette, no people. Location: the skyline of Malé city at night seen across the dark rough sea: dense tall buildings with a few lit windows, black storm clouds piled overhead, wet rooftops. Camera: wide establishing shot, the sky and lightning in the upper two-thirds, the dark sea as a calm lower third.\nMood/lighting: just past 2 am, pitch-dark sky, a jagged white lightning flash lighting the clouds and the sea, cold damp wind, rain about to pour, ominous.\nModest Maldivian clothing (every woman in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck; men fully clothed in shirts or t-shirts and long trousers, never shirtless), a clear respectful distance between men and women, no man touching a woman, culturally respectful, no violence shown, no blood, no wounds, no injuries, no knives, no weapons, no guns, no person lying on the ground, no cigarettes, no smoking, no alcohol, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.07,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 50.0,
+    "y_pct": 40.0,
+    "face_detected": false
+   }
+  },
+  {
+   "id": "beat_002",
+   "startMs": 19910,
+   "endMs": 29451,
+   "new_image_reason": "scene and character change: Asim and Raaya are away at the official banquet at Kurumba resort",
+   "characters": [
+    "asim",
+    "raaya"
+   ],
+   "location": "an elegant open-sided banquet pavilion at Kurumba Maldives resort at night, long tables with white tablecloths, glass water jugs and juice glasses, warm lanterns, palm trees and the dark lagoon beyond",
+   "location_key": "resort",
+   "mood": "night, warm golden lantern light, formal and calm, a quiet glittering contrast to the storm over Malé",
+   "visual": "Asim in his white shirt seated at a long banquet table with white tablecloth, smiling proudly and talking to unseen foreign guests, Raaya seated beside him with a polite tired smile; only glasses of water and juice on the table; the lagoon dark behind them",
+   "camera": "medium shot, eye level",
+   "image": "images/beat_002.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "resort_evening",
+   "shots": [
+    {
+     "id": "shot_003",
+     "startMs": 19910,
+     "endMs": 29451,
+     "narration_dhivehi": "ދާޚިލީ ވަޒީރު ޢާޞިމާއި އޭނާގެ ދަރިފުޅު ރާޔާ ވީ ރާއްޖޭން ބޭރުގެ ވަފުދަކަށް ބޭއްވި ރަސްމީ ބޮޑު ޖާފަތަކަށް ކުރުބާ މޯލްޑިވްސް ރިސޯޓަށް ދިޔަގޮތަށް އެތަނުގައެވެ.",
+     "narration_english": "Home Minister Asim and his daughter Raaya were away at Kurumba Maldives resort, at a big official banquet held for a foreign delegation.",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Asim; reference image 2 is Raaya), create a new scene: Cinematic semi-realistic digital illustration with a dark modern political-thriller noir look, deep charcoal and teal shadows with blood-red accents and warm amber practical lights, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, wet pavement, desk top, soft shadow) for captions and a logo; night scenes in Malé glisten with rain, wet reflective streets and red-and-teal neon reflections, while the 2011 flashback scenes have a slightly desaturated, cold blue-grey haze.\nScene: Asim in his white shirt seated at a long banquet table with white tablecloth, smiling proudly and talking to unseen foreign guests, Raaya seated beside him with a polite tired smile; only glasses of water and juice on the table; the lagoon dark behind them. Location: an elegant open-sided banquet pavilion at Kurumba Maldives resort at night, long tables with white tablecloths, glass water jugs and juice glasses, warm lanterns, palm trees and the dark lagoon beyond. Camera: medium shot, eye level.\nCharacters: Asim: a tall heavy-set Maldivian man of about 60 with warm brown skin, a heavy square face, cold narrow dark eyes, a thick grey moustache, deep lines around the mouth and grey-streaked black hair slicked back; wears a crisp long-sleeved white shirt with buttoned cuffs, black trousers and a heavy gold wristwatch. Raaya: a slim graceful Maldivian young woman of about 23 with warm brown skin, a soft heart-shaped face, large bright innocent dark eyes and a gentle smile; wears a loose long-sleeved ankle-length plain white dress and a soft light-grey hijab wrapped snugly and fully covering her hair and neck.\nMood/lighting: night, warm golden lantern light, formal and calm, a quiet glittering contrast to the storm over Malé.\nModest Maldivian clothing (every woman in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck; men fully clothed in shirts or t-shirts and long trousers, never shirtless), a clear respectful distance between men and women, no man touching a woman, culturally respectful, no violence shown, no blood, no wounds, no injuries, no knives, no weapons, no guns, no person lying on the ground, no cigarettes, no smoking, no alcohol, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.198,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 32.0,
+    "y_pct": 29.9,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_003",
+   "startMs": 29451,
+   "endMs": 69542,
+   "new_image_reason": "scene and character change: Iyaan waits in the lane behind the mansion and starts the virus",
+   "characters": [
+    "iyaan"
+   ],
+   "location": "a narrow dark lane behind a huge modern walled mansion in Malé at night: a high smooth concrete boundary wall topped with lights, overhanging tree branches, wet uneven paving, a single dim street lamp",
+   "location_key": "lane",
+   "mood": "just past 2 am, deep teal darkness, the cold blue glow of a phone screen on his masked face, a faint red light from the wall, wind and a coming storm, tense",
+   "visual": "Iyaan dressed for the break-in in a black long-sleeved hooded top with the hood up, black trousers, black gloves and a plain black cloth face mask covering his nose and mouth, only his intense dark eyes visible — NOT the plain black t-shirt of the reference; he carries no weapon of any kind; he stands pressed against the high boundary wall in the narrow dark lane, looking down at the phone in his gloved hands, its screen glowing with abstract lines of code, his eyes sharp and focused above the mask",
+   "camera": "medium shot, slightly low angle, the wall rising behind him",
+   "image": "images/beat_003.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "night_lane",
+   "shots": [
+    {
+     "id": "shot_004",
+     "startMs": 29451,
+     "endMs": 38281,
+     "narration_dhivehi": "ގޭގައި ތިބީ ހަމައެކަނި ބޭރު ފާރުގެ ސެކިއުރިޓީ ބަލަހައްޓާ ގާޑުންނެވެ. އިޔާން ހުރީ ޢާޞިމްގެ ގޭގެ ފުރަގަހުގައި އޮތް ހަނި ގޯޅިގަނޑެއްގެ ތެރޭގައެވެ.",
+     "narration_english": "At the house there were only the guards who watched the security of the outer wall. Iyaan was in a narrow lane behind Asim's house.",
+     "crop": "full",
+     "motion": "pan right",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_005",
+     "startMs": 38281,
+     "endMs": 46621,
+     "narration_dhivehi": "އޭނާ ލާފައި ހުރީ ކަޅު ހެދުމެކެވެ. މޫނު ވަނީ މާސްކަކުން ނިވާކޮށްފައެވެ. އޭނާގެ އަތުގައި އޮތް ފޯނުން ކޯޑުތަކެއް ރަން ކުރަމުން ދިޔައެވެ.",
+     "narration_english": "He was dressed in black. His face was covered with a mask. On the phone in his hand, lines of code were running.",
+     "crop": "tight",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      20.3,
+      4.8,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_006",
+     "startMs": 46621,
+     "endMs": 52882,
+     "narration_dhivehi": "އޭނާގެ ހިތް ބާރަށް ތެޅެމުން ދިޔައެވެ. \"3... 2... 1... ރަން،\" އިޔާން މަޑުމަޑުން ބުނެލިއެވެ.",
+     "narration_english": "His heart was pounding. \"3... 2... 1... run,\" Iyaan said softly.",
+     "crop": "full",
+     "motion": "pan up",
+     "sfx": [
+      {
+       "name": "heartbeat",
+       "atMs": 47621,
+       "gainDb": -18,
+       "word": "ތެޅެމުން"
+      },
+      {
+       "name": "computer_beep",
+       "atMs": 50481,
+       "gainDb": -20,
+       "word": "ރަން،\""
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_007",
+     "startMs": 52882,
+     "endMs": 59332,
+     "narration_dhivehi": "އޭނާ ތައްޔާރުކުރި ވައިރަސް ޢާޞިމްގެ ގޭގެ މައި ސާވަރަށް ވަދެ، ސީސީޓީވީ ކެމެރާތަކުގެ ފީޑު ހުއްޓުވާލިއެވެ.",
+     "narration_english": "The virus he had prepared entered the main server of Asim's house and froze the CCTV camera feeds.",
+     "crop": "medium",
+     "motion": "slow pull-out",
+     "sfx": [
+      {
+       "name": "computer_beep",
+       "atMs": 58562,
+       "gainDb": -22,
+       "word": "ހުއްޓުވާލިއެވެ."
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      14.2,
+      0.0,
+      71.5,
+      84.7
+     ]
+    },
+    {
+     "id": "shot_008",
+     "startMs": 59332,
+     "endMs": 69542,
+     "narration_dhivehi": "ސެކިއުރިޓީ ރޫމްގައި ތިބި ގާޑުންނަށް މިހާރު ސްކްރީނުން ފެންނާނީ މީގެ ފަސް މިނެޓު ކުރިން ރެކޯޑްކޮށްފައި އޮތް ހަމަހިމޭން މަންޒަރެކެވެ. އިޔާން ފޯނު ޖީބަށްލުމަށްފަހު،",
+     "narration_english": "Now the guards in the security room would see on their screens only a calm scene recorded five minutes earlier. After slipping the phone into his pocket, Iyaan",
+     "crop": "tight",
+     "motion": "pan down",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      20.3,
+      4.8,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Iyaan), create a new scene: Cinematic semi-realistic digital illustration with a dark modern political-thriller noir look, deep charcoal and teal shadows with blood-red accents and warm amber practical lights, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, wet pavement, desk top, soft shadow) for captions and a logo; night scenes in Malé glisten with rain, wet reflective streets and red-and-teal neon reflections, while the 2011 flashback scenes have a slightly desaturated, cold blue-grey haze.\nScene: Iyaan dressed for the break-in in a black long-sleeved hooded top with the hood up, black trousers, black gloves and a plain black cloth face mask covering his nose and mouth, only his intense dark eyes visible — NOT the plain black t-shirt of the reference; he carries no weapon of any kind; he stands pressed against the high boundary wall in the narrow dark lane, looking down at the phone in his gloved hands, its screen glowing with abstract lines of code, his eyes sharp and focused above the mask. Location: a narrow dark lane behind a huge modern walled mansion in Malé at night: a high smooth concrete boundary wall topped with lights, overhanging tree branches, wet uneven paving, a single dim street lamp. Camera: medium shot, slightly low angle, the wall rising behind him.\nCharacters: Iyaan: a tall athletic Maldivian young man of 23 with warm brown skin, a lean handsome clean-shaven face with high cheekbones, intense deep-set dark eyes under straight heavy eyebrows, a firm jaw and thick short black hair swept up and back; wears a plain black crew-neck t-shirt, dark charcoal cargo trousers and a black wristwatch.\nMood/lighting: just past 2 am, deep teal darkness, the cold blue glow of a phone screen on his masked face, a faint red light from the wall, wind and a coming storm, tense.\nModest Maldivian clothing (every woman in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck; men fully clothed in shirts or t-shirts and long trousers, never shirtless), a clear respectful distance between men and women, no man touching a woman, culturally respectful, no violence shown, no blood, no wounds, no injuries, no knives, no weapons, no guns, no person lying on the ground, no cigarettes, no smoking, no alcohol, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.067,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 50.0,
+    "y_pct": 40.0,
+    "face_detected": false
+   }
+  },
+  {
+   "id": "beat_004",
+   "startMs": 69542,
+   "endMs": 79823,
+   "new_image_reason": "action change: the copied card opens the outer gate",
+   "characters": [
+    "iyaan"
+   ],
+   "location": "the tall dark metal gate in the high outer wall of Asim's huge modern mansion at night, a small black digital lock panel with a card pad beside it, wet paving, tree shadows",
+   "location_key": "gate",
+   "mood": "just past 2 am, darkness, a small green light glowing on the lock panel, wet reflections, silent tension",
+   "visual": "Iyaan dressed for the break-in in a black long-sleeved hooded top with the hood up, black trousers, black gloves and a plain black cloth face mask covering his nose and mouth, only his intense dark eyes visible — NOT the plain black t-shirt of the reference; he carries no weapon of any kind; close view of his gloved hand holding a plain blank white card against a small black lock panel beside the tall dark metal gate, the panel's small light turning green, his masked face in profile just behind, the gate starting to open a crack",
+   "camera": "close-up from the side, his eyes in the upper frame",
+   "image": "images/beat_004.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "night_exterior",
+   "shots": [
+    {
+     "id": "shot_009",
+     "startMs": 69542,
+     "endMs": 79823,
+     "narration_dhivehi": "ބޭރު ފާރުގެ ދޮރާށީގެ ޑިޖިޓަލް ލޮކް ކައިރިއަށް ޖެހިލިއެވެ. އޭނާ ރާޔާގެ އަތުން ކޮޕީކުރި ޑިޖިޓަލް ކާޑު ޖައްސާލުމާއެކު، ހިމޭން \"ބީޕް\" އަޑަކާއެކު ދޮރު ހުޅުވުނެވެ.",
+     "narration_english": "moved up to the digital lock of the outer gate. As he touched it with the digital card he had copied from Raaya, the gate opened with a quiet 'beep'.",
+     "crop": "full",
+     "motion": "static drift",
+     "sfx": [
+      {
+       "name": "computer_beep",
+       "atMs": 77522,
+       "gainDb": -18,
+       "word": "\"ބީޕް\""
+      },
+      {
+       "name": "lock_click",
+       "atMs": 78703,
+       "gainDb": -18,
+       "word": "ހުޅުވުނެވެ."
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Iyaan), create a new scene: Cinematic semi-realistic digital illustration with a dark modern political-thriller noir look, deep charcoal and teal shadows with blood-red accents and warm amber practical lights, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, wet pavement, desk top, soft shadow) for captions and a logo; night scenes in Malé glisten with rain, wet reflective streets and red-and-teal neon reflections, while the 2011 flashback scenes have a slightly desaturated, cold blue-grey haze.\nScene: Iyaan dressed for the break-in in a black long-sleeved hooded top with the hood up, black trousers, black gloves and a plain black cloth face mask covering his nose and mouth, only his intense dark eyes visible — NOT the plain black t-shirt of the reference; he carries no weapon of any kind; close view of his gloved hand holding a plain blank white card against a small black lock panel beside the tall dark metal gate, the panel's small light turning green, his masked face in profile just behind, the gate starting to open a crack. Location: the tall dark metal gate in the high outer wall of Asim's huge modern mansion at night, a small black digital lock panel with a card pad beside it, wet paving, tree shadows. Camera: close-up from the side, his eyes in the upper frame.\nCharacters: Iyaan: a tall athletic Maldivian young man of 23 with warm brown skin, a lean handsome clean-shaven face with high cheekbones, intense deep-set dark eyes under straight heavy eyebrows, a firm jaw and thick short black hair swept up and back; wears a plain black crew-neck t-shirt, dark charcoal cargo trousers and a black wristwatch.\nMood/lighting: just past 2 am, darkness, a small green light glowing on the lock panel, wet reflections, silent tension.\nModest Maldivian clothing (every woman in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck; men fully clothed in shirts or t-shirts and long trousers, never shirtless), a clear respectful distance between men and women, no man touching a woman, culturally respectful, no violence shown, no blood, no wounds, no injuries, no knives, no weapons, no guns, no person lying on the ground, no cigarettes, no smoking, no alcohol, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.194,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 50.0,
+    "y_pct": 40.0,
+    "face_detected": false
+   }
+  },
+  {
+   "id": "beat_005",
+   "startMs": 79823,
+   "endMs": 97463,
+   "new_image_reason": "scene change: he crosses the dark sitting room like a shadow",
+   "characters": [
+    "iyaan"
+   ],
+   "location": "the vast luxurious sitting room of Asim's mansion at night: polished white marble floors, expensive cream sofas, a glass coffee table, tall windows, a sweeping marble staircase rising in the background",
+   "location_key": "sitting",
+   "mood": "just past 2 am, dark and silent, faint teal moonlight through tall windows, long shadows on the marble, stealthy",
+   "visual": "Iyaan dressed for the break-in in a black long-sleeved hooded top with the hood up, black trousers, black gloves and a plain black cloth face mask covering his nose and mouth, only his intense dark eyes visible — NOT the plain black t-shirt of the reference; he carries no weapon of any kind; he moves silently in a low crouching walk across the vast dark marble sitting room towards the staircase, a dark lean figure among the expensive sofas, his reflection faint on the polished floor",
+   "camera": "wide shot from a high corner, the figure in the upper half, the gleaming floor as a calm lower third",
+   "image": "images/beat_005.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "mansion_night",
+   "shots": [
+    {
+     "id": "shot_010",
+     "startMs": 79823,
+     "endMs": 88443,
+     "narration_dhivehi": "އިޔާން ހިޔަންޏެއް ފަދައިން ގޭގެ އެތެރެއަށް ދެމިގަތެވެ. ސިޓިންގްރޫމްގެ ތެރެއިން ލާފައި އޭނާ ދިޔައީ ކެމެރާތަކަށް އެއްވެސް ސަމާލުކަމެއް ނުދީއެވެ.",
+     "narration_english": "Iyaan slipped into the house like a shadow. He passed through the sitting room without paying the cameras any attention.",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_011",
+     "startMs": 88443,
+     "endMs": 97463,
+     "narration_dhivehi": "ކެމެރާތައް ހުރީ 'ހެކް' ކުރެވިފައެވެ. ނަމަވެސް އޭނާގެ ކޮންމެ ފިޔަވަޅެއްގެ އަޑު ތަޅުންގަނޑުގައި ޖެހޭ އަޑުންވެސް މުޅި މާހައުލު ސިއްސުވާލާހާ ހިމޭނެވެ.",
+     "narration_english": "The cameras had been hacked. Still, it was so silent that even the sound of each of his footsteps on the floor sent a shiver through the whole place.",
+     "crop": "tight",
+     "motion": "pan left",
+     "sfx": [
+      {
+       "name": "footsteps_pavement",
+       "atMs": 92163,
+       "gainDb": -24,
+       "word": "ފިޔަވަޅެއްގެ"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      20.3,
+      4.8,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Iyaan), create a new scene: Cinematic semi-realistic digital illustration with a dark modern political-thriller noir look, deep charcoal and teal shadows with blood-red accents and warm amber practical lights, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, wet pavement, desk top, soft shadow) for captions and a logo; night scenes in Malé glisten with rain, wet reflective streets and red-and-teal neon reflections, while the 2011 flashback scenes have a slightly desaturated, cold blue-grey haze.\nScene: Iyaan dressed for the break-in in a black long-sleeved hooded top with the hood up, black trousers, black gloves and a plain black cloth face mask covering his nose and mouth, only his intense dark eyes visible — NOT the plain black t-shirt of the reference; he carries no weapon of any kind; he moves silently in a low crouching walk across the vast dark marble sitting room towards the staircase, a dark lean figure among the expensive sofas, his reflection faint on the polished floor. Location: the vast luxurious sitting room of Asim's mansion at night: polished white marble floors, expensive cream sofas, a glass coffee table, tall windows, a sweeping marble staircase rising in the background. Camera: wide shot from a high corner, the figure in the upper half, the gleaming floor as a calm lower third.\nCharacters: Iyaan: a tall athletic Maldivian young man of 23 with warm brown skin, a lean handsome clean-shaven face with high cheekbones, intense deep-set dark eyes under straight heavy eyebrows, a firm jaw and thick short black hair swept up and back; wears a plain black crew-neck t-shirt, dark charcoal cargo trousers and a black wristwatch.\nMood/lighting: just past 2 am, dark and silent, faint teal moonlight through tall windows, long shadows on the marble, stealthy.\nModest Maldivian clothing (every woman in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck; men fully clothed in shirts or t-shirts and long trousers, never shirtless), a clear respectful distance between men and women, no man touching a woman, culturally respectful, no violence shown, no blood, no wounds, no injuries, no knives, no weapons, no guns, no person lying on the ground, no cigarettes, no smoking, no alcohol, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.12,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 50.0,
+    "y_pct": 40.0,
+    "face_detected": false
+   }
+  },
+  {
+   "id": "beat_006",
+   "startMs": 97463,
+   "endMs": 127944,
+   "new_image_reason": "scene and action change: the fingerprint reader at the secret office door",
+   "characters": [
+    "iyaan"
+   ],
+   "location": "the upstairs landing of Asim's mansion at night: the top of a marble staircase, a dark corridor and a big heavy dark wooden office door with a small glowing biometric fingerprint reader panel beside it",
+   "location_key": "landing",
+   "mood": "just past 2 am, darkness, the cold blue glow of the reader panel lighting the gloved hand and masked face, breath-holding suspense",
+   "visual": "Iyaan dressed for the break-in in a black long-sleeved hooded top with the hood up, black trousers, black gloves and a plain black cloth face mask covering his nose and mouth, only his intense dark eyes visible — NOT the plain black t-shirt of the reference; he carries no weapon of any kind; he stands at the big dark office door and presses his gloved right thumb, with a thin transparent silicone layer on it, onto the small glowing biometric reader panel; the panel glows soft green; he holds his breath, eyes wide above the mask",
+   "camera": "medium close-up from the side, the panel and his eyes in the upper two-thirds",
+   "image": "images/beat_006.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "mansion_night",
+   "shots": [
+    {
+     "id": "shot_012",
+     "startMs": 97463,
+     "endMs": 109054,
+     "narration_dhivehi": "އޭނާ ސިޑިން މައްޗަށް އަރައި، ޢާޞިމްގެ ސިއްރު އޮފީސް ކޮޓަރީގެ ކުރިމައްޗަށް ހުއްޓުނެވެ. ކޮޓަރީގެ ބޮޑު ދޮރުގައި ނޫކުލައިގެ އަލިކަމެއް ދިއްލިފައި ހުރި ބަޔޯމެޓްރިކް ފިންގަރޕްރިންޓް ރީޑަރެއް ހުއްޓެވެ.",
+     "narration_english": "He climbed the stairs and stopped in front of Asim's secret office. On the room's big door was a biometric fingerprint reader glowing blue.",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [
+      {
+       "name": "footsteps_pavement",
+       "atMs": 98443,
+       "gainDb": -24,
+       "word": "އަރައި،"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_013",
+     "startMs": 109054,
+     "endMs": 119204,
+     "narration_dhivehi": "އިޔާން އޭނާގެ ކަނާތުގެ ބޮޑުވައިއިނގިލީގައި ތަތްކޮށްފައި އޮތް ތުނި ސިލިކަން ނިޝާން ރީޑަރުގެ މަތީގައި ބޭއްވިއެވެ. ޝްޝްޝް... ރީޑަރުން ރަތްކުލައިގެ އަލިގަނޑެއް ދުވެލިއެވެ.",
+     "narration_english": "Iyaan placed the thin silicone print stuck to his right thumb on the reader. Shhh... a red light ran across the reader.",
+     "crop": "tight",
+     "motion": "pan right",
+     "sfx": [
+      {
+       "name": "computer_beep",
+       "atMs": 117364,
+       "gainDb": -22,
+       "word": "ރަތްކުލައިގެ"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      20.3,
+      4.8,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_014",
+     "startMs": 119204,
+     "endMs": 127944,
+     "narration_dhivehi": "އިޔާން ނޭވާ ހިފަހައްޓާލިއެވެ. ބީޕް! ރީޑަރުގެ ބޮކި ފެހިކުލައަށް ބަދަލުވިއެވެ. އަދި ދޮރުގެ އެތެރެއިން ތަޅު ހުޅުވުނު ބަރު އަޑު އިވުނެވެ.",
+     "narration_english": "Iyaan held his breath. Beep! The reader's light turned green, and from inside the door came the heavy sound of the lock opening.",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [
+      {
+       "name": "breath",
+       "atMs": 119844,
+       "gainDb": -22,
+       "word": "ނޭވާ"
+      },
+      {
+       "name": "computer_beep",
+       "atMs": 121204,
+       "gainDb": -16,
+       "word": "ބީޕް!"
+      },
+      {
+       "name": "lock_click",
+       "atMs": 125924,
+       "gainDb": -16,
+       "word": "ހުޅުވުނު"
+      }
+     ],
+     "hum": true,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Iyaan), create a new scene: Cinematic semi-realistic digital illustration with a dark modern political-thriller noir look, deep charcoal and teal shadows with blood-red accents and warm amber practical lights, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, wet pavement, desk top, soft shadow) for captions and a logo; night scenes in Malé glisten with rain, wet reflective streets and red-and-teal neon reflections, while the 2011 flashback scenes have a slightly desaturated, cold blue-grey haze.\nScene: Iyaan dressed for the break-in in a black long-sleeved hooded top with the hood up, black trousers, black gloves and a plain black cloth face mask covering his nose and mouth, only his intense dark eyes visible — NOT the plain black t-shirt of the reference; he carries no weapon of any kind; he stands at the big dark office door and presses his gloved right thumb, with a thin transparent silicone layer on it, onto the small glowing biometric reader panel; the panel glows soft green; he holds his breath, eyes wide above the mask. Location: the upstairs landing of Asim's mansion at night: the top of a marble staircase, a dark corridor and a big heavy dark wooden office door with a small glowing biometric fingerprint reader panel beside it. Camera: medium close-up from the side, the panel and his eyes in the upper two-thirds.\nCharacters: Iyaan: a tall athletic Maldivian young man of 23 with warm brown skin, a lean handsome clean-shaven face with high cheekbones, intense deep-set dark eyes under straight heavy eyebrows, a firm jaw and thick short black hair swept up and back; wears a plain black crew-neck t-shirt, dark charcoal cargo trousers and a black wristwatch.\nMood/lighting: just past 2 am, darkness, the cold blue glow of the reader panel lighting the gloved hand and masked face, breath-holding suspense.\nModest Maldivian clothing (every woman in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck; men fully clothed in shirts or t-shirts and long trousers, never shirtless), a clear respectful distance between men and women, no man touching a woman, culturally respectful, no violence shown, no blood, no wounds, no injuries, no knives, no weapons, no guns, no person lying on the ground, no cigarettes, no smoking, no alcohol, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.105,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 50.0,
+    "y_pct": 40.0,
+    "face_detected": false
+   }
+  },
+  {
+   "id": "beat_007",
+   "startMs": 127944,
+   "endMs": 153865,
+   "new_image_reason": "scene change: inside Asim's secret office by flashlight",
+   "characters": [
+    "iyaan"
+   ],
+   "location": "Asim's secret private office upstairs in his huge modern Malé mansion: a large dark polished wooden desk with a leather chair, tall dark bookshelves full of leather-bound files covering the walls, a big grey steel safe with a small keypad set into the wall behind the desk, a long heavy dark-red floor-length curtain on one side hiding a glass balcony door, a heavy wooden door with a small biometric reader panel beside it, the room completely dark",
+   "location_key": "office_dark",
+   "mood": "just past 2 am, nearly total darkness cut by the narrow white beam of a small flashlight and a faint green glow from a small device, dust in the beam, tense silence",
+   "visual": "Iyaan dressed for the break-in in a black long-sleeved hooded top with the hood up, black trousers, black gloves and a plain black cloth face mask covering his nose and mouth, only his intense dark eyes visible — NOT the plain black t-shirt of the reference; he carries no weapon of any kind; he stands just inside the dark office holding a small flashlight, its narrow white beam sweeping over the large dark desk and the tall bookshelves and coming to rest on the big grey steel safe in the wall behind the desk",
+   "camera": "wide shot from behind his shoulder, the beam and the safe in the upper half, the dark floor as a calm lower third",
+   "image": "images/beat_007.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "office_night",
+   "shots": [
+    {
+     "id": "shot_015",
+     "startMs": 127944,
+     "endMs": 137265,
+     "narration_dhivehi": "އިޔާން އަވަހަށް އެތެރެއަށް ވަދެ ދޮރު ލައްޕާލިއެވެ. ކޮޓަރީގެ އެތެރެއަށް ވެރިވެފައި އޮތީ ހިމޭންކަމެކެވެ. އިޔާން އޭނާގެ އަތުގައި އޮތް ކުޑަ ފްލޭޝްލައިޓް ދިއްލާލިއެވެ.",
+     "narration_english": "Iyaan went in quickly and pushed the door shut. Silence filled the room. He switched on the small flashlight in his hand.",
+     "crop": "full",
+     "motion": "pan up",
+     "sfx": [
+      {
+       "name": "door_close",
+       "atMs": 129664,
+       "gainDb": -20,
+       "word": "ލައްޕާލިއެވެ."
+      },
+      {
+       "name": "flashlight_click",
+       "atMs": 136325,
+       "gainDb": -18,
+       "word": "ދިއްލާލިއެވެ."
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_016",
+     "startMs": 137265,
+     "endMs": 143525,
+     "narration_dhivehi": "އެއީ ޢާޞިމްގެ ސިއްރު އޮފީހެވެ. ބޮޑު މޭޒަކާއި، ފާރުގައި ހުރި ބޮޑެތި ފޮތް ހަރުގަނޑުތަކެވެ.",
+     "narration_english": "It was Asim's secret office: a big desk, and huge bookshelves on the walls.",
+     "crop": "tight",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      20.3,
+      4.8,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_017",
+     "startMs": 143525,
+     "endMs": 153865,
+     "narration_dhivehi": "އިޔާން މިސްރާބު ޖެހީ މޭޒުގެ ފަހަތުގައި ހުރި ބޮޑު ދަގަނޑު ސޭފަށެވެ. ބައްޕަގެ މަރުގެ ފައިލްތަކާއި ޢާޞިމްގެ ކަޅު ލިޔެކިޔުންތައް ހުންނާނީ އެތާކަން އިޔާނަށް ވިސްނުނެވެ.",
+     "narration_english": "Iyaan's target was the big steel safe behind the desk. He knew that his father's murder files and Asim's dark documents would be in there.",
+     "crop": "full",
+     "motion": "pan down",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Iyaan), create a new scene: Cinematic semi-realistic digital illustration with a dark modern political-thriller noir look, deep charcoal and teal shadows with blood-red accents and warm amber practical lights, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, wet pavement, desk top, soft shadow) for captions and a logo; night scenes in Malé glisten with rain, wet reflective streets and red-and-teal neon reflections, while the 2011 flashback scenes have a slightly desaturated, cold blue-grey haze.\nScene: Iyaan dressed for the break-in in a black long-sleeved hooded top with the hood up, black trousers, black gloves and a plain black cloth face mask covering his nose and mouth, only his intense dark eyes visible — NOT the plain black t-shirt of the reference; he carries no weapon of any kind; he stands just inside the dark office holding a small flashlight, its narrow white beam sweeping over the large dark desk and the tall bookshelves and coming to rest on the big grey steel safe in the wall behind the desk. Location: Asim's secret private office upstairs in his huge modern Malé mansion: a large dark polished wooden desk with a leather chair, tall dark bookshelves full of leather-bound files covering the walls, a big grey steel safe with a small keypad set into the wall behind the desk, a long heavy dark-red floor-length curtain on one side hiding a glass balcony door, a heavy wooden door with a small biometric reader panel beside it, the room completely dark. Camera: wide shot from behind his shoulder, the beam and the safe in the upper half, the dark floor as a calm lower third.\nCharacters: Iyaan: a tall athletic Maldivian young man of 23 with warm brown skin, a lean handsome clean-shaven face with high cheekbones, intense deep-set dark eyes under straight heavy eyebrows, a firm jaw and thick short black hair swept up and back; wears a plain black crew-neck t-shirt, dark charcoal cargo trousers and a black wristwatch.\nMood/lighting: just past 2 am, nearly total darkness cut by the narrow white beam of a small flashlight and a faint green glow from a small device, dust in the beam, tense silence.\nModest Maldivian clothing (every woman in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck; men fully clothed in shirts or t-shirts and long trousers, never shirtless), a clear respectful distance between men and women, no man touching a woman, culturally respectful, no violence shown, no blood, no wounds, no injuries, no knives, no weapons, no guns, no person lying on the ground, no cigarettes, no smoking, no alcohol, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.048,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 50.0,
+    "y_pct": 40.0,
+    "face_detected": false
+   }
+  },
+  {
+   "id": "beat_008",
+   "startMs": 153865,
+   "endMs": 169806,
+   "new_image_reason": "action change: the code-breaking device on the safe; a car stops outside",
+   "characters": [
+    "iyaan"
+   ],
+   "location": "Asim's secret private office upstairs in his huge modern Malé mansion: a large dark polished wooden desk with a leather chair, tall dark bookshelves full of leather-bound files covering the walls, a big grey steel safe with a small keypad set into the wall behind the desk, a long heavy dark-red floor-length curtain on one side hiding a glass balcony door, a heavy wooden door with a small biometric reader panel beside it, the room completely dark",
+   "location_key": "office_dark",
+   "mood": "just past 2 am, nearly total darkness cut by the narrow white beam of a small flashlight and a faint green glow from a small device, dust in the beam, tense silence",
+   "visual": "Iyaan dressed for the break-in in a black long-sleeved hooded top with the hood up, black trousers, black gloves and a plain black cloth face mask covering his nose and mouth, only his intense dark eyes visible — NOT the plain black t-shirt of the reference; he carries no weapon of any kind; he crouches in front of the big grey steel safe behind the desk; a small black device is clipped onto the safe's keypad, its little screen flickering with rapidly changing abstract bars of green light (no digits); he has turned his head sharply over his shoulder towards the closed door, eyes wide and alarmed above the mask",
+   "camera": "medium shot, eye level, from the side",
+   "image": "images/beat_008.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "office_night",
+   "shots": [
+    {
+     "id": "shot_018",
+     "startMs": 153865,
+     "endMs": 161986,
+     "narration_dhivehi": "އޭނާ ސޭފްގެ ޑިޖިޓަލް ކޯޑު ފަޅާލަން ޚާއްޞަ ޑިވައިސެއް އޭގެ ސްކްރީނުގައި ތަތްކުރިއެވެ. ނަންބަރުތައް ބާރު ދުވެލީގައި ބަދަލުވަމުން ދިޔައެވެ.",
+     "narration_english": "He attached a special device to the safe's screen to break its digital code. The numbers began changing at great speed.",
+     "crop": "full",
+     "motion": "static drift",
+     "sfx": [
+      {
+       "name": "computer_beep",
+       "atMs": 157986,
+       "gainDb": -22,
+       "word": "ތަތްކުރިއެވެ."
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_019",
+     "startMs": 161986,
+     "endMs": 169806,
+     "narration_dhivehi": "ކުއްލިއަކަށް، އިޔާންގެ ކަންފަތުގައި ޖެހުނު އަޑަކުން އޭނާގެ މުޅި ހަށިގަނޑު ގަނޑުވިއެވެ. ގޭގެ ބޭރުން ކާރެއް މަޑުކޮށްލި އަޑެވެ.",
+     "narration_english": "Suddenly a sound reached Iyaan's ears and his whole body went rigid. It was the sound of a car stopping outside the house.",
+     "crop": "tight",
+     "motion": "slow push-in",
+     "sfx": [
+      {
+       "name": "car_approach",
+       "atMs": 168606,
+       "gainDb": -20,
+       "word": "ކާރެއް"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      20.3,
+      4.8,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Iyaan), create a new scene: Cinematic semi-realistic digital illustration with a dark modern political-thriller noir look, deep charcoal and teal shadows with blood-red accents and warm amber practical lights, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, wet pavement, desk top, soft shadow) for captions and a logo; night scenes in Malé glisten with rain, wet reflective streets and red-and-teal neon reflections, while the 2011 flashback scenes have a slightly desaturated, cold blue-grey haze.\nScene: Iyaan dressed for the break-in in a black long-sleeved hooded top with the hood up, black trousers, black gloves and a plain black cloth face mask covering his nose and mouth, only his intense dark eyes visible — NOT the plain black t-shirt of the reference; he carries no weapon of any kind; he crouches in front of the big grey steel safe behind the desk; a small black device is clipped onto the safe's keypad, its little screen flickering with rapidly changing abstract bars of green light (no digits); he has turned his head sharply over his shoulder towards the closed door, eyes wide and alarmed above the mask. Location: Asim's secret private office upstairs in his huge modern Malé mansion: a large dark polished wooden desk with a leather chair, tall dark bookshelves full of leather-bound files covering the walls, a big grey steel safe with a small keypad set into the wall behind the desk, a long heavy dark-red floor-length curtain on one side hiding a glass balcony door, a heavy wooden door with a small biometric reader panel beside it, the room completely dark. Camera: medium shot, eye level, from the side.\nCharacters: Iyaan: a tall athletic Maldivian young man of 23 with warm brown skin, a lean handsome clean-shaven face with high cheekbones, intense deep-set dark eyes under straight heavy eyebrows, a firm jaw and thick short black hair swept up and back; wears a plain black crew-neck t-shirt, dark charcoal cargo trousers and a black wristwatch.\nMood/lighting: just past 2 am, nearly total darkness cut by the narrow white beam of a small flashlight and a faint green glow from a small device, dust in the beam, tense silence.\nModest Maldivian clothing (every woman in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck; men fully clothed in shirts or t-shirts and long trousers, never shirtless), a clear respectful distance between men and women, no man touching a woman, culturally respectful, no violence shown, no blood, no wounds, no injuries, no knives, no weapons, no guns, no person lying on the ground, no cigarettes, no smoking, no alcohol, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.046,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 50.0,
+    "y_pct": 40.0,
+    "face_detected": false
+   }
+  },
+  {
+   "id": "beat_009",
+   "startMs": 169806,
+   "endMs": 188657,
+   "new_image_reason": "scene and character change: Asim and Raaya come home and Asim heads up the stairs",
+   "characters": [
+    "asim",
+    "raaya"
+   ],
+   "location": "the grand double-height entrance hall of Asim's mansion at night: marble floor, a sweeping marble staircase with a gold handrail, dim wall lights",
+   "location_key": "hall",
+   "mood": "just past 2 am, dim warm wall lights in a dark hall, the storm flickering at the tall windows, tired and quiet",
+   "visual": "Asim in his white shirt and black trousers starting to climb the sweeping marble staircase with a heavy purposeful step, looking up towards the dark upper floor; Raaya a few steps behind him at the foot of the stairs, holding her handbag, looking tired; dim wall lights",
+   "camera": "wide shot from the upper landing looking down, the figures in the upper half, the marble floor as a calm lower third",
+   "image": "images/beat_009.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "mansion_night",
+   "shots": [
+    {
+     "id": "shot_020",
+     "startMs": 169806,
+     "endMs": 178316,
+     "narration_dhivehi": "އަދި ބާރުބާރަށް މީހުން ވާހަކަދައްކަމުން ގޭގެ ތެރެއަށް ވަދެގެން އަންނަ އަޑު އިވެން ފެށިއެވެ. \"ބައްޕާ، މިއަދު ވަރަށް ވަރުބަލިވެއްޖެ،\"",
+     "narration_english": "Then came the sound of people talking loudly as they came into the house. \"Bappa, I'm so tired today,\"",
+     "crop": "full",
+     "motion": "pan left",
+     "sfx": [
+      {
+       "name": "door_open",
+       "atMs": 173546,
+       "gainDb": -22,
+       "word": "ވަދެގެން"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_021",
+     "startMs": 178316,
+     "endMs": 188657,
+     "narration_dhivehi": "އެއީ ރާޔާގެ އަޑެވެ. \"ދަރިފުޅު ދޭ ނިދަން.\" އެއީ ޢާޞިމްގެ އަޑެވެ. އޭނާގެ ފިޔަވަޅުތަކުގެ އަޑު ސިޑިން މައްޗަށް އަރަން ފެށިއެވެ. އިޔާން ދާހިއްލަން ފެށިއެވެ.",
+     "narration_english": "That was Raaya's voice. \"Go to sleep, dear.\" That was Asim's voice. His footsteps began to climb the stairs. Iyaan began to sweat.",
+     "crop": "tight",
+     "motion": "slow pull-out",
+     "sfx": [
+      {
+       "name": "footsteps_pavement",
+       "atMs": 183707,
+       "gainDb": -20,
+       "word": "ފިޔަވަޅުތަކުގެ"
+      }
+     ],
+     "hum": true,
+     "crop_rect_pct": [
+      38.6,
+      0.0,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Asim; reference image 2 is Raaya), create a new scene: Cinematic semi-realistic digital illustration with a dark modern political-thriller noir look, deep charcoal and teal shadows with blood-red accents and warm amber practical lights, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, wet pavement, desk top, soft shadow) for captions and a logo; night scenes in Malé glisten with rain, wet reflective streets and red-and-teal neon reflections, while the 2011 flashback scenes have a slightly desaturated, cold blue-grey haze.\nScene: Asim in his white shirt and black trousers starting to climb the sweeping marble staircase with a heavy purposeful step, looking up towards the dark upper floor; Raaya a few steps behind him at the foot of the stairs, holding her handbag, looking tired; dim wall lights. Location: the grand double-height entrance hall of Asim's mansion at night: marble floor, a sweeping marble staircase with a gold handrail, dim wall lights. Camera: wide shot from the upper landing looking down, the figures in the upper half, the marble floor as a calm lower third.\nCharacters: Asim: a tall heavy-set Maldivian man of about 60 with warm brown skin, a heavy square face, cold narrow dark eyes, a thick grey moustache, deep lines around the mouth and grey-streaked black hair slicked back; wears a crisp long-sleeved white shirt with buttoned cuffs, black trousers and a heavy gold wristwatch. Raaya: a slim graceful Maldivian young woman of about 23 with warm brown skin, a soft heart-shaped face, large bright innocent dark eyes and a gentle smile; wears a loose long-sleeved ankle-length plain white dress and a soft light-grey hijab wrapped snugly and fully covering her hair and neck.\nMood/lighting: just past 2 am, dim warm wall lights in a dark hall, the storm flickering at the tall windows, tired and quiet.\nModest Maldivian clothing (every woman in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck; men fully clothed in shirts or t-shirts and long trousers, never shirtless), a clear respectful distance between men and women, no man touching a woman, culturally respectful, no violence shown, no blood, no wounds, no injuries, no knives, no weapons, no guns, no person lying on the ground, no cigarettes, no smoking, no alcohol, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.115,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 68.4,
+    "y_pct": 35.2,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_010",
+   "startMs": 188657,
+   "endMs": 215228,
+   "new_image_reason": "return to Iyaan at the safe as the footsteps reach the door",
+   "characters": [],
+   "location": "Asim's secret private office upstairs in his huge modern Malé mansion: a large dark polished wooden desk with a leather chair, tall dark bookshelves full of leather-bound files covering the walls, a big grey steel safe with a small keypad set into the wall behind the desk, a long heavy dark-red floor-length curtain on one side hiding a glass balcony door, a heavy wooden door with a small biometric reader panel beside it, the room completely dark",
+   "location_key": "office_dark",
+   "mood": "just past 2 am, nearly total darkness cut by the narrow white beam of a small flashlight and a faint green glow from a small device, dust in the beam, tense silence",
+   "visual": "reuse",
+   "camera": "reuse",
+   "image": "images/beat_008.png",
+   "reuse_of": "beat_008",
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "office_night",
+   "shots": [
+    {
+     "id": "shot_022",
+     "startMs": 188657,
+     "endMs": 199427,
+     "narration_dhivehi": "ޢާޞިމް އެ އަންނަނީ ސީދާ މި ކޮޓަރިއަށެވެ. ސޭފްގެ ކޯޑު ފަޅާލަން އަދި މިނެޓެއް ބޭނުންވެއެވެ. އިޔާން ބަލާލިއިރު ސޭފްގެ ސްކްރީނުން ފެންނަނީ ނަންބަރުތައް ބަދަލުވާ މަންޒަރެވެ.",
+     "narration_english": "Asim was coming straight to this room. The safe still needed another minute to break the code. When Iyaan looked, the safe's screen still showed the numbers changing.",
+     "crop": "tight",
+     "motion": "pan right",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      20.3,
+      4.8,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_023",
+     "startMs": 199427,
+     "endMs": 208948,
+     "narration_dhivehi": "އޭނާއަށް މިތަނުން ނިކުމެވޭނެ އެއްވެސް މަގެއް ނެތެވެ. ކޮޓަރީގެ ދޮރު ހުޅުވޭނީ ސީދާ ޢާޞިމް އަންނަ ދިމާއަށެވެ. ފިޔަވަޅުތަކުގެ އަޑު ކޮޓަރީގެ ދޮރާހަމައަށް ހުއްޓުނެވެ.",
+     "narration_english": "There was no way out of here. The room's door opened straight towards where Asim was coming from. The footsteps stopped right at the door.",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [
+      {
+       "name": "footsteps_pavement",
+       "atMs": 205647,
+       "gainDb": -18,
+       "word": "ފިޔަވަޅުތަކުގެ"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_024",
+     "startMs": 208948,
+     "endMs": 215228,
+     "narration_dhivehi": "ދޮރުގެ ބަޔޯމެޓްރިކް ލޮކް ބީޕްވި އަޑު އިވުނެވެ. ތަޅު ހުޅުވެން ފެށިއެވެ. އިޔާންއަށް ހަދާނެގޮތެއް ނޭނގުނެވެ.",
+     "narration_english": "The door's biometric lock beeped. The lock began to open. Iyaan didn't know what to do.",
+     "crop": "medium",
+     "motion": "pan up",
+     "sfx": [
+      {
+       "name": "computer_beep",
+       "atMs": 210208,
+       "gainDb": -16,
+       "word": "ބީޕްވި"
+      },
+      {
+       "name": "lock_click",
+       "atMs": 212008,
+       "gainDb": -16,
+       "word": "ހުޅުވެން"
+      }
+     ],
+     "hum": true,
+     "crop_rect_pct": [
+      14.2,
+      0.0,
+      71.5,
+      84.7
+     ]
+    }
+   ],
+   "prompt_attempts": [],
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.039,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 50.0,
+    "y_pct": 40.0,
+    "face_detected": false
+   }
+  },
+  {
+   "id": "beat_011",
+   "startMs": 215228,
+   "endMs": 223868,
+   "new_image_reason": "action change: he hides under the desk as the door opens and the light comes on",
+   "characters": [
+    "iyaan"
+   ],
+   "location": "Asim's secret private office upstairs in his huge modern Malé mansion: a large dark polished wooden desk with a leather chair, tall dark bookshelves full of leather-bound files covering the walls, a big grey steel safe with a small keypad set into the wall behind the desk, a long heavy dark-red floor-length curtain on one side hiding a glass balcony door, a heavy wooden door with a small biometric reader panel beside it, the room brightly lit by the ceiling lights",
+   "location_key": "office_lit",
+   "mood": "just past 2 am, harsh bright white ceiling light, hard shadows under the desk, intense danger",
+   "visual": "Iyaan dressed for the break-in in a black long-sleeved hooded top with the hood up, black trousers, black gloves and a plain black cloth face mask covering his nose and mouth, only his intense dark eyes visible — NOT the plain black t-shirt of the reference; he carries no weapon of any kind; he is crouched in the dark space beneath the big wooden desk with his knees drawn up to his chest, clutching the small black device, pressed back against the inner panel, the bright ceiling light suddenly flooding the room around the desk; he is sitting upright in a crouch, not lying",
+   "camera": "low angle from floor level, eye level with him, the desk top in the upper frame",
+   "image": "images/beat_011.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": "other",
+   "safe_substitution": "hiding shown as an upright crouch under the desk, knees drawn up, never lying flat",
+   "ambience": "office_night",
+   "shots": [
+    {
+     "id": "shot_025",
+     "startMs": 215228,
+     "endMs": 223868,
+     "narration_dhivehi": "އޭނާ ސޭފް މަތީގައި އޮތް ޑިވައިސް ވަގުތުން ދަމައިގަނެ، މޭޒުގެ ދަށަށް ވަދެ ނިވާވިއެވެ. އެވަގުތު ދޮރު ހުޅުވި، ކޮޓަރީގެ ބޮޑު ބޮކި ދިއްލުނެވެ.",
+     "narration_english": "He snatched the device off the safe in an instant and slipped under the desk to hide. At that moment the door opened and the room's big light came on.",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [
+      {
+       "name": "cloth_rustle",
+       "atMs": 219388,
+       "gainDb": -22,
+       "word": "ނިވާވިއެވެ."
+      },
+      {
+       "name": "door_open",
+       "atMs": 221168,
+       "gainDb": -18,
+       "word": "ހުޅުވި،"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Iyaan), create a new scene: Cinematic semi-realistic digital illustration with a dark modern political-thriller noir look, deep charcoal and teal shadows with blood-red accents and warm amber practical lights, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, wet pavement, desk top, soft shadow) for captions and a logo; night scenes in Malé glisten with rain, wet reflective streets and red-and-teal neon reflections, while the 2011 flashback scenes have a slightly desaturated, cold blue-grey haze.\nScene: Iyaan dressed for the break-in in a black long-sleeved hooded top with the hood up, black trousers, black gloves and a plain black cloth face mask covering his nose and mouth, only his intense dark eyes visible — NOT the plain black t-shirt of the reference; he carries no weapon of any kind; he is crouched in the dark space beneath the big wooden desk with his knees drawn up to his chest, clutching the small black device, pressed back against the inner panel, the bright ceiling light suddenly flooding the room around the desk; he is sitting upright in a crouch, not lying. Location: Asim's secret private office upstairs in his huge modern Malé mansion: a large dark polished wooden desk with a leather chair, tall dark bookshelves full of leather-bound files covering the walls, a big grey steel safe with a small keypad set into the wall behind the desk, a long heavy dark-red floor-length curtain on one side hiding a glass balcony door, a heavy wooden door with a small biometric reader panel beside it, the room brightly lit by the ceiling lights. Camera: low angle from floor level, eye level with him, the desk top in the upper frame.\nCharacters: Iyaan: a tall athletic Maldivian young man of 23 with warm brown skin, a lean handsome clean-shaven face with high cheekbones, intense deep-set dark eyes under straight heavy eyebrows, a firm jaw and thick short black hair swept up and back; wears a plain black crew-neck t-shirt, dark charcoal cargo trousers and a black wristwatch.\nMood/lighting: just past 2 am, harsh bright white ceiling light, hard shadows under the desk, intense danger.\nModest Maldivian clothing (every woman in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck; men fully clothed in shirts or t-shirts and long trousers, never shirtless), a clear respectful distance between men and women, no man touching a woman, culturally respectful, no violence shown, no blood, no wounds, no injuries, no knives, no weapons, no guns, no person lying on the ground, no cigarettes, no smoking, no alcohol, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.155,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 50.0,
+    "y_pct": 40.0,
+    "face_detected": false
+   }
+  },
+  {
+   "id": "beat_012",
+   "startMs": 223868,
+   "endMs": 248889,
+   "new_image_reason": "new framing: from under the desk he sees Asim's black shoes while Asim searches the files",
+   "characters": [
+    "iyaan"
+   ],
+   "location": "Asim's secret private office upstairs in his huge modern Malé mansion: a large dark polished wooden desk with a leather chair, tall dark bookshelves full of leather-bound files covering the walls, a big grey steel safe with a small keypad set into the wall behind the desk, a long heavy dark-red floor-length curtain on one side hiding a glass balcony door, a heavy wooden door with a small biometric reader panel beside it, the room brightly lit by the ceiling lights",
+   "location_key": "office_lit",
+   "mood": "just past 2 am, harsh bright white ceiling light, hard shadows under the desk, intense danger",
+   "visual": "Iyaan dressed for the break-in in a black long-sleeved hooded top with the hood up, black trousers, black gloves and a plain black cloth face mask covering his nose and mouth, only his intense dark eyes visible — NOT the plain black t-shirt of the reference; he carries no weapon of any kind; seen from deep under the desk: his masked face and wide eyes in the foreground shadow on the left, and beyond the edge of the desk on the right a pair of expensive polished black leather shoes and black trouser legs of a man standing at the desk; bright light beyond; his gloved hand hovering near a small drawer handle",
+   "camera": "low floor-level shot from under the desk, his eyes in the upper half",
+   "image": "images/beat_012.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "office_night",
+   "shots": [
+    {
+     "id": "shot_026",
+     "startMs": 223868,
+     "endMs": 233268,
+     "narration_dhivehi": "މުޅި ކޮޓަރި އަލިވެގެން ދިޔައެވެ. މޭޒުގެ ދަށުގައި، ނޭވާ ހިފަހައްޓާލައިގެން އޮތް އިޔާންއަށް ފެންނަމުންދިޔައީ ޢާޞިމްގެ އަގުބޮޑު ކަޅު ބޫޓެވެ.",
+     "narration_english": "The whole room was lit up. Under the desk, holding his breath, all Iyaan could see were Asim's expensive black shoes.",
+     "crop": "full",
+     "motion": "pan down",
+     "sfx": [
+      {
+       "name": "breath",
+       "atMs": 227568,
+       "gainDb": -24,
+       "word": "ނޭވާ"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_027",
+     "startMs": 233268,
+     "endMs": 239709,
+     "narration_dhivehi": "ޢާޞިމް ހިނގާފައި އައިސް މޭޒާ ދިމާލަށް ހުއްޓުނެވެ. އޭނާ މޭޒުމަތީގައި ހުރި ފައިލްތަކެއް ހާވަން ފެށިއެވެ.",
+     "narration_english": "Asim walked over and stopped at the desk. He began searching through some files on the desk.",
+     "crop": "tight",
+     "motion": "static drift",
+     "sfx": [
+      {
+       "name": "paper_shuffle",
+       "atMs": 238409,
+       "gainDb": -20,
+       "word": "ހާވަން"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      0.0,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_028",
+     "startMs": 239709,
+     "endMs": 248889,
+     "narration_dhivehi": "އިޔާންގެ ހިތް ހީވަނީ މޭ ފަޅާލާފައި ނިކުމެދާނެ ހެންނެވެ. އިޔާންގެ އަތް ދިމާވީ މޭޒުގެ ދަށުގައި އިން ކުޑަ ލޯވަޅަކަށެވެ. އޭނާގެ އަތް ކުޑަކޮށް ތެޅިގަތް ވަގުތު،",
+     "narration_english": "Iyaan's heart felt as if it would burst out of his chest. His hand brushed against a small drawer handle under the desk. The moment his hand trembled slightly,",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [
+      {
+       "name": "heartbeat",
+       "atMs": 240149,
+       "gainDb": -18,
+       "word": "ހިތް"
+      }
+     ],
+     "hum": true,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Iyaan), create a new scene: Cinematic semi-realistic digital illustration with a dark modern political-thriller noir look, deep charcoal and teal shadows with blood-red accents and warm amber practical lights, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, wet pavement, desk top, soft shadow) for captions and a logo; night scenes in Malé glisten with rain, wet reflective streets and red-and-teal neon reflections, while the 2011 flashback scenes have a slightly desaturated, cold blue-grey haze.\nScene: Iyaan dressed for the break-in in a black long-sleeved hooded top with the hood up, black trousers, black gloves and a plain black cloth face mask covering his nose and mouth, only his intense dark eyes visible — NOT the plain black t-shirt of the reference; he carries no weapon of any kind; seen from deep under the desk: his masked face and wide eyes in the foreground shadow on the left, and beyond the edge of the desk on the right a pair of expensive polished black leather shoes and black trouser legs of a man standing at the desk; bright light beyond; his gloved hand hovering near a small drawer handle. Location: Asim's secret private office upstairs in his huge modern Malé mansion: a large dark polished wooden desk with a leather chair, tall dark bookshelves full of leather-bound files covering the walls, a big grey steel safe with a small keypad set into the wall behind the desk, a long heavy dark-red floor-length curtain on one side hiding a glass balcony door, a heavy wooden door with a small biometric reader panel beside it, the room brightly lit by the ceiling lights. Camera: low floor-level shot from under the desk, his eyes in the upper half.\nCharacters: Iyaan: a tall athletic Maldivian young man of 23 with warm brown skin, a lean handsome clean-shaven face with high cheekbones, intense deep-set dark eyes under straight heavy eyebrows, a firm jaw and thick short black hair swept up and back; wears a plain black crew-neck t-shirt, dark charcoal cargo trousers and a black wristwatch.\nMood/lighting: just past 2 am, harsh bright white ceiling light, hard shadows under the desk, intense danger.\nModest Maldivian clothing (every woman in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck; men fully clothed in shirts or t-shirts and long trousers, never shirtless), a clear respectful distance between men and women, no man touching a woman, culturally respectful, no violence shown, no blood, no wounds, no injuries, no knives, no weapons, no guns, no person lying on the ground, no cigarettes, no smoking, no alcohol, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.099,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 28.1,
+    "y_pct": 32.3,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_013",
+   "startMs": 248889,
+   "endMs": 273770,
+   "new_image_reason": "character change: Asim hears the paperweight rattle and searches the room",
+   "characters": [
+    "asim"
+   ],
+   "location": "Asim's secret private office upstairs in his huge modern Malé mansion: a large dark polished wooden desk with a leather chair, tall dark bookshelves full of leather-bound files covering the walls, a big grey steel safe with a small keypad set into the wall behind the desk, a long heavy dark-red floor-length curtain on one side hiding a glass balcony door, a heavy wooden door with a small biometric reader panel beside it, the room brightly lit by the ceiling lights",
+   "location_key": "office_lit",
+   "mood": "just past 2 am, harsh bright white ceiling light, hard shadows under the desk, intense danger",
+   "visual": "Asim in his white shirt standing beside the big desk, a stack of blank folders under one hand and a small round glass paperweight on the desk beside it, his head turned sharply, cold narrow eyes suspicious and alarmed, starting to step slowly round to the back of the desk",
+   "camera": "medium shot, slightly low angle",
+   "image": "images/beat_013.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "office_night",
+   "shots": [
+    {
+     "id": "shot_029",
+     "startMs": 248889,
+     "endMs": 256119,
+     "narration_dhivehi": "މޭޒުމަތީގައި އޮތް ބިއްލޫރި ބަރެއް ގުޑިލި އަޑު އިވުނެވެ. ޢާޞިމް ހުއްޓުނެވެ. އޭނާ ވަށައިގެން ބަލާލިއެވެ. \"ކާކު؟\"",
+     "narration_english": "there was the sound of a glass paperweight on the desk rattling. Asim stopped. He looked around. \"Who's there?\"",
+     "crop": "full",
+     "motion": "pan left",
+     "sfx": [
+      {
+       "name": "cup_clatter",
+       "atMs": 251209,
+       "gainDb": -18,
+       "word": "ގުޑިލި"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_030",
+     "startMs": 256119,
+     "endMs": 265730,
+     "narration_dhivehi": "ޢާޞިމްގެ އަޑުގައި ހުރީ ސިހުމާއި ނުރައްކާތެރިކަމެވެ. އޭނާ މަޑުމަޑުން ފަހަތަށްޖެހި ކޮޅުކޮޅަށް ބަލަންފެށިއެވެ. ޢާޞިމްގެ ފިޔަވަޅުތައް މަޑުމަޑުން މޭޒުގެ ފަހަތަށް،",
+     "narration_english": "There was alarm and menace in Asim's voice. He slowly stepped back and began looking from corner to corner. Asim's footsteps moved slowly round the back of the desk,",
+     "crop": "tight",
+     "motion": "slow pull-out",
+     "sfx": [
+      {
+       "name": "footsteps_pavement",
+       "atMs": 263510,
+       "gainDb": -22,
+       "word": "ފިޔަވަޅުތައް"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      9.5,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_031",
+     "startMs": 265730,
+     "endMs": 273770,
+     "narration_dhivehi": "އިޔާން އޮތް ދިމާލަށް ކައިރިވަމުން ދިޔައެވެ. އިޔާންގެ ދެލޯ ބޮޑުވިއެވެ. އޭނާގެ ބަދަލުހިފުމުގެ ދަތުރު މި ހިސާބުން ނިމުނީ ހެއްޔެވެ؟",
+     "narration_english": "closer and closer to where Iyaan was. Iyaan's eyes went wide. Had his journey of revenge ended right here?",
+     "crop": "full",
+     "motion": "pan right",
+     "sfx": [],
+     "hum": true,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Asim), create a new scene: Cinematic semi-realistic digital illustration with a dark modern political-thriller noir look, deep charcoal and teal shadows with blood-red accents and warm amber practical lights, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, wet pavement, desk top, soft shadow) for captions and a logo; night scenes in Malé glisten with rain, wet reflective streets and red-and-teal neon reflections, while the 2011 flashback scenes have a slightly desaturated, cold blue-grey haze.\nScene: Asim in his white shirt standing beside the big desk, a stack of blank folders under one hand and a small round glass paperweight on the desk beside it, his head turned sharply, cold narrow eyes suspicious and alarmed, starting to step slowly round to the back of the desk. Location: Asim's secret private office upstairs in his huge modern Malé mansion: a large dark polished wooden desk with a leather chair, tall dark bookshelves full of leather-bound files covering the walls, a big grey steel safe with a small keypad set into the wall behind the desk, a long heavy dark-red floor-length curtain on one side hiding a glass balcony door, a heavy wooden door with a small biometric reader panel beside it, the room brightly lit by the ceiling lights. Camera: medium shot, slightly low angle.\nCharacters: Asim: a tall heavy-set Maldivian man of about 60 with warm brown skin, a heavy square face, cold narrow dark eyes, a thick grey moustache, deep lines around the mouth and grey-streaked black hair slicked back; wears a crisp long-sleeved white shirt with buttoned cuffs, black trousers and a heavy gold wristwatch.\nMood/lighting: just past 2 am, harsh bright white ceiling light, hard shadows under the desk, intense danger.\nModest Maldivian clothing (every woman in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck; men fully clothed in shirts or t-shirts and long trousers, never shirtless), a clear respectful distance between men and women, no man touching a woman, culturally respectful, no violence shown, no blood, no wounds, no injuries, no knives, no weapons, no guns, no person lying on the ground, no cigarettes, no smoking, no alcohol, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.012,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 39.2,
+    "y_pct": 18.5,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_014",
+   "startMs": 273770,
+   "endMs": 309861,
+   "new_image_reason": "action change: the power dies, the alarm and red siren light fill the house",
+   "characters": [
+    "asim"
+   ],
+   "location": "Asim's secret private office upstairs in his huge modern Malé mansion: a large dark polished wooden desk with a leather chair, tall dark bookshelves full of leather-bound files covering the walls, a big grey steel safe with a small keypad set into the wall behind the desk, a long heavy dark-red floor-length curtain on one side hiding a glass balcony door, a heavy wooden door with a small biometric reader panel beside it, the room plunged into darkness",
+   "location_key": "office_alarm",
+   "mood": "just past 2 am, total darkness pulsing with flashing red alarm light, chaos and panic",
+   "visual": "the office plunged into darkness lit only by pulsing red alarm light; Asim, half-turned beside the desk, straightening up in shock and shouting towards the door, one arm raised, his white shirt glowing red in the flashing light",
+   "camera": "medium wide shot, eye level",
+   "image": "images/beat_014.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "office_night",
+   "shots": [
+    {
+     "id": "shot_032",
+     "startMs": 273770,
+     "endMs": 283860,
+     "narration_dhivehi": "ޢާޞިމް މޭޒުގެ ދަށަށް ގުދުވާން އުޅުނު ވަގުތު... ކުއްލިއަކަށް މުޅި ގޭގެ ބޮކިތައް ނިވި، މުޅި ތަން އަނދިރިވިއެވެ. ބާރު އެލާމެއްގެ އަޑު މުޅި ގޭގެ ތެރޭގައި ގުގުމާލިއެވެ.",
+     "narration_english": "Just as Asim was about to bend down under the desk... suddenly every light in the house went out and the whole place went dark. A loud alarm rang through the house.",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [
+      {
+       "name": "power_down",
+       "atMs": 278470,
+       "gainDb": -16,
+       "word": "ނިވި،"
+      },
+      {
+       "name": "alarm_beep",
+       "atMs": 281090,
+       "gainDb": -16,
+       "word": "އެލާމެއްގެ"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_033",
+     "startMs": 283860,
+     "endMs": 292831,
+     "narration_dhivehi": "މުޅި ތަން ކަނު އަނދިރިކަމުގެ ތެރެއަށް ގެނބިގެން ދިޔައެވެ. އެވަގުތު، ގޭގެ ރެޑް-އެލާޓް ސައިރަންގެ ބާރު އަޑުން މުޅި ގެ ވަނީ ގުގުމާފައެވެ.",
+     "narration_english": "The whole place sank into pitch darkness. At that moment the loud red-alert siren of the house filled the entire building.",
+     "crop": "tight",
+     "motion": "pan up",
+     "sfx": [
+      {
+       "name": "siren",
+       "atMs": 289811,
+       "gainDb": -18,
+       "word": "ސައިރަންގެ"
+      }
+     ],
+     "hum": true,
+     "crop_rect_pct": [
+      20.3,
+      4.8,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_034",
+     "startMs": 292831,
+     "endMs": 300471,
+     "narration_dhivehi": "ޢާޞިމްގެ މޭޒުގެ ދަށަށް ގުދުވިނަމަވެސް ކުއްލިއަކަށް ކަރަންޓުގޮސް މުޅިތަން އަނދިރިވުމުން އޭނާގެ ހަރަކާތްތަކަށް ހުއްޓުމެއް އައެވެ.",
+     "narration_english": "Asim had bent towards the space under the desk, but the sudden power cut and darkness stopped him in his tracks.",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_035",
+     "startMs": 300471,
+     "endMs": 309861,
+     "narration_dhivehi": "ޢާޞިމް ފަހަތަށް ޖެހިލަމުން، އޭނާގެ ސެކިއުރިޓީ ގާޑުންނަށް ބާރަށް ހަޅޭއްލަވައިގަތެވެ. \"ކޮބާ؟ ކީއްވެ ކަރަންޓު ކެނޑުނީ؟ ބެކަޕް އޮން ކުރޭ!\"",
+     "narration_english": "Stepping back, Asim shouted loudly to his security guards: \"Where are you? Why did the power go? Turn on the backup!\"",
+     "crop": "medium",
+     "motion": "pan down",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      14.2,
+      0.0,
+      71.5,
+      84.7
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Asim), create a new scene: Cinematic semi-realistic digital illustration with a dark modern political-thriller noir look, deep charcoal and teal shadows with blood-red accents and warm amber practical lights, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, wet pavement, desk top, soft shadow) for captions and a logo; night scenes in Malé glisten with rain, wet reflective streets and red-and-teal neon reflections, while the 2011 flashback scenes have a slightly desaturated, cold blue-grey haze.\nScene: the office plunged into darkness lit only by pulsing red alarm light; Asim, half-turned beside the desk, straightening up in shock and shouting towards the door, one arm raised, his white shirt glowing red in the flashing light. Location: Asim's secret private office upstairs in his huge modern Malé mansion: a large dark polished wooden desk with a leather chair, tall dark bookshelves full of leather-bound files covering the walls, a big grey steel safe with a small keypad set into the wall behind the desk, a long heavy dark-red floor-length curtain on one side hiding a glass balcony door, a heavy wooden door with a small biometric reader panel beside it, the room plunged into darkness. Camera: medium wide shot, eye level.\nCharacters: Asim: a tall heavy-set Maldivian man of about 60 with warm brown skin, a heavy square face, cold narrow dark eyes, a thick grey moustache, deep lines around the mouth and grey-streaked black hair slicked back; wears a crisp long-sleeved white shirt with buttoned cuffs, black trousers and a heavy gold wristwatch.\nMood/lighting: just past 2 am, total darkness pulsing with flashing red alarm light, chaos and panic.\nModest Maldivian clothing (every woman in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck; men fully clothed in shirts or t-shirts and long trousers, never shirtless), a clear respectful distance between men and women, no man touching a woman, culturally respectful, no violence shown, no blood, no wounds, no injuries, no knives, no weapons, no guns, no person lying on the ground, no cigarettes, no smoking, no alcohol, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.023,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 50.0,
+    "y_pct": 40.0,
+    "face_detected": false
+   }
+  },
+  {
+   "id": "beat_015",
+   "startMs": 309861,
+   "endMs": 335132,
+   "new_image_reason": "focus change: Iyaan under the desk, his phone shows the fuse overload, one minute to escape",
+   "characters": [
+    "iyaan"
+   ],
+   "location": "Asim's secret private office upstairs in his huge modern Malé mansion: a large dark polished wooden desk with a leather chair, tall dark bookshelves full of leather-bound files covering the walls, a big grey steel safe with a small keypad set into the wall behind the desk, a long heavy dark-red floor-length curtain on one side hiding a glass balcony door, a heavy wooden door with a small biometric reader panel beside it, the room plunged into darkness",
+   "location_key": "office_alarm",
+   "mood": "just past 2 am, total darkness pulsing with flashing red alarm light, chaos and panic",
+   "visual": "Iyaan dressed for the break-in in a black long-sleeved hooded top with the hood up, black trousers, black gloves and a plain black cloth face mask covering his nose and mouth, only his intense dark eyes visible — NOT the plain black t-shirt of the reference; he carries no weapon of any kind; crouched under the desk with his knees drawn up, the soft glow of the phone screen in his gloved hand lighting his eyes from below, beads of sweat on his forehead above the mask, flashing red light around him; upright crouch, not lying",
+   "camera": "close-up, eye level",
+   "image": "images/beat_015.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": "other",
+   "safe_substitution": "'lying under the desk' shown as an upright crouch",
+   "ambience": "office_night",
+   "shots": [
+    {
+     "id": "shot_036",
+     "startMs": 309861,
+     "endMs": 319832,
+     "narration_dhivehi": "ޢާޞިމްގެ އަޑުގައި ހުރީ އަމުރުވެރިކަމާއި ސިހުމެވެ. އިޔާން މޭޒުގެ ދަށުގައި އޮވެ، ހަށިގަނޑަށް ލިބުނު ކޮންމެ ހަކަތައެއް ބޭނުންކޮށްގެން ނޭވާ ހިފަހައްޓާލިއެވެ.",
+     "narration_english": "There was command and alarm in Asim's voice. Under the desk, Iyaan held his breath with every ounce of strength in his body.",
+     "crop": "full",
+     "motion": "static drift",
+     "sfx": [
+      {
+       "name": "breath_heavy",
+       "atMs": 318232,
+       "gainDb": -22,
+       "word": "ނޭވާ"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_037",
+     "startMs": 319832,
+     "endMs": 327792,
+     "narration_dhivehi": "އޭނާގެ ފޯނުގެ ސްކްރީން މަޑުމަޑުން ދިއްލުނެވެ. އޭނާގެ ސިއްރު ސޮފްޓްވެއާ ވަނީ ގޭގެ މައި ފިއުޒް ސިސްޓަމް އޯވަރލޯޑް ކޮށްލާފައެވެ.",
+     "narration_english": "His phone screen slowly lit up. His secret software had overloaded the house's main fuse system.",
+     "crop": "tight",
+     "motion": "slow push-in",
+     "sfx": [
+      {
+       "name": "computer_beep",
+       "atMs": 321592,
+       "gainDb": -24,
+       "word": "ދިއްލުނެވެ."
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      20.3,
+      4.8,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_038",
+     "startMs": 327792,
+     "endMs": 335132,
+     "narration_dhivehi": "ނަމަވެސް ބެކްއަޕް ޖެނެރޭޓަރު ހިނގައިގަންނަން އޮތީ އެންމެ މިނެޓެކެވެ. އެ މިނެޓުގެ ތެރޭގައި އޭނާ މިތަނުން ނިކުންނަން ޖެހޭނެއެވެ.",
+     "narration_english": "But the backup generator would start in just one minute. Within that minute he had to get out of there.",
+     "crop": "full",
+     "motion": "pan left",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Iyaan), create a new scene: Cinematic semi-realistic digital illustration with a dark modern political-thriller noir look, deep charcoal and teal shadows with blood-red accents and warm amber practical lights, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, wet pavement, desk top, soft shadow) for captions and a logo; night scenes in Malé glisten with rain, wet reflective streets and red-and-teal neon reflections, while the 2011 flashback scenes have a slightly desaturated, cold blue-grey haze.\nScene: Iyaan dressed for the break-in in a black long-sleeved hooded top with the hood up, black trousers, black gloves and a plain black cloth face mask covering his nose and mouth, only his intense dark eyes visible — NOT the plain black t-shirt of the reference; he carries no weapon of any kind; crouched under the desk with his knees drawn up, the soft glow of the phone screen in his gloved hand lighting his eyes from below, beads of sweat on his forehead above the mask, flashing red light around him; upright crouch, not lying. Location: Asim's secret private office upstairs in his huge modern Malé mansion: a large dark polished wooden desk with a leather chair, tall dark bookshelves full of leather-bound files covering the walls, a big grey steel safe with a small keypad set into the wall behind the desk, a long heavy dark-red floor-length curtain on one side hiding a glass balcony door, a heavy wooden door with a small biometric reader panel beside it, the room plunged into darkness. Camera: close-up, eye level.\nCharacters: Iyaan: a tall athletic Maldivian young man of 23 with warm brown skin, a lean handsome clean-shaven face with high cheekbones, intense deep-set dark eyes under straight heavy eyebrows, a firm jaw and thick short black hair swept up and back; wears a plain black crew-neck t-shirt, dark charcoal cargo trousers and a black wristwatch.\nMood/lighting: just past 2 am, total darkness pulsing with flashing red alarm light, chaos and panic.\nModest Maldivian clothing (every woman in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck; men fully clothed in shirts or t-shirts and long trousers, never shirtless), a clear respectful distance between men and women, no man touching a woman, culturally respectful, no violence shown, no blood, no wounds, no injuries, no knives, no weapons, no guns, no person lying on the ground, no cigarettes, no smoking, no alcohol, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.074,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 50.0,
+    "y_pct": 40.0,
+    "face_detected": false
+   }
+  },
+  {
+   "id": "beat_016",
+   "startMs": 335132,
+   "endMs": 371754,
+   "new_image_reason": "character change: Raaya bursts in with a phone flashlight and Asim stops her",
+   "characters": [
+    "raaya",
+    "asim"
+   ],
+   "location": "Asim's secret private office upstairs in his huge modern Malé mansion: a large dark polished wooden desk with a leather chair, tall dark bookshelves full of leather-bound files covering the walls, a big grey steel safe with a small keypad set into the wall behind the desk, a long heavy dark-red floor-length curtain on one side hiding a glass balcony door, a heavy wooden door with a small biometric reader panel beside it, the room plunged into darkness",
+   "location_key": "office_alarm",
+   "mood": "just past 2 am, total darkness pulsing with flashing red alarm light, chaos and panic",
+   "visual": "Raaya standing in the open office doorway holding up her phone flashlight, its white beam cutting through the red-flashing darkness, her face terrified; Asim striding across the room towards her with one arm raised to stop her coming in; Asim and Raaya not touching",
+   "camera": "medium wide shot from inside the room",
+   "image": "images/beat_016.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "office_night",
+   "shots": [
+    {
+     "id": "shot_039",
+     "startMs": 335132,
+     "endMs": 345553,
+     "narration_dhivehi": "ކުއްލިއަކަށް އޮފީސް ކޮޓަރީގެ ބޮޑު ދޮރު ބާރަށް ހުޅުވުނު އަޑު އިވުނެވެ. އެއާއެކު، ފޯނެއްގެ ފްލޭޝްލައިޓްގެ އަލި ކޮޓަރީގެ ތެރެއަށް އެޅުނެވެ. \"ބައްޕާ! ބައްޕާ ކޮބައިތަ؟\"",
+     "narration_english": "Suddenly the big office door was flung open, and the light of a phone flashlight fell into the room. \"Bappa! Bappa, where are you?\"",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [
+      {
+       "name": "door_open",
+       "atMs": 337992,
+       "gainDb": -16,
+       "word": "ހުޅުވުނު"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_040",
+     "startMs": 345553,
+     "endMs": 355673,
+     "narration_dhivehi": "އެއީ ރާޔާގެ އަޑެވެ. އޭނާ ހުރީ ބިރުން ހަލާކުވާން ކައިރިވެފައެވެ. މުޅި ގޭގައި އެލާމް ގޮވަމުންދާތީ އޭނާ ދުވެފައި އައީ ސީދާ ބައްޕަގެ ކޮޓަރިއަށެވެ. \"ރާޔާ!",
+     "narration_english": "It was Raaya's voice. She was nearly out of her mind with fear. With the alarm sounding through the whole house, she had run straight to her father's room. \"Raaya!",
+     "crop": "tight",
+     "motion": "pan right",
+     "sfx": [
+      {
+       "name": "footsteps_pavement",
+       "atMs": 352493,
+       "gainDb": -22,
+       "word": "ދުވެފައި"
+      }
+     ],
+     "hum": true,
+     "crop_rect_pct": [
+      0.0,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_041",
+     "startMs": 355673,
+     "endMs": 364123,
+     "narration_dhivehi": "އެތެރެއަށް ނުވަންނާތި!\" ޢާޞިމް ހަޅޭއްލަވައިގަތެވެ. އޭނާ ރާޔާއާ ދިމާއަށް ހިނގައިގަތެވެ. \"ސިސްޓަމަށް ކޮންމެވެސް މައްސަލައެއް ދިމާވީ.",
+     "narration_english": "Don't come in!\" Asim shouted. He walked towards Raaya. \"Something has gone wrong with the system.",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_042",
+     "startMs": 364123,
+     "endMs": 371754,
+     "narration_dhivehi": "ދަރިފުޅު މިތަނުން ހިނގާ ތިރިއަށް ދާން.\" ޢާޞިމް ރާޔާގެ އަތުގައި ހިފައިގެން، ކޮޓަރީގެ ދޮރުން ބޭރަށް ނިކުތެވެ.",
+     "narration_english": "Come, dear, let's go downstairs.\" Asim took Raaya by the hand and went out through the door.",
+     "crop": "medium",
+     "motion": "pan up",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      0.0,
+      0.0,
+      71.5,
+      84.7
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Raaya; reference image 2 is Asim), create a new scene: Cinematic semi-realistic digital illustration with a dark modern political-thriller noir look, deep charcoal and teal shadows with blood-red accents and warm amber practical lights, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, wet pavement, desk top, soft shadow) for captions and a logo; night scenes in Malé glisten with rain, wet reflective streets and red-and-teal neon reflections, while the 2011 flashback scenes have a slightly desaturated, cold blue-grey haze.\nScene: Raaya standing in the open office doorway holding up her phone flashlight, its white beam cutting through the red-flashing darkness, her face terrified; Asim striding across the room towards her with one arm raised to stop her coming in; Asim and Raaya not touching. Location: Asim's secret private office upstairs in his huge modern Malé mansion: a large dark polished wooden desk with a leather chair, tall dark bookshelves full of leather-bound files covering the walls, a big grey steel safe with a small keypad set into the wall behind the desk, a long heavy dark-red floor-length curtain on one side hiding a glass balcony door, a heavy wooden door with a small biometric reader panel beside it, the room plunged into darkness. Camera: medium wide shot from inside the room.\nCharacters: Raaya: a slim graceful Maldivian young woman of about 23 with warm brown skin, a soft heart-shaped face, large bright innocent dark eyes and a gentle smile; wears a loose long-sleeved ankle-length plain white dress and a soft light-grey hijab wrapped snugly and fully covering her hair and neck. Asim: a tall heavy-set Maldivian man of about 60 with warm brown skin, a heavy square face, cold narrow dark eyes, a thick grey moustache, deep lines around the mouth and grey-streaked black hair slicked back; wears a crisp long-sleeved white shirt with buttoned cuffs, black trousers and a heavy gold wristwatch.\nMood/lighting: just past 2 am, total darkness pulsing with flashing red alarm light, chaos and panic.\nModest Maldivian clothing (every woman in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck; men fully clothed in shirts or t-shirts and long trousers, never shirtless), a clear respectful distance between men and women, no man touching a woman, culturally respectful, no violence shown, no blood, no wounds, no injuries, no knives, no weapons, no guns, no person lying on the ground, no cigarettes, no smoking, no alcohol, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.03,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 17.3,
+    "y_pct": 20.5,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_017",
+   "startMs": 371754,
+   "endMs": 399165,
+   "new_image_reason": "action change: Iyaan slips behind the long curtain to the glass balcony door",
+   "characters": [
+    "iyaan"
+   ],
+   "location": "Asim's secret private office upstairs in his huge modern Malé mansion: a large dark polished wooden desk with a leather chair, tall dark bookshelves full of leather-bound files covering the walls, a big grey steel safe with a small keypad set into the wall behind the desk, a long heavy dark-red floor-length curtain on one side hiding a glass balcony door, a heavy wooden door with a small biometric reader panel beside it, the room plunged into darkness",
+   "location_key": "office_alarm",
+   "mood": "just past 2 am, total darkness pulsing with flashing red alarm light, chaos and panic",
+   "visual": "Iyaan dressed for the break-in in a black long-sleeved hooded top with the hood up, black trousers, black gloves and a plain black cloth face mask covering his nose and mouth, only his intense dark eyes visible — NOT the plain black t-shirt of the reference; he carries no weapon of any kind; a lean dark figure slipping silently behind the long heavy floor-length curtain, one gloved hand drawing it aside to reveal a glass balcony door with rain on the glass beyond, faint red alarm light on the folds",
+   "camera": "medium shot from across the room",
+   "image": "images/beat_017.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "office_night",
+   "shots": [
+    {
+     "id": "shot_043",
+     "startMs": 371754,
+     "endMs": 381344,
+     "narration_dhivehi": "ރާޔާ އައުމާއެކު އާޞިމްގެ ސަމާލުކަން އެނބުރުނު އެ ކުޑަކުޑަ ސިކުންތުކޮޅަކީ އިޔާންއަށް ލިބުނު ރަނުގެ ފުރުސަތެކެވެ. އިޔާން ހިޔަންޏެއްހެން މޭޒުގެ ދަށުން ނިކުމެ،",
+     "narration_english": "Those few seconds when Asim's attention turned to Raaya were Iyaan's golden chance. Like a shadow he came out from under the desk",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [
+      {
+       "name": "cloth_rustle",
+       "atMs": 380574,
+       "gainDb": -24,
+       "word": "ނިކުމެ،"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_044",
+     "startMs": 381344,
+     "endMs": 389704,
+     "narration_dhivehi": "ކޮޓަރީގެ އަނެއް ފަރާތުގައި ހުރި ބޮޑު ފަރުދާގެ ފަހަތަށް ދެމިގަތެވެ. އެ ފަރުދާގެ ފަހަތުގައި ހުރީ ބެލްކަންޏަށް ނިކުމެވޭ ބިއްލޫރި ދޮރެކެވެ.",
+     "narration_english": "and slipped behind the big curtain on the other side of the room. Behind that curtain was a glass door leading out to the balcony.",
+     "crop": "tight",
+     "motion": "pan down",
+     "sfx": [
+      {
+       "name": "cloth_rustle",
+       "atMs": 383914,
+       "gainDb": -22,
+       "word": "ފަރުދާގެ"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      20.3,
+      4.8,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_045",
+     "startMs": 389704,
+     "endMs": 399165,
+     "narration_dhivehi": "އިޔާން ވަރަށް ހިމޭންކަމާއެކު އެ ދޮރު ހުޅުވާލައި، ބޭރު ބެލްކަންޏަށް ނިކުތެވެ. އެވަގުތު ގޭގެ ބެކްއަޕް ޖެނެރޭޓަރުގެ ބާރު އަޑަކާއެކު ހިނގައިގަތެވެ.",
+     "narration_english": "Very quietly, Iyaan opened that door and stepped out onto the balcony. At that moment the house's backup generator started with a loud roar.",
+     "crop": "full",
+     "motion": "static drift",
+     "sfx": [
+      {
+       "name": "door_open",
+       "atMs": 391975,
+       "gainDb": -22,
+       "word": "ހުޅުވާލައި،"
+      },
+      {
+       "name": "power_up",
+       "atMs": 396435,
+       "gainDb": -16,
+       "word": "ޖެނެރޭޓަރުގެ"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Iyaan), create a new scene: Cinematic semi-realistic digital illustration with a dark modern political-thriller noir look, deep charcoal and teal shadows with blood-red accents and warm amber practical lights, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, wet pavement, desk top, soft shadow) for captions and a logo; night scenes in Malé glisten with rain, wet reflective streets and red-and-teal neon reflections, while the 2011 flashback scenes have a slightly desaturated, cold blue-grey haze.\nScene: Iyaan dressed for the break-in in a black long-sleeved hooded top with the hood up, black trousers, black gloves and a plain black cloth face mask covering his nose and mouth, only his intense dark eyes visible — NOT the plain black t-shirt of the reference; he carries no weapon of any kind; a lean dark figure slipping silently behind the long heavy floor-length curtain, one gloved hand drawing it aside to reveal a glass balcony door with rain on the glass beyond, faint red alarm light on the folds. Location: Asim's secret private office upstairs in his huge modern Malé mansion: a large dark polished wooden desk with a leather chair, tall dark bookshelves full of leather-bound files covering the walls, a big grey steel safe with a small keypad set into the wall behind the desk, a long heavy dark-red floor-length curtain on one side hiding a glass balcony door, a heavy wooden door with a small biometric reader panel beside it, the room plunged into darkness. Camera: medium shot from across the room.\nCharacters: Iyaan: a tall athletic Maldivian young man of 23 with warm brown skin, a lean handsome clean-shaven face with high cheekbones, intense deep-set dark eyes under straight heavy eyebrows, a firm jaw and thick short black hair swept up and back; wears a plain black crew-neck t-shirt, dark charcoal cargo trousers and a black wristwatch.\nMood/lighting: just past 2 am, total darkness pulsing with flashing red alarm light, chaos and panic.\nModest Maldivian clothing (every woman in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck; men fully clothed in shirts or t-shirts and long trousers, never shirtless), a clear respectful distance between men and women, no man touching a woman, culturally respectful, no violence shown, no blood, no wounds, no injuries, no knives, no weapons, no guns, no person lying on the ground, no cigarettes, no smoking, no alcohol, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.048,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 50.0,
+    "y_pct": 40.0,
+    "face_detected": false
+   }
+  },
+  {
+   "id": "beat_018",
+   "startMs": 399165,
+   "endMs": 417176,
+   "new_image_reason": "action change: the lights return; Asim looks back into the empty office",
+   "characters": [
+    "asim",
+    "raaya"
+   ],
+   "location": "Asim's secret private office upstairs in his huge modern Malé mansion: a large dark polished wooden desk with a leather chair, tall dark bookshelves full of leather-bound files covering the walls, a big grey steel safe with a small keypad set into the wall behind the desk, a long heavy dark-red floor-length curtain on one side hiding a glass balcony door, a heavy wooden door with a small biometric reader panel beside it, the room brightly lit by the ceiling lights",
+   "location_key": "office_lit",
+   "mood": "just past 2 am, harsh bright white ceiling light, hard shadows under the desk, intense danger",
+   "visual": "Asim standing in the office doorway in the restored bright light, looking back over his shoulder into the empty office with a frown of doubt; the desk, the chair and the space under the desk all empty; the long curtain hanging still; Raaya waiting just behind him in the corridor",
+   "camera": "wide shot from inside the room towards the door",
+   "image": "images/beat_018.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "mansion_night",
+   "shots": [
+    {
+     "id": "shot_046",
+     "startMs": 399165,
+     "endMs": 407815,
+     "narration_dhivehi": "މުޅި ގޭގެ ބޮކިތައް އަލުން ދިއްލުނެވެ. އޮފީސް ކޮޓަރިވެސް އަލިވިއެވެ. ޢާޞިމް ދޮރުމަތީގައި ހުރެފައި އެނބުރި އޮފީސް ކޮޓަރީގެ އެތެރެއަށް ބަލާލިއެވެ.",
+     "narration_english": "All the lights in the house came back on. The office lit up too. Standing at the door, Asim turned and looked back into the office.",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_047",
+     "startMs": 407815,
+     "endMs": 417176,
+     "narration_dhivehi": "މޭޒުގެ ދަށާއި މުޅި ތަން އޮތީ ހުސްކޮށެވެ. އޭނާއަށް ހީވީ ކުށްހީއެއް ކަމަށް ނިންމައި، ދޮރު ތަޅުލުމަށްފަހު ރާޔާއާއެކު ސިޑިން ތިރިއަށް ހިނގައިގަތެވެ.",
+     "narration_english": "Under the desk and the whole room were empty. Deciding it was only his imagination, he locked the door and went downstairs with Raaya.",
+     "crop": "tight",
+     "motion": "pan left",
+     "sfx": [
+      {
+       "name": "lock_click",
+       "atMs": 413695,
+       "gainDb": -18,
+       "word": "ތަޅުލުމަށްފަހު"
+      },
+      {
+       "name": "footsteps_pavement",
+       "atMs": 415515,
+       "gainDb": -24,
+       "word": "ސިޑިން"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      40.6,
+      27.3,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Asim; reference image 2 is Raaya), create a new scene: Cinematic semi-realistic digital illustration with a dark modern political-thriller noir look, deep charcoal and teal shadows with blood-red accents and warm amber practical lights, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, wet pavement, desk top, soft shadow) for captions and a logo; night scenes in Malé glisten with rain, wet reflective streets and red-and-teal neon reflections, while the 2011 flashback scenes have a slightly desaturated, cold blue-grey haze.\nScene: Asim standing in the office doorway in the restored bright light, looking back over his shoulder into the empty office with a frown of doubt; the desk, the chair and the space under the desk all empty; the long curtain hanging still; Raaya waiting just behind him in the corridor. Location: Asim's secret private office upstairs in his huge modern Malé mansion: a large dark polished wooden desk with a leather chair, tall dark bookshelves full of leather-bound files covering the walls, a big grey steel safe with a small keypad set into the wall behind the desk, a long heavy dark-red floor-length curtain on one side hiding a glass balcony door, a heavy wooden door with a small biometric reader panel beside it, the room brightly lit by the ceiling lights. Camera: wide shot from inside the room towards the door.\nCharacters: Asim: a tall heavy-set Maldivian man of about 60 with warm brown skin, a heavy square face, cold narrow dark eyes, a thick grey moustache, deep lines around the mouth and grey-streaked black hair slicked back; wears a crisp long-sleeved white shirt with buttoned cuffs, black trousers and a heavy gold wristwatch. Raaya: a slim graceful Maldivian young woman of about 23 with warm brown skin, a soft heart-shaped face, large bright innocent dark eyes and a gentle smile; wears a loose long-sleeved ankle-length plain white dress and a soft light-grey hijab wrapped snugly and fully covering her hair and neck.\nMood/lighting: just past 2 am, harsh bright white ceiling light, hard shadows under the desk, intense danger.\nModest Maldivian clothing (every woman in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck; men fully clothed in shirts or t-shirts and long trousers, never shirtless), a clear respectful distance between men and women, no man touching a woman, culturally respectful, no violence shown, no blood, no wounds, no injuries, no knives, no weapons, no guns, no person lying on the ground, no cigarettes, no smoking, no alcohol, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.144,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 86.2,
+    "y_pct": 62.5,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_019",
+   "startMs": 417176,
+   "endMs": 436756,
+   "new_image_reason": "scene change: Iyaan on the balcony, breathing again; the safe data is on his phone",
+   "characters": [
+    "iyaan"
+   ],
+   "location": "a wide upstairs balcony at the back of Asim's mansion at night: a waist-high smooth white parapet wall, a glass door with a curtain behind it, dark leafy trees beyond the wall, light rain",
+   "location_key": "balcony",
+   "mood": "just past 2 am, dark night, light rain falling, a flash of distant lightning, cold wet teal light, the glow of the house lights behind the glass, narrow escape",
+   "visual": "Iyaan dressed for the break-in in a black long-sleeved hooded top with the hood up, black trousers, black gloves and a plain black cloth face mask covering his nose and mouth, only his intense dark eyes visible — NOT the plain black t-shirt of the reference; he carries no weapon of any kind; he stands with his back pressed against the wall beside the glass balcony door in the light rain, chest heaving, eyes closed for a moment of relief, his phone in his gloved hand glowing with a small progress bar of light; warm house light leaking through the curtain behind the glass",
+   "camera": "medium shot, eye level",
+   "image": "images/beat_019.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "balcony_night",
+   "shots": [
+    {
+     "id": "shot_048",
+     "startMs": 417176,
+     "endMs": 427246,
+     "narration_dhivehi": "ބެލްކަނީގައި ހުރި އިޔާން ފުން ނޭވާއެއްލިއެވެ. އޭނާ ހުރީ ދާހިއްލައި ފޯވެފައެވެ. އޭނާ ސަލާމަތްވީ ހަމަ ކިރިޔާއެވެ. ނަމަވެސް އޭނާ ނުކުތީ ހުސްދެއަތާއެއް ނޫނެވެ.",
+     "narration_english": "On the balcony, Iyaan let out a deep breath. He was drenched in sweat. He had escaped by a hair. But he had not come away empty-handed.",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [
+      {
+       "name": "breath_heavy",
+       "atMs": 419076,
+       "gainDb": -20,
+       "word": "ނޭވާއެއްލިއެވެ."
+      }
+     ],
+     "hum": true,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_049",
+     "startMs": 427246,
+     "endMs": 436756,
+     "narration_dhivehi": "މޭޒުގެ ދަށަށް ވަނުމުގެ ކުރިން، ސޭފްގެ ޑިޖިޓަލް ކޯޑު ފަޅާލައި ޑިވައިސްއިން އޮތީ ސޭފްގެ މައުލޫމާތުތައް ވައިފައި މެދުވެރިކޮށް އިޔާންގެ ފޯނަށް ފޮނުވާފައެވެ.",
+     "narration_english": "Before he went under the desk, the device had broken the safe's digital code and sent the safe's data to Iyaan's phone over wifi.",
+     "crop": "tight",
+     "motion": "pan right",
+     "sfx": [
+      {
+       "name": "computer_beep",
+       "atMs": 435536,
+       "gainDb": -24,
+       "word": "ފޮނުވާފައެވެ."
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      9.5,
+      29.6,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Iyaan), create a new scene: Cinematic semi-realistic digital illustration with a dark modern political-thriller noir look, deep charcoal and teal shadows with blood-red accents and warm amber practical lights, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, wet pavement, desk top, soft shadow) for captions and a logo; night scenes in Malé glisten with rain, wet reflective streets and red-and-teal neon reflections, while the 2011 flashback scenes have a slightly desaturated, cold blue-grey haze.\nScene: Iyaan dressed for the break-in in a black long-sleeved hooded top with the hood up, black trousers, black gloves and a plain black cloth face mask covering his nose and mouth, only his intense dark eyes visible — NOT the plain black t-shirt of the reference; he carries no weapon of any kind; he stands with his back pressed against the wall beside the glass balcony door in the light rain, chest heaving, eyes closed for a moment of relief, his phone in his gloved hand glowing with a small progress bar of light; warm house light leaking through the curtain behind the glass. Location: a wide upstairs balcony at the back of Asim's mansion at night: a waist-high smooth white parapet wall, a glass door with a curtain behind it, dark leafy trees beyond the wall, light rain. Camera: medium shot, eye level.\nCharacters: Iyaan: a tall athletic Maldivian young man of 23 with warm brown skin, a lean handsome clean-shaven face with high cheekbones, intense deep-set dark eyes under straight heavy eyebrows, a firm jaw and thick short black hair swept up and back; wears a plain black crew-neck t-shirt, dark charcoal cargo trousers and a black wristwatch.\nMood/lighting: just past 2 am, dark night, light rain falling, a flash of distant lightning, cold wet teal light, the glow of the house lights behind the glass, narrow escape.\nModest Maldivian clothing (every woman in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck; men fully clothed in shirts or t-shirts and long trousers, never shirtless), a clear respectful distance between men and women, no man touching a woman, culturally respectful, no violence shown, no blood, no wounds, no injuries, no knives, no weapons, no guns, no person lying on the ground, no cigarettes, no smoking, no alcohol, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.133,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 39.2,
+    "y_pct": 65.2,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_020",
+   "startMs": 436756,
+   "endMs": 444167,
+   "new_image_reason": "action change: he crouches on the balcony wall, ready to drop into the trees",
+   "characters": [
+    "iyaan"
+   ],
+   "location": "a wide upstairs balcony at the back of Asim's mansion at night: a waist-high smooth white parapet wall, a glass door with a curtain behind it, dark leafy trees beyond the wall, light rain",
+   "location_key": "balcony",
+   "mood": "just past 2 am, dark night, light rain falling, a flash of distant lightning, cold wet teal light, the glow of the house lights behind the glass, narrow escape",
+   "visual": "Iyaan dressed for the break-in in a black long-sleeved hooded top with the hood up, black trousers, black gloves and a plain black cloth face mask covering his nose and mouth, only his intense dark eyes visible — NOT the plain black t-shirt of the reference; he carries no weapon of any kind; seen from behind and to the side, he is crouched low on top of the white balcony parapet wall like a cat, one gloved hand on the wall, poised and balanced, looking down at the dark trees below, rain falling; he is perfectly steady, not falling",
+   "camera": "medium wide shot, slightly low angle, the figure in the upper half",
+   "image": "images/beat_020.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": "other",
+   "safe_substitution": "the jump shown as a steady crouch on the balcony wall, no fall",
+   "ambience": "balcony_night",
+   "shots": [
+    {
+     "id": "shot_050",
+     "startMs": 436756,
+     "endMs": 444167,
+     "narration_dhivehi": "އިޔާން ބެލްކަނީގެ ފާރުމަތިން ފުންމާލައި، ގޭގެ ފަސްފަހަތުގައި ހުރި ގަސްތަކުގެ ތެރެއިން ލާފައި ހަނި ގޯޅިގަނޑަށް ނިކުތެވެ.",
+     "narration_english": "Iyaan jumped from the balcony wall and, through the trees behind the house, came out into the narrow lane.",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [
+      {
+       "name": "leaves_rustle",
+       "atMs": 441136,
+       "gainDb": -20,
+       "word": "ގަސްތަކުގެ"
+      },
+      {
+       "name": "soft_thud",
+       "atMs": 438356,
+       "gainDb": -22,
+       "word": "ފުންމާލައި،"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Iyaan), create a new scene: Cinematic semi-realistic digital illustration with a dark modern political-thriller noir look, deep charcoal and teal shadows with blood-red accents and warm amber practical lights, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, wet pavement, desk top, soft shadow) for captions and a logo; night scenes in Malé glisten with rain, wet reflective streets and red-and-teal neon reflections, while the 2011 flashback scenes have a slightly desaturated, cold blue-grey haze.\nScene: Iyaan dressed for the break-in in a black long-sleeved hooded top with the hood up, black trousers, black gloves and a plain black cloth face mask covering his nose and mouth, only his intense dark eyes visible — NOT the plain black t-shirt of the reference; he carries no weapon of any kind; seen from behind and to the side, he is crouched low on top of the white balcony parapet wall like a cat, one gloved hand on the wall, poised and balanced, looking down at the dark trees below, rain falling; he is perfectly steady, not falling. Location: a wide upstairs balcony at the back of Asim's mansion at night: a waist-high smooth white parapet wall, a glass door with a curtain behind it, dark leafy trees beyond the wall, light rain. Camera: medium wide shot, slightly low angle, the figure in the upper half.\nCharacters: Iyaan: a tall athletic Maldivian young man of 23 with warm brown skin, a lean handsome clean-shaven face with high cheekbones, intense deep-set dark eyes under straight heavy eyebrows, a firm jaw and thick short black hair swept up and back; wears a plain black crew-neck t-shirt, dark charcoal cargo trousers and a black wristwatch.\nMood/lighting: just past 2 am, dark night, light rain falling, a flash of distant lightning, cold wet teal light, the glow of the house lights behind the glass, narrow escape.\nModest Maldivian clothing (every woman in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck; men fully clothed in shirts or t-shirts and long trousers, never shirtless), a clear respectful distance between men and women, no man touching a woman, culturally respectful, no violence shown, no blood, no wounds, no injuries, no knives, no weapons, no guns, no person lying on the ground, no cigarettes, no smoking, no alcohol, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.082,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 50.0,
+    "y_pct": 40.0,
+    "face_detected": false
+   }
+  },
+  {
+   "id": "beat_021",
+   "startMs": 444167,
+   "endMs": 469618,
+   "new_image_reason": "scene change: in the lane he pulls off the mask and walks away",
+   "characters": [
+    "iyaan"
+   ],
+   "location": "the same narrow dark lane behind the mansion at night, wet paving, dark trees spilling over the high wall, a single dim street lamp far away",
+   "location_key": "lane_exit",
+   "mood": "just past 2 am, dark, light rain, wet reflections, a lonely figure walking away, relief and resolve",
+   "visual": "Iyaan walking away down the dark wet lane in his black long-sleeved hooded top with the hood down, black trousers and black gloves — NOT the plain black t-shirt of the reference — pulling the black cloth mask off his face with one hand, his face revealed, a look of grim relief and resolve, glancing at the glowing phone in his other hand",
+   "camera": "medium shot, slightly from the front",
+   "image": "images/beat_021.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "night_lane",
+   "shots": [
+    {
+     "id": "shot_051",
+     "startMs": 444167,
+     "endMs": 452697,
+     "narration_dhivehi": "އޭނާ މާސްކު ނަގައި ޖީބަށްލަމުން، ހިނގައިގަތެވެ. \"ރާޔާ... ކަލޭ މަގޭ ފުރާނަ ސަލާމަތްކޮށްދީފި،\" އިޔާން ހިތާހިތުން ބުނެލިއެވެ.",
+     "narration_english": "Pulling off the mask and putting it in his pocket, he walked away. \"Raaya... you saved my life,\" Iyaan said to himself.",
+     "crop": "full",
+     "motion": "pan up",
+     "sfx": [
+      {
+       "name": "footsteps_pavement",
+       "atMs": 446517,
+       "gainDb": -22,
+       "word": "ހިނގައިގަތެވެ."
+      }
+     ],
+     "hum": true,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_052",
+     "startMs": 452697,
+     "endMs": 460537,
+     "narration_dhivehi": "ނަމަވެސް އޭނާގެ ހިތުގައި އޮތް ބަދަލުހިފުމުގެ ރޫހަކަށް ބަދަލެއް ނާދެއެވެ. ޢާޞިމްގެ ނިމުން ފެށިއްޖެއެވެ. އިޔާން އޭނާގެ ފޯނު ހުޅުވާލިއެވެ.",
+     "narration_english": "But the spirit of revenge in his heart did not change. Asim's end had begun. Iyaan opened his phone.",
+     "crop": "tight",
+     "motion": "slow pull-out",
+     "sfx": [
+      {
+       "name": "computer_beep",
+       "atMs": 459897,
+       "gainDb": -24,
+       "word": "ހުޅުވާލިއެވެ."
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      18.3,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_053",
+     "startMs": 460537,
+     "endMs": 469618,
+     "narration_dhivehi": "ސޭފްގެ ތެރެއިން ޑައުންލޯޑްވި ފައިލްތަކުގެ ތެރޭގައި \"ޕީޒެޑް 2011\" ޖަހާފައިވާ ފޯލްޑަރއެއް އޮތެވެ. އިޔާން ކޮޓަރިއަށް ވަދެ ދޮރު ލެއްޕިއެވެ.",
+     "narration_english": "Among the files downloaded from the safe was a folder named 'PZ 2011'. Iyaan went into his room and locked the door.",
+     "crop": "full",
+     "motion": "pan down",
+     "sfx": [
+      {
+       "name": "door_close",
+       "atMs": 468758,
+       "gainDb": -20,
+       "word": "ލެއްޕިއެވެ."
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Iyaan), create a new scene: Cinematic semi-realistic digital illustration with a dark modern political-thriller noir look, deep charcoal and teal shadows with blood-red accents and warm amber practical lights, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, wet pavement, desk top, soft shadow) for captions and a logo; night scenes in Malé glisten with rain, wet reflective streets and red-and-teal neon reflections, while the 2011 flashback scenes have a slightly desaturated, cold blue-grey haze.\nScene: Iyaan walking away down the dark wet lane in his black long-sleeved hooded top with the hood down, black trousers and black gloves — NOT the plain black t-shirt of the reference — pulling the black cloth mask off his face with one hand, his face revealed, a look of grim relief and resolve, glancing at the glowing phone in his other hand. Location: the same narrow dark lane behind the mansion at night, wet paving, dark trees spilling over the high wall, a single dim street lamp far away. Camera: medium shot, slightly from the front.\nCharacters: Iyaan: a tall athletic Maldivian young man of 23 with warm brown skin, a lean handsome clean-shaven face with high cheekbones, intense deep-set dark eyes under straight heavy eyebrows, a firm jaw and thick short black hair swept up and back; wears a plain black crew-neck t-shirt, dark charcoal cargo trousers and a black wristwatch.\nMood/lighting: just past 2 am, dark, light rain, wet reflections, a lonely figure walking away, relief and resolve.\nModest Maldivian clothing (every woman in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck; men fully clothed in shirts or t-shirts and long trousers, never shirtless), a clear respectful distance between men and women, no man touching a woman, culturally respectful, no violence shown, no blood, no wounds, no injuries, no knives, no weapons, no guns, no person lying on the ground, no cigarettes, no smoking, no alcohol, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.065,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 48.0,
+    "y_pct": 22.1,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_022",
+   "startMs": 469618,
+   "endMs": 487798,
+   "new_image_reason": "scene change: home, in his locked room, he opens the downloaded folder on a tablet",
+   "characters": [
+    "iyaan"
+   ],
+   "location": "Iyaan's small locked bedroom in a modest Hulhumalé apartment: a single bed with a plain dark cover against one wall, a desk with three computer monitors and a keyboard, a wall-sized investigation board covered in small faceless blurred photos linked by red string",
+   "location_key": "room_night",
+   "mood": "the small hours of the night, only the cold blue glow of monitors and a tablet in a dark room, red string glinting on the board, shaken and intense",
+   "visual": "Iyaan sitting upright on the edge of his single bed, fully clothed in his plain black t-shirt and charcoal cargo trousers, still shaken, holding a tablet in both hands, its glow lighting his tense face; behind him the desk monitors glow blue and the investigation board looms in the dark",
+   "camera": "medium shot, eye level",
+   "image": "images/beat_022.png",
+   "reuse_of": null,
+   "transition_in": "black",
+   "sensitive": "clothing",
+   "safe_substitution": "narration has him take off his t-shirt and lie on the bed; shown sitting on the edge of the bed fully clothed",
+   "ambience": "hacker_room",
+   "shots": [
+    {
+     "id": "shot_054",
+     "startMs": 469618,
+     "endMs": 478878,
+     "narration_dhivehi": "އޭނާ އަދިވެސް ތުރުތުރުއަޅައެވެ. ކަޅު ލައިގެން ހުރި ޓީޝާޓު ބާލައި އެނދުގައި އޮށޯތެވެ. އެނދުމަތީގައި އޮތް ޓެބްލެޓް ނަގައި އޭނާގެ މައި ސިސްޓަމާ ގުޅާލިއެވެ.",
+     "narration_english": "He was still trembling. He pulled off the black t-shirt he was wearing and lay back on the bed. He picked up the tablet on the bed and connected it to his main system.",
+     "crop": "full",
+     "motion": "static drift",
+     "sfx": [
+      {
+       "name": "computer_beep",
+       "atMs": 477598,
+       "gainDb": -22,
+       "word": "ގުޅާލިއެވެ."
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_055",
+     "startMs": 478878,
+     "endMs": 487798,
+     "narration_dhivehi": "ޢާޞިމްގެ ސޭފްގެ ތެރެއިން ޑައުންލޯޑްވި ފޯލްޑަރ މިހާރު ސްކްރީނަށް ބޮޑުކޮށް ހުޅުވިފައި އޮތެވެ. އިޔާން އެ ފޯލްޑަރުގެ އެންމެ ފުރަތަމަ ފައިލް ހުޅުވާލިއެވެ.",
+     "narration_english": "The folder downloaded from Asim's safe was now open, large on the screen. Iyaan opened the very first file in the folder.",
+     "crop": "tight",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      10.1,
+      0.0,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Iyaan), create a new scene: Cinematic semi-realistic digital illustration with a dark modern political-thriller noir look, deep charcoal and teal shadows with blood-red accents and warm amber practical lights, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, wet pavement, desk top, soft shadow) for captions and a logo; night scenes in Malé glisten with rain, wet reflective streets and red-and-teal neon reflections, while the 2011 flashback scenes have a slightly desaturated, cold blue-grey haze.\nScene: Iyaan sitting upright on the edge of his single bed, fully clothed in his plain black t-shirt and charcoal cargo trousers, still shaken, holding a tablet in both hands, its glow lighting his tense face; behind him the desk monitors glow blue and the investigation board looms in the dark. Location: Iyaan's small locked bedroom in a modest Hulhumalé apartment: a single bed with a plain dark cover against one wall, a desk with three computer monitors and a keyboard, a wall-sized investigation board covered in small faceless blurred photos linked by red string. Camera: medium shot, eye level.\nCharacters: Iyaan: a tall athletic Maldivian young man of 23 with warm brown skin, a lean handsome clean-shaven face with high cheekbones, intense deep-set dark eyes under straight heavy eyebrows, a firm jaw and thick short black hair swept up and back; wears a plain black crew-neck t-shirt, dark charcoal cargo trousers and a black wristwatch.\nMood/lighting: the small hours of the night, only the cold blue glow of monitors and a tablet in a dark room, red string glinting on the board, shaken and intense.\nModest Maldivian clothing (every woman in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck; men fully clothed in shirts or t-shirts and long trousers, never shirtless), a clear respectful distance between men and women, no man touching a woman, culturally respectful, no violence shown, no blood, no wounds, no injuries, no knives, no weapons, no guns, no person lying on the ground, no cigarettes, no smoking, no alcohol, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.05,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 39.8,
+    "y_pct": 26.7,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_023",
+   "startMs": 487798,
+   "endMs": 521159,
+   "new_image_reason": "emotional turning point: the secret 2011 police log of Asim's orders",
+   "characters": [
+    "iyaan"
+   ],
+   "location": "Iyaan's small locked bedroom in a modest Hulhumalé apartment: a single bed with a plain dark cover against one wall, a desk with three computer monitors and a keyboard, a wall-sized investigation board covered in small faceless blurred photos linked by red string",
+   "location_key": "room_night",
+   "mood": "the small hours of the night, only the cold blue glow of monitors and a tablet in a dark room, red string glinting on the board, shaken and intense",
+   "visual": "close-up of Iyaan's face lit by the cold glow of a monitor, his eyes widening in shock and fury; on the desk in front of the screen a blank sealed manila envelope; the monitor shows only blurred grey document pages with no readable marks",
+   "camera": "close-up, eye level, from beside the monitor",
+   "image": "images/beat_023.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": "violence",
+   "safe_substitution": "the destroyed weapon fingerprint report and number plate are only a blank sealed envelope and blurred pages",
+   "ambience": "hacker_room",
+   "shots": [
+    {
+     "id": "shot_056",
+     "startMs": 487798,
+     "endMs": 495769,
+     "narration_dhivehi": "އެއީ 15 އަހަރު ކުރީގެ ސިއްރު ޕޮލިސް ރިޕޯޓެކެވެ. ނަމަވެސް މިއީ އާންމުކޮށް ފުލުހުންގެ ފައިލްތަކުގައި އޮންނަ ރިޕޯޓެއް ނޫނެވެ.",
+     "narration_english": "It was a secret police report from fifteen years ago. But it was not the kind of report found in ordinary police files.",
+     "crop": "full",
+     "motion": "pan left",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_057",
+     "startMs": 495769,
+     "endMs": 502239,
+     "narration_dhivehi": "މިއީ އެއިރު ބައްޕަގެ މަރުގެ ތަހުގީގު ހިންގި މައި އިންވެސްޓިގޭޓަރަށް ޢާޞިމް ދީފައިވާ ސިއްރު އަމުރުތަކުގެ ލޮގެކެވެ.",
+     "narration_english": "It was a log of the secret orders Asim had given to the lead investigator who ran the inquiry into his father's murder at the time.",
+     "crop": "tight",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      24.4,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_058",
+     "startMs": 502239,
+     "endMs": 509169,
+     "narration_dhivehi": "އިޔާން ކިޔަމުން ދިޔަ ވަރަކަށް އޭނާގެ ދެލޯ ބޮޑުވަމުން ދިޔައެވެ. ބައްޕަގެ މަރުގެ މައްސަލަ އޮއްބާލުމަށްޓަކައި،",
+     "narration_english": "The more Iyaan read, the wider his eyes grew. To bury the case of his father's murder,",
+     "crop": "full",
+     "motion": "pan right",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_059",
+     "startMs": 509169,
+     "endMs": 521159,
+     "narration_dhivehi": "މަރު ހިނގި ސަރަހައްދުން ފެނުނު ސައިކަލުގެ ނަންބަރު ބޯޑާއި، ގާތިލުން ބޭނުންކުރި ވަޅީގެ ފިންގަރޕްރިންޓް ރިޕޯޓުތައް ސިއްރުން ނައްތާލާފައިވަނީ ސީދާ ޢާޞިމްގެ ސޮޔާއެކު ފޮނުވި ސިޓީއަކުންނެވެ.",
+     "narration_english": "the number plate of the motorbike seen at the scene, and the fingerprint reports from the weapon the killers used, had been secretly destroyed by a letter sent with Asim's own signature.",
+     "crop": "medium",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": true,
+     "crop_rect_pct": [
+      18.3,
+      0.0,
+      71.5,
+      84.7
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Iyaan), create a new scene: Cinematic semi-realistic digital illustration with a dark modern political-thriller noir look, deep charcoal and teal shadows with blood-red accents and warm amber practical lights, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, wet pavement, desk top, soft shadow) for captions and a logo; night scenes in Malé glisten with rain, wet reflective streets and red-and-teal neon reflections, while the 2011 flashback scenes have a slightly desaturated, cold blue-grey haze.\nScene: close-up of Iyaan's face lit by the cold glow of a monitor, his eyes widening in shock and fury; on the desk in front of the screen a blank sealed manila envelope; the monitor shows only blurred grey document pages with no readable marks. Location: Iyaan's small locked bedroom in a modest Hulhumalé apartment: a single bed with a plain dark cover against one wall, a desk with three computer monitors and a keyboard, a wall-sized investigation board covered in small faceless blurred photos linked by red string. Camera: close-up, eye level, from beside the monitor.\nCharacters: Iyaan: a tall athletic Maldivian young man of 23 with warm brown skin, a lean handsome clean-shaven face with high cheekbones, intense deep-set dark eyes under straight heavy eyebrows, a firm jaw and thick short black hair swept up and back; wears a plain black crew-neck t-shirt, dark charcoal cargo trousers and a black wristwatch.\nMood/lighting: the small hours of the night, only the cold blue glow of monitors and a tablet in a dark room, red string glinting on the board, shaken and intense.\nModest Maldivian clothing (every woman in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck; men fully clothed in shirts or t-shirts and long trousers, never shirtless), a clear respectful distance between men and women, no man touching a woman, culturally respectful, no violence shown, no blood, no wounds, no injuries, no knives, no weapons, no guns, no person lying on the ground, no cigarettes, no smoking, no alcohol, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.107,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 54.1,
+    "y_pct": 33.7,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_024",
+   "startMs": 521159,
+   "endMs": 548711,
+   "new_image_reason": "new reveal: the 'Partners' Share' spreadsheet of three partners",
+   "characters": [
+    "iyaan"
+   ],
+   "location": "Iyaan's small locked bedroom in a modest Hulhumalé apartment: a single bed with a plain dark cover against one wall, a desk with three computer monitors and a keyboard, a wall-sized investigation board covered in small faceless blurred photos linked by red string",
+   "location_key": "room_night",
+   "mood": "the small hours of the night, only the cold blue glow of monitors and a tablet in a dark room, red string glinting on the board, shaken and intense",
+   "visual": "over Iyaan's shoulder at his desk: the big monitor glows with an abstract spreadsheet grid of coloured cells and three tall red bars, no letters or numbers anywhere, his face reflected faintly in the screen, his hand frozen on the mouse",
+   "camera": "over-the-shoulder medium shot",
+   "image": "images/beat_024.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "hacker_room",
+   "shots": [
+    {
+     "id": "shot_060",
+     "startMs": 521159,
+     "endMs": 527980,
+     "narration_dhivehi": "ނަމަވެސް، އިޔާން އެންމެ ބޮޑަށް ސިއްސުވާލީ އޭގެ ދަށުގައި އޮތް \"ޕާޓްނާސް ޝެއަރ\" ނަމަކަށް ކިޔާ އެކްސެލް ޝީޓެކެވެ.",
+     "narration_english": "But what shook Iyaan most was the Excel sheet beneath it, named 'Partners' Share'.",
+     "crop": "full",
+     "motion": "pan up",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_061",
+     "startMs": 527980,
+     "endMs": 538530,
+     "narration_dhivehi": "ބައްޕަ މަރާލުމުގެ ބޮޑު ރޭވުމުގައި ބައިވެރިވަނީ ޢާޞިމް އެކަންޏެއް ނޫނެވެ. އޭގެ ފަހަތުގައި އެއިރުގެ ސަރުކާރުގެ އެންމެ ނުފޫޒުގަދަ ތިން ސިޔާސީ ބޭފުޅުންގެ ދައުރު އެބައޮތެވެ.",
+     "narration_english": "Asim was not the only one in the great plan to kill his father. Behind it stood the role of the three most powerful political figures of the government of that time.",
+     "crop": "tight",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      40.6,
+      1.1,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_062",
+     "startMs": 538530,
+     "endMs": 548711,
+     "narration_dhivehi": "އޭގެ ތެރެއިން އެކަކީ މިހާރުގެ ރައްޔިތުންގެ މަޖިލީހުގެ ރައީސް ސަމީރެވެ. އަދި އަނެކަކީ ރާއްޖޭގެ އެންމެ ބޮޑު އަމިއްލަ ބޭންކުގެ މިހާރުގެ މެނޭޖިންގް ޑިރެކްޓަރު ފަރީދެވެ.",
+     "narration_english": "One of them is now the Speaker of Parliament, Sameer. And another is now the managing director of the country's biggest private bank, Fareed.",
+     "crop": "full",
+     "motion": "pan down",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Iyaan), create a new scene: Cinematic semi-realistic digital illustration with a dark modern political-thriller noir look, deep charcoal and teal shadows with blood-red accents and warm amber practical lights, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, wet pavement, desk top, soft shadow) for captions and a logo; night scenes in Malé glisten with rain, wet reflective streets and red-and-teal neon reflections, while the 2011 flashback scenes have a slightly desaturated, cold blue-grey haze.\nScene: over Iyaan's shoulder at his desk: the big monitor glows with an abstract spreadsheet grid of coloured cells and three tall red bars, no letters or numbers anywhere, his face reflected faintly in the screen, his hand frozen on the mouse. Location: Iyaan's small locked bedroom in a modest Hulhumalé apartment: a single bed with a plain dark cover against one wall, a desk with three computer monitors and a keyboard, a wall-sized investigation board covered in small faceless blurred photos linked by red string. Camera: over-the-shoulder medium shot.\nCharacters: Iyaan: a tall athletic Maldivian young man of 23 with warm brown skin, a lean handsome clean-shaven face with high cheekbones, intense deep-set dark eyes under straight heavy eyebrows, a firm jaw and thick short black hair swept up and back; wears a plain black crew-neck t-shirt, dark charcoal cargo trousers and a black wristwatch.\nMood/lighting: the small hours of the night, only the cold blue glow of monitors and a tablet in a dark room, red string glinting on the board, shaken and intense.\nModest Maldivian clothing (every woman in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck; men fully clothed in shirts or t-shirts and long trousers, never shirtless), a clear respectful distance between men and women, no man touching a woman, culturally respectful, no violence shown, no blood, no wounds, no injuries, no knives, no weapons, no guns, no person lying on the ground, no cigarettes, no smoking, no alcohol, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.094,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 80.0,
+    "y_pct": 36.3,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_025",
+   "startMs": 548711,
+   "endMs": 581842,
+   "new_image_reason": "return to his face as he takes in that the whole system took his father's life",
+   "characters": [],
+   "location": "Iyaan's small locked bedroom in a modest Hulhumalé apartment: a single bed with a plain dark cover against one wall, a desk with three computer monitors and a keyboard, a wall-sized investigation board covered in small faceless blurred photos linked by red string",
+   "location_key": "room_night",
+   "mood": "the small hours of the night, only the cold blue glow of monitors and a tablet in a dark room, red string glinting on the board, shaken and intense",
+   "visual": "reuse",
+   "camera": "reuse",
+   "image": "images/beat_023.png",
+   "reuse_of": "beat_023",
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "hacker_room",
+   "shots": [
+    {
+     "id": "shot_063",
+     "startMs": 548711,
+     "endMs": 556781,
+     "narration_dhivehi": "ބައްޕަ އަޙްމަދު ޒާހިރު ހޯދާފައިވާ ހެކިތަކުން، މި ތިން މީހުން ގުޅިގެން ދައުލަތުގެ ބަޖެޓުން މިލިއަނުން ފައިސާ ވަގަށް ނަގައި،",
+     "narration_english": "From the evidence his father Ahmed Zahir had gathered, it was proven that these three together had stolen millions from the state budget",
+     "crop": "tight",
+     "motion": "static drift",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      24.4,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_064",
+     "startMs": 556781,
+     "endMs": 565991,
+     "narration_dhivehi": "ރާއްޖޭން ބޭރުގެ ސިއްރު އެކައުންޓްތަކަށް ޖަމާކުރިކަން ސާބިތުވެއެވެ. ބައްޕަ މަރާލުމަށް ފައިސާ ޚަރަދުކުރީ ފަރީދެވެ. ސިޔާސީ ގޮތުން މައްސަލަ ފޮރުވީ ސަމީރެވެ.",
+     "narration_english": "and deposited it in secret accounts abroad. It was Fareed who paid for his father's murder. It was Sameer who covered it up politically.",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_065",
+     "startMs": 565991,
+     "endMs": 574842,
+     "narration_dhivehi": "އަދި ގޭންގުމީހުން ފޮނުވައިގެން އަމަލީ ގޮތުން އެކަން ކުރުވީ ޢާޞިމެވެ. \"މިއީ ހަމައެކަނި ޢާޞިމްގެ މައްސަލައެއް ނޫން،\" އިޔާން މަޑުމަޑުން ބުނެލިއެވެ.",
+     "narration_english": "And it was Asim who sent the gangsters and had it carried out. \"This isn't only Asim's doing,\" Iyaan said softly.",
+     "crop": "medium",
+     "motion": "pan left",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      18.3,
+      0.0,
+      71.5,
+      84.7
+     ]
+    },
+    {
+     "id": "shot_066",
+     "startMs": 574842,
+     "endMs": 581842,
+     "narration_dhivehi": "އޭނާ ފުން ނޭވާއެއް ލިއެވެ. \"މިއީ މުޅި ސިސްޓަމް. އެންމެން ގުޅިގެން މަގޭ ބައްޕަގެ ފުރާނަ ދުއްވާލީ.\"",
+     "narration_english": "He took a deep breath. \"This is the whole system. Together, all of them took my father's life.\"",
+     "crop": "tight",
+     "motion": "slow pull-out",
+     "sfx": [
+      {
+       "name": "sigh",
+       "atMs": 575762,
+       "gainDb": -20,
+       "word": "ނޭވާއެއް"
+      }
+     ],
+     "hum": true,
+     "crop_rect_pct": [
+      24.4,
+      0.0,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [],
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.114,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 54.1,
+    "y_pct": 33.7,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_026",
+   "startMs": 581842,
+   "endMs": 616603,
+   "new_image_reason": "action change: he pins Sameer's and Fareed's photos beside Asim's and links them with red string",
+   "characters": [
+    "iyaan",
+    "asim",
+    "sameer",
+    "fareed"
+   ],
+   "location": "Iyaan's small locked bedroom in a modest Hulhumalé apartment: a single bed with a plain dark cover against one wall, a desk with three computer monitors and a keyboard, a wall-sized investigation board covered in small faceless blurred photos linked by red string",
+   "location_key": "room_night",
+   "mood": "the small hours of the night, only the cold blue glow of monitors and a tablet in a dark room, red string glinting on the board, shaken and intense",
+   "visual": "Iyaan is the ONLY person in the room: he stands at the wall-sized investigation board stretching a red string between three small printed photo portraits pinned in a row in the centre — a small portrait of Asim in the middle, a small portrait of Sameer with round glasses on the left and a small portrait of Fareed with a thin moustache on the right, each only a palm-sized photo; Asim, Sameer and Fareed appear ONLY as these small pinned photos, not as people in the room; Iyaan's face in three-quarter profile, cold and determined",
+   "camera": "medium shot from the side, the board and his face in the upper two-thirds",
+   "image": "images/beat_026.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": "other",
+   "safe_substitution": "Sameer and Fareed only as small portrait photos on the board; no text on the board",
+   "ambience": "hacker_room",
+   "shots": [
+    {
+     "id": "shot_067",
+     "startMs": 581842,
+     "endMs": 590042,
+     "narration_dhivehi": "އިޔާން ތެދުވެގެން ގޮސް ފާރުގައި ހުރި ބޯޑު ކައިރިއަށް ހުއްޓުނެވެ. އޭނާ ޢާޞިމްގެ ފޮޓޯގެ ދެފަރާތުގައި ސަމީރާއި ފަރީދުގެ ފޮޓޯ ހަރުކޮށްލިއެވެ.",
+     "narration_english": "Iyaan got up, went to the board on the wall and stopped. On either side of Asim's photo he pinned the photos of Sameer and Fareed.",
+     "crop": "full",
+     "motion": "pan right",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_068",
+     "startMs": 590042,
+     "endMs": 598603,
+     "narration_dhivehi": "އަދި އެ ތިން މީހުންގެ މެދުން ރަތް ރޮދިފަށެއް ދަމާލައި، އެންމެން ގުޅުވާލިއެވެ. ބަދަލުހިފުމުގެ މައިދާން މިހާރު މާ ފުޅާވެއްޖެއެވެ.",
+     "narration_english": "Then he stretched a red string between the three of them, linking them all together. The battlefield of revenge had now grown far wider.",
+     "crop": "tight",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      11.0,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_069",
+     "startMs": 598603,
+     "endMs": 608253,
+     "narration_dhivehi": "ހަމައެކަނި ޢާޞިމާ ދިމާކޮށްގެން ބައްޕަގެ ލެއަށް އިންސާފެއް ނުލިބޭނެއެވެ. އެ ތިން މީހުން އެކަކު އަނެކަކުގެ ކުރިމަތީގައި ފުނޑުފުނޑުވެ، ބާރުތައް ގެއްލި،",
+     "narration_english": "Targeting Asim alone would never bring justice for his father's blood. Those three would have to break apart in front of one another, lose their power,",
+     "crop": "full",
+     "motion": "pan up",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_070",
+     "startMs": 608253,
+     "endMs": 616603,
+     "narration_dhivehi": "ބިކަވާން ޖެހޭނެއެވެ. އިޔާންގެ ސިކުނޑީގައި އާ ރޭވުމެއް ބައްޓަންވާން ފެށިއެވެ. އެމީހުންގެ މެދުގައި އޮތް އިތުބާރު ނައްތާލުމެވެ.",
+     "narration_english": "and be made to beg. A new plan began to take shape in Iyaan's mind: to destroy the trust between them.",
+     "crop": "medium",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": true,
+     "crop_rect_pct": [
+      5.0,
+      0.0,
+      71.5,
+      84.7
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Iyaan; reference image 2 is Asim; reference image 3 is Sameer; reference image 4 is Fareed), create a new scene: Cinematic semi-realistic digital illustration with a dark modern political-thriller noir look, deep charcoal and teal shadows with blood-red accents and warm amber practical lights, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, wet pavement, desk top, soft shadow) for captions and a logo; night scenes in Malé glisten with rain, wet reflective streets and red-and-teal neon reflections, while the 2011 flashback scenes have a slightly desaturated, cold blue-grey haze.\nScene: Iyaan is the ONLY person in the room: he stands at the wall-sized investigation board stretching a red string between three small printed photo portraits pinned in a row in the centre — a small portrait of Asim in the middle, a small portrait of Sameer with round glasses on the left and a small portrait of Fareed with a thin moustache on the right, each only a palm-sized photo; Asim, Sameer and Fareed appear ONLY as these small pinned photos, not as people in the room; Iyaan's face in three-quarter profile, cold and determined. Location: Iyaan's small locked bedroom in a modest Hulhumalé apartment: a single bed with a plain dark cover against one wall, a desk with three computer monitors and a keyboard, a wall-sized investigation board covered in small faceless blurred photos linked by red string. Camera: medium shot from the side, the board and his face in the upper two-thirds.\nCharacters: Iyaan: a tall athletic Maldivian young man of 23 with warm brown skin, a lean handsome clean-shaven face with high cheekbones, intense deep-set dark eyes under straight heavy eyebrows, a firm jaw and thick short black hair swept up and back; wears a plain black crew-neck t-shirt, dark charcoal cargo trousers and a black wristwatch. Asim: a tall heavy-set Maldivian man of about 60 with warm brown skin, a heavy square face, cold narrow dark eyes, a thick grey moustache, deep lines around the mouth and grey-streaked black hair slicked back; wears a crisp long-sleeved white shirt with buttoned cuffs, black trousers and a heavy gold wristwatch. Sameer: a short plump Maldivian man of about 62 with warm brown skin, a round fleshy clean-shaven face, shrewd small eyes behind round wire-rimmed glasses and a balding head with a short grey fringe; wears a dark-grey three-piece suit, a long-sleeved white shirt and a maroon tie. Fareed: a tall thin Maldivian man of about 55 with warm brown skin, a long lean face with hollow cheeks, sharp nervous dark eyes, a thin black moustache and glossy black hair combed straight back; wears a navy pinstripe suit, a long-sleeved light-blue shirt and a silver tie.\nMood/lighting: the small hours of the night, only the cold blue glow of monitors and a tablet in a dark room, red string glinting on the board, shaken and intense.\nModest Maldivian clothing (every woman in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck; men fully clothed in shirts or t-shirts and long trousers, never shirtless), a clear respectful distance between men and women, no man touching a woman, culturally respectful, no violence shown, no blood, no wounds, no injuries, no knives, no weapons, no guns, no person lying on the ground, no cigarettes, no smoking, no alcohol, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.035,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 40.7,
+    "y_pct": 26.3,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_027",
+   "startMs": 616603,
+   "endMs": 635784,
+   "new_image_reason": "return to the screen as he separates Fareed's bank files for the plan",
+   "characters": [],
+   "location": "Iyaan's small locked bedroom in a modest Hulhumalé apartment: a single bed with a plain dark cover against one wall, a desk with three computer monitors and a keyboard, a wall-sized investigation board covered in small faceless blurred photos linked by red string",
+   "location_key": "room_night",
+   "mood": "the small hours of the night, only the cold blue glow of monitors and a tablet in a dark room, red string glinting on the board, shaken and intense",
+   "visual": "reuse",
+   "camera": "reuse",
+   "image": "images/beat_024.png",
+   "reuse_of": "beat_024",
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "hacker_room",
+   "shots": [
+    {
+     "id": "shot_071",
+     "startMs": 616603,
+     "endMs": 625544,
+     "narration_dhivehi": "އެކަކު އަނެކަކަށް ޝައްކު އުފެއްދުމެވެ. އިޔާން ޢާޞިމްގެ ސޭފްގެ ތެރެއިން ލިބުނު ފަރީދުގެ ސިއްރު ބޭންކު މުއާމަލާތްތަކުގެ ފައިލްތައް ވަކިކޮށްލިއެވެ.",
+     "narration_english": "To make each of them suspect the other. Iyaan separated out the files of Fareed's secret bank transactions he had got from Asim's safe.",
+     "crop": "tight",
+     "motion": "pan down",
+     "sfx": [
+      {
+       "name": "keyboard_typing",
+       "atMs": 624664,
+       "gainDb": -22,
+       "word": "ވަކިކޮށްލިއެވެ."
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      40.6,
+      1.1,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_072",
+     "startMs": 625544,
+     "endMs": 635784,
+     "narration_dhivehi": "އޭނާ ރޭވީ އެ ފައިލްތައް ބޭނުންކޮށްގެން، ޢާޞިމަށް ނޭނގި، ފަރީދަށް ބިރުދައްކާށެވެ. އެއިރުން ފަރީދު ހީކުރާނީ ޢާޞިމް އޭނާއަށް ބްލެކްމެއިލް ކުރަނީ ކަމަށެވެ.",
+     "narration_english": "His plan was to use those files to threaten Fareed without Asim knowing. Then Fareed would believe it was Asim who was blackmailing him.",
+     "crop": "full",
+     "motion": "static drift",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [],
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.109,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 80.0,
+    "y_pct": 36.3,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_028",
+   "startMs": 635784,
+   "endMs": 655825,
+   "new_image_reason": "time jump: 8 am, Raaya calls",
+   "characters": [
+    "iyaan"
+   ],
+   "location": "Iyaan's small bedroom in a modest Hulhumalé apartment: a desk with three computer monitors and a keyboard, the wall-sized investigation board covered in small faceless blurred photos linked by red string, a window with half-open blinds",
+   "location_key": "room_morning",
+   "mood": "8 am, pale morning daylight through half-open blinds mixing with the cold blue monitor glow, tense calm",
+   "visual": "Iyaan seated at his desk in pale morning light, holding his phone to his ear, his face carefully composed into calm concern while his eyes stay cold and watchful; the monitors glow behind him",
+   "camera": "medium close-up, eye level",
+   "image": "images/beat_028.png",
+   "reuse_of": null,
+   "transition_in": "black",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "hacker_room",
+   "shots": [
+    {
+     "id": "shot_073",
+     "startMs": 635784,
+     "endMs": 645794,
+     "narration_dhivehi": "މި ވިސްނުމުގައި އިޔާން އިންދާ، އޭނާގެ ފޯނު ވައިބްރޭޓްވާން ފެށިއެވެ. ސްކްރީނަށް ބަލާލިއިރު ގުޅަނީ ރާޔާއެވެ. ގަޑިން ހެނދުނު އަށެއް ޖަހަނީއެވެ. އިޔާން ފުން ނޭވާއެއްލުމަށްފަހު،",
+     "narration_english": "While Iyaan sat lost in these thoughts, his phone began to vibrate. When he looked at the screen, it was Raaya calling. It was eight in the morning. After a deep breath,",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [
+      {
+       "name": "phone_buzz",
+       "atMs": 638444,
+       "gainDb": -16,
+       "word": "ވައިބްރޭޓްވާން"
+      },
+      {
+       "name": "breath",
+       "atMs": 644524,
+       "gainDb": -22,
+       "word": "ނޭވާއެއްލުމަށްފަހު،"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_074",
+     "startMs": 645794,
+     "endMs": 655825,
+     "narration_dhivehi": "އޭނާގެ އަޑު އާދައިގެ ގޮތަކަށް ބަދަލުކޮށްލަމުން ފޯނު ނެގިއެވެ. \"ހަލޯ ރާޔާ،\" އިޔާން ބުންޏެވެ. \"އިޔާން...\" ރާޔާގެ އަޑު އިވުނީ ވަރަށް ހާސްވެފައި ހުރި ގޮތަކަށެވެ.",
+     "narration_english": "Iyaan made his voice sound normal and answered. \"Hello, Raaya,\" Iyaan said. \"Iyaan...\" Raaya's voice sounded very distressed.",
+     "crop": "tight",
+     "motion": "pan left",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      26.5,
+      0.0,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Iyaan), create a new scene: Cinematic semi-realistic digital illustration with a dark modern political-thriller noir look, deep charcoal and teal shadows with blood-red accents and warm amber practical lights, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, wet pavement, desk top, soft shadow) for captions and a logo; night scenes in Malé glisten with rain, wet reflective streets and red-and-teal neon reflections, while the 2011 flashback scenes have a slightly desaturated, cold blue-grey haze.\nScene: Iyaan seated at his desk in pale morning light, holding his phone to his ear, his face carefully composed into calm concern while his eyes stay cold and watchful; the monitors glow behind him. Location: Iyaan's small bedroom in a modest Hulhumalé apartment: a desk with three computer monitors and a keyboard, the wall-sized investigation board covered in small faceless blurred photos linked by red string, a window with half-open blinds. Camera: medium close-up, eye level.\nCharacters: Iyaan: a tall athletic Maldivian young man of 23 with warm brown skin, a lean handsome clean-shaven face with high cheekbones, intense deep-set dark eyes under straight heavy eyebrows, a firm jaw and thick short black hair swept up and back; wears a plain black crew-neck t-shirt, dark charcoal cargo trousers and a black wristwatch.\nMood/lighting: 8 am, pale morning daylight through half-open blinds mixing with the cold blue monitor glow, tense calm.\nModest Maldivian clothing (every woman in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck; men fully clothed in shirts or t-shirts and long trousers, never shirtless), a clear respectful distance between men and women, no man touching a woman, culturally respectful, no violence shown, no blood, no wounds, no injuries, no knives, no weapons, no guns, no person lying on the ground, no cigarettes, no smoking, no alcohol, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.069,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 56.2,
+    "y_pct": 31.5,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_029",
+   "startMs": 655825,
+   "endMs": 671245,
+   "new_image_reason": "character and scene change: Raaya, frightened, on the phone at the mansion with police around",
+   "characters": [
+    "raaya"
+   ],
+   "location": "the luxurious marble sitting room of Asim's mansion in the morning, tall windows with daylight, expensive cream sofas",
+   "location_key": "mansion_day",
+   "mood": "8 am, cold daylight through tall windows, distressed and frightened atmosphere",
+   "visual": "Raaya standing by a tall window in the marble sitting room holding her phone to her ear with both hands, eyes red and frightened, a hand near her mouth; in the soft-focus background two police officers in dark-blue uniforms with no visible weapons examine the staircase",
+   "camera": "medium close-up, eye level",
+   "image": "images/beat_029.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "mansion_day",
+   "shots": [
+    {
+     "id": "shot_075",
+     "startMs": 655825,
+     "endMs": 662825,
+     "narration_dhivehi": "އޭނާ ރޮނީކަން އަޑުން އެނގެއެވެ. \"އިޔާން... ރޭގައި އަހަރެމެންގޭގެ ސެކިއުރިޓީ ސިސްޓަމް ހެކްކޮށްގެން މީހަކު ވަދެއްޖެ.",
+     "narration_english": "You could hear that she was crying. \"Iyaan... last night someone hacked our house's security system and got in.",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [
+      {
+       "name": "sob_breath",
+       "atMs": 656145,
+       "gainDb": -22,
+       "word": "ރޮނީކަން"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_076",
+     "startMs": 662825,
+     "endMs": 671245,
+     "narration_dhivehi": "ބައްޕަގެ އޮފީސް ކޮޓަރީގެ ސޭފް ހުޅުވަން އުޅެނިކޮށް ބައްޕައަށް ފެނުނީ. އެމީހާ ފިލައިފި. މުޅި ގޭގައި ފުލުހުން. ބަލައި ހޯދަނީ.\"",
+     "narration_english": "Bappa caught them while they were trying to open the safe in his office. They ran away. There are police all over the house. They're searching.\"",
+     "crop": "tight",
+     "motion": "pan right",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      10.0,
+      0.0,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Raaya), create a new scene: Cinematic semi-realistic digital illustration with a dark modern political-thriller noir look, deep charcoal and teal shadows with blood-red accents and warm amber practical lights, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, wet pavement, desk top, soft shadow) for captions and a logo; night scenes in Malé glisten with rain, wet reflective streets and red-and-teal neon reflections, while the 2011 flashback scenes have a slightly desaturated, cold blue-grey haze.\nScene: Raaya standing by a tall window in the marble sitting room holding her phone to her ear with both hands, eyes red and frightened, a hand near her mouth; in the soft-focus background two police officers in dark-blue uniforms with no visible weapons examine the staircase. Location: the luxurious marble sitting room of Asim's mansion in the morning, tall windows with daylight, expensive cream sofas. Camera: medium close-up, eye level.\nCharacters: Raaya: a slim graceful Maldivian young woman of about 23 with warm brown skin, a soft heart-shaped face, large bright innocent dark eyes and a gentle smile; wears a loose long-sleeved ankle-length plain white dress and a soft light-grey hijab wrapped snugly and fully covering her hair and neck.\nMood/lighting: 8 am, cold daylight through tall windows, distressed and frightened atmosphere.\nModest Maldivian clothing (every woman in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck; men fully clothed in shirts or t-shirts and long trousers, never shirtless), a clear respectful distance between men and women, no man touching a woman, culturally respectful, no violence shown, no blood, no wounds, no injuries, no knives, no weapons, no guns, no person lying on the ground, no cigarettes, no smoking, no alcohol, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.458,
+    "halo": true
+   },
+   "focus": {
+    "x_pct": 39.7,
+    "y_pct": 23.8,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_030",
+   "startMs": 671245,
+   "endMs": 681426,
+   "new_image_reason": "back to Iyaan acting shocked on the phone",
+   "characters": [],
+   "location": "Iyaan's small bedroom in a modest Hulhumalé apartment: a desk with three computer monitors and a keyboard, the wall-sized investigation board covered in small faceless blurred photos linked by red string, a window with half-open blinds",
+   "location_key": "room_morning",
+   "mood": "8 am, pale morning daylight through half-open blinds mixing with the cold blue monitor glow, tense calm",
+   "visual": "reuse",
+   "camera": "reuse",
+   "image": "images/beat_028.png",
+   "reuse_of": "beat_028",
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "hacker_room",
+   "shots": [
+    {
+     "id": "shot_077",
+     "startMs": 671245,
+     "endMs": 681426,
+     "narration_dhivehi": "އިޔާންގެ ހިތް ހުއްޓުނު ކަހަލައެވެ. ނަމަވެސް އޭނާ ވަގުތުން ސިހުމުގެ އަސަރު ދައްކާލިއެވެ. \"ކީކޭ؟ ރާޔާ ހަމަޖެހޭ. ރާޔާއަށް އެއްވެސް ގެއްލުމެއް ވީތަ؟",
+     "narration_english": "Iyaan's heart almost stopped. But he instantly put on a show of shock. \"What? Raaya, calm down. Did anything happen to you?",
+     "crop": "medium",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      20.5,
+      0.0,
+      71.5,
+      84.7
+     ]
+    }
+   ],
+   "prompt_attempts": [],
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.089,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 56.2,
+    "y_pct": 31.5,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_031",
+   "startMs": 681426,
+   "endMs": 696536,
+   "new_image_reason": "back to Raaya: her father is terrified",
+   "characters": [],
+   "location": "the luxurious marble sitting room of Asim's mansion in the morning, tall windows with daylight, expensive cream sofas",
+   "location_key": "mansion_day",
+   "mood": "8 am, cold daylight through tall windows, distressed and frightened atmosphere",
+   "visual": "reuse",
+   "camera": "reuse",
+   "image": "images/beat_029.png",
+   "reuse_of": "beat_029",
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "mansion_day",
+   "shots": [
+    {
+     "id": "shot_078",
+     "startMs": 681426,
+     "endMs": 689456,
+     "narration_dhivehi": "ބައްޕަ އޯކޭތަ؟\" \"އަހަރެމެން އޯކޭ. އެކަމަކު ބައްޕަ ހުރީ ވަރަށް ބިރުގަނެފައި. ބައްޕަ ބުނީ އެއީ އާދައިގެ ވަގެއް ނޫނޭ.",
+     "narration_english": "Is Bappa okay?\" \"We're okay. But Bappa is really scared. Bappa says it's no ordinary thief.",
+     "crop": "tight",
+     "motion": "pan up",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      10.0,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_079",
+     "startMs": 689456,
+     "endMs": 696536,
+     "narration_dhivehi": "އެއީ ބައްޕަގެ ސިޔާސީ ދުޝްމަނެއްގެ ކަމެކޭ. އިޔާން... އަހަރެން ވަރަށް ބިރުގަނޭ،\" ރާޔާ ގިސްލަމުން ބުންޏެވެ.",
+     "narration_english": "He says it's the work of one of his political enemies. Iyaan... I'm so scared,\" Raaya said, sobbing.",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [
+      {
+       "name": "sob_breath",
+       "atMs": 695346,
+       "gainDb": -22,
+       "word": "ގިސްލަމުން"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [],
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.45,
+    "halo": true
+   },
+   "focus": {
+    "x_pct": 39.7,
+    "y_pct": 23.8,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_032",
+   "startMs": 696536,
+   "endMs": 714327,
+   "new_image_reason": "back to Iyaan: a twinge of pity, then his offer to come",
+   "characters": [],
+   "location": "Iyaan's small bedroom in a modest Hulhumalé apartment: a desk with three computer monitors and a keyboard, the wall-sized investigation board covered in small faceless blurred photos linked by red string, a window with half-open blinds",
+   "location_key": "room_morning",
+   "mood": "8 am, pale morning daylight through half-open blinds mixing with the cold blue monitor glow, tense calm",
+   "visual": "reuse",
+   "camera": "reuse",
+   "image": "images/beat_028.png",
+   "reuse_of": "beat_028",
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "hacker_room",
+   "shots": [
+    {
+     "id": "shot_080",
+     "startMs": 696536,
+     "endMs": 706187,
+     "narration_dhivehi": "އިޔާންގެ ހިތަށް ކުޑަ ރަހުމެއްގެ އަސަރު ވަނެވެ. ރާޔާއަކީ މި ހުރިހާ ކަމެއްގައި އެއްވެސް ކުށެއް ނެތް މައުސޫމް ކުއްޖެކެވެ. ނަމަވެސް އޭނާއަކީ ގާތިލެއްގެ ދަރިއެކެވެ.",
+     "narration_english": "A small trace of pity entered Iyaan's heart. Raaya was an innocent girl with no fault in any of this. But she was a killer's daughter.",
+     "crop": "tight",
+     "motion": "pan down",
+     "sfx": [],
+     "hum": true,
+     "crop_rect_pct": [
+      26.5,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_081",
+     "startMs": 706187,
+     "endMs": 714327,
+     "narration_dhivehi": "އޭނާގެ ބައްޕަގެ އަނިޔާވެރިކަމުގެ ސުންޕާކަން ފާވާނެއެވެ. \"ރާޔާ، ހާސްނުވޭ. އަހަރެން މިހާރު މިދަނީ ތިގޭ ކައިރިއަށް.",
+     "narration_english": "The price of her father's cruelty would have to be paid. \"Raaya, don't worry. I'm coming over to your house right now",
+     "crop": "full",
+     "motion": "static drift",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [],
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.068,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 56.2,
+    "y_pct": 31.5,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_033",
+   "startMs": 714327,
+   "endMs": 723637,
+   "new_image_reason": "back to Raaya: 'don't come here now'",
+   "characters": [],
+   "location": "the luxurious marble sitting room of Asim's mansion in the morning, tall windows with daylight, expensive cream sofas",
+   "location_key": "mansion_day",
+   "mood": "8 am, cold daylight through tall windows, distressed and frightened atmosphere",
+   "visual": "reuse",
+   "camera": "reuse",
+   "image": "images/beat_029.png",
+   "reuse_of": "beat_029",
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "mansion_day",
+   "shots": [
+    {
+     "id": "shot_082",
+     "startMs": 714327,
+     "endMs": 723637,
+     "narration_dhivehi": "ރާޔާއާ ބައްދަލުކުރަން،\" އިޔާން ބުންޏެވެ. \"ނޫން! މިވަގުތު މިގެއަށް ނާދޭ. ބައްޕަ ހުރީ ހުރިހާ އެކުވެރިންނާ މެދުވެސް ޝައްކުކުރާ ހާލަތެއްގައި.",
+     "narration_english": "to see you,\" Iyaan said. \"No! Don't come to this house now. Bappa is suspicious of all our friends.",
+     "crop": "medium",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      4.0,
+      0.0,
+      71.5,
+      84.7
+     ]
+    }
+   ],
+   "prompt_attempts": [],
+   "logo": {
+    "color": "black",
+    "bg_luminance": 0.601,
+    "halo": true
+   },
+   "focus": {
+    "x_pct": 39.7,
+    "y_pct": 23.8,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_034",
+   "startMs": 723637,
+   "endMs": 732278,
+   "new_image_reason": "back to Iyaan as she hangs up",
+   "characters": [],
+   "location": "Iyaan's small bedroom in a modest Hulhumalé apartment: a desk with three computer monitors and a keyboard, the wall-sized investigation board covered in small faceless blurred photos linked by red string, a window with half-open blinds",
+   "location_key": "room_morning",
+   "mood": "8 am, pale morning daylight through half-open blinds mixing with the cold blue monitor glow, tense calm",
+   "visual": "reuse",
+   "camera": "reuse",
+   "image": "images/beat_028.png",
+   "reuse_of": "beat_028",
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "hacker_room",
+   "shots": [
+    {
+     "id": "shot_083",
+     "startMs": 723637,
+     "endMs": 732278,
+     "narration_dhivehi": "ފުލުހުން ގޭގެ އެންމެންގެ ފޯނުތައްވެސް ޗެކް ކުރަނީ. އަހަރެން ފަހުން ގުޅާނަން،\" ރާޔާ ފޯނު ކަނޑާލިއެވެ. އިޔާން ފޯނަށް ބަލަހައްޓައިގެން އިނެވެ.",
+     "narration_english": "The police are even checking the phones of everyone in the house. I'll call you later.\" Raaya hung up. Iyaan sat staring at the phone.",
+     "crop": "medium",
+     "motion": "pan left",
+     "sfx": [
+      {
+       "name": "computer_beep",
+       "atMs": 729188,
+       "gainDb": -22,
+       "word": "ކަނޑާލިއެވެ."
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      20.5,
+      0.0,
+      71.5,
+      84.7
+     ]
+    }
+   ],
+   "prompt_attempts": [],
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.085,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 56.2,
+    "y_pct": 31.5,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_035",
+   "startMs": 732278,
+   "endMs": 748118,
+   "new_image_reason": "action change: the CCTV logs show only an empty staircase",
+   "characters": [
+    "iyaan"
+   ],
+   "location": "Iyaan's small bedroom in a modest Hulhumalé apartment: a desk with three computer monitors and a keyboard, the wall-sized investigation board covered in small faceless blurred photos linked by red string, a window with half-open blinds",
+   "location_key": "room_morning",
+   "mood": "8 am, pale morning daylight through half-open blinds mixing with the cold blue monitor glow, tense calm",
+   "visual": "the big monitor on Iyaan's desk showing a grid of grey surveillance camera views of an empty marble staircase and empty corridors, no people in any of them, no text; Iyaan's dark silhouette in the foreground at the edge of the frame watching with a faint satisfied look",
+   "camera": "over-the-shoulder shot, the screen in the upper two-thirds",
+   "image": "images/beat_035.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "hacker_room",
+   "shots": [
+    {
+     "id": "shot_084",
+     "startMs": 732278,
+     "endMs": 740728,
+     "narration_dhivehi": "ޢާޞިމް މުޅި ފުލުހުންގެ މުއައްސަސާ ބޭނުންކޮށްގެން އޭނާ ހޯދަން ނުކުމެއްޖެއެވެ. އިޔާން ޢާޞިމްގެ ގޭގެ ސީސީޓީވީތަކުގެ ލޮގްތައް ބަލާލިއެވެ.",
+     "narration_english": "Asim had set out to find him using the entire police force. Iyaan checked the CCTV logs of Asim's house.",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_085",
+     "startMs": 740728,
+     "endMs": 748118,
+     "narration_dhivehi": "އޭނާގެ ވައިރަސް ވަނީ އޭނާގެ ހުރިހާ މަންޒަރެއް ފޮހެލާފައެވެ. ފުލުހުންނަށް ކެމެރާތަކުން ފެންނާނީ ހަމައެކަނި ހުސް ސިޑިއެކެވެ.",
+     "narration_english": "His virus had wiped every frame of him. On the cameras the police would see nothing but an empty staircase.",
+     "crop": "tight",
+     "motion": "pan right",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      20.3,
+      4.8,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Iyaan), create a new scene: Cinematic semi-realistic digital illustration with a dark modern political-thriller noir look, deep charcoal and teal shadows with blood-red accents and warm amber practical lights, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, wet pavement, desk top, soft shadow) for captions and a logo; night scenes in Malé glisten with rain, wet reflective streets and red-and-teal neon reflections, while the 2011 flashback scenes have a slightly desaturated, cold blue-grey haze.\nScene: the big monitor on Iyaan's desk showing a grid of grey surveillance camera views of an empty marble staircase and empty corridors, no people in any of them, no text; Iyaan's dark silhouette in the foreground at the edge of the frame watching with a faint satisfied look. Location: Iyaan's small bedroom in a modest Hulhumalé apartment: a desk with three computer monitors and a keyboard, the wall-sized investigation board covered in small faceless blurred photos linked by red string, a window with half-open blinds. Camera: over-the-shoulder shot, the screen in the upper two-thirds.\nCharacters: Iyaan: a tall athletic Maldivian young man of 23 with warm brown skin, a lean handsome clean-shaven face with high cheekbones, intense deep-set dark eyes under straight heavy eyebrows, a firm jaw and thick short black hair swept up and back; wears a plain black crew-neck t-shirt, dark charcoal cargo trousers and a black wristwatch.\nMood/lighting: 8 am, pale morning daylight through half-open blinds mixing with the cold blue monitor glow, tense calm.\nModest Maldivian clothing (every woman in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck; men fully clothed in shirts or t-shirts and long trousers, never shirtless), a clear respectful distance between men and women, no man touching a woman, culturally respectful, no violence shown, no blood, no wounds, no injuries, no knives, no weapons, no guns, no person lying on the ground, no cigarettes, no smoking, no alcohol, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.055,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 50.0,
+    "y_pct": 40.0,
+    "face_detected": false
+   }
+  },
+  {
+   "id": "beat_036",
+   "startMs": 748118,
+   "endMs": 780210,
+   "new_image_reason": "action change: he opens the dark hacker network and sends the first warning to Fareed",
+   "characters": [
+    "iyaan"
+   ],
+   "location": "Iyaan's small bedroom in a modest Hulhumalé apartment: a desk with three computer monitors and a keyboard, the wall-sized investigation board covered in small faceless blurred photos linked by red string, a window with half-open blinds",
+   "location_key": "room_morning",
+   "mood": "8 am, pale morning daylight through half-open blinds mixing with the cold blue monitor glow, tense calm",
+   "visual": "Iyaan leaning towards his monitors, typing, his face lit green by a black screen filled with cascading green code lines and a small white faceless mask silhouette icon, no letters readable; a dangerous slight smile; the investigation board with the red string behind him",
+   "camera": "medium close-up, eye level, from beside the monitors",
+   "image": "images/beat_036.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "hacker_room",
+   "shots": [
+    {
+     "id": "shot_086",
+     "startMs": 748118,
+     "endMs": 756979,
+     "narration_dhivehi": "ނަމަވެސް ޢާޞިމްގެ ހިތުގައި އުފެދުނު ބިރުވެރިކަމަކީ އިޔާންގެ ފުރަތަމަ ނަފްސާނީ ކާމިޔާބީއެވެ. އިޔާން ކޮމްޕިއުޓަރުގެ ކުރިމަތީގައި އިށީނދެ،",
+     "narration_english": "But the fear that had taken root in Asim's heart was Iyaan's first psychological victory. Iyaan sat down in front of the computer",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_087",
+     "startMs": 756979,
+     "endMs": 768779,
+     "narration_dhivehi": "ކަޅު މާސްކެއް އަޅައިގެން ތިބޭ ހެކަރުން ބޭނުންކުރާފަދަ ސިއްރު ވިއުގައެއް ހުޅުވާލިއެވެ. އޭނާ ރޭވީ ބޭންކް އެމްޑީ ފަރީދުގެ ސިއްރު މައުލޫމާތުތައް ހިމެނޭ ފުރަތަމަ އިންޒާރުގެ ސިޓީ ފޮނުވާށެވެ.",
+     "narration_english": "and opened a secret network of the kind used by hackers in black masks. His plan was to send the first warning letter, containing bank MD Fareed's secret information.",
+     "crop": "tight",
+     "motion": "pan up",
+     "sfx": [
+      {
+       "name": "keyboard_typing",
+       "atMs": 761229,
+       "gainDb": -20,
+       "word": "ހުޅުވާލިއެވެ."
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      20.3,
+      4.8,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_088",
+     "startMs": 768779,
+     "endMs": 780210,
+     "narration_dhivehi": "އެ ސިޓީ ދާނީ ސީދާ ފަރީދުގެ އަމިއްލަ އީމެއިލަށެވެ. އަދި އެ ފޮނުވި މީހާގެ އައިޕީ އެޑްރެސްއަކަށް ދައްކާނީ ޢާޞިމްގެ އޮފީސް ކޮޓަރީގެ އެޑްރެހެވެ. ތޫފާން މިވަނީ ފެށިފައެވެ. ނުނިމޭ.",
+     "narration_english": "The letter would go straight to Fareed's private email, and the sender's IP address would point to Asim's office. The storm has begun. To be continued.",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [
+      {
+       "name": "computer_beep",
+       "atMs": 770769,
+       "gainDb": -20,
+       "word": "އީމެއިލަށެވެ."
+      },
+      {
+       "name": "thunder",
+       "atMs": 777709,
+       "gainDb": -18,
+       "word": "ތޫފާން"
+      }
+     ],
+     "hum": true,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Iyaan), create a new scene: Cinematic semi-realistic digital illustration with a dark modern political-thriller noir look, deep charcoal and teal shadows with blood-red accents and warm amber practical lights, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, wet pavement, desk top, soft shadow) for captions and a logo; night scenes in Malé glisten with rain, wet reflective streets and red-and-teal neon reflections, while the 2011 flashback scenes have a slightly desaturated, cold blue-grey haze.\nScene: Iyaan leaning towards his monitors, typing, his face lit green by a black screen filled with cascading green code lines and a small white faceless mask silhouette icon, no letters readable; a dangerous slight smile; the investigation board with the red string behind him. Location: Iyaan's small bedroom in a modest Hulhumalé apartment: a desk with three computer monitors and a keyboard, the wall-sized investigation board covered in small faceless blurred photos linked by red string, a window with half-open blinds. Camera: medium close-up, eye level, from beside the monitors.\nCharacters: Iyaan: a tall athletic Maldivian young man of 23 with warm brown skin, a lean handsome clean-shaven face with high cheekbones, intense deep-set dark eyes under straight heavy eyebrows, a firm jaw and thick short black hair swept up and back; wears a plain black crew-neck t-shirt, dark charcoal cargo trousers and a black wristwatch.\nMood/lighting: 8 am, pale morning daylight through half-open blinds mixing with the cold blue monitor glow, tense calm.\nModest Maldivian clothing (every woman in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck; men fully clothed in shirts or t-shirts and long trousers, never shirtless), a clear respectful distance between men and women, no man touching a woman, culturally respectful, no violence shown, no blood, no wounds, no injuries, no knives, no weapons, no guns, no person lying on the ground, no cigarettes, no smoking, no alcohol, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.114,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 50.0,
+    "y_pct": 40.0,
+    "face_detected": false
+   }
+  }
+ ]
+}

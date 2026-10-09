@@ -1,0 +1,81 @@
+# Suratul Faatihaa - Episode 427 - story notes
+
+## Synopsis
+Two halves. (A, 0-287 s) A closing recap of the whole surah: "only seven verses - yet seven waves that rebuild a life".
+Verse by verse the inner change: al-hamdu lillah breaks arrogance (you are not the centre; success, beauty, power are not
+yours); ar-Rahman ar-Rahim removes despair (hardship is training, purification or raising of rank, not punishment);
+maliki yawmid-din brings accountability (nothing is lost, intentions are recorded); iyyaka na'budu removes shirk (servant of
+Allah or of something else, no middle ground); ihdina tears the veil of self-reliance (your foot can slip at any moment);
+the true blessing is guidance, not money, rank or fame; the warning against those who knew and grew proud and those who
+strayed in ignorance. What changes if you truly understand it: complaint -> praise, fear -> trust, carelessness ->
+responsibility, arrogance -> humility, straying -> steadfastness. Salah: the hadith "no prayer without al-Fatiha"; al-Fatiha
+is the soul of the prayer (a prayer without it is a body without a soul); the hadith qudsi of the divided prayer - a
+conversation, every rak'ah, forty times a day. Honest self-audit; prayer "resets" the self five times a day, al-Fatiha
+straightens your compass. A small key opens great doors: seven short verses are the essence of the Quran (Umm al-Qur'an).
+"The door is open now."
+(B, 287-745 s) New chapter - the Names of Allah and the secret of divine mercy (Bismillah). The void before creation; the
+first movement of creation ("Big Bang" is only an outer name - behind it are will, love and mercy); creation, the Day of
+Resurrection and Paradise's gates all begin with Bismillah. Three words: Ism (behind every stone, stream, wind - His will
+and names); "Allah" (untranslatable; "God" is not "Allah"; hidden by the intensity of His manifestation as the sun cannot
+be looked at; the gnostics' prayer; saying "Allah" puts everything in its place - sun, stars, man, your own self);
+ar-Rahman (mercy for all - the sun, the rain, the air in every lung; unearned) vs ar-Rahim (a near mercy for open hearts,
+perfected in Paradise). Before the Infinite you are small and sinful - yet He introduced Himself with mercy and mercy:
+"come to Me with love, even if you feel small". A young believer of the first generation cries "Bismillah" before two
+armies and his fear vanishes; Bismillah cancels "what can I do alone?". Ends: al-Fatiha opens with Bismillah, the door to
+the eternal world - and beyond it "the constitution of the entire universe" (continues next episode).
+
+## Characters (series cards only; no new cards)
+| card | role in this episode | beats |
+|---|---|---|
+| listener | "you": at the shore of seven waves, the humbled achiever (light-blue office shirt), at the crossroads, reflecting at home (grey t-shirt), at prayer in the mosque (white prayer cap), self-audit after prayer, holding the key / at the open mosque doors, under the Milky Way, shielding his eyes from the sun, in dua in the beam of light, tiny in a dhoni at night, walking towards the light, at the jetty saying Bismillah, at the doorway of light | 001,002,005,008,010,011,013,014,018,021,024(reuse),027,029,030,033,034 |
+| powerful_man | money / rank / fame; "those who knew and grew proud" | 007 |
+Others described only in `visual`: a man's foot slipping (006, no face); anonymous gnostic of old from behind (022);
+distant anonymous villagers in the rain (026).
+Never shown: Allah (light, sun, cosmos only), the Prophet (empty early Madinah mosque), the young companion and the man
+beside him, the two armies (distant dust and plain banners), the believers entering Paradise (gates of light only).
+
+## Locations
+Maldivian beach at dawn / night / midday; Male' office; windy island edge; the plain (hereafter); island crossroads at
+dusk; reef path; city penthouse office; island home at night (bible home_room); early Madinah mosque (bible old_madinah);
+mosque hall (bible mosque_hall) day and night; mosque doors at dawn; the void; the cosmos (bible cosmos); gates of light;
+reef shore in wind; open sky over the ocean; scholar's study (bible study); aerial island at sunrise; island lane in rain
+and at dawn (bible island_lane); ocean at night with a dhoni; Arabian desert plain; jetty; doorway of light onto the cosmos.
+
+## Tone
+Part A: warm, direct, self-examining - gold dawn, lamp-lit night, mosque light. Part B: awe and mercy - darkness to light,
+cosmos, sun, sunrise and rain over the island; historical story hazy and desaturated; ending majestic and hopeful.
+
+## Image budget
+745 s of audio / 32 new images = 23.3 s per new image (budget 745/25 = 30 +/-20% -> 24-36: within range); 2 in-episode
+reuses (beat_024 = beat_018 listener under the stars for "man in his place, your self in its place"; beat_028 = beat_017
+gates of light for "perfected in Paradise"). Part A's first two minutes have short beats (9-20 s) because the narration
+moves through a new concrete image per verse; the second half holds longer (Allah's Name beat 020 holds 44 s of reflection).
+
+## Sensitive moments
+| time | narration | safe visual |
+|---|---|---|
+| 0:57-1:24 | Day of Reckoning, deeds and intentions recorded | beat_004: empty plain, a two-pan scale of light, no people (rule 5) |
+| 1:24-1:38 | shirk, servant of something other than Allah | beat_005: listener at a fork between a lamp-lit mosque and glittering town lights; no idols |
+| 1:48-2:09 | those who grew proud / went astray | beat_007: powerful_man card alone with gold and blank trophies; no group/religion identified |
+| 2:43-2:52 | the Prophet's hadith | beat_009: empty early Madinah mosque at dawn, no people (rule 2) |
+| 3:02-3:25 | hadith qudsi - Allah and His servant | beat_010: listener praying alone, light from the window; Allah never depicted (rule 1) |
+| 4:47-5:43 | the void, the divine will, creation | beats 015-016: black void, burst of light and nebulae only (rule 1) |
+| 5:43-6:03, 10:05-10:22 | Day of Resurrection, Paradise gates, believers welcomed | beat_017 (+ reuse 028): gates of light, distant gardens, no figures (rule 5) |
+| 6:48-7:55 | the Name "Allah", hidden by His light, like the sun | beats 020-021: converging threads of light; listener shielding his eyes from the sun; no letters, no figure (rules 1, 9) |
+| 7:55-8:21 | the gnostics' prayer | beat_022: anonymous old man from behind in a lamp-lit study, no face (rule 4) |
+| 9:59-10:13 | "disbelievers and evildoers" also receive mercy | beat_026: anonymous villagers from behind in the rain; nobody labelled |
+| 11:05-11:50 | young companion before two armies, war cry | beats 031-032: distant dust clouds with plain banners, then footprints towards the sunrise; no person, silhouette, hand, horse-with-rider, weapon or fighting (rules 2, 7) |
+
+## Regenerations / review log
+- All 32 images generated on the first attempt (0 refusals).
+- beat_016 regenerated once: the first image put a hooded seated figure with an open book in the foreground of the
+  creation-of-the-cosmos image (an unexplained figure in a divine-will beat). Visual now says "only space and light, no
+  people, no figures". The new image shows only the burst of light and the galaxies.
+- beat_010 regenerated once: the listener was turned sideways to the mihrab. The new image shows him from behind, facing the
+  qibla wall squarely (rule 10).
+- Checked: beat_012 compass face blank and the mushaf on the rehal closed (cover ornament only); beat_017 gate panels
+  carry arabesque ornament only, no letters; beat_026 woman's hijab fully covers hair and neck; beat_022 gnostic from
+  behind, no face; beats 031/032 contain no people.
+
+
+Coordinator regeneration: beat_015 (void before creation, 25 s) was nearly pure black and risked reading as a broken video; regenerated as a dark void with faint teal/violet mist and a barely visible central glow (old image kept as work/beat_015_v1.png).

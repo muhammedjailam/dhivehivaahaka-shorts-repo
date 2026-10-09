@@ -1,0 +1,2852 @@
+{
+ "series": "Sector7",
+ "episode": 385,
+ "beats": [
+  {
+   "id": "beat_001",
+   "startMs": 0,
+   "endMs": 19270,
+   "new_image_reason": "episode opening: Sector 7 at night, smoke and patrol drones with red lights",
+   "characters": [],
+   "location": "the lowest level of a vast underground bunker city at night: narrow alleys between rusted corrugated-steel shacks and huge heaps of scrap metal, thick pipes running overhead, toxic smoke haze, puddles of dirty water on cracked concrete, a dark rocky cavern ceiling far above",
+   "location_key": "s7_night",
+   "mood": "deep night underground, near darkness, cold teal shadows and toxic grey-green haze, the only light a few thin red scanning beams from small patrol drones overhead and a faint sodium-orange glow far away, tense and frightening",
+   "visual": "a high wide view over the dark alleys and scrap heaps of the lowest bunker level at night, thick toxic smoke drifting between rusted shacks, three small black patrol drones hovering overhead each casting a thin red scanning beam down through the haze onto the wet ground; no people",
+   "camera": "wide establishing shot, high angle, drones and beams in the upper two-thirds, a wet empty concrete alley as a calm lower third",
+   "image": "images/beat_001.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "bunker_machinery",
+   "shots": [
+    {
+     "id": "shot_001",
+     "startMs": 0,
+     "endMs": 9520,
+     "narration_dhivehi": "ސެކްޓަރ 7 ގެ ރޭގަނޑުގެ ވަގުތަކީ އަބަދުވެސް ނާމާން، ބިރުވެރި ވަގުތެކެވެ. މުޅި ސަރަޙައްދަށް ވެރިވެފައިވަނީ ދަގަނޑު ކުނިތަކުގެ ދަބަރު ވަހާއި،",
+     "narration_english": "Night in Sector 7 is always an unsafe, frightening time. The whole area is shrouded in the dark smoke of steel scrap and",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_002",
+     "startMs": 9520,
+     "endMs": 19270,
+     "narration_dhivehi": "ވިހަ ގޭހުގެ ނުބައި ވަހެވެ. ކިރިޔާވެސް އަލިކަމެއް ހުންނަނީ މަތިން ދަތުރުކުރަމުންދާ ފާރަވެރި ޑްރޯންތަކުގެ ރަތް ކުލައިގެ ނުރައްކާތެރި ލޭޒަރު އަލިންނެވެ.",
+     "narration_english": "the foul smoke of toxic gas. The only light comes from the dangerous red laser lights of the patrol drones flying overhead.",
+     "crop": "tight",
+     "motion": "pan left",
+     "sfx": [
+      {
+       "name": "drone_pass",
+       "atMs": 15620,
+       "gainDb": -22,
+       "word": "ޑްރޯންތަކުގެ"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      20.3,
+      4.8,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Cinematic semi-realistic digital illustration in a dark gritty dystopian sci-fi style matching a post-apocalyptic underground bunker city: rusted steel walls, pipes, steam and haze, warm amber and sodium-orange work lights against cold steel-blue and teal shadows, the luxurious upper levels in clean white, glass and soft gold light, volumetric light shafts, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and calm, uncluttered space at the bottom (floor, grating, table top, soft shadow) for a logo.\nScene: a high wide view over the dark alleys and scrap heaps of the lowest bunker level at night, thick toxic smoke drifting between rusted shacks, three small black patrol drones hovering overhead each casting a thin red scanning beam down through the haze onto the wet ground; no people. Location: the lowest level of a vast underground bunker city at night: narrow alleys between rusted corrugated-steel shacks and huge heaps of scrap metal, thick pipes running overhead, toxic smoke haze, puddles of dirty water on cracked concrete, a dark rocky cavern ceiling far above. Camera: wide establishing shot, high angle, drones and beams in the upper two-thirds, a wet empty concrete alley as a calm lower third.\nMood/lighting: deep night underground, near darkness, cold teal shadows and toxic grey-green haze, the only light a few thin red scanning beams from small patrol drones overhead and a faint sodium-orange glow far away, tense and frightening.\nModest clothing (women in loose long-sleeved ankle-length clothing with a hijab fully covering hair and neck; men in long-sleeved shirts or jackets and long trousers), culturally respectful, no guns, no knives, no weapons visible, no violence shown, no blood, no wounds, no gore, no dead bodies, no text, no letters, no numbers, no writing, no screens with readable text, no symbols, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.124,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 50.0,
+    "y_pct": 40.0,
+    "face_detected": false
+   }
+  },
+  {
+   "id": "beat_002",
+   "startMs": 19270,
+   "endMs": 49941,
+   "new_image_reason": "character enters: Aira sneaking through the night with the black box pressed to her chest",
+   "characters": [
+    "aira"
+   ],
+   "location": "the lowest level of a vast underground bunker city at night: narrow alleys between rusted corrugated-steel shacks and huge heaps of scrap metal, thick pipes running overhead, toxic smoke haze, puddles of dirty water on cracked concrete, a dark rocky cavern ceiling far above",
+   "location_key": "s7_night",
+   "mood": "deep night underground, near darkness, cold teal shadows and toxic grey-green haze, the only light a few thin red scanning beams from small patrol drones overhead and a faint sodium-orange glow far away, tense and frightening",
+   "visual": "Aira moving silently like a shadow along a narrow alley between rusted shacks and scrap heaps, slightly crouched, both arms clutching a small worn canvas bag tightly against her chest, eyes darting upward with fear and determination, stepping carefully around dark puddles; a faint red drone beam sweeping the haze behind her",
+   "camera": "medium wide, eye level, her face in the upper third, the wet concrete with puddles as a calm lower third",
+   "image": "images/beat_002.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "corridor_drip",
+   "shots": [
+    {
+     "id": "shot_003",
+     "startMs": 19270,
+     "endMs": 26391,
+     "narration_dhivehi": "ޖަންކްޝަން-9 އިން ފެނުނު ސިއްރު ކަޅު ފޮށި އޭނާގެ ކުޑަ ދަބަހަށް ލައި، މޭގައި ޖައްސާ ބާރުކޮށްލައިގެން ހުރި އައިރާ،",
+     "narration_english": "Aira, the secret black box found at Junction-9 tucked into her small bag and pressed tightly to her chest,",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [
+      {
+       "name": "cloth_rustle",
+       "atMs": 24340,
+       "gainDb": -24,
+       "word": "ޖައްސާ"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_004",
+     "startMs": 26391,
+     "endMs": 34641,
+     "narration_dhivehi": "ހިޔަންޏެއް ފަދައިން ހިމޭންކަމާއެކު ދިޔައީ ފިޔަވަޅު އަޅަމުންނެވެ. ކޮންމެ ފިޔަވަޅަކާއެކު އޭނާގެ ހިތުގެ ތެޅުން ދިޔައީ އަވަސްވަމުންނެވެ.",
+     "narration_english": "moved step by step, silently, like a shadow. With every step her heartbeat grew faster.",
+     "crop": "tight",
+     "motion": "pan right",
+     "sfx": [
+      {
+       "name": "heartbeat",
+       "atMs": 33601,
+       "gainDb": -20,
+       "word": "އަވަސްވަމުންނެވެ."
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      8.9,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_005",
+     "startMs": 34641,
+     "endMs": 41631,
+     "narration_dhivehi": "ސަބަބަކީ އެ ފޮށީގައި ވަނީ މި މުޅި ސިޓީގެ ނިޒާމު ބަދަލުކޮށްލަނިވި ސިއްރެއްކަން އޭނާގެ ޒަމީރު ބުނެދެމުން ދާތީއެވެ.",
+     "narration_english": "For her conscience kept telling her that the box held a secret that could change the order of this whole city.",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_006",
+     "startMs": 41631,
+     "endMs": 49941,
+     "narration_dhivehi": "މަގުމަތީގައި ހުރި ބޮޑެތި ކުނިފުނިތަކުގެ ފުރަގަހަށް ނިވާވަމުން، ޗަކަ ފެންގަނޑުތަކަށް އަޑުނުއިވޭނޭހެން ފައިއަޅަމުން އައިރާ ކުރިއަށް ދިޔައެވެ.",
+     "narration_english": "Hiding behind the big heaps of scrap on the way, placing her feet so the muddy puddles would make no sound, Aira moved on.",
+     "crop": "medium",
+     "motion": "pan up",
+     "sfx": [
+      {
+       "name": "splash",
+       "atMs": 45941,
+       "gainDb": -24,
+       "word": "ފެންގަނޑުތަކަށް"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      2.8,
+      0.0,
+      71.5,
+      84.7
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Aira), create a new scene: Cinematic semi-realistic digital illustration in a dark gritty dystopian sci-fi style matching a post-apocalyptic underground bunker city: rusted steel walls, pipes, steam and haze, warm amber and sodium-orange work lights against cold steel-blue and teal shadows, the luxurious upper levels in clean white, glass and soft gold light, volumetric light shafts, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and calm, uncluttered space at the bottom (floor, grating, table top, soft shadow) for a logo.\nScene: Aira moving silently like a shadow along a narrow alley between rusted shacks and scrap heaps, slightly crouched, both arms clutching a small worn canvas bag tightly against her chest, eyes darting upward with fear and determination, stepping carefully around dark puddles; a faint red drone beam sweeping the haze behind her. Location: the lowest level of a vast underground bunker city at night: narrow alleys between rusted corrugated-steel shacks and huge heaps of scrap metal, thick pipes running overhead, toxic smoke haze, puddles of dirty water on cracked concrete, a dark rocky cavern ceiling far above. Camera: medium wide, eye level, her face in the upper third, the wet concrete with puddles as a calm lower third.\nCharacters: Aira: a slim athletic Maldivian young woman of 26 with warm brown skin, a determined oval face, large dark intense eyes, straight dark eyebrows and a faint grease smudge on one cheek; wears a loose ankle-length dark olive-brown canvas work coat buttoned to the neck with long sleeves, loose dark trousers and scuffed boots, a charcoal-grey hijab wrapped snugly and fully covering her hair and neck, and a small worn steel tag pendant on a thin chain over her hijab at the chest.\nMood/lighting: deep night underground, near darkness, cold teal shadows and toxic grey-green haze, the only light a few thin red scanning beams from small patrol drones overhead and a faint sodium-orange glow far away, tense and frightening.\nModest clothing (women in loose long-sleeved ankle-length clothing with a hijab fully covering hair and neck; men in long-sleeved shirts or jackets and long trousers), culturally respectful, no guns, no knives, no weapons visible, no violence shown, no blood, no wounds, no gore, no dead bodies, no text, no letters, no numbers, no writing, no screens with readable text, no symbols, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.12,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 38.6,
+    "y_pct": 18.4,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_003",
+   "startMs": 49941,
+   "endMs": 84083,
+   "new_image_reason": "action change: a drone passes right over her head and she presses herself behind a steel pipe, holding her breath",
+   "characters": [
+    "aira"
+   ],
+   "location": "the lowest level of a vast underground bunker city at night: narrow alleys between rusted corrugated-steel shacks and huge heaps of scrap metal, thick pipes running overhead, toxic smoke haze, puddles of dirty water on cracked concrete, a dark rocky cavern ceiling far above",
+   "location_key": "s7_night",
+   "mood": "deep night underground, near darkness, cold teal shadows and toxic grey-green haze, the only light a few thin red scanning beams from small patrol drones overhead and a faint sodium-orange glow far away, tense and frightening",
+   "visual": "Aira pressed flat against the dark side of a huge rusted steel pipe, holding her breath, eyes raised and wide, the bag held tight to her chest; just above the pipe a small black patrol drone glides past, its red scanning beam sweeping the ground a few steps away from her",
+   "camera": "medium shot, low angle, her face and the drone in the upper half, the dark ground beside the pipe as a calm lower third",
+   "image": "images/beat_003.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "corridor_drip",
+   "shots": [
+    {
+     "id": "shot_007",
+     "startMs": 49941,
+     "endMs": 62712,
+     "narration_dhivehi": "ދުރުން ފާރަވެރި ސިފައިންގެ ބޫޓުގެ އަޑާއި މެޝިނަރީތަކުގެ ހަރުކަށި އަޑު އިވެމުންދިޔައެވެ. ކުއްލިއަކަށް އޭނާގެ ބޮލުމަތިން ޑްރޯނެއް ވިއްދައިގެން ދިޔުމާއެކު، އައިރާ ދަގަނޑު ހޮޅިއެއްގެ ނިވަލަށް ދެމިގަތެވެ.",
+     "narration_english": "From far away came the sound of patrol soldiers' boots and the harsh noise of machinery. Suddenly, as a drone whizzed over her head, Aira pressed herself into the cover of a steel pipe.",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [
+      {
+       "name": "boots_march",
+       "atMs": 51501,
+       "gainDb": -22,
+       "word": "ބޫޓުގެ"
+      },
+      {
+       "name": "drone_pass",
+       "atMs": 58002,
+       "gainDb": -16,
+       "word": "ވިއްދައިގެން"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_008",
+     "startMs": 62712,
+     "endMs": 72352,
+     "narration_dhivehi": "ނޭވާ ހިފަހައްޓާލައިގެން އޮވެ އޭނާ އަމިއްލަ ނަފްސަށް ވިސްނައިދިނެވެ. މިވަގުތު އަތުލައިގަނެވިއްޖެނަމަ، މުޅި އުމުރަށް ޖަލުގެ އަނދިރިކަމަށް ދާންޖެހޭނެއެވެ.",
+     "narration_english": "Holding her breath, she reasoned with herself. If she were caught now, she would have to go to the darkness of prison for the rest of her life,",
+     "crop": "tight",
+     "motion": "pan down",
+     "sfx": [
+      {
+       "name": "breath",
+       "atMs": 63022,
+       "gainDb": -22,
+       "word": "ނޭވާ"
+      }
+     ],
+     "hum": true,
+     "crop_rect_pct": [
+      40.6,
+      12.2,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_009",
+     "startMs": 72352,
+     "endMs": 84083,
+     "narration_dhivehi": "ނުވަތަ އެއަށްވުރެ ވެސް ހިތި ނިމުމަކާ ކުރިމަތިލާން ޖެހިދާނެއެވެ. ނަމަވެސް، ޑްރޯންގެ އަލިކަން ދުރަށް ދިޔުމާއެކު، އައިރާ އަނެއްކާވެސް އޭނާގެ މަންޒިލާ ދިމާއަށް ދުއްވައިގަތެވެ.",
+     "narration_english": "or she might even face a more bitter end. But as the drone's light moved away, Aira again ran towards her destination.",
+     "crop": "full",
+     "motion": "static drift",
+     "sfx": [
+      {
+       "name": "footsteps_pavement",
+       "atMs": 82723,
+       "gainDb": -22,
+       "word": "ދުއްވައިގަތެވެ."
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Aira), create a new scene: Cinematic semi-realistic digital illustration in a dark gritty dystopian sci-fi style matching a post-apocalyptic underground bunker city: rusted steel walls, pipes, steam and haze, warm amber and sodium-orange work lights against cold steel-blue and teal shadows, the luxurious upper levels in clean white, glass and soft gold light, volumetric light shafts, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and calm, uncluttered space at the bottom (floor, grating, table top, soft shadow) for a logo.\nScene: Aira pressed flat against the dark side of a huge rusted steel pipe, holding her breath, eyes raised and wide, the bag held tight to her chest; just above the pipe a small black patrol drone glides past, its red scanning beam sweeping the ground a few steps away from her. Location: the lowest level of a vast underground bunker city at night: narrow alleys between rusted corrugated-steel shacks and huge heaps of scrap metal, thick pipes running overhead, toxic smoke haze, puddles of dirty water on cracked concrete, a dark rocky cavern ceiling far above. Camera: medium shot, low angle, her face and the drone in the upper half, the dark ground beside the pipe as a calm lower third.\nCharacters: Aira: a slim athletic Maldivian young woman of 26 with warm brown skin, a determined oval face, large dark intense eyes, straight dark eyebrows and a faint grease smudge on one cheek; wears a loose ankle-length dark olive-brown canvas work coat buttoned to the neck with long sleeves, loose dark trousers and scuffed boots, a charcoal-grey hijab wrapped snugly and fully covering her hair and neck, and a small worn steel tag pendant on a thin chain over her hijab at the chest.\nMood/lighting: deep night underground, near darkness, cold teal shadows and toxic grey-green haze, the only light a few thin red scanning beams from small patrol drones overhead and a faint sodium-orange glow far away, tense and frightening.\nModest clothing (women in loose long-sleeved ankle-length clothing with a hijab fully covering hair and neck; men in long-sleeved shirts or jackets and long trousers), culturally respectful, no guns, no knives, no weapons visible, no violence shown, no blood, no wounds, no gore, no dead bodies, no text, no letters, no numbers, no writing, no screens with readable text, no symbols, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.125,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 71.2,
+    "y_pct": 47.5,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_004",
+   "startMs": 84083,
+   "endMs": 104564,
+   "new_image_reason": "scene change: the isolated ruined workshop where the exiled scientist Zail lives",
+   "characters": [],
+   "location": "an isolated ruined workshop at the far edge of the underground Sector 7: one decayed corner of an old abandoned factory hall, broken rusted steel walls and collapsed girders, tangled cables, a single heavy riveted steel door with a dim slit of light, scrap heaps and puddles in front, no signs",
+   "location_key": "workshop_ext",
+   "mood": "deep night underground, cold blue-teal darkness, a faint red drone glow in the haze far above, a thin warm amber slit of light around the steel door, lonely and secretive",
+   "visual": "the lonely ruined corner of an old factory hall at the far edge of Sector 7, broken steel walls and leaning girders, a single heavy riveted steel door with a thin warm line of light around its edges, scrap and puddles in front; no people",
+   "camera": "wide establishing shot, eye level, the door and ruins in the upper two-thirds, the wet empty ground as a calm lower third",
+   "image": "images/beat_004.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "bunker_machinery",
+   "shots": [
+    {
+     "id": "shot_010",
+     "startMs": 84083,
+     "endMs": 92333,
+     "narration_dhivehi": "އެއީ ސެކްޓަރ 7 ގެ އެންމެ އެކަހެރި، ބައު ވޯކްޝޮޕެވެ. އެ ވޯކްޝޮޕަކީ ކުރީގެ ބޮޑު ކާރުޚާނާއެއްގެ ބައުވެ ވީރާނާވެފައިވާ ބައެކެވެ.",
+     "narration_english": "It was the most isolated, ruined workshop in Sector 7 — a decayed, derelict part of what was once a great factory.",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_011",
+     "startMs": 92333,
+     "endMs": 104564,
+     "narration_dhivehi": "އެތަނުގައި ދިރިއުޅެމުންދަނީ އެއްޒަމާނެއްގައި މަތީ ފަންތީގެ އެންމެ އިސް ސައިންސްވެރިޔާ، ނަމަވެސް ސަރުކާރުގެ ކޮރަޕްޝަނާ ދެކޮޅަށް ތެދުވުމުން ސެކްޓަރ 7 އަށް އަރުވާލެވުނު ޢުމުރުން ދުވަސްވީ ޒައިލްއެވެ.",
+     "narration_english": "Living there was old Zail — once the most senior scientist of the upper level, but exiled to Sector 7 after he stood up against the government's corruption.",
+     "crop": "tight",
+     "motion": "pan left",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      20.3,
+      4.8,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Cinematic semi-realistic digital illustration in a dark gritty dystopian sci-fi style matching a post-apocalyptic underground bunker city: rusted steel walls, pipes, steam and haze, warm amber and sodium-orange work lights against cold steel-blue and teal shadows, the luxurious upper levels in clean white, glass and soft gold light, volumetric light shafts, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and calm, uncluttered space at the bottom (floor, grating, table top, soft shadow) for a logo.\nScene: the lonely ruined corner of an old factory hall at the far edge of Sector 7, broken steel walls and leaning girders, a single heavy riveted steel door with a thin warm line of light around its edges, scrap and puddles in front; no people. Location: an isolated ruined workshop at the far edge of the underground Sector 7: one decayed corner of an old abandoned factory hall, broken rusted steel walls and collapsed girders, tangled cables, a single heavy riveted steel door with a dim slit of light, scrap heaps and puddles in front, no signs. Camera: wide establishing shot, eye level, the door and ruins in the upper two-thirds, the wet empty ground as a calm lower third.\nMood/lighting: deep night underground, cold blue-teal darkness, a faint red drone glow in the haze far above, a thin warm amber slit of light around the steel door, lonely and secretive.\nModest clothing (women in loose long-sleeved ankle-length clothing with a hijab fully covering hair and neck; men in long-sleeved shirts or jackets and long trousers), culturally respectful, no guns, no knives, no weapons visible, no violence shown, no blood, no wounds, no gore, no dead bodies, no text, no letters, no numbers, no writing, no screens with readable text, no symbols, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.141,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 50.0,
+    "y_pct": 40.0,
+    "face_detected": false
+   }
+  },
+  {
+   "id": "beat_005",
+   "startMs": 104564,
+   "endMs": 121984,
+   "new_image_reason": "character change: Aira knocks the secret code and Zail opens the steel door",
+   "characters": [
+    "zail",
+    "aira"
+   ],
+   "location": "an isolated ruined workshop at the far edge of the underground Sector 7: one decayed corner of an old abandoned factory hall, broken rusted steel walls and collapsed girders, tangled cables, a single heavy riveted steel door with a dim slit of light, scrap heaps and puddles in front, no signs",
+   "location_key": "workshop_ext",
+   "mood": "deep night underground, cold blue-teal darkness, a faint red drone glow in the haze far above, a thin warm amber slit of light around the steel door, lonely and secretive",
+   "visual": "the heavy steel door opened a hand's width: Zail's bearded face with round wire glasses peering out cautiously through the gap, warm amber light behind him, his sharp eyes scanning the dark; Aira standing an arm's length away outside the door, one fist still raised from knocking, the bag held to her chest, glancing back over her shoulder",
+   "camera": "medium shot, eye level, both faces in the upper half, the dark ground as a calm lower third",
+   "image": "images/beat_005.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "corridor_drip",
+   "shots": [
+    {
+     "id": "shot_012",
+     "startMs": 104564,
+     "endMs": 112214,
+     "narration_dhivehi": "އައިރާ ސިއްރު ކޯޑަކަށް ދޮރުގައި ތިން ފަހަރު ޓަކިދިނެވެ. ކުޑަ ހިނދުކޮޅަކަށްފަހު، ދަގަނޑު ދޮރު މަޑުމަޑުން ހުޅުވި،",
+     "narration_english": "Aira knocked on the door three times in a secret code. After a short moment, the steel door slowly opened,",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [
+      {
+       "name": "knock",
+       "atMs": 107324,
+       "gainDb": -16,
+       "word": "ޓަކިދިނެވެ."
+      },
+      {
+       "name": "metal_door",
+       "atMs": 111444,
+       "gainDb": -20,
+       "word": "ހުޅުވި،"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_013",
+     "startMs": 112214,
+     "endMs": 121984,
+     "narration_dhivehi": "ބޯ ތުނބުޅިއަކާއި ތޫނު ލޮލެއްގެ ވެރި ޒައިލްގެ މޫނު ފެނިގެންދިޔައެވެ. ޒައިލް ވަށައިގެން ބަލައިލުމަށްފަހު ވަގުތުން އައިރާ އެތެރެއަށް ވައްދައި ދޮރު ތަޅުލިއެވެ.",
+     "narration_english": "and Zail's face appeared, with his thick beard and sharp eyes. Zail looked around, then quickly let Aira in and locked the door.",
+     "crop": "tight",
+     "motion": "pan right",
+     "sfx": [
+      {
+       "name": "door_close",
+       "atMs": 121024,
+       "gainDb": -18,
+       "word": "ތަޅުލިއެވެ."
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      0.0,
+      0.0,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Zail; reference image 2 is Aira), create a new scene: Cinematic semi-realistic digital illustration in a dark gritty dystopian sci-fi style matching a post-apocalyptic underground bunker city: rusted steel walls, pipes, steam and haze, warm amber and sodium-orange work lights against cold steel-blue and teal shadows, the luxurious upper levels in clean white, glass and soft gold light, volumetric light shafts, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and calm, uncluttered space at the bottom (floor, grating, table top, soft shadow) for a logo.\nScene: the heavy steel door opened a hand's width: Zail's bearded face with round wire glasses peering out cautiously through the gap, warm amber light behind him, his sharp eyes scanning the dark; Aira standing an arm's length away outside the door, one fist still raised from knocking, the bag held to her chest, glancing back over her shoulder. Location: an isolated ruined workshop at the far edge of the underground Sector 7: one decayed corner of an old abandoned factory hall, broken rusted steel walls and collapsed girders, tangled cables, a single heavy riveted steel door with a dim slit of light, scrap heaps and puddles in front, no signs. Camera: medium shot, eye level, both faces in the upper half, the dark ground as a calm lower third.\nCharacters: Zail: a lean slightly stooped Maldivian man about 65 with weathered warm brown skin, a lined thoughtful face, sharp piercing dark eyes behind small round wire-rimmed glasses, untidy short grey-white hair and a thick bushy grey-white beard; wears a patched long dark-brown coat over a faded grey long-sleeved shirt, dark trousers and fingerless wool gloves. Aira: a slim athletic Maldivian young woman of 26 with warm brown skin, a determined oval face, large dark intense eyes, straight dark eyebrows and a faint grease smudge on one cheek; wears a loose ankle-length dark olive-brown canvas work coat buttoned to the neck with long sleeves, loose dark trousers and scuffed boots, a charcoal-grey hijab wrapped snugly and fully covering her hair and neck, and a small worn steel tag pendant on a thin chain over her hijab at the chest.\nMood/lighting: deep night underground, cold blue-teal darkness, a faint red drone glow in the haze far above, a thin warm amber slit of light around the steel door, lonely and secretive.\nModest clothing (women in loose long-sleeved ankle-length clothing with a hijab fully covering hair and neck; men in long-sleeved shirts or jackets and long trousers), culturally respectful, no guns, no knives, no weapons visible, no violence shown, no blood, no wounds, no gore, no dead bodies, no text, no letters, no numbers, no writing, no screens with readable text, no symbols, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.062,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 21.8,
+    "y_pct": 20.6,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_006",
+   "startMs": 121984,
+   "endMs": 149645,
+   "new_image_reason": "scene change: inside the workshop; Aira sets the black box on the table and Zail is shocked",
+   "characters": [
+    "aira",
+    "zail"
+   ],
+   "location": "the inside of an old exiled scientist's cluttered underground workshop in a ruined factory: a large scratched steel work table in the middle, piles of electrical parts, coils of wire, circuit boards and strange old machines, many old monitors of different sizes stacked around the room, rusted steel walls, a heavy riveted steel door, a hanging work lamp; every screen shows only soft abstract glowing light and colour, no letters, no numbers, no symbols, no icons",
+   "location_key": "workshop",
+   "mood": "night, dim cold blue glow from the many old monitors mixed with one warm amber hanging work lamp, dust and thin solder smoke hanging in the air, secretive, tense and curious",
+   "visual": "Aira setting a matte black rugged metal box with sharp edges and faint abstract etched grooves (no letters, no symbols) down on the big steel work table; across the table Zail stares at it, eyes wide behind his round glasses, his face drained with shock and fear; monitors and machines crowd the background",
+   "camera": "medium wide, eye level, both faces in the upper half, the steel table top as a calm lower third",
+   "image": "images/beat_006.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": "other",
+   "safe_substitution": "the 'dangerous symbols and codes' on the box are shown only as faint abstract etched grooves, nothing readable",
+   "ambience": "workshop",
+   "shots": [
+    {
+     "id": "shot_014",
+     "startMs": 121984,
+     "endMs": 130355,
+     "narration_dhivehi": "ވޯކްޝޮޕްގެ ތެރޭގައި ވަނީ އެކި ޒާތުގެ ކަރަންޓު ބައިތަކާއި، ދިއްލިފައި ހުރި މޮނިޓަރުތަކާއި، ގޮތް ނޭނގޭ މެޝިންތަކުން ފުރިފައެވެ.",
+     "narration_english": "Inside, the workshop was full of all kinds of electrical parts, glowing monitors and strange machines.",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_015",
+     "startMs": 130355,
+     "endMs": 139225,
+     "narration_dhivehi": "އައިރާ މޭޒުމަތީގައި އެ ސިއްރު ކަޅު ފޮށި ބޭއްވިއެވެ. އެ ފޮށީގެ މަތީގައިވާ ނުރައްކާތެރި ރަމްޒުތަކާއި ކޯޑުތައް ފެނުމާއެކު، ޒައިލްގެ ދެލޯ ބޮޑުވެ،",
+     "narration_english": "Aira set the secret black box down on the table. On seeing the dangerous symbols and codes on its top, Zail's eyes widened",
+     "crop": "tight",
+     "motion": "pan up",
+     "sfx": [
+      {
+       "name": "soft_thud",
+       "atMs": 132545,
+       "gainDb": -22,
+       "word": "ބޭއްވިއެވެ."
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      40.6,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_016",
+     "startMs": 139225,
+     "endMs": 149645,
+     "narration_dhivehi": "މޫނުމަތީގެ ކުލަވަރު މުޅިން ބަދަލުވެގެން ދިޔައެވެ. \"މިއީ... މިއީ ކޮންތާކުން ހޯދި އެއްޗެއް؟\" ޒައިލްގެ އަޑުގައިވަނީ އިންތިހާ ދަރަޖައިގެ ހައިރާންކަމާއި ބިރުވެރިކަމެވެ.",
+     "narration_english": "and the colour drained from his face. \"This... where did you find this?\" Zail's voice was full of utter amazement and fear.",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Aira; reference image 2 is Zail), create a new scene: Cinematic semi-realistic digital illustration in a dark gritty dystopian sci-fi style matching a post-apocalyptic underground bunker city: rusted steel walls, pipes, steam and haze, warm amber and sodium-orange work lights against cold steel-blue and teal shadows, the luxurious upper levels in clean white, glass and soft gold light, volumetric light shafts, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and calm, uncluttered space at the bottom (floor, grating, table top, soft shadow) for a logo.\nScene: Aira setting a matte black rugged metal box with sharp edges and faint abstract etched grooves (no letters, no symbols) down on the big steel work table; across the table Zail stares at it, eyes wide behind his round glasses, his face drained with shock and fear; monitors and machines crowd the background. Location: the inside of an old exiled scientist's cluttered underground workshop in a ruined factory: a large scratched steel work table in the middle, piles of electrical parts, coils of wire, circuit boards and strange old machines, many old monitors of different sizes stacked around the room, rusted steel walls, a heavy riveted steel door, a hanging work lamp; every screen shows only soft abstract glowing light and colour, no letters, no numbers, no symbols, no icons. Camera: medium wide, eye level, both faces in the upper half, the steel table top as a calm lower third.\nCharacters: Aira: a slim athletic Maldivian young woman of 26 with warm brown skin, a determined oval face, large dark intense eyes, straight dark eyebrows and a faint grease smudge on one cheek; wears a loose ankle-length dark olive-brown canvas work coat buttoned to the neck with long sleeves, loose dark trousers and scuffed boots, a charcoal-grey hijab wrapped snugly and fully covering her hair and neck, and a small worn steel tag pendant on a thin chain over her hijab at the chest. Zail: a lean slightly stooped Maldivian man about 65 with weathered warm brown skin, a lined thoughtful face, sharp piercing dark eyes behind small round wire-rimmed glasses, untidy short grey-white hair and a thick bushy grey-white beard; wears a patched long dark-brown coat over a faded grey long-sleeved shirt, dark trousers and fingerless wool gloves.\nMood/lighting: night, dim cold blue glow from the many old monitors mixed with one warm amber hanging work lamp, dust and thin solder smoke hanging in the air, secretive, tense and curious.\nModest clothing (women in loose long-sleeved ankle-length clothing with a hijab fully covering hair and neck; men in long-sleeved shirts or jackets and long trousers), culturally respectful, no guns, no knives, no weapons visible, no violence shown, no blood, no wounds, no gore, no dead bodies, no text, no letters, no numbers, no writing, no screens with readable text, no symbols, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.177,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 73.0,
+    "y_pct": 33.9,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_007",
+   "startMs": 149645,
+   "endMs": 177406,
+   "new_image_reason": "action change: Aira tells him about Junction-9 and Zail touches the box, then hurries for his tools",
+   "characters": [
+    "zail",
+    "aira"
+   ],
+   "location": "the inside of an old exiled scientist's cluttered underground workshop in a ruined factory: a large scratched steel work table in the middle, piles of electrical parts, coils of wire, circuit boards and strange old machines, many old monitors of different sizes stacked around the room, rusted steel walls, a heavy riveted steel door, a hanging work lamp; every screen shows only soft abstract glowing light and colour, no letters, no numbers, no symbols, no icons",
+   "location_key": "workshop",
+   "mood": "night, dim cold blue glow from the many old monitors mixed with one warm amber hanging work lamp, dust and thin solder smoke hanging in the air, secretive, tense and curious",
+   "visual": "Zail leaning over the table and slowly running his gloved hand over the lid of the black box, serious and breathless; Aira standing on the other side of the table an arm's length away, speaking quietly with an earnest face; behind Zail a cluttered shelf of tools and a wisp of solder smoke rising from a hot soldering iron in its stand",
+   "camera": "medium shot, eye level, faces in the upper half, the table top as a calm lower third",
+   "image": "images/beat_007.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "workshop",
+   "shots": [
+    {
+     "id": "shot_017",
+     "startMs": 149645,
+     "endMs": 158956,
+     "narration_dhivehi": "އައިރާ ކުރުގޮތަކަށް ޖަންކްޝަން-9 ގެ ހާދިސާ ކިޔައިދިނުމުން، ޒައިލް މަޑުމަޑުން އަތްދިއްކޮށް އެ ފޮށީގައި ފިރުމާލިއެވެ. \"މިއީ އާދައިގެ އެއްޗެއް ނޫން، އައިރާ.",
+     "narration_english": "When Aira briefly told him what happened at Junction-9, Zail slowly reached out and ran his hand over the box. \"This is no ordinary thing, Aira.",
+     "crop": "full",
+     "motion": "pan down",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_018",
+     "startMs": 158956,
+     "endMs": 167226,
+     "narration_dhivehi": "މި ފޮށީގެ އެތެރޭގައި ވަނީ ސަރުކާރުން ފޮރުވަން އުޅޭ މުޅި ސިޓީގެ ރޭޑިއޭޝަން ޗާޓު ކަމަށް ވެދާނެ،\" ޒައިލް ފުން ނޭވާއެއް ދޫކޮށްލަމުން،",
+     "narration_english": "Inside this box may be the radiation chart of the whole city that the government is trying to hide,\" said Zail, letting out a deep breath,",
+     "crop": "tight",
+     "motion": "static drift",
+     "sfx": [
+      {
+       "name": "sigh",
+       "atMs": 165766,
+       "gainDb": -22,
+       "word": "ނޭވާއެއް"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      40.6,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_019",
+     "startMs": 167226,
+     "endMs": 177406,
+     "narration_dhivehi": "އެ ފޮށި ހުޅުވުމަށްޓަކައި އޭނާގެ ޚާއްޞަ ސާމާނުތައް ނަގަން އަވަސްވެގަތެވެ. ވޯކްޝޮޕްގެ ތެރޭގައި ހަރުލާފައިވަނީ ހިރަފުހާއި، ދިޔާކުރާ ރޯދަނޑީގެ ނުބައި ވަހެވެ.",
+     "narration_english": "and he hurried to fetch his special tools to open the box. The workshop reeked of dust and the foul smoke of melting solder.",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [
+      {
+       "name": "metal_clang",
+       "atMs": 169966,
+       "gainDb": -22,
+       "word": "ސާމާނުތައް"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Zail; reference image 2 is Aira), create a new scene: Cinematic semi-realistic digital illustration in a dark gritty dystopian sci-fi style matching a post-apocalyptic underground bunker city: rusted steel walls, pipes, steam and haze, warm amber and sodium-orange work lights against cold steel-blue and teal shadows, the luxurious upper levels in clean white, glass and soft gold light, volumetric light shafts, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and calm, uncluttered space at the bottom (floor, grating, table top, soft shadow) for a logo.\nScene: Zail leaning over the table and slowly running his gloved hand over the lid of the black box, serious and breathless; Aira standing on the other side of the table an arm's length away, speaking quietly with an earnest face; behind Zail a cluttered shelf of tools and a wisp of solder smoke rising from a hot soldering iron in its stand. Location: the inside of an old exiled scientist's cluttered underground workshop in a ruined factory: a large scratched steel work table in the middle, piles of electrical parts, coils of wire, circuit boards and strange old machines, many old monitors of different sizes stacked around the room, rusted steel walls, a heavy riveted steel door, a hanging work lamp; every screen shows only soft abstract glowing light and colour, no letters, no numbers, no symbols, no icons. Camera: medium shot, eye level, faces in the upper half, the table top as a calm lower third.\nCharacters: Zail: a lean slightly stooped Maldivian man about 65 with weathered warm brown skin, a lined thoughtful face, sharp piercing dark eyes behind small round wire-rimmed glasses, untidy short grey-white hair and a thick bushy grey-white beard; wears a patched long dark-brown coat over a faded grey long-sleeved shirt, dark trousers and fingerless wool gloves. Aira: a slim athletic Maldivian young woman of 26 with warm brown skin, a determined oval face, large dark intense eyes, straight dark eyebrows and a faint grease smudge on one cheek; wears a loose ankle-length dark olive-brown canvas work coat buttoned to the neck with long sleeves, loose dark trousers and scuffed boots, a charcoal-grey hijab wrapped snugly and fully covering her hair and neck, and a small worn steel tag pendant on a thin chain over her hijab at the chest.\nMood/lighting: night, dim cold blue glow from the many old monitors mixed with one warm amber hanging work lamp, dust and thin solder smoke hanging in the air, secretive, tense and curious.\nModest clothing (women in loose long-sleeved ankle-length clothing with a hijab fully covering hair and neck; men in long-sleeved shirts or jackets and long trousers), culturally respectful, no guns, no knives, no weapons visible, no violence shown, no blood, no wounds, no gore, no dead bodies, no text, no letters, no numbers, no writing, no screens with readable text, no symbols, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.263,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 74.2,
+    "y_pct": 30.1,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_008",
+   "startMs": 177406,
+   "endMs": 214508,
+   "new_image_reason": "new framing: close detail of Zail examining the box's steel coating in the blue screen light",
+   "characters": [
+    "zail"
+   ],
+   "location": "the inside of an old exiled scientist's cluttered underground workshop in a ruined factory: a large scratched steel work table in the middle, piles of electrical parts, coils of wire, circuit boards and strange old machines, many old monitors of different sizes stacked around the room, rusted steel walls, a heavy riveted steel door, a hanging work lamp; every screen shows only soft abstract glowing light and colour, no letters, no numbers, no symbols, no icons",
+   "location_key": "workshop",
+   "mood": "night, dim cold blue glow from the many old monitors mixed with one warm amber hanging work lamp, dust and thin solder smoke hanging in the air, secretive, tense and curious",
+   "visual": "close view of Zail bent over the black box under the dim blue glow of the old monitors, his eyes fixed on it through his round glasses, the trembling fingertips of his fingerless gloves tracing the sharp machined edge of the box; scattered fine tools and a small magnifier on the table",
+   "camera": "close-up, slightly high angle, his face in the upper third, his hands and the box lower, the dark table edge as a calm bottom",
+   "image": "images/beat_008.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "workshop",
+   "shots": [
+    {
+     "id": "shot_020",
+     "startMs": 177406,
+     "endMs": 187927,
+     "narration_dhivehi": "މުޅި ކޮޓަރީގެ އެކި ދިމަދިމާލުގައިވާ ބައު ސްކްރީންތަކުން ފެތުރިފައިވާ ނޫކުލައިގެ ފަނޑު އަލީގެ ތެރޭގައި، ޒައިލްގެ ދެލޯ ހުއްޓިފައިވަނީ މޭޒުމަތީގައި އޮތް ކަޅު ފޮއްޓަށެވެ.",
+     "narration_english": "In the dim blue light spreading from the old screens all around the room, Zail's eyes were fixed on the black box on the table.",
+     "crop": "full",
+     "motion": "pan left",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_021",
+     "startMs": 187927,
+     "endMs": 198317,
+     "narration_dhivehi": "އެ ފޮށީގެ ބޭރު ފަށަލައިގައި އަޅާފައިވާ ދަގަނޑު ކޯޓިންގއަކީ އާދައިގެ ސާމާނަކުން ފޫއަޅުވާލެވޭނެ އެއްޗެއް ނޫންކަން ޒައިލްގެ ތަޖުރިބާކާރު ލޮލަށް ވަގުތުން ފާހަގަކުރެވުނެވެ.",
+     "narration_english": "His experienced eye saw at once that the steel coating on the box's outer shell could not be broken with ordinary tools.",
+     "crop": "tight",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      20.3,
+      4.8,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_022",
+     "startMs": 198317,
+     "endMs": 214508,
+     "narration_dhivehi": "\"މި ފޮށި ހުޅުވަން ގަދަކަމުން މަސައްކަތްކޮށްފިނަމަ، މީގެ އެތެރޭގައިވާ 'ސެލްފް-ޑިސްޓްރަކްޓް' މެކޭނިޒަމް އެކްޓިވޭޓްވެ، ހުރިހާ ޑޭޓާއެއް އަނދައި އަޅިއަށް ވެދާނެ،\" ޒައިލް އޭނާގެ ތުރުތުރުއަޅާ އިނގިލިތަކުން ފޮށީގެ އަރިމަތީގައިވާ ތުނި ރޮނގުތަކުގައި ފިރުމާލަމުން ބުންޏެވެ.",
+     "narration_english": "\"If we try to force this box open, the self-destruct mechanism inside will activate and all the data will burn to ash,\" said Zail, running his trembling fingers along the sharp edges of the box.",
+     "crop": "full",
+     "motion": "pan right",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Zail), create a new scene: Cinematic semi-realistic digital illustration in a dark gritty dystopian sci-fi style matching a post-apocalyptic underground bunker city: rusted steel walls, pipes, steam and haze, warm amber and sodium-orange work lights against cold steel-blue and teal shadows, the luxurious upper levels in clean white, glass and soft gold light, volumetric light shafts, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and calm, uncluttered space at the bottom (floor, grating, table top, soft shadow) for a logo.\nScene: close view of Zail bent over the black box under the dim blue glow of the old monitors, his eyes fixed on it through his round glasses, the trembling fingertips of his fingerless gloves tracing the sharp machined edge of the box; scattered fine tools and a small magnifier on the table. Location: the inside of an old exiled scientist's cluttered underground workshop in a ruined factory: a large scratched steel work table in the middle, piles of electrical parts, coils of wire, circuit boards and strange old machines, many old monitors of different sizes stacked around the room, rusted steel walls, a heavy riveted steel door, a hanging work lamp; every screen shows only soft abstract glowing light and colour, no letters, no numbers, no symbols, no icons. Camera: close-up, slightly high angle, his face in the upper third, his hands and the box lower, the dark table edge as a calm bottom.\nCharacters: Zail: a lean slightly stooped Maldivian man about 65 with weathered warm brown skin, a lined thoughtful face, sharp piercing dark eyes behind small round wire-rimmed glasses, untidy short grey-white hair and a thick bushy grey-white beard; wears a patched long dark-brown coat over a faded grey long-sleeved shirt, dark trousers and fingerless wool gloves.\nMood/lighting: night, dim cold blue glow from the many old monitors mixed with one warm amber hanging work lamp, dust and thin solder smoke hanging in the air, secretive, tense and curious.\nModest clothing (women in loose long-sleeved ankle-length clothing with a hijab fully covering hair and neck; men in long-sleeved shirts or jackets and long trousers), culturally respectful, no guns, no knives, no weapons visible, no violence shown, no blood, no wounds, no gore, no dead bodies, no text, no letters, no numbers, no writing, no screens with readable text, no symbols, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.097,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 50.0,
+    "y_pct": 40.0,
+    "face_detected": false
+   }
+  },
+  {
+   "id": "beat_009",
+   "startMs": 214508,
+   "endMs": 241229,
+   "new_image_reason": "action change: Aira paces anxiously by the table, warning that soldiers will search every home",
+   "characters": [
+    "aira",
+    "zail"
+   ],
+   "location": "the inside of an old exiled scientist's cluttered underground workshop in a ruined factory: a large scratched steel work table in the middle, piles of electrical parts, coils of wire, circuit boards and strange old machines, many old monitors of different sizes stacked around the room, rusted steel walls, a heavy riveted steel door, a hanging work lamp; every screen shows only soft abstract glowing light and colour, no letters, no numbers, no symbols, no icons",
+   "location_key": "workshop",
+   "mood": "night, dim cold blue glow from the many old monitors mixed with one warm amber hanging work lamp, dust and thin solder smoke hanging in the air, secretive, tense and curious",
+   "visual": "Aira pacing beside the work table, arms crossed tightly, glancing towards the rattling steel door with a worried tense face; Zail in the background still hunched over the black box at the table; loose steel sheets on the wall trembling",
+   "camera": "medium shot, eye level, Aira's face in the upper third, the floor as a calm lower third",
+   "image": "images/beat_009.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "workshop",
+   "shots": [
+    {
+     "id": "shot_023",
+     "startMs": 214508,
+     "endMs": 223628,
+     "narration_dhivehi": "އޭނާގެ އަޑުގައިވަނީ ހާސްކަމާއި ސަމާލުކަމެވެ. އައިރާ މޭޒު ކައިރީގައި ހުރެ ދެކޮޅަށް ހިނގަމުން ދިޔައެވެ. ބޭރުން އިރުއިރުކޮޅާ އިވޭ ވައިގެ އަޑަށާއި،",
+     "narration_english": "There was worry and caution in his voice. Aira paced back and forth beside the table. At the sound of the wind howling outside now and then",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [
+      {
+       "name": "wind_howl",
+       "atMs": 222488,
+       "gainDb": -22,
+       "word": "ވައިގެ"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_024",
+     "startMs": 223628,
+     "endMs": 231058,
+     "narration_dhivehi": "ދަގަނޑު ޝީޓުތައް ތެޅޭ އަޑަށް އޭނާގެ ސިކުނޑި ސިހިސިހި ހުއްޓެވެ. \"ޒައިލް، އަހަރެމެންނަށް މާގިނަ ވަގުތެއް ނެތް.",
+     "narration_english": "and the rattling of steel sheets, her mind jolted with fright. \"Zail, we don't have much time.",
+     "crop": "tight",
+     "motion": "pan up",
+     "sfx": [
+      {
+       "name": "metal_clang",
+       "atMs": 224908,
+       "gainDb": -22,
+       "word": "ތެޅޭ"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      3.3,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_025",
+     "startMs": 231058,
+     "endMs": 241229,
+     "narration_dhivehi": "ޖަންކްޝަން-9 ގައި ހިނގި ކަންތަކަށްފަހު، ސިފައިން މުޅި ސެކްޓަރ 7 ފުރާލާނެ. އެމީހުންނަށް މި ފޮށި ގެއްލުނުކަން އެނގޭ ހިސާބުން ފެށިގެން ކޮންމެ ގެއެއް ފާސްކުރާނެ.\"",
+     "narration_english": "After what happened at Junction-9, soldiers will flood the whole of Sector 7. Once they know this box is missing, they'll search every home.\"",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Aira; reference image 2 is Zail), create a new scene: Cinematic semi-realistic digital illustration in a dark gritty dystopian sci-fi style matching a post-apocalyptic underground bunker city: rusted steel walls, pipes, steam and haze, warm amber and sodium-orange work lights against cold steel-blue and teal shadows, the luxurious upper levels in clean white, glass and soft gold light, volumetric light shafts, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and calm, uncluttered space at the bottom (floor, grating, table top, soft shadow) for a logo.\nScene: Aira pacing beside the work table, arms crossed tightly, glancing towards the rattling steel door with a worried tense face; Zail in the background still hunched over the black box at the table; loose steel sheets on the wall trembling. Location: the inside of an old exiled scientist's cluttered underground workshop in a ruined factory: a large scratched steel work table in the middle, piles of electrical parts, coils of wire, circuit boards and strange old machines, many old monitors of different sizes stacked around the room, rusted steel walls, a heavy riveted steel door, a hanging work lamp; every screen shows only soft abstract glowing light and colour, no letters, no numbers, no symbols, no icons. Camera: medium shot, eye level, Aira's face in the upper third, the floor as a calm lower third.\nCharacters: Aira: a slim athletic Maldivian young woman of 26 with warm brown skin, a determined oval face, large dark intense eyes, straight dark eyebrows and a faint grease smudge on one cheek; wears a loose ankle-length dark olive-brown canvas work coat buttoned to the neck with long sleeves, loose dark trousers and scuffed boots, a charcoal-grey hijab wrapped snugly and fully covering her hair and neck, and a small worn steel tag pendant on a thin chain over her hijab at the chest. Zail: a lean slightly stooped Maldivian man about 65 with weathered warm brown skin, a lined thoughtful face, sharp piercing dark eyes behind small round wire-rimmed glasses, untidy short grey-white hair and a thick bushy grey-white beard; wears a patched long dark-brown coat over a faded grey long-sleeved shirt, dark trousers and fingerless wool gloves.\nMood/lighting: night, dim cold blue glow from the many old monitors mixed with one warm amber hanging work lamp, dust and thin solder smoke hanging in the air, secretive, tense and curious.\nModest clothing (women in loose long-sleeved ankle-length clothing with a hijab fully covering hair and neck; men in long-sleeved shirts or jackets and long trousers), culturally respectful, no guns, no knives, no weapons visible, no violence shown, no blood, no wounds, no gore, no dead bodies, no text, no letters, no numbers, no writing, no screens with readable text, no symbols, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.115,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 33.0,
+    "y_pct": 19.6,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_010",
+   "startMs": 241229,
+   "endMs": 266700,
+   "new_image_reason": "action change: Zail connects his handmade device to the box and the big monitor flares red with a warning",
+   "characters": [
+    "zail",
+    "aira"
+   ],
+   "location": "the inside of the old scientist's cluttered underground workshop: a large scratched steel work table, a matte black rugged metal box on it with a cable plugged into its corner, a worn keyboard with blank unmarked keys, old monitors stacked around, the largest monitor facing away from the viewer; every screen shows only soft abstract glowing light and colour, no letters, no numbers, no symbols, no icons",
+   "location_key": "workshop_red",
+   "mood": "night, harsh pulsing red alarm light flooding from the big monitor across the faces and the table, deep black shadows, a few cold blue glows from smaller screens, urgent and frightening",
+   "visual": "Zail plugging a thin cable from a small handmade circuit device full of tangled wires and chips into a tiny port in the corner of the black box; the big monitor behind the table faces away from the viewer and floods both of them with harsh red light; Aira a step back on the other side of the table, startled",
+   "camera": "medium wide, eye level, faces in the upper half, the table top as a calm lower third",
+   "image": "images/beat_010.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "workshop",
+   "shots": [
+    {
+     "id": "shot_026",
+     "startMs": 241229,
+     "endMs": 251279,
+     "narration_dhivehi": "ޒައިލް ޖަވާބެއް ނުދެއެވެ. އޭނާ މަޑުމަޑުން ގޮސް މޭޒުގެ ވަތްގަނޑަކުން ނެގީ އަތުން ހަދާފައިވާ، އެތައް ނަރަކާއި ޗިޕްތަކެއް ގުޅުވާފައިވާ ކުޑަ ޑިވައިސެކެވެ.",
+     "narration_english": "Zail did not answer. He slowly went and took from a table drawer a small handmade device with many wires and chips connected to it.",
+     "crop": "full",
+     "motion": "pan down",
+     "sfx": [
+      {
+       "name": "metal_clang",
+       "atMs": 244909,
+       "gainDb": -24,
+       "word": "ވަތްގަނޑަކުން"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_027",
+     "startMs": 251279,
+     "endMs": 263110,
+     "narration_dhivehi": "އެއަށްފަހު، އެ ފޮށީގެ ކަނުގައިވާ ކުޑަ ޕޯޓަކަށް އޭނާގެ ޚާއްޞަ ކޭބަލް ގުޅާލިއެވެ. ކުއްލިއަކަށް ކޮޓަރީގައި ހުރި ބޮޑު މޮނިޓަރުން އަލިގަދަ ރަތްކުލައިގެ އިންޒާރެއް ދިއްލުނެވެ.",
+     "narration_english": "Then he plugged his special cable into a small port in the corner of the box. Suddenly a bright red warning lit up on the big monitor in the room.",
+     "crop": "tight",
+     "motion": "static drift",
+     "sfx": [
+      {
+       "name": "electric_spark",
+       "atMs": 256129,
+       "gainDb": -22,
+       "word": "ގުޅާލިއެވެ."
+      },
+      {
+       "name": "power_up",
+       "atMs": 261950,
+       "gainDb": -20,
+       "word": "ދިއްލުނެވެ."
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      40.6,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_028",
+     "startMs": 263110,
+     "endMs": 266700,
+     "narration_dhivehi": "އެއާއެކު އަޑުގަދަ ބީޕް އަޑެއް ކެނޑިނޭޅި އިވެން ފެށިއެވެ.",
+     "narration_english": "With it, a loud beeping began, sounding without pause.",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [
+      {
+       "name": "alarm_beep",
+       "atMs": 264050,
+       "gainDb": -16,
+       "word": "ބީޕް"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Zail; reference image 2 is Aira), create a new scene: Cinematic semi-realistic digital illustration in a dark gritty dystopian sci-fi style matching a post-apocalyptic underground bunker city: rusted steel walls, pipes, steam and haze, warm amber and sodium-orange work lights against cold steel-blue and teal shadows, the luxurious upper levels in clean white, glass and soft gold light, volumetric light shafts, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and calm, uncluttered space at the bottom (floor, grating, table top, soft shadow) for a logo.\nScene: Zail plugging a thin cable from a small handmade circuit device full of tangled wires and chips into a tiny port in the corner of the black box; the big monitor behind the table faces away from the viewer and floods both of them with harsh red light; Aira a step back on the other side of the table, startled. Location: the inside of the old scientist's cluttered underground workshop: a large scratched steel work table, a matte black rugged metal box on it with a cable plugged into its corner, a worn keyboard with blank unmarked keys, old monitors stacked around, the largest monitor facing away from the viewer; every screen shows only soft abstract glowing light and colour, no letters, no numbers, no symbols, no icons. Camera: medium wide, eye level, faces in the upper half, the table top as a calm lower third.\nCharacters: Zail: a lean slightly stooped Maldivian man about 65 with weathered warm brown skin, a lined thoughtful face, sharp piercing dark eyes behind small round wire-rimmed glasses, untidy short grey-white hair and a thick bushy grey-white beard; wears a patched long dark-brown coat over a faded grey long-sleeved shirt, dark trousers and fingerless wool gloves. Aira: a slim athletic Maldivian young woman of 26 with warm brown skin, a determined oval face, large dark intense eyes, straight dark eyebrows and a faint grease smudge on one cheek; wears a loose ankle-length dark olive-brown canvas work coat buttoned to the neck with long sleeves, loose dark trousers and scuffed boots, a charcoal-grey hijab wrapped snugly and fully covering her hair and neck, and a small worn steel tag pendant on a thin chain over her hijab at the chest.\nMood/lighting: night, harsh pulsing red alarm light flooding from the big monitor across the faces and the table, deep black shadows, a few cold blue glows from smaller screens, urgent and frightening.\nModest clothing (women in loose long-sleeved ankle-length clothing with a hijab fully covering hair and neck; men in long-sleeved shirts or jackets and long trousers), culturally respectful, no guns, no knives, no weapons visible, no violence shown, no blood, no wounds, no gore, no dead bodies, no text, no letters, no numbers, no writing, no screens with readable text, no symbols, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.08,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 80.0,
+    "y_pct": 26.1,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_011",
+   "startMs": 266700,
+   "endMs": 289971,
+   "new_image_reason": "emotional turning point: the red warning on their faces, Aira's breath catches",
+   "characters": [
+    "aira",
+    "zail"
+   ],
+   "location": "the inside of the old scientist's cluttered underground workshop: a large scratched steel work table, a matte black rugged metal box on it with a cable plugged into its corner, a worn keyboard with blank unmarked keys, old monitors stacked around, the largest monitor facing away from the viewer; every screen shows only soft abstract glowing light and colour, no letters, no numbers, no symbols, no icons",
+   "location_key": "workshop_red",
+   "mood": "night, harsh pulsing red alarm light flooding from the big monitor across the faces and the table, deep black shadows, a few cold blue glows from smaller screens, urgent and frightening",
+   "visual": "Aira's face lit by pulsing red light, breath caught, one hand pressed to her chest over the pendant, eyes wide; beside her at an arm's length Zail wiping sweat from his forehead with the back of his hand, already reaching for a keyboard with blank keys; the red glowing monitor faces away from the viewer, only its glow is seen",
+   "camera": "medium close-up, eye level, both faces in the upper half",
+   "image": "images/beat_011.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": "other",
+   "safe_substitution": "the WARNING / ATTEMPT 1/3 message is never shown: only red glow on their faces from a monitor that faces away",
+   "ambience": "workshop",
+   "shots": [
+    {
+     "id": "shot_029",
+     "startMs": 266700,
+     "endMs": 279140,
+     "narration_dhivehi": "`[WARNING: MILITARY-GRADE ENCRYPTION DETECTED]` `[ATTEMPT 1/3 - UNAUTHORIZED ACCESS WILL TRIGGER DATA WIPE]` އައިރާގެ ނޭވާ އަރުތެރޭގައި ތާށިވިއެވެ.",
+     "narration_english": "[On the screen: WARNING — MILITARY-GRADE ENCRYPTION DETECTED. ATTEMPT 1 OF 3 — UNAUTHORIZED ACCESS WILL TRIGGER DATA WIPE.] Aira's breath caught in her throat.",
+     "crop": "full",
+     "motion": "pan left",
+     "sfx": [
+      {
+       "name": "gasp",
+       "atMs": 278470,
+       "gainDb": -20,
+       "word": "ތާށިވިއެވެ."
+      }
+     ],
+     "hum": true,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_030",
+     "startMs": 279140,
+     "endMs": 289971,
+     "narration_dhivehi": "\"ޒައިލް! ތިން ފުރުސަތު އެކަނި އޮތީ!\" \"ހަމަޖެހިބަލަ ކުއްޖާ،\" ޒައިލް އޭނާގެ ނިތްކުރިން ދާހިއްލާފައިވާ ތަން އަތުގެ ނުފުށުން ފޮހެލަމުން ކީބޯޑުގައި އިނގިލިތައް ހިންގާލިއެވެ.",
+     "narration_english": "\"Zail! We only have three chances!\" \"Calm down, child,\" said Zail, wiping the sweat from his forehead with the back of his hand as he ran his fingers over the keyboard.",
+     "crop": "tight",
+     "motion": "slow pull-out",
+     "sfx": [
+      {
+       "name": "keyboard_typing",
+       "atMs": 287691,
+       "gainDb": -20,
+       "word": "ކީބޯޑުގައި"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      0.0,
+      0.0,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Aira; reference image 2 is Zail), create a new scene: Cinematic semi-realistic digital illustration in a dark gritty dystopian sci-fi style matching a post-apocalyptic underground bunker city: rusted steel walls, pipes, steam and haze, warm amber and sodium-orange work lights against cold steel-blue and teal shadows, the luxurious upper levels in clean white, glass and soft gold light, volumetric light shafts, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and calm, uncluttered space at the bottom (floor, grating, table top, soft shadow) for a logo.\nScene: Aira's face lit by pulsing red light, breath caught, one hand pressed to her chest over the pendant, eyes wide; beside her at an arm's length Zail wiping sweat from his forehead with the back of his hand, already reaching for a keyboard with blank keys; the red glowing monitor faces away from the viewer, only its glow is seen. Location: the inside of the old scientist's cluttered underground workshop: a large scratched steel work table, a matte black rugged metal box on it with a cable plugged into its corner, a worn keyboard with blank unmarked keys, old monitors stacked around, the largest monitor facing away from the viewer; every screen shows only soft abstract glowing light and colour, no letters, no numbers, no symbols, no icons. Camera: medium close-up, eye level, both faces in the upper half.\nCharacters: Aira: a slim athletic Maldivian young woman of 26 with warm brown skin, a determined oval face, large dark intense eyes, straight dark eyebrows and a faint grease smudge on one cheek; wears a loose ankle-length dark olive-brown canvas work coat buttoned to the neck with long sleeves, loose dark trousers and scuffed boots, a charcoal-grey hijab wrapped snugly and fully covering her hair and neck, and a small worn steel tag pendant on a thin chain over her hijab at the chest. Zail: a lean slightly stooped Maldivian man about 65 with weathered warm brown skin, a lined thoughtful face, sharp piercing dark eyes behind small round wire-rimmed glasses, untidy short grey-white hair and a thick bushy grey-white beard; wears a patched long dark-brown coat over a faded grey long-sleeved shirt, dark trousers and fingerless wool gloves.\nMood/lighting: night, harsh pulsing red alarm light flooding from the big monitor across the faces and the table, deep black shadows, a few cold blue glows from smaller screens, urgent and frightening.\nModest clothing (women in loose long-sleeved ankle-length clothing with a hijab fully covering hair and neck; men in long-sleeved shirts or jackets and long trousers), culturally respectful, no guns, no knives, no weapons visible, no violence shown, no blood, no wounds, no gore, no dead bodies, no text, no letters, no numbers, no writing, no screens with readable text, no symbols, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.112,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 29.6,
+    "y_pct": 28.0,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_012",
+   "startMs": 289971,
+   "endMs": 316982,
+   "new_image_reason": "action change: Zail types at lightning speed; streams of green light, then the first attempt fails red",
+   "characters": [
+    "zail"
+   ],
+   "location": "the inside of the old scientist's cluttered underground workshop: a large scratched steel work table, a matte black rugged metal box on it with a cable plugged into its corner, a worn keyboard with blank unmarked keys, old monitors stacked around, the largest monitor facing away from the viewer; every screen shows only soft abstract glowing light and colour, no letters, no numbers, no symbols, no icons",
+   "location_key": "workshop_red",
+   "mood": "night, harsh pulsing red alarm light flooding from the big monitor across the faces and the table, deep black shadows, a few cold blue glows from smaller screens, urgent and frightening",
+   "visual": "Zail hunched at a worn keyboard with blank unmarked keys, his fingers a blur, intense focus; flowing streams of soft green light reflected in his round glasses and on his face, mixing with red; small screens around him glowing with abstract green ripples only",
+   "camera": "medium close-up from beside the screens, his face in the upper half, the keyboard and table as a calm lower third",
+   "image": "images/beat_012.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": "other",
+   "safe_substitution": "'thousands of green numbers and letters' shown only as abstract green light reflected in his glasses",
+   "ambience": "workshop",
+   "shots": [
+    {
+     "id": "shot_031",
+     "startMs": 289971,
+     "endMs": 297761,
+     "narration_dhivehi": "\"މި އެންކްރިޕްޝަން ކޯޑަކީ މީގެ ވިހި އަހަރު ކުރިން އަހަރެންނާއި އަހަރެންގެ ޓީމުން އުފެއްދި ސެކިއުރިޓީ އަލްގޮރިޒަމެއް.",
+     "narration_english": "\"This encryption is a security algorithm that my team and I created twenty years ago.",
+     "crop": "full",
+     "motion": "pan right",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_032",
+     "startMs": 297761,
+     "endMs": 307171,
+     "narration_dhivehi": "މާކަސްގެ މީހުން މީގައި ބަދަލުކޮށްފައި ހުންނާނީ މަދު ކޯޑުތަކެއް.\" ޒައިލްގެ އިނގިލިތައް ވިދުވަރެއްހާ ހަލުވިކަމާއެކު ކީބޯޑުމަތީގައި ނަށަމުން ދިޔައެވެ.",
+     "narration_english": "Marcus's people will only have changed a few codes in it.\" Zail's fingers danced over the keyboard as fast as lightning.",
+     "crop": "tight",
+     "motion": "slow push-in",
+     "sfx": [
+      {
+       "name": "keyboard_typing",
+       "atMs": 304631,
+       "gainDb": -18,
+       "word": "ކީބޯޑުމަތީގައި"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      20.3,
+      4.8,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_033",
+     "startMs": 307171,
+     "endMs": 316982,
+     "narration_dhivehi": "ސްކްރީނުގައި އެތައް ހާސް ފެހި ކުލައިގެ ނަންބަރުތަކާއި އަކުރުތައް ދުވަމުން ދިޔައެވެ. ފުރަތަމަ ފުރުސަތު ފެއިލްވެ، ސްކްރީން ރަތްވި ވަގުތު ދެމީހުންގެ ހިތްވެސް ތެޅިގަތެވެ.",
+     "narration_english": "Thousands of green numbers and letters streamed across the screen. When the first attempt failed and the screen turned red, both their hearts jolted.",
+     "crop": "full",
+     "motion": "pan up",
+     "sfx": [
+      {
+       "name": "alarm_beep",
+       "atMs": 314352,
+       "gainDb": -18,
+       "word": "ރަތްވި"
+      },
+      {
+       "name": "heartbeat",
+       "atMs": 316012,
+       "gainDb": -20,
+       "word": "ތެޅިގަތެވެ."
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Zail), create a new scene: Cinematic semi-realistic digital illustration in a dark gritty dystopian sci-fi style matching a post-apocalyptic underground bunker city: rusted steel walls, pipes, steam and haze, warm amber and sodium-orange work lights against cold steel-blue and teal shadows, the luxurious upper levels in clean white, glass and soft gold light, volumetric light shafts, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and calm, uncluttered space at the bottom (floor, grating, table top, soft shadow) for a logo.\nScene: Zail hunched at a worn keyboard with blank unmarked keys, his fingers a blur, intense focus; flowing streams of soft green light reflected in his round glasses and on his face, mixing with red; small screens around him glowing with abstract green ripples only. Location: the inside of the old scientist's cluttered underground workshop: a large scratched steel work table, a matte black rugged metal box on it with a cable plugged into its corner, a worn keyboard with blank unmarked keys, old monitors stacked around, the largest monitor facing away from the viewer; every screen shows only soft abstract glowing light and colour, no letters, no numbers, no symbols, no icons. Camera: medium close-up from beside the screens, his face in the upper half, the keyboard and table as a calm lower third.\nCharacters: Zail: a lean slightly stooped Maldivian man about 65 with weathered warm brown skin, a lined thoughtful face, sharp piercing dark eyes behind small round wire-rimmed glasses, untidy short grey-white hair and a thick bushy grey-white beard; wears a patched long dark-brown coat over a faded grey long-sleeved shirt, dark trousers and fingerless wool gloves.\nMood/lighting: night, harsh pulsing red alarm light flooding from the big monitor across the faces and the table, deep black shadows, a few cold blue glows from smaller screens, urgent and frightening.\nModest clothing (women in loose long-sleeved ankle-length clothing with a hijab fully covering hair and neck; men in long-sleeved shirts or jackets and long trousers), culturally respectful, no guns, no knives, no weapons visible, no violence shown, no blood, no wounds, no gore, no dead bodies, no text, no letters, no numbers, no writing, no screens with readable text, no symbols, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.144,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 50.0,
+    "y_pct": 40.0,
+    "face_detected": false
+   }
+  },
+  {
+   "id": "beat_013",
+   "startMs": 316982,
+   "endMs": 336932,
+   "new_image_reason": "action change: the power cuts out; in the dark Aira grips a heavy wrench and Zail pulls the backup lever",
+   "characters": [
+    "aira",
+    "zail"
+   ],
+   "location": "the inside of the old scientist's cluttered underground workshop during a power cut: the steel work table, stacked dead monitors and machines barely visible in the darkness, a heavy riveted steel door",
+   "location_key": "workshop_dark",
+   "mood": "a sudden power cut: almost total darkness, only a faint dying red glow from one monitor and cold blue-black shadows, frightening and tense",
+   "visual": "near-total darkness in the workshop: Aira standing tense with a heavy steel wrench gripped in both hands at her chest, eyes searching the dark; a few steps away Zail bending low to pull a big lever under the table, a faint red glow catching the edge of his glasses",
+   "camera": "medium wide, eye level, faces in the upper half, the dark floor as a calm lower third",
+   "image": "images/beat_013.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": "violence",
+   "safe_substitution": "'her hand went to her weapon' shown as Aira gripping a heavy steel wrench (series rule: no weapons)",
+   "ambience": "workshop",
+   "shots": [
+    {
+     "id": "shot_034",
+     "startMs": 316982,
+     "endMs": 327052,
+     "narration_dhivehi": "ދެވަނަ ފަހަރަށް ޒައިލް އިތުރު ކޯޑެއް ޖެހިއެވެ. އެވަގުތު މުޅި ވޯކްޝޮޕްގެ ކަރަންޓު ދިޔައީ ކަނޑައިގެންނެވެ! ކަނު އަނދިރިކަމުގެ ތެރޭގައި އައިރާގެ އަތް އަމިއްލަ ހަތިޔާރަށް ދިޔައެވެ.",
+     "narration_english": "On the second attempt Zail entered another code. At that moment the power in the whole workshop cut out! In the pitch darkness, Aira's hand went to her own weapon.",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [
+      {
+       "name": "power_down",
+       "atMs": 321992,
+       "gainDb": -16,
+       "word": "ކަނޑައިގެންނެވެ!"
+      },
+      {
+       "name": "cloth_rustle",
+       "atMs": 326012,
+       "gainDb": -22,
+       "word": "ހަތިޔާރަށް"
+      }
+     ],
+     "hum": true,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_035",
+     "startMs": 327052,
+     "endMs": 336932,
+     "narration_dhivehi": "\"ކިހިނެއްވީ؟\" \"ބެކަޕް ޖަނަރޭޓަރު އެބަ ސްވިޗްވޭ...\" ޒައިލް އަވަސް އަވަހަށް މޭޒު ދަށުގައިވާ ލީވަރަކަށް ދަމައިގަތެވެ. ވަގުތުން ސްކްރީންތައް އަލުން ދިއްލި،",
+     "narration_english": "\"What happened?\" \"The backup generator is switching over...\" Zail quickly pulled a lever under the table. At once the screens lit up again,",
+     "crop": "tight",
+     "motion": "pan down",
+     "sfx": [
+      {
+       "name": "metal_clang",
+       "atMs": 333612,
+       "gainDb": -20,
+       "word": "ދަމައިގަތެވެ."
+      },
+      {
+       "name": "power_up",
+       "atMs": 336192,
+       "gainDb": -18,
+       "word": "ދިއްލި،"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      40.6,
+      0.0,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Aira; reference image 2 is Zail), create a new scene: Cinematic semi-realistic digital illustration in a dark gritty dystopian sci-fi style matching a post-apocalyptic underground bunker city: rusted steel walls, pipes, steam and haze, warm amber and sodium-orange work lights against cold steel-blue and teal shadows, the luxurious upper levels in clean white, glass and soft gold light, volumetric light shafts, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and calm, uncluttered space at the bottom (floor, grating, table top, soft shadow) for a logo.\nScene: near-total darkness in the workshop: Aira standing tense with a heavy steel wrench gripped in both hands at her chest, eyes searching the dark; a few steps away Zail bending low to pull a big lever under the table, a faint red glow catching the edge of his glasses. Location: the inside of the old scientist's cluttered underground workshop during a power cut: the steel work table, stacked dead monitors and machines barely visible in the darkness, a heavy riveted steel door. Camera: medium wide, eye level, faces in the upper half, the dark floor as a calm lower third.\nCharacters: Aira: a slim athletic Maldivian young woman of 26 with warm brown skin, a determined oval face, large dark intense eyes, straight dark eyebrows and a faint grease smudge on one cheek; wears a loose ankle-length dark olive-brown canvas work coat buttoned to the neck with long sleeves, loose dark trousers and scuffed boots, a charcoal-grey hijab wrapped snugly and fully covering her hair and neck, and a small worn steel tag pendant on a thin chain over her hijab at the chest. Zail: a lean slightly stooped Maldivian man about 65 with weathered warm brown skin, a lined thoughtful face, sharp piercing dark eyes behind small round wire-rimmed glasses, untidy short grey-white hair and a thick bushy grey-white beard; wears a patched long dark-brown coat over a faded grey long-sleeved shirt, dark trousers and fingerless wool gloves.\nMood/lighting: a sudden power cut: almost total darkness, only a faint dying red glow from one monitor and cold blue-black shadows, frightening and tense.\nModest clothing (women in loose long-sleeved ankle-length clothing with a hijab fully covering hair and neck; men in long-sleeved shirts or jackets and long trousers), culturally respectful, no guns, no knives, no weapons visible, no violence shown, no blood, no wounds, no gore, no dead bodies, no text, no letters, no numbers, no writing, no screens with readable text, no symbols, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.033,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 77.4,
+    "y_pct": 33.1,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_014",
+   "startMs": 336932,
+   "endMs": 363453,
+   "new_image_reason": "emotional turning point: the final code works, green light floods the room and the box's lid opens",
+   "characters": [
+    "aira",
+    "zail"
+   ],
+   "location": "the inside of the old scientist's cluttered underground workshop: the large steel work table with an opened matte black metal box on it, old monitors stacked around, the biggest monitor facing away from the viewer and pouring light into the room; every screen shows only soft abstract glowing light and colour, no letters, no numbers, no symbols, no icons",
+   "location_key": "workshop_gold",
+   "mood": "night, the room suddenly flooded with bright clean green and warm golden light pouring from the big monitor onto the faces, dust glittering in the light beams, awe, disbelief and wonder",
+   "visual": "the matte black box on the table with its lid slowly lifting open and a soft light glowing from inside; Aira and Zail leaning in on opposite sides of the table, faces washed with bright green light from the big monitor that faces away from the viewer, Zail's mouth open, Aira holding her breath",
+   "camera": "medium shot, slightly low angle across the table, faces in the upper half, the box and table top lower",
+   "image": "images/beat_014.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": "other",
+   "safe_substitution": "ACCESS GRANTED is never shown: only green light on their faces and the opening box",
+   "ambience": "workshop",
+   "shots": [
+    {
+     "id": "shot_036",
+     "startMs": 336932,
+     "endMs": 349663,
+     "narration_dhivehi": "ބީޕްގެ އަޑު މަޑުވެލިއެވެ. އަދި އެންމެ ފަހު ސިކުންތުކޮޅުގައި، ޒައިލް ފަހު ކޯޑު އެންޓަރ ކޮށްލުމާއެކު، ސްކްރީނަށް ބޮޑު ފެހި ކުލައިގެ މެސެޖެއް އެރިއެވެ: `[ACCESS GRANTED - DECRYPTING ARCHIVE...]`",
+     "narration_english": "and the beeping faded. And in the very last seconds, as Zail entered the final code, a big green message came up on the screen: [ACCESS GRANTED — DECRYPTING ARCHIVE...]",
+     "crop": "full",
+     "motion": "static drift",
+     "sfx": [
+      {
+       "name": "computer_beep",
+       "atMs": 342293,
+       "gainDb": -18,
+       "word": "އެންޓަރ"
+      }
+     ],
+     "hum": true,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_037",
+     "startMs": 349663,
+     "endMs": 363453,
+     "narration_dhivehi": "ފޮށީގެ މަތި މަޑުމަޑު އަޑަކާއެކު ތަޅުދޫވެ، ހުޅުވިގެން ދިޔައެވެ. ސްކްރީނަށް އެޅިގެންދިޔައީ ފާއިތުވި 15 އަހަރު ދުވަހުގެ ލައިވް ސެޓެލައިޓް ޑޭޓާއާއި، ބިމުގެ މަތީ ފަށަލައިގެ އެކި ސަރަޙައްދުތަކުން ނަގާފައިވާ ސާފު،",
+     "narration_english": "With a soft sound the lid of the box unlocked and opened. On the screen appeared live satellite data from the past fifteen years, and clear",
+     "crop": "tight",
+     "motion": "slow push-in",
+     "sfx": [
+      {
+       "name": "box_unlock",
+       "atMs": 351593,
+       "gainDb": -16,
+       "word": "ތަޅުދޫވެ،"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      3.8,
+      0.0,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Aira; reference image 2 is Zail), create a new scene: Cinematic semi-realistic digital illustration in a dark gritty dystopian sci-fi style matching a post-apocalyptic underground bunker city: rusted steel walls, pipes, steam and haze, warm amber and sodium-orange work lights against cold steel-blue and teal shadows, the luxurious upper levels in clean white, glass and soft gold light, volumetric light shafts, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and calm, uncluttered space at the bottom (floor, grating, table top, soft shadow) for a logo.\nScene: the matte black box on the table with its lid slowly lifting open and a soft light glowing from inside; Aira and Zail leaning in on opposite sides of the table, faces washed with bright green light from the big monitor that faces away from the viewer, Zail's mouth open, Aira holding her breath. Location: the inside of the old scientist's cluttered underground workshop: the large steel work table with an opened matte black metal box on it, old monitors stacked around, the biggest monitor facing away from the viewer and pouring light into the room; every screen shows only soft abstract glowing light and colour, no letters, no numbers, no symbols, no icons. Camera: medium shot, slightly low angle across the table, faces in the upper half, the box and table top lower.\nCharacters: Aira: a slim athletic Maldivian young woman of 26 with warm brown skin, a determined oval face, large dark intense eyes, straight dark eyebrows and a faint grease smudge on one cheek; wears a loose ankle-length dark olive-brown canvas work coat buttoned to the neck with long sleeves, loose dark trousers and scuffed boots, a charcoal-grey hijab wrapped snugly and fully covering her hair and neck, and a small worn steel tag pendant on a thin chain over her hijab at the chest. Zail: a lean slightly stooped Maldivian man about 65 with weathered warm brown skin, a lined thoughtful face, sharp piercing dark eyes behind small round wire-rimmed glasses, untidy short grey-white hair and a thick bushy grey-white beard; wears a patched long dark-brown coat over a faded grey long-sleeved shirt, dark trousers and fingerless wool gloves.\nMood/lighting: night, the room suddenly flooded with bright clean green and warm golden light pouring from the big monitor onto the faces, dust glittering in the light beams, awe, disbelief and wonder.\nModest clothing (women in loose long-sleeved ankle-length clothing with a hijab fully covering hair and neck; men in long-sleeved shirts or jackets and long trousers), culturally respectful, no guns, no knives, no weapons visible, no violence shown, no blood, no wounds, no gore, no dead bodies, no text, no letters, no numbers, no writing, no screens with readable text, no symbols, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.154,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 33.5,
+    "y_pct": 29.8,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_015",
+   "startMs": 363453,
+   "endMs": 384734,
+   "new_image_reason": "new framing: the two of them frozen in disbelief in the golden light of the screen",
+   "characters": [
+    "aira",
+    "zail"
+   ],
+   "location": "the inside of the old scientist's cluttered underground workshop: the large steel work table with an opened matte black metal box on it, old monitors stacked around, the biggest monitor facing away from the viewer and pouring light into the room; every screen shows only soft abstract glowing light and colour, no letters, no numbers, no symbols, no icons",
+   "location_key": "workshop_gold",
+   "mood": "night, the room suddenly flooded with bright clean green and warm golden light pouring from the big monitor onto the faces, dust glittering in the light beams, awe, disbelief and wonder",
+   "visual": "Aira and Zail standing side by side at an arm's length apart, frozen, staring at the big monitor that faces away from the viewer, their faces bathed in warm golden and green light; Aira's large eyes wide with disbelief, Zail's glasses reflecting soft green light",
+   "camera": "medium shot from behind the monitor, eye level, both faces in the upper half, the table edge as a calm lower third",
+   "image": "images/beat_015.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "workshop",
+   "shots": [
+    {
+     "id": "shot_038",
+     "startMs": 363453,
+     "endMs": 373374,
+     "narration_dhivehi": "ލައިވް ވީޑިއޯ ފުޓޭޖްތަކެވެ. އައިރާއާއި ޒައިލް އެއްފަހަރާ ސްކްރީނަށް ބަލައިލިއެވެ. އެމީހުންގެ ލޮލަށް ފެންނަމުންދިޔަ މަންޒަރު ގަބޫލުކުރަން ދަތިވެފައި،",
+     "narration_english": "live video footage taken from different parts of the surface. Aira and Zail looked at the screen together. What their eyes were seeing was hard to believe;",
+     "crop": "full",
+     "motion": "pan left",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_039",
+     "startMs": 373374,
+     "endMs": 384734,
+     "narration_dhivehi": "ދެމީހުންނަށް ތިބެވުނީ ހަރަކާތެއްވެސް ކޮށްލަން ނޭނގި، ގަނޑުވެފައެވެ. މޮނިޓަރުން ފެތުރެމުންދިޔަ ރަން އަލީގެ ތެރޭގައި އައިރާ ހުރީ ގަބޫލުކުރަން ދަތިވެފައި ދެލޯ ބޮޑުކޮށްގެންނެވެ.",
+     "narration_english": "the two of them stood frozen, unable to move. In the golden light spreading from the monitor, Aira stood wide-eyed, unable to believe it.",
+     "crop": "tight",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": true,
+     "crop_rect_pct": [
+      0.4,
+      0.0,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Aira; reference image 2 is Zail), create a new scene: Cinematic semi-realistic digital illustration in a dark gritty dystopian sci-fi style matching a post-apocalyptic underground bunker city: rusted steel walls, pipes, steam and haze, warm amber and sodium-orange work lights against cold steel-blue and teal shadows, the luxurious upper levels in clean white, glass and soft gold light, volumetric light shafts, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and calm, uncluttered space at the bottom (floor, grating, table top, soft shadow) for a logo.\nScene: Aira and Zail standing side by side at an arm's length apart, frozen, staring at the big monitor that faces away from the viewer, their faces bathed in warm golden and green light; Aira's large eyes wide with disbelief, Zail's glasses reflecting soft green light. Location: the inside of the old scientist's cluttered underground workshop: the large steel work table with an opened matte black metal box on it, old monitors stacked around, the biggest monitor facing away from the viewer and pouring light into the room; every screen shows only soft abstract glowing light and colour, no letters, no numbers, no symbols, no icons. Camera: medium shot from behind the monitor, eye level, both faces in the upper half, the table edge as a calm lower third.\nCharacters: Aira: a slim athletic Maldivian young woman of 26 with warm brown skin, a determined oval face, large dark intense eyes, straight dark eyebrows and a faint grease smudge on one cheek; wears a loose ankle-length dark olive-brown canvas work coat buttoned to the neck with long sleeves, loose dark trousers and scuffed boots, a charcoal-grey hijab wrapped snugly and fully covering her hair and neck, and a small worn steel tag pendant on a thin chain over her hijab at the chest. Zail: a lean slightly stooped Maldivian man about 65 with weathered warm brown skin, a lined thoughtful face, sharp piercing dark eyes behind small round wire-rimmed glasses, untidy short grey-white hair and a thick bushy grey-white beard; wears a patched long dark-brown coat over a faded grey long-sleeved shirt, dark trousers and fingerless wool gloves.\nMood/lighting: night, the room suddenly flooded with bright clean green and warm golden light pouring from the big monitor onto the faces, dust glittering in the light beams, awe, disbelief and wonder.\nModest clothing (women in loose long-sleeved ankle-length clothing with a hijab fully covering hair and neck; men in long-sleeved shirts or jackets and long trousers), culturally respectful, no guns, no knives, no weapons visible, no violence shown, no blood, no wounds, no gore, no dead bodies, no text, no letters, no numbers, no writing, no screens with readable text, no symbols, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.141,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 30.1,
+    "y_pct": 28.8,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_016",
+   "startMs": 384734,
+   "endMs": 409955,
+   "new_image_reason": "scene change: the live footage from the surface fills the frame — blue sky, green valleys, rivers",
+   "characters": [],
+   "location": "the open surface of the earth seen as live footage: a wide healed landscape under a clear blue sky, lush deep-green valleys and forested hills, a clean sparkling river winding between trees, no buildings, no people",
+   "location_key": "surface",
+   "mood": "bright clear daylight, fresh natural colours, deep blue sky with soft white clouds, sunlight sparkling on the river, peaceful, hopeful and astonishing",
+   "visual": "a breathtaking healed landscape: a clear blue sky with soft white clouds above lush deep-green valleys and forested hills, a clean sparkling river winding through the trees, sunlight on the water; no people, no buildings, no text",
+   "camera": "wide aerial view, the sky and hills in the upper two-thirds, the calm river and meadow as a calm lower third",
+   "image": "images/beat_016.png",
+   "reuse_of": null,
+   "transition_in": "dissolve",
+   "sensitive": "other",
+   "safe_substitution": "the radiation meter numbers are not shown; only the clean landscape",
+   "ambience": "surface_green",
+   "shots": [
+    {
+     "id": "shot_040",
+     "startMs": 384734,
+     "endMs": 391075,
+     "narration_dhivehi": "ސްކްރީނުން ފެންނަމުންދިޔައީ ކައުންސިލްގެ ލީޑަރު މާކަސް ދައްކާ އަނދަމުންދާ ނަރަކައެއް ނޫނެވެ.",
+     "narration_english": "What the screen showed was not the burning hell that the Council's leader Marcus shows them.",
+     "crop": "full",
+     "motion": "pan right",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_041",
+     "startMs": 391075,
+     "endMs": 400125,
+     "narration_dhivehi": "އޭގެ ބަދަލުގައި ފެންނަމުން ދިޔައީ ސާފު ނޫ އުޑަކާއި، ފެހިކަން ގަދަ ވާދީތަކާއި، ގަސްތަކުގެ މެދުން ދެމެމުންދިޔަ ސާފު ފެންކޯރުތަކެވެ.",
+     "narration_english": "Instead it showed a clear blue sky, deep green valleys, and clean rivers flowing between the trees.",
+     "crop": "tight",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": true,
+     "crop_rect_pct": [
+      20.3,
+      4.8,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_042",
+     "startMs": 400125,
+     "endMs": 409955,
+     "narration_dhivehi": "އެ މަންޒަރުތަކުގެ މަތީގައި ދުވަމުންދިޔަ ރޭޑިއޭޝަން މީޓަރުގެ ނަންބަރުތައް ހުރީ ފެހި ކުލައިގައެވެ. އިންސާނަކަށް އެއްވެސް ނުރައްކަލެއް ނެތް މިންވަރަށް ވުރެވެސް ދަށުގައެވެ.",
+     "narration_english": "The radiation meter readings running over those scenes were green — lower even than any level that could harm a human being.",
+     "crop": "full",
+     "motion": "pan up",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Cinematic semi-realistic digital illustration in a dark gritty dystopian sci-fi style matching a post-apocalyptic underground bunker city: rusted steel walls, pipes, steam and haze, warm amber and sodium-orange work lights against cold steel-blue and teal shadows, the luxurious upper levels in clean white, glass and soft gold light, volumetric light shafts, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and calm, uncluttered space at the bottom (floor, grating, table top, soft shadow) for a logo.\nScene: a breathtaking healed landscape: a clear blue sky with soft white clouds above lush deep-green valleys and forested hills, a clean sparkling river winding through the trees, sunlight on the water; no people, no buildings, no text. Location: the open surface of the earth seen as live footage: a wide healed landscape under a clear blue sky, lush deep-green valleys and forested hills, a clean sparkling river winding between trees, no buildings, no people. Camera: wide aerial view, the sky and hills in the upper two-thirds, the calm river and meadow as a calm lower third.\nMood/lighting: bright clear daylight, fresh natural colours, deep blue sky with soft white clouds, sunlight sparkling on the river, peaceful, hopeful and astonishing.\nModest clothing (women in loose long-sleeved ankle-length clothing with a hijab fully covering hair and neck; men in long-sleeved shirts or jackets and long trousers), culturally respectful, no guns, no knives, no weapons visible, no violence shown, no blood, no wounds, no gore, no dead bodies, no text, no letters, no numbers, no writing, no screens with readable text, no symbols, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.446,
+    "halo": true
+   },
+   "focus": {
+    "x_pct": 50.0,
+    "y_pct": 40.0,
+    "face_detected": false
+   }
+  },
+  {
+   "id": "beat_017",
+   "startMs": 409955,
+   "endMs": 429246,
+   "new_image_reason": "action change: Aira reaches out and touches the green trees on the screen",
+   "characters": [
+    "aira"
+   ],
+   "location": "the inside of the old scientist's cluttered underground workshop: the large steel work table with an opened matte black metal box on it, old monitors stacked around, the biggest monitor facing away from the viewer and pouring light into the room; every screen shows only soft abstract glowing light and colour, no letters, no numbers, no symbols, no icons",
+   "location_key": "workshop_gold",
+   "mood": "night, the room suddenly flooded with bright clean green and warm golden light pouring from the big monitor onto the faces, dust glittering in the light beams, awe, disbelief and wonder",
+   "visual": "Aira reaching out slowly with trembling fingertips to touch the glowing glass of an old monitor that shows only green trees and blue sky, her face lit soft green and gold, eyes glistening with tears and wonder",
+   "camera": "medium close-up from the side, her face and hand in the upper half, the dark table edge as a calm lower third",
+   "image": "images/beat_017.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "workshop",
+   "shots": [
+    {
+     "id": "shot_043",
+     "startMs": 409955,
+     "endMs": 420896,
+     "narration_dhivehi": "\"މިއީ... މިއީ ހަގީގަތެއްތަ؟\" އައިރާގެ އަޑު ތުރުތުރުއަޅައިގެން ދިޔައެވެ. އޭނާ މަޑުމަޑުން އަތްދިއްކޮށް، ސްކްރީނުގައި ފެންނަން ހުރި ފެހި ގަސްތަކުގައި އިނގިލި ޖައްސާލިއެވެ.",
+     "narration_english": "\"Is this... is this real?\" Aira's voice trembled. She slowly reached out and touched her finger to the green trees on the screen.",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_044",
+     "startMs": 420896,
+     "endMs": 429246,
+     "narration_dhivehi": "\"އަހަރެމެން ކުޑައިރުއްސުރެ ކިޔައިދިން ވާހަކައަކީ ދޮގެއްތަ؟ މަތީގައި އެއްވެސް ވިހައެއް ނެތްތަ؟\" ޒައިލް ފުން ނޭވާއެއް ދޫކޮށްލިއެވެ.",
+     "narration_english": "\"Was the story we were told since we were small a lie? Is there no poison up there?\" Zail let out a deep breath.",
+     "crop": "tight",
+     "motion": "pan down",
+     "sfx": [
+      {
+       "name": "sigh",
+       "atMs": 427916,
+       "gainDb": -22,
+       "word": "ނޭވާއެއް"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      16.4,
+      0.0,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Aira), create a new scene: Cinematic semi-realistic digital illustration in a dark gritty dystopian sci-fi style matching a post-apocalyptic underground bunker city: rusted steel walls, pipes, steam and haze, warm amber and sodium-orange work lights against cold steel-blue and teal shadows, the luxurious upper levels in clean white, glass and soft gold light, volumetric light shafts, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and calm, uncluttered space at the bottom (floor, grating, table top, soft shadow) for a logo.\nScene: Aira reaching out slowly with trembling fingertips to touch the glowing glass of an old monitor that shows only green trees and blue sky, her face lit soft green and gold, eyes glistening with tears and wonder. Location: the inside of the old scientist's cluttered underground workshop: the large steel work table with an opened matte black metal box on it, old monitors stacked around, the biggest monitor facing away from the viewer and pouring light into the room; every screen shows only soft abstract glowing light and colour, no letters, no numbers, no symbols, no icons. Camera: medium close-up from the side, her face and hand in the upper half, the dark table edge as a calm lower third.\nCharacters: Aira: a slim athletic Maldivian young woman of 26 with warm brown skin, a determined oval face, large dark intense eyes, straight dark eyebrows and a faint grease smudge on one cheek; wears a loose ankle-length dark olive-brown canvas work coat buttoned to the neck with long sleeves, loose dark trousers and scuffed boots, a charcoal-grey hijab wrapped snugly and fully covering her hair and neck, and a small worn steel tag pendant on a thin chain over her hijab at the chest.\nMood/lighting: night, the room suddenly flooded with bright clean green and warm golden light pouring from the big monitor onto the faces, dust glittering in the light beams, awe, disbelief and wonder.\nModest clothing (women in loose long-sleeved ankle-length clothing with a hijab fully covering hair and neck; men in long-sleeved shirts or jackets and long trousers), culturally respectful, no guns, no knives, no weapons visible, no violence shown, no blood, no wounds, no gore, no dead bodies, no text, no letters, no numbers, no writing, no screens with readable text, no symbols, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.128,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 46.1,
+    "y_pct": 25.1,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_018",
+   "startMs": 429246,
+   "endMs": 456057,
+   "new_image_reason": "scene change (illustrative cutaway): Marcus's weekly broadcast of fake burning-wasteland footage to Sector 7",
+   "characters": [
+    "marcus"
+   ],
+   "location": "a large grim communal hall in the underground Sector 7: rusted steel walls, pipes and steam, a huge old screen mounted high on the wall, rows of exhausted workers in grey work clothes standing below it",
+   "location_key": "s7_hall",
+   "mood": "dim cold grey light, the big screen pouring a fake fiery orange glow over the tired faces below, oppressive and deceitful",
+   "visual": "Marcus seen on a huge old screen high on the rusted wall of a grim hall, standing calm and stern in his cream-white gold-trimmed coat in front of a fake background of an orange-glowing ruined wasteland under ash clouds; below, rows of exhausted workers seen from behind look up at him in silence",
+   "camera": "wide shot, low angle, the screen with Marcus in the upper half, the workers' backs and the grey floor as a calm lower third",
+   "image": "images/beat_018.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": "other",
+   "safe_substitution": "the fake 'burning hell' footage is an empty glowing wasteland with no people; no text on the screen",
+   "ambience": "bunker_machinery",
+   "shots": [
+    {
+     "id": "shot_045",
+     "startMs": 429246,
+     "endMs": 438816,
+     "narration_dhivehi": "އޭނާގެ ދެލޮލުން ފެންނަމުންދިޔައީ ރުޅިވެރިކަމާއި ފުން ހިތާމައިގެ އަސަރެވެ. \"ފާއިތުވި ފަނަރަ އަހަރު ދުވަހު ބިމުގެ މަތީގެ ތިމާވެށި ވަނީ އަމިއްލައަށް އިޔާދަވެ،",
+     "narration_english": "His eyes showed anger and deep sorrow. \"Over the past fifteen years the surface environment has recovered by itself",
+     "crop": "full",
+     "motion": "static drift",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_046",
+     "startMs": 438816,
+     "endMs": 448877,
+     "narration_dhivehi": "ރަނގަޅުވެފައި. އެކަމަކު ކޮންމެ ހަފްތާއަކު ޓީވީ ސްކްރީންތަކުން މާކަސް ދައްކަނީ ކުރީގެ ރެކޯޑިންގތަކާއި ކޮމްޕިއުޓަރުން ހަދާފައިވާ ދޮގު ވިޝުއަލްތައް.",
+     "narration_english": "and healed. But every week Marcus shows old recordings and computer-made fake visuals on the TV screens.",
+     "crop": "tight",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      20.7,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_047",
+     "startMs": 448877,
+     "endMs": 456057,
+     "narration_dhivehi": "އޭނާ މުޅި ރައްޔިތުން ގެންގުޅެނީ ބިރުވެރިކަމުގެ ޖަލެއްގައި ބަންދުކޮށްގެން.\" \"މިއީ ކީއްވެ ކުރާ ކަމެއް، ޒައިލް؟\"",
+     "narration_english": "He keeps the whole population locked in a prison of fear.\" \"Why would he do this, Zail?\"",
+     "crop": "full",
+     "motion": "pan left",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Marcus), create a new scene: Cinematic semi-realistic digital illustration in a dark gritty dystopian sci-fi style matching a post-apocalyptic underground bunker city: rusted steel walls, pipes, steam and haze, warm amber and sodium-orange work lights against cold steel-blue and teal shadows, the luxurious upper levels in clean white, glass and soft gold light, volumetric light shafts, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and calm, uncluttered space at the bottom (floor, grating, table top, soft shadow) for a logo.\nScene: Marcus seen on a huge old screen high on the rusted wall of a grim hall, standing calm and stern in his cream-white gold-trimmed coat in front of a fake background of an orange-glowing ruined wasteland under ash clouds; below, rows of exhausted workers seen from behind look up at him in silence. Location: a large grim communal hall in the underground Sector 7: rusted steel walls, pipes and steam, a huge old screen mounted high on the wall, rows of exhausted workers in grey work clothes standing below it. Camera: wide shot, low angle, the screen with Marcus in the upper half, the workers' backs and the grey floor as a calm lower third.\nCharacters: Marcus: a heavy-set upright Maldivian man about 60 with warm brown skin, a smooth well-fed face, cold heavy-lidded dark eyes, thin lips, silver hair slicked back and a neatly trimmed silver goatee; wears a tailored long-sleeved cream-white high-collared long coat with fine gold trim over dark trousers.\nMood/lighting: dim cold grey light, the big screen pouring a fake fiery orange glow over the tired faces below, oppressive and deceitful.\nModest clothing (women in loose long-sleeved ankle-length clothing with a hijab fully covering hair and neck; men in long-sleeved shirts or jackets and long trousers), culturally respectful, no guns, no knives, no weapons visible, no violence shown, no blood, no wounds, no gore, no dead bodies, no text, no letters, no numbers, no writing, no screens with readable text, no symbols, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.189,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 50.4,
+    "y_pct": 21.4,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_019",
+   "startMs": 456057,
+   "endMs": 474428,
+   "new_image_reason": "emotional turning point: a tear falls from Aira's eye as she asks why",
+   "characters": [
+    "aira",
+    "zail"
+   ],
+   "location": "the inside of the old scientist's cluttered underground workshop: the large steel work table with an opened matte black metal box on it, old monitors stacked around, the biggest monitor facing away from the viewer and pouring light into the room; every screen shows only soft abstract glowing light and colour, no letters, no numbers, no symbols, no icons",
+   "location_key": "workshop_gold",
+   "mood": "night, the room suddenly flooded with bright clean green and warm golden light pouring from the big monitor onto the faces, dust glittering in the light beams, awe, disbelief and wonder",
+   "visual": "close view of Aira's face, a single tear running down her cheek, her eyes full of grief and anger, soft green-gold screen light on one side of her face; Zail out of focus in the background rising from his chair",
+   "camera": "close-up, eye level, her face in the upper half, her coat collar and pendant lower",
+   "image": "images/beat_019.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "workshop",
+   "shots": [
+    {
+     "id": "shot_048",
+     "startMs": 456057,
+     "endMs": 465257,
+     "narration_dhivehi": "އައިރާގެ ލޮލުން ކަރުނައިގެ ތިއްކެއް ކޯތާފަތްމައްޗަށް ވެއްޓުނެވެ. \"އަހަރެމެންގެ މައިންބަފައިންނާއި، މި ސެކްޓަރގެ އެތައް ހާސް ބަޔަކު އަނދިރީގައި،",
+     "narration_english": "A tear fell from Aira's eye onto her cheek. \"Our parents, and thousands of people in this sector, in the dark —",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [
+      {
+       "name": "sob_breath",
+       "atMs": 457357,
+       "gainDb": -24,
+       "word": "ކަރުނައިގެ"
+      }
+     ],
+     "hum": true,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_049",
+     "startMs": 465257,
+     "endMs": 474428,
+     "narration_dhivehi": "ބަލިމަޑުކަމާއި ބަނޑުހައިހޫނުކަމުގައި މި ތަހައްމަލުކުރާ ވޭނުގެ ބޭނުމަކީ ކޮބާ؟\" ޒައިލް ގޮނޑިން ތެދުވެ، މޭޒުމަތީގައި ދެއަތް ވިއްދާލިއެވެ.",
+     "narration_english": "what is the point of all the pain we endure in sickness and hunger?\" Zail rose from his chair and spread both hands on the table.",
+     "crop": "tight",
+     "motion": "pan right",
+     "sfx": [
+      {
+       "name": "cloth_rustle",
+       "atMs": 471858,
+       "gainDb": -24,
+       "word": "ތެދުވެ،"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.2,
+      0.0,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Aira; reference image 2 is Zail), create a new scene: Cinematic semi-realistic digital illustration in a dark gritty dystopian sci-fi style matching a post-apocalyptic underground bunker city: rusted steel walls, pipes, steam and haze, warm amber and sodium-orange work lights against cold steel-blue and teal shadows, the luxurious upper levels in clean white, glass and soft gold light, volumetric light shafts, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and calm, uncluttered space at the bottom (floor, grating, table top, soft shadow) for a logo.\nScene: close view of Aira's face, a single tear running down her cheek, her eyes full of grief and anger, soft green-gold screen light on one side of her face; Zail out of focus in the background rising from his chair. Location: the inside of the old scientist's cluttered underground workshop: the large steel work table with an opened matte black metal box on it, old monitors stacked around, the biggest monitor facing away from the viewer and pouring light into the room; every screen shows only soft abstract glowing light and colour, no letters, no numbers, no symbols, no icons. Camera: close-up, eye level, her face in the upper half, her coat collar and pendant lower.\nCharacters: Aira: a slim athletic Maldivian young woman of 26 with warm brown skin, a determined oval face, large dark intense eyes, straight dark eyebrows and a faint grease smudge on one cheek; wears a loose ankle-length dark olive-brown canvas work coat buttoned to the neck with long sleeves, loose dark trousers and scuffed boots, a charcoal-grey hijab wrapped snugly and fully covering her hair and neck, and a small worn steel tag pendant on a thin chain over her hijab at the chest. Zail: a lean slightly stooped Maldivian man about 65 with weathered warm brown skin, a lined thoughtful face, sharp piercing dark eyes behind small round wire-rimmed glasses, untidy short grey-white hair and a thick bushy grey-white beard; wears a patched long dark-brown coat over a faded grey long-sleeved shirt, dark trousers and fingerless wool gloves.\nMood/lighting: night, the room suddenly flooded with bright clean green and warm golden light pouring from the big monitor onto the faces, dust glittering in the light beams, awe, disbelief and wonder.\nModest clothing (women in loose long-sleeved ankle-length clothing with a hijab fully covering hair and neck; men in long-sleeved shirts or jackets and long trousers), culturally respectful, no guns, no knives, no weapons visible, no violence shown, no blood, no wounds, no gore, no dead bodies, no text, no letters, no numbers, no writing, no screens with readable text, no symbols, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.133,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 36.9,
+    "y_pct": 32.2,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_020",
+   "startMs": 474428,
+   "endMs": 505159,
+   "new_image_reason": "action change: Zail stands with both palms on the table and explains Marcus's power; Aira bows her head",
+   "characters": [
+    "zail",
+    "aira"
+   ],
+   "location": "the inside of an old exiled scientist's cluttered underground workshop in a ruined factory: a large scratched steel work table in the middle, piles of electrical parts, coils of wire, circuit boards and strange old machines, many old monitors of different sizes stacked around the room, rusted steel walls, a heavy riveted steel door, a hanging work lamp; every screen shows only soft abstract glowing light and colour, no letters, no numbers, no symbols, no icons",
+   "location_key": "workshop",
+   "mood": "night, dim cold blue glow from the many old monitors mixed with one warm amber hanging work lamp, dust and thin solder smoke hanging in the air, secretive, tense and curious",
+   "visual": "Zail standing behind the steel table leaning forward on both spread palms, speaking with grim intensity, his eyes burning behind his round glasses; on the other side of the table Aira with her head bowed and jaw clenched, one fist resting hard on the table top; the opened black box between them",
+   "camera": "medium wide, eye level, faces in the upper half, the table top as a calm lower third",
+   "image": "images/beat_020.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "workshop",
+   "shots": [
+    {
+     "id": "shot_050",
+     "startMs": 474428,
+     "endMs": 486678,
+     "narration_dhivehi": "\"ސަބަބަކީ ބާރާއި އަޅުވެތިކަން، އައިރާ. މީހުން މަރުގެ ބިރުވެރިކަމެއްގެ ތެރޭގައި ތިބޭހާ ހިނދަކު، ސަރުކާރުން ދޭ މަދު ކާބޯތަކޮޅަށާއި ކުޑަ އޮކްސިޖަން ކޮޅަށް ޝުކުރުވެރިވެ، ބަސްއަހައިގެން ތިބޭނެ.",
+     "narration_english": "\"The reason is power and slavery, Aira. As long as people live in fear of death, they will be grateful for the little food and little oxygen the government gives them, and they will obey.",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_051",
+     "startMs": 486678,
+     "endMs": 494989,
+     "narration_dhivehi": "އެމީހުންނަށް ބިމުގެ މަތީގައި ސާފު ވައި އޮތްކަން އެނގިއްޖެނަމަ، އެއްވެސް މީހަކު މާކަސްގެ މި އަނދިރި ރަސްކަމަކަށް ކިޔަމަނެއް ނުވާނެ.",
+     "narration_english": "If they knew there was clean air on the surface, no one would obey Marcus's dark kingdom.",
+     "crop": "tight",
+     "motion": "pan up",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      20.3,
+      4.8,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_052",
+     "startMs": 494989,
+     "endMs": 505159,
+     "narration_dhivehi": "މަތީ ފަންތީގެ މުއްސަނދިންނަށް އަޅުންގެ ގޮތުގައި މަސައްކަތްކުރާނެ ބަޔަކު ނުތިބޭނެ.\" އައިރާ ދަތްކުނިވިކާލުމަށްފަހު މޭޒުމަތީގައި ގޮށްމުށުން ޖަހާ އިސްޖަހާލިއެވެ.",
+     "narration_english": "There would be nobody left to work as slaves for the rich of the upper level.\" Aira clenched her teeth and bowed her head, her fist on the table.",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [
+      {
+       "name": "soft_thud",
+       "atMs": 503339,
+       "gainDb": -22,
+       "word": "ގޮށްމުށުން"
+      }
+     ],
+     "hum": true,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Zail; reference image 2 is Aira), create a new scene: Cinematic semi-realistic digital illustration in a dark gritty dystopian sci-fi style matching a post-apocalyptic underground bunker city: rusted steel walls, pipes, steam and haze, warm amber and sodium-orange work lights against cold steel-blue and teal shadows, the luxurious upper levels in clean white, glass and soft gold light, volumetric light shafts, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and calm, uncluttered space at the bottom (floor, grating, table top, soft shadow) for a logo.\nScene: Zail standing behind the steel table leaning forward on both spread palms, speaking with grim intensity, his eyes burning behind his round glasses; on the other side of the table Aira with her head bowed and jaw clenched, one fist resting hard on the table top; the opened black box between them. Location: the inside of an old exiled scientist's cluttered underground workshop in a ruined factory: a large scratched steel work table in the middle, piles of electrical parts, coils of wire, circuit boards and strange old machines, many old monitors of different sizes stacked around the room, rusted steel walls, a heavy riveted steel door, a hanging work lamp; every screen shows only soft abstract glowing light and colour, no letters, no numbers, no symbols, no icons. Camera: medium wide, eye level, faces in the upper half, the table top as a calm lower third.\nCharacters: Zail: a lean slightly stooped Maldivian man about 65 with weathered warm brown skin, a lined thoughtful face, sharp piercing dark eyes behind small round wire-rimmed glasses, untidy short grey-white hair and a thick bushy grey-white beard; wears a patched long dark-brown coat over a faded grey long-sleeved shirt, dark trousers and fingerless wool gloves. Aira: a slim athletic Maldivian young woman of 26 with warm brown skin, a determined oval face, large dark intense eyes, straight dark eyebrows and a faint grease smudge on one cheek; wears a loose ankle-length dark olive-brown canvas work coat buttoned to the neck with long sleeves, loose dark trousers and scuffed boots, a charcoal-grey hijab wrapped snugly and fully covering her hair and neck, and a small worn steel tag pendant on a thin chain over her hijab at the chest.\nMood/lighting: night, dim cold blue glow from the many old monitors mixed with one warm amber hanging work lamp, dust and thin solder smoke hanging in the air, secretive, tense and curious.\nModest clothing (women in loose long-sleeved ankle-length clothing with a hijab fully covering hair and neck; men in long-sleeved shirts or jackets and long trousers), culturally respectful, no guns, no knives, no weapons visible, no violence shown, no blood, no wounds, no gore, no dead bodies, no text, no letters, no numbers, no writing, no screens with readable text, no symbols, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.194,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 50.0,
+    "y_pct": 40.0,
+    "face_detected": false
+   }
+  },
+  {
+   "id": "beat_021",
+   "startMs": 505159,
+   "endMs": 533450,
+   "new_image_reason": "action change: Zail spots a red folder, clicks it open and red light floods his face",
+   "characters": [
+    "zail",
+    "aira"
+   ],
+   "location": "the inside of the old scientist's cluttered underground workshop: a large scratched steel work table, a matte black rugged metal box on it with a cable plugged into its corner, a worn keyboard with blank unmarked keys, old monitors stacked around, the largest monitor facing away from the viewer; every screen shows only soft abstract glowing light and colour, no letters, no numbers, no symbols, no icons",
+   "location_key": "workshop_red",
+   "mood": "night, harsh pulsing red alarm light flooding from the big monitor across the faces and the table, deep black shadows, a few cold blue glows from smaller screens, urgent and frightening",
+   "visual": "Zail gripping an old computer mouse, leaning close to a monitor that faces away from the viewer, his face suddenly bathed in deep red light, eyes narrowed in alarm; Aira a step behind him, watching his face anxiously",
+   "camera": "medium close-up, eye level, faces in the upper half, the desk with the mouse as a calm lower third",
+   "image": "images/beat_021.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": "other",
+   "safe_substitution": "the red folder and PROJECT CLEANSLATE title are never shown: only red light on their faces",
+   "ambience": "workshop",
+   "shots": [
+    {
+     "id": "shot_053",
+     "startMs": 505159,
+     "endMs": 511979,
+     "narration_dhivehi": "ނަމަވެސް އެވަގުތު ޒައިލްގެ ދެލޯ ކުއްލިއަކަށް ސްކްރީނުގެ ތިރީގައިވާ ރަތް ކުލައިގެ ފޯލްޑަރަކަށް ހުއްޓުނެވެ.",
+     "narration_english": "But at that moment Zail's eyes suddenly stopped on a red folder at the bottom of the screen.",
+     "crop": "full",
+     "motion": "pan down",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_054",
+     "startMs": 511979,
+     "endMs": 521400,
+     "narration_dhivehi": "އެ ފޯލްޑަރުގެ މަތީގައި ޖަހާފައިވަނީ އެންމެ މަތީ ދަރަޖައިގެ ސިއްރު ރަމްޒެކެވެ. \"މަޑުކޮށްބަލަ...\" ޒައިލް އަވަސް އަވަހަށް މައުސް ހިންގާލަމުން އެ ފައިލް ހުޅުވާލިއެވެ.",
+     "narration_english": "On that folder was the highest-level secret classification mark. \"Wait...\" Zail quickly moved the mouse and opened the file.",
+     "crop": "tight",
+     "motion": "static drift",
+     "sfx": [
+      {
+       "name": "computer_beep",
+       "atMs": 520600,
+       "gainDb": -20,
+       "word": "ހުޅުވާލިއެވެ."
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      40.6,
+      1.7,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_055",
+     "startMs": 521400,
+     "endMs": 533450,
+     "narration_dhivehi": "\"މީގައި އިތުރު އެއްޗެއް އެބައޮތް.\" ސްކްރީނަށް ބޮޑު އަކުރުން އަރައިގެން އައީ އެންމެ ޖުމްލައެކެވެ: `[PROJECT CLEANSATE: FINAL PHASE PROTOCOL]` ފައިލް ހުޅުވިގެން ދިޔުމާއެކު،",
+     "narration_english": "\"There's something more in here.\" One single phrase came up on the screen in big letters: [PROJECT CLEANSLATE: FINAL PHASE PROTOCOL]. As the file opened,",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": true,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Zail; reference image 2 is Aira), create a new scene: Cinematic semi-realistic digital illustration in a dark gritty dystopian sci-fi style matching a post-apocalyptic underground bunker city: rusted steel walls, pipes, steam and haze, warm amber and sodium-orange work lights against cold steel-blue and teal shadows, the luxurious upper levels in clean white, glass and soft gold light, volumetric light shafts, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and calm, uncluttered space at the bottom (floor, grating, table top, soft shadow) for a logo.\nScene: Zail gripping an old computer mouse, leaning close to a monitor that faces away from the viewer, his face suddenly bathed in deep red light, eyes narrowed in alarm; Aira a step behind him, watching his face anxiously. Location: the inside of the old scientist's cluttered underground workshop: a large scratched steel work table, a matte black rugged metal box on it with a cable plugged into its corner, a worn keyboard with blank unmarked keys, old monitors stacked around, the largest monitor facing away from the viewer; every screen shows only soft abstract glowing light and colour, no letters, no numbers, no symbols, no icons. Camera: medium close-up, eye level, faces in the upper half, the desk with the mouse as a calm lower third.\nCharacters: Zail: a lean slightly stooped Maldivian man about 65 with weathered warm brown skin, a lined thoughtful face, sharp piercing dark eyes behind small round wire-rimmed glasses, untidy short grey-white hair and a thick bushy grey-white beard; wears a patched long dark-brown coat over a faded grey long-sleeved shirt, dark trousers and fingerless wool gloves. Aira: a slim athletic Maldivian young woman of 26 with warm brown skin, a determined oval face, large dark intense eyes, straight dark eyebrows and a faint grease smudge on one cheek; wears a loose ankle-length dark olive-brown canvas work coat buttoned to the neck with long sleeves, loose dark trousers and scuffed boots, a charcoal-grey hijab wrapped snugly and fully covering her hair and neck, and a small worn steel tag pendant on a thin chain over her hijab at the chest.\nMood/lighting: night, harsh pulsing red alarm light flooding from the big monitor across the faces and the table, deep black shadows, a few cold blue glows from smaller screens, urgent and frightening.\nModest clothing (women in loose long-sleeved ankle-length clothing with a hijab fully covering hair and neck; men in long-sleeved shirts or jackets and long trousers), culturally respectful, no guns, no knives, no weapons visible, no violence shown, no blood, no wounds, no gore, no dead bodies, no text, no letters, no numbers, no writing, no screens with readable text, no symbols, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.096,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 72.7,
+    "y_pct": 37.0,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_022",
+   "startMs": 533450,
+   "endMs": 570461,
+   "new_image_reason": "new framing: the screen itself — a glowing map of Sector 7's tunnels with red smoke spreading through the vents",
+   "characters": [],
+   "location": "the inside of the old scientist's cluttered underground workshop: a large scratched steel work table, a matte black rugged metal box on it with a cable plugged into its corner, a worn keyboard with blank unmarked keys, old monitors stacked around, the largest monitor facing away from the viewer; every screen shows only soft abstract glowing light and colour, no letters, no numbers, no symbols, no icons",
+   "location_key": "workshop_red",
+   "mood": "night, harsh pulsing red alarm light flooding from the big monitor across the faces and the table, deep black shadows, a few cold blue glows from smaller screens, urgent and frightening",
+   "visual": "an object-only still life with absolutely no people, no faces and no figures anywhere: an old monitor screen filling almost the whole frame, standing on a dark empty table in an empty dark room, showing a glowing blue line-drawing map of a maze of tunnels and ventilation ducts seen in cross-section, with thick red smoke spreading through the ducts like veins; abstract shapes only, no letters, no numbers, no symbols; a faint red reflection on the dark table below",
+   "camera": "close-up straight on, the glowing map in the upper two-thirds, the dark table top as a calm lower third",
+   "image": "images/beat_022.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": "violence",
+   "safe_substitution": "the neurotoxin plan is shown only as abstract red smoke on a map of empty tunnels; no people",
+   "ambience": "workshop",
+   "shots": [
+    {
+     "id": "shot_056",
+     "startMs": 533450,
+     "endMs": 546381,
+     "narration_dhivehi": "ޒައިލްގެ މޫނުމަތިން ލޭގެ ކުލަ ފިލައިގެން ދިޔައެވެ. ސްކްރީނުގައި ވަނީ ސެކްޓަރ 7 ގެ ޗާޓެކެވެ. އަދި އެ ޗާޓުގެ މައި ވެންޓިލޭޝަން ހޮޅިތަކަށް ރަތް ކުލައިގެ ދުންތަކެއް ފެތުރިގެންދާ ގޮތް ދައްކުވައިދޭ އެނިމޭޝަނެކެވެ.",
+     "narration_english": "the blood drained from Zail's face. On the screen was a chart of Sector 7, and an animation showing red smoke spreading into the chart's main ventilation pipes.",
+     "crop": "full",
+     "motion": "pan left",
+     "sfx": [],
+     "hum": true,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_057",
+     "startMs": 546381,
+     "endMs": 554371,
+     "narration_dhivehi": "\"މިއީ... މިއީ ކޮން އެއްޗެއް؟\" އައިރާ ހާސްވެފައި އަހައިލިއެވެ. ޒައިލްގެ ތުންފަތް ތުރުތުރުއަޅަމުން ދިޔައެވެ. \"އައިރާ...",
+     "narration_english": "\"What... what is this?\" Aira asked in alarm. Zail's lips were trembling. \"Aira...",
+     "crop": "tight",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      20.3,
+      4.8,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_058",
+     "startMs": 554371,
+     "endMs": 561151,
+     "narration_dhivehi": "މާކަސްގެ ރޭވުމަކީ ހަމައެކަނި ދޮގު ހެދުމެއް ނޫން. ބިންގަރާހަށް 50 އަހަރު ފުރޭ ރަންޔޫބީލް ދުވަހު،",
+     "narration_english": "Marcus's plan isn't just a lie. On the golden jubilee day when the bunker turns fifty,",
+     "crop": "full",
+     "motion": "pan right",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_059",
+     "startMs": 561151,
+     "endMs": 570461,
+     "narration_dhivehi": "މަތީ ފަންތީގެ އެންމެން ބިމުގެ މައްޗަށް ދިއުމަށްފަހު، ސެކްޓަރ 7 ގެ ވެންޓިލޭޝަން ނިޒާމަށް ނިއުރޯޓޮކްސިން ވިހަ ގޭސް ދޫކޮށްލަން ވަނީ ނިންމާފައި.",
+     "narration_english": "after everyone on the upper level has gone up to the surface, it has been decided to release neurotoxin poison gas into Sector 7's ventilation system —",
+     "crop": "medium",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": true,
+     "crop_rect_pct": [
+      14.2,
+      0.0,
+      71.5,
+      84.7
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Cinematic semi-realistic digital illustration in a dark gritty dystopian sci-fi style matching a post-apocalyptic underground bunker city: rusted steel walls, pipes, steam and haze, warm amber and sodium-orange work lights against cold steel-blue and teal shadows, the luxurious upper levels in clean white, glass and soft gold light, volumetric light shafts, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and calm, uncluttered space at the bottom (floor, grating, table top, soft shadow) for a logo.\nScene: an object-only still life with absolutely no people, no faces and no figures anywhere: an old monitor screen filling almost the whole frame, standing on a dark empty table in an empty dark room, showing a glowing blue line-drawing map of a maze of tunnels and ventilation ducts seen in cross-section, with thick red smoke spreading through the ducts like veins; abstract shapes only, no letters, no numbers, no symbols; a faint red reflection on the dark table below. Location: the inside of the old scientist's cluttered underground workshop: a large scratched steel work table, a matte black rugged metal box on it with a cable plugged into its corner, a worn keyboard with blank unmarked keys, old monitors stacked around, the largest monitor facing away from the viewer; every screen shows only soft abstract glowing light and colour, no letters, no numbers, no symbols, no icons. Camera: close-up straight on, the glowing map in the upper two-thirds, the dark table top as a calm lower third.\nMood/lighting: night, harsh pulsing red alarm light flooding from the big monitor across the faces and the table, deep black shadows, a few cold blue glows from smaller screens, urgent and frightening.\nModest clothing (women in loose long-sleeved ankle-length clothing with a hijab fully covering hair and neck; men in long-sleeved shirts or jackets and long trousers), culturally respectful, no guns, no knives, no weapons visible, no violence shown, no blood, no wounds, no gore, no dead bodies, no text, no letters, no numbers, no writing, no screens with readable text, no symbols, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.093,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 50.0,
+    "y_pct": 40.0,
+    "face_detected": false
+   }
+  },
+  {
+   "id": "beat_023",
+   "startMs": 570461,
+   "endMs": 615423,
+   "new_image_reason": "action change: Zail points at the countdown; Aira's legs give way and she grips the table edge",
+   "characters": [
+    "aira",
+    "zail"
+   ],
+   "location": "the inside of the old scientist's cluttered underground workshop: a large scratched steel work table, a matte black rugged metal box on it with a cable plugged into its corner, a worn keyboard with blank unmarked keys, old monitors stacked around, the largest monitor facing away from the viewer; every screen shows only soft abstract glowing light and colour, no letters, no numbers, no symbols, no icons",
+   "location_key": "workshop_red",
+   "mood": "night, harsh pulsing red alarm light flooding from the big monitor across the faces and the table, deep black shadows, a few cold blue glows from smaller screens, urgent and frightening",
+   "visual": "Zail pointing with a trembling finger at a red glowing panel on a monitor that faces away from the viewer, his lips trembling; Aira across the table, staggering, both hands gripping the edge of the steel table to hold herself up, face drained, mouth open in shock; the red glow pulsing on both faces",
+   "camera": "medium wide, eye level, faces in the upper half, the table top as a calm lower third",
+   "image": "images/beat_023.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": "other",
+   "safe_substitution": "the countdown and '7 days' are shown only as a red glowing panel; no digits",
+   "ambience": "workshop",
+   "shots": [
+    {
+     "id": "shot_060",
+     "startMs": 570461,
+     "endMs": 579952,
+     "narration_dhivehi": "މުޅި ސެކްޓަރ 7 ގެ އެންމެން އެއްފަހަރާ ނައްތާލަން!\" އައިރާގެ މޭގަނޑު އަނގައިން ނުނިކުތީ ކިރިޔާއެވެ. \"ކޮން ދުވަހަކު؟ އެ ދުވަހަކީ ކޮބާ؟\"",
+     "narration_english": "to wipe out everyone in Sector 7 at once!\" Aira's voice barely came out. \"Which day? When is that day?\"",
+     "crop": "full",
+     "motion": "pan up",
+     "sfx": [
+      {
+       "name": "gasp",
+       "atMs": 575822,
+       "gainDb": -20,
+       "word": "ނުނިކުތީ"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_061",
+     "startMs": 579952,
+     "endMs": 589652,
+     "narration_dhivehi": "ޒައިލް ތުރުތުރުއަޅާ އިނގިލިން ސްކްރީނުގައިވާ ތާރީޚަށް އިޝާރާތްކުރިއެވެ. ކައުންޓްޑައުން ޓައިމަރުން ދައްކަމުން ދިޔައީ ސުންގަޑިއަށް ބާކީ އޮތް ވަގުތެވެ.",
+     "narration_english": "Zail pointed with a trembling finger at the date on the screen. The countdown timer showed the time remaining until zero.",
+     "crop": "tight",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      35.7,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_062",
+     "startMs": 589652,
+     "endMs": 597363,
+     "narration_dhivehi": "\"މިއަދުން ފެށިގެން... ބާކީ އޮތީ އެންމެ 7 ދުވަސް!\" ޒައިލް ހިތާމައާއި ބިރުވެރިކަމުން ފުރިގެންވާ އަޑަކުން ބުންޏެވެ. \"ހަތް ދުވަސް...\"",
+     "narration_english": "\"From today... only seven days are left!\" said Zail in a voice full of grief and fear. \"Seven days...\"",
+     "crop": "full",
+     "motion": "pan down",
+     "sfx": [],
+     "hum": true,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_063",
+     "startMs": 597363,
+     "endMs": 606943,
+     "narration_dhivehi": "އައިރާގެ އަޑު ކޮޓަރީގެ ހިމޭންކަމުގެ ތެރެއަށް ބޭރުވީ ސިހުމަކުންނެވެ. އޭނާގެ ދެފައިން ވާގިދޫވެ، މޭޒުގެ އަރިމަތީގައި ހިފަހައްޓާލަން މަޖުބޫރުވިއެވެ.",
+     "narration_english": "Aira's voice came out as a gasp into the silence of the room. Her legs gave way, and she had to grip the side of the table.",
+     "crop": "medium",
+     "motion": "static drift",
+     "sfx": [
+      {
+       "name": "gasp",
+       "atMs": 600883,
+       "gainDb": -20,
+       "word": "ސިހުމަކުންނެވެ."
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      28.5,
+      0.0,
+      71.5,
+      84.7
+     ]
+    },
+    {
+     "id": "shot_064",
+     "startMs": 606943,
+     "endMs": 615423,
+     "narration_dhivehi": "މޮނިޓަރުގެ ސްކްރީނުގައިވާ ރަތް ކުލައިގެ ކައުންޓްޑައުން ޓައިމަރުގެ ސިކުންތުތައް ދިޔައީ އެއްވެސް ރަހުމެއް ނެތި ފަހަތަށް ގުނަމުންނެވެ.",
+     "narration_english": "The seconds of the red countdown timer on the monitor kept counting down without any mercy.",
+     "crop": "tight",
+     "motion": "slow push-in",
+     "sfx": [
+      {
+       "name": "heartbeat",
+       "atMs": 614283,
+       "gainDb": -20,
+       "word": "ގުނަމުންނެވެ."
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      35.7,
+      0.0,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Aira; reference image 2 is Zail), create a new scene: Cinematic semi-realistic digital illustration in a dark gritty dystopian sci-fi style matching a post-apocalyptic underground bunker city: rusted steel walls, pipes, steam and haze, warm amber and sodium-orange work lights against cold steel-blue and teal shadows, the luxurious upper levels in clean white, glass and soft gold light, volumetric light shafts, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and calm, uncluttered space at the bottom (floor, grating, table top, soft shadow) for a logo.\nScene: Zail pointing with a trembling finger at a red glowing panel on a monitor that faces away from the viewer, his lips trembling; Aira across the table, staggering, both hands gripping the edge of the steel table to hold herself up, face drained, mouth open in shock; the red glow pulsing on both faces. Location: the inside of the old scientist's cluttered underground workshop: a large scratched steel work table, a matte black rugged metal box on it with a cable plugged into its corner, a worn keyboard with blank unmarked keys, old monitors stacked around, the largest monitor facing away from the viewer; every screen shows only soft abstract glowing light and colour, no letters, no numbers, no symbols, no icons. Camera: medium wide, eye level, faces in the upper half, the table top as a calm lower third.\nCharacters: Aira: a slim athletic Maldivian young woman of 26 with warm brown skin, a determined oval face, large dark intense eyes, straight dark eyebrows and a faint grease smudge on one cheek; wears a loose ankle-length dark olive-brown canvas work coat buttoned to the neck with long sleeves, loose dark trousers and scuffed boots, a charcoal-grey hijab wrapped snugly and fully covering her hair and neck, and a small worn steel tag pendant on a thin chain over her hijab at the chest. Zail: a lean slightly stooped Maldivian man about 65 with weathered warm brown skin, a lined thoughtful face, sharp piercing dark eyes behind small round wire-rimmed glasses, untidy short grey-white hair and a thick bushy grey-white beard; wears a patched long dark-brown coat over a faded grey long-sleeved shirt, dark trousers and fingerless wool gloves.\nMood/lighting: night, harsh pulsing red alarm light flooding from the big monitor across the faces and the table, deep black shadows, a few cold blue glows from smaller screens, urgent and frightening.\nModest clothing (women in loose long-sleeved ankle-length clothing with a hijab fully covering hair and neck; men in long-sleeved shirts or jackets and long trousers), culturally respectful, no guns, no knives, no weapons visible, no violence shown, no blood, no wounds, no gore, no dead bodies, no text, no letters, no numbers, no writing, no screens with readable text, no symbols, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.131,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 65.4,
+    "y_pct": 29.8,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_024",
+   "startMs": 615423,
+   "endMs": 631754,
+   "new_image_reason": "memory/vision: the faces of children, the elderly and families of Sector 7 appear in Aira's mind",
+   "characters": [],
+   "location": "a soft hazy dream-like vision of the dark underground Sector 7: dim rusted corridors and machine floors where poor families toil",
+   "location_key": "vision",
+   "mood": "hazy, desaturated, dreamlike memory-vision with a soft dark vignette, faint amber work lights in deep shadow, sorrowful and tender",
+   "visual": "a soft hazy vision: a small girl in a plain long dress and small headscarf holding her grandmother's hand, an old man in a cap resting against a pipe, a tired worker family with a mother in a hijab sitting together in the dim amber light of a machine floor; quiet, sad, gentle faces",
+   "camera": "medium wide, eye level, faces in the upper half, the dark floor as a calm lower third",
+   "image": "images/beat_024.png",
+   "reuse_of": null,
+   "transition_in": "dissolve",
+   "sensitive": "other",
+   "safe_substitution": "'lives taken to the grave' shown only as living, gentle faces of families in a memory-like vision",
+   "ambience": "memory",
+   "shots": [
+    {
+     "id": "shot_065",
+     "startMs": 615423,
+     "endMs": 622853,
+     "narration_dhivehi": "ކޮންމެ ސިކުންތަކީ ސެކްޓަރ 7 ގެ އެތައް ހާސް މައުސޫމް ފުރާނައެއް ކަށްވަޅާ ދިމާއަށް ގެންދާ ފިޔަވަޅެކެވެ. ކުޑަކުދިންނާއި،",
+     "narration_english": "Every second was a step taking thousands of innocent lives of Sector 7 towards the grave. The faces of the children,",
+     "crop": "full",
+     "motion": "pan left",
+     "sfx": [],
+     "hum": true,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_066",
+     "startMs": 622853,
+     "endMs": 631754,
+     "narration_dhivehi": "ދުވަސްވީ މީހުންނާއި، އަނދިރީގައި ބުރަ މަސައްކަތްކޮށްގެން ހަލާކުވަމުންދާ އާއިލާތަކުގެ މޫނުތައް އައިރާގެ ހިތަށް ސިފަވެގެން ދިޔައެވެ.",
+     "narration_english": "the elderly, and the families wasting away in hard labour in the dark rose up in Aira's mind.",
+     "crop": "tight",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      20.3,
+      4.8,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Cinematic semi-realistic digital illustration in a dark gritty dystopian sci-fi style matching a post-apocalyptic underground bunker city: rusted steel walls, pipes, steam and haze, warm amber and sodium-orange work lights against cold steel-blue and teal shadows, the luxurious upper levels in clean white, glass and soft gold light, volumetric light shafts, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and calm, uncluttered space at the bottom (floor, grating, table top, soft shadow) for a logo.\nScene: a soft hazy vision: a small girl in a plain long dress and small headscarf holding her grandmother's hand, an old man in a cap resting against a pipe, a tired worker family with a mother in a hijab sitting together in the dim amber light of a machine floor; quiet, sad, gentle faces. Location: a soft hazy dream-like vision of the dark underground Sector 7: dim rusted corridors and machine floors where poor families toil. Camera: medium wide, eye level, faces in the upper half, the dark floor as a calm lower third.\nMood/lighting: hazy, desaturated, dreamlike memory-vision with a soft dark vignette, faint amber work lights in deep shadow, sorrowful and tender.\nModest clothing (women in loose long-sleeved ankle-length clothing with a hijab fully covering hair and neck; men in long-sleeved shirts or jackets and long trousers), culturally respectful, no guns, no knives, no weapons visible, no violence shown, no blood, no wounds, no gore, no dead bodies, no text, no letters, no numbers, no writing, no screens with readable text, no symbols, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.092,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 50.0,
+    "y_pct": 40.0,
+    "face_detected": false
+   }
+  },
+  {
+   "id": "beat_025",
+   "startMs": 631754,
+   "endMs": 662015,
+   "new_image_reason": "action change: Zail slams his fist on the steel table, eyes blazing; Aira refuses to submit",
+   "characters": [
+    "zail",
+    "aira"
+   ],
+   "location": "the inside of the old scientist's cluttered underground workshop: a large scratched steel work table, a matte black rugged metal box on it with a cable plugged into its corner, a worn keyboard with blank unmarked keys, old monitors stacked around, the largest monitor facing away from the viewer; every screen shows only soft abstract glowing light and colour, no letters, no numbers, no symbols, no icons",
+   "location_key": "workshop_red",
+   "mood": "night, harsh pulsing red alarm light flooding from the big monitor across the faces and the table, deep black shadows, a few cold blue glows from smaller screens, urgent and frightening",
+   "visual": "Zail with his fist just landed on the steel table, leaning forward, eyes blazing with fury behind his round glasses, the red light hard on his face; Aira on the other side of the table straightening up, her face changing from shock to defiance",
+   "camera": "medium shot, eye level, faces in the upper half, the table top as a calm lower third",
+   "image": "images/beat_025.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "workshop",
+   "shots": [
+    {
+     "id": "shot_067",
+     "startMs": 631754,
+     "endMs": 644484,
+     "narration_dhivehi": "\"އެމީހުން އަހަރެމެން ދެކެނީ ކުނިތަކެއްގެ ގޮތުގައި،\" ޒައިލް މޭޒުމަތީގައި މުށްކަވާފައި ޖަހައިލިއެވެ. ދަގަނޑު މޭޒުން އަޑުގޮވައިގެން ދިޔަ ވަގުތު އޭނާގެ ދެލޮލުން ފެނުނީ އަނދައަނދާ ހުރި ރުޅިވެރިކަމެވެ.",
+     "narration_english": "\"They see us as rubbish,\" Zail struck the table with his fist. As the steel table rang out, his eyes blazed with burning anger.",
+     "crop": "full",
+     "motion": "pan right",
+     "sfx": [
+      {
+       "name": "metal_clang",
+       "atMs": 637144,
+       "gainDb": -16,
+       "word": "ޖަހައިލިއެވެ."
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_068",
+     "startMs": 644484,
+     "endMs": 652755,
+     "narration_dhivehi": "\"މަތީ ފަންތީގެ މީހުން މައްޗަށް އަރައި، މިނިވަންކަމުގެ އުފާ ހޯދާއިރު، ސެކްޓަރ 7 ގެ ހުރިހާ ހެއްކެއް ނައްތާލަން އެމީހުން ބޭނުންވަނީ.",
+     "narration_english": "\"While the upper level goes up and enjoys its freedom, they want to wipe out every trace of Sector 7.",
+     "crop": "tight",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      22.4,
+      29.6,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_069",
+     "startMs": 652755,
+     "endMs": 662015,
+     "narration_dhivehi": "އެއްވެސް އަޑެއް، އެއްވެސް ޝަކުވާއެއް ފަހަތުގައި ބާއްވާކަށް މާކަސް ބޭނުމެއް ނުވޭ!\" \"އަހަރެމެން މިއަށް ކިޔަމަންވެގެން ތިބޭކަށް ނުވާނެ، ޒައިލް!\"",
+     "narration_english": "Marcus wants to leave behind not one voice, not one complaint!\" \"We will not just submit to this, Zail!\"",
+     "crop": "full",
+     "motion": "pan up",
+     "sfx": [],
+     "hum": true,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Zail; reference image 2 is Aira), create a new scene: Cinematic semi-realistic digital illustration in a dark gritty dystopian sci-fi style matching a post-apocalyptic underground bunker city: rusted steel walls, pipes, steam and haze, warm amber and sodium-orange work lights against cold steel-blue and teal shadows, the luxurious upper levels in clean white, glass and soft gold light, volumetric light shafts, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and calm, uncluttered space at the bottom (floor, grating, table top, soft shadow) for a logo.\nScene: Zail with his fist just landed on the steel table, leaning forward, eyes blazing with fury behind his round glasses, the red light hard on his face; Aira on the other side of the table straightening up, her face changing from shock to defiance. Location: the inside of the old scientist's cluttered underground workshop: a large scratched steel work table, a matte black rugged metal box on it with a cable plugged into its corner, a worn keyboard with blank unmarked keys, old monitors stacked around, the largest monitor facing away from the viewer; every screen shows only soft abstract glowing light and colour, no letters, no numbers, no symbols, no icons. Camera: medium shot, eye level, faces in the upper half, the table top as a calm lower third.\nCharacters: Zail: a lean slightly stooped Maldivian man about 65 with weathered warm brown skin, a lined thoughtful face, sharp piercing dark eyes behind small round wire-rimmed glasses, untidy short grey-white hair and a thick bushy grey-white beard; wears a patched long dark-brown coat over a faded grey long-sleeved shirt, dark trousers and fingerless wool gloves. Aira: a slim athletic Maldivian young woman of 26 with warm brown skin, a determined oval face, large dark intense eyes, straight dark eyebrows and a faint grease smudge on one cheek; wears a loose ankle-length dark olive-brown canvas work coat buttoned to the neck with long sleeves, loose dark trousers and scuffed boots, a charcoal-grey hijab wrapped snugly and fully covering her hair and neck, and a small worn steel tag pendant on a thin chain over her hijab at the chest.\nMood/lighting: night, harsh pulsing red alarm light flooding from the big monitor across the faces and the table, deep black shadows, a few cold blue glows from smaller screens, urgent and frightening.\nModest clothing (women in loose long-sleeved ankle-length clothing with a hijab fully covering hair and neck; men in long-sleeved shirts or jackets and long trousers), culturally respectful, no guns, no knives, no weapons visible, no violence shown, no blood, no wounds, no gore, no dead bodies, no text, no letters, no numbers, no writing, no screens with readable text, no symbols, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.178,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 52.1,
+    "y_pct": 67.9,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_026",
+   "startMs": 662015,
+   "endMs": 687946,
+   "new_image_reason": "emotional turning point: Aira looks straight into Zail's eyes, her fear turning to resolve",
+   "characters": [
+    "aira",
+    "zail"
+   ],
+   "location": "the inside of an old exiled scientist's cluttered underground workshop in a ruined factory: a large scratched steel work table in the middle, piles of electrical parts, coils of wire, circuit boards and strange old machines, many old monitors of different sizes stacked around the room, rusted steel walls, a heavy riveted steel door, a hanging work lamp; every screen shows only soft abstract glowing light and colour, no letters, no numbers, no symbols, no icons",
+   "location_key": "workshop",
+   "mood": "night, dim cold blue glow from the many old monitors mixed with one warm amber hanging work lamp, dust and thin solder smoke hanging in the air, secretive, tense and curious",
+   "visual": "close view of Aira's face, looking straight ahead with fierce unshakeable determination, jaw set, a dried tear trace on her cheek, the steel pendant on its chain at her chest; Zail's shoulder and glasses blurred in the foreground at the edge of the frame, at a distance",
+   "camera": "close-up over Zail's shoulder, eye level, her face in the upper half",
+   "image": "images/beat_026.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "workshop",
+   "shots": [
+    {
+     "id": "shot_070",
+     "startMs": 662015,
+     "endMs": 671105,
+     "narration_dhivehi": "އައިރާ ސީދާ ޒައިލްގެ ދެލޮލަށް ބަލައިލިއެވެ. އޭނާގެ ބިރުވެރިކަން މަޑުމަޑުން ބަދަލުވަމުން ދިޔައީ ގުޑުވައިނުލެވޭ ފަދަ ވަރުގަދަ އަޒުމަކަށެވެ.",
+     "narration_english": "Aira looked straight into Zail's eyes. Her fear was slowly turning into an unbreakable resolve.",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": true,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_071",
+     "startMs": 671105,
+     "endMs": 681076,
+     "narration_dhivehi": "\"އަހަރެމެންގެ އަތުގައި މިހާރު ހަގީގަތް އެބައޮތް. މަތީގައި ވަނީ ސާފު ދުނިޔެއެއްކަމުގެ ހެކި އެބައޮތް. އަދި މާކަސްގެ ގަތުލުއާންމުގެ ޕްލޭންވެސް މިއޮތީ ފެންނަން.",
+     "narration_english": "\"We now hold the truth in our hands. We have proof that a clean world lies above. And Marcus's plan of mass murder is right here to see.",
+     "crop": "tight",
+     "motion": "pan down",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      30.2,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_072",
+     "startMs": 681076,
+     "endMs": 687946,
+     "narration_dhivehi": "މި ހަގީގަތް މުޅި ސެކްޓަރ 7 އަށް އެނގެންޖެހޭނެ.\" \"އެކަމަކު ކިހިނެއް؟\" ޒައިލް ދެފަރާތަށް ބޯހޫރާލިއެވެ.",
+     "narration_english": "All of Sector 7 has to know this truth.\" \"But how?\" Zail shrugged.",
+     "crop": "full",
+     "motion": "static drift",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Aira; reference image 2 is Zail), create a new scene: Cinematic semi-realistic digital illustration in a dark gritty dystopian sci-fi style matching a post-apocalyptic underground bunker city: rusted steel walls, pipes, steam and haze, warm amber and sodium-orange work lights against cold steel-blue and teal shadows, the luxurious upper levels in clean white, glass and soft gold light, volumetric light shafts, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and calm, uncluttered space at the bottom (floor, grating, table top, soft shadow) for a logo.\nScene: close view of Aira's face, looking straight ahead with fierce unshakeable determination, jaw set, a dried tear trace on her cheek, the steel pendant on its chain at her chest; Zail's shoulder and glasses blurred in the foreground at the edge of the frame, at a distance. Location: the inside of an old exiled scientist's cluttered underground workshop in a ruined factory: a large scratched steel work table in the middle, piles of electrical parts, coils of wire, circuit boards and strange old machines, many old monitors of different sizes stacked around the room, rusted steel walls, a heavy riveted steel door, a hanging work lamp; every screen shows only soft abstract glowing light and colour, no letters, no numbers, no symbols, no icons. Camera: close-up over Zail's shoulder, eye level, her face in the upper half.\nCharacters: Aira: a slim athletic Maldivian young woman of 26 with warm brown skin, a determined oval face, large dark intense eyes, straight dark eyebrows and a faint grease smudge on one cheek; wears a loose ankle-length dark olive-brown canvas work coat buttoned to the neck with long sleeves, loose dark trousers and scuffed boots, a charcoal-grey hijab wrapped snugly and fully covering her hair and neck, and a small worn steel tag pendant on a thin chain over her hijab at the chest. Zail: a lean slightly stooped Maldivian man about 65 with weathered warm brown skin, a lined thoughtful face, sharp piercing dark eyes behind small round wire-rimmed glasses, untidy short grey-white hair and a thick bushy grey-white beard; wears a patched long dark-brown coat over a faded grey long-sleeved shirt, dark trousers and fingerless wool gloves.\nMood/lighting: night, dim cold blue glow from the many old monitors mixed with one warm amber hanging work lamp, dust and thin solder smoke hanging in the air, secretive, tense and curious.\nModest clothing (women in loose long-sleeved ankle-length clothing with a hijab fully covering hair and neck; men in long-sleeved shirts or jackets and long trousers), culturally respectful, no guns, no knives, no weapons visible, no violence shown, no blood, no wounds, no gore, no dead bodies, no text, no letters, no numbers, no writing, no screens with readable text, no symbols, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.157,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 59.9,
+    "y_pct": 32.7,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_027",
+   "startMs": 687946,
+   "endMs": 723727,
+   "new_image_reason": "action change: Aira pockets the device and lays out the plan to hijack the broadcast",
+   "characters": [
+    "aira",
+    "zail"
+   ],
+   "location": "the inside of an old exiled scientist's cluttered underground workshop in a ruined factory: a large scratched steel work table in the middle, piles of electrical parts, coils of wire, circuit boards and strange old machines, many old monitors of different sizes stacked around the room, rusted steel walls, a heavy riveted steel door, a hanging work lamp; every screen shows only soft abstract glowing light and colour, no letters, no numbers, no symbols, no icons",
+   "location_key": "workshop",
+   "mood": "night, dim cold blue glow from the many old monitors mixed with one warm amber hanging work lamp, dust and thin solder smoke hanging in the air, secretive, tense and curious",
+   "visual": "Aira slipping the small handmade circuit device into the pocket of her long coat while speaking with conviction, her other hand gesturing firmly; Zail on the other side of the table watching her in amazement, eyebrows raised; the opened black box and dim monitors between them",
+   "camera": "medium shot, eye level, faces in the upper half, the table top as a calm lower third",
+   "image": "images/beat_027.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "workshop",
+   "shots": [
+    {
+     "id": "shot_073",
+     "startMs": 687946,
+     "endMs": 697106,
+     "narration_dhivehi": "\"ކޮމިއުނިކޭޝަންގެ ހުރިހާ ނިޒާމެއް ކޮންޓްރޯލް ކުރަނީ ކައުންސިލުން. އަހަރެމެން މަގުމައްޗަށް ނުކުމެ މި ވާހަކަ ދައްކާ ހިސާބުން ސިފައިން އަހަރެމެން މަރާލާނެ.",
+     "narration_english": "\"The Council controls every communication system. The moment we go out into the streets and talk about this, the soldiers will kill us.",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_074",
+     "startMs": 697106,
+     "endMs": 706167,
+     "narration_dhivehi": "އަދި މީހުން އަހަރެމެންގެ ވާހަކަ ގަބޫލެއްވެސް ނުކުރާނެ.\" އައިރާ މޭޒުމަތީގައި އޮތް އެންކްރިޕްޓް ޑިވައިސް ނަގައި އޭނާގެ ޖީބަށް ކޮށްޕާލިއެވެ.",
+     "narration_english": "And people won't even believe us.\" Aira took the encrypted device from the table and slipped it into her pocket.",
+     "crop": "tight",
+     "motion": "pan left",
+     "sfx": [
+      {
+       "name": "cloth_rustle",
+       "atMs": 705267,
+       "gainDb": -22,
+       "word": "ކޮށްޕާލިއެވެ."
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      8.7,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_075",
+     "startMs": 706167,
+     "endMs": 715237,
+     "narration_dhivehi": "\"މީހުން ގަބޫލުކުރާނީ އެމީހުންގެ އަމިއްލަ ލޮލުން މި ވީޑިއޯތައް ފެނުނީމަ. އަހަރެމެން ޖެހޭނީ ސެކްޓަރ 7 ގެ މައި ބްރޯޑްކާސްޓިންގ ޓަވަރަށް ވަދެ،",
+     "narration_english": "\"People will believe it when they see these videos with their own eyes. We have to get into Sector 7's main broadcasting tower,",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_076",
+     "startMs": 715237,
+     "endMs": 723727,
+     "narration_dhivehi": "ކައުންސިލްގެ ޓީވީ ފްރީކުއެންސީ ހައިޖެކް ކުރަން. މުޅި ބިންގަރާހަށް މި ލައިވް ފީޑް ދައްކަން.\" ޒައިލް ހައިރާންވެފައި އައިރާއަށް ބަލައިލިއެވެ.",
+     "narration_english": "hijack the Council's TV frequency, and show this live feed to the whole bunker.\" Zail looked at Aira in amazement.",
+     "crop": "medium",
+     "motion": "pan right",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      2.6,
+      0.0,
+      71.5,
+      84.7
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Aira; reference image 2 is Zail), create a new scene: Cinematic semi-realistic digital illustration in a dark gritty dystopian sci-fi style matching a post-apocalyptic underground bunker city: rusted steel walls, pipes, steam and haze, warm amber and sodium-orange work lights against cold steel-blue and teal shadows, the luxurious upper levels in clean white, glass and soft gold light, volumetric light shafts, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and calm, uncluttered space at the bottom (floor, grating, table top, soft shadow) for a logo.\nScene: Aira slipping the small handmade circuit device into the pocket of her long coat while speaking with conviction, her other hand gesturing firmly; Zail on the other side of the table watching her in amazement, eyebrows raised; the opened black box and dim monitors between them. Location: the inside of an old exiled scientist's cluttered underground workshop in a ruined factory: a large scratched steel work table in the middle, piles of electrical parts, coils of wire, circuit boards and strange old machines, many old monitors of different sizes stacked around the room, rusted steel walls, a heavy riveted steel door, a hanging work lamp; every screen shows only soft abstract glowing light and colour, no letters, no numbers, no symbols, no icons. Camera: medium shot, eye level, faces in the upper half, the table top as a calm lower third.\nCharacters: Aira: a slim athletic Maldivian young woman of 26 with warm brown skin, a determined oval face, large dark intense eyes, straight dark eyebrows and a faint grease smudge on one cheek; wears a loose ankle-length dark olive-brown canvas work coat buttoned to the neck with long sleeves, loose dark trousers and scuffed boots, a charcoal-grey hijab wrapped snugly and fully covering her hair and neck, and a small worn steel tag pendant on a thin chain over her hijab at the chest. Zail: a lean slightly stooped Maldivian man about 65 with weathered warm brown skin, a lined thoughtful face, sharp piercing dark eyes behind small round wire-rimmed glasses, untidy short grey-white hair and a thick bushy grey-white beard; wears a patched long dark-brown coat over a faded grey long-sleeved shirt, dark trousers and fingerless wool gloves.\nMood/lighting: night, dim cold blue glow from the many old monitors mixed with one warm amber hanging work lamp, dust and thin solder smoke hanging in the air, secretive, tense and curious.\nModest clothing (women in loose long-sleeved ankle-length clothing with a hijab fully covering hair and neck; men in long-sleeved shirts or jackets and long trousers), culturally respectful, no guns, no knives, no weapons visible, no violence shown, no blood, no wounds, no gore, no dead bodies, no text, no letters, no numbers, no writing, no screens with readable text, no symbols, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.22,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 38.4,
+    "y_pct": 27.4,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_028",
+   "startMs": 723727,
+   "endMs": 748098,
+   "new_image_reason": "return to the earlier image: Zail and Aira talking across the table about the secret resistance",
+   "characters": [
+    "zail",
+    "aira"
+   ],
+   "location": "the inside of an old exiled scientist's cluttered underground workshop in a ruined factory: a large scratched steel work table in the middle, piles of electrical parts, coils of wire, circuit boards and strange old machines, many old monitors of different sizes stacked around the room, rusted steel walls, a heavy riveted steel door, a hanging work lamp; every screen shows only soft abstract glowing light and colour, no letters, no numbers, no symbols, no icons",
+   "location_key": "workshop",
+   "mood": "night, dim cold blue glow from the many old monitors mixed with one warm amber hanging work lamp, dust and thin solder smoke hanging in the air, secretive, tense and curious",
+   "visual": "(reuse of beat_020)",
+   "camera": "medium shot, eye level",
+   "image": "images/beat_020.png",
+   "reuse_of": "beat_020",
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "workshop",
+   "shots": [
+    {
+     "id": "shot_077",
+     "startMs": 723727,
+     "endMs": 735948,
+     "narration_dhivehi": "އެއީ މަރާ ކުރިމަތިލުން ފަދަ ނުރައްކާތެރި މިޝަނެކެވެ. ނަމަވެސް އައިރާގެ މޫނުމަތިން ފެންނަން ހުރި ހިތްވަރާއި ސާބިތުކަމުން، ޒައިލްގެ މަރުވެފައިވާ އުންމީދުތަކަށްވެސް އާ ދިރުމެއް ލިބިގެން ދިޔައެވެ.",
+     "narration_english": "It was a mission as dangerous as facing death itself. But from the courage and determination on Aira's face, even Zail's dead hopes came back to life.",
+     "crop": "tight",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": true,
+     "crop_rect_pct": [
+      20.3,
+      4.8,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_078",
+     "startMs": 735948,
+     "endMs": 748098,
+     "narration_dhivehi": "\"އެކަން ކުރަންޏާ... އަހަރެމެންނަށް އިތުރު އެހީ ބޭނުންވާނެ،\" ޒައިލް މަޑުމަޑުން ބުންޏެވެ. \"ސެކްޓަރ 7 ގެ ބިންގަރާސް ހޮހަޅަތަކުގައި ހަރަކާތްތެރިވާ ސިއްރު ރެސިސްޓެންސް ގްރޫޕެއް އެބައޮތް.",
+     "narration_english": "\"If we're going to do that... we'll need more help,\" Zail said slowly. \"There is a secret resistance group operating in the bunker tunnels of Sector 7.",
+     "crop": "full",
+     "motion": "pan up",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [],
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.174,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 50.0,
+    "y_pct": 40.0,
+    "face_detected": false
+   }
+  },
+  {
+   "id": "beat_029",
+   "startMs": 748098,
+   "endMs": 778810,
+   "new_image_reason": "action change and climax: boots outside, red laser beams through the door cracks; Aira grips a heavy wrench",
+   "characters": [
+    "aira",
+    "zail"
+   ],
+   "location": "the inside of the old scientist's cluttered underground workshop at night: the heavy riveted steel door at the back, the steel work table, stacked monitors gone dim; every screen shows only soft abstract glowing light and colour, no letters, no numbers, no symbols, no icons",
+   "location_key": "workshop_raid",
+   "mood": "night, the room in darkness, sharp thin beams of red laser light slicing in through the cracks around the steel door and sweeping across the walls, cold blue shadows, extreme danger and grim resolve",
+   "visual": "the dark workshop with thin sharp red beams of light slicing in through the cracks around the heavy steel door and sweeping across the walls; Aira standing in front facing the door, gripping a heavy steel wrench in both hands, eyes fierce and ready; Zail a few steps behind her crouched by the table, whispering, wide-eyed; no soldiers visible, only the red beams",
+   "camera": "medium wide, eye level, faces and the door in the upper two-thirds, the dark floor as a calm lower third",
+   "image": "images/beat_029.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": "violence",
+   "safe_substitution": "soldiers shown only as red light beams through the door cracks; 'Aira takes her weapon' shown as gripping a heavy wrench",
+   "ambience": "workshop",
+   "shots": [
+    {
+     "id": "shot_079",
+     "startMs": 748098,
+     "endMs": 757329,
+     "narration_dhivehi": "އެމީހުންނާ ގުޅެން ޖެހޭނީ.\" އެވަގުތު ކުއްލިއަކަށް ވޯކްޝޮޕްގެ ބޭރުން ބަރު ބޫޓުތަކެއްގެ އަޑާއި، މެޓަލް ޑިޓެކްޓަރުތަކުގެ ތޫނު އަޑު އިވެން ފެށިއެވެ.",
+     "narration_english": "We have to make contact with them.\" Just then, from outside the workshop came the sound of heavy boots and the shrill whine of metal detectors.",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [
+      {
+       "name": "boots_march",
+       "atMs": 752748,
+       "gainDb": -18,
+       "word": "ބޫޓުތަކެއްގެ"
+      },
+      {
+       "name": "alarm_beep",
+       "atMs": 754749,
+       "gainDb": -22,
+       "word": "ޑިޓެކްޓަރުތަކުގެ"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_080",
+     "startMs": 757329,
+     "endMs": 766989,
+     "narration_dhivehi": "ދޮރުގެ ބޭރުން ރަތް ކުލައިގެ ލޭޒަރު އަލިތައް ދޮރުގެ ރެނދުތަކުގެ ދޭތެރެއިން އެތެރެއަށް އެޅިގެން ދިޔައެވެ. \"އެމީހުން އަތުވެއްޖެ!\" ޒައިލް ވިސްޕަރ ކޮށްލިއެވެ.",
+     "narration_english": "Outside, red laser lights came in through the cracks around the door. \"They've found us!\" Zail whispered.",
+     "crop": "tight",
+     "motion": "pan down",
+     "sfx": [
+      {
+       "name": "heartbeat",
+       "atMs": 765969,
+       "gainDb": -20,
+       "word": "ވިސްޕަރ"
+      }
+     ],
+     "hum": true,
+     "crop_rect_pct": [
+      30.1,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_081",
+     "startMs": 766989,
+     "endMs": 778810,
+     "narration_dhivehi": "އައިރާ އޭނާގެ ހަތިޔާރު ނަގައި ތައްޔާރުކޮށްލިއެވެ. ހަތް ދުވަހުގެ ވަގުތު ގުނަން ފެށުނީ ހަމައެކަނި ސިޓީގެ ސަލާމަތަކަށް ނޫނެވެ؛ އެމީހުންގެ އަމިއްލަ ފުރާނައިގެ ދިފާއުގައި ކުރަންޖެހޭ ހަނގުރާމައިންނެވެ!",
+     "narration_english": "Aira took up her weapon and made ready. The seven-day countdown had begun not only as a fight to save the city, but as a war to defend their own lives!",
+     "crop": "full",
+     "motion": "static drift",
+     "sfx": [
+      {
+       "name": "metal_clang",
+       "atMs": 768589,
+       "gainDb": -22,
+       "word": "ނަގައި"
+      }
+     ],
+     "hum": true,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Aira; reference image 2 is Zail), create a new scene: Cinematic semi-realistic digital illustration in a dark gritty dystopian sci-fi style matching a post-apocalyptic underground bunker city: rusted steel walls, pipes, steam and haze, warm amber and sodium-orange work lights against cold steel-blue and teal shadows, the luxurious upper levels in clean white, glass and soft gold light, volumetric light shafts, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and calm, uncluttered space at the bottom (floor, grating, table top, soft shadow) for a logo.\nScene: the dark workshop with thin sharp red beams of light slicing in through the cracks around the heavy steel door and sweeping across the walls; Aira standing in front facing the door, gripping a heavy steel wrench in both hands, eyes fierce and ready; Zail a few steps behind her crouched by the table, whispering, wide-eyed; no soldiers visible, only the red beams. Location: the inside of the old scientist's cluttered underground workshop at night: the heavy riveted steel door at the back, the steel work table, stacked monitors gone dim; every screen shows only soft abstract glowing light and colour, no letters, no numbers, no symbols, no icons. Camera: medium wide, eye level, faces and the door in the upper two-thirds, the dark floor as a calm lower third.\nCharacters: Aira: a slim athletic Maldivian young woman of 26 with warm brown skin, a determined oval face, large dark intense eyes, straight dark eyebrows and a faint grease smudge on one cheek; wears a loose ankle-length dark olive-brown canvas work coat buttoned to the neck with long sleeves, loose dark trousers and scuffed boots, a charcoal-grey hijab wrapped snugly and fully covering her hair and neck, and a small worn steel tag pendant on a thin chain over her hijab at the chest. Zail: a lean slightly stooped Maldivian man about 65 with weathered warm brown skin, a lined thoughtful face, sharp piercing dark eyes behind small round wire-rimmed glasses, untidy short grey-white hair and a thick bushy grey-white beard; wears a patched long dark-brown coat over a faded grey long-sleeved shirt, dark trousers and fingerless wool gloves.\nMood/lighting: night, the room in darkness, sharp thin beams of red laser light slicing in through the cracks around the steel door and sweeping across the walls, cold blue shadows, extreme danger and grim resolve.\nModest clothing (women in loose long-sleeved ankle-length clothing with a hijab fully covering hair and neck; men in long-sleeved shirts or jackets and long trousers), culturally respectful, no guns, no knives, no weapons visible, no violence shown, no blood, no wounds, no gore, no dead bodies, no text, no letters, no numbers, no writing, no screens with readable text, no symbols, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.062,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 59.8,
+    "y_pct": 22.9,
+    "face_detected": true
+   }
+  }
+ ]
+}

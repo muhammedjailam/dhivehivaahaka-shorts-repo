@@ -1,0 +1,2473 @@
+{
+ "series": "Sector7",
+ "episode": 365,
+ "beats": [
+  {
+   "id": "beat_001",
+   "startMs": 0,
+   "endMs": 38191,
+   "new_image_reason": "episode opening: the nuclear war burns the surface (world-building narration)",
+   "characters": [],
+   "location": "the burned surface of the Earth after a nuclear war, an empty ruined city skyline of broken towers on a flat grey ash plain, low heavy ash clouds",
+   "location_key": "wasteland",
+   "mood": "dusk-like gloom, a distant deep orange glow on the horizon under ash-grey clouds, cold blue-grey shadows, desolate, silent, no living thing",
+   "visual": "a completely deserted landscape: a vast empty ruined city skyline of broken towers on a grey ash plain, a distant deep orange glow on the far horizon under heavy ash clouds, drifting ash in the air; absolutely no people, no human figures, no silhouettes, no animals, no explosions shown",
+   "camera": "extreme wide shot, horizon at mid-frame, the ash plain forming a calm lower third",
+   "image": "images/beat_001.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": "violence",
+   "safe_substitution": "nuclear war shown only as a distant orange horizon glow over an empty ruined skyline; no mushroom cloud, no people",
+   "ambience": "wasteland",
+   "shots": [
+    {
+     "id": "shot_001",
+     "startMs": 0,
+     "endMs": 10310,
+     "narration_dhivehi": "މީގެ ފަންސާސް އަހަރު ކުރިން ދުނިޔޭގެ އެކި ގައުމުތަކުގެ މެދުގައި މިހާތަނަށް ކުރެވުނު އެންމެ ނުރައްކާތެރި ހަނގުރާމައިގެ ސަބަބުން މުޅި ދުނިޔެ އަނދައި އަޅިއަށް ވިއެވެ.",
+     "narration_english": "Fifty years ago, because of the most dangerous war ever fought between the nations of the world, the whole world burned to ashes.",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [
+      {
+       "name": "wind_howl",
+       "atMs": 9360,
+       "gainDb": -22,
+       "word": "އަޅިއަށް"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_002",
+     "startMs": 10310,
+     "endMs": 19770,
+     "narration_dhivehi": "އޭރުގެ ދުނިޔޭގެ ބޮޑެތި ބާރުތަކުން ހަނގުރާމައިގެ ކުރިއެރުން ހޯދުމަށް ނިއުކްލިއާ ހަތިޔާރު ބޭނުން ކުރަން ފެށިއެވެ. ފުރަތަމަ ބޭނުންކުރީ ސިއްރުގައެވެ.",
+     "narration_english": "The great powers of that time began using nuclear weapons to win the upper hand in the war. At first they used them in secret.",
+     "crop": "tight",
+     "motion": "pan left",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      20.3,
+      4.8,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_003",
+     "startMs": 19770,
+     "endMs": 30540,
+     "narration_dhivehi": "ދެން ފާޅުގައި ޓެކްޓިކަލް ނިއުކްލިއާ ހަތިޔާރު ބޭނުންކުރަންފެށިއެވެ. އަދި މީގެ ސަބަބުން ބައެއް ގައުމުތައް ބަލިވާން ފެށުމުން އެންމެ ބޮޑެތި ނިއުކްލިއާ ހަތިޔާރުތައް ބޭނުންކުރިއެވެ.",
+     "narration_english": "Then they began openly using tactical nuclear weapons. And as some nations began to lose because of it, the very biggest nuclear weapons were used.",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [
+      {
+       "name": "distant_boom",
+       "atMs": 29240,
+       "gainDb": -22,
+       "word": "ބޭނުންކުރިއެވެ."
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_004",
+     "startMs": 30540,
+     "endMs": 38191,
+     "narration_dhivehi": "އެއްބަޔަކަށްވެސް މޮޅެއް ނުލިބުނެވެ. ނިއުކްލިއާ ހަނގުރާމައިގެ ވިހަ ދުމާއި ގޭހުން މަތީފަށަލަ ނާމާން ސަހަރާއަކަށް ބަދަލުވެގެން ދިޔައެވެ.",
+     "narration_english": "No side won. The poisonous smoke and gas of the nuclear war turned the surface into an uninhabitable desert.",
+     "crop": "medium",
+     "motion": "pan right",
+     "sfx": [
+      {
+       "name": "wind_howl",
+       "atMs": 36101,
+       "gainDb": -20,
+       "word": "ސަހަރާއަކަށް"
+      }
+     ],
+     "hum": true,
+     "crop_rect_pct": [
+      14.2,
+      0.0,
+      71.5,
+      84.7
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Cinematic semi-realistic digital illustration in a dark gritty dystopian sci-fi style matching a post-apocalyptic underground bunker city: rusted steel walls, pipes, steam and haze, warm amber and sodium-orange work lights against cold steel-blue and teal shadows, the luxurious upper levels in clean white, glass and soft gold light, volumetric light shafts, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and calm, uncluttered space at the bottom (floor, grating, table top, soft shadow) for a logo.\nScene: a completely deserted landscape: a vast empty ruined city skyline of broken towers on a grey ash plain, a distant deep orange glow on the far horizon under heavy ash clouds, drifting ash in the air; absolutely no people, no human figures, no silhouettes, no animals, no explosions shown. Location: the burned surface of the Earth after a nuclear war, an empty ruined city skyline of broken towers on a flat grey ash plain, low heavy ash clouds. Camera: extreme wide shot, horizon at mid-frame, the ash plain forming a calm lower third.\nMood/lighting: dusk-like gloom, a distant deep orange glow on the horizon under ash-grey clouds, cold blue-grey shadows, desolate, silent, no living thing.\nModest clothing (women in loose long-sleeved ankle-length clothing with a hijab fully covering hair and neck; men in long-sleeved shirts or jackets and long trousers), culturally respectful, no guns, no knives, no weapons visible, no violence shown, no blood, no wounds, no gore, no dead bodies, no text, no letters, no numbers, no writing, no screens with readable text, no symbols, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.17,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 50.0,
+    "y_pct": 40.0,
+    "face_detected": false
+   }
+  },
+  {
+   "id": "beat_002",
+   "startMs": 38191,
+   "endMs": 69322,
+   "new_image_reason": "new location: the rich and powerful enter the bunkers",
+   "characters": [],
+   "location": "a colossal round steel blast door set into the face of a dark rocky mountain, a wide concrete ramp leading up to it, the burned grey ash plain stretching away below",
+   "location_key": "bunker_gate",
+   "mood": "ash-dark sky with a distant orange glow on the horizon, warm golden light spilling out of the open blast door, ominous, the end of the old world",
+   "visual": "a long line of well-dressed wealthy people in long dark coats, the women in hijabs, walking up a concrete ramp into the open colossal round blast door glowing with warm gold light inside, seen from behind and small in the frame, the burned land and orange horizon glow behind them",
+   "camera": "wide shot from below the ramp, the glowing door in the upper half, the grey ramp as the calm lower third",
+   "image": "images/beat_002.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "wasteland",
+   "shots": [
+    {
+     "id": "shot_005",
+     "startMs": 38191,
+     "endMs": 47851,
+     "narration_dhivehi": "ނިއުކްލިއާ ހަތިޔާރު ބޭނުންކުރަން ފެށުމުން ދުނިޔޭގައި އޭރު ތިބި މުއްސަނދިންނާއި ގައުމުތަކުގެ ވެރިން ދުނިޔޭގެ އެކި ސަރަހައްދުތަކުގައި ބޮޑެތި ބަންކަރު",
+     "narration_english": "When nuclear weapons began to be used, the rich of the world and the leaders of nations, in different regions of the world, prepared huge bunkers",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_006",
+     "startMs": 47851,
+     "endMs": 58681,
+     "narration_dhivehi": "ތަކެއް / ބިންގަރާސް ތަކެއް ތައްޔާރުކޮށް މަދުވެގެން 50 އަހަރަށް މިތަންތަނުގައި ދިރިތިބެވޭނެ ވަރަށް ކާބޯތަކެއްޗާއި ދިރިހުރުމަށް ބޭނުންވާ އެކި ނިޒާމްތަކާއި އާލާތްތައް،",
+     "narration_english": "— underground shelters — stocked with enough food to survive in them for at least 50 years, with the systems and equipment needed to stay alive,",
+     "crop": "tight",
+     "motion": "pan up",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      38.3,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_007",
+     "startMs": 58681,
+     "endMs": 69322,
+     "narration_dhivehi": "ބޮޑެތި މެޝިނުތައް މިތަންތަނުގައި ގާއިމްކޮށް މިތަންތަނުގައި ވަޒަންވެރިވާން ފެށިއެވެ. މި ބަންކަރުތަކަށް ވަދެވެނީ ހަމައެކަނި މުއްސަނދިންނާއި ސިޔާސީ ނުފޫޒު ވަރުގަދަ ވެރިންނަށެވެ.",
+     "narration_english": "installed huge machines in them, and began to settle there. Only the rich and politically powerful leaders could enter these bunkers.",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [
+      {
+       "name": "metal_door",
+       "atMs": 65001,
+       "gainDb": -18,
+       "word": "ވަދެވެނީ"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Cinematic semi-realistic digital illustration in a dark gritty dystopian sci-fi style matching a post-apocalyptic underground bunker city: rusted steel walls, pipes, steam and haze, warm amber and sodium-orange work lights against cold steel-blue and teal shadows, the luxurious upper levels in clean white, glass and soft gold light, volumetric light shafts, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and calm, uncluttered space at the bottom (floor, grating, table top, soft shadow) for a logo.\nScene: a long line of well-dressed wealthy people in long dark coats, the women in hijabs, walking up a concrete ramp into the open colossal round blast door glowing with warm gold light inside, seen from behind and small in the frame, the burned land and orange horizon glow behind them. Location: a colossal round steel blast door set into the face of a dark rocky mountain, a wide concrete ramp leading up to it, the burned grey ash plain stretching away below. Camera: wide shot from below the ramp, the glowing door in the upper half, the grey ramp as the calm lower third.\nMood/lighting: ash-dark sky with a distant orange glow on the horizon, warm golden light spilling out of the open blast door, ominous, the end of the old world.\nModest clothing (women in loose long-sleeved ankle-length clothing with a hijab fully covering hair and neck; men in long-sleeved shirts or jackets and long trousers), culturally respectful, no guns, no knives, no weapons visible, no violence shown, no blood, no wounds, no gore, no dead bodies, no text, no letters, no numbers, no writing, no screens with readable text, no symbols, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.215,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 68.0,
+    "y_pct": 29.7,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_003",
+   "startMs": 69322,
+   "endMs": 98342,
+   "new_image_reason": "new group and action: poor workers are brought in to run the machines as slaves",
+   "characters": [],
+   "location": "a vast dim underground machinery shaft inside a newly built bunker, a long steep steel staircase descending past giant pipes, pumps and generators into the dark depths",
+   "location_key": "bunker_stairs",
+   "mood": "dim amber work lights and sodium-orange glow from below, cold steel-blue shadows, oppressive, the start of servitude",
+   "visual": "a line of thin poor men in ragged worn work clothes and long trousers descending a long steep steel staircase into the dark machinery depths, heads bowed, carrying tool bags, two stern guards in grey uniforms with empty hands watching from a landing above, giant pumps and pipes below glowing orange",
+   "camera": "high-angle wide shot looking down the staircase, figures in the upper two-thirds, dark grating at the bottom",
+   "image": "images/beat_003.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "bunker_machinery",
+   "shots": [
+    {
+     "id": "shot_008",
+     "startMs": 69322,
+     "endMs": 80712,
+     "narration_dhivehi": "އެހެންނަމަވެސް، ހަނގުރާމައިގެ އެންމެ ފަހު ދުވަސްކޮޅު، މި މީހުން ދިރިތިބުމަށް މިތަންތަނުގައި ގާއިމްކޮށްފައިވާ ނިޒާމްތަކާއި ބޮޑެތި މެޝިނުތައް ހުއްޓުމެއްނެތި އޮޕަރޭޓު ކުރުމަށާއި،",
+     "narration_english": "However, in the last days of the war, to operate without pause the systems and huge machines installed there to keep these people alive,",
+     "crop": "full",
+     "motion": "pan down",
+     "sfx": [
+      {
+       "name": "power_up",
+       "atMs": 79162,
+       "gainDb": -20,
+       "word": "އޮޕަރޭޓު"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_009",
+     "startMs": 80712,
+     "endMs": 88032,
+     "narration_dhivehi": "މި އެއްޗެހި މަރާމާތު ކުރުމަށް ފަގީރުންގެ ތެރެއިން ނަސީބު ހުރި ބައެއް މީހުން މިތަންތަނަށް ވެއްދިއެވެ. ނަމަވެސް،",
+     "narration_english": "and to repair them, some lucky ones from among the poor were let into these places. But,",
+     "crop": "tight",
+     "motion": "static drift",
+     "sfx": [
+      {
+       "name": "footsteps_pavement",
+       "atMs": 86422,
+       "gainDb": -22,
+       "word": "ވެއްދިއެވެ."
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      20.3,
+      4.8,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_010",
+     "startMs": 88032,
+     "endMs": 98342,
+     "narration_dhivehi": "މި މީހުން އުޅެންޖެހުނީ އަޅުވެތިކަމުގެ ތެރޭގައޭ ބުންޔަސް ދޮގަކަށް ނުވާނެއެވެ. ދުނިޔޭގެ އެކި ކަންކޮޅުތަކުގައި މިފަދަ 4 ބަންކަރު / ބިންގަރާސް ގާއިމްކުރެވިފައި ވެއެވެ.",
+     "narration_english": "it would be no lie to say these people had to live in slavery. Four such bunkers were built in different corners of the world.",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Cinematic semi-realistic digital illustration in a dark gritty dystopian sci-fi style matching a post-apocalyptic underground bunker city: rusted steel walls, pipes, steam and haze, warm amber and sodium-orange work lights against cold steel-blue and teal shadows, the luxurious upper levels in clean white, glass and soft gold light, volumetric light shafts, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and calm, uncluttered space at the bottom (floor, grating, table top, soft shadow) for a logo.\nScene: a line of thin poor men in ragged worn work clothes and long trousers descending a long steep steel staircase into the dark machinery depths, heads bowed, carrying tool bags, two stern guards in grey uniforms with empty hands watching from a landing above, giant pumps and pipes below glowing orange. Location: a vast dim underground machinery shaft inside a newly built bunker, a long steep steel staircase descending past giant pipes, pumps and generators into the dark depths. Camera: high-angle wide shot looking down the staircase, figures in the upper two-thirds, dark grating at the bottom.\nMood/lighting: dim amber work lights and sodium-orange glow from below, cold steel-blue shadows, oppressive, the start of servitude.\nModest clothing (women in loose long-sleeved ankle-length clothing with a hijab fully covering hair and neck; men in long-sleeved shirts or jackets and long trousers), culturally respectful, no guns, no knives, no weapons visible, no violence shown, no blood, no wounds, no gore, no dead bodies, no text, no letters, no numbers, no writing, no screens with readable text, no symbols, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.075,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 50.0,
+    "y_pct": 40.0,
+    "face_detected": false
+   }
+  },
+  {
+   "id": "beat_004",
+   "startMs": 98342,
+   "endMs": 114043,
+   "new_image_reason": "new location: 'The Sanctuary' near Bremen, two miles underground, divided into seven levels",
+   "characters": [],
+   "location": "a gigantic underground bunker seen in cross-section inside a deep shaft of dark rock two miles below the ground, seven stacked levels, a faint shaft of daylight high at the very top",
+   "location_key": "cross_section",
+   "mood": "golden warm light on the top level fading to cold blue and finally to smoky rust-orange glow and red embers at the bottom, epic and ominous",
+   "visual": "a breathtaking cutaway cross-section of the giant bunker in a rock shaft: seven stacked levels like floors of a vast building, the top level glowing gold and white with gardens, middle levels of grey corridors and storage halls, the bottom level a dark rusted smoky maze of machinery with tiny glowing lights, a faint shaft of daylight high above, no labels and no signs",
+   "camera": "wide vertical cutaway view, the levels filling the frame top to bottom, dark rock at the very bottom",
+   "image": "images/beat_004.png",
+   "reuse_of": null,
+   "transition_in": "black",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "bunker_machinery",
+   "shots": [
+    {
+     "id": "shot_011",
+     "startMs": 98342,
+     "endMs": 107123,
+     "narration_dhivehi": "މީގެ ތެރެއިން އެއް ތަނަކީ ޖަރުމަނުގެ ބްރިމެން ސިޓީ ކައިރީގައި ބިމުގެ ދެ މޭލު އަޑީގައި ބިނާކޮށްފައިވާ 'އަމާން ބިންގަރާސް' (ދަ ސެންކްޗުއަރީ) އެވެ.",
+     "narration_english": "One of them is 'The Sanctuary', built two miles beneath the ground near the city of Bremen in Germany.",
+     "crop": "full",
+     "motion": "pan left",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_012",
+     "startMs": 107123,
+     "endMs": 114043,
+     "narration_dhivehi": "މިތަން ވެގެންދިޔައީ އިންސާނިއްޔަތުގެ އާ ދުނިޔެއަކަށެވެ. ނަމަވެސް އެ ދުނިޔެ ބެހިފައިވަނީ ހަތް ފަށަލައަށެވެ.",
+     "narration_english": "This place became a new world for humanity. But that world is divided into seven levels.",
+     "crop": "tight",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      20.3,
+      4.8,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Cinematic semi-realistic digital illustration in a dark gritty dystopian sci-fi style matching a post-apocalyptic underground bunker city: rusted steel walls, pipes, steam and haze, warm amber and sodium-orange work lights against cold steel-blue and teal shadows, the luxurious upper levels in clean white, glass and soft gold light, volumetric light shafts, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and calm, uncluttered space at the bottom (floor, grating, table top, soft shadow) for a logo.\nScene: a breathtaking cutaway cross-section of the giant bunker in a rock shaft: seven stacked levels like floors of a vast building, the top level glowing gold and white with gardens, middle levels of grey corridors and storage halls, the bottom level a dark rusted smoky maze of machinery with tiny glowing lights, a faint shaft of daylight high above, no labels and no signs. Location: a gigantic underground bunker seen in cross-section inside a deep shaft of dark rock two miles below the ground, seven stacked levels, a faint shaft of daylight high at the very top. Camera: wide vertical cutaway view, the levels filling the frame top to bottom, dark rock at the very bottom.\nMood/lighting: golden warm light on the top level fading to cold blue and finally to smoky rust-orange glow and red embers at the bottom, epic and ominous.\nModest clothing (women in loose long-sleeved ankle-length clothing with a hijab fully covering hair and neck; men in long-sleeved shirts or jackets and long trousers), culturally respectful, no guns, no knives, no weapons visible, no violence shown, no blood, no wounds, no gore, no dead bodies, no text, no letters, no numbers, no writing, no screens with readable text, no symbols, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.149,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 50.0,
+    "y_pct": 40.0,
+    "face_detected": false
+   }
+  },
+  {
+   "id": "beat_005",
+   "startMs": 114043,
+   "endMs": 124493,
+   "new_image_reason": "new location: the luxurious upper Level 1 'Udubburi'",
+   "characters": [],
+   "location": "Level 1 'Udubburi', the luxurious top level of the bunker: a vast bright hall of white marble, glass walls and gold trim under a huge glowing artificial sun panel in the ceiling, indoor gardens with green trees and fountains, tables laden with real fruit",
+   "location_key": "level1",
+   "mood": "bright warm golden artificial sunlight, soft white glow, clean fresh air, luxurious and serene, a cold contrast to the levels below",
+   "visual": "elegant wealthy residents in cream and white long robes and coats, the women in light hijabs, strolling and relaxing in a bright marble garden hall under a glowing golden artificial sun, a fountain, crystal bowls of red apples, grapes and oranges on white tables, green trees",
+   "camera": "wide shot, eye level, the people and the glowing ceiling in the upper two-thirds, the polished marble floor as a calm lower third",
+   "image": "images/beat_005.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "upper_balcony",
+   "shots": [
+    {
+     "id": "shot_013",
+     "startMs": 114043,
+     "endMs": 124493,
+     "narration_dhivehi": "އެންމެ މަތީގައިވާ ލެވެލް 1 ނުވަތަ 'އުޑުބުރި' ގައި މަސްނޫއީ އިރުގެ ރަން އަލިކަމާއި، ތާޒާ ވައި އަދި އަސްލު މޭވާއާއި ކާނާގެ ލަގްޒަރީ ދިރިއުޅުމެއް ވެރިން އުޅެމުންދާއިރު،",
+     "narration_english": "While the rulers live a life of luxury on the topmost Level 1, 'Udubburi', with the golden light of an artificial sun, fresh air, real fruit and food,",
+     "crop": "full",
+     "motion": "pan right",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Cinematic semi-realistic digital illustration in a dark gritty dystopian sci-fi style matching a post-apocalyptic underground bunker city: rusted steel walls, pipes, steam and haze, warm amber and sodium-orange work lights against cold steel-blue and teal shadows, the luxurious upper levels in clean white, glass and soft gold light, volumetric light shafts, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and calm, uncluttered space at the bottom (floor, grating, table top, soft shadow) for a logo.\nScene: elegant wealthy residents in cream and white long robes and coats, the women in light hijabs, strolling and relaxing in a bright marble garden hall under a glowing golden artificial sun, a fountain, crystal bowls of red apples, grapes and oranges on white tables, green trees. Location: Level 1 'Udubburi', the luxurious top level of the bunker: a vast bright hall of white marble, glass walls and gold trim under a huge glowing artificial sun panel in the ceiling, indoor gardens with green trees and fountains, tables laden with real fruit. Camera: wide shot, eye level, the people and the glowing ceiling in the upper two-thirds, the polished marble floor as a calm lower third.\nMood/lighting: bright warm golden artificial sunlight, soft white glow, clean fresh air, luxurious and serene, a cold contrast to the levels below.\nModest clothing (women in loose long-sleeved ankle-length clothing with a hijab fully covering hair and neck; men in long-sleeved shirts or jackets and long trousers), culturally respectful, no guns, no knives, no weapons visible, no violence shown, no blood, no wounds, no gore, no dead bodies, no text, no letters, no numbers, no writing, no screens with readable text, no symbols, no watermark.",
+   "logo": {
+    "color": "black",
+    "bg_luminance": 0.828,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 50.0,
+    "y_pct": 40.0,
+    "face_detected": false
+   }
+  },
+  {
+   "id": "beat_006",
+   "startMs": 124493,
+   "endMs": 159304,
+   "new_image_reason": "new location: Sector 7, the living hell at the bottom",
+   "characters": [],
+   "location": "a main corridor of Sector 7, the lowest level of the bunker: towering walls of rusted riveted steel plates streaked with dripping water, broken pipes overhead leaking murky green-brown waste into an open floor channel, puddles, scrap metal",
+   "location_key": "s7_corridor",
+   "mood": "dim flickering yellow bulbs, cold teal shadows, toxic green haze, damp and rotting, hopeless",
+   "visual": "the rusted steel corridor of Sector 7 in damp gloom, water dripping in streaks down the riveted walls, broken pipes overhead leaking murky green-brown sludge into a floor channel, toxic haze hanging in the air, two hunched workers in worn clothes walking away in the distance",
+   "camera": "wide shot down the corridor, one-point perspective, wet floor in the lower third",
+   "image": "images/beat_006.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "corridor_drip",
+   "shots": [
+    {
+     "id": "shot_014",
+     "startMs": 124493,
+     "endMs": 132733,
+     "narration_dhivehi": "އެންމެ އަޑީގައިވާ 'ސެކްޓަރ 7' އަކީ ދަގަނޑު ދަބަރާއި، ކުނިވަހާއި، ތެތްފިނި އަނދިރިކަމުން ފުރިފައިވާ ދިރިހުރި ނަރަކައެކެވެ.",
+     "narration_english": "'Sector 7', at the very bottom, is a living hell full of rust, rot and cold, damp darkness.",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_015",
+     "startMs": 132733,
+     "endMs": 143104,
+     "narration_dhivehi": "މިތަނުގައި ދިރިއުޅެނީ ފަގީރު މަސައްކަތްތެރިންނެވެ. ސެކްޓަރ 7 ގެ ބިޔަ، ދަބަރު ޖަހާފައިވާ ދަގަނޑު ފާރުތަކުން ކެނޑިނޭޅި ތެތްފިނި ފެންތިކިތައް ޖަހަމުންދިޔައިރު،",
+     "narration_english": "Here live the poor workers. While cold damp drops dripped ceaselessly from the vast rusted steel walls of Sector 7,",
+     "crop": "tight",
+     "motion": "pan up",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      40.6,
+      6.3,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_016",
+     "startMs": 143104,
+     "endMs": 150974,
+     "narration_dhivehi": "މަތީ ފަށަލަތަކުގެ ހުރިހާ ކުނިފެނަކާއި ވިހަ ކެމިކަލްތަކެއް ހޮޅިތަކުގެ ޒަރީއާއިން އޮހޮރި ޖަމާވަނީ މި ސަރަހައްދަށެވެ.",
+     "narration_english": "all the waste water and toxic chemicals of the upper levels flow down through pipes and collect in this area.",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_017",
+     "startMs": 150974,
+     "endMs": 159304,
+     "narration_dhivehi": "ޖައްވުގައި އަބަދުވެސް ހަރުލާފައި ހުންނަނީ ދަގަނޑު ކުނިވުމުގެ ހިތި ރަހައާއި ނުރައްކާތެރި ކެމިކަލްތަކުގެ ނޭވާ ހާސްކުރުވާ ވަހެވެ.",
+     "narration_english": "The air always hangs heavy with the bitter taste of rusting steel and the suffocating stench of dangerous chemicals.",
+     "crop": "medium",
+     "motion": "pan down",
+     "sfx": [
+      {
+       "name": "steam_hiss",
+       "atMs": 158104,
+       "gainDb": -22,
+       "word": "ވަހެވެ."
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      28.5,
+      0.0,
+      71.5,
+      84.7
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Cinematic semi-realistic digital illustration in a dark gritty dystopian sci-fi style matching a post-apocalyptic underground bunker city: rusted steel walls, pipes, steam and haze, warm amber and sodium-orange work lights against cold steel-blue and teal shadows, the luxurious upper levels in clean white, glass and soft gold light, volumetric light shafts, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and calm, uncluttered space at the bottom (floor, grating, table top, soft shadow) for a logo.\nScene: the rusted steel corridor of Sector 7 in damp gloom, water dripping in streaks down the riveted walls, broken pipes overhead leaking murky green-brown sludge into a floor channel, toxic haze hanging in the air, two hunched workers in worn clothes walking away in the distance. Location: a main corridor of Sector 7, the lowest level of the bunker: towering walls of rusted riveted steel plates streaked with dripping water, broken pipes overhead leaking murky green-brown waste into an open floor channel, puddles, scrap metal. Camera: wide shot down the corridor, one-point perspective, wet floor in the lower third.\nMood/lighting: dim flickering yellow bulbs, cold teal shadows, toxic green haze, damp and rotting, hopeless.\nModest clothing (women in loose long-sleeved ankle-length clothing with a hijab fully covering hair and neck; men in long-sleeved shirts or jackets and long trousers), culturally respectful, no guns, no knives, no weapons visible, no violence shown, no blood, no wounds, no gore, no dead bodies, no text, no letters, no numbers, no writing, no screens with readable text, no symbols, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.14,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 78.8,
+    "y_pct": 41.5,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_007",
+   "startMs": 159304,
+   "endMs": 196875,
+   "new_image_reason": "action/character change: the roaring machinery and the exhausted workers on 16-hour shifts",
+   "characters": [],
+   "location": "a cavernous hydraulic machinery hall in Sector 7: enormous rusted pistons, pumps and valve wheels, tangled pipes, steam vents, metal catwalks and grating",
+   "location_key": "s7_machinery",
+   "mood": "dim yellowish caged bulbs, sodium-orange glow, steam haze, deafening and oppressive, grim",
+   "visual": "gaunt, exhausted workers — thin men with hollow cheeks in sweat-soaked long-sleeved shirts and one woman in a dark hijab and long coat — straining together to turn a giant rusted valve wheel among enormous hydraulic pistons, their faces drained of hope, dim yellow caged bulbs swinging above, steam rising",
+   "camera": "medium wide shot, faces in the upper half, the metal grating floor as a calm lower third",
+   "image": "images/beat_007.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "bunker_machinery",
+   "shots": [
+    {
+     "id": "shot_018",
+     "startMs": 159304,
+     "endMs": 170044,
+     "narration_dhivehi": "ބިމުގެ ފުންމިނުގައި ހުންނަ ބަރު ހައިޑްރޮލިކް މެޝިނަރީތަކުގެ ހުއްޓުމެއްނެތް ގުގުމުމާއި ދަގަނޑު ތެޅޭ އަޑުތަކުން މުޅި ސެކްޓަރުގެ ކަންފަތްތައް ބައްކޮށްލާފައިވާއިރު،",
+     "narration_english": "While the endless roar of the heavy hydraulic machinery deep underground and the clanging of steel deafened the whole sector,",
+     "crop": "full",
+     "motion": "static drift",
+     "sfx": [
+      {
+       "name": "metal_clang",
+       "atMs": 165084,
+       "gainDb": -18,
+       "word": "ތެޅޭ"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_019",
+     "startMs": 170044,
+     "endMs": 176235,
+     "narration_dhivehi": "ފަނޑު ރީނދޫ ބޮކިތަކުގެ އަލިން ދައްކައިދެނީ ހިތާމައިން ފުރިގެންވާ ބިރުވެރި މަންޒަރުތަކެކެވެ.",
+     "narration_english": "the light of dim yellowish bulbs revealed only fearful scenes full of sorrow.",
+     "crop": "tight",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      20.3,
+      4.8,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_020",
+     "startMs": 176235,
+     "endMs": 187655,
+     "narration_dhivehi": "މި ނިކަމެތި މާހައުލުގައި ދިރިއުޅޭ މަސައްކަތްތެރިން ދުވާލަކު ސޯޅަ ގަޑިއިރު މެދުކެނޑުމެއްނެތި ނުރައްކާތެރި ހޮޅިތަކާއި އިންޖީނުތަކުގެ ބުރަ މަސައްކަތުގައި ހަރަކާތްތެރިވަމުން ދެއެވެ.",
+     "narration_english": "The workers who live in this miserable place labour sixteen hours a day without a break on dangerous pipes and engines.",
+     "crop": "full",
+     "motion": "pan left",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_021",
+     "startMs": 187655,
+     "endMs": 196875,
+     "narration_dhivehi": "އެމީހުންގެ ހަށިގަނޑުތައް ހިކި އަނަރޫފަވެފައިވާއިރު، މޫނުމަތިން ފެންނަނީ ވަރުބަލިކަމާއި އުންމީދު ގެއްލިފައިވާ ކަމުގެ ފުން އަސަރުތަކެވެ.",
+     "narration_english": "Their bodies are dried up and wasted, and their faces show the deep marks of exhaustion and lost hope.",
+     "crop": "medium",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      14.2,
+      0.0,
+      71.5,
+      84.7
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Cinematic semi-realistic digital illustration in a dark gritty dystopian sci-fi style matching a post-apocalyptic underground bunker city: rusted steel walls, pipes, steam and haze, warm amber and sodium-orange work lights against cold steel-blue and teal shadows, the luxurious upper levels in clean white, glass and soft gold light, volumetric light shafts, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and calm, uncluttered space at the bottom (floor, grating, table top, soft shadow) for a logo.\nScene: gaunt, exhausted workers — thin men with hollow cheeks in sweat-soaked long-sleeved shirts and one woman in a dark hijab and long coat — straining together to turn a giant rusted valve wheel among enormous hydraulic pistons, their faces drained of hope, dim yellow caged bulbs swinging above, steam rising. Location: a cavernous hydraulic machinery hall in Sector 7: enormous rusted pistons, pumps and valve wheels, tangled pipes, steam vents, metal catwalks and grating. Camera: medium wide shot, faces in the upper half, the metal grating floor as a calm lower third.\nMood/lighting: dim yellowish caged bulbs, sodium-orange glow, steam haze, deafening and oppressive, grim.\nModest clothing (women in loose long-sleeved ankle-length clothing with a hijab fully covering hair and neck; men in long-sleeved shirts or jackets and long trousers), culturally respectful, no guns, no knives, no weapons visible, no violence shown, no blood, no wounds, no gore, no dead bodies, no text, no letters, no numbers, no writing, no screens with readable text, no symbols, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.103,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 50.0,
+    "y_pct": 40.0,
+    "face_detected": false
+   }
+  },
+  {
+   "id": "beat_008",
+   "startMs": 196875,
+   "endMs": 216626,
+   "new_image_reason": "action change: the grey-paste rations",
+   "characters": [],
+   "location": "a cramped ration hall in Sector 7: a steel serving hatch in a rusted wall, long dented metal tables and benches, pipes along the low ceiling",
+   "location_key": "ration_hall",
+   "mood": "harsh single dim bulbs, grey-green cold light, drab and joyless",
+   "visual": "a queue of weary workers holding dented metal bowls at a steel hatch where a dull grey sticky paste is slopped in; in the foreground a gaunt old worker sits at a metal table staring blankly at the grey paste in his bowl, a spoon in his hand, his eyes empty; a woman in a dark hijab and long coat waits in the queue",
+   "camera": "medium shot, the staring worker's face in the upper half, the metal table top as a calm lower third",
+   "image": "images/beat_008.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "warehouse_crowd",
+   "shots": [
+    {
+     "id": "shot_022",
+     "startMs": 196875,
+     "endMs": 206946,
+     "narration_dhivehi": "ކޮންމެ ދުވަހަކުވެސް މަސައްކަތުގެ މެދުތެރެއިން ދޫކުރާ 'ގްރޭ-ޕޭސްޓް' ކިޔާ އޮލަ، ތަތް ސިންތެޓިކް ކާނާ ކައިގެން އެމީހުން ވަރުބަލިކަން ފިލުވަން މަސައްކަތް ކުރެއެވެ.",
+     "narration_english": "Every day they try to ease their exhaustion by eating a sticky, bitter synthetic food called 'grey paste', handed out in the middle of the work.",
+     "crop": "full",
+     "motion": "pan right",
+     "sfx": [
+      {
+       "name": "cup_clatter",
+       "atMs": 199525,
+       "gainDb": -22,
+       "word": "ދޫކުރާ"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_023",
+     "startMs": 206946,
+     "endMs": 216626,
+     "narration_dhivehi": "އެއީ ހަމައެކަނި ބަނޑުހައިހޫނުކަން ފިލުވައިދޭ އެއްޗެއް ނޫނެވެ؛ އޭގެ ސަބަބުން އެމީހުންގެ ސިކުނޑިތައް ކޮށިވެ، މާޒީގެ ހަނދާންތަކާއި ބަގާވާތުގެ އިހުސާސްތައް ފަނޑުވެ،",
+     "narration_english": "It does not just fill an empty stomach; because of it their minds grow dull, and their memories of the past and their feelings of rebellion fade,",
+     "crop": "tight",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      6.5,
+      4.7,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Cinematic semi-realistic digital illustration in a dark gritty dystopian sci-fi style matching a post-apocalyptic underground bunker city: rusted steel walls, pipes, steam and haze, warm amber and sodium-orange work lights against cold steel-blue and teal shadows, the luxurious upper levels in clean white, glass and soft gold light, volumetric light shafts, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and calm, uncluttered space at the bottom (floor, grating, table top, soft shadow) for a logo.\nScene: a queue of weary workers holding dented metal bowls at a steel hatch where a dull grey sticky paste is slopped in; in the foreground a gaunt old worker sits at a metal table staring blankly at the grey paste in his bowl, a spoon in his hand, his eyes empty; a woman in a dark hijab and long coat waits in the queue. Location: a cramped ration hall in Sector 7: a steel serving hatch in a rusted wall, long dented metal tables and benches, pipes along the low ceiling. Camera: medium shot, the staring worker's face in the upper half, the metal table top as a calm lower third.\nMood/lighting: harsh single dim bulbs, grey-green cold light, drab and joyless.\nModest clothing (women in loose long-sleeved ankle-length clothing with a hijab fully covering hair and neck; men in long-sleeved shirts or jackets and long trousers), culturally respectful, no guns, no knives, no weapons visible, no violence shown, no blood, no wounds, no gore, no dead bodies, no text, no letters, no numbers, no writing, no screens with readable text, no symbols, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.184,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 36.2,
+    "y_pct": 40.0,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_009",
+   "startMs": 216626,
+   "endMs": 249367,
+   "new_image_reason": "new location: the steel-bunk dormitory — daily routine and a world without sky",
+   "characters": [],
+   "location": "a cavernous workers' dormitory in Sector 7: endless rows of stacked bare steel bunks three high, narrow muddy walkways between them, damp rusted walls, a low dark ceiling of pipes",
+   "location_key": "dormitory",
+   "mood": "very dim amber bulbs far apart, deep blue-black shadows, damp haze, weary and hopeless",
+   "visual": "endless rows of stacked bare steel bunks in a dim cavernous hall, tired workers sitting hunched on the edges of the bunks, a young worker lying on a top bunk staring up at the low dark ceiling of pipes where there is no sky, muddy walkway between the rows",
+   "camera": "wide shot down the aisle between the bunks, the muddy walkway forming the lower third",
+   "image": "images/beat_009.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "corridor_drip",
+   "shots": [
+    {
+     "id": "shot_024",
+     "startMs": 216626,
+     "endMs": 230646,
+     "narration_dhivehi": "އަޅުވެތިކަމަށް ލޯމަރާލަން މަޖުބޫރުކުރުވައެވެ. ދަގަނޑު އެނދުތަކާއި ކިސަޑު މަގުތަކުގެ މަތީގައި، ކޮންމެ ދުވަހަކު ތަކުރާރުވާ މި އަނދިރި އަދި އަނިޔާވެރި ތާވަލަކީ ސެކްޓަރ 7 ގެ ރައްޔިތުންނަށް ދިރިއުޅުމުގެ ހަމައެކަނި ހަގީގަތެވެ.",
+     "narration_english": "forcing them to shut their eyes to slavery. On steel bunks and muddy paths, this dark and cruel routine, repeated every day, is the only reality of life for the people of Sector 7.",
+     "crop": "full",
+     "motion": "pan up",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_025",
+     "startMs": 230646,
+     "endMs": 238136,
+     "narration_dhivehi": "އެމީހުން ދުވަހަކުވެސް ސާފު ވައިގެ ތާޒާކަމެއް ނުދެކެއެވެ. އަދި ބިމުގެ މަތީގައި ވާނެ އުޑެއްގެ ނޫކުލައެއް ތަސައްވުރެއް ނުކުރެވެއެވެ.",
+     "narration_english": "They have never known the freshness of clean air. Nor can they even imagine the blue colour of a sky above the ground.",
+     "crop": "tight",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      20.3,
+      4.8,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_026",
+     "startMs": 238136,
+     "endMs": 249367,
+     "narration_dhivehi": "މި އަނދިރި ބިންގަރާހުގެ އެންމެ ފުނުގައި، ދަގަނޑު ދަބަރުގެ ދުމުގެ ތެރޭގައި އެތައް ހާސް އިންސާނުންނެއް ހަނގުރާމަކުރަމުން ދިޔައީ ހަމައެކަނި އަނެއް ދުވަހަށް ދިރިހުރުމުގެ ހިތި އުންމީދުގައެވެ.",
+     "narration_english": "In the depths of this dark bunker, in the smoke of rusting steel, thousands of people struggled on with nothing but the bitter hope of surviving one more day.",
+     "crop": "full",
+     "motion": "pan down",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Cinematic semi-realistic digital illustration in a dark gritty dystopian sci-fi style matching a post-apocalyptic underground bunker city: rusted steel walls, pipes, steam and haze, warm amber and sodium-orange work lights against cold steel-blue and teal shadows, the luxurious upper levels in clean white, glass and soft gold light, volumetric light shafts, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and calm, uncluttered space at the bottom (floor, grating, table top, soft shadow) for a logo.\nScene: endless rows of stacked bare steel bunks in a dim cavernous hall, tired workers sitting hunched on the edges of the bunks, a young worker lying on a top bunk staring up at the low dark ceiling of pipes where there is no sky, muddy walkway between the rows. Location: a cavernous workers' dormitory in Sector 7: endless rows of stacked bare steel bunks three high, narrow muddy walkways between them, damp rusted walls, a low dark ceiling of pipes. Camera: wide shot down the aisle between the bunks, the muddy walkway forming the lower third.\nMood/lighting: very dim amber bulbs far apart, deep blue-black shadows, damp haze, weary and hopeless.\nModest clothing (women in loose long-sleeved ankle-length clothing with a hijab fully covering hair and neck; men in long-sleeved shirts or jackets and long trousers), culturally respectful, no guns, no knives, no weapons visible, no violence shown, no blood, no wounds, no gore, no dead bodies, no text, no letters, no numbers, no writing, no screens with readable text, no symbols, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.129,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 50.0,
+    "y_pct": 40.0,
+    "face_detected": false
+   }
+  },
+  {
+   "id": "beat_010",
+   "startMs": 249367,
+   "endMs": 278908,
+   "new_image_reason": "character introduced: Aira at work in the main engine room",
+   "characters": [
+    "aira"
+   ],
+   "location": "the main engine room of Sector 7: huge humming turbines and thick riveted pipes that carry clean water and oxygen up to Level 1, round pressure valves with blank gauge faces, steam and heat haze, metal grating floor",
+   "location_key": "engine_room",
+   "mood": "intense heat, amber and sodium-orange work lights, glowing heat haze, steam, sweat and exhaustion",
+   "visual": "Aira, sweat on her forehead and a grease smudge on her cheek, straining with both hands on a huge spanner to tighten a bolt on a thick riveted pipe flange, squinting through heat haze and smoke, a heavy cutter tool hanging from her belt, huge turbines behind her",
+   "camera": "medium shot, eye level, her face in the upper third, the grating floor below",
+   "image": "images/beat_010.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "engine_room",
+   "shots": [
+    {
+     "id": "shot_027",
+     "startMs": 249367,
+     "endMs": 263607,
+     "narration_dhivehi": "ސެކްޓަރ 7 ގެ މައި އިންޖީނުގެ ތެރޭގައި ހޫނުމިން އިންތިހާއަށް މައްޗަށް ގޮސްފައިވާއިރު، ބޯ ދުމާއި ކެމިކަލްތަކުގެ ތެރެއިން ނޭވާލާން މަސައްކަތްކުރަމުން ދިޔަ އުމުރުން ސައްވީސް އަހަރުގެ އައިރާގެ ނިތްކުރިން ދާތައް ފައިބަމުން ދިޔައެވެ.",
+     "narration_english": "Inside Sector 7's main engine, where the heat had risen to the extreme, sweat was running down the forehead of 26-year-old Aira as she struggled to breathe through the thick smoke and chemicals.",
+     "crop": "full",
+     "motion": "static drift",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_028",
+     "startMs": 263607,
+     "endMs": 278908,
+     "narration_dhivehi": "ބޮޑެތި ސްޕެނާތަކާއި ކަޓަރުތައް ހިފައިގެން މަތީ ފަންތީގެ ލެވެލް 1 ކަށް ބޭނުންވާ ސާފު ފެނާއި އޮކްސިޖަން ދައުރުކުރާ ބިޔަ ހޮޅިތަކުގެ ބެލެހެއްޓުމުގައި އައިރާ ހޭދަކުރާ ސޯޅަ ގަޑިއިރަކީ އޭނާގެ ހަށިގަނޑުން ހަކަތަ ހުސްކޮށްލާ ވޭނީ ތަކުލީފެކެވެ.",
+     "narration_english": "The sixteen hours Aira spends with heavy spanners and cutters, maintaining the huge pipes that carry clean water and oxygen up to Level 1, are a painful ordeal that drains all strength from her body.",
+     "crop": "tight",
+     "motion": "slow push-in",
+     "sfx": [
+      {
+       "name": "metal_clang",
+       "atMs": 264207,
+       "gainDb": -20,
+       "word": "ސްޕެނާތަކާއި"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      23.0,
+      0.0,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Aira), create a new scene: Cinematic semi-realistic digital illustration in a dark gritty dystopian sci-fi style matching a post-apocalyptic underground bunker city: rusted steel walls, pipes, steam and haze, warm amber and sodium-orange work lights against cold steel-blue and teal shadows, the luxurious upper levels in clean white, glass and soft gold light, volumetric light shafts, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and calm, uncluttered space at the bottom (floor, grating, table top, soft shadow) for a logo.\nScene: Aira, sweat on her forehead and a grease smudge on her cheek, straining with both hands on a huge spanner to tighten a bolt on a thick riveted pipe flange, squinting through heat haze and smoke, a heavy cutter tool hanging from her belt, huge turbines behind her. Location: the main engine room of Sector 7: huge humming turbines and thick riveted pipes that carry clean water and oxygen up to Level 1, round pressure valves with blank gauge faces, steam and heat haze, metal grating floor. Camera: medium shot, eye level, her face in the upper third, the grating floor below.\nCharacters: Aira: a slim athletic Maldivian young woman of 26 with warm brown skin, a determined oval face, large dark intense eyes, straight dark eyebrows and a faint grease smudge on one cheek; wears a loose ankle-length dark olive-brown canvas work coat buttoned to the neck with long sleeves, loose dark trousers and scuffed boots, a charcoal-grey hijab wrapped snugly and fully covering her hair and neck, and a small worn steel tag pendant on a thin chain over her hijab at the chest.\nMood/lighting: intense heat, amber and sodium-orange work lights, glowing heat haze, steam, sweat and exhaustion.\nModest clothing (women in loose long-sleeved ankle-length clothing with a hijab fully covering hair and neck; men in long-sleeved shirts or jackets and long trousers), culturally respectful, no guns, no knives, no weapons visible, no violence shown, no blood, no wounds, no gore, no dead bodies, no text, no letters, no numbers, no writing, no screens with readable text, no symbols, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.101,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 52.7,
+    "y_pct": 22.2,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_011",
+   "startMs": 278908,
+   "endMs": 292858,
+   "new_image_reason": "return to Level 1 for the contrast with the rich enjoying cool air",
+   "characters": [],
+   "location": "Level 1 'Udubburi', the luxurious top level of the bunker: a vast bright hall of white marble, glass walls and gold trim under a huge glowing artificial sun panel in the ceiling, indoor gardens with green trees and fountains, tables laden with real fruit",
+   "location_key": "level1",
+   "mood": "bright warm golden artificial sunlight, soft white glow, clean fresh air, luxurious and serene, a cold contrast to the levels below",
+   "visual": "(reuse of beat_005) the bright luxurious Level 1 garden hall",
+   "camera": "medium shot, eye level",
+   "image": "images/beat_005.png",
+   "reuse_of": "beat_005",
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "upper_balcony",
+   "shots": [
+    {
+     "id": "shot_029",
+     "startMs": 278908,
+     "endMs": 292858,
+     "narration_dhivehi": "މަތީ ފަށަލައިގެ މުއްސަނދިން ފިނި އަދި ތާޒާ ވައިގެ އަރާމު ހޯދަމުން ދިޔައިރު، އެމީހުންގެ އެ ލަގްޒަރީ ދިރިއުޅުން ފުރިހަމަކޮށްދިނުމަށްޓަކައި އައިރާމެން ފަދަ އެތައް ސަތޭކަ މަސައްކަތްތެރިން ބިމުގެ އަޑީގައި ފިހެމުން ދިޔައެވެ.",
+     "narration_english": "While the rich of the upper level enjoyed the comfort of cool, fresh air, hundreds of workers like Aira were being ground down deep under the earth to keep their luxurious life complete.",
+     "crop": "medium",
+     "motion": "pan left",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      14.2,
+      0.0,
+      71.5,
+      84.7
+     ]
+    }
+   ],
+   "prompt_attempts": [],
+   "logo": {
+    "color": "black",
+    "bg_luminance": 0.785,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 50.0,
+    "y_pct": 40.0,
+    "face_detected": false
+   }
+  },
+  {
+   "id": "beat_012",
+   "startMs": 292858,
+   "endMs": 325309,
+   "new_image_reason": "characters enter: the overseer bangs a pipe and threatens rations; Bashir flinches",
+   "characters": [
+    "aira",
+    "bashir"
+   ],
+   "location": "the main engine room of Sector 7: huge humming turbines and thick riveted pipes that carry clean water and oxygen up to Level 1, round pressure valves with blank gauge faces, steam and heat haze, metal grating floor",
+   "location_key": "engine_room",
+   "mood": "intense heat, amber and sodium-orange work lights, glowing heat haze, steam, sweat and exhaustion",
+   "visual": "Aira standing at a large round pressure valve with a blank gauge, staring at it without blinking; beside her old Bashir flinching, shoulders hunched, head bowed in fear; to the left a stern Council overseer in a grey-black uniform and visor cap strikes a pipe with a short plain steel rod, shouting, his free hand pointing at them; the overseer keeps well apart from them",
+   "camera": "medium wide three-figure shot, faces in the upper half, the grating floor as a calm lower third",
+   "image": "images/beat_012.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": "other",
+   "safe_substitution": "the overseer's threat is shown only as him striking a pipe and shouting; no one is touched or hit",
+   "ambience": "engine_room",
+   "shots": [
+    {
+     "id": "shot_030",
+     "startMs": 292858,
+     "endMs": 304228,
+     "narration_dhivehi": "ކަންފަތް ބައްވާ ފަދަ ގަދަފަދަ އަޑުފައްގަނޑާއެކު ދައުރުވާ ޓާބައިންތަކުގެ އަޑުގެ ތެރެއިން އައިރާ ކަޅިޖަހައިނުލާ ބަލަހައްޓައިގެން ހުރީ އޭނާގެ ކުރިމަތީގައިވާ ޕްރެޝަރ ވޭލްވް އަށެވެ.",
+     "narration_english": "Amid the deafening roar of the turbines, Aira stood watching the pressure valve in front of her without blinking.",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [
+      {
+       "name": "engine_rev",
+       "atMs": 296348,
+       "gainDb": -20,
+       "word": "ޓާބައިންތަކުގެ"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_031",
+     "startMs": 304228,
+     "endMs": 311789,
+     "narration_dhivehi": "އެވަގުތު ކައުންސިލްގެ ހަރުކަށި އޯވަސީއަރަކު އައިސް ދަގަނޑު އަސާގަނޑަކުން ހޮޅިއެއްގައި ޖަހައި ގުގުމާލިއެވެ. \"ހަލުވިކުރޭ!",
+     "narration_english": "Just then a harsh Council overseer came and struck a pipe with a steel rod, making it ring out. \"Hurry up!",
+     "crop": "tight",
+     "motion": "pan right",
+     "sfx": [
+      {
+       "name": "metal_clang",
+       "atMs": 309429,
+       "gainDb": -14,
+       "word": "ޖަހައި"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      40.6,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_032",
+     "startMs": 311789,
+     "endMs": 325309,
+     "narration_dhivehi": "ތިޔަހެން ބަލަން ތިބެއްޖެނަމަ މިއަދުގެ ރޭޝަން ކަނޑާލާނަން!\" އޯވަސީއަރުގެ ހަރުކަށި އަޑުން އައިރާގެ ކައިރީގައި މަސައްކަތްކުރަމުން ދިޔަ އުމުރުން ދުވަސްވީ އެކުވެރިޔާ ބަޝީރު ސިއްސައިގެން ގޮސް ބިރުން އިސްޖަހާލިއެވެ.",
+     "narration_english": "If you stand there staring like that, I'll cut today's rations!\" At the overseer's harsh voice, Aira's old friend Bashir, working beside her, flinched and bowed his head in fear.",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [
+      {
+       "name": "gasp",
+       "atMs": 322809,
+       "gainDb": -22,
+       "word": "ސިއްސައިގެން"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Aira; reference image 2 is Bashir), create a new scene: Cinematic semi-realistic digital illustration in a dark gritty dystopian sci-fi style matching a post-apocalyptic underground bunker city: rusted steel walls, pipes, steam and haze, warm amber and sodium-orange work lights against cold steel-blue and teal shadows, the luxurious upper levels in clean white, glass and soft gold light, volumetric light shafts, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and calm, uncluttered space at the bottom (floor, grating, table top, soft shadow) for a logo.\nScene: Aira standing at a large round pressure valve with a blank gauge, staring at it without blinking; beside her old Bashir flinching, shoulders hunched, head bowed in fear; to the left a stern Council overseer in a grey-black uniform and visor cap strikes a pipe with a short plain steel rod, shouting, his free hand pointing at them; the overseer keeps well apart from them. Location: the main engine room of Sector 7: huge humming turbines and thick riveted pipes that carry clean water and oxygen up to Level 1, round pressure valves with blank gauge faces, steam and heat haze, metal grating floor. Camera: medium wide three-figure shot, faces in the upper half, the grating floor as a calm lower third.\nCharacters: Aira: a slim athletic Maldivian young woman of 26 with warm brown skin, a determined oval face, large dark intense eyes, straight dark eyebrows and a faint grease smudge on one cheek; wears a loose ankle-length dark olive-brown canvas work coat buttoned to the neck with long sleeves, loose dark trousers and scuffed boots, a charcoal-grey hijab wrapped snugly and fully covering her hair and neck, and a small worn steel tag pendant on a thin chain over her hijab at the chest. Bashir: a thin bony stooped Maldivian man about 60 with warm brown skin, a gaunt hollow-cheeked face, tired kind eyes and short patchy grey stubble; wears a dark knitted cap, a grimy faded blue long-sleeved work shirt and patched grey work trousers.\nMood/lighting: intense heat, amber and sodium-orange work lights, glowing heat haze, steam, sweat and exhaustion.\nModest clothing (women in loose long-sleeved ankle-length clothing with a hijab fully covering hair and neck; men in long-sleeved shirts or jackets and long trousers), culturally respectful, no guns, no knives, no weapons visible, no violence shown, no blood, no wounds, no gore, no dead bodies, no text, no letters, no numbers, no writing, no screens with readable text, no symbols, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.095,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 75.8,
+    "y_pct": 22.5,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_013",
+   "startMs": 325309,
+   "endMs": 347220,
+   "new_image_reason": "action change: the overseer has gone; Bashir whispers his warning, Aira's eyes burn",
+   "characters": [
+    "aira",
+    "bashir"
+   ],
+   "location": "the main engine room of Sector 7: huge humming turbines and thick riveted pipes that carry clean water and oxygen up to Level 1, round pressure valves with blank gauge faces, steam and heat haze, metal grating floor",
+   "location_key": "engine_room",
+   "mood": "intense heat, amber and sodium-orange work lights, glowing heat haze, steam, sweat and exhaustion",
+   "visual": "old Bashir on the left and Aira on the right standing on either side of a thick vertical pipe, a clear gap of more than an arm's length between them, not touching; Bashir glances sideways towards her and whispers with frightened, tired eyes, his head low; Aira looks straight ahead past the camera, her dark eyes burning with defiance and anger, jaw set, orange light from a turbine on her face",
+   "camera": "medium two-shot, eye level, the two figures clearly separated by the pipe, faces in the upper half, a pipe rail and dark grating in the lower third",
+   "image": "images/beat_013.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": "other",
+   "safe_substitution": "regenerated: first image had Bashir's shoulder pressed against Aira's; now separated by a pipe (no touching rule)",
+   "ambience": "engine_room",
+   "shots": [
+    {
+     "id": "shot_033",
+     "startMs": 325309,
+     "endMs": 332479,
+     "narration_dhivehi": "އޯވަސީއަރު ދުރަށް ދިޔުމާއެކު ބަޝީރު މަޑުމައިތިރި އަޑަކުން ބުންޏެވެ. \"އައިރާ، އެމީހުންގެ ކުރިމަތީގައި ލޯއުފުލައި ނުބަލާތި.",
+     "narration_english": "When the overseer had gone, Bashir said in a quiet voice: \"Aira, don't raise your eyes in front of them.",
+     "crop": "full",
+     "motion": "pan up",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_034",
+     "startMs": 332479,
+     "endMs": 338799,
+     "narration_dhivehi": "އަހަރެމެންނަކީ އެމީހުންނަށް ހަމައެކަނި ބޭނުންކޮށްފައި އުކާލާ ދަގަނޑު ކޮޅެއް ފަދަ ބައެއް.\"",
+     "narration_english": "To them we are nothing but scraps of iron, used and thrown away.\"",
+     "crop": "tight",
+     "motion": "slow pull-out",
+     "sfx": [
+      {
+       "name": "sigh",
+       "atMs": 337809,
+       "gainDb": -22,
+       "word": "ބައެއް.\""
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      40.6,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_035",
+     "startMs": 338799,
+     "endMs": 347220,
+     "narration_dhivehi": "ނަމަވެސް އައިރާގެ އެތެރޭގައި އަނދަމުން ދިޔައީ ކިޔަމަންތެރިކަމެއް ނޫނެވެ؛ ނާއިންސާފާމެދު އުފެދިފައިވާ ނަފުރަތާއި ބަދަލުހިފުމުގެ ހުޅުކޮޅެކެވެ.",
+     "narration_english": "But what burned inside Aira was not obedience; it was a flame of hatred for the injustice, and of revenge.",
+     "crop": "full",
+     "motion": "pan down",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Aira; reference image 2 is Bashir), create a new scene: Cinematic semi-realistic digital illustration in a dark gritty dystopian sci-fi style matching a post-apocalyptic underground bunker city: rusted steel walls, pipes, steam and haze, warm amber and sodium-orange work lights against cold steel-blue and teal shadows, the luxurious upper levels in clean white, glass and soft gold light, volumetric light shafts, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and calm, uncluttered space at the bottom (floor, grating, table top, soft shadow) for a logo.\nScene: old Bashir on the left and Aira on the right standing on either side of a thick vertical pipe, a clear gap of more than an arm's length between them, not touching; Bashir glances sideways towards her and whispers with frightened, tired eyes, his head low; Aira looks straight ahead past the camera, her dark eyes burning with defiance and anger, jaw set, orange light from a turbine on her face. Location: the main engine room of Sector 7: huge humming turbines and thick riveted pipes that carry clean water and oxygen up to Level 1, round pressure valves with blank gauge faces, steam and heat haze, metal grating floor. Camera: medium two-shot, eye level, the two figures clearly separated by the pipe, faces in the upper half, a pipe rail and dark grating in the lower third.\nCharacters: Aira: a slim athletic Maldivian young woman of 26 with warm brown skin, a determined oval face, large dark intense eyes, straight dark eyebrows and a faint grease smudge on one cheek; wears a loose ankle-length dark olive-brown canvas work coat buttoned to the neck with long sleeves, loose dark trousers and scuffed boots, a charcoal-grey hijab wrapped snugly and fully covering her hair and neck, and a small worn steel tag pendant on a thin chain over her hijab at the chest. Bashir: a thin bony stooped Maldivian man about 60 with warm brown skin, a gaunt hollow-cheeked face, tired kind eyes and short patchy grey stubble; wears a dark knitted cap, a grimy faded blue long-sleeved work shirt and patched grey work trousers.\nMood/lighting: intense heat, amber and sodium-orange work lights, glowing heat haze, steam, sweat and exhaustion.\nModest clothing (women in loose long-sleeved ankle-length clothing with a hijab fully covering hair and neck; men in long-sleeved shirts or jackets and long trousers), culturally respectful, no guns, no knives, no weapons visible, no violence shown, no blood, no wounds, no gore, no dead bodies, no text, no letters, no numbers, no writing, no screens with readable text, no symbols, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.139,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 77.3,
+    "y_pct": 25.4,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_014",
+   "startMs": 347220,
+   "endMs": 356060,
+   "new_image_reason": "action change: on her break Aira takes out her father's pendant",
+   "characters": [
+    "aira"
+   ],
+   "location": "the main engine room of Sector 7: huge humming turbines and thick riveted pipes that carry clean water and oxygen up to Level 1, round pressure valves with blank gauge faces, steam and heat haze, metal grating floor",
+   "location_key": "engine_room",
+   "mood": "intense heat, amber and sodium-orange work lights, glowing heat haze, steam, sweat and exhaustion",
+   "visual": "Aira sitting exhausted on an upturned metal crate in a quieter corner of the engine room, pulling a small worn steel tag pendant on a thin chain out from the collar of her coat, gazing at it with tired, softened eyes, steam drifting behind her",
+   "camera": "medium shot, slightly from the side, her face and hands in the upper half, the floor below",
+   "image": "images/beat_014.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "engine_room",
+   "shots": [
+    {
+     "id": "shot_036",
+     "startMs": 347220,
+     "endMs": 356060,
+     "narration_dhivehi": "ވަރުބަލިކަމާއެކު މަސައްކަތުގެ ކުޑަ ވަގުތުކޮޅެއްގެ ބްރޭކުގައި އައިރާ އޭނާގެ ގަމީހުގެ އެތެރެއިން ނެގީ ބައްޕަ މާލިކް ދީފައިވާ ދަގަނޑު ފަށެވެ.",
+     "narration_english": "Exhausted, during a short break from work, Aira took out from inside her shirt the steel pendant her father Malik had given her.",
+     "crop": "full",
+     "motion": "static drift",
+     "sfx": [
+      {
+       "name": "cloth_rustle",
+       "atMs": 352950,
+       "gainDb": -24,
+       "word": "ނެގީ"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Aira), create a new scene: Cinematic semi-realistic digital illustration in a dark gritty dystopian sci-fi style matching a post-apocalyptic underground bunker city: rusted steel walls, pipes, steam and haze, warm amber and sodium-orange work lights against cold steel-blue and teal shadows, the luxurious upper levels in clean white, glass and soft gold light, volumetric light shafts, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and calm, uncluttered space at the bottom (floor, grating, table top, soft shadow) for a logo.\nScene: Aira sitting exhausted on an upturned metal crate in a quieter corner of the engine room, pulling a small worn steel tag pendant on a thin chain out from the collar of her coat, gazing at it with tired, softened eyes, steam drifting behind her. Location: the main engine room of Sector 7: huge humming turbines and thick riveted pipes that carry clean water and oxygen up to Level 1, round pressure valves with blank gauge faces, steam and heat haze, metal grating floor. Camera: medium shot, slightly from the side, her face and hands in the upper half, the floor below.\nCharacters: Aira: a slim athletic Maldivian young woman of 26 with warm brown skin, a determined oval face, large dark intense eyes, straight dark eyebrows and a faint grease smudge on one cheek; wears a loose ankle-length dark olive-brown canvas work coat buttoned to the neck with long sleeves, loose dark trousers and scuffed boots, a charcoal-grey hijab wrapped snugly and fully covering her hair and neck, and a small worn steel tag pendant on a thin chain over her hijab at the chest.\nMood/lighting: intense heat, amber and sodium-orange work lights, glowing heat haze, steam, sweat and exhaustion.\nModest clothing (women in loose long-sleeved ankle-length clothing with a hijab fully covering hair and neck; men in long-sleeved shirts or jackets and long trousers), culturally respectful, no guns, no knives, no weapons visible, no violence shown, no blood, no wounds, no gore, no dead bodies, no text, no letters, no numbers, no writing, no screens with readable text, no symbols, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.113,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 47.9,
+    "y_pct": 24.5,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_015",
+   "startMs": 356060,
+   "endMs": 382511,
+   "new_image_reason": "flashback: the night thirteen years ago when her father put the pendant on her",
+   "characters": [
+    "malik"
+   ],
+   "location": "a cramped family living cell inside the bunker thirteen years ago: bare steel walls, a small table, a folded blanket on a narrow cot, a steel door ajar to a corridor",
+   "location_key": "memory_home",
+   "mood": "night thirteen years ago, a single warm bulb, soft hazy dream-like glow at the edges of the frame, tender and frightening",
+   "visual": "Malik kneeling on one knee and gently hugging his small 10-year-old daughter (a little girl in a plain long-sleeved ankle-length dress and a small light headscarf covering her hair) as he fastens a small steel tag pendant on a chain around her neck, his eyes wet and loving, her face puzzled and frightened; in the half-open doorway behind them two shadowy men in grey uniforms wait with empty hands",
+   "camera": "medium shot, eye level at the girl's height, faces in the upper half, the steel floor below",
+   "image": "images/beat_015.png",
+   "reuse_of": null,
+   "transition_in": "dissolve",
+   "sensitive": "other",
+   "safe_substitution": "father-daughter (mahram) gentle farewell hug, allowed; the men taking him are only shadows in the doorway",
+   "ambience": "memory",
+   "shots": [
+    {
+     "id": "shot_037",
+     "startMs": 356060,
+     "endMs": 369610,
+     "narration_dhivehi": "މީގެ ތޭރަ އަހަރު ކުރިން، އައިރާގެ އުމުރުން އެންމެ ދިހަ އަހަރުގައި، މޮޅު އިންޖިނިއަރެއް ކަމުގައިވި އޭނާގެ ބައްޕަ ކުއްލިއަކަށް ސިއްރު ޕްރޮޖެކްޓަކަށް ގެންދެވުނު ރޭގެ ބިރުވެރި ހަނދާންތައް ސިކުނޑީގައި ތާޒާވެގެން ދިޔައެވެ.",
+     "narration_english": "Thirteen years ago, when Aira was only ten, her father, a brilliant engineer, was suddenly taken away to a secret project — and the frightening memories of that night came back fresh in her mind.",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_038",
+     "startMs": 369610,
+     "endMs": 378801,
+     "narration_dhivehi": "އެރޭ އެންމެ ފަހު ފަހަރަށް އައިރާގެ ގައިގައި ބައްދާލަމުން ބައްޕަ ވަނީ އެ ފަށް އައިރާގެ ކަރުގައި އަޅުވައިދީފައެވެ. އޭގެ ފަހުން ބައްޕަގެ އެއްވެސް ޚަބަރެއް ނުލިބި،",
+     "narration_english": "That night, hugging Aira for the last time, her father had put that pendant around her neck. After that no news of her father ever came,",
+     "crop": "tight",
+     "motion": "pan left",
+     "sfx": [
+      {
+       "name": "cloth_rustle",
+       "atMs": 372390,
+       "gainDb": -24,
+       "word": "ބައްދާލަމުން"
+      }
+     ],
+     "hum": true,
+     "crop_rect_pct": [
+      40.6,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_039",
+     "startMs": 378801,
+     "endMs": 382511,
+     "narration_dhivehi": "އެއީ ގެއްލިފައިވާ މީހެއްގެ ގޮތުގައި ކައުންސިލުން ނިންމިއެވެ.",
+     "narration_english": "and the Council declared him missing.",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [
+      {
+       "name": "door_close",
+       "atMs": 381791,
+       "gainDb": -22,
+       "word": "ނިންމިއެވެ."
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "refused",
+     "rewrite_reason": null
+    },
+    {
+     "attempt": 2,
+     "result": "ok",
+     "rewrite_reason": "refused: removed trigger words, neutral emotion/setting wording"
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing, create a new scene: Cinematic semi-realistic digital illustration in a dark gritty dystopian sci-fi style matching a post-apocalyptic underground bunker city: rusted steel walls, pipes, steam and haze, warm amber and sodium-orange work lights against cold steel-blue and teal shadows, the luxurious upper levels in clean white, glass and soft gold light, volumetric light shafts, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and calm, uncluttered space at the bottom (floor, grating, table top, soft shadow) for a logo.\nScene: Malik kneeling on one knee and gently his small 10-year-old daughter (a little girl in a plain long-sleeved ankle-length dress and a small light headscarf covering her hair) as he fastens a small steel tag pendant on a chain around her neck, his eyes wet and loving, her face puzzled and frightened; in the half-open doorway behind them two shadowy men in grey uniforms wait with empty hands, calm and emotional. Location: a cramped family living cell inside the bunker thirteen years ago: bare steel walls, a small table, a folded blanket on a narrow cot, a steel door ajar to a corridor. Camera: medium shot, eye level at the girl's height, faces in the upper half, the steel floor below.\nCharacters: Malik: a Maldivian man about 45 of medium build with warm brown skin, a kind intelligent face, warm dark eyes, short black hair and a neat short black beard; wears a long-sleeved dark-blue engineer's jacket with many pockets over a light grey shirt and dark trousers.\nMood/lighting: night thirteen years ago, a single warm bulb, soft hazy dream-like glow at the edges of the frame, tender and frightening.\nModest clothing (women in loose long-sleeved ankle-length clothing with a hijab fully covering hair and neck; men in long-sleeved shirts or jackets and long trousers), culturally respectful, no guns, no knives, no weapons visible, no violence shown, no blood, no wounds, no gore, no dead bodies, no text, no letters, no numbers, no writing, no screens with readable text, no symbols, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.155,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 79.7,
+    "y_pct": 17.8,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_016",
+   "startMs": 382511,
+   "endMs": 422912,
+   "new_image_reason": "back from the memory: close-up of the pendant code and her vow",
+   "characters": [
+    "aira"
+   ],
+   "location": "the main engine room of Sector 7: huge humming turbines and thick riveted pipes that carry clean water and oxygen up to Level 1, round pressure valves with blank gauge faces, steam and heat haze, metal grating floor",
+   "location_key": "engine_room",
+   "mood": "intense heat, amber and sodium-orange work lights, glowing heat haze, steam, sweat and exhaustion",
+   "visual": "close-up of Aira's fingers tracing a small worn steel tag pendant resting in her palm, a faint engraved code too small to read on it; above it Aira's face, eyes shining with a quiet fierce resolve, amber light on her cheek, machinery blurred behind",
+   "camera": "close-up, her eyes in the upper third and the pendant in her hands at mid-frame, dark coat fabric below",
+   "image": "images/beat_016.png",
+   "reuse_of": null,
+   "transition_in": "dissolve",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "engine_room",
+   "shots": [
+    {
+     "id": "shot_040",
+     "startMs": 382511,
+     "endMs": 394311,
+     "narration_dhivehi": "ނަމަވެސް އެ ފަށުގައި ފުންކޮށް ކަނޑައިނަގާފައިވާ \"50.12.01\" މި ކޯޑަކީ އައިރާގެ ހިތުގައި ބައްޕަ އަދިވެސް ދިރިހުރިކަމުގެ އުންމީދު ދިރުވައިދޭ ހަމައެކަނި ނިޝާނެވެ.",
+     "narration_english": "But the code '50.12.01' deeply engraved on that pendant is the only sign that keeps alive in Aira's heart the hope that her father is still alive.",
+     "crop": "full",
+     "motion": "pan right",
+     "sfx": [],
+     "hum": true,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_041",
+     "startMs": 394311,
+     "endMs": 404941,
+     "narration_dhivehi": "މި ކޯޑަކީ ސެކްޓަރ 7 ގެ އަނދިރި ކަންކޮޅުތަކުން މިންޖުވެވޭނެ ސިއްރު ދޮރެއްގެ ތަޅުދަނޑި ހެއްޔެވެ؟ ނުވަތަ ލެވެލް 1 ގެ ވެރިން ވަންހަނާކުރަން އުޅޭ ބޮޑު ސިއްރެއްގެ ހަގީގަތް ހެއްޔެވެ؟",
+     "narration_english": "Is this code the key to a secret door out of the dark corners of Sector 7? Or the truth of a great secret the rulers of Level 1 are trying to hide?",
+     "crop": "tight",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      12.0,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_042",
+     "startMs": 404941,
+     "endMs": 412462,
+     "narration_dhivehi": "މަސައްކަތުގެ އަޑުގަދަ މާހައުލުގައި ހުރެ، އިނގިލިތަކުން އެ ކޯޑުގައި ފިރުމާލަމުން އައިރާ އަމިއްލަ ނަފްސަށް ވަޢުދުވިއެވެ.",
+     "narration_english": "Standing in the noise of the work, running her fingers over the code, Aira made a promise to herself.",
+     "crop": "full",
+     "motion": "pan up",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_043",
+     "startMs": 412462,
+     "endMs": 422912,
+     "narration_dhivehi": "ބައްޕައަށް ވީގޮތެއް ހޯދުމަށާއި، މި އަޅުވެތިކަމުގެ ކަސްތޮޅުތައް ފަޅާލައި، އަސްލު ދުނިޔޭގެ އަލިކަން ދެކުމަށްޓަކައި ކޮންމެ ފަދަ ނުރައްކަލަކާވެސް އޭނާ ކުރިމަތިލާނެއެވެ.",
+     "narration_english": "To find out what happened to her father, to break the chains of this slavery and to see the light of the real world, she would face any danger.",
+     "crop": "medium",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": true,
+     "crop_rect_pct": [
+      5.9,
+      0.0,
+      71.5,
+      84.7
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Aira), create a new scene: Cinematic semi-realistic digital illustration in a dark gritty dystopian sci-fi style matching a post-apocalyptic underground bunker city: rusted steel walls, pipes, steam and haze, warm amber and sodium-orange work lights against cold steel-blue and teal shadows, the luxurious upper levels in clean white, glass and soft gold light, volumetric light shafts, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and calm, uncluttered space at the bottom (floor, grating, table top, soft shadow) for a logo.\nScene: close-up of Aira's fingers tracing a small worn steel tag pendant resting in her palm, a faint engraved code too small to read on it; above it Aira's face, eyes shining with a quiet fierce resolve, amber light on her cheek, machinery blurred behind. Location: the main engine room of Sector 7: huge humming turbines and thick riveted pipes that carry clean water and oxygen up to Level 1, round pressure valves with blank gauge faces, steam and heat haze, metal grating floor. Camera: close-up, her eyes in the upper third and the pendant in her hands at mid-frame, dark coat fabric below.\nCharacters: Aira: a slim athletic Maldivian young woman of 26 with warm brown skin, a determined oval face, large dark intense eyes, straight dark eyebrows and a faint grease smudge on one cheek; wears a loose ankle-length dark olive-brown canvas work coat buttoned to the neck with long sleeves, loose dark trousers and scuffed boots, a charcoal-grey hijab wrapped snugly and fully covering her hair and neck, and a small worn steel tag pendant on a thin chain over her hijab at the chest.\nMood/lighting: intense heat, amber and sodium-orange work lights, glowing heat haze, steam, sweat and exhaustion.\nModest clothing (women in loose long-sleeved ankle-length clothing with a hijab fully covering hair and neck; men in long-sleeved shirts or jackets and long trousers), culturally respectful, no guns, no knives, no weapons visible, no violence shown, no blood, no wounds, no gore, no dead bodies, no text, no letters, no numbers, no writing, no screens with readable text, no symbols, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.128,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 41.7,
+    "y_pct": 24.3,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_017",
+   "startMs": 422912,
+   "endMs": 439822,
+   "new_image_reason": "scene change: the siren wails and red alarm lights flood the corridors",
+   "characters": [],
+   "location": "a long Sector 7 corridor of rusted steel walls with caged warning lamps fixed along both walls, pipes overhead, haze",
+   "location_key": "alarm_corridor",
+   "mood": "red alarm light flashing and flooding everything in red, deep black shadows, sudden panic",
+   "visual": "the rusted Sector 7 corridor suddenly bathed in flashing red light from caged alarm lamps along the walls, workers in worn clothes stopping and looking up in fear, one man covering his ears, haze glowing red",
+   "camera": "wide shot down the corridor, the red-lit floor forming the lower third",
+   "image": "images/beat_017.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "alarm_corridor",
+   "shots": [
+    {
+     "id": "shot_044",
+     "startMs": 422912,
+     "endMs": 431352,
+     "narration_dhivehi": "ސެކްޓަރ 7 ގެ ފުން އަނދިރިކަމުގެ ތެރެއަށް ކުއްލިއަކަށް ވެރިވެގެންދިޔައީ ކަންފަތްތައް ބައްކޮށްލާ ފަދަ ބާރުގަދަ ސައިރަންގެ އަޑެވެ.",
+     "narration_english": "Suddenly the deep darkness of Sector 7 was filled with the deafening wail of a powerful siren.",
+     "crop": "full",
+     "motion": "pan down",
+     "sfx": [
+      {
+       "name": "siren",
+       "atMs": 429892,
+       "gainDb": -14,
+       "word": "ސައިރަންގެ"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_045",
+     "startMs": 431352,
+     "endMs": 439822,
+     "narration_dhivehi": "ކޮރިޑޯތަކުގެ ފާރުތަކުގައި ހަރުކޮށްފައިވާ ރަތް ބޮކިތައް ނިވިދިއްލެން ފެށުމާއެކު މުޅި ސަރަޙައްދު ބިރުވެރި ރަތް އަލިކަމަކުން ދޮވެވިގެން ދިޔައެވެ.",
+     "narration_english": "As the red lights fixed on the corridor walls began flashing, the whole area was bathed in a frightening red light.",
+     "crop": "tight",
+     "motion": "static drift",
+     "sfx": [
+      {
+       "name": "alarm_beep",
+       "atMs": 434832,
+       "gainDb": -20,
+       "word": "ނިވިދިއްލެން"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      0.0,
+      0.0,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Cinematic semi-realistic digital illustration in a dark gritty dystopian sci-fi style matching a post-apocalyptic underground bunker city: rusted steel walls, pipes, steam and haze, warm amber and sodium-orange work lights against cold steel-blue and teal shadows, the luxurious upper levels in clean white, glass and soft gold light, volumetric light shafts, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and calm, uncluttered space at the bottom (floor, grating, table top, soft shadow) for a logo.\nScene: the rusted Sector 7 corridor suddenly bathed in flashing red light from caged alarm lamps along the walls, workers in worn clothes stopping and looking up in fear, one man covering his ears, haze glowing red. Location: a long Sector 7 corridor of rusted steel walls with caged warning lamps fixed along both walls, pipes overhead, haze. Camera: wide shot down the corridor, the red-lit floor forming the lower third.\nMood/lighting: red alarm light flashing and flooding everything in red, deep black shadows, sudden panic.\nModest clothing (women in loose long-sleeved ankle-length clothing with a hijab fully covering hair and neck; men in long-sleeved shirts or jackets and long trousers), culturally respectful, no guns, no knives, no weapons visible, no violence shown, no blood, no wounds, no gore, no dead bodies, no text, no letters, no numbers, no writing, no screens with readable text, no symbols, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.068,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 18.5,
+    "y_pct": 26.6,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_018",
+   "startMs": 439822,
+   "endMs": 462763,
+   "new_image_reason": "action change: the control panel shows Junction-9's oxygen pipe has burst",
+   "characters": [
+    "aira",
+    "bashir"
+   ],
+   "location": "the Sector 7 engine-room control station: a large old wall-sized control console with a glowing schematic of pipe lines, switches and dials without markings",
+   "location_key": "control_panel",
+   "mood": "red alarm light from above mixed with the glowing red schematic on the console lighting the faces, urgent",
+   "visual": "Aira and old Bashir standing in front of the huge old control console, their tense faces lit red by a glowing abstract schematic of pipe lines on which one point deep at the bottom flashes bright red; Aira leaning forward, staring; Bashir shrinking back in fear; no letters or numbers anywhere",
+   "camera": "medium shot from beside the console, faces in the upper half, the console edge as the lower third",
+   "image": "images/beat_018.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "alarm_corridor",
+   "shots": [
+    {
+     "id": "shot_046",
+     "startMs": 439822,
+     "endMs": 451373,
+     "narration_dhivehi": "މައި ކޮންޓްރޯލް ޕެނަލުން ދައްކަމުން ދިޔައީ ސެކްޓަރުގެ އެންމެ އަޑީގައިވާ، އެކަކުވެސް ފިޔަވަޅެއް އަޅަން ނޭދޭ 'ޖަންކްޝަން-9' ގެ މައި އޮކްސިޖަން ހޮޅި ފަޅައިގެން ގޮސްފައިވާ ކަމެވެ.",
+     "narration_english": "The main control panel showed that the main oxygen pipe of 'Junction-9', at the very bottom of the sector, where no one dares to set foot, had burst.",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [
+      {
+       "name": "computer_beep",
+       "atMs": 441212,
+       "gainDb": -20,
+       "word": "ޕެނަލުން"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_047",
+     "startMs": 451373,
+     "endMs": 462763,
+     "narration_dhivehi": "ވައިގެ ޕްރެޝަރު ނުރައްކާތެރި މިންވަރަކަށް ތިރިވަމުން ދިޔައިރު، މުޅި ސެކްޓަރުގެ ފުރާނަތައް ސަލާމަތް ކުރުމުގެ ބުރަ ޒިންމާ އޮތީ މަދު ސިކުންތުކޮޅެއްގެ ތެރޭގައި ނިންމާ ނިންމުމެއްގެ މައްޗަށެވެ.",
+     "narration_english": "As the air pressure fell to a dangerous level, the heavy duty of saving the lives of the whole sector rested on a decision to be made within a few seconds.",
+     "crop": "tight",
+     "motion": "pan left",
+     "sfx": [
+      {
+       "name": "heartbeat",
+       "atMs": 459573,
+       "gainDb": -20,
+       "word": "ސިކުންތުކޮޅެއްގެ"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      34.2,
+      0.0,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Aira; reference image 2 is Bashir), create a new scene: Cinematic semi-realistic digital illustration in a dark gritty dystopian sci-fi style matching a post-apocalyptic underground bunker city: rusted steel walls, pipes, steam and haze, warm amber and sodium-orange work lights against cold steel-blue and teal shadows, the luxurious upper levels in clean white, glass and soft gold light, volumetric light shafts, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and calm, uncluttered space at the bottom (floor, grating, table top, soft shadow) for a logo.\nScene: Aira and old Bashir standing in front of the huge old control console, their tense faces lit red by a glowing abstract schematic of pipe lines on which one point deep at the bottom flashes bright red; Aira leaning forward, staring; Bashir shrinking back in fear; no letters or numbers anywhere. Location: the Sector 7 engine-room control station: a large old wall-sized control console with a glowing schematic of pipe lines, switches and dials without markings. Camera: medium shot from beside the console, faces in the upper half, the console edge as the lower third.\nCharacters: Aira: a slim athletic Maldivian young woman of 26 with warm brown skin, a determined oval face, large dark intense eyes, straight dark eyebrows and a faint grease smudge on one cheek; wears a loose ankle-length dark olive-brown canvas work coat buttoned to the neck with long sleeves, loose dark trousers and scuffed boots, a charcoal-grey hijab wrapped snugly and fully covering her hair and neck, and a small worn steel tag pendant on a thin chain over her hijab at the chest. Bashir: a thin bony stooped Maldivian man about 60 with warm brown skin, a gaunt hollow-cheeked face, tired kind eyes and short patchy grey stubble; wears a dark knitted cap, a grimy faded blue long-sleeved work shirt and patched grey work trousers.\nMood/lighting: red alarm light from above mixed with the glowing red schematic on the console lighting the faces, urgent.\nModest clothing (women in loose long-sleeved ankle-length clothing with a hijab fully covering hair and neck; men in long-sleeved shirts or jackets and long trousers), culturally respectful, no guns, no knives, no weapons visible, no violence shown, no blood, no wounds, no gore, no dead bodies, no text, no letters, no numbers, no writing, no screens with readable text, no symbols, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.111,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 63.9,
+    "y_pct": 28.5,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_019",
+   "startMs": 462763,
+   "endMs": 494574,
+   "new_image_reason": "action change: Aira masks up, shoulders her toolkit and faces the dark path to the death zone",
+   "characters": [
+    "aira"
+   ],
+   "location": "the edge of the 'death zone' at the bottom of Sector 7: a narrow steel stairway descending from the engine room into pitch darkness, broken railings, drifting haze",
+   "location_key": "death_zone_top",
+   "mood": "red alarm light behind her fading into pitch-black darkness ahead, a single cold beam of her headlamp, lonely and brave",
+   "visual": "Aira wears an old battered half-face oxygen mask over her nose and mouth (her determined eyes visible above it), her charcoal hijab still fully covering her hair and neck, her ankle-length olive-brown coat; she stands at the top of a narrow steel stairway, a heavy battered metal toolkit slung over her shoulder, a headlamp on her forehead, looking down with brave eyes into pitch darkness below, red alarm light glowing behind her",
+   "camera": "medium wide shot from slightly below and in front, her face in the upper third, the dark stairway in the lower third",
+   "image": "images/beat_019.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "alarm_corridor",
+   "shots": [
+    {
+     "id": "shot_048",
+     "startMs": 462763,
+     "endMs": 472493,
+     "narration_dhivehi": "އައިރާ އެއްވެސް ޖެހިލުމެއްނެތި، ދުވަސްވެ ބާވެފައިވާ އޭނާގެ އޮކްސިޖަން މާސްކް މޫނުގައި އަޅައި ބާރުކޮށްލިއެވެ. ކޮނޑުގައި ބަރު ޓޫލްކިޓް އަޅުވާލުމަށްފަހު،",
+     "narration_english": "Without the slightest hesitation, Aira pulled her old, worn oxygen mask over her face and tightened it. After slinging her heavy toolkit over her shoulder,",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [
+      {
+       "name": "breath",
+       "atMs": 467613,
+       "gainDb": -20,
+       "word": "މާސްކް"
+      },
+      {
+       "name": "metal_clang",
+       "atMs": 470793,
+       "gainDb": -22,
+       "word": "ޓޫލްކިޓް"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_049",
+     "startMs": 472493,
+     "endMs": 481644,
+     "narration_dhivehi": "ހިތްވަރުގަދަ ނަޒަރަކުން ކުރިމަތީގައި އޮތް އަނދިރި މަގަށް ބަލައިލިއެވެ. އެއީ އެންމެންވެސް 'މަރުގެ ޒޯން' ގެ ގޮތުގައި ސިފަކުރާ ނުރައްކާތެރި ފުންމިނެކެވެ.",
+     "narration_english": "she looked with a brave gaze at the dark path ahead. It was the dangerous depth that everyone calls the 'death zone'.",
+     "crop": "tight",
+     "motion": "pan right",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      20.3,
+      4.8,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_050",
+     "startMs": 481644,
+     "endMs": 494574,
+     "narration_dhivehi": "މާސްކުގެ ތެރެއިން އޭނާގެ އަމިއްލަ ނޭވާގެ އަޑު ފިޔަވައި އިތުރު އެއްވެސް އަޑެއް އިވުމެއް ނެތް އެކަނިވެރި މާހައުލުގައި، އޭނާގެ ހިތުގެ ތެޅުން އަވަސްވެފައިވީ ނަމަވެސް، ފަސްޖެހުމުގެ އެއްވެސް ވިސްނުމެއް ނެތެވެ.",
+     "narration_english": "In that lonely place where nothing could be heard but her own breathing inside the mask, her heart beat faster, yet she had no thought of turning back.",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [
+      {
+       "name": "breath_heavy",
+       "atMs": 484314,
+       "gainDb": -18,
+       "word": "ނޭވާގެ"
+      },
+      {
+       "name": "heartbeat",
+       "atMs": 490394,
+       "gainDb": -18,
+       "word": "ތެޅުން"
+      }
+     ],
+     "hum": true,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Aira), create a new scene: Cinematic semi-realistic digital illustration in a dark gritty dystopian sci-fi style matching a post-apocalyptic underground bunker city: rusted steel walls, pipes, steam and haze, warm amber and sodium-orange work lights against cold steel-blue and teal shadows, the luxurious upper levels in clean white, glass and soft gold light, volumetric light shafts, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and calm, uncluttered space at the bottom (floor, grating, table top, soft shadow) for a logo.\nScene: Aira wears an old battered half-face oxygen mask over her nose and mouth (her determined eyes visible above it), her charcoal hijab still fully covering her hair and neck, her ankle-length olive-brown coat; she stands at the top of a narrow steel stairway, a heavy battered metal toolkit slung over her shoulder, a headlamp on her forehead, looking down with brave eyes into pitch darkness below, red alarm light glowing behind her. Location: the edge of the 'death zone' at the bottom of Sector 7: a narrow steel stairway descending from the engine room into pitch darkness, broken railings, drifting haze. Camera: medium wide shot from slightly below and in front, her face in the upper third, the dark stairway in the lower third.\nCharacters: Aira: a slim athletic Maldivian young woman of 26 with warm brown skin, a determined oval face, large dark intense eyes, straight dark eyebrows and a faint grease smudge on one cheek; wears a loose ankle-length dark olive-brown canvas work coat buttoned to the neck with long sleeves, loose dark trousers and scuffed boots, a charcoal-grey hijab wrapped snugly and fully covering her hair and neck, and a small worn steel tag pendant on a thin chain over her hijab at the chest.\nMood/lighting: red alarm light behind her fading into pitch-black darkness ahead, a single cold beam of her headlamp, lonely and brave.\nModest clothing (women in loose long-sleeved ankle-length clothing with a hijab fully covering hair and neck; men in long-sleeved shirts or jackets and long trousers), culturally respectful, no guns, no knives, no weapons visible, no violence shown, no blood, no wounds, no gore, no dead bodies, no text, no letters, no numbers, no writing, no screens with readable text, no symbols, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.073,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 50.0,
+    "y_pct": 40.0,
+    "face_detected": false
+   }
+  },
+  {
+   "id": "beat_020",
+   "startMs": 494574,
+   "endMs": 528005,
+   "new_image_reason": "scene change: the descent through the cold flooded corridors with live sparking cables",
+   "characters": [
+    "aira"
+   ],
+   "location": "a narrow flooded service corridor deep in the death zone: ankle-deep dark water over a floor of mud and scrap metal, cut electric cables dangling from the ceiling, water dripping from rusted walls, a thin greenish gas haze",
+   "location_key": "flooded_corridor",
+   "mood": "near darkness, cold blue-white beam of her headlamp, brief bright blue-white electric sparks reflected in the water, sickly green gas haze, freezing cold",
+   "visual": "Aira wears an old battered half-face oxygen mask over her nose and mouth (her determined eyes visible above it), her charcoal hijab still fully covering her hair and neck, her ankle-length olive-brown coat; she wades carefully through ankle-deep dark water in a narrow corridor, one hand steadying on the wall, avoiding cut electric cables that hang from the ceiling and spit small blue-white sparks over the water ahead, mud and scrap metal under the water, her headlamp beam cutting through green haze",
+   "camera": "medium wide shot from ahead of her, her face in the upper half, the dark water as the lower third",
+   "image": "images/beat_020.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": "other",
+   "safe_substitution": "the danger of electrocution is shown only as sparks over the water ahead of her; nobody is hurt",
+   "ambience": "corridor_drip",
+   "shots": [
+    {
+     "id": "shot_051",
+     "startMs": 494574,
+     "endMs": 504534,
+     "narration_dhivehi": "ތިރިއަށް ފައިބަމުން ދިޔަވަރަކަށް ފިނިހޫނުމިން އިންތިހާއަށް ދަށްވެ، ފާރުތަކުން ފައިބަމުން ދިޔަ ފެންތިކިތަކުގެ ތެތްފިނިކަން ހަށިގަނޑަށް އިހުސާސްވަމުން ދިޔައެވެ.",
+     "narration_english": "The further down she went, the more the temperature dropped, and she felt on her body the cold damp of the drops falling from the walls.",
+     "crop": "full",
+     "motion": "pan up",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_052",
+     "startMs": 504534,
+     "endMs": 509034,
+     "narration_dhivehi": "ހަނި ކޮރިޑޯތަކުގެ ތަޅުންގަނޑު ވަނީ ކިސަޑާއި ދަގަނޑު ކުނިބުނިން ފުރިފައެވެ.",
+     "narration_english": "The floors of the narrow corridors were full of mud and scrap metal.",
+     "crop": "tight",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      11.0,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_053",
+     "startMs": 509034,
+     "endMs": 520375,
+     "narration_dhivehi": "ކަނޑައިގެން ގޮސްފައިވާ ކަރަންޓު ނަރުތަކުން ފެންގަނޑުތަކަށް ވިހިދުގެ ކަނިތައް ބުރައިގެން ދާއިރު، ފިޔަވަޅެއް ކަހައިގެން ދިޔުމަކީ ވަގުތުން މަރުގެ ތުންފަތްމައްޗަށް ވެއްޓުން ފަދަ ކަމެކެވެ.",
+     "narration_english": "With electric sparks running from cut cables into the pools of water, a single slip of the foot would be like falling straight onto the lips of death.",
+     "crop": "full",
+     "motion": "pan down",
+     "sfx": [
+      {
+       "name": "electric_spark",
+       "atMs": 512794,
+       "gainDb": -18,
+       "word": "ވިހިދުގެ"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_054",
+     "startMs": 520375,
+     "endMs": 528005,
+     "narration_dhivehi": "ވައިގެ ތެރޭގައި ދައުރުވަމުންދިޔަ ވިހަ ގޭހުގެ ވަސް މާސްކު ފޫދުއްވާފައި ކަހަލަ ގޮތަކަށް ސިކުނޑިއަށް އަސަރުކުރަމުން ދިޔައެވެ.",
+     "narration_english": "The smell of the poisonous gas drifting in the air seemed to seep through the mask and cloud her mind.",
+     "crop": "medium",
+     "motion": "static drift",
+     "sfx": [
+      {
+       "name": "steam_hiss",
+       "atMs": 522655,
+       "gainDb": -22,
+       "word": "ގޭހުގެ"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      5.0,
+      0.0,
+      71.5,
+      84.7
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Aira), create a new scene: Cinematic semi-realistic digital illustration in a dark gritty dystopian sci-fi style matching a post-apocalyptic underground bunker city: rusted steel walls, pipes, steam and haze, warm amber and sodium-orange work lights against cold steel-blue and teal shadows, the luxurious upper levels in clean white, glass and soft gold light, volumetric light shafts, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and calm, uncluttered space at the bottom (floor, grating, table top, soft shadow) for a logo.\nScene: Aira wears an old battered half-face oxygen mask over her nose and mouth (her determined eyes visible above it), her charcoal hijab still fully covering her hair and neck, her ankle-length olive-brown coat; she wades carefully through ankle-deep dark water in a narrow corridor, one hand steadying on the wall, avoiding cut electric cables that hang from the ceiling and spit small blue-white sparks over the water ahead, mud and scrap metal under the water, her headlamp beam cutting through green haze. Location: a narrow flooded service corridor deep in the death zone: ankle-deep dark water over a floor of mud and scrap metal, cut electric cables dangling from the ceiling, water dripping from rusted walls, a thin greenish gas haze. Camera: medium wide shot from ahead of her, her face in the upper half, the dark water as the lower third.\nCharacters: Aira: a slim athletic Maldivian young woman of 26 with warm brown skin, a determined oval face, large dark intense eyes, straight dark eyebrows and a faint grease smudge on one cheek; wears a loose ankle-length dark olive-brown canvas work coat buttoned to the neck with long sleeves, loose dark trousers and scuffed boots, a charcoal-grey hijab wrapped snugly and fully covering her hair and neck, and a small worn steel tag pendant on a thin chain over her hijab at the chest.\nMood/lighting: near darkness, cold blue-white beam of her headlamp, brief bright blue-white electric sparks reflected in the water, sickly green gas haze, freezing cold.\nModest clothing (women in loose long-sleeved ankle-length clothing with a hijab fully covering hair and neck; men in long-sleeved shirts or jackets and long trousers), culturally respectful, no guns, no knives, no weapons visible, no violence shown, no blood, no wounds, no gore, no dead bodies, no text, no letters, no numbers, no writing, no screens with readable text, no symbols, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.079,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 40.7,
+    "y_pct": 17.7,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_021",
+   "startMs": 528005,
+   "endMs": 560776,
+   "new_image_reason": "action change: climbing over debris she reaches the huge door of Junction-9",
+   "characters": [
+    "aira"
+   ],
+   "location": "the deepest passage of the death zone: collapsed steel beams and fallen debris, thick smoke, and at the end a huge round riveted steel hatch door of Junction-9",
+   "location_key": "junction_door",
+   "mood": "thick smoke lit by a dim red glow and the cold beam of her headlamp, the hatch door looming, exhausted resolve",
+   "visual": "Aira wears an old battered half-face oxygen mask over her nose and mouth (her determined eyes visible above it), her charcoal hijab still fully covering her hair and neck, her ankle-length olive-brown coat; having climbed over collapsed steel beams and fallen debris, she stands exhausted but resolute before a huge round riveted steel hatch door rising through thick smoke, one hand reaching for its big wheel handle, toolkit on her shoulder, no markings on the door",
+   "camera": "wide shot from behind and beside her, the hatch door filling the upper half, debris on the floor in the lower third",
+   "image": "images/beat_021.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "corridor_drip",
+   "shots": [
+    {
+     "id": "shot_055",
+     "startMs": 528005,
+     "endMs": 535535,
+     "narration_dhivehi": "އަނދިރިގަނޑުގެ ތެރެއިން ކޮންމެ ފިޔަވަޅެއް ކުރިއަށް އަޅަމުން ދިޔައީ ފުރާނަ އަތްމައްޗަށް ލައިގެންނެވެ. ދަގަނޑުތައް ގިރި،",
+     "narration_english": "Every step forward through the darkness she took with her life in her hands. Over collapsed steel",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [
+      {
+       "name": "metal_clang",
+       "atMs": 534975,
+       "gainDb": -20,
+       "word": "ގިރި،"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_056",
+     "startMs": 535535,
+     "endMs": 543695,
+     "narration_dhivehi": "ވެއްޓިފައިވާ ބޮޑެތި ހުރަސްތައް ގިރާކުރަމުން ދިޔައިރު އައިރާގެ އަތްފައި ދިޔައީ ގަނޑުފެން ފަދައިން ފިނިވަމުންނެވެ. އެހެންނަމަވެސް،",
+     "narration_english": "and fallen obstacles she climbed, while Aira's hands and feet grew as cold as ice. Even so,",
+     "crop": "tight",
+     "motion": "pan left",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      20.3,
+      4.8,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_057",
+     "startMs": 543695,
+     "endMs": 553876,
+     "narration_dhivehi": "އޭނާގެ ހިތުގައި އަނދަމުންދިޔަ އުންމީދުގެ ހުޅުކޮޅު ނިވޭ ގޮތެއް ނުވިއެވެ. އެންމެ ފަހުން، ގަދަފަދަ ހިތްވަރަކާއެކު އެ ނުރައްކާތެރި ދަތުރު ކަޑައްތުކޮށް،",
+     "narration_english": "the flame of hope burning in her heart did not go out. At last, with great courage, she completed that dangerous journey",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_058",
+     "startMs": 553876,
+     "endMs": 560776,
+     "narration_dhivehi": "ދުންތަކާއި އަޑުފައްގަނޑުގެ ތެރެއިން ޖަންކްޝަން-9 ގެ ބިޔަ ދޮރާއްޓާ ހަމައަށް އޭނާއަށް ވާސިލުވެވުނެވެ.",
+     "narration_english": "and, through the smoke and the din, reached the huge door of Junction-9.",
+     "crop": "medium",
+     "motion": "pan right",
+     "sfx": [
+      {
+       "name": "metal_door",
+       "atMs": 557856,
+       "gainDb": -18,
+       "word": "ދޮރާއްޓާ"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      14.2,
+      0.0,
+      71.5,
+      84.7
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Aira), create a new scene: Cinematic semi-realistic digital illustration in a dark gritty dystopian sci-fi style matching a post-apocalyptic underground bunker city: rusted steel walls, pipes, steam and haze, warm amber and sodium-orange work lights against cold steel-blue and teal shadows, the luxurious upper levels in clean white, glass and soft gold light, volumetric light shafts, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and calm, uncluttered space at the bottom (floor, grating, table top, soft shadow) for a logo.\nScene: Aira wears an old battered half-face oxygen mask over her nose and mouth (her determined eyes visible above it), her charcoal hijab still fully covering her hair and neck, her ankle-length olive-brown coat; having climbed over collapsed steel beams and fallen debris, she stands exhausted but resolute before a huge round riveted steel hatch door rising through thick smoke, one hand reaching for its big wheel handle, toolkit on her shoulder, no markings on the door. Location: the deepest passage of the death zone: collapsed steel beams and fallen debris, thick smoke, and at the end a huge round riveted steel hatch door of Junction-9. Camera: wide shot from behind and beside her, the hatch door filling the upper half, debris on the floor in the lower third.\nCharacters: Aira: a slim athletic Maldivian young woman of 26 with warm brown skin, a determined oval face, large dark intense eyes, straight dark eyebrows and a faint grease smudge on one cheek; wears a loose ankle-length dark olive-brown canvas work coat buttoned to the neck with long sleeves, loose dark trousers and scuffed boots, a charcoal-grey hijab wrapped snugly and fully covering her hair and neck, and a small worn steel tag pendant on a thin chain over her hijab at the chest.\nMood/lighting: thick smoke lit by a dim red glow and the cold beam of her headlamp, the hatch door looming, exhausted resolve.\nModest clothing (women in loose long-sleeved ankle-length clothing with a hijab fully covering hair and neck; men in long-sleeved shirts or jackets and long trousers), culturally respectful, no guns, no knives, no weapons visible, no violence shown, no blood, no wounds, no gore, no dead bodies, no text, no letters, no numbers, no writing, no screens with readable text, no symbols, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.104,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 50.0,
+    "y_pct": 40.0,
+    "face_detected": false
+   }
+  },
+  {
+   "id": "beat_022",
+   "startMs": 560776,
+   "endMs": 588077,
+   "new_image_reason": "scene change: at the burst main pipe of Junction-9 she starts welding",
+   "characters": [
+    "aira"
+   ],
+   "location": "inside Junction-9, an enclosed cramped chamber at the very bottom of the bunker with a low rusted steel ceiling and close riveted walls, no view of any other level: a gigantic main oxygen pipe with a large jagged crack spewing white vapour, dark water bubbling across the grating floor, thick haze of gas all around",
+   "location_key": "junction_pipe",
+   "mood": "cold blue darkness broken by the bright white-orange flare of welding sparks, swirling vapour, tense and secretive",
+   "visual": "Aira wears an old battered half-face oxygen mask over her nose and mouth (her determined eyes visible above it), her charcoal hijab still fully covering her hair and neck, her ankle-length olive-brown coat; she kneels on the grating beside the gigantic cracked oxygen pipe spewing white vapour, dark water bubbling around her boots, holding a welding torch to the crack that throws a bright shower of white-orange sparks, her open toolkit beside her; she is completely alone, nobody else in the chamber",
+   "camera": "medium shot from the side, her face and the sparks in the upper half, wet grating in the lower third",
+   "image": "images/beat_022.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "bunker_machinery",
+   "shots": [
+    {
+     "id": "shot_059",
+     "startMs": 560776,
+     "endMs": 570596,
+     "narration_dhivehi": "ޖަންކްޝަން-9 ގެ މައި ހޮޅީގެ ކައިރިއަށް އައިރާ ފިޔަވަޅު އެޅީ ވަރަށް ބޮޑު ސަމާލުކަމަކާ އެކުގައެވެ. ވަށައިގެންވަނީ ވިހަ ގޭހާއި އޮކްސިޖަން ދުންތަކުގެ ބޯ ފަށަލައެކެވެ.",
+     "narration_english": "Aira stepped towards the main pipe of Junction-9 with great caution. All around was a thick layer of poisonous gas and oxygen vapour.",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [
+      {
+       "name": "steam_hiss",
+       "atMs": 568656,
+       "gainDb": -18,
+       "word": "ދުންތަކުގެ"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_060",
+     "startMs": 570596,
+     "endMs": 579736,
+     "narration_dhivehi": "ފައިދަށުން ފެންގަނޑު ބޮކިޖަހަމުން ދިޔައިރު، ހޮޅީގައި ޖެހިފައިވާ ބޮޑު ރެނދުން ނުކުންނަ ގަދަފަދަ އަޑު މުޅި ސަރަޙައްދުގައި ގުގުމަމުން ދިޔައެވެ.",
+     "narration_english": "As water bubbled under her feet, the loud roar from the big crack in the pipe echoed through the whole area.",
+     "crop": "tight",
+     "motion": "pan up",
+     "sfx": [
+      {
+       "name": "splash",
+       "atMs": 572296,
+       "gainDb": -20,
+       "word": "ބޮކިޖަހަމުން"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      16.5,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_061",
+     "startMs": 579736,
+     "endMs": 588077,
+     "narration_dhivehi": "މޫނުމަތީގައި އަޅާފައިވާ މާސްކުގެ އެހީގައި ނޭވާލަމުން، އައިރާ އޭނާގެ ވެލްޑިންގ ޓޫލްސްތައް ނަގައި، ނުރައްކާތެރި އެ މަސައްކަތް ފެށިއެވެ.",
+     "narration_english": "Breathing with the help of the mask on her face, Aira took out her welding tools and began that dangerous work.",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [
+      {
+       "name": "weld_hiss",
+       "atMs": 584437,
+       "gainDb": -16,
+       "word": "ވެލްޑިންގ"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Aira), create a new scene: Cinematic semi-realistic digital illustration in a dark gritty dystopian sci-fi style matching a post-apocalyptic underground bunker city: rusted steel walls, pipes, steam and haze, warm amber and sodium-orange work lights against cold steel-blue and teal shadows, the luxurious upper levels in clean white, glass and soft gold light, volumetric light shafts, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and calm, uncluttered space at the bottom (floor, grating, table top, soft shadow) for a logo.\nScene: Aira wears an old battered half-face oxygen mask over her nose and mouth (her determined eyes visible above it), her charcoal hijab still fully covering her hair and neck, her ankle-length olive-brown coat; she kneels on the grating beside the gigantic cracked oxygen pipe spewing white vapour, dark water bubbling around her boots, holding a welding torch to the crack that throws a bright shower of white-orange sparks, her open toolkit beside her; she is completely alone, nobody else in the chamber. Location: inside Junction-9, an enclosed cramped chamber at the very bottom of the bunker with a low rusted steel ceiling and close riveted walls, no view of any other level: a gigantic main oxygen pipe with a large jagged crack spewing white vapour, dark water bubbling across the grating floor, thick haze of gas all around. Camera: medium shot from the side, her face and the sparks in the upper half, wet grating in the lower third.\nCharacters: Aira: a slim athletic Maldivian young woman of 26 with warm brown skin, a determined oval face, large dark intense eyes, straight dark eyebrows and a faint grease smudge on one cheek; wears a loose ankle-length dark olive-brown canvas work coat buttoned to the neck with long sleeves, loose dark trousers and scuffed boots, a charcoal-grey hijab wrapped snugly and fully covering her hair and neck, and a small worn steel tag pendant on a thin chain over her hijab at the chest.\nMood/lighting: cold blue darkness broken by the bright white-orange flare of welding sparks, swirling vapour, tense and secretive.\nModest clothing (women in loose long-sleeved ankle-length clothing with a hijab fully covering hair and neck; men in long-sleeved shirts or jackets and long trousers), culturally respectful, no guns, no knives, no weapons visible, no violence shown, no blood, no wounds, no gore, no dead bodies, no text, no letters, no numbers, no writing, no screens with readable text, no symbols, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.109,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 46.2,
+    "y_pct": 21.8,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_023",
+   "startMs": 588077,
+   "endMs": 610577,
+   "new_image_reason": "strong turning point: in the sparks' light she spots a black box hidden inside the pipe",
+   "characters": [
+    "aira"
+   ],
+   "location": "inside Junction-9, an enclosed cramped chamber at the very bottom of the bunker with a low rusted steel ceiling and close riveted walls, no view of any other level: a gigantic main oxygen pipe with a large jagged crack spewing white vapour, dark water bubbling across the grating floor, thick haze of gas all around",
+   "location_key": "junction_pipe",
+   "mood": "cold blue darkness broken by the bright white-orange flare of welding sparks, swirling vapour, tense and secretive",
+   "visual": "close-up over Aira's shoulder: Aira wears an old battered half-face oxygen mask over her nose and mouth (her determined eyes visible above it), her charcoal hijab still fully covering her hair and neck, her ankle-length olive-brown coat; her wide startled eyes peer into the dark opening of the pipe crack, lit by the dying glow of welding sparks, where a rugged matte-black sealed case with a recessed keypad-like panel (no markings) is wedged deep inside",
+   "camera": "close-up, her eyes in the upper third, the black case at mid-frame, dark pipe metal below",
+   "image": "images/beat_023.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "bunker_machinery",
+   "shots": [
+    {
+     "id": "shot_062",
+     "startMs": 588077,
+     "endMs": 595117,
+     "narration_dhivehi": "އަލިފާނުގެ ކަނިތައް ވިހުރިގެން ދިޔަ ވަގުތު، ހޮޅީގެ އެތެރޭގައި ފޮރުވިފައިވާ ކަމެއްގެ ކުޑަ ހިލަމެއް އޭނާއަށް ވިއެވެ.",
+     "narration_english": "As the sparks of fire flew, she caught a small glimpse of something hidden inside the pipe.",
+     "crop": "full",
+     "motion": "pan down",
+     "sfx": [
+      {
+       "name": "weld_hiss",
+       "atMs": 589317,
+       "gainDb": -18,
+       "word": "ވިހުރިގެން"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_063",
+     "startMs": 595117,
+     "endMs": 601437,
+     "narration_dhivehi": "އައިރާގެ ލޮލުގައި އަޅައިގަތީ ހޮޅީގެ އަނދިރި ކަނެއްގައި ތާށިވެފައި އޮތް އާދަޔާޚިލާފު ކަޅުކުލައިގެ ފޮށްޓެކެވެ.",
+     "narration_english": "What caught Aira's eye was an unusual black box wedged in a dark corner of the pipe.",
+     "crop": "tight",
+     "motion": "static drift",
+     "sfx": [
+      {
+       "name": "gasp",
+       "atMs": 595977,
+       "gainDb": -22,
+       "word": "އަޅައިގަތީ"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      10.2,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_064",
+     "startMs": 601437,
+     "endMs": 610577,
+     "narration_dhivehi": "އެއީ އާދައިގެ އެއްޗެއް ނޫންކަން އޭގެ މިލިޓަރީ ގްރޭޑް އެންކްރިޕްޓެޑް ސިފަތަކުން ވަގުތުން އެނގުނެވެ. ތުރުތުރުއަޅަމުން ދިޔަ އަތަކުން އެ ފޮށި ނަގައި،",
+     "narration_english": "From its military-grade encrypted features she knew at once it was no ordinary thing. Picking up the box with trembling hands,",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [
+      {
+       "name": "metal_clang",
+       "atMs": 609917,
+       "gainDb": -22,
+       "word": "ނަގައި،"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Aira), create a new scene: Cinematic semi-realistic digital illustration in a dark gritty dystopian sci-fi style matching a post-apocalyptic underground bunker city: rusted steel walls, pipes, steam and haze, warm amber and sodium-orange work lights against cold steel-blue and teal shadows, the luxurious upper levels in clean white, glass and soft gold light, volumetric light shafts, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and calm, uncluttered space at the bottom (floor, grating, table top, soft shadow) for a logo.\nScene: close-up over Aira's shoulder: Aira wears an old battered half-face oxygen mask over her nose and mouth (her determined eyes visible above it), her charcoal hijab still fully covering her hair and neck, her ankle-length olive-brown coat; her wide startled eyes peer into the dark opening of the pipe crack, lit by the dying glow of welding sparks, where a rugged matte-black sealed case with a recessed keypad-like panel (no markings) is wedged deep inside. Location: inside Junction-9: a gigantic main oxygen pipe with a large jagged crack spewing white vapour, dark water bubbling across the grating floor, thick haze of gas all around. Camera: close-up, her eyes in the upper third, the black case at mid-frame, dark pipe metal below.\nCharacters: Aira: a slim athletic Maldivian young woman of 26 with warm brown skin, a determined oval face, large dark intense eyes, straight dark eyebrows and a faint grease smudge on one cheek; wears a loose ankle-length dark olive-brown canvas work coat buttoned to the neck with long sleeves, loose dark trousers and scuffed boots, a charcoal-grey hijab wrapped snugly and fully covering her hair and neck, and a small worn steel tag pendant on a thin chain over her hijab at the chest.\nMood/lighting: cold blue darkness broken by the bright white-orange flare of welding sparks, swirling vapour, tense and secretive.\nModest clothing (women in loose long-sleeved ankle-length clothing with a hijab fully covering hair and neck; men in long-sleeved shirts or jackets and long trousers), culturally respectful, no guns, no knives, no weapons visible, no violence shown, no blood, no wounds, no gore, no dead bodies, no text, no letters, no numbers, no writing, no screens with readable text, no symbols, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.093,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 39.9,
+    "y_pct": 26.6,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_024",
+   "startMs": 610577,
+   "endMs": 658539,
+   "new_image_reason": "action change: she holds the box, sees her father's handwriting and remembers the pendant",
+   "characters": [
+    "aira"
+   ],
+   "location": "inside Junction-9, an enclosed cramped chamber at the very bottom of the bunker with a low rusted steel ceiling and close riveted walls, no view of any other level: a gigantic main oxygen pipe with a large jagged crack spewing white vapour, dark water bubbling across the grating floor, thick haze of gas all around",
+   "location_key": "junction_pipe",
+   "mood": "cold blue darkness broken by the bright white-orange flare of welding sparks, swirling vapour, tense and secretive",
+   "visual": "Aira wears an old battered half-face oxygen mask over her nose and mouth (her determined eyes visible above it), her charcoal hijab still fully covering her hair and neck, her ankle-length olive-brown coat; she kneels holding the rugged matte-black case in both trembling gloved hands, having wiped the grime off its lid where faint scratched handwriting is etched (illegible, too small to read); her eyes are wide with shock and tears, and the small steel tag pendant hangs at her chest catching the light; she is completely alone, nobody else in the chamber",
+   "camera": "medium close-up, eye level, her eyes in the upper third, the case at mid-frame, her coat and the dark floor below",
+   "image": "images/beat_024.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": "other",
+   "safe_substitution": "the handwriting and the pendant code are shown only as faint illegible scratches; no readable text",
+   "ambience": "bunker_machinery",
+   "shots": [
+    {
+     "id": "shot_065",
+     "startMs": 610577,
+     "endMs": 621438,
+     "narration_dhivehi": "އޭގެ މަތީގައިވާ ކުނިތައް ފޮހެލި ވަގުތު އައިރާގެ ހިތް ހުއްޓުނު ފަދަ އިހުސާސެއް ކުރެވުނެވެ. ފޮށީގެ ބޭރުގައި ކަނޑައަޅައި ބިންވަޅު ނަގާފައިވަނީ އޭނާގެ ބައްޕަގެ އަތުލިޔުމެވެ.",
+     "narration_english": "as she wiped the dirt from its top, Aira felt as if her heart had stopped. Carved and etched on the outside of the box was her father's handwriting.",
+     "crop": "full",
+     "motion": "pan left",
+     "sfx": [
+      {
+       "name": "heartbeat",
+       "atMs": 614097,
+       "gainDb": -18,
+       "word": "ހުއްޓުނު"
+      }
+     ],
+     "hum": true,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_066",
+     "startMs": 621438,
+     "endMs": 629958,
+     "narration_dhivehi": "\"ހަގީގަތް ވަޅުލެވިފައެއް ނުވެއެވެ.\" މި ޖުމްލަ ފެނުމާއެކު، އައިރާގެ ހަނދާނަށް ވަގުތުން އައީ އޭނާގެ ކަރުގައި އަޅާފައިވާ ފަށެވެ.",
+     "narration_english": "\"The truth is not buried.\" On seeing these words, what instantly came to Aira's mind was the pendant around her neck.",
+     "crop": "tight",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": true,
+     "crop_rect_pct": [
+      11.6,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_067",
+     "startMs": 629958,
+     "endMs": 638618,
+     "narration_dhivehi": "އޭނާގެ ކަރުގައިވާ ފަށުގައި ޖަހާފައިވާ \"50.12.01\" މި ސިއްރު ކޯޑަކީ މި ފޮށި ހުޅުވުމުގެ ތަޅުދަނޑިކަން އައިރާއަށް ޔަގީންވިއެވެ.",
+     "narration_english": "Aira became certain that the secret code '50.12.01' on the pendant at her neck was the key to opening this box.",
+     "crop": "full",
+     "motion": "pan right",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_068",
+     "startMs": 638618,
+     "endMs": 647078,
+     "narration_dhivehi": "ބިމުގެ މަތީފަށަލައާ ބެހޭ އެއްވެސް މައުލޫމާތެއް ގެންގުޅުމަކީ މި ބިންގަރާހުގައި މަރުގެ އަދަބު ކަނޑައެޅިފައިވާ އެންމެ ބޮޑު ކުށެވެ.",
+     "narration_english": "Keeping any information about the surface is the gravest crime in this bunker, punishable by death.",
+     "crop": "medium",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      5.6,
+      0.0,
+      71.5,
+      84.7
+     ]
+    },
+    {
+     "id": "shot_069",
+     "startMs": 647078,
+     "endMs": 658539,
+     "narration_dhivehi": "ނަމަވެސް، ބައްޕަގެ ވަކިވުމުގެ ފަހަތުގައިވާ ސިއްރާއި، މުޅި އިންސާނިއްޔަތުގެ ދިރިހުރުމާ ގުޅިފައިވާ ހަގީގަތް ހޯދުމަށް އައިރާގެ ހިތުގައި އުތުރިއަރައިގަތީ ނުގުޑާފަދަ ވަރުގަދަ އަޒުމެކެވެ.",
+     "narration_english": "But an unbreakable resolve rose in Aira's heart to uncover the secret behind her father's disappearance and the truth tied to the survival of all humanity.",
+     "crop": "tight",
+     "motion": "pan up",
+     "sfx": [],
+     "hum": true,
+     "crop_rect_pct": [
+      11.6,
+      0.0,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Aira), create a new scene: Cinematic semi-realistic digital illustration in a dark gritty dystopian sci-fi style matching a post-apocalyptic underground bunker city: rusted steel walls, pipes, steam and haze, warm amber and sodium-orange work lights against cold steel-blue and teal shadows, the luxurious upper levels in clean white, glass and soft gold light, volumetric light shafts, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and calm, uncluttered space at the bottom (floor, grating, table top, soft shadow) for a logo.\nScene: Aira wears an old battered half-face oxygen mask over her nose and mouth (her determined eyes visible above it), her charcoal hijab still fully covering her hair and neck, her ankle-length olive-brown coat; she kneels holding the rugged matte-black case in both trembling gloved hands, having wiped the grime off its lid where faint scratched handwriting is etched (illegible, too small to read); her eyes are wide with shock and tears, and the small steel tag pendant hangs at her chest catching the light; she is completely alone, nobody else in the chamber. Location: inside Junction-9, an enclosed cramped chamber at the very bottom of the bunker with a low rusted steel ceiling and close riveted walls, no view of any other level: a gigantic main oxygen pipe with a large jagged crack spewing white vapour, dark water bubbling across the grating floor, thick haze of gas all around. Camera: medium close-up, eye level, her eyes in the upper third, the case at mid-frame, her coat and the dark floor below.\nCharacters: Aira: a slim athletic Maldivian young woman of 26 with warm brown skin, a determined oval face, large dark intense eyes, straight dark eyebrows and a faint grease smudge on one cheek; wears a loose ankle-length dark olive-brown canvas work coat buttoned to the neck with long sleeves, loose dark trousers and scuffed boots, a charcoal-grey hijab wrapped snugly and fully covering her hair and neck, and a small worn steel tag pendant on a thin chain over her hijab at the chest.\nMood/lighting: cold blue darkness broken by the bright white-orange flare of welding sparks, swirling vapour, tense and secretive.\nModest clothing (women in loose long-sleeved ankle-length clothing with a hijab fully covering hair and neck; men in long-sleeved shirts or jackets and long trousers), culturally respectful, no guns, no knives, no weapons visible, no violence shown, no blood, no wounds, no gore, no dead bodies, no text, no letters, no numbers, no writing, no screens with readable text, no symbols, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.062,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 41.3,
+    "y_pct": 20.7,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_025",
+   "startMs": 658539,
+   "endMs": 684180,
+   "new_image_reason": "action change: she hides the box in her toolkit, finishes the repair and slips away past the cameras",
+   "characters": [
+    "aira"
+   ],
+   "location": "inside Junction-9, an enclosed cramped chamber at the very bottom of the bunker with a low rusted steel ceiling and close riveted walls, no view of any other level: a gigantic main oxygen pipe with a large jagged crack spewing white vapour, dark water bubbling across the grating floor, thick haze of gas all around",
+   "location_key": "junction_pipe",
+   "mood": "cold blue darkness broken by the bright white-orange flare of welding sparks, swirling vapour, tense and secretive",
+   "visual": "Aira wears an old battered half-face oxygen mask over her nose and mouth (her determined eyes visible above it), her charcoal hijab still fully covering her hair and neck, her ankle-length olive-brown coat; she kneels closing the latches of her battered metal toolkit with the black case hidden inside, the repaired pipe behind her with a freshly welded seam still glowing orange, glancing warily up at a small security camera with a red light on the wall above her; she is completely alone, nobody else in the chamber",
+   "camera": "medium wide shot, eye level, her face and the camera in the upper half, the wet grating floor as a calm lower third",
+   "image": "images/beat_025.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "bunker_machinery",
+   "shots": [
+    {
+     "id": "shot_070",
+     "startMs": 658539,
+     "endMs": 668249,
+     "narration_dhivehi": "އައިރާ އަވަސްއަވަހަށް ފޮށި އޭނާގެ ޓޫލް ކިޓްގެ އެންމެ އަޑީގައި ފޮރުވައި، ރައްކާތެރިކަމާއެކު ބަންދުކޮށްލިއެވެ. ހޮޅީގެ ރެނދު މަރާމާތުކޮށް ނިންމާލުމަށްފަހު،",
+     "narration_english": "Aira quickly hid the box at the very bottom of her toolkit and carefully shut it. After finishing the repair of the crack in the pipe,",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [
+      {
+       "name": "lock_click",
+       "atMs": 664459,
+       "gainDb": -20,
+       "word": "ބަންދުކޮށްލިއެވެ."
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_071",
+     "startMs": 668249,
+     "endMs": 678529,
+     "narration_dhivehi": "ވަށައިގެންވާ ކެމެރާތަކަށް ސިއްރުން އޭނާގެ ދަތުރު ކުރިއަށް ގެންދަން ތައްޔާރުވިއެވެ. ކުރިއަށް އޮތީ ބިރުވެރި އަދި ގޮންޖެހުންތަކުން ފުރިގެންވާ ދަތުރެއްކަން އެނގުނަސް،",
+     "narration_english": "she got ready to continue on her way unseen by the cameras around her. Though she knew the journey ahead was full of fear and challenges,",
+     "crop": "tight",
+     "motion": "pan down",
+     "sfx": [
+      {
+       "name": "footsteps_pavement",
+       "atMs": 671239,
+       "gainDb": -24,
+       "word": "ދަތުރު"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      4.3,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_072",
+     "startMs": 678529,
+     "endMs": 684180,
+     "narration_dhivehi": "ބައްޕަ ދޫކޮށްދިޔަ ހަގީގަތް ހޯދުމަށް އައިރާ ހުރީ ފުރިހަމައަށް އަޒުމް ކަނޑައަޅައިގެންނެވެ.",
+     "narration_english": "Aira was fully determined to find the truth her father had left behind.",
+     "crop": "full",
+     "motion": "static drift",
+     "sfx": [],
+     "hum": true,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Aira), create a new scene: Cinematic semi-realistic digital illustration in a dark gritty dystopian sci-fi style matching a post-apocalyptic underground bunker city: rusted steel walls, pipes, steam and haze, warm amber and sodium-orange work lights against cold steel-blue and teal shadows, the luxurious upper levels in clean white, glass and soft gold light, volumetric light shafts, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and calm, uncluttered space at the bottom (floor, grating, table top, soft shadow) for a logo.\nScene: Aira wears an old battered half-face oxygen mask over her nose and mouth (her determined eyes visible above it), her charcoal hijab still fully covering her hair and neck, her ankle-length olive-brown coat; she kneels closing the latches of her battered metal toolkit with the black case hidden inside, the repaired pipe behind her with a freshly welded seam still glowing orange, glancing warily up at a small security camera with a red light on the wall above her; she is completely alone, nobody else in the chamber. Location: inside Junction-9, an enclosed cramped chamber at the very bottom of the bunker with a low rusted steel ceiling and close riveted walls, no view of any other level: a gigantic main oxygen pipe with a large jagged crack spewing white vapour, dark water bubbling across the grating floor, thick haze of gas all around. Camera: medium wide shot, eye level, her face and the camera in the upper half, the wet grating floor as a calm lower third.\nCharacters: Aira: a slim athletic Maldivian young woman of 26 with warm brown skin, a determined oval face, large dark intense eyes, straight dark eyebrows and a faint grease smudge on one cheek; wears a loose ankle-length dark olive-brown canvas work coat buttoned to the neck with long sleeves, loose dark trousers and scuffed boots, a charcoal-grey hijab wrapped snugly and fully covering her hair and neck, and a small worn steel tag pendant on a thin chain over her hijab at the chest.\nMood/lighting: cold blue darkness broken by the bright white-orange flare of welding sparks, swirling vapour, tense and secretive.\nModest clothing (women in loose long-sleeved ankle-length clothing with a hijab fully covering hair and neck; men in long-sleeved shirts or jackets and long trousers), culturally respectful, no guns, no knives, no weapons visible, no violence shown, no blood, no wounds, no gore, no dead bodies, no text, no letters, no numbers, no writing, no screens with readable text, no symbols, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.124,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 34.0,
+    "y_pct": 28.8,
+    "face_detected": true
+   }
+  }
+ ]
+}

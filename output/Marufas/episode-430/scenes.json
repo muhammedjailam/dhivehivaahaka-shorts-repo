@@ -1,0 +1,2835 @@
+{
+ "series": "Marufas",
+ "episode": 430,
+ "beats": [
+  {
+   "id": "beat_001",
+   "startMs": 0,
+   "endMs": 34920,
+   "new_image_reason": "episode opening: night, a terrible deep voice comes out of Yamna in her marble bedroom",
+   "characters": [
+    "saahidha",
+    "khalid",
+    "yamna"
+   ],
+   "location": "Yamna's spacious bedroom in the family's large modern island house: white walls, polished white marble floor, a big bed with white sheets and a pale headboard, a study desk with books and pens under the window, a tall dark-wood wardrobe, a glass sliding window beside the bed with a sheer white curtain, a round ceiling light",
+   "location_key": "yamna_room",
+   "mood": "late night, the round ceiling light dark or flickering, an icy cold blue haze filling the room, a single weak warm lamp in a corner, deep charcoal shadows, dread and horror",
+   "visual": "the dark marble bedroom at night: Yamna lying in the big bed under a white blanket pulled up to her chest, her white hijab snugly covering her hair and neck, long lilac sleeves, half sitting against the pale headboard, her face lost in deep shadow, perfectly still; at the foot of the bed Saahidha and Khalid have stepped back in shock, Saahidha's hands pressed to her mouth, Khalid's eyes wide, both faces lit from below by a weak lamp; a cold blue haze hangs in the air",
+   "camera": "wide shot from the doorway, eye level, faces in the upper two-thirds, a calm dark uncluttered lower third (polished marble floor in shadow)",
+   "image": "images/beat_001.png",
+   "reuse_of": null,
+   "transition_in": "dissolve",
+   "sensitive": "other",
+   "safe_substitution": "the demonic voice is carried by the parents' horrified faces; possession is never shown on her body: no marks, no contortion, she is fully covered and still; the horror is carried by the room, the light and the parents' faces",
+   "ambience": "haunted_room",
+   "shots": [
+    {
+     "id": "shot_001",
+     "startMs": 0,
+     "endMs": 10560,
+     "narration_dhivehi": "އޮފްކަންގަދަ ސަންގުމަރުމަރު ތަޅުންގަނޑާއި، އެ ތަނަވަސް ޒަމާނީ ކޮޓަރިއަށް ވެރިވެފައި އޮތް ނާމާން ހިމޭންކަން ފޫދުއްވާލީ ޔަމްނާގެ އަރުތެރެއިން ނިކުތް ބިރުވެރި އަޑުންނެވެ.",
+     "narration_english": "The pitiless silence that ruled that spacious modern room with its gleaming marble floor was shattered by a terrifying voice that came out of Yamna's throat.",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [
+      {
+       "name": "low_growl",
+       "atMs": 9880,
+       "gainDb": -21,
+       "word": "އަޑުންނެވެ."
+      }
+     ],
+     "hum": true,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_002",
+     "startMs": 10560,
+     "endMs": 20150,
+     "narration_dhivehi": "\"ކަލޭމެން ހީކުރަނީ ވަރަށް މޮޅު ކަމެއް ކަމަށްތަ ތި ކުރެވެނީ؟\" އެ ބަސްތަކާއެކު، ޔަމްނާގެ ގާތުގައި ތިރިވެތިބި އެންމެންގެ ގައިން ހީބިހި ނަގައިގެންދިޔައެވެ.",
+     "narration_english": "\"Do you people think what you're doing is something so clever?\" With those words, everyone gathered near Yamna felt their skin crawl.",
+     "crop": "tight",
+     "motion": "pan left",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      0.8,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_003",
+     "startMs": 20150,
+     "endMs": 27810,
+     "narration_dhivehi": "އޭނާގެ އަޑުގައި މީގެ ކުޑައިރުކޮޅެއް ކުރިން ހުރި އަންހެންވަންތަކަމާއި އޮމާންކަން މިހާރު ވަނީ މުޅިން ފިލައިގެން ގޮސްފައެވެ.",
+     "narration_english": "The femininity and gentleness that had been in her voice only a little while before had now vanished completely.",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_004",
+     "startMs": 27810,
+     "endMs": 34920,
+     "narration_dhivehi": "އެ އަޑުގައި އިންސާނެއްގެ އެއްވެސް ސިފައެއް މިހާރަކު ނެތެވެ. އެ އަޑުގައި ވަނީ ބަރުކަމާއި ބިރުވެރިކަމެވެ. ހަމަ އެ ބަސްތަކާއެކު،",
+     "narration_english": "There was no longer any trace of a human being in that voice. That voice held only heaviness and terror. And with those very words,",
+     "crop": "medium",
+     "motion": "pan right",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      0.0,
+      0.0,
+      71.5,
+      84.7
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Saahidha; reference image 2 is Khalid; reference image 3 is Yamna), create a new scene: Cinematic semi-realistic digital illustration with a dark Maldivian horror-drama look, deep charcoal and smoky blue-grey shadows, cold misty moonlight and dim warm amber lamplight, drifting haze, high contrast with soft highlights, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, dark, uncluttered lower third (floor, sand, bedsheet edge, table top in soft shadow) for captions and a logo; a wealthy family's large modern house on a small Maldivian island with polished marble floors, white walls and dark wooden furniture, white sandy lanes, palms and a dark lagoon.\nScene: the dark marble bedroom at night: Yamna lying in the big bed under a white blanket pulled up to her chest, her white hijab snugly covering her hair and neck, long lilac sleeves, half sitting against the pale headboard, her face lost in deep shadow, perfectly still; at the foot of the bed Saahidha and Khalid have stepped back in shock, Saahidha's hands pressed to her mouth, Khalid's eyes wide, both faces lit from below by a weak lamp; a cold blue haze hangs in the air. Location: Yamna's spacious bedroom in the family's large modern island house: white walls, polished white marble floor, a big bed with white sheets and a pale headboard, a study desk with books and pens under the window, a tall dark-wood wardrobe, a glass sliding window beside the bed with a sheer white curtain, a round ceiling light. Camera: wide shot from the doorway, eye level, faces in the upper two-thirds, a calm dark uncluttered lower third (polished marble floor in shadow).\nCharacters: Saahidha: a Maldivian woman of about 40 with warm brown skin, a gentle oval face, dark expressive eyes, fine lines at the eyes and full lips; wears a loose long-sleeved ankle-length dark bottle-green dress with subtle embroidery at the cuffs and a beige hijab wrapped snugly and fully covering her hair and neck. Khalid: a solid broad-shouldered Maldivian man of about 48 with warm brown skin, a broad dignified face, tired dark eyes, short black hair greying at the temples and a neatly trimmed short black beard with grey streaks; wears a long-sleeved cream button-up shirt, dark-brown trousers and a silver wristwatch. Yamna: a petite slim Maldivian girl of about 15 with warm brown skin, a soft round youthful face, large dark gentle eyes, thick dark eyebrows and a small nose; wears a loose long-sleeved ankle-length pale-lilac cotton dress and a plain white hijab wrapped snugly and fully covering her hair and neck.\nMood/lighting: late night, the round ceiling light dark or flickering, an icy cold blue haze filling the room, a single weak warm lamp in a corner, deep charcoal shadows, dread and horror.\nModest Maldivian clothing (every woman and girl in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck, arms always covered; men in shirts and long trousers or a sarong, never shirtless), culturally respectful, no blood, no wounds, no scratches, no injuries, no gore, no weapons, no knives, no ropes, no restraints, no violence, nobody hurting anyone, no monster faces, no religious symbols, no written verses, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.085,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 30.5,
+    "y_pct": 18.8,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_002",
+   "startMs": 34920,
+   "endMs": 75642,
+   "new_image_reason": "action change: the possession attack seizes her on the bed",
+   "characters": [
+    "yamna"
+   ],
+   "location": "Yamna's spacious bedroom in the family's large modern island house: white walls, polished white marble floor, a big bed with white sheets and a pale headboard, a study desk with books and pens under the window, a tall dark-wood wardrobe, a glass sliding window beside the bed with a sheer white curtain, a round ceiling light",
+   "location_key": "yamna_room",
+   "mood": "late night, the round ceiling light dark or flickering, an icy cold blue haze filling the room, a single weak warm lamp in a corner, deep charcoal shadows, dread and horror",
+   "visual": "the big bed seen from its foot in near darkness: the white sheet violently crumpled and pulled into deep ridges, Yamna lying in the big bed under a white blanket pulled up to her chest, her white hijab snugly covering her hair and neck, long lilac sleeves, her face turned up towards the ceiling and hidden in shadow; on the white wall above the headboard a huge dark smoky shadow with long thin clawed shadowy fingers spreads upward like smoke, with no face; the round ceiling light flickers",
+   "camera": "medium wide, low angle from the foot of the bed, faces in the upper two-thirds, a calm dark uncluttered lower third (the crumpled sheet edge in soft shadow)",
+   "image": "images/beat_002.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": "violence",
+   "safe_substitution": "the arching body, blood-red eyes, foam and torn sheet are replaced by the crumpled sheet, the flickering light and the smoky shadow on the wall (shadow use 1 of 2); Yamna fully covered, face in shadow",
+   "ambience": "haunted_room",
+   "shots": [
+    {
+     "id": "shot_005",
+     "startMs": 34920,
+     "endMs": 44451,
+     "narration_dhivehi": "ޔަމްނާގެ ހަށިގަނޑު އެ ބޮޑު އެނދުމައްޗަށް އިދިފުށަށް ދަމައިގަތެވެ. އިންސާނީ ބާރަކަށް ނުކުރެވޭނެ ފަދަ އާދަޔާޚިލާފު ގޮތަކަށް އޭނާގެ ބުރަކަށި ލެނބި،",
+     "narration_english": "Yamna's body was wrenched backwards on the big bed. In an unnatural way no human strength could manage, her spine bent,",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [
+      {
+       "name": "cloth_rustle",
+       "atMs": 38361,
+       "gainDb": -20,
+       "word": "ދަމައިގަތެވެ."
+      }
+     ],
+     "hum": true,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_006",
+     "startMs": 44451,
+     "endMs": 53181,
+     "narration_dhivehi": "ބަނޑު މައްޗަށް ހިއްލެމުން ދިޔައެވެ. ބޯ ފަހަތަށް އެލި، ލޭގެ ރަތްކުލައިން ފުރިފައިވާ ދެލޯ ބޮޑުވެ، ކޮޓަރީގެ ސީލިންގަށް އަމާޒުވިއެވެ.",
+     "narration_english": "and her belly rose upward. Her head fell back, and her eyes, filled with blood-red, grew huge and fixed on the ceiling.",
+     "crop": "tight",
+     "motion": "pan up",
+     "sfx": [],
+     "hum": true,
+     "crop_rect_pct": [
+      20.3,
+      4.8,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_007",
+     "startMs": 53181,
+     "endMs": 65381,
+     "narration_dhivehi": "އޭނާގެ މޫނުމައްޗަށް ހޭވިފައިވާ ކަޅުކަންގަދަ ފަން، އިސްތަށިގަނޑު ތިރިއަށް އެލެމުންދިޔައިރު، އަރުތެރެއިން ނިކުންނަމުން ދިޔަ ބާރު ހަޅޭކުގެ އަޑުން ކަންފަތްތައް ހީވީ ފަޅައިގެން ހިނގައިދާނެ ހެންނެވެ.",
+     "narration_english": "As thick dark foam spread over her face and ran down her chin, the loud scream pouring from her throat felt as if it would burst their eardrums.",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_008",
+     "startMs": 65381,
+     "endMs": 75642,
+     "narration_dhivehi": "އެއާއެކު، އޭނާގެ ދެއަތާއި ދެފައިގެ އިނގިލިތައް ބުޅިވެ، ނާރުތައް ފުއްޕައި، ވަކިތަކެއް ފަދައިން އެނދުގެ ބެޑްޝީޓް ވީދައިލަމުން ގޮދަޑީގެ ތެރެއަށް ހެރެމުންދިޔައެވެ.",
+     "narration_english": "At the same time, the fingers of her hands and feet curled, her veins bulged, and like claws they tore at the bedsheet and sank into the mattress.",
+     "crop": "medium",
+     "motion": "pan down",
+     "sfx": [
+      {
+       "name": "cloth_rustle",
+       "atMs": 72881,
+       "gainDb": -19,
+       "word": "ވީދައިލަމުން"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      14.2,
+      0.0,
+      71.5,
+      84.7
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Yamna), create a new scene: Cinematic semi-realistic digital illustration with a dark Maldivian horror-drama look, deep charcoal and smoky blue-grey shadows, cold misty moonlight and dim warm amber lamplight, drifting haze, high contrast with soft highlights, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, dark, uncluttered lower third (floor, sand, bedsheet edge, table top in soft shadow) for captions and a logo; a wealthy family's large modern house on a small Maldivian island with polished marble floors, white walls and dark wooden furniture, white sandy lanes, palms and a dark lagoon.\nScene: the big bed seen from its foot in near darkness: the white sheet violently crumpled and pulled into deep ridges, Yamna lying in the big bed under a white blanket pulled up to her chest, her white hijab snugly covering her hair and neck, long lilac sleeves, her face turned up towards the ceiling and hidden in shadow; on the white wall above the headboard a huge dark smoky shadow with long thin clawed shadowy fingers spreads upward like smoke, with no face; the round ceiling light flickers. Location: Yamna's spacious bedroom in the family's large modern island house: white walls, polished white marble floor, a big bed with white sheets and a pale headboard, a study desk with books and pens under the window, a tall dark-wood wardrobe, a glass sliding window beside the bed with a sheer white curtain, a round ceiling light. Camera: medium wide, low angle from the foot of the bed, faces in the upper two-thirds, a calm dark uncluttered lower third (the crumpled sheet edge in soft shadow).\nCharacters: Yamna: a petite slim Maldivian girl of about 15 with warm brown skin, a soft round youthful face, large dark gentle eyes, thick dark eyebrows and a small nose; wears a loose long-sleeved ankle-length pale-lilac cotton dress and a plain white hijab wrapped snugly and fully covering her hair and neck.\nMood/lighting: late night, the round ceiling light dark or flickering, an icy cold blue haze filling the room, a single weak warm lamp in a corner, deep charcoal shadows, dread and horror.\nModest Maldivian clothing (every woman and girl in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck, arms always covered; men in shirts and long trousers or a sarong, never shirtless), culturally respectful, no blood, no wounds, no scratches, no injuries, no gore, no weapons, no knives, no ropes, no restraints, no violence, nobody hurting anyone, no monster faces, no religious symbols, no written verses, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.112,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 50.0,
+    "y_pct": 40.0,
+    "face_detected": false
+   }
+  },
+  {
+   "id": "beat_003",
+   "startMs": 75642,
+   "endMs": 109602,
+   "new_image_reason": "turning point: the room freezes, the bulbs die, Saahidha screams for Khalid to fetch Saeed",
+   "characters": [
+    "saahidha",
+    "khalid"
+   ],
+   "location": "Yamna's spacious bedroom in the family's large modern island house: white walls, polished white marble floor, a big bed with white sheets and a pale headboard, a study desk with books and pens under the window, a tall dark-wood wardrobe, a glass sliding window beside the bed with a sheer white curtain, a round ceiling light",
+   "location_key": "yamna_room",
+   "mood": "late night, the round ceiling light dark or flickering, an icy cold blue haze filling the room, a single weak warm lamp in a corner, deep charcoal shadows, dread and horror",
+   "visual": "the bedroom plunged into darkness, the round ceiling light just gone out, faint frosty cold-blue mist drifting across the marble floor and their breath misting in the cold; Saahidha in her bottle-green dress and beige hijab turning to Khalid, sobbing, mouth open in a desperate cry, one hand clutching his sleeve; Khalid pale and frozen beside her; the bed is a dim shape behind them",
+   "camera": "medium shot, eye level, faces in the upper two-thirds, a calm dark uncluttered lower third (dark marble floor with creeping mist)",
+   "image": "images/beat_003.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "haunted_room",
+   "shots": [
+    {
+     "id": "shot_009",
+     "startMs": 75642,
+     "endMs": 83342,
+     "narration_dhivehi": "މުޅި ކޮޓަރީގެ ފިނިހޫނުމިން ކުއްލިއަކަށް ދަށަށްގޮސް، ލޭ ގަނޑުކޮށްލާ ފަދަ ފިނިކަމެއް މުޅި މާހައުލަށް ވެރިވެގެން ދިޔައެވެ.",
+     "narration_english": "The temperature of the whole room suddenly dropped, and a cold that could freeze the blood took over the whole atmosphere.",
+     "crop": "full",
+     "motion": "static drift",
+     "sfx": [],
+     "hum": true,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_010",
+     "startMs": 83342,
+     "endMs": 90132,
+     "narration_dhivehi": "ހަމައެއާއެކު ދިއްލާފައިވާ އަލިގަދަ ބޮކިތައް ނިވިގެންދިޔައެވެ. \"ޚާލިދު! ޚާލިދު އަވަހަށް ދޭބަލަ ސައީދު ބަލައި!\"",
+     "narration_english": "At that same moment the brightly lit bulbs went out. \"Khalid! Khalid, hurry, go and fetch Saeed!\"",
+     "crop": "tight",
+     "motion": "slow push-in",
+     "sfx": [
+      {
+       "name": "bulb_flicker",
+       "atMs": 86022,
+       "gainDb": -16,
+       "word": "ނިވިގެންދިޔައެވެ."
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      40.6,
+      7.3,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_011",
+     "startMs": 90132,
+     "endMs": 99542,
+     "narration_dhivehi": "ޔަމްނާގެ މަންމަ، ސާހިދާއަށް މިހެން ބުނެވުނުއިރު އޭނާއަށް ބާރަށް ރޮވިއްޖެއެވެ. އެ އަޑުގައި ވަނީ އިންތިހާ ދަރަޖައިގެ ހާސްކަމާއި ތުރުތުރުލުމެކެވެ.",
+     "narration_english": "As Yamna's mother, Saahidha, cried this out, she broke into loud sobs. Her voice was full of utter panic and trembling.",
+     "crop": "full",
+     "motion": "pan left",
+     "sfx": [
+      {
+       "name": "sob_breath",
+       "atMs": 94862,
+       "gainDb": -22,
+       "word": "ރޮވިއްޖެއެވެ."
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_012",
+     "startMs": 99542,
+     "endMs": 109602,
+     "narration_dhivehi": "ދަރިފުޅުގެ މި ބިރުވެރި ޙާލަތު ފެނި، އޭނާގެ ހިތަށް ވަނީ ކެތްކުރަންދަތި އިޙްސާސްތަކެއް ކުރުވާފައެވެ. ސާހިދާގެ މި ބަސްތަކާއެކު، ޔަމްނާގެ ބައްޕަ،",
+     "narration_english": "Seeing her child in this terrifying state had filled her heart with unbearable feelings. At Saahidha's words, Yamna's father,",
+     "crop": "medium",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      28.5,
+      0.2,
+      71.5,
+      84.7
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Saahidha; reference image 2 is Khalid), create a new scene: Cinematic semi-realistic digital illustration with a dark Maldivian horror-drama look, deep charcoal and smoky blue-grey shadows, cold misty moonlight and dim warm amber lamplight, drifting haze, high contrast with soft highlights, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, dark, uncluttered lower third (floor, sand, bedsheet edge, table top in soft shadow) for captions and a logo; a wealthy family's large modern house on a small Maldivian island with polished marble floors, white walls and dark wooden furniture, white sandy lanes, palms and a dark lagoon.\nScene: the bedroom plunged into darkness, the round ceiling light just gone out, faint frosty cold-blue mist drifting across the marble floor and their breath misting in the cold; Saahidha in her bottle-green dress and beige hijab turning to Khalid, sobbing, mouth open in a desperate cry, one hand clutching his sleeve; Khalid pale and frozen beside her; the bed is a dim shape behind them. Location: Yamna's spacious bedroom in the family's large modern island house: white walls, polished white marble floor, a big bed with white sheets and a pale headboard, a study desk with books and pens under the window, a tall dark-wood wardrobe, a glass sliding window beside the bed with a sheer white curtain, a round ceiling light. Camera: medium shot, eye level, faces in the upper two-thirds, a calm dark uncluttered lower third (dark marble floor with creeping mist).\nCharacters: Saahidha: a Maldivian woman of about 40 with warm brown skin, a gentle oval face, dark expressive eyes, fine lines at the eyes and full lips; wears a loose long-sleeved ankle-length dark bottle-green dress with subtle embroidery at the cuffs and a beige hijab wrapped snugly and fully covering her hair and neck. Khalid: a solid broad-shouldered Maldivian man of about 48 with warm brown skin, a broad dignified face, tired dark eyes, short black hair greying at the temples and a neatly trimmed short black beard with grey streaks; wears a long-sleeved cream button-up shirt, dark-brown trousers and a silver wristwatch.\nMood/lighting: late night, the round ceiling light dark or flickering, an icy cold blue haze filling the room, a single weak warm lamp in a corner, deep charcoal shadows, dread and horror.\nModest Maldivian clothing (every woman and girl in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck, arms always covered; men in shirts and long trousers or a sarong, never shirtless), culturally respectful, no blood, no wounds, no scratches, no injuries, no gore, no weapons, no knives, no ropes, no restraints, no violence, nobody hurting anyone, no monster faces, no religious symbols, no written verses, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.11,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 70.3,
+    "y_pct": 42.5,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_004",
+   "startMs": 109602,
+   "endMs": 120533,
+   "new_image_reason": "location change: Khalid runs out into the dark island night for help",
+   "characters": [
+    "khalid"
+   ],
+   "location": "white sandy lanes between coral-stone walls, palms and breadfruit trees, a few dim street lamps",
+   "location_key": "island_lane",
+   "mood": "deep night, pitch-dark island, a single dim street lamp, cold misty blue haze, urgent and fearful",
+   "visual": "Khalid running fast down an empty white sandy lane at night between coral-stone walls, his cream shirt pale in the darkness, a single dim street lamp ahead, palms black against the sky, his face desperate",
+   "camera": "medium wide tracking shot from behind and to the side, faces in the upper two-thirds, a calm dark uncluttered lower third (pale sand of the lane)",
+   "image": "images/beat_004.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "night_lane",
+   "shots": [
+    {
+     "id": "shot_013",
+     "startMs": 109602,
+     "endMs": 120533,
+     "narration_dhivehi": "ޚާލިދު ކޮޓަރިން ނިކުމެ ދުއްވައިގަތީ ކޮންމެފަދަ ގޮތަކުން ނަމަވެސް އެހީތެރިކަމެއް ލިބޭތޯއެވެ. މުޅި ގެއަށް ވެރިވެފައިވާ ބިރުވެރިކަމާއެކު ދަންވަރުގެ ވަގުތުތައް ހޭދަވަމުން ދިޔައެވެ.",
+     "narration_english": "Khalid, rushed out of the room, hoping to find help in any way he could. With fear ruling the whole house, the hours of the night dragged on.",
+     "crop": "full",
+     "motion": "pan right",
+     "sfx": [
+      {
+       "name": "footsteps_sand",
+       "atMs": 111122,
+       "gainDb": -22,
+       "word": "ދުއްވައިގަތީ"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Khalid), create a new scene: Cinematic semi-realistic digital illustration with a dark Maldivian horror-drama look, deep charcoal and smoky blue-grey shadows, cold misty moonlight and dim warm amber lamplight, drifting haze, high contrast with soft highlights, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, dark, uncluttered lower third (floor, sand, bedsheet edge, table top in soft shadow) for captions and a logo; a wealthy family's large modern house on a small Maldivian island with polished marble floors, white walls and dark wooden furniture, white sandy lanes, palms and a dark lagoon.\nScene: Khalid running fast down an empty white sandy lane at night between coral-stone walls, his cream shirt pale in the darkness, a single dim street lamp ahead, palms black against the sky, his face desperate. Location: white sandy lanes between coral-stone walls, palms and breadfruit trees, a few dim street lamps. Camera: medium wide tracking shot from behind and to the side, faces in the upper two-thirds, a calm dark uncluttered lower third (pale sand of the lane).\nCharacters: Khalid: a solid broad-shouldered Maldivian man of about 48 with warm brown skin, a broad dignified face, tired dark eyes, short black hair greying at the temples and a neatly trimmed short black beard with grey streaks; wears a long-sleeved cream button-up shirt, dark-brown trousers and a silver wristwatch.\nMood/lighting: deep night, pitch-dark island, a single dim street lamp, cold misty blue haze, urgent and fearful.\nModest Maldivian clothing (every woman and girl in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck, arms always covered; men in shirts and long trousers or a sarong, never shirtless), culturally respectful, no blood, no wounds, no scratches, no injuries, no gore, no weapons, no knives, no ropes, no restraints, no violence, nobody hurting anyone, no monster faces, no religious symbols, no written verses, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.147,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 40.9,
+    "y_pct": 20.7,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_005",
+   "startMs": 120533,
+   "endMs": 146503,
+   "new_image_reason": "character enters: Saeed arrives and recites by the bed",
+   "characters": [
+    "saeed",
+    "yamna",
+    "saahidha"
+   ],
+   "location": "Yamna's spacious bedroom in the family's large modern island house: white walls, polished white marble floor, a big bed with white sheets and a pale headboard, a study desk with books and pens under the window, a tall dark-wood wardrobe, a glass sliding window beside the bed with a sheer white curtain, a round ceiling light",
+   "location_key": "yamna_room",
+   "mood": "late night, the round ceiling light dark or flickering, an icy cold blue haze filling the room, a single weak warm lamp in a corner, deep charcoal shadows, dread and horror",
+   "visual": "Saeed in his light-grey long kurta and white skullcap standing beside the bed with both cupped hands raised in front of him, eyes half closed, lips moving in recitation; Yamna lying in the big bed under a white blanket pulled up to her chest, her white hijab snugly covering her hair and neck, long lilac sleeves, her face turned away into the shadows; Saahidha pressed against the wardrobe in the background, terrified; a weak lamp, cold blue haze, no book visible",
+   "camera": "medium shot from the side of the bed, eye level, faces in the upper two-thirds, a calm dark uncluttered lower third (blanket edge in shadow)",
+   "image": "images/beat_005.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": "violence",
+   "safe_substitution": "the screams and convulsions are carried by the recitation scene; possession is never shown on her body: no marks, no contortion, she is fully covered and still; the horror is carried by the room, the light and the parents' faces",
+   "ambience": "haunted_room",
+   "shots": [
+    {
+     "id": "shot_014",
+     "startMs": 120533,
+     "endMs": 127813,
+     "narration_dhivehi": "ޚާލިދާއެކު ސައީދު އައިސް ކޮޓަރިއަށް ވަތްއިރުވެސް ޔަމްނާގެ ޙާލަތަކަށް ބަދަލެއް ނާދެއެވެ. ސައީދު އަވަސްއަވަހަށް ކައިރިވެ،",
+     "narration_english": "Even when Saeed came with Khalid and entered the room, there was no change in Yamna's state. Saeed quickly came close,",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [
+      {
+       "name": "door_open",
+       "atMs": 123023,
+       "gainDb": -20,
+       "word": "ވަތްއިރުވެސް"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_015",
+     "startMs": 127813,
+     "endMs": 135923,
+     "narration_dhivehi": "ކީރިތި ޤުރުއާނުގެ އާޔަތްތައް ކިޔަވައި، ކުރު ރުޤްޔާއެއް ކުރަން ފެށިއެވެ. ޤުރްއާނުގެ މާތް އަޑު ކޮޓަރިތެރޭގައި ގުގުމާލުމާއެކު،",
+     "narration_english": "recited verses of the Holy Quran and began a short ruqyah. As the noble sound of the Quran echoed through the room,",
+     "crop": "tight",
+     "motion": "pan up",
+     "sfx": [
+      {
+       "name": "whisper_recite",
+       "atMs": 129603,
+       "gainDb": -23,
+       "word": "ކިޔަވައި،"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      40.6,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_016",
+     "startMs": 135923,
+     "endMs": 146503,
+     "narration_dhivehi": "ޔަމްނާގެ ހަޅޭކުގެ އަޑުވެސް ބާރުވެގެންދިޔައެވެ. ހަމަމިއާއެކު ޔަމްނާގެ ހަށިގަނޑަށް ލޮޅުން އަރަމުން ގޮސް، އެންމެ ފަހުން މުޅި މީހާ ވަރުދެރަވެ، އެނދުމައްޗަށް ވެއްޓުނެވެ.",
+     "narration_english": "Yamna's screams grew louder too. Then convulsions ran through Yamna's body, and at last, utterly exhausted, she collapsed onto the bed.",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [
+      {
+       "name": "soft_thud",
+       "atMs": 145723,
+       "gainDb": -22,
+       "word": "ވެއްޓުނެވެ."
+      }
+     ],
+     "hum": true,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Saeed; reference image 2 is Yamna; reference image 3 is Saahidha), create a new scene: Cinematic semi-realistic digital illustration with a dark Maldivian horror-drama look, deep charcoal and smoky blue-grey shadows, cold misty moonlight and dim warm amber lamplight, drifting haze, high contrast with soft highlights, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, dark, uncluttered lower third (floor, sand, bedsheet edge, table top in soft shadow) for captions and a logo; a wealthy family's large modern house on a small Maldivian island with polished marble floors, white walls and dark wooden furniture, white sandy lanes, palms and a dark lagoon.\nScene: Saeed in his light-grey long kurta and white skullcap standing beside the bed with both cupped hands raised in front of him, eyes half closed, lips moving in recitation; Yamna lying in the big bed under a white blanket pulled up to her chest, her white hijab snugly covering her hair and neck, long lilac sleeves, her face turned away into the shadows; Saahidha pressed against the wardrobe in the background, terrified; a weak lamp, cold blue haze, no book visible. Location: Yamna's spacious bedroom in the family's large modern island house: white walls, polished white marble floor, a big bed with white sheets and a pale headboard, a study desk with books and pens under the window, a tall dark-wood wardrobe, a glass sliding window beside the bed with a sheer white curtain, a round ceiling light. Camera: medium shot from the side of the bed, eye level, faces in the upper two-thirds, a calm dark uncluttered lower third (blanket edge in shadow).\nCharacters: Saeed: a slim Maldivian man of about 28 with warm brown skin, a kind gentle face, calm dark eyes and a neat short black beard; wears a long light-grey kurta-style shirt reaching below the knees with long sleeves, white trousers and a white knitted skullcap. Yamna: a petite slim Maldivian girl of about 15 with warm brown skin, a soft round youthful face, large dark gentle eyes, thick dark eyebrows and a small nose; wears a loose long-sleeved ankle-length pale-lilac cotton dress and a plain white hijab wrapped snugly and fully covering her hair and neck. Saahidha: a Maldivian woman of about 40 with warm brown skin, a gentle oval face, dark expressive eyes, fine lines at the eyes and full lips; wears a loose long-sleeved ankle-length dark bottle-green dress with subtle embroidery at the cuffs and a beige hijab wrapped snugly and fully covering her hair and neck.\nMood/lighting: late night, the round ceiling light dark or flickering, an icy cold blue haze filling the room, a single weak warm lamp in a corner, deep charcoal shadows, dread and horror.\nModest Maldivian clothing (every woman and girl in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck, arms always covered; men in shirts and long trousers or a sarong, never shirtless), culturally respectful, no blood, no wounds, no scratches, no injuries, no gore, no weapons, no knives, no ropes, no restraints, no violence, nobody hurting anyone, no monster faces, no religious symbols, no written verses, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.127,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 89.8,
+    "y_pct": 25.7,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_006",
+   "startMs": 146503,
+   "endMs": 183884,
+   "new_image_reason": "action change: the attack ends, Yamna sleeps, Saeed gives his grave advice to the parents",
+   "characters": [
+    "saeed",
+    "khalid",
+    "saahidha",
+    "yamna"
+   ],
+   "location": "Yamna's spacious bedroom in the family's large modern island house: white walls, polished white marble floor, a big bed with white sheets and a pale headboard, a study desk with books and pens under the window, a tall dark-wood wardrobe, a glass sliding window beside the bed with a sheer white curtain, a round ceiling light",
+   "location_key": "yamna_room_calm",
+   "mood": "late night after the storm of fear, dim cold blue haze, one warm bedside lamp, deep soft shadows, exhausted, uneasy stillness",
+   "visual": "in the background Yamna lying in the big bed under a white blanket pulled up to her chest, her white hijab snugly covering her hair and neck, long lilac sleeves, asleep peacefully with her eyes closed; in the foreground Saeed in his grey kurta and white skullcap turned to Khalid and Saahidha, speaking gravely with worry on his young face; the parents exchanging an uneasy look",
+   "camera": "medium shot, eye level, faces in the upper two-thirds, a calm dark uncluttered lower third (marble floor in soft shadow)",
+   "image": "images/beat_006.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "room_night",
+   "shots": [
+    {
+     "id": "shot_017",
+     "startMs": 146503,
+     "endMs": 157544,
+     "narration_dhivehi": "އޭރު މުޅި ރަށް އޮތީ ކަނު އަނދިރިކަމުގެ ތެރޭގައި، ނުހަނު ދަންވެފައެވެ. ޔަމްނާގެ ނޭވާ ހަމައަކަށް އެޅުމުން ސައީދު ފުން ނޭވާއެއް ދޫކޮށްލަމުން ޚާލިދަށާއި ސާހިދާއަށް ބަލައިލިއެވެ.",
+     "narration_english": "By then the whole island lay in pitch darkness, deep in the night. When Yamna's breathing settled, Saeed let out a deep breath and looked at Khalid and Saahidha.",
+     "crop": "full",
+     "motion": "pan down",
+     "sfx": [
+      {
+       "name": "sigh",
+       "atMs": 154104,
+       "gainDb": -20,
+       "word": "ނޭވާއެއް"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_018",
+     "startMs": 157544,
+     "endMs": 165354,
+     "narration_dhivehi": "އޭރު ޔަމްނާ ފުންނިންޖަކުން ނިދިފައި އޮތެވެ. \"މިއީ ހީވަނީ އާދައިގެ ކަމެއް ނޫންހެން، މަށަށް އަދި ކުޑަކޮށް ކިޔަވާލަން އެނގުނަސް،",
+     "narration_english": "By then Yamna lay in a deep sleep. \"This doesn't look like an ordinary matter. Even though I know how to recite a little,",
+     "crop": "tight",
+     "motion": "static drift",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      20.3,
+      4.8,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_019",
+     "startMs": 165354,
+     "endMs": 172564,
+     "narration_dhivehi": "މަށަށް ފެންނަނީ މިކުއްޖާ ރުޤްޔާ ކުރާ މީހަކަށް ދައްކާ ޓެސްޓުކޮށްލަން!\" ސައީދު ދިނީ ހިތް ބިރުގަންނަވާލިފަދަ ލަފައެކެވެ.",
+     "narration_english": "I think this girl should be shown to someone who performs ruqyah, to have her checked!\" Saeed gave advice that made their hearts tremble.",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_020",
+     "startMs": 172564,
+     "endMs": 183884,
+     "narration_dhivehi": "ސާހިދާއާއި ޚާލިދު ނުތަނަވަސްކަމާއެކު އެކަކުއަނެކަކުގެ މޫނަށް ބަލައިލިއެވެ. ސައީދުގެ ޒުވާން މޫނުން ފެންނަންހުރި ބިރުވެރިކަމާއި ނުތަނަވަސްކަމުގެ ކުލަތައް އެމީހުންނަށްވެސް ފެނުނެވެ.",
+     "narration_english": "Saahidha and Khalid looked at each other uneasily. They too could see the shades of fear and unease on Saeed's young face.",
+     "crop": "medium",
+     "motion": "pan left",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      14.2,
+      0.0,
+      71.5,
+      84.7
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Saeed; reference image 2 is Khalid; reference image 3 is Saahidha; reference image 4 is Yamna), create a new scene: Cinematic semi-realistic digital illustration with a dark Maldivian horror-drama look, deep charcoal and smoky blue-grey shadows, cold misty moonlight and dim warm amber lamplight, drifting haze, high contrast with soft highlights, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, dark, uncluttered lower third (floor, sand, bedsheet edge, table top in soft shadow) for captions and a logo; a wealthy family's large modern house on a small Maldivian island with polished marble floors, white walls and dark wooden furniture, white sandy lanes, palms and a dark lagoon.\nScene: in the background Yamna lying in the big bed under a white blanket pulled up to her chest, her white hijab snugly covering her hair and neck, long lilac sleeves, asleep peacefully with her eyes closed; in the foreground Saeed in his grey kurta and white skullcap turned to Khalid and Saahidha, speaking gravely with worry on his young face; the parents exchanging an uneasy look. Location: Yamna's spacious bedroom in the family's large modern island house: white walls, polished white marble floor, a big bed with white sheets and a pale headboard, a study desk with books and pens under the window, a tall dark-wood wardrobe, a glass sliding window beside the bed with a sheer white curtain, a round ceiling light. Camera: medium shot, eye level, faces in the upper two-thirds, a calm dark uncluttered lower third (marble floor in soft shadow).\nCharacters: Saeed: a slim Maldivian man of about 28 with warm brown skin, a kind gentle face, calm dark eyes and a neat short black beard; wears a long light-grey kurta-style shirt reaching below the knees with long sleeves, white trousers and a white knitted skullcap. Khalid: a solid broad-shouldered Maldivian man of about 48 with warm brown skin, a broad dignified face, tired dark eyes, short black hair greying at the temples and a neatly trimmed short black beard with grey streaks; wears a long-sleeved cream button-up shirt, dark-brown trousers and a silver wristwatch. Saahidha: a Maldivian woman of about 40 with warm brown skin, a gentle oval face, dark expressive eyes, fine lines at the eyes and full lips; wears a loose long-sleeved ankle-length dark bottle-green dress with subtle embroidery at the cuffs and a beige hijab wrapped snugly and fully covering her hair and neck. Yamna: a petite slim Maldivian girl of about 15 with warm brown skin, a soft round youthful face, large dark gentle eyes, thick dark eyebrows and a small nose; wears a loose long-sleeved ankle-length pale-lilac cotton dress and a plain white hijab wrapped snugly and fully covering her hair and neck.\nMood/lighting: late night after the storm of fear, dim cold blue haze, one warm bedside lamp, deep soft shadows, exhausted, uneasy stillness.\nModest Maldivian clothing (every woman and girl in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck, arms always covered; men in shirts and long trousers or a sarong, never shirtless), culturally respectful, no blood, no wounds, no scratches, no injuries, no gore, no weapons, no knives, no ropes, no restraints, no violence, nobody hurting anyone, no monster faces, no religious symbols, no written verses, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.154,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 50.0,
+    "y_pct": 40.0,
+    "face_detected": false
+   }
+  },
+  {
+   "id": "beat_007",
+   "startMs": 183884,
+   "endMs": 205885,
+   "new_image_reason": "character leaves: Saeed gone, the parents sit by her bed; Saahidha strokes her forehead",
+   "characters": [
+    "saahidha",
+    "khalid",
+    "yamna"
+   ],
+   "location": "Yamna's spacious bedroom in the family's large modern island house: white walls, polished white marble floor, a big bed with white sheets and a pale headboard, a study desk with books and pens under the window, a tall dark-wood wardrobe, a glass sliding window beside the bed with a sheer white curtain, a round ceiling light",
+   "location_key": "yamna_room_calm",
+   "mood": "late night after the storm of fear, dim cold blue haze, one warm bedside lamp, deep soft shadows, exhausted, uneasy stillness",
+   "visual": "Yamna lying in the big bed under a white blanket pulled up to her chest, her white hijab snugly covering her hair and neck, long lilac sleeves, asleep; Saahidha sitting on the edge of the bed gently stroking her daughter's forehead, looking across at Khalid with pleading, frightened eyes; Khalid sitting on a chair beside the bed, elbows on his knees",
+   "camera": "medium close shot, eye level, faces in the upper two-thirds, a calm dark uncluttered lower third (white blanket in soft shadow)",
+   "image": "images/beat_007.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "room_night",
+   "shots": [
+    {
+     "id": "shot_021",
+     "startMs": 183884,
+     "endMs": 193935,
+     "narration_dhivehi": "ސައީދު ގެއިން ނިކުމެގެންދިޔުމާއެކު ސާހިދާއާއި ޚާލިދު ޔަމްނާ އޮތް އެނދާއި ދިމާ މަގަތުގައި އިށީނދެލިއެވެ. ސާހިދާ ޔަމްނާގެ ނިތްކުރީގައި ފިރުމާލަމުން ޚާލިދަށް ބަލާލިއެވެ.",
+     "narration_english": "After Saeed left the house, Saahidha and Khalid sat down beside the bed where Yamna lay. Stroking Yamna's forehead, Saahidha looked at Khalid.",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [
+      {
+       "name": "door_close",
+       "atMs": 184604,
+       "gainDb": -22,
+       "word": "ނިކުމެގެންދިޔުމާއެކު"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_022",
+     "startMs": 193935,
+     "endMs": 205885,
+     "narration_dhivehi": "\"މިދިޔަ ހަފްތާގަ އެހާ ބާރު ހުމެއް އައިސް އެވަރަށް ބޮލުގައި ރިހުނީމާ ވީ ގޮތަކަށްވެސް ވެދާނެދޯ؟\" ސާހިދާ ޚާލިދަށް ސުވާލުކޮށްލީ ލޯމަތިން ފެނުނު ބިރުވެރި ހަގީގަތް ގަބޫލު ކުރަން ބޭނުން ނުވެގެންނެވެ.",
+     "narration_english": "\"Last week she had such a high fever and such a bad headache... could it be because of that?\" Saahidha asked Khalid, not wanting to accept the terrifying truth she had seen with her own eyes.",
+     "crop": "tight",
+     "motion": "pan right",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      20.3,
+      4.8,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Saahidha; reference image 2 is Khalid; reference image 3 is Yamna), create a new scene: Cinematic semi-realistic digital illustration with a dark Maldivian horror-drama look, deep charcoal and smoky blue-grey shadows, cold misty moonlight and dim warm amber lamplight, drifting haze, high contrast with soft highlights, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, dark, uncluttered lower third (floor, sand, bedsheet edge, table top in soft shadow) for captions and a logo; a wealthy family's large modern house on a small Maldivian island with polished marble floors, white walls and dark wooden furniture, white sandy lanes, palms and a dark lagoon.\nScene: Yamna lying in the big bed under a white blanket pulled up to her chest, her white hijab snugly covering her hair and neck, long lilac sleeves, asleep; Saahidha sitting on the edge of the bed gently stroking her daughter's forehead, looking across at Khalid with pleading, frightened eyes; Khalid sitting on a chair beside the bed, elbows on his knees. Location: Yamna's spacious bedroom in the family's large modern island house: white walls, polished white marble floor, a big bed with white sheets and a pale headboard, a study desk with books and pens under the window, a tall dark-wood wardrobe, a glass sliding window beside the bed with a sheer white curtain, a round ceiling light. Camera: medium close shot, eye level, faces in the upper two-thirds, a calm dark uncluttered lower third (white blanket in soft shadow).\nCharacters: Saahidha: a Maldivian woman of about 40 with warm brown skin, a gentle oval face, dark expressive eyes, fine lines at the eyes and full lips; wears a loose long-sleeved ankle-length dark bottle-green dress with subtle embroidery at the cuffs and a beige hijab wrapped snugly and fully covering her hair and neck. Khalid: a solid broad-shouldered Maldivian man of about 48 with warm brown skin, a broad dignified face, tired dark eyes, short black hair greying at the temples and a neatly trimmed short black beard with grey streaks; wears a long-sleeved cream button-up shirt, dark-brown trousers and a silver wristwatch. Yamna: a petite slim Maldivian girl of about 15 with warm brown skin, a soft round youthful face, large dark gentle eyes, thick dark eyebrows and a small nose; wears a loose long-sleeved ankle-length pale-lilac cotton dress and a plain white hijab wrapped snugly and fully covering her hair and neck.\nMood/lighting: late night after the storm of fear, dim cold blue haze, one warm bedside lamp, deep soft shadows, exhausted, uneasy stillness.\nModest Maldivian clothing (every woman and girl in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck, arms always covered; men in shirts and long trousers or a sarong, never shirtless), culturally respectful, no blood, no wounds, no scratches, no injuries, no gore, no weapons, no knives, no ropes, no restraints, no violence, nobody hurting anyone, no monster faces, no religious symbols, no written verses, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.202,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 50.0,
+    "y_pct": 40.0,
+    "face_detected": false
+   }
+  },
+  {
+   "id": "beat_008",
+   "startMs": 205885,
+   "endMs": 228386,
+   "new_image_reason": "memory: Khalid recalls Yamna picking garden flowers at sunset these past two weeks",
+   "characters": [
+    "yamna"
+   ],
+   "location": "the front veranda (fendaa) of the family's large house with a big wooden swing bench, potted plants, a sandy yard and flowering trees by the boundary wall, its open gate looking onto a white sandy island lane between coral-stone walls, palms and breadfruit trees",
+   "location_key": "veranda_lane",
+   "mood": "bright fresh morning sunshine, crisp shadows on white sand, gentle and relieved",
+   "visual": "a hazy memory: Yamna in her pale-lilac long dress and white hijab standing in the sandy front yard at sunset under a flowering tree, gathering an armful of pale flowers, looking back towards the house with a strange distant expression; long amber light, a soft vignette",
+   "camera": "medium wide, eye level, faces in the upper two-thirds, a calm dark uncluttered lower third (sandy yard in long shadow)",
+   "image": "images/beat_008.png",
+   "reuse_of": null,
+   "transition_in": "dissolve",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "memory",
+   "shots": [
+    {
+     "id": "shot_023",
+     "startMs": 205885,
+     "endMs": 218795,
+     "narration_dhivehi": "ޚާލިދު ވަކި ޖަވާބެއް ނުދީ ހިމޭނުން އިނީ ގަބޫލުކުރާނެ ވަކި ގޮތެއް ނޭނގިފައެވެ. އޭނާގެ ހަނދާނަށް އަންނަމުންދިޔައީ މިދިޔަ ދެ ހަފްތާއެއްހާ ދުވަސް ތެރޭގައި ޔަމްނާގެ ކިބައިން ފެނިފައިވާ ބައެއް ހަރަކާތްތަކެވެ.",
+     "narration_english": "Khalid sat in silence without an answer, not knowing what to believe. What kept coming back to his mind were certain behaviours he had noticed in Yamna over the past two weeks or so.",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_024",
+     "startMs": 218795,
+     "endMs": 228386,
+     "narration_dhivehi": "ފަހަކަށް އައިސް އަބަދު ބަލިވެ އުޅުމާއި އިރު އޮއްސޭ ވަގުތާއި ދިމާކޮށް ގޭދޮށު މާގަސްތަކުން މާބިނދެ ގޭތެރެއަށް ވައްދައި އުޅުނު ހަނދާންތައް ވެގެން ދިޔައީ",
+     "narration_english": "Lately she had always been ill, and around sunset she would pick flowers from the trees beside the house and bring them inside; those memories became",
+     "crop": "tight",
+     "motion": "pan up",
+     "sfx": [],
+     "hum": true,
+     "crop_rect_pct": [
+      29.5,
+      0.0,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Yamna), create a new scene: Cinematic semi-realistic digital illustration with a dark Maldivian horror-drama look, deep charcoal and smoky blue-grey shadows, cold misty moonlight and dim warm amber lamplight, drifting haze, high contrast with soft highlights, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, dark, uncluttered lower third (floor, sand, bedsheet edge, table top in soft shadow) for captions and a logo; a wealthy family's large modern house on a small Maldivian island with polished marble floors, white walls and dark wooden furniture, white sandy lanes, palms and a dark lagoon.\nScene: a hazy memory: Yamna in her pale-lilac long dress and white hijab standing in the sandy front yard at sunset under a flowering tree, gathering an armful of pale flowers, looking back towards the house with a strange distant expression; long amber light, a soft vignette. Location: the front veranda (fendaa) of the family's large house with a big wooden swing bench, potted plants, a sandy yard and flowering trees by the boundary wall, its open gate looking onto a white sandy island lane between coral-stone walls, palms and breadfruit trees. Camera: medium wide, eye level, faces in the upper two-thirds, a calm dark uncluttered lower third (sandy yard in long shadow).\nCharacters: Yamna: a petite slim Maldivian girl of about 15 with warm brown skin, a soft round youthful face, large dark gentle eyes, thick dark eyebrows and a small nose; wears a loose long-sleeved ankle-length pale-lilac cotton dress and a plain white hijab wrapped snugly and fully covering her hair and neck.\nMood/lighting: bright fresh morning sunshine, crisp shadows on white sand, gentle and relieved.\nModest Maldivian clothing (every woman and girl in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck, arms always covered; men in shirts and long trousers or a sarong, never shirtless), culturally respectful, no blood, no wounds, no scratches, no injuries, no gore, no weapons, no knives, no ropes, no restraints, no violence, nobody hurting anyone, no monster faces, no religious symbols, no written verses, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.205,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 59.2,
+    "y_pct": 23.8,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_009",
+   "startMs": 228386,
+   "endMs": 249266,
+   "new_image_reason": "time change: the fajr adhan at dawn, Khalid goes to the mosque",
+   "characters": [
+    "khalid"
+   ],
+   "location": "a small white island mosque seen from the sandy lane outside, palms around it",
+   "location_key": "mosque",
+   "mood": "dawn, the first pale blue-grey light of fajr, a warm light glowing from the mosque doorway, mist among the palms, quiet and peaceful",
+   "visual": "the small white island mosque at first light with a warm glow in its doorway; Khalid, a white skullcap on his head, cream shirt, walking along the sandy lane towards it, seen from behind and the side",
+   "camera": "wide shot, eye level, faces in the upper two-thirds, a calm dark uncluttered lower third (pale sand of the lane)",
+   "image": "images/beat_009.png",
+   "reuse_of": null,
+   "transition_in": "dissolve",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "dawn_exterior",
+   "shots": [
+    {
+     "id": "shot_025",
+     "startMs": 228386,
+     "endMs": 239266,
+     "narration_dhivehi": "އޭނާގެ ގައިން ހީބިހި ނަގައިގެންދިޔަ ނިޝާންތަކަކަށެވެ. ދެމަފިރިން މިފަދަ ވިސްނުމަކަށް ގެނބިފައި ތިއްބާ ފަތިސް ނަމާދަށް ބަންގިދިން އަޑާއެކު ހިތަށް ފިނިކަމެއް ލިބިގެންދިޔައެވެ.",
+     "narration_english": "signs that made his skin crawl. As the couple sat sunk in these thoughts, the call to the fajr prayer rang out and a coolness settled on their hearts.",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_026",
+     "startMs": 239266,
+     "endMs": 249266,
+     "narration_dhivehi": "\"ކަމަނައަށް ގޮވާލާ ނަމާދުކޮށްލަން! އަހަރެންވެސް އަންނާނަން ނަމާދު ކޮށްލައިގެން.\" ޚާލިދު މިހެން ބުނެފައި އެނދުން ތެދުވެގެން ހިނގައިގަތެވެ. \"މަންމާ!",
+     "narration_english": "\"Call kamana to pray! I'll come too, after I've prayed.\" Saying this, Khalid got up from the bed and walked away. \"Mother!",
+     "crop": "tight",
+     "motion": "pan down",
+     "sfx": [
+      {
+       "name": "footsteps_sand",
+       "atMs": 247366,
+       "gainDb": -24,
+       "word": "ހިނގައިގަތެވެ."
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      20.3,
+      4.8,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Khalid), create a new scene: Cinematic semi-realistic digital illustration with a dark Maldivian horror-drama look, deep charcoal and smoky blue-grey shadows, cold misty moonlight and dim warm amber lamplight, drifting haze, high contrast with soft highlights, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, dark, uncluttered lower third (floor, sand, bedsheet edge, table top in soft shadow) for captions and a logo; a wealthy family's large modern house on a small Maldivian island with polished marble floors, white walls and dark wooden furniture, white sandy lanes, palms and a dark lagoon.\nScene: the small white island mosque at first light with a warm glow in its doorway; Khalid, a white skullcap on his head, cream shirt, walking along the sandy lane towards it, seen from behind and the side. Location: a small white island mosque seen from the sandy lane outside, palms around it. Camera: wide shot, eye level, faces in the upper two-thirds, a calm dark uncluttered lower third (pale sand of the lane).\nCharacters: Khalid: a solid broad-shouldered Maldivian man of about 48 with warm brown skin, a broad dignified face, tired dark eyes, short black hair greying at the temples and a neatly trimmed short black beard with grey streaks; wears a long-sleeved cream button-up shirt, dark-brown trousers and a silver wristwatch.\nMood/lighting: dawn, the first pale blue-grey light of fajr, a warm light glowing from the mosque doorway, mist among the palms, quiet and peaceful.\nModest Maldivian clothing (every woman and girl in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck, arms always covered; men in shirts and long trousers or a sarong, never shirtless), culturally respectful, no blood, no wounds, no scratches, no injuries, no gore, no weapons, no knives, no ropes, no restraints, no violence, nobody hurting anyone, no monster faces, no religious symbols, no written verses, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.267,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 50.0,
+    "y_pct": 40.0,
+    "face_detected": false
+   }
+  },
+  {
+   "id": "beat_010",
+   "startMs": 249266,
+   "endMs": 264867,
+   "new_image_reason": "time change: morning, Yamna wakes aching and remembers nothing",
+   "characters": [
+    "yamna",
+    "saahidha"
+   ],
+   "location": "Yamna's spacious bedroom in the family's large modern island house: white walls, polished white marble floor, a big bed with white sheets and a pale headboard, a study desk with books and pens under the window, a tall dark-wood wardrobe, a glass sliding window beside the bed with a sheer white curtain, a round ceiling light",
+   "location_key": "yamna_room_morning",
+   "mood": "early morning, soft pale daylight through the sheer curtain, cool clean whites, a fragile calm",
+   "visual": "Yamna lying in the big bed under a white blanket pulled up to her chest, her white hijab snugly covering her hair and neck, long lilac sleeves, just opening her eyes, weary and confused, wincing slightly; Saahidha sitting on the edge of the bed bending over her with a forced gentle smile that hides her fear",
+   "camera": "medium close shot, slightly high angle, faces in the upper two-thirds, a calm dark uncluttered lower third (blanket in soft morning shadow)",
+   "image": "images/beat_010.png",
+   "reuse_of": null,
+   "transition_in": "black",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "room_day",
+   "shots": [
+    {
+     "id": "shot_027",
+     "startMs": 249266,
+     "endMs": 256806,
+     "narration_dhivehi": "އަޅުގަނޑުގެ ގައިގައި ހާދަހާ އެބަ ރިއްސައޭ!\" ސާހިދާ ދެފަހަރަކު ގޮވާލުމުން ދެލޯ ހުޅުވާލަމުން ޔަމްނާ ވަރުބަލިކަމާއެކު ބުނެލިއެވެ.",
+     "narration_english": "My body aches so much!\" When Saahidha called her twice, Yamna opened her eyes and said this wearily.",
+     "crop": "full",
+     "motion": "static drift",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_028",
+     "startMs": 256806,
+     "endMs": 264867,
+     "narration_dhivehi": "ސާހިދާއަށް ދޭނެ ޖަވާބެއް ނޭނގިފައި އިރުކޮޅަކު އިނދެވުނެވެ. \"ދަރިފުޅު މާ ގިނައިރު ކިޔަވަން އިނދެފައި ނިދީމާ ވީ ގޮތެއް ކަންނޭނގެ.\"",
+     "narration_english": "For a while Saahidha sat not knowing what to answer. \"Maybe it's because you sat up studying too long before you slept, dear.\"",
+     "crop": "tight",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      29.6,
+      0.0,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Yamna; reference image 2 is Saahidha), create a new scene: Cinematic semi-realistic digital illustration with a dark Maldivian horror-drama look, deep charcoal and smoky blue-grey shadows, cold misty moonlight and dim warm amber lamplight, drifting haze, high contrast with soft highlights, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, dark, uncluttered lower third (floor, sand, bedsheet edge, table top in soft shadow) for captions and a logo; a wealthy family's large modern house on a small Maldivian island with polished marble floors, white walls and dark wooden furniture, white sandy lanes, palms and a dark lagoon.\nScene: Yamna lying in the big bed under a white blanket pulled up to her chest, her white hijab snugly covering her hair and neck, long lilac sleeves, just opening her eyes, weary and confused, wincing slightly; Saahidha sitting on the edge of the bed bending over her with a forced gentle smile that hides her fear. Location: Yamna's spacious bedroom in the family's large modern island house: white walls, polished white marble floor, a big bed with white sheets and a pale headboard, a study desk with books and pens under the window, a tall dark-wood wardrobe, a glass sliding window beside the bed with a sheer white curtain, a round ceiling light. Camera: medium close shot, slightly high angle, faces in the upper two-thirds, a calm dark uncluttered lower third (blanket in soft morning shadow).\nCharacters: Yamna: a petite slim Maldivian girl of about 15 with warm brown skin, a soft round youthful face, large dark gentle eyes, thick dark eyebrows and a small nose; wears a loose long-sleeved ankle-length pale-lilac cotton dress and a plain white hijab wrapped snugly and fully covering her hair and neck. Saahidha: a Maldivian woman of about 40 with warm brown skin, a gentle oval face, dark expressive eyes, fine lines at the eyes and full lips; wears a loose long-sleeved ankle-length dark bottle-green dress with subtle embroidery at the cuffs and a beige hijab wrapped snugly and fully covering her hair and neck.\nMood/lighting: early morning, soft pale daylight through the sheer curtain, cool clean whites, a fragile calm.\nModest Maldivian clothing (every woman and girl in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck, arms always covered; men in shirts and long trousers or a sarong, never shirtless), culturally respectful, no blood, no wounds, no scratches, no injuries, no gore, no weapons, no knives, no ropes, no restraints, no violence, nobody hurting anyone, no monster faces, no religious symbols, no written verses, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.391,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 59.3,
+    "y_pct": 25.9,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_011",
+   "startMs": 264867,
+   "endMs": 290447,
+   "new_image_reason": "action change: alone, Saahidha quickly strips the ruined bedsheet",
+   "characters": [
+    "saahidha"
+   ],
+   "location": "Yamna's spacious bedroom in the family's large modern island house: white walls, polished white marble floor, a big bed with white sheets and a pale headboard, a study desk with books and pens under the window, a tall dark-wood wardrobe, a glass sliding window beside the bed with a sheer white curtain, a round ceiling light",
+   "location_key": "yamna_room_morning",
+   "mood": "early morning, soft pale daylight through the sheer curtain, cool clean whites, a fragile calm",
+   "visual": "Saahidha alone in the bright bedroom hurriedly pulling a badly crumpled, twisted white sheet off the bed, glancing nervously over her shoulder at the closed bathroom door; a folded fresh sheet waiting on the chair",
+   "camera": "medium shot, eye level, faces in the upper two-thirds, a calm dark uncluttered lower third (marble floor in soft light)",
+   "image": "images/beat_011.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": "other",
+   "safe_substitution": "the torn sheet is shown only as crumpled; no marks of the night on Yamna",
+   "ambience": "room_day",
+   "shots": [
+    {
+     "id": "shot_029",
+     "startMs": 264867,
+     "endMs": 274127,
+     "narration_dhivehi": "ރޭގައި ހިނގާދިޔަ ހާދިސާގެ އެއްވެސް ހަނދާނެއް ޔަމްނާގެ ހަނދާނުގައި ނެތްކަން އެނގުމުން އެކަމުގެ ބިރު އެ މައުސޫމު ދަރިފުޅުގެ ހިތަށް ވައްދަން ސާހިދާ",
+     "narration_english": "Realising Yamna had no memory at all of what had happened in the night, Saahidha did not want to put that fear into her innocent child's heart.",
+     "crop": "full",
+     "motion": "pan left",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_030",
+     "startMs": 274127,
+     "endMs": 282877,
+     "narration_dhivehi": "ބޭނުމެއް ނުވިއެވެ. ދަރިފުޅު ފާޚާނާއަށް ވަތް ވަގުތު ބަލާފައި އަވަސް އަވަހަށް އެނދުމަތީގައި އަޅާފައިއޮތް ބެޑްޝީޓް ވީދިފައި އޮތުމުން،",
+     "narration_english": "That was also why, the moment her daughter went into the bathroom, she quickly changed the torn bedsheet on the bed",
+     "crop": "tight",
+     "motion": "slow pull-out",
+     "sfx": [
+      {
+       "name": "door_close",
+       "atMs": 277207,
+       "gainDb": -22,
+       "word": "ވަތް"
+      },
+      {
+       "name": "cloth_rustle",
+       "atMs": 281027,
+       "gainDb": -20,
+       "word": "ބެޑްޝީޓް"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      12.2,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_031",
+     "startMs": 282877,
+     "endMs": 290447,
+     "narration_dhivehi": "ބަދަލުކޮށް ތަންމަތި ރަނގަޅުކޮށްލީވެސް އެހެންވެގެންނެވެ. \"މަންމާ، މިއަދު ސްކޫލްގައި ވަރަށް މުހިންމު ޓެސްޓެއް އެބައޮތް.",
+     "narration_english": "and tidied up the room. \"Mother, there's a very important test at school today.",
+     "crop": "full",
+     "motion": "pan right",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Saahidha), create a new scene: Cinematic semi-realistic digital illustration with a dark Maldivian horror-drama look, deep charcoal and smoky blue-grey shadows, cold misty moonlight and dim warm amber lamplight, drifting haze, high contrast with soft highlights, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, dark, uncluttered lower third (floor, sand, bedsheet edge, table top in soft shadow) for captions and a logo; a wealthy family's large modern house on a small Maldivian island with polished marble floors, white walls and dark wooden furniture, white sandy lanes, palms and a dark lagoon.\nScene: Saahidha alone in the bright bedroom hurriedly pulling a badly crumpled, twisted white sheet off the bed, glancing nervously over her shoulder at the closed bathroom door; a folded fresh sheet waiting on the chair. Location: Yamna's spacious bedroom in the family's large modern island house: white walls, polished white marble floor, a big bed with white sheets and a pale headboard, a study desk with books and pens under the window, a tall dark-wood wardrobe, a glass sliding window beside the bed with a sheer white curtain, a round ceiling light. Camera: medium shot, eye level, faces in the upper two-thirds, a calm dark uncluttered lower third (marble floor in soft light).\nCharacters: Saahidha: a Maldivian woman of about 40 with warm brown skin, a gentle oval face, dark expressive eyes, fine lines at the eyes and full lips; wears a loose long-sleeved ankle-length dark bottle-green dress with subtle embroidery at the cuffs and a beige hijab wrapped snugly and fully covering her hair and neck.\nMood/lighting: early morning, soft pale daylight through the sheer curtain, cool clean whites, a fragile calm.\nModest Maldivian clothing (every woman and girl in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck, arms always covered; men in shirts and long trousers or a sarong, never shirtless), culturally respectful, no blood, no wounds, no scratches, no injuries, no gore, no weapons, no knives, no ropes, no restraints, no violence, nobody hurting anyone, no monster faces, no religious symbols, no written verses, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.274,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 41.9,
+    "y_pct": 17.7,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_012",
+   "startMs": 290447,
+   "endMs": 329668,
+   "new_image_reason": "location change: Yamna in school uniform asks for tea in the kitchen",
+   "characters": [
+    "yamna",
+    "saahidha"
+   ],
+   "location": "a large modern kitchen: carved dark-wood cabinets, a long countertop with a coffee machine and a blender, a big double-door steel fridge, a sink, red clay and steel bowls",
+   "location_key": "kitchen",
+   "mood": "morning, soft warm daylight through a window, steam from a cup of tea, homely but a little fragile",
+   "visual": "Yamna dressed for school, NOT in her lilac dress: a Maldivian school uniform: long-sleeved white tunic to the knees over long navy trousers, white hijab, school bag on her shoulder — a plain white long tunic and navy-blue trousers — smiling brightly but a little pale and tired, standing at the long countertop; Saahidha pouring tea into a cup for her, watching her daughter's face with quiet worry",
+   "camera": "medium shot, eye level, faces in the upper two-thirds, a calm dark uncluttered lower third (countertop in soft shadow)",
+   "image": "images/beat_012.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "home_day",
+   "shots": [
+    {
+     "id": "shot_032",
+     "startMs": 290447,
+     "endMs": 299808,
+     "narration_dhivehi": "ގައިގައި ރިއްސިޔަސް ދެން ނެތެއްނު ގޭގައި މަޑުކޮށްލެވޭކަށް ދޯ! އަވަހަށް ސައި ތައްޔާރުކޮށްދީ!\" ކޮޓަރިން ނިކުމެގެން އައި ޔަމްނާ ހިނިތުންވެލާފައި ބުންޏެވެ.",
+     "narration_english": "So even if my body aches, I can't stay at home, can I! Make me some tea, quick!\" Yamna said with a smile as she came out of her room.",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_033",
+     "startMs": 299808,
+     "endMs": 309178,
+     "narration_dhivehi": "އޭނާ ހުރީ ސްކޫލް ޔުނީފޯމް ލައިގެން، އޮމާން ކަޅު އިސްތަށިގަނޑު ރީތިކޮށް އައްސާލައިގެންނެވެ. \"މަންމާ ގައިގެ ތަންތަން އެބަހުރި ފިތްނަގާފައި ރަތްވެސް ވެފައި!",
+     "narration_english": "She was in her school uniform, her soft black hair neatly tied up. \"Mother, there are swollen red patches on my skin!",
+     "crop": "tight",
+     "motion": "pan up",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      34.1,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_034",
+     "startMs": 309178,
+     "endMs": 318348,
+     "narration_dhivehi": "ރޭގައި ބޭރުން ކެއިފަހުން އެލާޖިކް ވީ ކަންނޭނގެ ދޯ! އަޅުގަނޑު މިދަނީ ބޭސްގުޅައެއްވެސް ކާލައިގެން އިނގޭ!\" ހިނިތުންވެލަމުން ޔަމްނާ ބުނެލިއެވެ.",
+     "narration_english": "Maybe I got an allergy from eating out last night! I'll take a tablet too, okay!\" Yamna said with a smile.",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_035",
+     "startMs": 318348,
+     "endMs": 329668,
+     "narration_dhivehi": "ރޭގައި ފެނުނު ބިރުވެރި ސިފައިގެ އެއްވެސް އަސަރެއް މިއަދު އެ މައުސޫމު މޫނަކުން ނުފެނެއެވެ. އެހެންނަމަވެސް ކިތަންމެ ހިތްވަރު ކޮށްގެން އިންނަމަވެސް އެ މޫނުމަތިން ވަރުބަލިކަން ފެނެއެވެ.",
+     "narration_english": "Not a trace of the terrifying figure of the night could be seen on that innocent face today. Yet however brave she tried to be, the weariness showed on her face.",
+     "crop": "medium",
+     "motion": "pan down",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      28.0,
+      0.0,
+      71.5,
+      84.7
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Yamna; reference image 2 is Saahidha), create a new scene: Cinematic semi-realistic digital illustration with a dark Maldivian horror-drama look, deep charcoal and smoky blue-grey shadows, cold misty moonlight and dim warm amber lamplight, drifting haze, high contrast with soft highlights, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, dark, uncluttered lower third (floor, sand, bedsheet edge, table top in soft shadow) for captions and a logo; a wealthy family's large modern house on a small Maldivian island with polished marble floors, white walls and dark wooden furniture, white sandy lanes, palms and a dark lagoon.\nScene: Yamna dressed for school, NOT in her lilac dress: a Maldivian school uniform: long-sleeved white tunic to the knees over long navy trousers, white hijab, school bag on her shoulder — a plain white long tunic and navy-blue trousers — smiling brightly but a little pale and tired, standing at the long countertop; Saahidha pouring tea into a cup for her, watching her daughter's face with quiet worry. Location: a large modern kitchen: carved dark-wood cabinets, a long countertop with a coffee machine and a blender, a big double-door steel fridge, a sink, red clay and steel bowls. Camera: medium shot, eye level, faces in the upper two-thirds, a calm dark uncluttered lower third (countertop in soft shadow).\nCharacters: Yamna: a petite slim Maldivian girl of about 15 with warm brown skin, a soft round youthful face, large dark gentle eyes, thick dark eyebrows and a small nose; wears a loose long-sleeved ankle-length pale-lilac cotton dress and a plain white hijab wrapped snugly and fully covering her hair and neck. Saahidha: a Maldivian woman of about 40 with warm brown skin, a gentle oval face, dark expressive eyes, fine lines at the eyes and full lips; wears a loose long-sleeved ankle-length dark bottle-green dress with subtle embroidery at the cuffs and a beige hijab wrapped snugly and fully covering her hair and neck.\nMood/lighting: morning, soft warm daylight through a window, steam from a cup of tea, homely but a little fragile.\nModest Maldivian clothing (every woman and girl in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck, arms always covered; men in shirts and long trousers or a sarong, never shirtless), culturally respectful, no blood, no wounds, no scratches, no injuries, no gore, no weapons, no knives, no ropes, no restraints, no violence, nobody hurting anyone, no monster faces, no religious symbols, no written verses, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.203,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 63.8,
+    "y_pct": 26.8,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_013",
+   "startMs": 329668,
+   "endMs": 354539,
+   "new_image_reason": "location/action change: Yamna sets off to school laughing with friends, Saahidha watches",
+   "characters": [
+    "yamna",
+    "saahidha"
+   ],
+   "location": "the front veranda (fendaa) of the family's large house with a big wooden swing bench, potted plants, a sandy yard and flowering trees by the boundary wall, its open gate looking onto a white sandy island lane between coral-stone walls, palms and breadfruit trees",
+   "location_key": "veranda_lane",
+   "mood": "bright fresh morning sunshine, crisp shadows on white sand, gentle and relieved",
+   "visual": "in the bright sandy lane outside the gate Yamna in a Maldivian school uniform: long-sleeved white tunic to the knees over long navy trousers, white hijab, school bag on her shoulder walks away laughing with two school friends (girls in the same white uniform and white hijab), turning her head to smile; in the foreground Saahidha stands at the veranda gate watching them go, a hand on her heart, relieved",
+   "camera": "wide shot over Saahidha's shoulder, eye level, faces in the upper two-thirds, a calm dark uncluttered lower third (white sand of the yard)",
+   "image": "images/beat_013.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "island_day",
+   "shots": [
+    {
+     "id": "shot_036",
+     "startMs": 329668,
+     "endMs": 339499,
+     "narration_dhivehi": "ޔަމްނާ ހަމަޖެހިލައިގެން އިނދެ ސައިބޮއިގެން، ފޮތްދަބަސް ކޮނޑުގައި އަޅުވައިގެން ސްކޫލަށްދާން ނިކުތެވެ. މަގުމަތިން ބައްދަލުވި ރައްޓެހިންނާ ސަކަރާތްޖަހަމުން،",
+     "narration_english": "Yamna sat calmly, drank her tea, slung her school bag on her shoulder and set off for school. Joking with the friends she met on the road,",
+     "crop": "full",
+     "motion": "static drift",
+     "sfx": [
+      {
+       "name": "cup_clatter",
+       "atMs": 331628,
+       "gainDb": -20,
+       "word": "ސައިބޮއިގެން،"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_037",
+     "startMs": 339499,
+     "endMs": 347449,
+     "narration_dhivehi": "ހެމުން ހެމުން އޭނާ ސްކޫލަށް ދިޔަތަން، ސާހިދާ ބަލަން ހުއްޓެވެ. އާއިލާގެ އެންމެންގެ ހިތަށް ބޮޑު ހަމަޖެހުމެއް ލިބުނެވެ.",
+     "narration_english": "she went off to school laughing and laughing, while Saahidha stood watching. A great relief settled on the hearts of the whole family.",
+     "crop": "tight",
+     "motion": "slow push-in",
+     "sfx": [
+      {
+       "name": "footsteps_sand",
+       "atMs": 341309,
+       "gainDb": -24,
+       "word": "ދިޔަތަން،"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      20.3,
+      4.8,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_038",
+     "startMs": 347449,
+     "endMs": 354539,
+     "narration_dhivehi": "އެންމެންވެސް ހީކުރީ ރޭގެ ބިރުވެރިކަމަކީ ވަގުތީ ކަމެއް ކަމަށާއި، ޔަމްނާ މުޅިން ރަނގަޅުވީ ކަމަށެވެ. ނަމަވެސް،",
+     "narration_english": "Everyone believed the night's terror had been something passing, and that Yamna was completely well. However,",
+     "crop": "full",
+     "motion": "pan left",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Yamna; reference image 2 is Saahidha), create a new scene: Cinematic semi-realistic digital illustration with a dark Maldivian horror-drama look, deep charcoal and smoky blue-grey shadows, cold misty moonlight and dim warm amber lamplight, drifting haze, high contrast with soft highlights, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, dark, uncluttered lower third (floor, sand, bedsheet edge, table top in soft shadow) for captions and a logo; a wealthy family's large modern house on a small Maldivian island with polished marble floors, white walls and dark wooden furniture, white sandy lanes, palms and a dark lagoon.\nScene: in the bright sandy lane outside the gate Yamna in a Maldivian school uniform: long-sleeved white tunic to the knees over long navy trousers, white hijab, school bag on her shoulder walks away laughing with two school friends (girls in the same white uniform and white hijab), turning her head to smile; in the foreground Saahidha stands at the veranda gate watching them go, a hand on her heart, relieved. Location: the front veranda (fendaa) of the family's large house with a big wooden swing bench, potted plants, a sandy yard and flowering trees by the boundary wall, its open gate looking onto a white sandy island lane between coral-stone walls, palms and breadfruit trees. Camera: wide shot over Saahidha's shoulder, eye level, faces in the upper two-thirds, a calm dark uncluttered lower third (white sand of the yard).\nCharacters: Yamna: a petite slim Maldivian girl of about 15 with warm brown skin, a soft round youthful face, large dark gentle eyes, thick dark eyebrows and a small nose; wears a loose long-sleeved ankle-length pale-lilac cotton dress and a plain white hijab wrapped snugly and fully covering her hair and neck. Saahidha: a Maldivian woman of about 40 with warm brown skin, a gentle oval face, dark expressive eyes, fine lines at the eyes and full lips; wears a loose long-sleeved ankle-length dark bottle-green dress with subtle embroidery at the cuffs and a beige hijab wrapped snugly and fully covering her hair and neck.\nMood/lighting: bright fresh morning sunshine, crisp shadows on white sand, gentle and relieved.\nModest Maldivian clothing (every woman and girl in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck, arms always covered; men in shirts and long trousers or a sarong, never shirtless), culturally respectful, no blood, no wounds, no scratches, no injuries, no gore, no weapons, no knives, no ropes, no restraints, no violence, nobody hurting anyone, no monster faces, no religious symbols, no written verses, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.269,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 50.0,
+    "y_pct": 40.0,
+    "face_detected": false
+   }
+  },
+  {
+   "id": "beat_014",
+   "startMs": 354539,
+   "endMs": 372910,
+   "new_image_reason": "time change: sunset, the sky reddens and Yamna's smile vanishes",
+   "characters": [
+    "yamna"
+   ],
+   "location": "Yamna's spacious bedroom in the family's large modern island house: white walls, polished white marble floor, a big bed with white sheets and a pale headboard, a study desk with books and pens under the window, a tall dark-wood wardrobe, a glass sliding window beside the bed with a sheer white curtain, a round ceiling light",
+   "location_key": "yamna_room_sunset",
+   "mood": "sunset, a deep crimson and orange sky through the glass window fading into darkness, long shadows creeping across the white walls, ominous",
+   "visual": "Yamna in her pale-lilac long dress and white hijab standing at the glass window of her bedroom, a deep crimson sunset sky behind the palms outside; her face, half lit by the dying light and half in shadow, slowly losing its smile, turning blank and still, her eyes wide and empty",
+   "camera": "medium close shot, eye level, faces in the upper two-thirds, a calm dark uncluttered lower third (dark windowsill and floor)",
+   "image": "images/beat_014.png",
+   "reuse_of": null,
+   "transition_in": "black",
+   "sensitive": "other",
+   "safe_substitution": "calm blank face only, no marks",
+   "ambience": "haunted_room",
+   "shots": [
+    {
+     "id": "shot_039",
+     "startMs": 354539,
+     "endMs": 363649,
+     "narration_dhivehi": "އެއީ ކޮޅިގަނޑެއްގެ ކުރިން އަންނަ ކަހަލަ ވަގުތީ ހިމޭންކަމެކެވެ. ދުވާލުގެ ވަގުތު ހަލުވިކަމާއެކު ފާއިތުވެ، ހަވީރު އިރުއޮއްސެން ކައިރިވީ ވަގުތެވެ.",
+     "narration_english": "it was the kind of brief silence that comes before a storm. The daytime slipped by quickly, and soon it was close to sunset.",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": true,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_040",
+     "startMs": 363649,
+     "endMs": 372910,
+     "narration_dhivehi": "އުޑުމަތި ރަތްވެ، ކަނު އަނދިރިކަން ދުނިޔެއަށް ވެރިވާން ފެށުމާއެކު، ޔަމްނާގެ މޫނުމަތިން ދެންމެ ހުރި އުޖާލާކަމާއި ހިނިތުންވުން ކުއްލިއަކަށް ގެއްލެން ފެށިއެވެ.",
+     "narration_english": "As the sky turned red and darkness began to take over the world, the brightness and the smile on Yamna's face suddenly began to fade.",
+     "crop": "tight",
+     "motion": "pan right",
+     "sfx": [],
+     "hum": true,
+     "crop_rect_pct": [
+      20.3,
+      4.8,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Yamna), create a new scene: Cinematic semi-realistic digital illustration with a dark Maldivian horror-drama look, deep charcoal and smoky blue-grey shadows, cold misty moonlight and dim warm amber lamplight, drifting haze, high contrast with soft highlights, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, dark, uncluttered lower third (floor, sand, bedsheet edge, table top in soft shadow) for captions and a logo; a wealthy family's large modern house on a small Maldivian island with polished marble floors, white walls and dark wooden furniture, white sandy lanes, palms and a dark lagoon.\nScene: Yamna in her pale-lilac long dress and white hijab standing at the glass window of her bedroom, a deep crimson sunset sky behind the palms outside; her face, half lit by the dying light and half in shadow, slowly losing its smile, turning blank and still, her eyes wide and empty. Location: Yamna's spacious bedroom in the family's large modern island house: white walls, polished white marble floor, a big bed with white sheets and a pale headboard, a study desk with books and pens under the window, a tall dark-wood wardrobe, a glass sliding window beside the bed with a sheer white curtain, a round ceiling light. Camera: medium close shot, eye level, faces in the upper two-thirds, a calm dark uncluttered lower third (dark windowsill and floor).\nCharacters: Yamna: a petite slim Maldivian girl of about 15 with warm brown skin, a soft round youthful face, large dark gentle eyes, thick dark eyebrows and a small nose; wears a loose long-sleeved ankle-length pale-lilac cotton dress and a plain white hijab wrapped snugly and fully covering her hair and neck.\nMood/lighting: sunset, a deep crimson and orange sky through the glass window fading into darkness, long shadows creeping across the white walls, ominous.\nModest Maldivian clothing (every woman and girl in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck, arms always covered; men in shirts and long trousers or a sarong, never shirtless), culturally respectful, no blood, no wounds, no scratches, no injuries, no gore, no weapons, no knives, no ropes, no restraints, no violence, nobody hurting anyone, no monster faces, no religious symbols, no written verses, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.111,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 50.0,
+    "y_pct": 40.0,
+    "face_detected": false
+   }
+  },
+  {
+   "id": "beat_015",
+   "startMs": 372910,
+   "endMs": 402870,
+   "new_image_reason": "action change: the attack returns worse than before, a heavy male voice screams",
+   "characters": [
+    "saahidha",
+    "khalid",
+    "yamna"
+   ],
+   "location": "Yamna's spacious bedroom in the family's large modern island house: white walls, polished white marble floor, a big bed with white sheets and a pale headboard, a study desk with books and pens under the window, a tall dark-wood wardrobe, a glass sliding window beside the bed with a sheer white curtain, a round ceiling light",
+   "location_key": "yamna_room",
+   "mood": "late night, the round ceiling light dark or flickering, an icy cold blue haze filling the room, a single weak warm lamp in a corner, deep charcoal shadows, dread and horror",
+   "visual": "night, the ceiling light stuttering; Yamna lying in the big bed under a white blanket pulled up to her chest, her white hijab snugly covering her hair and neck, long lilac sleeves, shown only as a dark still shape with her face hidden in shadow, the sheet crumpled in ridges around her; Saahidha and Khalid standing a little apart side by side, backed against the white wall, not touching each other, each frozen alone in terror, their faces lit by the flickering light",
+   "camera": "wide shot, eye level, faces in the upper two-thirds, a calm dark uncluttered lower third (marble floor in shadow)",
+   "image": "images/beat_015.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": "violence",
+   "safe_substitution": "the convulsions are shown through the flickering light and the parents' terror; possession is never shown on her body: no marks, no contortion, she is fully covered and still; the horror is carried by the room, the light and the parents' faces",
+   "ambience": "haunted_room",
+   "shots": [
+    {
+     "id": "shot_041",
+     "startMs": 372910,
+     "endMs": 380930,
+     "narration_dhivehi": "އޭނާގެ ދެލޯ ބޮޑުވެ، ހަށިގަނޑު އަނެއްކާވެސް ތުރުތުރު އަޅައި، އޭނާގެ ހަށިގަނޑަށް ވާންފެށީ ރެއަށްވުރެ މާ ބިރުވެރި، ގޮތްތަކެކެވެ.",
+     "narration_english": "Her eyes widened, her body began to tremble again, and her body began to behave in ways far more frightening than the night before.",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [
+      {
+       "name": "heartbeat",
+       "atMs": 375810,
+       "gainDb": -20,
+       "word": "ތުރުތުރު"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_042",
+     "startMs": 380930,
+     "endMs": 390840,
+     "narration_dhivehi": "އޭނާގެ ހަށިގަނޑަށް އަނެއްކާވެސް އެ ބިރުވެރި ލޮޅުން އަރަން ފެށިއެވެ. އެނދުމަތީގައި، ކުރީރެއަށްވުރެ މާ ބިރުވެރި ގޮތަކަށް ޔަމްނާގެ ބުރަކަށި އިދިފުށަށް ލެނބި،",
+     "narration_english": "Those terrifying convulsions seized her body once more. On the bed, even more frighteningly than the night before, Yamna's spine bent backwards,",
+     "crop": "tight",
+     "motion": "pan up",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      40.6,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_043",
+     "startMs": 390840,
+     "endMs": 402870,
+     "narration_dhivehi": "ބަނޑު މައްޗަށް ހިއްލެމުންދިޔައެވެ. ބުޅިވެފައިވާ އިނގިލިތަކުން ބެޑްޝީޓް ވީދަމުން، އަރުތެރެއިން ނިކުންނަމުންދިޔަ ބަރު ފިރިހެން އަޑުގެ ހަޅޭކުން މުޅި ގޭގެ ފާރުތައް ވެސް ރޫރޫއަޅާ ކަހަލައެވެ.",
+     "narration_english": "her belly rising up. Clawing at the bedsheet with curled fingers, a heavy male voice screamed from her throat, so loud it seemed to make the very walls of the house shake.",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [
+      {
+       "name": "low_growl",
+       "atMs": 398450,
+       "gainDb": -20,
+       "word": "ފިރިހެން"
+      }
+     ],
+     "hum": true,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Saahidha; reference image 2 is Khalid; reference image 3 is Yamna), create a new scene: Cinematic semi-realistic digital illustration with a dark Maldivian horror-drama look, deep charcoal and smoky blue-grey shadows, cold misty moonlight and dim warm amber lamplight, drifting haze, high contrast with soft highlights, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, dark, uncluttered lower third (floor, sand, bedsheet edge, table top in soft shadow) for captions and a logo; a wealthy family's large modern house on a small Maldivian island with polished marble floors, white walls and dark wooden furniture, white sandy lanes, palms and a dark lagoon.\nScene: night, the ceiling light stuttering; Yamna lying in the big bed under a white blanket pulled up to her chest, her white hijab snugly covering her hair and neck, long lilac sleeves, shown only as a dark still shape with her face hidden in shadow, the sheet crumpled in ridges around her; Saahidha and Khalid standing a little apart side by side, backed against the white wall, not touching each other, each frozen alone in terror, their faces lit by the flickering light. Location: Yamna's spacious bedroom in the family's large modern island house: white walls, polished white marble floor, a big bed with white sheets and a pale headboard, a study desk with books and pens under the window, a tall dark-wood wardrobe, a glass sliding window beside the bed with a sheer white curtain, a round ceiling light. Camera: wide shot, eye level, faces in the upper two-thirds, a calm dark uncluttered lower third (marble floor in shadow).\nCharacters: Saahidha: a Maldivian woman of about 40 with warm brown skin, a gentle oval face, dark expressive eyes, fine lines at the eyes and full lips; wears a loose long-sleeved ankle-length dark bottle-green dress with subtle embroidery at the cuffs and a beige hijab wrapped snugly and fully covering her hair and neck. Khalid: a solid broad-shouldered Maldivian man of about 48 with warm brown skin, a broad dignified face, tired dark eyes, short black hair greying at the temples and a neatly trimmed short black beard with grey streaks; wears a long-sleeved cream button-up shirt, dark-brown trousers and a silver wristwatch. Yamna: a petite slim Maldivian girl of about 15 with warm brown skin, a soft round youthful face, large dark gentle eyes, thick dark eyebrows and a small nose; wears a loose long-sleeved ankle-length pale-lilac cotton dress and a plain white hijab wrapped snugly and fully covering her hair and neck.\nMood/lighting: late night, the round ceiling light dark or flickering, an icy cold blue haze filling the room, a single weak warm lamp in a corner, deep charcoal shadows, dread and horror.\nModest Maldivian clothing (every woman and girl in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck, arms always covered; men in shirts and long trousers or a sarong, never shirtless), culturally respectful, no blood, no wounds, no scratches, no injuries, no gore, no weapons, no knives, no ropes, no restraints, no violence, nobody hurting anyone, no monster faces, no religious symbols, no written verses, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.06,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 73.1,
+    "y_pct": 21.7,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_016",
+   "startMs": 402870,
+   "endMs": 427811,
+   "new_image_reason": "focus change: Khalid, sweating, realises Saeed was right; Saahidha weeps",
+   "characters": [
+    "khalid",
+    "saahidha"
+   ],
+   "location": "Yamna's spacious bedroom in the family's large modern island house: white walls, polished white marble floor, a big bed with white sheets and a pale headboard, a study desk with books and pens under the window, a tall dark-wood wardrobe, a glass sliding window beside the bed with a sheer white curtain, a round ceiling light",
+   "location_key": "yamna_room",
+   "mood": "late night, the round ceiling light dark or flickering, an icy cold blue haze filling the room, a single weak warm lamp in a corner, deep charcoal shadows, dread and horror",
+   "visual": "close on Khalid's face in the flickering dark, beads of sweat on his forehead, jaw set with sudden resolve, looking to the side; behind him, out of focus, Saahidha sits crumpled on a chair crying into her hands",
+   "camera": "close-up, eye level, faces in the upper two-thirds, a calm dark uncluttered lower third (dark shirt and shadow)",
+   "image": "images/beat_016.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "haunted_room",
+   "shots": [
+    {
+     "id": "shot_044",
+     "startMs": 402870,
+     "endMs": 409880,
+     "narration_dhivehi": "\"ސައީދު ބުނީ ތެދެއް! މިއީކީ އާދައިގެ ކަމެއް ނޫން.\" ޚާލިދުގެ ނިތްކުރިމަތިން އޮށްދާހިއްލަމުން ދިޔައިރު،",
+     "narration_english": "\"Saeed was right! This is no ordinary thing.\" As beads of sweat broke out on Khalid's forehead,",
+     "crop": "full",
+     "motion": "pan down",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_045",
+     "startMs": 409880,
+     "endMs": 417421,
+     "narration_dhivehi": "ހާސްކަމާއެކު އޭނާގެ އަންހެނުން ސާހިދާއަށް ބަލައިލިއެވެ. ސާހިދާ އިނީ ބިރުން ގޮސް ހަދާނެގޮތް ހުސްވެ، ރޮވިފައެވެ.",
+     "narration_english": "he anxiously looked at his wife, Saahidha. Saahidha sat there in tears, so frightened she had no idea what to do.",
+     "crop": "tight",
+     "motion": "static drift",
+     "sfx": [
+      {
+       "name": "sob_breath",
+       "atMs": 416351,
+       "gainDb": -24,
+       "word": "ރޮވިފައެވެ."
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      1.2,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_046",
+     "startMs": 417421,
+     "endMs": 427811,
+     "narration_dhivehi": "ޚާލިދަކީ ރަށުގެ ނުފޫޒުގަދަ ވިޔަފާރިވެރިއަކަށް ވުމުން، އޭނާގެ ހުރި ހަމައެކަނި އަންހެން ދަރިފުޅު މިފަދަ ވޭނެއްގައި އުޅޭތަން ބަލާކަށް އޭނާއަކަށް ކެތެއް ނުކުރެވުނެވެ.",
+     "narration_english": "Khalid was an influential businessman of the island, and he could not bear to watch his only daughter suffer such pain.",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Khalid; reference image 2 is Saahidha), create a new scene: Cinematic semi-realistic digital illustration with a dark Maldivian horror-drama look, deep charcoal and smoky blue-grey shadows, cold misty moonlight and dim warm amber lamplight, drifting haze, high contrast with soft highlights, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, dark, uncluttered lower third (floor, sand, bedsheet edge, table top in soft shadow) for captions and a logo; a wealthy family's large modern house on a small Maldivian island with polished marble floors, white walls and dark wooden furniture, white sandy lanes, palms and a dark lagoon.\nScene: close on Khalid's face in the flickering dark, beads of sweat on his forehead, jaw set with sudden resolve, looking to the side; behind him, out of focus, Saahidha sits crumpled on a chair crying into her hands. Location: Yamna's spacious bedroom in the family's large modern island house: white walls, polished white marble floor, a big bed with white sheets and a pale headboard, a study desk with books and pens under the window, a tall dark-wood wardrobe, a glass sliding window beside the bed with a sheer white curtain, a round ceiling light. Camera: close-up, eye level, faces in the upper two-thirds, a calm dark uncluttered lower third (dark shirt and shadow).\nCharacters: Khalid: a solid broad-shouldered Maldivian man of about 48 with warm brown skin, a broad dignified face, tired dark eyes, short black hair greying at the temples and a neatly trimmed short black beard with grey streaks; wears a long-sleeved cream button-up shirt, dark-brown trousers and a silver wristwatch. Saahidha: a Maldivian woman of about 40 with warm brown skin, a gentle oval face, dark expressive eyes, fine lines at the eyes and full lips; wears a loose long-sleeved ankle-length dark bottle-green dress with subtle embroidery at the cuffs and a beige hijab wrapped snugly and fully covering her hair and neck.\nMood/lighting: late night, the round ceiling light dark or flickering, an icy cold blue haze filling the room, a single weak warm lamp in a corner, deep charcoal shadows, dread and horror.\nModest Maldivian clothing (every woman and girl in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck, arms always covered; men in shirts and long trousers or a sarong, never shirtless), culturally respectful, no blood, no wounds, no scratches, no injuries, no gore, no weapons, no knives, no ropes, no restraints, no violence, nobody hurting anyone, no monster faces, no religious symbols, no written verses, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.108,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 31.0,
+    "y_pct": 31.1,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_017",
+   "startMs": 427811,
+   "endMs": 436481,
+   "new_image_reason": "location change: a launch is sent across the night sea for the raqi",
+   "characters": [],
+   "location": "the dark lagoon and open sea off a small Maldivian island at night, the island's palms a black line on the horizon",
+   "location_key": "lagoon",
+   "mood": "night, faint silver moonlight on black water, mist on the sea, one small white light on the boat, urgent and lonely",
+   "visual": "a small white speed launch cutting across the black lagoon at night, its single light reflected on the water, a white wake behind it, mist on the sea, the island a dark line of palms",
+   "camera": "wide shot, slightly high angle, the boat in the upper half, the dark water as the calm lower third",
+   "image": "images/beat_017.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "sea_boat",
+   "shots": [
+    {
+     "id": "shot_047",
+     "startMs": 427811,
+     "endMs": 436481,
+     "narration_dhivehi": "އޭނާ ވަގުތުން ފޯނު ނަގައި، ރަށުން ބޭރުން ނުހަނު މަޝްހޫރު، މޮޅު ރުޤްޔާ ކުރާ މީހަކަށް ގުޅައި، ހަމަ އެރޭ ރަށަށް އައުމަށް ލޯންޗެއް ފޮނުވިއެވެ.",
+     "narration_english": "He immediately picked up the phone, called a very famous and skilled raqi from outside the island, and sent a launch so that he would come to the island that same night.",
+     "crop": "full",
+     "motion": "pan left",
+     "sfx": [
+      {
+       "name": "phone_buzz",
+       "atMs": 428571,
+       "gainDb": -22,
+       "word": "ފޯނު"
+      },
+      {
+       "name": "boat_engine",
+       "atMs": 435251,
+       "gainDb": -20,
+       "word": "ލޯންޗެއް"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Cinematic semi-realistic digital illustration with a dark Maldivian horror-drama look, deep charcoal and smoky blue-grey shadows, cold misty moonlight and dim warm amber lamplight, drifting haze, high contrast with soft highlights, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, dark, uncluttered lower third (floor, sand, bedsheet edge, table top in soft shadow) for captions and a logo; a wealthy family's large modern house on a small Maldivian island with polished marble floors, white walls and dark wooden furniture, white sandy lanes, palms and a dark lagoon.\nScene: a small white speed launch cutting across the black lagoon at night, its single light reflected on the water, a white wake behind it, mist on the sea, the island a dark line of palms. Location: the dark lagoon and open sea off a small Maldivian island at night, the island's palms a black line on the horizon. Camera: wide shot, slightly high angle, the boat in the upper half, the dark water as the calm lower third.\nMood/lighting: night, faint silver moonlight on black water, mist on the sea, one small white light on the boat, urgent and lonely.\nModest Maldivian clothing (every woman and girl in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck, arms always covered; men in shirts and long trousers or a sarong, never shirtless), culturally respectful, no blood, no wounds, no scratches, no injuries, no gore, no weapons, no knives, no ropes, no restraints, no violence, nobody hurting anyone, no monster faces, no religious symbols, no written verses, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.026,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 50.0,
+    "y_pct": 40.0,
+    "face_detected": false
+   }
+  },
+  {
+   "id": "beat_018",
+   "startMs": 436481,
+   "endMs": 460362,
+   "new_image_reason": "character enters: near midnight the raqi Ghassan arrives with his black bag",
+   "characters": [
+    "ghassan",
+    "yamna"
+   ],
+   "location": "Yamna's spacious bedroom in the family's large modern island house: white walls, polished white marble floor, a big bed with white sheets and a pale headboard, a study desk with books and pens under the window, a tall dark-wood wardrobe, a glass sliding window beside the bed with a sheer white curtain, a round ceiling light",
+   "location_key": "yamna_room",
+   "mood": "late night, the round ceiling light dark or flickering, an icy cold blue haze filling the room, a single weak warm lamp in a corner, deep charcoal shadows, dread and horror",
+   "visual": "Ghassan in a white shirt buttoned to the collar and black trousers, a big black leather bag on his shoulder, standing in the bedroom doorway, frowning with unease; in the foreground Yamna lying in the big bed under a white blanket pulled up to her chest, her white hijab snugly covering her hair and neck, long lilac sleeves, lying very still, staring at him with wide cold unblinking eyes, her face pale and unmarked; icy blue haze",
+   "camera": "medium shot from beside the bed towards the door, faces in the upper two-thirds, a calm dark uncluttered lower third (blanket edge in shadow)",
+   "image": "images/beat_018.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": "other",
+   "safe_substitution": "cold stare only, no marks",
+   "ambience": "haunted_room",
+   "shots": [
+    {
+     "id": "shot_048",
+     "startMs": 436481,
+     "endMs": 445871,
+     "narration_dhivehi": "ދަންވަރު ބާރަޖަހަން ކައިރިވެފައި ވަނިކޮށް، ކަޅު ފަޓުލޫނަކާއި ހުދު ގަމީހެއްލައިގެން ހުރި، ރުޤްޔާ ކުރާ ޣައްސާން، އައިސް ކޮޓަރިއަށް ވަނެވެ.",
+     "narration_english": "When it was close to midnight, the raqi Ghassan, dressed in black trousers and a white shirt, arrived and entered the room.",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [
+      {
+       "name": "door_open",
+       "atMs": 445031,
+       "gainDb": -20,
+       "word": "ވަނެވެ."
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_049",
+     "startMs": 445871,
+     "endMs": 460362,
+     "narration_dhivehi": "އޭނާގެ ކޮނޑުގައި ކަޅު ބޮޑު ދަބަހެއް އޮތެވެ. ކޮޓަރިއަށް ވެރިވެފައިވާ އާދަޔާޚިލާފު ފިނިކަމާއި، ޔަމްނާ އިދިފުށަށް އޮވެގެން ބޮޑުވެފައިވާ ދެލޮލުން ބަލަމުންދިޔަ ބިރުވެރި ބެލުމުން ޣައްސާންގެ މޫނުމަތިންވެސް ނުތަނަވަސްކަން ފެނިގެންދިޔައެވެ.",
+     "narration_english": "On his shoulder hung a big black bag. At the unnatural cold ruling the room, and at the terrifying gaze of Yamna, lying back with eyes wide open, unease showed even on Ghassan's face.",
+     "crop": "tight",
+     "motion": "pan right",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      40.6,
+      0.0,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Ghassan; reference image 2 is Yamna), create a new scene: Cinematic semi-realistic digital illustration with a dark Maldivian horror-drama look, deep charcoal and smoky blue-grey shadows, cold misty moonlight and dim warm amber lamplight, drifting haze, high contrast with soft highlights, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, dark, uncluttered lower third (floor, sand, bedsheet edge, table top in soft shadow) for captions and a logo; a wealthy family's large modern house on a small Maldivian island with polished marble floors, white walls and dark wooden furniture, white sandy lanes, palms and a dark lagoon.\nScene: Ghassan in a white shirt buttoned to the collar and black trousers, a big black leather bag on his shoulder, standing in the bedroom doorway, frowning with unease; in the foreground Yamna lying in the big bed under a white blanket pulled up to her chest, her white hijab snugly covering her hair and neck, long lilac sleeves, lying very still, staring at him with wide cold unblinking eyes, her face pale and unmarked; icy blue haze. Location: Yamna's spacious bedroom in the family's large modern island house: white walls, polished white marble floor, a big bed with white sheets and a pale headboard, a study desk with books and pens under the window, a tall dark-wood wardrobe, a glass sliding window beside the bed with a sheer white curtain, a round ceiling light. Camera: medium shot from beside the bed towards the door, faces in the upper two-thirds, a calm dark uncluttered lower third (blanket edge in shadow).\nCharacters: Ghassan: a lean tall Maldivian man of about 45 with warm brown skin, a lean angular face, deep-set narrow dark eyes, thin lips with a faint sly smile, short black hair combed flat and a close-cropped black beard; wears a crisp long-sleeved white shirt buttoned to the collar, black trousers and carries a large black leather shoulder bag. Yamna: a petite slim Maldivian girl of about 15 with warm brown skin, a soft round youthful face, large dark gentle eyes, thick dark eyebrows and a small nose; wears a loose long-sleeved ankle-length pale-lilac cotton dress and a plain white hijab wrapped snugly and fully covering her hair and neck.\nMood/lighting: late night, the round ceiling light dark or flickering, an icy cold blue haze filling the room, a single weak warm lamp in a corner, deep charcoal shadows, dread and horror.\nModest Maldivian clothing (every woman and girl in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck, arms always covered; men in shirts and long trousers or a sarong, never shirtless), culturally respectful, no blood, no wounds, no scratches, no injuries, no gore, no weapons, no knives, no ropes, no restraints, no violence, nobody hurting anyone, no monster faces, no religious symbols, no written verses, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.178,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 73.1,
+    "y_pct": 18.3,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_019",
+   "startMs": 460362,
+   "endMs": 479772,
+   "new_image_reason": "location/action change: Ghassan takes Khalid aside and whispers in secret",
+   "characters": [
+    "ghassan",
+    "khalid"
+   ],
+   "location": "the dim marble-floored corridor outside Yamna's bedroom in the family's large modern island house, white walls, the half-open dark-wood bedroom door with faint light spilling out",
+   "location_key": "corridor",
+   "mood": "near midnight, dim cold blue corridor light, a sliver of warm light from the bedroom door, secretive and tense",
+   "visual": "Ghassan leaning close to Khalid in the dim corridor outside the bedroom, one hand on Khalid's shoulder, speaking low and secretively; Khalid listening anxiously; the black bag hanging at Ghassan's side",
+   "camera": "medium two-shot, eye level, faces in the upper two-thirds, a calm dark uncluttered lower third (marble corridor floor in shadow)",
+   "image": "images/beat_019.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "living_night",
+   "shots": [
+    {
+     "id": "shot_050",
+     "startMs": 460362,
+     "endMs": 470252,
+     "narration_dhivehi": "ޣައްސާން، ޚާލިދުގެ ކޮނޑުގައި މަޑުމަޑުން ކޮއްޓާލުމަށްފަހު، އެކަނި ވަކިން ވާހަކަދައްކާލުމަށް އެއްފަރާތަށް ޖެހިލުމަށް އިޝާރާތްކުރިއެވެ. އެއަށްފަހު،",
+     "narration_english": "Ghassan tapped Khalid gently on the shoulder and signalled him to step aside to talk alone. After that,",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_051",
+     "startMs": 470252,
+     "endMs": 479772,
+     "narration_dhivehi": "ސިއްރުސިއްރުން ޚާލިދާއި ކޮންމެވެސް މުހިންމު ވާހަކަތަކެއް ދެއްކުމަށްފަހު، އޭނާ ފިޔަވަޅުތައް އަޅަމުން ގޮސް ޔަމްނާއާއި ދާދި ގާތަށް ހުއްޓުނެވެ.",
+     "narration_english": "after secretly discussing some important matters with Khalid, he stepped forward and stopped right beside Yamna.",
+     "crop": "tight",
+     "motion": "pan up",
+     "sfx": [
+      {
+       "name": "footsteps_pavement",
+       "atMs": 475832,
+       "gainDb": -24,
+       "word": "ފިޔަވަޅުތައް"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      27.9,
+      0.0,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Ghassan; reference image 2 is Khalid), create a new scene: Cinematic semi-realistic digital illustration with a dark Maldivian horror-drama look, deep charcoal and smoky blue-grey shadows, cold misty moonlight and dim warm amber lamplight, drifting haze, high contrast with soft highlights, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, dark, uncluttered lower third (floor, sand, bedsheet edge, table top in soft shadow) for captions and a logo; a wealthy family's large modern house on a small Maldivian island with polished marble floors, white walls and dark wooden furniture, white sandy lanes, palms and a dark lagoon.\nScene: Ghassan leaning close to Khalid in the dim corridor outside the bedroom, one hand on Khalid's shoulder, speaking low and secretively; Khalid listening anxiously; the black bag hanging at Ghassan's side. Location: the dim marble-floored corridor outside Yamna's bedroom in the family's large modern island house, white walls, the half-open dark-wood bedroom door with faint light spilling out. Camera: medium two-shot, eye level, faces in the upper two-thirds, a calm dark uncluttered lower third (marble corridor floor in shadow).\nCharacters: Ghassan: a lean tall Maldivian man of about 45 with warm brown skin, a lean angular face, deep-set narrow dark eyes, thin lips with a faint sly smile, short black hair combed flat and a close-cropped black beard; wears a crisp long-sleeved white shirt buttoned to the collar, black trousers and carries a large black leather shoulder bag. Khalid: a solid broad-shouldered Maldivian man of about 48 with warm brown skin, a broad dignified face, tired dark eyes, short black hair greying at the temples and a neatly trimmed short black beard with grey streaks; wears a long-sleeved cream button-up shirt, dark-brown trousers and a silver wristwatch.\nMood/lighting: near midnight, dim cold blue corridor light, a sliver of warm light from the bedroom door, secretive and tense.\nModest Maldivian clothing (every woman and girl in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck, arms always covered; men in shirts and long trousers or a sarong, never shirtless), culturally respectful, no blood, no wounds, no scratches, no injuries, no gore, no weapons, no knives, no ropes, no restraints, no violence, nobody hurting anyone, no monster faces, no religious symbols, no written verses, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.092,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 57.6,
+    "y_pct": 23.7,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_020",
+   "startMs": 479772,
+   "endMs": 505593,
+   "new_image_reason": "action change: Ghassan holds his palm over her forehead and recites; the attack erupts",
+   "characters": [
+    "ghassan",
+    "yamna",
+    "khalid",
+    "saahidha"
+   ],
+   "location": "Yamna's spacious bedroom in the family's large modern island house: white walls, polished white marble floor, a big bed with white sheets and a pale headboard, a study desk with books and pens under the window, a tall dark-wood wardrobe, a glass sliding window beside the bed with a sheer white curtain, a round ceiling light",
+   "location_key": "yamna_room",
+   "mood": "late night, the round ceiling light dark or flickering, an icy cold blue haze filling the room, a single weak warm lamp in a corner, deep charcoal shadows, dread and horror",
+   "visual": "Ghassan standing over the bed, his right palm hovering just above Yamna's forehead without touching, lips moving in a low powerful recitation; Yamna lying in the big bed under a white blanket pulled up to her chest, her white hijab snugly covering her hair and neck, long lilac sleeves, her face in shadow; Khalid and Saahidha on the other side of the bed, leaning in with outstretched hands but afraid to touch, strained and frightened; the ceiling light flickering",
+   "camera": "medium wide, eye level, faces in the upper two-thirds, a calm dark uncluttered lower third (dark sheet and floor)",
+   "image": "images/beat_020.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": "violence",
+   "safe_substitution": "palm hovers, never touches; the thrashing is shown through the strained parents; possession is never shown on her body: no marks, no contortion, she is fully covered and still; the horror is carried by the room, the light and the parents' faces",
+   "ambience": "haunted_room",
+   "shots": [
+    {
+     "id": "shot_052",
+     "startMs": 479772,
+     "endMs": 489893,
+     "narration_dhivehi": "ޖެހިލުމެއް ނެތި ޣައްސާން އޭނާގެ އަތްތިލަ ޔަމްނާގެ ނިތްކުރިމަތީގައި ބާއްވާލިއެވެ. އަދި ތުންތަޅުވަމުން، މަޑުމައިތިރި ނަމަވެސް ބާރުގަދަ ރާގަކަށް ކިޔަވަން ފެށިއެވެ.",
+     "narration_english": "Without hesitation Ghassan placed his palm over Yamna's forehead. Moving his lips, he began to recite in a soft yet powerful tone.",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [
+      {
+       "name": "whisper_recite",
+       "atMs": 488753,
+       "gainDb": -22,
+       "word": "ކިޔަވަން"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_053",
+     "startMs": 489893,
+     "endMs": 498793,
+     "narration_dhivehi": "ހަމައެއާއެކު ޔަމްނާގެ މުޅި ހަށިގަނޑަށް ބާރުގަދަ ލޮޅުމެއް އަރައި، ކުރިއަށްވުރެ މާ ބޮޑަށް ތެޅިގަތެވެ. އެއީ އާދައިގެ އިންސާނީ ބާރެއް ނޫނެވެ.",
+     "narration_english": "At once a violent convulsion seized Yamna's whole body, and she thrashed harder than before. It was no ordinary human strength.",
+     "crop": "tight",
+     "motion": "pan down",
+     "sfx": [
+      {
+       "name": "cloth_rustle",
+       "atMs": 495633,
+       "gainDb": -18,
+       "word": "ތެޅިގަތެވެ."
+      }
+     ],
+     "hum": true,
+     "crop_rect_pct": [
+      2.8,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_054",
+     "startMs": 498793,
+     "endMs": 505593,
+     "narration_dhivehi": "ކައިރީގައި ތިބި ޚާލިދާއި ސާހިދާއަށް މުޅި ހިތްވަރުލައިގެންވެސް އޭނާ މައިތިރިކޮށް، ހިފަހައްޓައެއް ނުލެވުނެވެ.",
+     "narration_english": "Khalid and Saahidha, right beside her, could not calm her or hold her down even with all their courage.",
+     "crop": "full",
+     "motion": "static drift",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Ghassan; reference image 2 is Yamna; reference image 3 is Khalid; reference image 4 is Saahidha), create a new scene: Cinematic semi-realistic digital illustration with a dark Maldivian horror-drama look, deep charcoal and smoky blue-grey shadows, cold misty moonlight and dim warm amber lamplight, drifting haze, high contrast with soft highlights, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, dark, uncluttered lower third (floor, sand, bedsheet edge, table top in soft shadow) for captions and a logo; a wealthy family's large modern house on a small Maldivian island with polished marble floors, white walls and dark wooden furniture, white sandy lanes, palms and a dark lagoon.\nScene: Ghassan standing over the bed, his right palm hovering just above Yamna's forehead without touching, lips moving in a low powerful recitation; Yamna lying in the big bed under a white blanket pulled up to her chest, her white hijab snugly covering her hair and neck, long lilac sleeves, her face in shadow; Khalid and Saahidha on the other side of the bed, leaning in with outstretched hands but afraid to touch, strained and frightened; the ceiling light flickering. Location: Yamna's spacious bedroom in the family's large modern island house: white walls, polished white marble floor, a big bed with white sheets and a pale headboard, a study desk with books and pens under the window, a tall dark-wood wardrobe, a glass sliding window beside the bed with a sheer white curtain, a round ceiling light. Camera: medium wide, eye level, faces in the upper two-thirds, a calm dark uncluttered lower third (dark sheet and floor).\nCharacters: Ghassan: a lean tall Maldivian man of about 45 with warm brown skin, a lean angular face, deep-set narrow dark eyes, thin lips with a faint sly smile, short black hair combed flat and a close-cropped black beard; wears a crisp long-sleeved white shirt buttoned to the collar, black trousers and carries a large black leather shoulder bag. Yamna: a petite slim Maldivian girl of about 15 with warm brown skin, a soft round youthful face, large dark gentle eyes, thick dark eyebrows and a small nose; wears a loose long-sleeved ankle-length pale-lilac cotton dress and a plain white hijab wrapped snugly and fully covering her hair and neck. Khalid: a solid broad-shouldered Maldivian man of about 48 with warm brown skin, a broad dignified face, tired dark eyes, short black hair greying at the temples and a neatly trimmed short black beard with grey streaks; wears a long-sleeved cream button-up shirt, dark-brown trousers and a silver wristwatch. Saahidha: a Maldivian woman of about 40 with warm brown skin, a gentle oval face, dark expressive eyes, fine lines at the eyes and full lips; wears a loose long-sleeved ankle-length dark bottle-green dress with subtle embroidery at the cuffs and a beige hijab wrapped snugly and fully covering her hair and neck.\nMood/lighting: late night, the round ceiling light dark or flickering, an icy cold blue haze filling the room, a single weak warm lamp in a corner, deep charcoal shadows, dread and horror.\nModest Maldivian clothing (every woman and girl in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck, arms always covered; men in shirts and long trousers or a sarong, never shirtless), culturally respectful, no blood, no wounds, no scratches, no injuries, no gore, no weapons, no knives, no ropes, no restraints, no violence, nobody hurting anyone, no monster faces, no religious symbols, no written verses, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.17,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 32.5,
+    "y_pct": 23.2,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_021",
+   "startMs": 505593,
+   "endMs": 523784,
+   "new_image_reason": "action change: Yamna flings Saahidha away",
+   "characters": [
+    "saahidha",
+    "yamna"
+   ],
+   "location": "Yamna's spacious bedroom in the family's large modern island house: white walls, polished white marble floor, a big bed with white sheets and a pale headboard, a study desk with books and pens under the window, a tall dark-wood wardrobe, a glass sliding window beside the bed with a sheer white curtain, a round ceiling light",
+   "location_key": "yamna_room",
+   "mood": "late night, the round ceiling light dark or flickering, an icy cold blue haze filling the room, a single weak warm lamp in a corner, deep charcoal shadows, dread and horror",
+   "visual": "Saahidha sitting on the cold marble floor beside the bed where she has been flung, one hand on the floor, the other at her mouth, staring up in shock; above her on the bed only Yamna's dark silhouette sitting up, face completely in shadow, her white hijab a faint pale shape",
+   "camera": "medium shot, low angle from the floor, faces in the upper two-thirds, a calm dark uncluttered lower third (marble floor)",
+   "image": "images/beat_021.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": "violence",
+   "safe_substitution": "the shove and the self-scratching are not shown: only Saahidha unhurt on the floor in shock and Yamna as a faceless silhouette",
+   "ambience": "haunted_room",
+   "shots": [
+    {
+     "id": "shot_055",
+     "startMs": 505593,
+     "endMs": 513253,
+     "narration_dhivehi": "ކުއްލިއަކަށް، މޮޔައެއް ފަދައިން ޔަމްނާ އޭނާގެ ދެއަތް ފޮޅުވާލައި، ސާހިދާ ކޮއްޕާލައިފިއެވެ. އަދި ވިދުވަރެއްހައި ހަލުވިކޮށް،",
+     "narration_english": "Suddenly, like a madwoman, Yamna flung her arms out and threw Saahidha off. And as quick as lightning,",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [
+      {
+       "name": "soft_thud",
+       "atMs": 510253,
+       "gainDb": -20,
+       "word": "ކޮއްޕާލައިފިއެވެ."
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_056",
+     "startMs": 513253,
+     "endMs": 523784,
+     "narration_dhivehi": "އޭނާގެ ދިގުވެފައި ތޫނު ނިޔަފަތިތައް އަމިއްލަ ދެ ކޯތާފަތަށް ހަރާލިއެވެ. މަޑުމަޑުން އަތް ތިރިކުރަމުން ދިޔައިރު، އެ ރީތި ދޮން މޫނުގައި ފުން ވަކިތަކެއް ދެމެމުންދިޔައެވެ.",
+     "narration_english": "she raked her long sharp nails down her own cheeks. As she slowly lowered her hand, deep gashes stretched across that beautiful fair face.",
+     "crop": "tight",
+     "motion": "pan left",
+     "sfx": [
+      {
+       "name": "gasp",
+       "atMs": 517033,
+       "gainDb": -22,
+       "word": "ހަރާލިއެވެ."
+      }
+     ],
+     "hum": true,
+     "crop_rect_pct": [
+      20.3,
+      4.8,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Saahidha; reference image 2 is Yamna), create a new scene: Cinematic semi-realistic digital illustration with a dark Maldivian horror-drama look, deep charcoal and smoky blue-grey shadows, cold misty moonlight and dim warm amber lamplight, drifting haze, high contrast with soft highlights, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, dark, uncluttered lower third (floor, sand, bedsheet edge, table top in soft shadow) for captions and a logo; a wealthy family's large modern house on a small Maldivian island with polished marble floors, white walls and dark wooden furniture, white sandy lanes, palms and a dark lagoon.\nScene: Saahidha sitting on the cold marble floor beside the bed where she has been flung, one hand on the floor, the other at her mouth, staring up in shock; above her on the bed only Yamna's dark silhouette sitting up, face completely in shadow, her white hijab a faint pale shape. Location: Yamna's spacious bedroom in the family's large modern island house: white walls, polished white marble floor, a big bed with white sheets and a pale headboard, a study desk with books and pens under the window, a tall dark-wood wardrobe, a glass sliding window beside the bed with a sheer white curtain, a round ceiling light. Camera: medium shot, low angle from the floor, faces in the upper two-thirds, a calm dark uncluttered lower third (marble floor).\nCharacters: Saahidha: a Maldivian woman of about 40 with warm brown skin, a gentle oval face, dark expressive eyes, fine lines at the eyes and full lips; wears a loose long-sleeved ankle-length dark bottle-green dress with subtle embroidery at the cuffs and a beige hijab wrapped snugly and fully covering her hair and neck. Yamna: a petite slim Maldivian girl of about 15 with warm brown skin, a soft round youthful face, large dark gentle eyes, thick dark eyebrows and a small nose; wears a loose long-sleeved ankle-length pale-lilac cotton dress and a plain white hijab wrapped snugly and fully covering her hair and neck.\nMood/lighting: late night, the round ceiling light dark or flickering, an icy cold blue haze filling the room, a single weak warm lamp in a corner, deep charcoal shadows, dread and horror.\nModest Maldivian clothing (every woman and girl in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck, arms always covered; men in shirts and long trousers or a sarong, never shirtless), culturally respectful, no blood, no wounds, no scratches, no injuries, no gore, no weapons, no knives, no ropes, no restraints, no violence, nobody hurting anyone, no monster faces, no religious symbols, no written verses, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.108,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 50.0,
+    "y_pct": 40.0,
+    "face_detected": false
+   }
+  },
+  {
+   "id": "beat_022",
+   "startMs": 523784,
+   "endMs": 544714,
+   "new_image_reason": "turning point: a heavy male laugh, 'Stop reciting!' — the jinn's presence fills the room",
+   "characters": [
+    "ghassan"
+   ],
+   "location": "Yamna's spacious bedroom in the family's large modern island house: white walls, polished white marble floor, a big bed with white sheets and a pale headboard, a study desk with books and pens under the window, a tall dark-wood wardrobe, a glass sliding window beside the bed with a sheer white curtain, a round ceiling light",
+   "location_key": "yamna_room",
+   "mood": "late night, the round ceiling light dark or flickering, an icy cold blue haze filling the room, a single weak warm lamp in a corner, deep charcoal shadows, dread and horror",
+   "visual": "a huge dark smoky shadow with long thin clawed shadowy fingers rising up the white bedroom wall above the headboard, like smoke, with no face, the ceiling light dimmed to a faint glow; Ghassan seen from behind in the lower left, a dark figure with his palm raised towards it",
+   "camera": "wide shot, low angle, the shadow filling the upper wall, faces in the upper two-thirds, a calm dark uncluttered lower third (dark headboard and floor)",
+   "image": "images/beat_022.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": "violence",
+   "safe_substitution": "blood and torn cheeks replaced by the smoky shadow on the wall (shadow use 2 of 2); Yamna not shown",
+   "ambience": "haunted_room",
+   "shots": [
+    {
+     "id": "shot_057",
+     "startMs": 523784,
+     "endMs": 535994,
+     "narration_dhivehi": "ހަމަ އެއާއެކު، ހަންގަނޑު ކަނޑައިގެން ގޮސް، ރަތްލޭތައް ކޯތާފަތް މަތިން ފާއްދާލިއެވެ. އެ ބިރުވެރި މަންޒަރާއެކު ޔަމްނާގެ ކަރުތެރެއިން ބަރު ފިރިހެން އަޑަކުން ބާރު ހިނިގަނޑެއްގެ އަޑު ނިކުތެވެ.",
+     "narration_english": "At that moment the skin split and red blood ran down her cheeks. With that horrifying sight, a loud laugh in a heavy male voice came from Yamna's throat.",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [
+      {
+       "name": "low_growl",
+       "atMs": 534154,
+       "gainDb": -19,
+       "word": "ހިނިގަނޑެއްގެ"
+      }
+     ],
+     "hum": true,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_058",
+     "startMs": 535994,
+     "endMs": 544714,
+     "narration_dhivehi": "އެ އަޑުގައިވަނީ ނާމާންކަމާއި މަލާމާތެވެ. \"ހުއްޓާލާ! ތި ކިޔެވުން ހުއްޓާލާ!\" ޔަމްނާގެ ހަށިގަނޑުގައިވާ ނުފެންނަ ބާރުން ހަޅޭއްލަވަމުން ދިޔައެވެ.",
+     "narration_english": "That voice was full of cruelty and mockery. \"Stop! Stop that reciting!\" screamed the unseen force inside Yamna's body.",
+     "crop": "tight",
+     "motion": "pan right",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      20.3,
+      4.8,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Ghassan), create a new scene: Cinematic semi-realistic digital illustration with a dark Maldivian horror-drama look, deep charcoal and smoky blue-grey shadows, cold misty moonlight and dim warm amber lamplight, drifting haze, high contrast with soft highlights, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, dark, uncluttered lower third (floor, sand, bedsheet edge, table top in soft shadow) for captions and a logo; a wealthy family's large modern house on a small Maldivian island with polished marble floors, white walls and dark wooden furniture, white sandy lanes, palms and a dark lagoon.\nScene: a huge dark smoky shadow with long thin clawed shadowy fingers rising up the white bedroom wall above the headboard, like smoke, with no face, the ceiling light dimmed to a faint glow; Ghassan seen from behind in the lower left, a dark figure with his palm raised towards it. Location: Yamna's spacious bedroom in the family's large modern island house: white walls, polished white marble floor, a big bed with white sheets and a pale headboard, a study desk with books and pens under the window, a tall dark-wood wardrobe, a glass sliding window beside the bed with a sheer white curtain, a round ceiling light. Camera: wide shot, low angle, the shadow filling the upper wall, faces in the upper two-thirds, a calm dark uncluttered lower third (dark headboard and floor).\nCharacters: Ghassan: a lean tall Maldivian man of about 45 with warm brown skin, a lean angular face, deep-set narrow dark eyes, thin lips with a faint sly smile, short black hair combed flat and a close-cropped black beard; wears a crisp long-sleeved white shirt buttoned to the collar, black trousers and carries a large black leather shoulder bag.\nMood/lighting: late night, the round ceiling light dark or flickering, an icy cold blue haze filling the room, a single weak warm lamp in a corner, deep charcoal shadows, dread and horror.\nModest Maldivian clothing (every woman and girl in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck, arms always covered; men in shirts and long trousers or a sarong, never shirtless), culturally respectful, no blood, no wounds, no scratches, no injuries, no gore, no weapons, no knives, no ropes, no restraints, no violence, nobody hurting anyone, no monster faces, no religious symbols, no written verses, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.087,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 50.0,
+    "y_pct": 40.0,
+    "face_detected": false
+   }
+  },
+  {
+   "id": "beat_023",
+   "startMs": 544714,
+   "endMs": 562495,
+   "new_image_reason": "focus change: Ghassan questions the jinn; a cold mocking smile on Yamna's face",
+   "characters": [
+    "yamna",
+    "ghassan"
+   ],
+   "location": "Yamna's spacious bedroom in the family's large modern island house: white walls, polished white marble floor, a big bed with white sheets and a pale headboard, a study desk with books and pens under the window, a tall dark-wood wardrobe, a glass sliding window beside the bed with a sheer white curtain, a round ceiling light",
+   "location_key": "yamna_room",
+   "mood": "late night, the round ceiling light dark or flickering, an icy cold blue haze filling the room, a single weak warm lamp in a corner, deep charcoal shadows, dread and horror",
+   "visual": "close-up of Yamna's face resting against the white pillow, half in deep shadow, completely unmarked and still, white hijab snug around her face, a faint cold smile and a cold stare; Ghassan's raised palm blurred at the edge of the frame",
+   "camera": "close-up, eye level, faces in the upper two-thirds, a calm dark uncluttered lower third (pillow and blanket in shadow)",
+   "image": "images/beat_023.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": "other",
+   "safe_substitution": "cold smile only, no marks, no red eyes",
+   "ambience": "haunted_room",
+   "shots": [
+    {
+     "id": "shot_059",
+     "startMs": 544714,
+     "endMs": 553104,
+     "narration_dhivehi": "ޣައްސާން ކިޔެވުން ހުއްޓައެއް ނުލައެވެ. އޭނާ ކިޔެވުން ވަރުގަދަކޮށް، ޖިންނިއާއި މުޚާޠަބުކޮށް ސުވާލުކުރަން ފެށިއެވެ. \"ކާކު ކަލޭ ފޮނުވީ؟",
+     "narration_english": "Ghassan did not stop reciting. He recited more forcefully and began to question the jinn directly. \"Who sent you?",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [
+      {
+       "name": "whisper_recite",
+       "atMs": 545554,
+       "gainDb": -22,
+       "word": "ކިޔެވުން"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_060",
+     "startMs": 553104,
+     "endMs": 562495,
+     "narration_dhivehi": "ކީއްވެ މި މައުސޫމު ކުއްޖާގެ ހަށިގަނޑަށް ވަދެގެން ތިޔައުޅެނީ؟\" އެ ހިނދު، ޔަމްނާގެ މޫނުމައްޗަށް ނުލަފާ، މަލާމާތުގެ ހިނިތުންވުމެއް ވެރިވިއެވެ.",
+     "narration_english": "Why are you inside this innocent girl's body?\" At that moment a wicked, mocking smile spread across Yamna's face.",
+     "crop": "tight",
+     "motion": "pan up",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      31.2,
+      0.0,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Yamna; reference image 2 is Ghassan), create a new scene: Cinematic semi-realistic digital illustration with a dark Maldivian horror-drama look, deep charcoal and smoky blue-grey shadows, cold misty moonlight and dim warm amber lamplight, drifting haze, high contrast with soft highlights, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, dark, uncluttered lower third (floor, sand, bedsheet edge, table top in soft shadow) for captions and a logo; a wealthy family's large modern house on a small Maldivian island with polished marble floors, white walls and dark wooden furniture, white sandy lanes, palms and a dark lagoon.\nScene: close-up of Yamna's face resting against the white pillow, half in deep shadow, completely unmarked and still, white hijab snug around her face, a faint cold smile and a cold stare; Ghassan's raised palm blurred at the edge of the frame. Location: Yamna's spacious bedroom in the family's large modern island house: white walls, polished white marble floor, a big bed with white sheets and a pale headboard, a study desk with books and pens under the window, a tall dark-wood wardrobe, a glass sliding window beside the bed with a sheer white curtain, a round ceiling light. Camera: close-up, eye level, faces in the upper two-thirds, a calm dark uncluttered lower third (pillow and blanket in shadow).\nCharacters: Yamna: a petite slim Maldivian girl of about 15 with warm brown skin, a soft round youthful face, large dark gentle eyes, thick dark eyebrows and a small nose; wears a loose long-sleeved ankle-length pale-lilac cotton dress and a plain white hijab wrapped snugly and fully covering her hair and neck. Ghassan: a lean tall Maldivian man of about 45 with warm brown skin, a lean angular face, deep-set narrow dark eyes, thin lips with a faint sly smile, short black hair combed flat and a close-cropped black beard; wears a crisp long-sleeved white shirt buttoned to the collar, black trousers and carries a large black leather shoulder bag.\nMood/lighting: late night, the round ceiling light dark or flickering, an icy cold blue haze filling the room, a single weak warm lamp in a corner, deep charcoal shadows, dread and horror.\nModest Maldivian clothing (every woman and girl in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck, arms always covered; men in shirts and long trousers or a sarong, never shirtless), culturally respectful, no blood, no wounds, no scratches, no injuries, no gore, no weapons, no knives, no ropes, no restraints, no violence, nobody hurting anyone, no monster faces, no religious symbols, no written verses, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.134,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 60.9,
+    "y_pct": 15.5,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_024",
+   "startMs": 562495,
+   "endMs": 594935,
+   "new_image_reason": "turning point: the jinn turns her head to Khalid at the door and accuses him",
+   "characters": [
+    "khalid",
+    "yamna",
+    "saahidha"
+   ],
+   "location": "Yamna's spacious bedroom in the family's large modern island house: white walls, polished white marble floor, a big bed with white sheets and a pale headboard, a study desk with books and pens under the window, a tall dark-wood wardrobe, a glass sliding window beside the bed with a sheer white curtain, a round ceiling light",
+   "location_key": "yamna_room",
+   "mood": "late night, the round ceiling light dark or flickering, an icy cold blue haze filling the room, a single weak warm lamp in a corner, deep charcoal shadows, dread and horror",
+   "visual": "over Yamna's shoulder from behind — only the back of her white hijab as she sits up in bed in the dark — towards Khalid standing frozen in the doorway, his face drained of colour, mouth open; Saahidha at the side of the bed turning to stare at him in disbelief; cold blue haze",
+   "camera": "over-the-shoulder medium shot, eye level, faces in the upper two-thirds, a calm dark uncluttered lower third (dark blanket and floor)",
+   "image": "images/beat_024.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "haunted_room",
+   "shots": [
+    {
+     "id": "shot_061",
+     "startMs": 562495,
+     "endMs": 572915,
+     "narration_dhivehi": "އޭނާ މަޑުމަޑުން ބޯ އަރިކޮށްލާފައި، ދޮރުމަތީގައި ބިރުން ފިތްކަނޑައިގެން ގޮސްފައި ހުރި ޚާލިދަށް ބަލައިލިއެވެ. \"މި ކުއްޖާ ހަލާކުކޮށްލަން ފޮނުވީ ކަލޭމެންގެ ތެރެއިން މީހަކު!\"",
+     "narration_english": "She slowly turned her head and looked at Khalid, who stood at the door frozen with fear. \"It was one of you who sent me to destroy this girl!\"",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [
+      {
+       "name": "heartbeat",
+       "atMs": 566075,
+       "gainDb": -22,
+       "word": "ބިރުން"
+      }
+     ],
+     "hum": true,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_062",
+     "startMs": 572915,
+     "endMs": 581995,
+     "narration_dhivehi": "ޖިންނި ބުންޏެވެ. \"ކާކު؟\" ޚާލިދު ކެތްތެރިކަން ކުޑަ ގޮތަކަށް ހަލޭއްލަވައިގަތެވެ. ޚާލިދުގެ ސުވާލަށް ޖިންނި ޖަވާބުދިނީ ކުރިޔަށްވުރެ ވެސް ބާރަށެވެ.",
+     "narration_english": "said the jinn. \"Who?\" Khalid shouted impatiently. The jinn answered Khalid's question even more loudly than before.",
+     "crop": "tight",
+     "motion": "pan down",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      40.6,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_063",
+     "startMs": 581995,
+     "endMs": 594935,
+     "narration_dhivehi": "\"ކަލޭ ތިއުޅެނީ މާ މާތް މީހަކަށް ވާންތަ؟ މި މައުސޫމު ކުއްޖާ އަހަރުމެންނާ ހަވާލުކުރީ ހަމަ ކަލޭ!\" ޖިންނި އެ އިޝާރާތްކުރީ ޚާލިދައް ކަން އެނގުމާއެކު ދެން ތިބި ދެމީހުންގެ މޫނުމަތިންވެސް ފެނުނީ ހައިރާންކަމެވެ.",
+     "narration_english": "\"Are you trying to be a saint? It was you yourself who handed this innocent girl over to us!\" As it became clear the jinn meant Khalid, astonishment showed on the faces of the other two as well.",
+     "crop": "full",
+     "motion": "static drift",
+     "sfx": [
+      {
+       "name": "gasp",
+       "atMs": 593915,
+       "gainDb": -20,
+       "word": "ހައިރާންކަމެވެ."
+      }
+     ],
+     "hum": true,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Khalid; reference image 2 is Yamna; reference image 3 is Saahidha), create a new scene: Cinematic semi-realistic digital illustration with a dark Maldivian horror-drama look, deep charcoal and smoky blue-grey shadows, cold misty moonlight and dim warm amber lamplight, drifting haze, high contrast with soft highlights, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, dark, uncluttered lower third (floor, sand, bedsheet edge, table top in soft shadow) for captions and a logo; a wealthy family's large modern house on a small Maldivian island with polished marble floors, white walls and dark wooden furniture, white sandy lanes, palms and a dark lagoon.\nScene: over Yamna's shoulder from behind — only the back of her white hijab as she sits up in bed in the dark — towards Khalid standing frozen in the doorway, his face drained of colour, mouth open; Saahidha at the side of the bed turning to stare at him in disbelief; cold blue haze. Location: Yamna's spacious bedroom in the family's large modern island house: white walls, polished white marble floor, a big bed with white sheets and a pale headboard, a study desk with books and pens under the window, a tall dark-wood wardrobe, a glass sliding window beside the bed with a sheer white curtain, a round ceiling light. Camera: over-the-shoulder medium shot, eye level, faces in the upper two-thirds, a calm dark uncluttered lower third (dark blanket and floor).\nCharacters: Khalid: a solid broad-shouldered Maldivian man of about 48 with warm brown skin, a broad dignified face, tired dark eyes, short black hair greying at the temples and a neatly trimmed short black beard with grey streaks; wears a long-sleeved cream button-up shirt, dark-brown trousers and a silver wristwatch. Yamna: a petite slim Maldivian girl of about 15 with warm brown skin, a soft round youthful face, large dark gentle eyes, thick dark eyebrows and a small nose; wears a loose long-sleeved ankle-length pale-lilac cotton dress and a plain white hijab wrapped snugly and fully covering her hair and neck. Saahidha: a Maldivian woman of about 40 with warm brown skin, a gentle oval face, dark expressive eyes, fine lines at the eyes and full lips; wears a loose long-sleeved ankle-length dark bottle-green dress with subtle embroidery at the cuffs and a beige hijab wrapped snugly and fully covering her hair and neck.\nMood/lighting: late night, the round ceiling light dark or flickering, an icy cold blue haze filling the room, a single weak warm lamp in a corner, deep charcoal shadows, dread and horror.\nModest Maldivian clothing (every woman and girl in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck, arms always covered; men in shirts and long trousers or a sarong, never shirtless), culturally respectful, no blood, no wounds, no scratches, no injuries, no gore, no weapons, no knives, no ropes, no restraints, no violence, nobody hurting anyone, no monster faces, no religious symbols, no written verses, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.07,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 73.4,
+    "y_pct": 29.7,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_025",
+   "startMs": 594935,
+   "endMs": 619186,
+   "new_image_reason": "action change: Saahidha jumps up, hugs Yamna and sobs",
+   "characters": [
+    "saahidha",
+    "yamna"
+   ],
+   "location": "Yamna's spacious bedroom in the family's large modern island house: white walls, polished white marble floor, a big bed with white sheets and a pale headboard, a study desk with books and pens under the window, a tall dark-wood wardrobe, a glass sliding window beside the bed with a sheer white curtain, a round ceiling light",
+   "location_key": "yamna_room",
+   "mood": "late night, the round ceiling light dark or flickering, an icy cold blue haze filling the room, a single weak warm lamp in a corner, deep charcoal shadows, dread and horror",
+   "visual": "Saahidha sitting on the bed holding her daughter tightly in her arms, cheek pressed to Yamna's white hijab, eyes squeezed shut, weeping; Yamna limp and still in her lilac dress, face turned away into shadow, the blanket over her lap",
+   "camera": "medium close shot, eye level, faces in the upper two-thirds, a calm dark uncluttered lower third (blanket in shadow)",
+   "image": "images/beat_025.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "haunted_room",
+   "shots": [
+    {
+     "id": "shot_064",
+     "startMs": 594935,
+     "endMs": 602076,
+     "narration_dhivehi": "ލިބުނު ކުއްލި ސިހުމާއެކު ގަނޑުވެފައި އިން ސާހިދާ ފުންމައިގެން ތެދުވެ ޔަމްނާގެ ގައިގައި ބައްދައިގަނެ ރޯންފެށިއެވެ.",
+     "narration_english": "Saahidha, who had been frozen by the sudden shock, sprang up, threw her arms around Yamna and began to weep.",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [
+      {
+       "name": "sob_breath",
+       "atMs": 601176,
+       "gainDb": -22,
+       "word": "ރޯންފެށިއެވެ."
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_065",
+     "startMs": 602076,
+     "endMs": 609826,
+     "narration_dhivehi": "ޔަމްނާއަކީ އޭނާގެ ހަމައެކަނި ހުރި އަންހެން ދަރިއެވެ. އެދަރިފުޅަށް މިއަދު ޖެހިފައިވާ ނިކަމެތި ހާލު ފެނި އޭނާގެ ހިތް ކުދި ކުދި ވެއްޖެއެވެ.",
+     "narration_english": "Yamna was her only daughter. Seeing the wretched state her child was in today, her heart broke into pieces.",
+     "crop": "tight",
+     "motion": "pan left",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      20.3,
+      4.8,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_066",
+     "startMs": 609826,
+     "endMs": 619186,
+     "narration_dhivehi": "އަދި އެ ދަރިފުޅަށް މިއަނިޔާ ލިބުމުގެ އަސްލަކީ ޚާލިދު ކަމަށް ގަބޫލުކުރާނީ ކިހިނެއްބާއެވެ؟ އެކަމަކު އެ އަޑު އެ އަންނަނީ ހަމަ އެ ދަރިފުޅުގެ އަނގައިންނެވެ.",
+     "narration_english": "And how could she believe that the root of this harm to her child was Khalid? Yet that voice came from her child's own mouth.",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Saahidha; reference image 2 is Yamna), create a new scene: Cinematic semi-realistic digital illustration with a dark Maldivian horror-drama look, deep charcoal and smoky blue-grey shadows, cold misty moonlight and dim warm amber lamplight, drifting haze, high contrast with soft highlights, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, dark, uncluttered lower third (floor, sand, bedsheet edge, table top in soft shadow) for captions and a logo; a wealthy family's large modern house on a small Maldivian island with polished marble floors, white walls and dark wooden furniture, white sandy lanes, palms and a dark lagoon.\nScene: Saahidha sitting on the bed holding her daughter tightly in her arms, cheek pressed to Yamna's white hijab, eyes squeezed shut, weeping; Yamna limp and still in her lilac dress, face turned away into shadow, the blanket over her lap. Location: Yamna's spacious bedroom in the family's large modern island house: white walls, polished white marble floor, a big bed with white sheets and a pale headboard, a study desk with books and pens under the window, a tall dark-wood wardrobe, a glass sliding window beside the bed with a sheer white curtain, a round ceiling light. Camera: medium close shot, eye level, faces in the upper two-thirds, a calm dark uncluttered lower third (blanket in shadow).\nCharacters: Saahidha: a Maldivian woman of about 40 with warm brown skin, a gentle oval face, dark expressive eyes, fine lines at the eyes and full lips; wears a loose long-sleeved ankle-length dark bottle-green dress with subtle embroidery at the cuffs and a beige hijab wrapped snugly and fully covering her hair and neck. Yamna: a petite slim Maldivian girl of about 15 with warm brown skin, a soft round youthful face, large dark gentle eyes, thick dark eyebrows and a small nose; wears a loose long-sleeved ankle-length pale-lilac cotton dress and a plain white hijab wrapped snugly and fully covering her hair and neck.\nMood/lighting: late night, the round ceiling light dark or flickering, an icy cold blue haze filling the room, a single weak warm lamp in a corner, deep charcoal shadows, dread and horror.\nModest Maldivian clothing (every woman and girl in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck, arms always covered; men in shirts and long trousers or a sarong, never shirtless), culturally respectful, no blood, no wounds, no scratches, no injuries, no gore, no weapons, no knives, no ropes, no restraints, no violence, nobody hurting anyone, no monster faces, no religious symbols, no written verses, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.086,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 50.0,
+    "y_pct": 40.0,
+    "face_detected": false
+   }
+  },
+  {
+   "id": "beat_026",
+   "startMs": 619186,
+   "endMs": 637877,
+   "new_image_reason": "return to Ghassan reciting at the bed; he grows anxious and slows the recitation",
+   "characters": [
+    "ghassan",
+    "yamna",
+    "khalid",
+    "saahidha"
+   ],
+   "location": "Yamna's spacious bedroom in the family's large modern island house: white walls, polished white marble floor, a big bed with white sheets and a pale headboard, a study desk with books and pens under the window, a tall dark-wood wardrobe, a glass sliding window beside the bed with a sheer white curtain, a round ceiling light",
+   "location_key": "yamna_room",
+   "mood": "late night, the round ceiling light dark or flickering, an icy cold blue haze filling the room, a single weak warm lamp in a corner, deep charcoal shadows, dread and horror",
+   "visual": "reuse of Ghassan reciting at the bed",
+   "camera": "medium shot, eye level",
+   "image": "images/beat_020.png",
+   "reuse_of": "beat_020",
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "haunted_room",
+   "shots": [
+    {
+     "id": "shot_067",
+     "startMs": 619186,
+     "endMs": 628336,
+     "narration_dhivehi": "\"ހަމަ މިހާރު ކިޔެވުން ހުއްޓާލާ! އެހެންނޫނީ ދެން މި ހަށިގަނޑަށް ކޮށްލާނީ އަދި މިވަރެއް ނޫން.\" އޭތީގެ ނުލަފާ އެންގުމާއެކު ޣައްސާން ހާސްވެއްޖެއެވެ.",
+     "narration_english": "\"Stop reciting right now! Or what I do to this body next will be far worse than this.\" At its wicked command Ghassan grew anxious.",
+     "crop": "tight",
+     "motion": "pan right",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      2.8,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_068",
+     "startMs": 628336,
+     "endMs": 637877,
+     "narration_dhivehi": "އޭނާގެ ދުވަސްވީ ތަޖްރިބާގެ އަލީގައި އޭނާއަށް ދެން ކުރިޔަށް ދެވޭނީ އިތުރަށް ތައްޔާރުވެގެން ކަން ޔަގީންވިއެވެ. އެހެންވެ އޭނާ ކިޔެވުން މަޑުޖައްސާލިއެވެ.",
+     "narration_english": "In the light of his long experience, he was sure he could only go further after more preparation. So he slowly let his recitation fade.",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [],
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.214,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 32.5,
+    "y_pct": 23.2,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_027",
+   "startMs": 637877,
+   "endMs": 666287,
+   "new_image_reason": "turning point: Saahidha glares at Khalid with hatred and orders him out; Khalid and Saeed leave",
+   "characters": [
+    "saahidha",
+    "khalid",
+    "saeed",
+    "yamna"
+   ],
+   "location": "Yamna's spacious bedroom in the family's large modern island house: white walls, polished white marble floor, a big bed with white sheets and a pale headboard, a study desk with books and pens under the window, a tall dark-wood wardrobe, a glass sliding window beside the bed with a sheer white curtain, a round ceiling light",
+   "location_key": "yamna_room_calm",
+   "mood": "late night after the storm of fear, dim cold blue haze, one warm bedside lamp, deep soft shadows, exhausted, uneasy stillness",
+   "visual": "in the background Yamna lying in the big bed under a white blanket pulled up to her chest, her white hijab snugly covering her hair and neck, long lilac sleeves, asleep; Saahidha standing by the bed glaring at Khalid with cold fury, chin raised; Khalid, head bowed like a scolded child, turning towards the doorway where Saeed in his grey kurta and white skullcap waits, eyes lowered",
+   "camera": "medium wide, eye level, faces in the upper two-thirds, a calm dark uncluttered lower third (marble floor)",
+   "image": "images/beat_027.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "room_night",
+   "shots": [
+    {
+     "id": "shot_069",
+     "startMs": 637877,
+     "endMs": 646817,
+     "narration_dhivehi": "އެއާއެކު ކުރީ ރެއެކޭވެސް އެއްގޮތަށް ޔަމްނާގެ ހަށިގަނޑު މަޑުމަޑުން އެނދުމައްޗަށް ދެމިއްޖެއެވެ. ސާހިދާގެ މޫނުމަތިން ފެންނަނީ ނަފްރަތުގެ ކުލަވަރުތަކެވެ.",
+     "narration_english": "With that, just like the night before, Yamna's body slowly settled back onto the bed. On Saahidha's face were the colours of hatred.",
+     "crop": "full",
+     "motion": "pan up",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_070",
+     "startMs": 646817,
+     "endMs": 656957,
+     "narration_dhivehi": "އޭނާ ރުޅިވެރިކަމާއެކު ޚާލިދަށް ބަލައިލިއެވެ. \"އެއީ ތެދެއް ނޫން.\" ޚާލިދަށް ބުނެވުނީ ކުރު ޖުމްލައެކެވެ. \"ހަމަ މިހާރު ނިކުމޭ!\" ސާހިދާ ކޮށްލީ ހަރުކަށި އަމުރެކެވެ.",
+     "narration_english": "She looked at Khalid in anger. \"That's not true,\" was the only short sentence Khalid could say. \"Get out right now!\" was Saahidha's harsh command.",
+     "crop": "tight",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      2.1,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_071",
+     "startMs": 656957,
+     "endMs": 666287,
+     "narration_dhivehi": "ކިޔަމަންތެރި ކުޑަ ކުއްޖެއް ފަދައިން ޚާލިދު ކޮޓަރިން ނިކުންނަން ހިނގައިގަތެވެ. ޚާލިދުގެ ފަހަތުން ސައީދު ވެސް ހިނގައިގަތީ އެ ކޮޓަރިތެރެއިން ނިކުންނާށެވެ.",
+     "narration_english": "Like an obedient little child, Khalid walked out of the room. After Khalid, Saeed too walked out of that room.",
+     "crop": "full",
+     "motion": "pan down",
+     "sfx": [
+      {
+       "name": "footsteps_pavement",
+       "atMs": 660677,
+       "gainDb": -24,
+       "word": "ހިނގައިގަތެވެ."
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Saahidha; reference image 2 is Khalid; reference image 3 is Saeed; reference image 4 is Yamna), create a new scene: Cinematic semi-realistic digital illustration with a dark Maldivian horror-drama look, deep charcoal and smoky blue-grey shadows, cold misty moonlight and dim warm amber lamplight, drifting haze, high contrast with soft highlights, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, dark, uncluttered lower third (floor, sand, bedsheet edge, table top in soft shadow) for captions and a logo; a wealthy family's large modern house on a small Maldivian island with polished marble floors, white walls and dark wooden furniture, white sandy lanes, palms and a dark lagoon.\nScene: in the background Yamna lying in the big bed under a white blanket pulled up to her chest, her white hijab snugly covering her hair and neck, long lilac sleeves, asleep; Saahidha standing by the bed glaring at Khalid with cold fury, chin raised; Khalid, head bowed like a scolded child, turning towards the doorway where Saeed in his grey kurta and white skullcap waits, eyes lowered. Location: Yamna's spacious bedroom in the family's large modern island house: white walls, polished white marble floor, a big bed with white sheets and a pale headboard, a study desk with books and pens under the window, a tall dark-wood wardrobe, a glass sliding window beside the bed with a sheer white curtain, a round ceiling light. Camera: medium wide, eye level, faces in the upper two-thirds, a calm dark uncluttered lower third (marble floor).\nCharacters: Saahidha: a Maldivian woman of about 40 with warm brown skin, a gentle oval face, dark expressive eyes, fine lines at the eyes and full lips; wears a loose long-sleeved ankle-length dark bottle-green dress with subtle embroidery at the cuffs and a beige hijab wrapped snugly and fully covering her hair and neck. Khalid: a solid broad-shouldered Maldivian man of about 48 with warm brown skin, a broad dignified face, tired dark eyes, short black hair greying at the temples and a neatly trimmed short black beard with grey streaks; wears a long-sleeved cream button-up shirt, dark-brown trousers and a silver wristwatch. Saeed: a slim Maldivian man of about 28 with warm brown skin, a kind gentle face, calm dark eyes and a neat short black beard; wears a long light-grey kurta-style shirt reaching below the knees with long sleeves, white trousers and a white knitted skullcap. Yamna: a petite slim Maldivian girl of about 15 with warm brown skin, a soft round youthful face, large dark gentle eyes, thick dark eyebrows and a small nose; wears a loose long-sleeved ankle-length pale-lilac cotton dress and a plain white hijab wrapped snugly and fully covering her hair and neck.\nMood/lighting: late night after the storm of fear, dim cold blue haze, one warm bedside lamp, deep soft shadows, exhausted, uneasy stillness.\nModest Maldivian clothing (every woman and girl in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck, arms always covered; men in shirts and long trousers or a sarong, never shirtless), culturally respectful, no blood, no wounds, no scratches, no injuries, no gore, no weapons, no knives, no ropes, no restraints, no violence, nobody hurting anyone, no monster faces, no religious symbols, no written verses, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.153,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 31.8,
+    "y_pct": 21.5,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_028",
+   "startMs": 666287,
+   "endMs": 684678,
+   "new_image_reason": "time change: after fajr Saahidha sits by Yamna and calls her to pray",
+   "characters": [
+    "saahidha",
+    "yamna"
+   ],
+   "location": "Yamna's spacious bedroom in the family's large modern island house: white walls, polished white marble floor, a big bed with white sheets and a pale headboard, a study desk with books and pens under the window, a tall dark-wood wardrobe, a glass sliding window beside the bed with a sheer white curtain, a round ceiling light",
+   "location_key": "yamna_room_dawn",
+   "mood": "just before dawn, faint cold blue-grey light through the sheer curtain, one dim warm lamp, quiet and fragile, then a chill",
+   "visual": "Yamna lying in the big bed under a white blanket pulled up to her chest, her white hijab snugly covering her hair and neck, long lilac sleeves, asleep on her side; Saahidha in her bottle-green dress and beige hijab sitting beside her on the bed, leaning over gently, one hand reaching to tap her daughter's arm through the blanket, calling her softly",
+   "camera": "medium shot, eye level, faces in the upper two-thirds, a calm dark uncluttered lower third (white blanket)",
+   "image": "images/beat_028.png",
+   "reuse_of": null,
+   "transition_in": "black",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "room_night",
+   "shots": [
+    {
+     "id": "shot_072",
+     "startMs": 666287,
+     "endMs": 677868,
+     "narration_dhivehi": "އާދައިގެމަތިން ސާހިދާ ފަތިސްނަމާދު ކޮށްލައިގެން ދިޔައީ ޔަމްނާއަށް ނަމާދަށް ގޮވުމަށްޓަކައެވެ. ސާހިދާ އޭނާގެ ދެލޮލުގެ ކޮއިފަދަ ދަރިފުޅުގެ މަގަތުގައި އިށީނދެ އެދަރިފުޅަށް ނަމާދަށް ގޮވާލިއެވެ.",
+     "narration_english": "As usual, after praying fajr Saahidha went to wake Yamna for prayer. She sat beside her darling daughter, the apple of her eye, and called her to pray.",
+     "crop": "full",
+     "motion": "static drift",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_073",
+     "startMs": 677868,
+     "endMs": 684678,
+     "narration_dhivehi": "ދެތިންފަހަރަކު ގޮވައިލުމުންވެސް ޔަމްނާގެ ފަރާތުން ޚަބަރެއް ނުވުމުން ސާހިދާ ޔަމްނާގެ ކޮލުގައި ކޮއްޓާލިއެވެ.",
+     "narration_english": "When there was no response from Yamna even after calling two or three times, Saahidha tapped Yamna's arm.",
+     "crop": "tight",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      22.7,
+      0.0,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Saahidha; reference image 2 is Yamna), create a new scene: Cinematic semi-realistic digital illustration with a dark Maldivian horror-drama look, deep charcoal and smoky blue-grey shadows, cold misty moonlight and dim warm amber lamplight, drifting haze, high contrast with soft highlights, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, dark, uncluttered lower third (floor, sand, bedsheet edge, table top in soft shadow) for captions and a logo; a wealthy family's large modern house on a small Maldivian island with polished marble floors, white walls and dark wooden furniture, white sandy lanes, palms and a dark lagoon.\nScene: Yamna lying in the big bed under a white blanket pulled up to her chest, her white hijab snugly covering her hair and neck, long lilac sleeves, asleep on her side; Saahidha in her bottle-green dress and beige hijab sitting beside her on the bed, leaning over gently, one hand reaching to tap her daughter's arm through the blanket, calling her softly. Location: Yamna's spacious bedroom in the family's large modern island house: white walls, polished white marble floor, a big bed with white sheets and a pale headboard, a study desk with books and pens under the window, a tall dark-wood wardrobe, a glass sliding window beside the bed with a sheer white curtain, a round ceiling light. Camera: medium shot, eye level, faces in the upper two-thirds, a calm dark uncluttered lower third (white blanket).\nCharacters: Saahidha: a Maldivian woman of about 40 with warm brown skin, a gentle oval face, dark expressive eyes, fine lines at the eyes and full lips; wears a loose long-sleeved ankle-length dark bottle-green dress with subtle embroidery at the cuffs and a beige hijab wrapped snugly and fully covering her hair and neck. Yamna: a petite slim Maldivian girl of about 15 with warm brown skin, a soft round youthful face, large dark gentle eyes, thick dark eyebrows and a small nose; wears a loose long-sleeved ankle-length pale-lilac cotton dress and a plain white hijab wrapped snugly and fully covering her hair and neck.\nMood/lighting: just before dawn, faint cold blue-grey light through the sheer curtain, one dim warm lamp, quiet and fragile, then a chill.\nModest Maldivian clothing (every woman and girl in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck, arms always covered; men in shirts and long trousers or a sarong, never shirtless), culturally respectful, no blood, no wounds, no scratches, no injuries, no gore, no weapons, no knives, no ropes, no restraints, no violence, nobody hurting anyone, no monster faces, no religious symbols, no written verses, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.224,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 52.4,
+    "y_pct": 27.3,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_029",
+   "startMs": 684678,
+   "endMs": 710159,
+   "new_image_reason": "action change: Yamna jolts upright and glares at her mother",
+   "characters": [
+    "yamna",
+    "saahidha"
+   ],
+   "location": "Yamna's spacious bedroom in the family's large modern island house: white walls, polished white marble floor, a big bed with white sheets and a pale headboard, a study desk with books and pens under the window, a tall dark-wood wardrobe, a glass sliding window beside the bed with a sheer white curtain, a round ceiling light",
+   "location_key": "yamna_room_dawn",
+   "mood": "just before dawn, faint cold blue-grey light through the sheer curtain, one dim warm lamp, quiet and fragile, then a chill",
+   "visual": "Yamna sitting bolt upright in bed in her lilac dress and white hijab, the blanket at her waist, glaring at Saahidha with a cold, hostile stare, half her face in shadow, unmarked; Saahidha recoiling slightly, her soft smile freezing on her face",
+   "camera": "medium two-shot, eye level, faces in the upper two-thirds, a calm dark uncluttered lower third (blanket in shadow)",
+   "image": "images/beat_029.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": "other",
+   "safe_substitution": "hostility shown only by a cold stare",
+   "ambience": "haunted_room",
+   "shots": [
+    {
+     "id": "shot_074",
+     "startMs": 684678,
+     "endMs": 692108,
+     "narration_dhivehi": "ހަމަ އެއާއެކު ޔަމްނާ ފުންމައިގެން ތެދުވެ އެނދުމަތީ އިށީންދެއްޖެއެވެ. އަދި ރުޅިވެރިކަމާއެކު ސާހިދާގެ މޫނަށް ބަލައިލިއެވެ.",
+     "narration_english": "At that, Yamna jolted up and sat upright on the bed, and stared angrily into Saahidha's face.",
+     "crop": "full",
+     "motion": "pan left",
+     "sfx": [
+      {
+       "name": "cloth_rustle",
+       "atMs": 686818,
+       "gainDb": -18,
+       "word": "ތެދުވެ"
+      }
+     ],
+     "hum": true,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_075",
+     "startMs": 692108,
+     "endMs": 699598,
+     "narration_dhivehi": "ޔަމްނާގެ ތަބީޢަތަށް އައިސްފައިވާ ކުއްލި ބަދަލު ސާހިދާ ވަގުތުން ދެނެގަތެވެ. \"ދަރިފުޅު ނަމާދުކޮށްލައިގެން ނިދާލާނީ ދޯ!\"",
+     "narration_english": "Saahidha instantly sensed the sudden change in Yamna's nature. \"You'll pray and then go back to sleep, won't you, dear!\"",
+     "crop": "tight",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      40.6,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_076",
+     "startMs": 699598,
+     "endMs": 710159,
+     "narration_dhivehi": "ދަރިފުޅު ރުއްސާލުމުގެ ނިޔަތުގައި ސާހިދާ ބުނެލީ ވަރަށް އޯގާތެރިކަމާއެކުއެވެ. \"ކޮން ނަމާދެއްތަ؟ ކަލޭ ގޮސް ތި ކުރާ ކަމެއް ކޮށްބަލަ، މަށަށްކޮން ނޮހޮރޮއްޕާނެއްތަ؟\"",
+     "narration_english": "Saahidha said very tenderly, hoping to coax her child. \"What prayer? Go and do your own thing, what's it got to do with me?\"",
+     "crop": "full",
+     "motion": "pan right",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Yamna; reference image 2 is Saahidha), create a new scene: Cinematic semi-realistic digital illustration with a dark Maldivian horror-drama look, deep charcoal and smoky blue-grey shadows, cold misty moonlight and dim warm amber lamplight, drifting haze, high contrast with soft highlights, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, dark, uncluttered lower third (floor, sand, bedsheet edge, table top in soft shadow) for captions and a logo; a wealthy family's large modern house on a small Maldivian island with polished marble floors, white walls and dark wooden furniture, white sandy lanes, palms and a dark lagoon.\nScene: Yamna sitting bolt upright in bed in her lilac dress and white hijab, the blanket at her waist, glaring at Saahidha with a cold, hostile stare, half her face in shadow, unmarked; Saahidha recoiling slightly, her soft smile freezing on her face. Location: Yamna's spacious bedroom in the family's large modern island house: white walls, polished white marble floor, a big bed with white sheets and a pale headboard, a study desk with books and pens under the window, a tall dark-wood wardrobe, a glass sliding window beside the bed with a sheer white curtain, a round ceiling light. Camera: medium two-shot, eye level, faces in the upper two-thirds, a calm dark uncluttered lower third (blanket in shadow).\nCharacters: Yamna: a petite slim Maldivian girl of about 15 with warm brown skin, a soft round youthful face, large dark gentle eyes, thick dark eyebrows and a small nose; wears a loose long-sleeved ankle-length pale-lilac cotton dress and a plain white hijab wrapped snugly and fully covering her hair and neck. Saahidha: a Maldivian woman of about 40 with warm brown skin, a gentle oval face, dark expressive eyes, fine lines at the eyes and full lips; wears a loose long-sleeved ankle-length dark bottle-green dress with subtle embroidery at the cuffs and a beige hijab wrapped snugly and fully covering her hair and neck.\nMood/lighting: just before dawn, faint cold blue-grey light through the sheer curtain, one dim warm lamp, quiet and fragile, then a chill.\nModest Maldivian clothing (every woman and girl in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck, arms always covered; men in shirts and long trousers or a sarong, never shirtless), culturally respectful, no blood, no wounds, no scratches, no injuries, no gore, no weapons, no knives, no ropes, no restraints, no violence, nobody hurting anyone, no monster faces, no religious symbols, no written verses, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.053,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 80.1,
+    "y_pct": 29.5,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_030",
+   "startMs": 710159,
+   "endMs": 745280,
+   "new_image_reason": "action change: Saahidha, shaken, leaves the room as the voice echoes",
+   "characters": [
+    "saahidha",
+    "yamna"
+   ],
+   "location": "Yamna's spacious bedroom in the family's large modern island house: white walls, polished white marble floor, a big bed with white sheets and a pale headboard, a study desk with books and pens under the window, a tall dark-wood wardrobe, a glass sliding window beside the bed with a sheer white curtain, a round ceiling light",
+   "location_key": "yamna_room_dawn",
+   "mood": "just before dawn, faint cold blue-grey light through the sheer curtain, one dim warm lamp, quiet and fragile, then a chill",
+   "visual": "Saahidha in the doorway seen from the corridor, one hand gripping the door frame, the other pressed to her chest, trembling, eyes full of tears, about to step out; behind her in the dim room Yamna's dark silhouette sitting upright in bed, face in shadow, a cold blue haze around her",
+   "camera": "medium shot from the corridor, eye level, faces in the upper two-thirds, a calm dark uncluttered lower third (marble floor of the corridor)",
+   "image": "images/beat_030.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": "other",
+   "safe_substitution": "Yamna only as a silhouette",
+   "ambience": "haunted_room",
+   "shots": [
+    {
+     "id": "shot_077",
+     "startMs": 710159,
+     "endMs": 720579,
+     "narration_dhivehi": "ޔަމްނާގެ ޖަވާބާއެކު ސާހިދާގެ މެއަށް ހީވީ ހޫނު ފެންއެއްޗެއް އޮއްސާލިހެންނެވެ. އެ ދަރިފުޅަކީ ދުވަހަކުވެސް ސާހިދާގެ ކުރިމަތީ އަޑުގަދަކޮށް ވާހަކަދެއްކި ކުއްޖެއް ނޫނެވެ.",
+     "narration_english": "At Yamna's reply Saahidha felt as if boiling water had been poured over her heart. That child had never once raised her voice to Saahidha.",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": true,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_078",
+     "startMs": 720579,
+     "endMs": 726709,
+     "narration_dhivehi": "އޭނާއަށް ޔަގީންވަނީ އެދަރިފުޅުގެ ބަސްމަގާއި ރާގުގައި އެވަނީ އެ ދަރިފުޅުގެ ސިފަ ނޫން ކަމެވެ.",
+     "narration_english": "She was certain that the words and the tone were not her daughter's.",
+     "crop": "tight",
+     "motion": "pan up",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      0.0,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_079",
+     "startMs": 726709,
+     "endMs": 736769,
+     "narration_dhivehi": "އެ ދަރިފުޅުގެ ހަށިގަނޑު މިހާރު އެވަނީ ގޮތް ނޭނގޭ ބާރުގަދަ ރޫހާނީ މަޚްލޫގެއްގެ ގައިދުގައި ކަމެވެ. \"ހަމަ މިހާރު މިތަނުން ދާންއުޅޭ!\" ޔަމްނާގެ އަޑު ކޮޓަރިތެރޭ ގުގުމައިލިއެވެ.",
+     "narration_english": "Her daughter's body was now held captive by some unknown, powerful spirit creature. \"Get out of here right now!\" Yamna's voice echoed through the room.",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": true,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_080",
+     "startMs": 736769,
+     "endMs": 745280,
+     "narration_dhivehi": "ސާހިދާވެސް ދިޔައީ ސިއްސައިގެންނެވެ. ސާހިދާގެ ހިތަށް ކޮށްފައިވާ އަސަރާއެކު މަޑުމަޑުން ކޮޓަރިން ނިކުންނަން ހިނގައިގަތެވެ. (ނުނިމޭ)",
+     "narration_english": "Saahidha left trembling. With the blow her heart had taken, she slowly walked out of the room. (To be continued)",
+     "crop": "medium",
+     "motion": "pan down",
+     "sfx": [
+      {
+       "name": "door_close",
+       "atMs": 743499,
+       "gainDb": -22,
+       "word": "ހިނގައިގަތެވެ."
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      0.0,
+      0.0,
+      71.5,
+      84.7
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Saahidha; reference image 2 is Yamna), create a new scene: Cinematic semi-realistic digital illustration with a dark Maldivian horror-drama look, deep charcoal and smoky blue-grey shadows, cold misty moonlight and dim warm amber lamplight, drifting haze, high contrast with soft highlights, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, dark, uncluttered lower third (floor, sand, bedsheet edge, table top in soft shadow) for captions and a logo; a wealthy family's large modern house on a small Maldivian island with polished marble floors, white walls and dark wooden furniture, white sandy lanes, palms and a dark lagoon.\nScene: Saahidha in the doorway seen from the corridor, one hand gripping the door frame, the other pressed to her chest, trembling, eyes full of tears, about to step out; behind her in the dim room Yamna's dark silhouette sitting upright in bed, face in shadow, a cold blue haze around her. Location: Yamna's spacious bedroom in the family's large modern island house: white walls, polished white marble floor, a big bed with white sheets and a pale headboard, a study desk with books and pens under the window, a tall dark-wood wardrobe, a glass sliding window beside the bed with a sheer white curtain, a round ceiling light. Camera: medium shot from the corridor, eye level, faces in the upper two-thirds, a calm dark uncluttered lower third (marble floor of the corridor).\nCharacters: Saahidha: a Maldivian woman of about 40 with warm brown skin, a gentle oval face, dark expressive eyes, fine lines at the eyes and full lips; wears a loose long-sleeved ankle-length dark bottle-green dress with subtle embroidery at the cuffs and a beige hijab wrapped snugly and fully covering her hair and neck. Yamna: a petite slim Maldivian girl of about 15 with warm brown skin, a soft round youthful face, large dark gentle eyes, thick dark eyebrows and a small nose; wears a loose long-sleeved ankle-length pale-lilac cotton dress and a plain white hijab wrapped snugly and fully covering her hair and neck.\nMood/lighting: just before dawn, faint cold blue-grey light through the sheer curtain, one dim warm lamp, quiet and fragile, then a chill.\nModest Maldivian clothing (every woman and girl in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck, arms always covered; men in shirts and long trousers or a sarong, never shirtless), culturally respectful, no blood, no wounds, no scratches, no injuries, no gore, no weapons, no knives, no ropes, no restraints, no violence, nobody hurting anyone, no monster faces, no religious symbols, no written verses, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.077,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 27.2,
+    "y_pct": 20.9,
+    "face_detected": true
+   }
+  }
+ ]
+}

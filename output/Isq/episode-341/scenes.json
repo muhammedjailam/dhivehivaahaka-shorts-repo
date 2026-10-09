@@ -1,0 +1,2427 @@
+{
+ "series": "Isq",
+ "episode": 341,
+ "beats": [
+  {
+   "id": "beat_001",
+   "startMs": 0,
+   "endMs": 28081,
+   "new_image_reason": "episode opening: Malé, late night, Jaleel awake and restless in his dark bedroom",
+   "characters": [
+    "jaleel"
+   ],
+   "location": "Jaleel's dark, luxurious modern master bedroom high above Malé at night: black marble, a single gold lamp turned low, a deep dark leather armchair by floor-to-ceiling windows full of Malé's night lights, a tall glass sliding door with a sheer curtain leading to a balcony over a road",
+   "location_key": "male_bedroom",
+   "mood": "late night, Malé, one dim gold lamp and the cold blue glow of city lights through the windows, deep velvety shadows, heavy and lonely",
+   "visual": "Jaleel at home late at night, NOT in his suit: he wears only a soft plain dark-grey long-sleeved lounge shirt with the top button open and long dark trousers; no suit jacket, no blazer, no tie, no white shirt, no pocket square; his gold wristwatch, sitting alone in the deep dark armchair by the tall windows of the dim bedroom, leaning his head back, eyes closed, one hand pressed to his temple, a deep-thinking, troubled stern face; Malé's lights glitter through the glass behind him; nobody else is in the frame",
+   "camera": "medium shot, eye level, slightly from the side, faces in the upper two-thirds, a calm uncluttered lower third (dark marble floor in shadow)",
+   "image": "images/beat_001.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": "intimacy",
+   "safe_substitution": "the married couple's bed and his sleeping wife are not shown; Jaleel sits alone in an armchair, fully dressed",
+   "ambience": "room_night",
+   "shots": [
+    {
+     "id": "shot_001",
+     "startMs": 0,
+     "endMs": 10250,
+     "narration_dhivehi": "އެނދުގެ އެއްފަރާތުގައި ގައިގާ ރަޖާ އޮޅާލައިގެން ނިދީގެ އަރާމުކަމަށް ގެނބިފައި އޮތް ޝާލިޔާއަށް ޖަލީލް ބަލައިލިއެވެ. އެނދުން ތެދުވެ ހަށިގަނޑު ތެދުކޮށްލަމުން،",
+     "narration_english": "Jaleel looked at Shaaliya, lying on one side of the bed wrapped in a blanket, sunk in the comfort of sleep. Getting up from the bed and straightening his body,",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_002",
+     "startMs": 10250,
+     "endMs": 18380,
+     "narration_dhivehi": "އެނދުގެ ހެޑްބޯޑުގައި ޖަލީލް ލެނގިލިއެވެ. ކަމަކުން ހަމަޖެހިލާ މީހެއް ފަދައިން ފުންނޭވާއެއް ދޫކޮށްލަމުން ޖަލީލް ލޯ މަރައިލިއެވެ.",
+     "narration_english": "Jaleel leaned against the headboard. Letting out a deep breath like someone trying to calm himself, Jaleel closed his eyes.",
+     "crop": "tight",
+     "motion": "pan left",
+     "sfx": [
+      {
+       "name": "sigh",
+       "atMs": 15360,
+       "gainDb": -22,
+       "word": "ފުންނޭވާއެއް"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      12.0,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_003",
+     "startMs": 18380,
+     "endMs": 28081,
+     "narration_dhivehi": "ހީވީ ބޮޑު ފިކުރެއް ކުރަމުން ދިޔަހެނެވެ. ނުވަތަ ފިކުރުތަކަކުން ނިކުންނަން ބޭނުންވެފައި ހުރިހެންނެވެ. ހިނދުކޮޅަކު އެގޮތުގައި އިނުމަށްފަހު ޖަލީލް އެނދުން ތެދުވިއެވެ.",
+     "narration_english": "It seemed as if he were thinking over something big. Or as if he wanted to escape from his thoughts. After sitting like that for a moment, Jaleel got up.",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Yoosuf Jaleel), create a new scene: Cinematic semi-realistic digital illustration with a warm romantic-drama look, rich gold and amber tones, soft golden lamplight with deep velvety shadows, luminous warm tropical daylight, gentle film grain, soft bokeh, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, sand lane, table top, balcony railing in soft shadow) for captions and a logo; a small Maldivian local island of white sandy lanes, coral-stone walls, bougainvillea, palms and turquoise lagoon, and, in Malé, a wealthy family's dark modern home glowing with gold lamps and city lights.\nScene: Jaleel at home late at night, NOT in his suit: he wears only a soft plain dark-grey long-sleeved lounge shirt with the top button open and long dark trousers; no suit jacket, no blazer, no tie, no white shirt, no pocket square; his gold wristwatch, sitting alone in the deep dark armchair by the tall windows of the dim bedroom, leaning his head back, eyes closed, one hand pressed to his temple, a deep-thinking, troubled stern face; Malé's lights glitter through the glass behind him; nobody else is in the frame. Location: Jaleel's dark, luxurious modern master bedroom high above Malé at night: black marble, a single gold lamp turned low, a deep dark leather armchair by floor-to-ceiling windows full of Malé's night lights, a tall glass sliding door with a sheer curtain leading to a balcony over a road. Camera: medium shot, eye level, slightly from the side, faces in the upper two-thirds, a calm uncluttered lower third (dark marble floor in shadow).\nCharacters: Jaleel: a tall broad-shouldered athletic Maldivian man of 28 with wheatish warm-brown skin, a handsome strong face with a sharp defined jaw, intense dark eyes under straight heavy eyebrows, a neatly trimmed short black beard and thick slightly long black hair swept back to his collar; wears a tailored black suit over a crisp white long-sleeved shirt with a black tie, a white pocket square and a gold wristwatch.\nMood/lighting: late night, Malé, one dim gold lamp and the cold blue glow of city lights through the windows, deep velvety shadows, heavy and lonely.\nModest Maldivian clothing (every woman and girl in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck; men in shirts and long trousers, never shirtless, never in a towel), a clear respectful distance between unrelated men and women, nobody touching, culturally respectful, no cigarettes, no smoking, no violence, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.038,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 41.7,
+    "y_pct": 26.2,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_002",
+   "startMs": 28081,
+   "endMs": 52122,
+   "new_image_reason": "action change: he slides open the balcony door and steps out into the night breeze",
+   "characters": [
+    "jaleel"
+   ],
+   "location": "the balcony of Jaleel's dark, luxurious modern home high above Malé at night: a sleek dark glass-and-metal railing, the tall glass sliding door behind glowing faintly gold from a lamp inside, a road far below lit by streetlights, Malé's dense night skyline of lit apartment towers and city lights, the dark sea beyond the city's edge",
+   "location_key": "male_balcony",
+   "mood": "late night, Malé, silver moonlight and a sky full of stars, gold and amber city lights below, a cool damp breeze, deep velvety shadows, empty and melancholic",
+   "visual": "Jaleel at home late at night, NOT in his suit: he wears only a soft plain dark-grey long-sleeved lounge shirt with the top button open and long dark trousers; no suit jacket, no blazer, no tie, no white shirt, no pocket square; his gold wristwatch, stepping out through the tall glass sliding door onto the balcony, seen from behind at three-quarter view, the cool breeze stirring his swept-back hair and the sleeves of his fully buttoned shirt; ahead of him a big bright moon over Malé's glittering skyline",
+   "camera": "medium wide shot from behind, slightly low angle, the moon and skyline in the upper two-thirds, faces in the upper two-thirds, a calm uncluttered lower third (the dark balcony floor)",
+   "image": "images/beat_002.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": "clothing",
+   "safe_substitution": "the narration's breeze on his 'exposed body' is shown with Jaleel fully dressed in a long-sleeved shirt and long trousers",
+   "ambience": "balcony_night",
+   "shots": [
+    {
+     "id": "shot_004",
+     "startMs": 28081,
+     "endMs": 39731,
+     "narration_dhivehi": "އަދި ކޮޓަރިއާއި ގުޅިފައިވީ ބެލްކަނީގެ ދޮރު ކަހައިލަމުން ބޭރަށް ނިކުތެވެ. ޖެހެމުން ދިޔަ ތެތްފިނި ވައިރޯޅިތައް ހާމައަށް އޮތް ޖަލީލްގެ ހަށިގަނޑުގައި ބީހިލާފައި ސަމާސާ ކޮށްލިއެވެ.",
+     "narration_english": "And sliding open the door of the balcony attached to the room, he stepped outside. The cool, damp breeze blowing brushed against Jaleel's uncovered skin and played with it.",
+     "crop": "full",
+     "motion": "pan right",
+     "sfx": [
+      {
+       "name": "door_open",
+       "atMs": 31301,
+       "gainDb": -20,
+       "word": "ކަހައިލަމުން"
+      },
+      {
+       "name": "wind_gust",
+       "atMs": 34701,
+       "gainDb": -22,
+       "word": "ވައިރޯޅިތައް"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_005",
+     "startMs": 39731,
+     "endMs": 52122,
+     "narration_dhivehi": "ނަމަވެސް އެހިތްގައިމު މާހައުލާ އެ ޖެހެމުންދިޔަ ފިނި ފިނި ރޯޅިތަކާއި އުޑުގައި ހިނިތުންވެ އިނދެ ރަނިކަން ކުރަމުން ދިޔަ ރާނީއަށްވެސް ޖަލީލްގެ ހިތަށް ހަމަޖެހުމެއް ހޯދައި ދިނުމަށް ނުކުޅެދުނެވެ.",
+     "narration_english": "Yet neither that enchanting atmosphere, the cool breezes blowing, nor the queen of the night smiling and reigning in the sky could bring any peace to Jaleel's heart.",
+     "crop": "tight",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      20.3,
+      4.8,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [],
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.125,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 50.0,
+    "y_pct": 40.0,
+    "face_detected": false
+   }
+  },
+  {
+   "id": "beat_003",
+   "startMs": 52122,
+   "endMs": 76933,
+   "new_image_reason": "action change: hands on the railing, he stares down at the road (the cigarette is not shown)",
+   "characters": [
+    "jaleel"
+   ],
+   "location": "the balcony of Jaleel's dark, luxurious modern home high above Malé at night: a sleek dark glass-and-metal railing, the tall glass sliding door behind glowing faintly gold from a lamp inside, a road far below lit by streetlights, Malé's dense night skyline of lit apartment towers and city lights, the dark sea beyond the city's edge",
+   "location_key": "male_balcony",
+   "mood": "late night, Malé, silver moonlight and a sky full of stars, gold and amber city lights below, a cool damp breeze, deep velvety shadows, empty and melancholic",
+   "visual": "Jaleel at home late at night, NOT in his suit: he wears only a soft plain dark-grey long-sleeved lounge shirt with the top button open and long dark trousers; no suit jacket, no blazer, no tie, no white shirt, no pocket square; his gold wristwatch, leaning forward with both empty hands resting on the dark balcony railing, his face in profile, stern and hollow-eyed, staring down at the streetlit road far below; nothing in his hands, nothing at his lips; city lights soft behind",
+   "camera": "medium close-up from the side, eye level, faces in the upper two-thirds, a calm uncluttered lower third (the railing in soft shadow)",
+   "image": "images/beat_003.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": "other",
+   "safe_substitution": "the cigarette and smoke are never shown: his empty hands rest on the railing",
+   "ambience": "balcony_night",
+   "shots": [
+    {
+     "id": "shot_006",
+     "startMs": 52122,
+     "endMs": 63112,
+     "narration_dhivehi": "ރެއިލިންގައި ދެ އަތް އަޅުވައިލަމުން ހަށިފުރައި ނޭވާއެއް ޖަލީލް ދޫކޮށްލިއެވެ. އަދި އަތުގައި އޮތް ސިނގިރޭޓް ފޮށިން ސިނގިރޭޓެއް ނަގައި ތުނބުގައި ޖަހައި ރޯކޮށްލަމުން ދަމައިލިއެވެ.",
+     "narration_english": "Resting both hands on the railing, Jaleel let out a chest-filling breath. And taking a cigarette from the packet in his hand, he put it to his lips, lit it and drew on it.",
+     "crop": "full",
+     "motion": "pan up",
+     "sfx": [
+      {
+       "name": "breath_heavy",
+       "atMs": 54602,
+       "gainDb": -22,
+       "word": "ނޭވާއެއް"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_007",
+     "startMs": 63112,
+     "endMs": 76933,
+     "narration_dhivehi": "ދެފަހަރަކު ސިނގިރޭޓު އެތެރެއަށް ދަމައިލަމުން ފަޒާގެ ތެރެއަށް އޭގެ ދުންތައް ދޫކޮށްލިއެވެ. މޭގައި އަތް ހާކައިލަމުން ހިޔާލެއްގެ ތެރެއަށް ގެއްލުނުފަދަ ގޮތަކަށް ކުރިމަތީގައި އޮތް މަގުމައްޗަށް ބަލަހައްޓައިގެން ޖަލީލް ހުއްޓެވެ.",
+     "narration_english": "Drawing on the cigarette twice, he released its smoke into the air. Rubbing his chest, as if lost in a thought, Jaleel stood gazing at the road before him.",
+     "crop": "tight",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      20.3,
+      4.8,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Yoosuf Jaleel), create a new scene: Cinematic semi-realistic digital illustration with a warm romantic-drama look, rich gold and amber tones, soft golden lamplight with deep velvety shadows, luminous warm tropical daylight, gentle film grain, soft bokeh, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, sand lane, table top, balcony railing in soft shadow) for captions and a logo; a small Maldivian local island of white sandy lanes, coral-stone walls, bougainvillea, palms and turquoise lagoon, and, in Malé, a wealthy family's dark modern home glowing with gold lamps and city lights.\nScene: Jaleel at home late at night, NOT in his suit: he wears only a soft plain dark-grey long-sleeved lounge shirt with the top button open and long dark trousers; no suit jacket, no blazer, no tie, no white shirt, no pocket square; his gold wristwatch, leaning forward with both empty hands resting on the dark balcony railing, his face in profile, stern and hollow-eyed, staring down at the streetlit road far below; nothing in his hands, nothing at his lips; city lights soft behind. Location: the balcony of Jaleel's dark, luxurious modern home high above Malé at night: a sleek dark glass-and-metal railing, the tall glass sliding door behind glowing faintly gold from a lamp inside, a road far below lit by streetlights, Malé's dense night skyline of lit apartment towers and city lights, the dark sea beyond the city's edge. Camera: medium close-up from the side, eye level, faces in the upper two-thirds, a calm uncluttered lower third (the railing in soft shadow).\nCharacters: Jaleel: a tall broad-shouldered athletic Maldivian man of 28 with wheatish warm-brown skin, a handsome strong face with a sharp defined jaw, intense dark eyes under straight heavy eyebrows, a neatly trimmed short black beard and thick slightly long black hair swept back to his collar; wears a tailored black suit over a crisp white long-sleeved shirt with a black tie, a white pocket square and a gold wristwatch.\nMood/lighting: late night, Malé, silver moonlight and a sky full of stars, gold and amber city lights below, a cool damp breeze, deep velvety shadows, empty and melancholic.\nModest Maldivian clothing (every woman and girl in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck; men in shirts and long trousers, never shirtless, never in a towel), a clear respectful distance between unrelated men and women, nobody touching, culturally respectful, no cigarettes, no smoking, no violence, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.122,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 50.0,
+    "y_pct": 40.0,
+    "face_detected": false
+   }
+  },
+  {
+   "id": "beat_004",
+   "startMs": 76933,
+   "endMs": 107714,
+   "new_image_reason": "framing change: his inner reflection — 28, rich and powerful, yet empty",
+   "characters": [
+    "jaleel"
+   ],
+   "location": "the balcony of Jaleel's dark, luxurious modern home high above Malé at night: a sleek dark glass-and-metal railing, the tall glass sliding door behind glowing faintly gold from a lamp inside, a road far below lit by streetlights, Malé's dense night skyline of lit apartment towers and city lights, the dark sea beyond the city's edge",
+   "location_key": "male_balcony",
+   "mood": "late night, Malé, silver moonlight and a sky full of stars, gold and amber city lights below, a cool damp breeze, deep velvety shadows, empty and melancholic",
+   "visual": "close-up of Jaleel at home late at night, NOT in his suit: he wears only a soft plain dark-grey long-sleeved lounge shirt with the top button open and long dark trousers; no suit jacket, no blazer, no tie, no white shirt, no pocket square; his gold wristwatch: his handsome bearded face lit by silver moonlight from one side and the gold glow of the lamp behind from the other, eyes heavy with an emptiness he cannot explain, jaw set; his hand with the gold wristwatch resting on the railing in the lower part of the frame",
+   "camera": "close-up, eye level, faces in the upper two-thirds, a calm uncluttered lower third (the railing and his wrist in soft shadow)",
+   "image": "images/beat_004.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "balcony_night",
+   "shots": [
+    {
+     "id": "shot_008",
+     "startMs": 76933,
+     "endMs": 88463,
+     "narration_dhivehi": "އުމުރުން އަށާވީސް އަހަރު ވީއިރުވެސް، މީހަކާއި އިނދެވުނު އިރުވެސް އަދިވެސް ހިތަށް ލިބެންވީ ހަމަޖެހުން ނުލިބިގެން މިއުޅެނީ ކީއްވެ ކަމެއް ހަމަ އެއްގޮތަކަށްވެސް ޖަލީލްއަކަށް ނުވިސްނުނެވެ.",
+     "narration_english": "Even at twenty-eight, even after marrying, Jaleel could not understand at all why he still could not find the peace his heart ought to have.",
+     "crop": "full",
+     "motion": "pan down",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_009",
+     "startMs": 88463,
+     "endMs": 98524,
+     "narration_dhivehi": "ފައިސާއާއި މުދަލާއި ބާރާއި ނުފޫޒު ޖަލީލްގެ އަތުގައި އެބައޮތެވެ. ދުނިޔޭގެ ތެރެއިން ކޮންމެ ތާކުން ބޭނުން ކަމެއް ވާން އެބަ އޮތެވެ. ބޭނުން އަންހެން ކުއްޖެއް ލިބެން އެބަ އޮތެވެ.",
+     "narration_english": "Money, wealth, power and influence are all in Jaleel's hands. Anything he wants, from anywhere in the world, can be his. Any girl he wants can be his.",
+     "crop": "tight",
+     "motion": "static drift",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      12.4,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_010",
+     "startMs": 98524,
+     "endMs": 107714,
+     "narration_dhivehi": "ޖަހާލާ އެންމެ ފުއްޓަތްކަކުން ކަންކަން ނިމޭހާ ބާރާއި ފައިސާ ޖަލީލްގެ އަތުގައި އެބަހުއްޓެވެ. ނަމަވެސް...... ޝާލިޔާއަކީ ރީތި ރަނގަޅު އަންބެކެވެ.",
+     "narration_english": "Jaleel holds power and money enough to settle matters with a single snap of his fingers. And yet... Shaaliya is a beautiful, good wife.",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Yoosuf Jaleel), create a new scene: Cinematic semi-realistic digital illustration with a warm romantic-drama look, rich gold and amber tones, soft golden lamplight with deep velvety shadows, luminous warm tropical daylight, gentle film grain, soft bokeh, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, sand lane, table top, balcony railing in soft shadow) for captions and a logo; a small Maldivian local island of white sandy lanes, coral-stone walls, bougainvillea, palms and turquoise lagoon, and, in Malé, a wealthy family's dark modern home glowing with gold lamps and city lights.\nScene: close-up of Jaleel at home late at night, NOT in his suit: he wears only a soft plain dark-grey long-sleeved lounge shirt with the top button open and long dark trousers; no suit jacket, no blazer, no tie, no white shirt, no pocket square; his gold wristwatch: his handsome bearded face lit by silver moonlight from one side and the gold glow of the lamp behind from the other, eyes heavy with an emptiness he cannot explain, jaw set; his hand with the gold wristwatch resting on the railing in the lower part of the frame. Location: the balcony of Jaleel's dark, luxurious modern home high above Malé at night: a sleek dark glass-and-metal railing, the tall glass sliding door behind glowing faintly gold from a lamp inside, a road far below lit by streetlights, Malé's dense night skyline of lit apartment towers and city lights, the dark sea beyond the city's edge. Camera: close-up, eye level, faces in the upper two-thirds, a calm uncluttered lower third (the railing and his wrist in soft shadow).\nCharacters: Jaleel: a tall broad-shouldered athletic Maldivian man of 28 with wheatish warm-brown skin, a handsome strong face with a sharp defined jaw, intense dark eyes under straight heavy eyebrows, a neatly trimmed short black beard and thick slightly long black hair swept back to his collar; wears a tailored black suit over a crisp white long-sleeved shirt with a black tie, a white pocket square and a gold wristwatch.\nMood/lighting: late night, Malé, silver moonlight and a sky full of stars, gold and amber city lights below, a cool damp breeze, deep velvety shadows, empty and melancholic.\nModest Maldivian clothing (every woman and girl in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck; men in shirts and long trousers, never shirtless, never in a towel), a clear respectful distance between unrelated men and women, nobody touching, culturally respectful, no cigarettes, no smoking, no violence, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.078,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 42.1,
+    "y_pct": 27.6,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_005",
+   "startMs": 107714,
+   "endMs": 138396,
+   "new_image_reason": "framing change: the emptiness and darkness ahead — a lone figure under the stars and moon",
+   "characters": [],
+   "location": "the balcony of Jaleel's dark, luxurious modern home high above Malé at night: a sleek dark glass-and-metal railing, the tall glass sliding door behind glowing faintly gold from a lamp inside, a road far below lit by streetlights, Malé's dense night skyline of lit apartment towers and city lights, the dark sea beyond the city's edge",
+   "location_key": "male_balcony",
+   "mood": "late night, Malé, silver moonlight and a sky full of stars, gold and amber city lights below, a cool damp breeze, deep velvety shadows, empty and melancholic",
+   "visual": "a wide view from behind and above: a tall broad-shouldered man in a dark-grey long-sleeved shirt and long dark trousers standing small and alone at the railing of a high balcony, looking out over the vast dark city and the black sea beyond; above him a velvet-black sky scattered with countless glittering stars like little pearls and a bright moon; his face is not seen",
+   "camera": "wide shot from behind, slightly high angle, the starry sky and moon in the upper two-thirds, the dark balcony floor and railing as the calm lower third",
+   "image": "images/beat_005.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "balcony_night",
+   "shots": [
+    {
+     "id": "shot_011",
+     "startMs": 107714,
+     "endMs": 118805,
+     "narration_dhivehi": "މައިންބަފައިންގެ ހޮވުން ގޯހެއް ނޫނެވެ. ހުރިހާ ގޮތަކުން ވެސް ފުރިހަމައެވެ. އެހެން ނަމަވެސް ކޮންމެވެސް އެއްޗެއް ނުވަތަ ކަމެއް ހަޔާތުން މަދުވާ ކަމުގެ އިހުސާސް ކުރެވެނީ ކީއްވެ ހެއްޔެވެ؟",
+     "narration_english": "His parents' choice was not a bad one. She is perfect in every way. Even so, why does he feel that something, some thing, is missing from his life?",
+     "crop": "full",
+     "motion": "pan left",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_012",
+     "startMs": 118805,
+     "endMs": 127165,
+     "narration_dhivehi": "ހިތުގައި ނުފިލައި ހުސްކަމެއް ހުންނަނީ ކީއްވެ ހެއްޔެވެ؟ ރާސްތާ ނުފެންނަފަދަ އަނދިރިކަމެއް ކުރިމަތީގައި ވާހެން ހީވަނީ ކީއްވެ ހެއްޔެވެ؟",
+     "narration_english": "Why is there an emptiness in his heart that will not fade? Why does it feel as if a darkness lies ahead in which no road can be seen?",
+     "crop": "tight",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": true,
+     "crop_rect_pct": [
+      20.3,
+      4.8,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_013",
+     "startMs": 127165,
+     "endMs": 138396,
+     "narration_dhivehi": "ކަޅު ސާލެއްގައި ކުދިކުދި މުތީތަކެއް ވާ ފަދައިން ތަރިތައް އުޑުގައި ވިދައި ބަބުޅަމުން ދިޔައެވެ. ރޭގަނޑު ރާނީ އޭގެ ވާޖިބު އަދާ ކުރުމުގައި އަވަދިނެތި އުޑުގައި ވިދައި ބަބުޅަން ހުއްޓެވެ.",
+     "narration_english": "Like little pearls on a black shawl, the stars twinkled and glittered in the sky. The queen of the night stood shining in the sky, tireless in doing her duty.",
+     "crop": "full",
+     "motion": "pan right",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Cinematic semi-realistic digital illustration with a warm romantic-drama look, rich gold and amber tones, soft golden lamplight with deep velvety shadows, luminous warm tropical daylight, gentle film grain, soft bokeh, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, sand lane, table top, balcony railing in soft shadow) for captions and a logo; a small Maldivian local island of white sandy lanes, coral-stone walls, bougainvillea, palms and turquoise lagoon, and, in Malé, a wealthy family's dark modern home glowing with gold lamps and city lights.\nScene: a wide view from behind and above: a tall broad-shouldered man in a dark-grey long-sleeved shirt and long dark trousers standing small and alone at the railing of a high balcony, looking out over the vast dark city and the black sea beyond; above him a velvet-black sky scattered with countless glittering stars like little pearls and a bright moon; his face is not seen. Location: the balcony of Jaleel's dark, luxurious modern home high above Malé at night: a sleek dark glass-and-metal railing, the tall glass sliding door behind glowing faintly gold from a lamp inside, a road far below lit by streetlights, Malé's dense night skyline of lit apartment towers and city lights, the dark sea beyond the city's edge. Camera: wide shot from behind, slightly high angle, the starry sky and moon in the upper two-thirds, the dark balcony floor and railing as the calm lower third.\nMood/lighting: late night, Malé, silver moonlight and a sky full of stars, gold and amber city lights below, a cool damp breeze, deep velvety shadows, empty and melancholic.\nModest Maldivian clothing (every woman and girl in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck; men in shirts and long trousers, never shirtless, never in a towel), a clear respectful distance between unrelated men and women, nobody touching, culturally respectful, no cigarettes, no smoking, no violence, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.097,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 50.0,
+    "y_pct": 40.0,
+    "face_detected": false
+   }
+  },
+  {
+   "id": "beat_006",
+   "startMs": 138396,
+   "endMs": 148136,
+   "new_image_reason": "scene change: the island at night, the plane lands on the enlarged runway under the moon",
+   "characters": [],
+   "location": "the newly enlarged small airport of a Maldivian local island at night: a long freshly extended runway edged with rows of runway lights, a modern low white terminal building with a lit glass front, a few palms, the dark lagoon beyond",
+   "location_key": "runway",
+   "mood": "night, a bright moon lighting up the horizon, deep indigo sky with stars, glittering amber runway lights, a hopeful homecoming",
+   "visual": "a small white passenger plane with plain unmarked livery touching down on the long lit runway of the small island airport at night, landing lights on, a bright moon low over the horizon silvering the lagoon, palms in silhouette; no people",
+   "camera": "wide shot, eye level, the plane, moon and sky in the upper two-thirds, the dark runway tarmac with its lights as the calm lower third",
+   "image": "images/beat_006.png",
+   "reuse_of": null,
+   "transition_in": "dissolve",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "airport",
+   "shots": [
+    {
+     "id": "shot_014",
+     "startMs": 138396,
+     "endMs": 148136,
+     "narration_dhivehi": "ހަނދުގެ ނަލަ ނަލަ ހަނދުވަރުން ވަނީ އުދުމަތި އެކަށް ހުޅުދާން ކޮށްފައެވެ. މަތިންދާބޯޓު ރަންވޭގައި ޖެއްސުމާއި އެކު މީހުންތައް ގޮނޑި ގޮނޑިން ތެދުވަން ފަށައިފިއެވެ.",
+     "narration_english": "The moon's lovely light had lit up the whole horizon. As the plane touched down on the runway, people began to get up from their seats.",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [
+      {
+       "name": "plane_pass",
+       "atMs": 144446,
+       "gainDb": -16,
+       "word": "ޖެއްސުމާއި"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Cinematic semi-realistic digital illustration with a warm romantic-drama look, rich gold and amber tones, soft golden lamplight with deep velvety shadows, luminous warm tropical daylight, gentle film grain, soft bokeh, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, sand lane, table top, balcony railing in soft shadow) for captions and a logo; a small Maldivian local island of white sandy lanes, coral-stone walls, bougainvillea, palms and turquoise lagoon, and, in Malé, a wealthy family's dark modern home glowing with gold lamps and city lights.\nScene: a small white passenger plane with plain unmarked livery touching down on the long lit runway of the small island airport at night, landing lights on, a bright moon low over the horizon silvering the lagoon, palms in silhouette; no people. Location: the newly enlarged small airport of a Maldivian local island at night: a long freshly extended runway edged with rows of runway lights, a modern low white terminal building with a lit glass front, a few palms, the dark lagoon beyond. Camera: wide shot, eye level, the plane, moon and sky in the upper two-thirds, the dark runway tarmac with its lights as the calm lower third.\nMood/lighting: night, a bright moon lighting up the horizon, deep indigo sky with stars, glittering amber runway lights, a hopeful homecoming.\nModest Maldivian clothing (every woman and girl in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck; men in shirts and long trousers, never shirtless, never in a towel), a clear respectful distance between unrelated men and women, nobody touching, culturally respectful, no cigarettes, no smoking, no violence, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.089,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 73.6,
+    "y_pct": 39.3,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_007",
+   "startMs": 148136,
+   "endMs": 174627,
+   "new_image_reason": "character enters: Maura steps off the plane and looks around amazed at the enlarged airport",
+   "characters": [
+    "maura"
+   ],
+   "location": "the apron of the newly enlarged small island airport at night: a small white passenger plane with plain unmarked livery parked with its boarding stairs down, the modern low white terminal with a warmly lit glass front, apron floodlights, palms at the edge",
+   "location_key": "apron",
+   "mood": "night, warm floodlights and the golden glow of the terminal under a deep indigo moonlit sky, fresh and wondering",
+   "visual": "Maura in her white lace dress and white hijab with a small white frangipani, a small handbag on her shoulder, standing at the foot of the plane's boarding stairs behind a few other passengers walking ahead, looking around with wide, amazed eyes and parted lips at the new terminal and the long lit runway",
+   "camera": "medium wide shot, eye level, faces in the upper two-thirds, a calm uncluttered lower third (floodlit tarmac)",
+   "image": "images/beat_007.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "airport",
+   "shots": [
+    {
+     "id": "shot_015",
+     "startMs": 148136,
+     "endMs": 156177,
+     "narration_dhivehi": "މައުރާވެސް ހެޑްސެޓް އަތްދަބަހަށް ލަމުން ފޯނު ޖީބަށް ޖަހައިލަމުން ގޮނޑިން ތެދުވިއެވެ. މީހުންތަކުގެ ފަހަތުން މައުރާ ބޯޓުން ފޭބިއެވެ.",
+     "narration_english": "Maura too put her headset into her handbag, slipped her phone into her pocket and rose from her seat. Behind the other passengers, Maura stepped off the plane.",
+     "crop": "full",
+     "motion": "pan up",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_016",
+     "startMs": 156177,
+     "endMs": 166217,
+     "narration_dhivehi": "ވަށައިގެން ނަޒަރު ހިންގައިލީ ހައިރާންވެފައެވެ. ރަށަށް އައިސްފައިވީ ތަރައްޤީ ގަބޫލު ނުކުރެވިގެން ކަހަލައެވެ. ރަށުގެ އެއާޕޯޓު ބޮޑުކުރެވި ރަންވޭވެސް ވަނީ ބޮޑު ކުރެވިފައެވެ.",
+     "narration_english": "She looked all around in amazement, as if she could not believe the development that had come to the island. The island's airport had been enlarged and the runway extended too.",
+     "crop": "tight",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      10.7,
+      3.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_017",
+     "startMs": 166217,
+     "endMs": 174627,
+     "narration_dhivehi": "އަހަރުތަކެއް ކުރިން މައުރާ މިރަށުން ދިޔައިރު އެއާޕޯޓު އޮތް ގޮތާއި މިހާރު ފެންނަ ގޮތް މީހަކު ހައިރާންވާހާ ތަފާތުވެފައި ފުރިހަމަ އެވެ.",
+     "narration_english": "Compared with how the airport looked years ago when Maura left this island, what she saw now was so different and complete that it would amaze anyone.",
+     "crop": "full",
+     "motion": "pan down",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Maura), create a new scene: Cinematic semi-realistic digital illustration with a warm romantic-drama look, rich gold and amber tones, soft golden lamplight with deep velvety shadows, luminous warm tropical daylight, gentle film grain, soft bokeh, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, sand lane, table top, balcony railing in soft shadow) for captions and a logo; a small Maldivian local island of white sandy lanes, coral-stone walls, bougainvillea, palms and turquoise lagoon, and, in Malé, a wealthy family's dark modern home glowing with gold lamps and city lights.\nScene: Maura in her white lace dress and white hijab with a small white frangipani, a small handbag on her shoulder, standing at the foot of the plane's boarding stairs behind a few other passengers walking ahead, looking around with wide, amazed eyes and parted lips at the new terminal and the long lit runway. Location: the apron of the newly enlarged small island airport at night: a small white passenger plane with plain unmarked livery parked with its boarding stairs down, the modern low white terminal with a warmly lit glass front, apron floodlights, palms at the edge. Camera: medium wide shot, eye level, faces in the upper two-thirds, a calm uncluttered lower third (floodlit tarmac).\nCharacters: Maura: a petite slim Maldivian young woman of about 22 with fair light warm-brown skin, a soft round innocent face, large bright dark eyes, gently arched eyebrows, a small nose and a shy sweet smile; wears a loose long-sleeved ankle-length white dress with delicate lace sleeves and a plain white hijab wrapped snugly and fully covering her hair and neck, with a small white frangipani flower pinned at the side of the hijab.\nMood/lighting: night, warm floodlights and the golden glow of the terminal under a deep indigo moonlit sky, fresh and wondering.\nModest Maldivian clothing (every woman and girl in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck; men in shirts and long trousers, never shirtless, never in a towel), a clear respectful distance between unrelated men and women, nobody touching, culturally respectful, no cigarettes, no smoking, no violence, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "black",
+    "bg_luminance": 0.777,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 40.4,
+    "y_pct": 38.2,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_008",
+   "startMs": 174627,
+   "endMs": 185268,
+   "new_image_reason": "character enters: heavily pregnant Reema walks towards her through the arrivals walkway",
+   "characters": [
+    "reema",
+    "maura"
+   ],
+   "location": "outside the arrivals exit of the new small island airport terminal at night: a covered walkway with warm lights, a few travellers with luggage trolleys, potted palms, white pillars, the dark sky beyond",
+   "location_key": "arrivals",
+   "mood": "night, warm golden walkway lights against the dark tropical sky, joyful and tender",
+   "visual": "Reema, eight months pregnant with a modest rounded bump under her loose sage-green dress, walking slowly and heavily towards the camera along the lit arrivals walkway with one hand under her bump and a huge happy smile; in the foreground Maura seen from behind over her shoulder pulling a wheeled suitcase, her white hijab with the frangipani",
+   "camera": "medium shot over Maura's shoulder, eye level, faces in the upper two-thirds, a calm uncluttered lower third (the tiled walkway floor)",
+   "image": "images/beat_008.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "airport",
+   "shots": [
+    {
+     "id": "shot_018",
+     "startMs": 174627,
+     "endMs": 185268,
+     "narration_dhivehi": "ލަގެޖް ދަމަމުން މީހުންތަކުގެ ތެރެއިން ނިކުތް މައުރާގެ ލޮލުގައި އަޅައިގަތީ އަށްމަހުގެ ބަނޑާއިއެކުގައި ބަރުހެލި ގޮތަކަށް ހިނގަމުން މައުރާއާއި ދިމާއަށް އައި ރީމާއެވެ.",
+     "narration_english": "Pulling her luggage, as Maura came out from among the crowd, her eyes fell on Reema, walking heavily towards her with her eight-month belly.",
+     "crop": "full",
+     "motion": "static drift",
+     "sfx": [
+      {
+       "name": "footsteps_pavement",
+       "atMs": 174967,
+       "gainDb": -24,
+       "word": "ދަމަމުން"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Reema; reference image 2 is Maura), create a new scene: Cinematic semi-realistic digital illustration with a warm romantic-drama look, rich gold and amber tones, soft golden lamplight with deep velvety shadows, luminous warm tropical daylight, gentle film grain, soft bokeh, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, sand lane, table top, balcony railing in soft shadow) for captions and a logo; a small Maldivian local island of white sandy lanes, coral-stone walls, bougainvillea, palms and turquoise lagoon, and, in Malé, a wealthy family's dark modern home glowing with gold lamps and city lights.\nScene: Reema, eight months pregnant with a modest rounded bump under her loose sage-green dress, walking slowly and heavily towards the camera along the lit arrivals walkway with one hand under her bump and a huge happy smile; in the foreground Maura seen from behind over her shoulder pulling a wheeled suitcase, her white hijab with the frangipani. Location: outside the arrivals exit of the new small island airport terminal at night: a covered walkway with warm lights, a few travellers with luggage trolleys, potted palms, white pillars, the dark sky beyond. Camera: medium shot over Maura's shoulder, eye level, faces in the upper two-thirds, a calm uncluttered lower third (the tiled walkway floor).\nCharacters: Reema: a Maldivian woman of about 28 with warm brown skin, a friendly round face with full cheeks and laughing dark eyes, eight months pregnant with a modest rounded bump; wears a loose long-sleeved ankle-length sage-green maternity dress and a dusty-pink hijab fully covering her hair and neck. Maura: a petite slim Maldivian young woman of about 22 with fair light warm-brown skin, a soft round innocent face, large bright dark eyes, gently arched eyebrows, a small nose and a shy sweet smile; wears a loose long-sleeved ankle-length white dress with delicate lace sleeves and a plain white hijab wrapped snugly and fully covering her hair and neck, with a small white frangipani flower pinned at the side of the hijab.\nMood/lighting: night, warm golden walkway lights against the dark tropical sky, joyful and tender.\nModest Maldivian clothing (every woman and girl in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck; men in shirts and long trousers, never shirtless, never in a towel), a clear respectful distance between unrelated men and women, nobody touching, culturally respectful, no cigarettes, no smoking, no violence, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.521,
+    "halo": true
+   },
+   "focus": {
+    "x_pct": 25.5,
+    "y_pct": 32.7,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_009",
+   "startMs": 185268,
+   "endMs": 218309,
+   "new_image_reason": "action change: the sisters hug and tease each other",
+   "characters": [
+    "maura",
+    "reema"
+   ],
+   "location": "outside the arrivals exit of the new small island airport terminal at night: a covered walkway with warm lights, a few travellers with luggage trolleys, potted palms, white pillars, the dark sky beyond",
+   "location_key": "arrivals",
+   "mood": "night, warm golden walkway lights against the dark tropical sky, joyful and tender",
+   "visual": "Maura happily hugging her pregnant elder sister Reema from the side, leaning in around Reema's rounded bump, both laughing with joy, Maura's wheeled suitcase standing beside them; then teasing faces",
+   "camera": "medium shot, eye level, faces in the upper two-thirds, a calm uncluttered lower third (the tiled walkway floor and the suitcase)",
+   "image": "images/beat_009.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "airport",
+   "shots": [
+    {
+     "id": "shot_019",
+     "startMs": 185268,
+     "endMs": 196238,
+     "narration_dhivehi": "\" ދޮންތާ.....\" ކުޑަކޮށް ދުވެލާފައި އައިސް މައުރާ ރީމާގެ ގައިގާ ބައްދައިލިއެވެ. ރީމާގެ ބަނޑު ދިއްވެފައި ހުރިވަރުން ބޭނުންވިހައި ގާތް ކޮށްނުލެވުނު ކަމުގައި ވިޔަސް މައުރާ ނުހަނު ބާރަށް",
+     "narration_english": "\"Dhontha...!\" Running a little, Maura came and hugged Reema. Though Reema's swollen belly kept her from holding her as close as she wanted, Maura very tightly",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [
+      {
+       "name": "footsteps_pavement",
+       "atMs": 186728,
+       "gainDb": -24,
+       "word": "ދުވެލާފައި"
+      },
+      {
+       "name": "cloth_rustle",
+       "atMs": 189068,
+       "gainDb": -24,
+       "word": "ބައްދައިލިއެވެ."
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_020",
+     "startMs": 196238,
+     "endMs": 206289,
+     "narration_dhivehi": "ރީމާގެ ގައިގާ ހިފަހައްޓައިލިއެވެ. \" މައޫ.... އަޅެ ހާދަ ރީއްޗޭ މިހާރު... ހާދަ ބޮޑު ވެއްޖޭ.....\" ރީމާ މައުރާ ގަޔާއި ދުރުކޮށްލަމުން ހިނިތުންވެފައި ބުނެލިއެވެ.",
+     "narration_english": "held on to Reema. \"Maoo... oh, how pretty you are now... how grown up you've become!\" Reema said, smiling, as she drew back from Maura.",
+     "crop": "tight",
+     "motion": "pan left",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      30.0,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_021",
+     "startMs": 206289,
+     "endMs": 218309,
+     "narration_dhivehi": "\" އަހަރެން އެކަނިތަ... ބަލާ ދޮންތަ ހުރި ގޮތް... އެކަށް ފުފިފަ... \" ސަކަ ގޮތަކަށް މައުރާ ބުނެލިއެވެ. އެހިނދު ރީމާގެ ފުރަގަހުގައި އައިސް ހުއްޓިލި ރީމާގެ ފިރިމީހާ އައްސަދު މައުރާއަށް ފެނުނެވެ.",
+     "narration_english": "\"Only me? Look at you, Dhontha... all puffed up!\" Maura said playfully. Just then Maura noticed Reema's husband Assad, who had come and stopped behind Reema.",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Maura; reference image 2 is Reema), create a new scene: Cinematic semi-realistic digital illustration with a warm romantic-drama look, rich gold and amber tones, soft golden lamplight with deep velvety shadows, luminous warm tropical daylight, gentle film grain, soft bokeh, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, sand lane, table top, balcony railing in soft shadow) for captions and a logo; a small Maldivian local island of white sandy lanes, coral-stone walls, bougainvillea, palms and turquoise lagoon, and, in Malé, a wealthy family's dark modern home glowing with gold lamps and city lights.\nScene: Maura happily hugging her pregnant elder sister Reema from the side, leaning in around Reema's rounded bump, both laughing with joy, Maura's wheeled suitcase standing beside them; then teasing faces. Location: outside the arrivals exit of the new small island airport terminal at night: a covered walkway with warm lights, a few travellers with luggage trolleys, potted palms, white pillars, the dark sky beyond. Camera: medium shot, eye level, faces in the upper two-thirds, a calm uncluttered lower third (the tiled walkway floor and the suitcase).\nCharacters: Maura: a petite slim Maldivian young woman of about 22 with fair light warm-brown skin, a soft round innocent face, large bright dark eyes, gently arched eyebrows, a small nose and a shy sweet smile; wears a loose long-sleeved ankle-length white dress with delicate lace sleeves and a plain white hijab wrapped snugly and fully covering her hair and neck, with a small white frangipani flower pinned at the side of the hijab. Reema: a Maldivian woman of about 28 with warm brown skin, a friendly round face with full cheeks and laughing dark eyes, eight months pregnant with a modest rounded bump; wears a loose long-sleeved ankle-length sage-green maternity dress and a dusty-pink hijab fully covering her hair and neck.\nMood/lighting: night, warm golden walkway lights against the dark tropical sky, joyful and tender.\nModest Maldivian clothing (every woman and girl in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck; men in shirts and long trousers, never shirtless, never in a towel), a clear respectful distance between unrelated men and women, nobody touching, culturally respectful, no cigarettes, no smoking, no violence, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.419,
+    "halo": true
+   },
+   "focus": {
+    "x_pct": 59.7,
+    "y_pct": 18.4,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_010",
+   "startMs": 218309,
+   "endMs": 248341,
+   "new_image_reason": "character enters: Assad stops behind Reema; Maura looks around for the others",
+   "characters": [
+    "maura",
+    "reema",
+    "assad"
+   ],
+   "location": "outside the arrivals exit of the new small island airport terminal at night: a covered walkway with warm lights, a few travellers with luggage trolleys, potted palms, white pillars, the dark sky beyond",
+   "location_key": "arrivals",
+   "mood": "night, warm golden walkway lights against the dark tropical sky, joyful and tender",
+   "visual": "the three standing in the lit arrivals walkway: Reema laughing in front, her husband Assad standing just behind her with a friendly grin, and Maura a clear arm's-length away from Assad, smiling at him politely while craning her neck to look past them as if searching for someone",
+   "camera": "medium wide shot, eye level, faces in the upper two-thirds, a calm uncluttered lower third (tiled floor)",
+   "image": "images/beat_010.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "airport",
+   "shots": [
+    {
+     "id": "shot_022",
+     "startMs": 218309,
+     "endMs": 227310,
+     "narration_dhivehi": "އައްސަދަށް ހިނިތުންވުމެއް ދެމުން މައުރާ ކޮޅުކޮޅު މައްޗަށް ބަލައިލީ އެއްޗެއް ހޯދާ ފަދަ ގޮތަކަށެވެ. \" އެހެން މީހެއް ނާދޭތަ... ކޮބާ މަންމަމެން.....\"",
+     "narration_english": "Giving Assad a smile, Maura looked up and down as if searching for something. \"Didn't anyone else come? Where are Mum and the others?\"",
+     "crop": "full",
+     "motion": "pan right",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_023",
+     "startMs": 227310,
+     "endMs": 237190,
+     "narration_dhivehi": "މައުރާ އަހައިލިއެވެ. \" ނާދެވޭނުން... މައު އަންނަންވާއިރަށް މަންމަ އެބައުޅޭ ސައި ހަދަން... ގޭދޮށު އެންމެން ހެން އެއްކޮށްލައިގެން މަންމަ އެބައުޅޭ....",
+     "narration_english": "Maura asked. \"They couldn't come... Mum is busy making tea for when you arrive... she's gathered just about all the neighbours...",
+     "crop": "tight",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      4.2,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_024",
+     "startMs": 237190,
+     "endMs": 248341,
+     "narration_dhivehi": "މައުގެ ޑައިޓް ކަޓާނެ އިނގޭ މިފަހަރު....\" ރީމާ ހިނިއައިސްފައި ބުނެލިއެވެ. \" އަޅޭ... މަންމަ އެއުޅެނީ އަހަރެން އިތުރަށް ފަލަ ކޮށްލަން ވެގެން...ޒަމާން ދިޔައީނުން މިވީ ގޮތުން....\"",
+     "narration_english": "Your diet's going to be ruined this time, you know,\" Reema said, laughing. \"Oh no... Mum just wants to fatten me up even more... because it's been ages, that's why...\"",
+     "crop": "full",
+     "motion": "pan up",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Maura; reference image 2 is Reema; reference image 3 is Assad), create a new scene: Cinematic semi-realistic digital illustration with a warm romantic-drama look, rich gold and amber tones, soft golden lamplight with deep velvety shadows, luminous warm tropical daylight, gentle film grain, soft bokeh, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, sand lane, table top, balcony railing in soft shadow) for captions and a logo; a small Maldivian local island of white sandy lanes, coral-stone walls, bougainvillea, palms and turquoise lagoon, and, in Malé, a wealthy family's dark modern home glowing with gold lamps and city lights.\nScene: the three standing in the lit arrivals walkway: Reema laughing in front, her husband Assad standing just behind her with a friendly grin, and Maura a clear arm's-length away from Assad, smiling at him politely while craning her neck to look past them as if searching for someone. Location: outside the arrivals exit of the new small island airport terminal at night: a covered walkway with warm lights, a few travellers with luggage trolleys, potted palms, white pillars, the dark sky beyond. Camera: medium wide shot, eye level, faces in the upper two-thirds, a calm uncluttered lower third (tiled floor).\nCharacters: Maura: a petite slim Maldivian young woman of about 22 with fair light warm-brown skin, a soft round innocent face, large bright dark eyes, gently arched eyebrows, a small nose and a shy sweet smile; wears a loose long-sleeved ankle-length white dress with delicate lace sleeves and a plain white hijab wrapped snugly and fully covering her hair and neck, with a small white frangipani flower pinned at the side of the hijab. Reema: a Maldivian woman of about 28 with warm brown skin, a friendly round face with full cheeks and laughing dark eyes, eight months pregnant with a modest rounded bump; wears a loose long-sleeved ankle-length sage-green maternity dress and a dusty-pink hijab fully covering her hair and neck. Assad: a stocky Maldivian man of about 31 with warm brown skin, a broad friendly face with an easy grin, short black hair and a short black beard; wears a navy-blue polo shirt and khaki long trousers.\nMood/lighting: night, warm golden walkway lights against the dark tropical sky, joyful and tender.\nModest Maldivian clothing (every woman and girl in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck; men in shirts and long trousers, never shirtless, never in a towel), a clear respectful distance between unrelated men and women, nobody touching, culturally respectful, no cigarettes, no smoking, no violence, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.504,
+    "halo": true
+   },
+   "focus": {
+    "x_pct": 33.9,
+    "y_pct": 20.4,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_011",
+   "startMs": 248341,
+   "endMs": 274712,
+   "new_image_reason": "action change: they walk to the car; Assad has already loaded the boxes",
+   "characters": [
+    "assad",
+    "reema",
+    "maura"
+   ],
+   "location": "the small car park beside the new island airport terminal at night: a modest silver family car with its boot open under a streetlamp, palms, the warmly lit terminal behind",
+   "location_key": "carpark",
+   "mood": "night, a warm amber streetlamp, deep blue shadows, cheerful",
+   "visual": "Assad closing the open boot of the silver family car, two taped cardboard boxes and Maura's wheeled suitcase already loaded inside; Reema walking towards the car talking animatedly with one hand on her bump, Maura beside her laughing; a clear arm's-length gap between Maura and Assad; plain boxes with no writing",
+   "camera": "medium wide shot, eye level, faces in the upper two-thirds, a calm uncluttered lower third (the dark tarmac of the car park)",
+   "image": "images/beat_011.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "airport",
+   "shots": [
+    {
+     "id": "shot_025",
+     "startMs": 248341,
+     "endMs": 258901,
+     "narration_dhivehi": "މައުރާ މަޖާ ވެލިއެވެ. \" އެހެންވާނުން އަބަދު ކިޔާނެ މައު މިސްވާ ވާހަކަ.. ކިހާ ދުވަހެއް ކޮށްފަ ތިއައީ... ކުރިން އައި ފަހަރުވެސް މައު މާ މަދުން ކާތި މަންމަ ހުންނަނީ ކަޑަ ވެފަ....",
+     "narration_english": "Maura joked. \"Well, that's why she's always talking about missing you... how many days has it been since you came?... Even last time Mum was upset that you ate so little...",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_026",
+     "startMs": 258901,
+     "endMs": 266192,
+     "narration_dhivehi": "އަންނަން އުޅޭ ވާހަކަ ބުނީމަވެސް ބުންޏޭ ނުކެރޭނޭ ނުކައެއް މިފަހަރު... މިފަހަރު މައުއަށް މީރުހާ އެއްޗެކޭ ހަދާނީވެސް .....\"",
+     "narration_english": "When I told her you were coming, she said she couldn't wait... she said this time she'd make you something delicious...\"",
+     "crop": "tight",
+     "motion": "pan down",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      0.0,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_027",
+     "startMs": 266192,
+     "endMs": 274712,
+     "narration_dhivehi": "ކާރާއި ދިމާއަށް ހިނގައިގަންނަމުން ރީމާ ބުނެލިއެވެ. އޭރު އެމީހުންނަށް ވުރެން ކުރިން އައްސަދު ފޮށިތައް ގެންގޮސް ކާރަށް އަރުވައި ނިންމައިފިއެވެ.",
+     "narration_english": "Reema said as she started walking towards the car. By then Assad, ahead of them, had already carried the boxes over and loaded them into the car.",
+     "crop": "full",
+     "motion": "static drift",
+     "sfx": [
+      {
+       "name": "car_door",
+       "atMs": 273292,
+       "gainDb": -20,
+       "word": "އަރުވައި"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Assad; reference image 2 is Reema; reference image 3 is Maura), create a new scene: Cinematic semi-realistic digital illustration with a warm romantic-drama look, rich gold and amber tones, soft golden lamplight with deep velvety shadows, luminous warm tropical daylight, gentle film grain, soft bokeh, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, sand lane, table top, balcony railing in soft shadow) for captions and a logo; a small Maldivian local island of white sandy lanes, coral-stone walls, bougainvillea, palms and turquoise lagoon, and, in Malé, a wealthy family's dark modern home glowing with gold lamps and city lights.\nScene: Assad closing the open boot of the silver family car, two taped cardboard boxes and Maura's wheeled suitcase already loaded inside; Reema walking towards the car talking animatedly with one hand on her bump, Maura beside her laughing; a clear arm's-length gap between Maura and Assad; plain boxes with no writing. Location: the small car park beside the new island airport terminal at night: a modest silver family car with its boot open under a streetlamp, palms, the warmly lit terminal behind. Camera: medium wide shot, eye level, faces in the upper two-thirds, a calm uncluttered lower third (the dark tarmac of the car park).\nCharacters: Assad: a stocky Maldivian man of about 31 with warm brown skin, a broad friendly face with an easy grin, short black hair and a short black beard; wears a navy-blue polo shirt and khaki long trousers. Reema: a Maldivian woman of about 28 with warm brown skin, a friendly round face with full cheeks and laughing dark eyes, eight months pregnant with a modest rounded bump; wears a loose long-sleeved ankle-length sage-green maternity dress and a dusty-pink hijab fully covering her hair and neck. Maura: a petite slim Maldivian young woman of about 22 with fair light warm-brown skin, a soft round innocent face, large bright dark eyes, gently arched eyebrows, a small nose and a shy sweet smile; wears a loose long-sleeved ankle-length white dress with delicate lace sleeves and a plain white hijab wrapped snugly and fully covering her hair and neck, with a small white frangipani flower pinned at the side of the hijab.\nMood/lighting: night, a warm amber streetlamp, deep blue shadows, cheerful.\nModest Maldivian clothing (every woman and girl in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck; men in shirts and long trousers, never shirtless, never in a towel), a clear respectful distance between unrelated men and women, nobody touching, culturally respectful, no cigarettes, no smoking, no violence, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.24,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 29.3,
+    "y_pct": 27.2,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_012",
+   "startMs": 274712,
+   "endMs": 303773,
+   "new_image_reason": "scene change: the night drive home through the developed island",
+   "characters": [
+    "maura",
+    "reema",
+    "assad"
+   ],
+   "location": "inside a modest family car driving along a new island road at night, the soft glow of the dashboard, streetlamps, dark palms and coral-stone walls sliding past the windows",
+   "location_key": "car",
+   "mood": "night, soft amber dashboard glow and passing streetlamp light on faces, cosy and playful",
+   "visual": "inside the car at night, seen from the dashboard looking back: Assad driving with both hands on the wheel, Reema in the front passenger seat pointing out of the window and explaining, and Maura in the back seat in the middle leaning forward between the seats, her face lit by passing streetlamps, thrilled and amazed",
+   "camera": "medium shot from the dashboard, eye level, faces in the upper two-thirds, a calm uncluttered lower third (the dark seats)",
+   "image": "images/beat_012.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "car_night",
+   "shots": [
+    {
+     "id": "shot_028",
+     "startMs": 274712,
+     "endMs": 285292,
+     "narration_dhivehi": "ގެއަށް ދެވެންދެން ހޭދަވި މަދު ވަގުތުކޮޅުގައި ރީމާއާއި މައުރާ އެތައް ސުވާލުތަކެއް ކުރިއެވެ. ރަށަށް އައިސް ހުރި ތަރައްޤީ ފެނިފައި މައުރާ ހުރީ ހަމަ ރަނގަޅަށްވެސް ކޮސްވެފައެވެ.",
+     "narration_english": "In the short time it took to get home, Reema and Maura asked each other many questions. Seeing the development on the island, Maura was truly thrilled.",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_029",
+     "startMs": 285292,
+     "endMs": 294133,
+     "narration_dhivehi": "\" އާން... މިފަހަރު ހޮވުނު މެމްބަރު ރަނގަޅީނުން.... ކުރިން އަރާ މީހުން ބެލީ ދައުރު ނިމެންވާއިރަށް ލާރިގަނޑު ބައްކުރެވޭތޯ ވިއްޔާ ...",
+     "narration_english": "\"Yes... the member elected this time is good... the ones before only cared about piling up money before their term ran out, you see...",
+     "crop": "tight",
+     "motion": "pan left",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      0.0,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_030",
+     "startMs": 294133,
+     "endMs": 303773,
+     "narration_dhivehi": "އެހެންވެ ވާހާ ގޮތްގޮތް...\" ރީމާ ތަފްސީލު ދިނެވެ. އަދި ރޭގަނޑުގެ އަނދިރި ކަމުގައިވެސް ބައެއް ތަންތަން މައުރާއަށް ދައްކަމުން ދިޔައެވެ. \" ދޮންތަ ކޮންއިރަކުންތަ ވިހަނި....\"",
+     "narration_english": "That's why things were the way they were...\" Reema explained. And even in the dark of night she kept pointing out places to Maura. \"Dhontha, when are you due?\"",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Maura; reference image 2 is Reema; reference image 3 is Assad), create a new scene: Cinematic semi-realistic digital illustration with a warm romantic-drama look, rich gold and amber tones, soft golden lamplight with deep velvety shadows, luminous warm tropical daylight, gentle film grain, soft bokeh, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, sand lane, table top, balcony railing in soft shadow) for captions and a logo; a small Maldivian local island of white sandy lanes, coral-stone walls, bougainvillea, palms and turquoise lagoon, and, in Malé, a wealthy family's dark modern home glowing with gold lamps and city lights.\nScene: inside the car at night, seen from the dashboard looking back: Assad driving with both hands on the wheel, Reema in the front passenger seat pointing out of the window and explaining, and Maura in the back seat in the middle leaning forward between the seats, her face lit by passing streetlamps, thrilled and amazed. Location: inside a modest family car driving along a new island road at night, the soft glow of the dashboard, streetlamps, dark palms and coral-stone walls sliding past the windows. Camera: medium shot from the dashboard, eye level, faces in the upper two-thirds, a calm uncluttered lower third (the dark seats).\nCharacters: Maura: a petite slim Maldivian young woman of about 22 with fair light warm-brown skin, a soft round innocent face, large bright dark eyes, gently arched eyebrows, a small nose and a shy sweet smile; wears a loose long-sleeved ankle-length white dress with delicate lace sleeves and a plain white hijab wrapped snugly and fully covering her hair and neck, with a small white frangipani flower pinned at the side of the hijab. Reema: a Maldivian woman of about 28 with warm brown skin, a friendly round face with full cheeks and laughing dark eyes, eight months pregnant with a modest rounded bump; wears a loose long-sleeved ankle-length sage-green maternity dress and a dusty-pink hijab fully covering her hair and neck. Assad: a stocky Maldivian man of about 31 with warm brown skin, a broad friendly face with an easy grin, short black hair and a short black beard; wears a navy-blue polo shirt and khaki long trousers.\nMood/lighting: night, soft amber dashboard glow and passing streetlamp light on faces, cosy and playful.\nModest Maldivian clothing (every woman and girl in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck; men in shirts and long trousers, never shirtless, never in a towel), a clear respectful distance between unrelated men and women, nobody touching, culturally respectful, no cigarettes, no smoking, no violence, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.121,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 20.0,
+    "y_pct": 32.0,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_013",
+   "startMs": 303773,
+   "endMs": 334695,
+   "new_image_reason": "framing change: Reema turns round with a mischievous smile to tease Maura about a boyfriend",
+   "characters": [
+    "reema",
+    "maura"
+   ],
+   "location": "inside a modest family car driving along a new island road at night, the soft glow of the dashboard, streetlamps, dark palms and coral-stone walls sliding past the windows",
+   "location_key": "car",
+   "mood": "night, soft amber dashboard glow and passing streetlamp light on faces, cosy and playful",
+   "visual": "close on Reema in the front passenger seat, turned back over her shoulder towards the back seat with a teasing, mischievous smile and raised eyebrows; Maura in the back seat soft in the foreground, giggling",
+   "camera": "medium close-up between the front seats, eye level, faces in the upper two-thirds, a calm uncluttered lower third (seat backs in shadow)",
+   "image": "images/beat_013.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "car_night",
+   "shots": [
+    {
+     "id": "shot_031",
+     "startMs": 303773,
+     "endMs": 313764,
+     "narration_dhivehi": "މައުރާ އަހައިލިއެވެ. \" އަދިވެސް އެއްމަސް އެބަ އޮތޭނުން... މިހާރު ދެކިލާ ހިތުން ކެތް ވަނީކީ ނޫން... ވަރަށް އުނދަގޫވެސް ކުރޭ.. އަބަދު ތޮޅޭ....\" ރީމާ ބުނެލިއެވެ.",
+     "narration_english": "Maura asked. \"There's still a month to go... I can't wait to see the baby now... it's very hard too... always kicking,\" said Reema.",
+     "crop": "full",
+     "motion": "pan right",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_032",
+     "startMs": 313764,
+     "endMs": 322644,
+     "narration_dhivehi": "\" އެއީ ތެދެއް... ދޮންތަ އެބައުޅޭ ނުނިދިގެންވެސް އެތައް ދަމެއް ވާއިރުވެސް ބޭބީ ތޮޅޭ ވާރުން...\" ހިނިގަނޑެއް ޖަހައިލަމުން އައްސަދު ބުނެލިއެވެ. \" އެހެންތަ....\"",
+     "narration_english": "\"That's true... Dhontha hasn't slept for nights on end with the baby kicking,\" Assad said with a laugh. \"Really...?\"",
+     "crop": "tight",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      1.1,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_033",
+     "startMs": 322644,
+     "endMs": 334695,
+     "narration_dhivehi": "ހިނިތުންވަލަމުން މައުރާ ބުނެލިއެވެ. ކޮބާތަ ދެން ކޮއްކޮގެ ބިޓު... ނުގެންނަންތަ....\" ފަހަތަށް ކުޑަކޮށް އެނބުރިލައި މައުރާއަށް ބަލައިލަމުން ލާނެތް ހިނިތުންވުމެއް ދެމުން ރީމާ އަހައިލިއެވެ.",
+     "narration_english": "Maura said, smiling. \"So where's little sister's guy, then?... Didn't you bring him?\" Reema asked, turning back a little to look at Maura with a mischievous smile.",
+     "crop": "full",
+     "motion": "pan up",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Reema; reference image 2 is Maura), create a new scene: Cinematic semi-realistic digital illustration with a warm romantic-drama look, rich gold and amber tones, soft golden lamplight with deep velvety shadows, luminous warm tropical daylight, gentle film grain, soft bokeh, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, sand lane, table top, balcony railing in soft shadow) for captions and a logo; a small Maldivian local island of white sandy lanes, coral-stone walls, bougainvillea, palms and turquoise lagoon, and, in Malé, a wealthy family's dark modern home glowing with gold lamps and city lights.\nScene: close on Reema in the front passenger seat, turned back over her shoulder towards the back seat with a teasing, mischievous smile and raised eyebrows; Maura in the back seat soft in the foreground, giggling. Location: inside a modest family car driving along a new island road at night, the soft glow of the dashboard, streetlamps, dark palms and coral-stone walls sliding past the windows. Camera: medium close-up between the front seats, eye level, faces in the upper two-thirds, a calm uncluttered lower third (seat backs in shadow).\nCharacters: Reema: a Maldivian woman of about 28 with warm brown skin, a friendly round face with full cheeks and laughing dark eyes, eight months pregnant with a modest rounded bump; wears a loose long-sleeved ankle-length sage-green maternity dress and a dusty-pink hijab fully covering her hair and neck. Maura: a petite slim Maldivian young woman of about 22 with fair light warm-brown skin, a soft round innocent face, large bright dark eyes, gently arched eyebrows, a small nose and a shy sweet smile; wears a loose long-sleeved ankle-length white dress with delicate lace sleeves and a plain white hijab wrapped snugly and fully covering her hair and neck, with a small white frangipani flower pinned at the side of the hijab.\nMood/lighting: night, soft amber dashboard glow and passing streetlamp light on faces, cosy and playful.\nModest Maldivian clothing (every woman and girl in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck; men in shirts and long trousers, never shirtless, never in a towel), a clear respectful distance between unrelated men and women, nobody touching, culturally respectful, no cigarettes, no smoking, no violence, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.158,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 30.8,
+    "y_pct": 32.4,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_014",
+   "startMs": 334695,
+   "endMs": 362076,
+   "new_image_reason": "back to the three in the car as Maura explains (reuse)",
+   "characters": [
+    "maura",
+    "reema",
+    "assad"
+   ],
+   "location": "inside a modest family car driving along a new island road at night, the soft glow of the dashboard, streetlamps, dark palms and coral-stone walls sliding past the windows",
+   "location_key": "car",
+   "mood": "night, soft amber dashboard glow and passing streetlamp light on faces, cosy and playful",
+   "visual": "reuse of beat_012",
+   "camera": "medium shot, eye level",
+   "image": "images/beat_012.png",
+   "reuse_of": "beat_012",
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "car_night",
+   "shots": [
+    {
+     "id": "shot_034",
+     "startMs": 334695,
+     "endMs": 344285,
+     "narration_dhivehi": "\" ނެތޭ.... ކަމުދާ މީހަކު ނުފެނޭ ހަމަ...\" ޗޮކެއް ކަނޑައިލަމުން މައުރާ ބުނެލިއެވެ. \" އައްދޭ ކިހިނެތް ތިވީ.... އެކަމް ކުރިން ހީވި ކުއްޖަކާ ވާހަކަ ދެއްކިހެން...\"",
+     "narration_english": "\"No... I just haven't found anyone I like,\" Maura said with a click of her tongue. \"Oh, what happened? Before, it seemed like you were talking to some boy...\"",
+     "crop": "tight",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      0.0,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_035",
+     "startMs": 344285,
+     "endMs": 352925,
+     "narration_dhivehi": "ރީމާ ބުނެލިއެވެ. \" އާން އެއީ އެހެންވީ ކަމެއް ނޫނޭ... އޭނަވެސް އެހެން ކުދިންނާއި ވާހަކަ ދައްކާކަން ފަހުން އެނގުނީ.... އެހެންވެ ދެން ފޫހިވީ...",
+     "narration_english": "Reema said. \"Oh, that never became anything... I found out later he was talking to other girls too... so then I got fed up...",
+     "crop": "full",
+     "motion": "pan down",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_036",
+     "startMs": 352925,
+     "endMs": 362076,
+     "narration_dhivehi": "ނަސީބެއް ރައްޓެހިން ނުވެވެނީސް އެނގުނުކަން އެހެން ނޫން ނަމަ މާ ކަޑަ ވީހޭނުން... ދޯ...\" މައުރާ ބުނެލިއެވެ. އާންއެކޭ ބުނުމުގެ ގޮތުން ރީމާ ބޯ ޖަހައިލިއެވެ.",
+     "narration_english": "Lucky I found out before we got close, otherwise I'd have been far more hurt... right?\" Maura said. Reema nodded in agreement.",
+     "crop": "medium",
+     "motion": "static drift",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      0.0,
+      0.0,
+      71.5,
+      84.7
+     ]
+    }
+   ],
+   "prompt_attempts": [],
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.119,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 20.0,
+    "y_pct": 32.0,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_015",
+   "startMs": 362076,
+   "endMs": 371036,
+   "new_image_reason": "scene change: the car stops at the family's gate where everyone has gathered",
+   "characters": [],
+   "location": "Maura's family house on a Maldivian local island at night: a two-storey house with pale onion-pink walls, a white gate (dhoraashi) in a coral-stone wall with magenta bougainvillea spilling over it, a sandy front yard with potted plants, a garden hose and a wooden joali seat, a warm porch lamp, a sandy lane lit by a streetlamp",
+   "location_key": "gate",
+   "mood": "night, a warm golden porch lamp and a streetlamp, magenta bougainvillea glowing in the lamplight, joyful and warm",
+   "visual": "the silver family car stopped in the sandy lane in front of the white gate of the pale-pink two-storey house at night, its headlights glowing; a small crowd of family members and neighbours, women in loose dresses with headscarves and men in shirts and sarongs, gathered at the open gate under the bougainvillea and the porch lamp, waving; nobody in close-up",
+   "camera": "wide shot from the lane, eye level, the house, gate and people in the upper two-thirds, the sandy lane as the calm lower third",
+   "image": "images/beat_015.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "village_night",
+   "shots": [
+    {
+     "id": "shot_037",
+     "startMs": 362076,
+     "endMs": 371036,
+     "narration_dhivehi": "\" ގޯތި ދޮރާށި ކައިރިއަށް ކާރު މަޑުކޮށްލިއިރު ގޭގެ އެންމެންހެން ކަހަލަ ގޮތަކަށް ދޮރާށި ދޮށަށް އެއްވެ ތިއްބެވެ. އަދި ގޯތި ކައިރި ބައެއް އަވަށްޓެރިންވެސް ތިއްބެވެ.",
+     "narration_english": "When the car pulled up by the gate of the yard, almost the whole household had gathered at the gate. And some of the neighbours were there too.",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [
+      {
+       "name": "car_approach",
+       "atMs": 363636,
+       "gainDb": -20,
+       "word": "ކާރު"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Cinematic semi-realistic digital illustration with a warm romantic-drama look, rich gold and amber tones, soft golden lamplight with deep velvety shadows, luminous warm tropical daylight, gentle film grain, soft bokeh, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, sand lane, table top, balcony railing in soft shadow) for captions and a logo; a small Maldivian local island of white sandy lanes, coral-stone walls, bougainvillea, palms and turquoise lagoon, and, in Malé, a wealthy family's dark modern home glowing with gold lamps and city lights.\nScene: the silver family car stopped in the sandy lane in front of the white gate of the pale-pink two-storey house at night, its headlights glowing; a small crowd of family members and neighbours, women in loose dresses with headscarves and men in shirts and sarongs, gathered at the open gate under the bougainvillea and the porch lamp, waving; nobody in close-up. Location: Maura's family house on a Maldivian local island at night: a two-storey house with pale onion-pink walls, a white gate (dhoraashi) in a coral-stone wall with magenta bougainvillea spilling over it, a sandy front yard with potted plants, a garden hose and a wooden joali seat, a warm porch lamp, a sandy lane lit by a streetlamp. Camera: wide shot from the lane, eye level, the house, gate and people in the upper two-thirds, the sandy lane as the calm lower third.\nMood/lighting: night, a warm golden porch lamp and a streetlamp, magenta bougainvillea glowing in the lamplight, joyful and warm.\nModest Maldivian clothing (every woman and girl in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck; men in shirts and long trousers, never shirtless, never in a towel), a clear respectful distance between unrelated men and women, nobody touching, culturally respectful, no cigarettes, no smoking, no violence, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.218,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 50.0,
+    "y_pct": 40.0,
+    "face_detected": false
+   }
+  },
+  {
+   "id": "beat_016",
+   "startMs": 371036,
+   "endMs": 396007,
+   "new_image_reason": "action change: Zulfa hugs Maura the moment she gets out of the car",
+   "characters": [
+    "zulfa",
+    "maura"
+   ],
+   "location": "Maura's family house on a Maldivian local island at night: a two-storey house with pale onion-pink walls, a white gate (dhoraashi) in a coral-stone wall with magenta bougainvillea spilling over it, a sandy front yard with potted plants, a garden hose and a wooden joali seat, a warm porch lamp, a sandy lane lit by a streetlamp",
+   "location_key": "gate",
+   "mood": "night, a warm golden porch lamp and a streetlamp, magenta bougainvillea glowing in the lamplight, joyful and warm",
+   "visual": "Zulfa warmly hugging her daughter Maura at the white gate, her eyes shut with happiness and a wide smile, Maura beaming over her mother's shoulder; magenta bougainvillea and the warm porch lamp above them",
+   "camera": "medium shot, eye level, faces in the upper two-thirds, a calm uncluttered lower third (sandy yard)",
+   "image": "images/beat_016.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "village_night",
+   "shots": [
+    {
+     "id": "shot_038",
+     "startMs": 371036,
+     "endMs": 379217,
+     "narration_dhivehi": "ކާރުން މައުރާ ނިކުތުމާއިއެކު އެންމެ ފުރަތަމަ ވެސް މައުރާގެ ގައިގާ ބައްދައިގަތީ މަންމައެވެ. \" ދަރިފުޅާ... ހާދަ އުފާ ވެއްޖޭ...",
+     "narration_english": "As soon as Maura got out of the car, the very first to hug her was her mother. \"My darling... I'm so happy...",
+     "crop": "full",
+     "motion": "pan left",
+     "sfx": [
+      {
+       "name": "car_door",
+       "atMs": 372116,
+       "gainDb": -20,
+       "word": "ނިކުތުމާއިއެކު"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_039",
+     "startMs": 379217,
+     "endMs": 388107,
+     "narration_dhivehi": "ވަރަށް އުފާ ވެއްޖެ އެއްކޮށް ރަށަށް ބަދަލުވާ ވާހަކަ ބުނީމަ... މަންމަ ހުންނާނެ ބައިވަރު އެއްޗެހި ކައްކާފަ... ބޮނޑިބަތްވެސް ހުންނާނެ...",
+     "narration_english": "so very happy when you said you were moving back to the island for good... I've cooked lots of things... there's bondibai too...",
+     "crop": "tight",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      1.2,
+      11.7,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_040",
+     "startMs": 388107,
+     "endMs": 396007,
+     "narration_dhivehi": "ބަނބުކެޔޮ ބަތާ ގަރުދިޔައާއި ލޮނުމިރުސް ވެސް ހުންނާނެ.... \" ޒުލްފާ ނިކަން އުފާވެފައި ދަރިފުޅު ގައިގާ ބައްދައިލަމުން ބުނެލިއެވެ.",
+     "narration_english": "breadfruit rice, garudhiya and lonumirus too...\" Zulfa said, overjoyed, hugging her daughter.",
+     "crop": "full",
+     "motion": "pan right",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Zulfa; reference image 2 is Maura), create a new scene: Cinematic semi-realistic digital illustration with a warm romantic-drama look, rich gold and amber tones, soft golden lamplight with deep velvety shadows, luminous warm tropical daylight, gentle film grain, soft bokeh, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, sand lane, table top, balcony railing in soft shadow) for captions and a logo; a small Maldivian local island of white sandy lanes, coral-stone walls, bougainvillea, palms and turquoise lagoon, and, in Malé, a wealthy family's dark modern home glowing with gold lamps and city lights.\nScene: Zulfa warmly hugging her daughter Maura at the white gate, her eyes shut with happiness and a wide smile, Maura beaming over her mother's shoulder; magenta bougainvillea and the warm porch lamp above them. Location: Maura's family house on a Maldivian local island at night: a two-storey house with pale onion-pink walls, a white gate (dhoraashi) in a coral-stone wall with magenta bougainvillea spilling over it, a sandy front yard with potted plants, a garden hose and a wooden joali seat, a warm porch lamp, a sandy lane lit by a streetlamp. Camera: medium shot, eye level, faces in the upper two-thirds, a calm uncluttered lower third (sandy yard).\nCharacters: Zulfa: a plump Maldivian woman of about 52 with warm brown skin, a kind round face with laugh lines and warm dark eyes; wears a loose long-sleeved ankle-length soft-blue floral housecoat-style dress and a maroon headscarf fully covering her hair and neck. Maura: a petite slim Maldivian young woman of about 22 with fair light warm-brown skin, a soft round innocent face, large bright dark eyes, gently arched eyebrows, a small nose and a shy sweet smile; wears a loose long-sleeved ankle-length white dress with delicate lace sleeves and a plain white hijab wrapped snugly and fully covering her hair and neck, with a small white frangipani flower pinned at the side of the hijab.\nMood/lighting: night, a warm golden porch lamp and a streetlamp, magenta bougainvillea glowing in the lamplight, joyful and warm.\nModest Maldivian clothing (every woman and girl in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck; men in shirts and long trousers, never shirtless, never in a towel), a clear respectful distance between unrelated men and women, nobody touching, culturally respectful, no cigarettes, no smoking, no violence, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "black",
+    "bg_luminance": 0.575,
+    "halo": true
+   },
+   "focus": {
+    "x_pct": 31.0,
+    "y_pct": 46.9,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_017",
+   "startMs": 396007,
+   "endMs": 440839,
+   "new_image_reason": "character change: Nafeesa and the neighbours greet Maura; Nafeesa's jokes make everyone laugh",
+   "characters": [
+    "nafeesa",
+    "maura",
+    "zulfa"
+   ],
+   "location": "Maura's family house on a Maldivian local island at night: a two-storey house with pale onion-pink walls, a white gate (dhoraashi) in a coral-stone wall with magenta bougainvillea spilling over it, a sandy front yard with potted plants, a garden hose and a wooden joali seat, a warm porch lamp, a sandy lane lit by a streetlamp",
+   "location_key": "gate",
+   "mood": "night, a warm golden porch lamp and a streetlamp, magenta bougainvillea glowing in the lamplight, joyful and warm",
+   "visual": "old Nafeesa, small and lively, patting Maura's shoulder with a wide wrinkled grin and twinkling eyes; Maura smiling shyly; Zulfa beside them laughing; behind them two or three neighbour women in loose dresses and headscarves laughing heartily; all in the sandy yard by the gate under the lamplight",
+   "camera": "medium shot, eye level, faces in the upper two-thirds, a calm uncluttered lower third (sandy yard)",
+   "image": "images/beat_017.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "village_night",
+   "shots": [
+    {
+     "id": "shot_041",
+     "startMs": 396007,
+     "endMs": 405228,
+     "narration_dhivehi": "\" ބަލާ މިތިބީ ނަފީއްސާތަ މެންވެސް އައިސް ހަމަ ދަރިފުޅާއި ބައްދަލު ކޮށްލާ ހިތުން...\" މަންމަ އެނބުރިލަމުން ގޭ ކައިރި އަވަށްޓެރިންނަށް މައުރާ ދައްކައިލިއެވެ.",
+     "narration_english": "\"Look, Nafeesaththa and the others have come too, just wanting to see you...\" Turning round, Mum showed Maura the neighbours by the house.",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_042",
+     "startMs": 405228,
+     "endMs": 415578,
+     "narration_dhivehi": "މައުރާ ހިނިތުންވެލަމުން އެންމެންނާއި ސަލާމް ކުރިއެވެ. \"މިކޮއެ ހާދަ ބޮޑު ވެއްޖޭ ދޯ... މާލޭގަ އުޅެފަ އައީމަ މާލެ ގޮތްގަނޑު މިހުރީވެސް... ހާދަ ދޮނޭ މިކޮއެ...\"",
+     "narration_english": "Smiling, Maura greeted everyone. \"Hasn't this girl grown! Back from living in Malé, she's even got the Malé look... how fair this girl is...\"",
+     "crop": "tight",
+     "motion": "pan up",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      40.6,
+      0.3,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_043",
+     "startMs": 415578,
+     "endMs": 423339,
+     "narration_dhivehi": "ނަފީސާ މައުރާގެ ކޮނޑުގައި ފިރުމައިލަމުން ބުނެލިއެވެ. މައުރާ ހިނިތުންވެލިއެވެ. \" އާން އެހެންނޭ މާލެ ކުދިން ތިބޭނީ.. ..",
+     "narration_english": "Nafeesa said, patting Maura's shoulder. Maura smiled. \"Yes, that's how Malé girls are...",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_044",
+     "startMs": 423339,
+     "endMs": 432049,
+     "narration_dhivehi": "އެހެނެކޭ ކިޔާފަ އަހަރެމެން މިހާރު ދެން ކިއެއް ކުރާނީ... މިތިބީ ޒުވާން އުމުރު ގޮއްސަ .. ދެކޮޅު ކަސަބަށް ވެފަ.. އެކަށް ތާންގި ބުރިތަކަށް ވެފަ...",
+     "narration_english": "...and what can we do about it now... our young years are gone... we've turned into withered old sticks... into scraps of old tin...",
+     "crop": "medium",
+     "motion": "pan down",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      28.5,
+      0.0,
+      71.5,
+      84.7
+     ]
+    },
+    {
+     "id": "shot_045",
+     "startMs": 432049,
+     "endMs": 440839,
+     "narration_dhivehi": "މިހާރު ނުވާނެ ބަލާލާނެ މީހެއްވެސް....\" ވާފިރާއްތަގެ ވާހަކައިން އެންމެންގެ ހިނިގަނޑު ފަޅައިގެން ކިޔައެވެ. ޕަކަޕަކަލައިފައި އެންމެން ހޭން ފެށިއެވެ.",
+     "narration_english": "Nobody would look at us now...\" At old Nafeesa's words everyone burst out laughing. Everyone laughed heartily.",
+     "crop": "tight",
+     "motion": "static drift",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      40.6,
+      0.3,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Nafeesa; reference image 2 is Maura; reference image 3 is Zulfa), create a new scene: Cinematic semi-realistic digital illustration with a warm romantic-drama look, rich gold and amber tones, soft golden lamplight with deep velvety shadows, luminous warm tropical daylight, gentle film grain, soft bokeh, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, sand lane, table top, balcony railing in soft shadow) for captions and a logo; a small Maldivian local island of white sandy lanes, coral-stone walls, bougainvillea, palms and turquoise lagoon, and, in Malé, a wealthy family's dark modern home glowing with gold lamps and city lights.\nScene: old Nafeesa, small and lively, patting Maura's shoulder with a wide wrinkled grin and twinkling eyes; Maura smiling shyly; Zulfa beside them laughing; behind them two or three neighbour women in loose dresses and headscarves laughing heartily; all in the sandy yard by the gate under the lamplight. Location: Maura's family house on a Maldivian local island at night: a two-storey house with pale onion-pink walls, a white gate (dhoraashi) in a coral-stone wall with magenta bougainvillea spilling over it, a sandy front yard with potted plants, a garden hose and a wooden joali seat, a warm porch lamp, a sandy lane lit by a streetlamp. Camera: medium shot, eye level, faces in the upper two-thirds, a calm uncluttered lower third (sandy yard).\nCharacters: Nafeesa: a small wiry Maldivian woman of about 62 with warm brown skin, a thin lively face with deep laugh lines, twinkling eyes and a wide smile; wears a traditional loose long-sleeved ankle-length lavender libaas-style dress and a white headscarf fully covering her hair and neck. Maura: a petite slim Maldivian young woman of about 22 with fair light warm-brown skin, a soft round innocent face, large bright dark eyes, gently arched eyebrows, a small nose and a shy sweet smile; wears a loose long-sleeved ankle-length white dress with delicate lace sleeves and a plain white hijab wrapped snugly and fully covering her hair and neck, with a small white frangipani flower pinned at the side of the hijab. Zulfa: a plump Maldivian woman of about 52 with warm brown skin, a kind round face with laugh lines and warm dark eyes; wears a loose long-sleeved ankle-length soft-blue floral housecoat-style dress and a maroon headscarf fully covering her hair and neck.\nMood/lighting: night, a warm golden porch lamp and a streetlamp, magenta bougainvillea glowing in the lamplight, joyful and warm.\nModest Maldivian clothing (every woman and girl in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck; men in shirts and long trousers, never shirtless, never in a towel), a clear respectful distance between unrelated men and women, nobody touching, culturally respectful, no cigarettes, no smoking, no violence, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "black",
+    "bg_luminance": 0.579,
+    "halo": true
+   },
+   "focus": {
+    "x_pct": 78.9,
+    "y_pct": 35.5,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_018",
+   "startMs": 440839,
+   "endMs": 462040,
+   "new_image_reason": "framing change: Maura looks round at her home — the bougainvillea and pale-pink walls",
+   "characters": [
+    "maura"
+   ],
+   "location": "Maura's family house on a Maldivian local island at night: a two-storey house with pale onion-pink walls, a white gate (dhoraashi) in a coral-stone wall with magenta bougainvillea spilling over it, a sandy front yard with potted plants, a garden hose and a wooden joali seat, a warm porch lamp, a sandy lane lit by a streetlamp",
+   "location_key": "gate",
+   "mood": "night, a warm golden porch lamp and a streetlamp, magenta bougainvillea glowing in the lamplight, joyful and warm",
+   "visual": "Maura standing in the sandy front yard, turned three-quarters away from us, looking up at the house with a soft contented smile; magenta bougainvillea spilling down over the coral-stone wall, the pale onion-pink walls glowing in the warm porch light, potted plants and the wooden joali seat in the yard",
+   "camera": "medium wide shot from slightly behind Maura, eye level, the house and bougainvillea in the upper two-thirds, the sandy yard as the calm lower third",
+   "image": "images/beat_018.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "village_night",
+   "shots": [
+    {
+     "id": "shot_046",
+     "startMs": 440839,
+     "endMs": 450800,
+     "narration_dhivehi": "މައުރާވެސް ހިނިގަނޑު މަތަކުރަމުން ވަށައިން ބަލައިލިއެވެ. ގޭ ފާރުމަތިން ތިރިއަށް ފައިބައިފައި އޮތް ބޯގަންވީލާ ފަސް ވީ މައުރާ ވަރަށް ހިތްހަމަޖެހުނު ކަމަކަށެވެ.",
+     "narration_english": "Maura too, holding back her laughter, looked around. The bougainvillea spilling down over the wall of the house pleased Maura very much.",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_047",
+     "startMs": 450800,
+     "endMs": 462040,
+     "narration_dhivehi": "އެހާ ފެންވަރު ރަނގަޅު ގެއެއް ނޫނަސް އެއީ އެހައި އާދައިގެ ގެއެކޭވެސް ނުބުނެވޭނެއެވެ. ފާރުގައި ލައިފައިވީ މަޑު ފިޔާތޮށިކުލައިގެ ސަބަބުން ވެސް މައުރާގެ ހިތަށް އިތުރު ފިނިކަމެއް ލިބުނެވެ.",
+     "narration_english": "Though it was not a grand house, it could not be called an ordinary house either. The pale onion-pink colour on the walls gave Maura's heart an extra coolness.",
+     "crop": "tight",
+     "motion": "pan left",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      35.5,
+      14.2,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Maura), create a new scene: Cinematic semi-realistic digital illustration with a warm romantic-drama look, rich gold and amber tones, soft golden lamplight with deep velvety shadows, luminous warm tropical daylight, gentle film grain, soft bokeh, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, sand lane, table top, balcony railing in soft shadow) for captions and a logo; a small Maldivian local island of white sandy lanes, coral-stone walls, bougainvillea, palms and turquoise lagoon, and, in Malé, a wealthy family's dark modern home glowing with gold lamps and city lights.\nScene: Maura standing in the sandy front yard, turned three-quarters away from us, looking up at the house with a soft contented smile; magenta bougainvillea spilling down over the coral-stone wall, the pale onion-pink walls glowing in the warm porch light, potted plants and the wooden joali seat in the yard. Location: Maura's family house on a Maldivian local island at night: a two-storey house with pale onion-pink walls, a white gate (dhoraashi) in a coral-stone wall with magenta bougainvillea spilling over it, a sandy front yard with potted plants, a garden hose and a wooden joali seat, a warm porch lamp, a sandy lane lit by a streetlamp. Camera: medium wide shot from slightly behind Maura, eye level, the house and bougainvillea in the upper two-thirds, the sandy yard as the calm lower third.\nCharacters: Maura: a petite slim Maldivian young woman of about 22 with fair light warm-brown skin, a soft round innocent face, large bright dark eyes, gently arched eyebrows, a small nose and a shy sweet smile; wears a loose long-sleeved ankle-length white dress with delicate lace sleeves and a plain white hijab wrapped snugly and fully covering her hair and neck, with a small white frangipani flower pinned at the side of the hijab.\nMood/lighting: night, a warm golden porch lamp and a streetlamp, magenta bougainvillea glowing in the lamplight, joyful and warm.\nModest Maldivian clothing (every woman and girl in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck; men in shirts and long trousers, never shirtless, never in a towel), a clear respectful distance between unrelated men and women, nobody touching, culturally respectful, no cigarettes, no smoking, no violence, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "black",
+    "bg_luminance": 0.577,
+    "halo": true
+   },
+   "focus": {
+    "x_pct": 65.2,
+    "y_pct": 49.4,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_019",
+   "startMs": 462040,
+   "endMs": 498192,
+   "new_image_reason": "character enters: her father Salaam appears behind her; she turns and greets him",
+   "characters": [
+    "salaam",
+    "maura",
+    "reema"
+   ],
+   "location": "Maura's family house on a Maldivian local island at night: a two-storey house with pale onion-pink walls, a white gate (dhoraashi) in a coral-stone wall with magenta bougainvillea spilling over it, a sandy front yard with potted plants, a garden hose and a wooden joali seat, a warm porch lamp, a sandy lane lit by a streetlamp",
+   "location_key": "gate",
+   "mood": "night, a warm golden porch lamp and a streetlamp, magenta bougainvillea glowing in the lamplight, joyful and warm",
+   "visual": "Maura, beaming with joy, holding both of her father Salaam's hands in hers; Salaam smiling tenderly down at her; Reema a step behind them with a teasing grin, one hand on her bump; the white gate and bougainvillea behind",
+   "camera": "medium shot, eye level, faces in the upper two-thirds, a calm uncluttered lower third (sandy yard)",
+   "image": "images/beat_019.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": "other",
+   "safe_substitution": "per the series rule, the daughter's hug with her father is shown as her holding both his hands",
+   "ambience": "village_night",
+   "shots": [
+    {
+     "id": "shot_048",
+     "startMs": 462040,
+     "endMs": 469961,
+     "narration_dhivehi": "\" ކޮބާ ބައްޕަ....\" ސަލާމް ފެންނަން ނެތުމުން މައުރާ އަހައިލިއެވެ. \" ބައްޕަ މިހުރީނުން....\" އަޑު އައީ މައުރާގެ ފުރަގަހުންނެވެ.",
+     "narration_english": "\"Where's Dad?\" Maura asked, not seeing Salaam. \"Dad's right here...\" The voice came from behind Maura.",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_049",
+     "startMs": 469961,
+     "endMs": 479801,
+     "narration_dhivehi": "ފަހަތަށް އެނބުރުނު މައުރާގެ ކުރިމަތީގައި ސަލާމް ހެވިފައި ހުއްޓެވެ. \" ބައްޕާ.....\" ސަލާމްގެ ގައިގާ ބާރަށް ބައްދައިލަމުން މައުރާ ބުނެލިއެވެ. \" އައްދޭ ބައްޕަގެ ޕްރިންސެސް....\"",
+     "narration_english": "As Maura turned round, there stood Salaam before her, smiling. \"Daddy...!\" Maura said, hugging Salaam tightly. \"Aww, Daddy's princess...\"",
+     "crop": "tight",
+     "motion": "pan right",
+     "sfx": [],
+     "hum": true,
+     "crop_rect_pct": [
+      20.3,
+      4.8,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_050",
+     "startMs": 479801,
+     "endMs": 489722,
+     "narration_dhivehi": "ރީމާ ދިމާކޮށްލިއެވެ. \" އަދިވެސް ބައްޕައޭ އަހަރެންގެ ފޭވަރިޓަކީ....\" ރީމާއާއި ދިމާއަށް ދޫ ދިމާ ކޮށްލަމުން މައުރާ ރައްދުގައި ބުނެލިއެވެ. \" އެނގެޔޭ އެނގެޔޭ...\"",
+     "narration_english": "Reema teased. \"Daddy's still my favourite,\" Maura replied, sticking her tongue out at Reema. \"I know, I know...\"",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_051",
+     "startMs": 489722,
+     "endMs": 498192,
+     "narration_dhivehi": "ރީމާ ހިނިތުންވެ ހުރެ ބުނެލިއެވެ. އެންމެން ގޭތެރެއަށް ވަނެވެ. ނަމަވެސް ގޭކައިރި އަވަށްޓެރިން މާދަމާ އަންނާނެ ކަމުގައި ބުނެފައި ދިޔައީއެވެ.",
+     "narration_english": "said Reema, smiling. Everyone went into the house. But the neighbours left, saying they would come tomorrow.",
+     "crop": "medium",
+     "motion": "pan up",
+     "sfx": [
+      {
+       "name": "footsteps_sand",
+       "atMs": 493042,
+       "gainDb": -24,
+       "word": "ވަނެވެ."
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      14.2,
+      0.0,
+      71.5,
+      84.7
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Salaam; reference image 2 is Maura; reference image 3 is Reema), create a new scene: Cinematic semi-realistic digital illustration with a warm romantic-drama look, rich gold and amber tones, soft golden lamplight with deep velvety shadows, luminous warm tropical daylight, gentle film grain, soft bokeh, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, sand lane, table top, balcony railing in soft shadow) for captions and a logo; a small Maldivian local island of white sandy lanes, coral-stone walls, bougainvillea, palms and turquoise lagoon, and, in Malé, a wealthy family's dark modern home glowing with gold lamps and city lights.\nScene: Maura, beaming with joy, holding both of her father Salaam's hands in hers; Salaam smiling tenderly down at her; Reema a step behind them with a teasing grin, one hand on her bump; the white gate and bougainvillea behind. Location: Maura's family house on a Maldivian local island at night: a two-storey house with pale onion-pink walls, a white gate (dhoraashi) in a coral-stone wall with magenta bougainvillea spilling over it, a sandy front yard with potted plants, a garden hose and a wooden joali seat, a warm porch lamp, a sandy lane lit by a streetlamp. Camera: medium shot, eye level, faces in the upper two-thirds, a calm uncluttered lower third (sandy yard).\nCharacters: Salaam: a slim Maldivian man of about 58 with warm brown skin, a lean kind face, a gentle smile and a short grey beard; wears a white knitted skullcap, a light-grey long-sleeved kurta-style shirt and a dark checked ankle-length sarong. Maura: a petite slim Maldivian young woman of about 22 with fair light warm-brown skin, a soft round innocent face, large bright dark eyes, gently arched eyebrows, a small nose and a shy sweet smile; wears a loose long-sleeved ankle-length white dress with delicate lace sleeves and a plain white hijab wrapped snugly and fully covering her hair and neck, with a small white frangipani flower pinned at the side of the hijab. Reema: a Maldivian woman of about 28 with warm brown skin, a friendly round face with full cheeks and laughing dark eyes, eight months pregnant with a modest rounded bump; wears a loose long-sleeved ankle-length sage-green maternity dress and a dusty-pink hijab fully covering her hair and neck.\nMood/lighting: night, a warm golden porch lamp and a streetlamp, magenta bougainvillea glowing in the lamplight, joyful and warm.\nModest Maldivian clothing (every woman and girl in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck; men in shirts and long trousers, never shirtless, never in a towel), a clear respectful distance between unrelated men and women, nobody touching, culturally respectful, no cigarettes, no smoking, no violence, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "black",
+    "bg_luminance": 0.686,
+    "halo": true
+   },
+   "focus": {
+    "x_pct": 50.0,
+    "y_pct": 40.0,
+    "face_detected": false
+   }
+  },
+  {
+   "id": "beat_020",
+   "startMs": 498192,
+   "endMs": 513983,
+   "new_image_reason": "scene change: in the kitchen Zulfa lays out dish after dish; Maura is amazed",
+   "characters": [
+    "zulfa",
+    "maura"
+   ],
+   "location": "the kitchen and dining area of Maura's family house at night: a long wooden dining table, a slowly turning ceiling fan, warm yellow light, simple wooden kitchen cabinets, a tall fridge, a window onto the dark night",
+   "location_key": "kitchen",
+   "mood": "night, warm yellow kitchen light, homely, lively and full of laughter",
+   "visual": "Zulfa setting down one more dish on the long dining table already crowded with bowls and plates of food, smiling proudly; Maura sitting at the table with wide amazed eyes and a hand at her cheek",
+   "camera": "medium shot, eye level, faces in the upper two-thirds, a calm uncluttered lower third (the table top with dishes)",
+   "image": "images/beat_020.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "home_night",
+   "shots": [
+    {
+     "id": "shot_052",
+     "startMs": 498192,
+     "endMs": 505532,
+     "narration_dhivehi": "ފޮށިތައް ކޮޓަރިއަށް ލައިފައި އައިސް ކާގެއަށް މައުރާ ވަނެވެ. އޭރު މޭޒު މައްޗަށް ތަށިތައް ނެގުމަށް ޒުލްފާ އުޅެއެވެ.",
+     "narration_english": "After putting the boxes in her room, Maura came into the kitchen. Zulfa was busy putting the dishes on the table.",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [
+      {
+       "name": "cup_clatter",
+       "atMs": 503482,
+       "gainDb": -22,
+       "word": "ތަށިތައް"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_053",
+     "startMs": 505532,
+     "endMs": 513983,
+     "narration_dhivehi": "މޭޒުމަތީގައި އެކިވައްތަރު ވައްތަރުގެ ކާތަކެތި އަތުރަމުން ދިޔައިރު މައުރާ އިނީ ހައިރާންވެފައެވެ. އެހުރިހާ އެއްޗެއް ކާނެ ގޮތެއް ނޭނގިފައެވެ.",
+     "narration_english": "As all kinds of food were laid out on the table, Maura sat amazed, not knowing how she could possibly eat all of it.",
+     "crop": "tight",
+     "motion": "pan down",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      40.6,
+      3.7,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Zulfa; reference image 2 is Maura), create a new scene: Cinematic semi-realistic digital illustration with a warm romantic-drama look, rich gold and amber tones, soft golden lamplight with deep velvety shadows, luminous warm tropical daylight, gentle film grain, soft bokeh, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, sand lane, table top, balcony railing in soft shadow) for captions and a logo; a small Maldivian local island of white sandy lanes, coral-stone walls, bougainvillea, palms and turquoise lagoon, and, in Malé, a wealthy family's dark modern home glowing with gold lamps and city lights.\nScene: Zulfa setting down one more dish on the long dining table already crowded with bowls and plates of food, smiling proudly; Maura sitting at the table with wide amazed eyes and a hand at her cheek. Location: the kitchen and dining area of Maura's family house at night: a long wooden dining table, a slowly turning ceiling fan, warm yellow light, simple wooden kitchen cabinets, a tall fridge, a window onto the dark night. Camera: medium shot, eye level, faces in the upper two-thirds, a calm uncluttered lower third (the table top with dishes).\nCharacters: Zulfa: a plump Maldivian woman of about 52 with warm brown skin, a kind round face with laugh lines and warm dark eyes; wears a loose long-sleeved ankle-length soft-blue floral housecoat-style dress and a maroon headscarf fully covering her hair and neck. Maura: a petite slim Maldivian young woman of about 22 with fair light warm-brown skin, a soft round innocent face, large bright dark eyes, gently arched eyebrows, a small nose and a shy sweet smile; wears a loose long-sleeved ankle-length white dress with delicate lace sleeves and a plain white hijab wrapped snugly and fully covering her hair and neck, with a small white frangipani flower pinned at the side of the hijab.\nMood/lighting: night, warm yellow kitchen light, homely, lively and full of laughter.\nModest Maldivian clothing (every woman and girl in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck; men in shirts and long trousers, never shirtless, never in a towel), a clear respectful distance between unrelated men and women, nobody touching, culturally respectful, no cigarettes, no smoking, no violence, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.236,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 76.2,
+    "y_pct": 38.9,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_021",
+   "startMs": 513983,
+   "endMs": 532174,
+   "new_image_reason": "detail: the feast Zulfa has cooked (bondibai, breadfruit rice, garudhiya, lonumirus)",
+   "characters": [],
+   "location": "the kitchen and dining area of Maura's family house at night: a long wooden dining table, a slowly turning ceiling fan, warm yellow light, simple wooden kitchen cabinets, a tall fridge, a window onto the dark night",
+   "location_key": "kitchen",
+   "mood": "night, warm yellow kitchen light, homely, lively and full of laughter",
+   "visual": "a tight top-down close-up of the crowded dining table so the dishes fill the entire frame edge to edge, no room or background visible: a bowl of clear Maldivian tuna soup (garudhiya), a dish of yellow breadfruit rice, a bowl of creamy sweet rice pudding (bondibai), a small dish of red chilli-onion relish (lonumirus) with lime, steamed rice, fried fish and flatbread on a wooden table, under warm yellow light; no people, no hands, no chairs",
+   "camera": "top-down close-up, the dishes filling the whole frame, the dishes in the lower third kept simple and calm",
+   "image": "images/beat_021.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "home_night",
+   "shots": [
+    {
+     "id": "shot_054",
+     "startMs": 513983,
+     "endMs": 523333,
+     "narration_dhivehi": "ޒުލްފާއަކީ ކެއްކުމަށް ކުޅަދާނަ އަންހެނެއްކަން މައުރާއަށް އެނގެއެވެ. އެއްޗެހީގެ ރަހަ ރަނގަޅުވާނެ ކަމާއިމެދަކު މައުރާގެ ހިތަކު އެއްވެސް ޝައްކެއް ނެތެވެ.",
+     "narration_english": "Maura knew Zulfa was a skilled cook. Maura's heart had no doubt at all that everything would taste good.",
+     "crop": "full",
+     "motion": "static drift",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_055",
+     "startMs": 523333,
+     "endMs": 532174,
+     "narration_dhivehi": "\" މަންމާ އަޅެ ކިހިނެތް މިހުރިހާ އެއްޗެއް ކާނީވެސް....\" މައުރާ ދެލޮ ބޮޑުކޮށްލަމުން ބުނެލިއެވެ. \" ކޮންހާ ހާސަރުތަކެއް ދަމާކަށް... ކާން ޖެހޭނެ...",
+     "narration_english": "\"Mum, how am I supposed to eat all this...?\" Maura said, widening her eyes. \"Don't make such a fuss... you'll have to eat...",
+     "crop": "tight",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      40.6,
+      29.6,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Cinematic semi-realistic digital illustration with a warm romantic-drama look, rich gold and amber tones, soft golden lamplight with deep velvety shadows, luminous warm tropical daylight, gentle film grain, soft bokeh, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, sand lane, table top, balcony railing in soft shadow) for captions and a logo; a small Maldivian local island of white sandy lanes, coral-stone walls, bougainvillea, palms and turquoise lagoon, and, in Malé, a wealthy family's dark modern home glowing with gold lamps and city lights.\nScene: a tight top-down close-up of the crowded dining table so the dishes fill the entire frame edge to edge, no room or background visible: a bowl of clear Maldivian tuna soup (garudhiya), a dish of yellow breadfruit rice, a bowl of creamy sweet rice pudding (bondibai), a small dish of red chilli-onion relish (lonumirus) with lime, steamed rice, fried fish and flatbread on a wooden table, under warm yellow light; no people, no hands, no chairs. Location: the kitchen and dining area of Maura's family house at night: a long wooden dining table, a slowly turning ceiling fan, warm yellow light, simple wooden kitchen cabinets, a tall fridge, a window onto the dark night. Camera: top-down close-up, the dishes filling the whole frame, the dishes in the lower third kept simple and calm.\nMood/lighting: night, warm yellow kitchen light, homely, lively and full of laughter.\nModest Maldivian clothing (every woman and girl in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck; men in shirts and long trousers, never shirtless, never in a towel), a clear respectful distance between unrelated men and women, nobody touching, culturally respectful, no cigarettes, no smoking, no violence, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.344,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 76.6,
+    "y_pct": 92.5,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_022",
+   "startMs": 532174,
+   "endMs": 568045,
+   "new_image_reason": "character change: the whole family laughing at the table",
+   "characters": [
+    "maura",
+    "zulfa",
+    "salaam",
+    "reema"
+   ],
+   "location": "the kitchen and dining area of Maura's family house at night: a long wooden dining table, a slowly turning ceiling fan, warm yellow light, simple wooden kitchen cabinets, a tall fridge, a window onto the dark night",
+   "location_key": "kitchen",
+   "mood": "night, warm yellow kitchen light, homely, lively and full of laughter",
+   "visual": "the family seated around the long table full of food: Salaam laughing heartily, Zulfa wide-eyed and mock-stern pointing at the food, Maura with wide eyes and an embarrassed laugh, Reema laughing with a hand on her bump, and next to Reema her husband (a stocky man with a short beard in a navy polo shirt) laughing",
+   "camera": "medium wide shot, eye level, faces in the upper two-thirds, a calm uncluttered lower third (the table top)",
+   "image": "images/beat_022.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "home_night",
+   "shots": [
+    {
+     "id": "shot_056",
+     "startMs": 532174,
+     "endMs": 540664,
+     "narration_dhivehi": "މަންމަ ހާދަ ވަރަކުން ބަނބުކެޔޮ ބިނދެގެންނޭ ބަތް ކައްކާފަ މިހުރީ.....\" ޒުލްފާވެސް ދެލޯ ބޮޑުކޮށްލަމުން ބުނެލިއެވެ. ސަލާމް އިނދެފައި ހިނިގަނޑެއް ޖަހައިލިއެވެ.",
+     "narration_english": "Mum went to such trouble picking breadfruit to cook this rice...\" Zulfa said, widening her eyes too. Salaam, seated, burst out laughing.",
+     "crop": "full",
+     "motion": "pan left",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_057",
+     "startMs": 540664,
+     "endMs": 549784,
+     "narration_dhivehi": "ރީމާއާއި އައްސަދުވެސް ހޭން ފެށިއެވެ. \" ހެދެ ދަރިފުޅޫ... މަންމަ ހަވީރުން ސުރެން ހީވަނީ އެހެންފަދަ ކަމެއްހެން...\" ސަލާމް ބުނެލިއެވެ. \" އެއީ ތެދެއް...",
+     "narration_english": "Reema and Assad started laughing too. \"Ha, my child... Mum has been at it since the afternoon, it seems, for something like this...\" said Salaam. \"That's true...",
+     "crop": "tight",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      0.0,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_058",
+     "startMs": 549784,
+     "endMs": 557755,
+     "narration_dhivehi": "އެކަމަކު މިހާވަރަށް ކާން ވެއްޖެއްޔާ އިތުރަށް ފަލަ ކަންނޭނގެ ވާނީ... ބަލާ މިހާރުވެސް މިހުރި ވަރު.... \" މައުރާ ބުނެލިއެވެ.",
+     "narration_english": "but if I eat this much I'll probably get even fatter... look how I am already...\" said Maura.",
+     "crop": "full",
+     "motion": "pan right",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_059",
+     "startMs": 557755,
+     "endMs": 568045,
+     "narration_dhivehi": "\" ދެން ހިކިގެން ކަށިގަނޑަކަށް ވުމޯ.... އެއަށް ވުރެން މާ ރަނގަޅު ފަލަ ވިޔަސް މަންމައަށް... ގައިމުން މީރުކޮށް ކައިގެން ހުންނަހެން ހީވާނެ....\" ކާން ފަށަމުން ޒުލްފާ ބުނެލިއެވެ.",
+     "narration_english": "\"So you'd rather dry up into a skeleton? Better for Mum that you're plump... at least it looks like you're eating well,\" Zulfa said as she began to eat.",
+     "crop": "medium",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      0.0,
+      0.0,
+      71.5,
+      84.7
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Maura; reference image 2 is Zulfa; reference image 3 is Salaam; reference image 4 is Reema), create a new scene: Cinematic semi-realistic digital illustration with a warm romantic-drama look, rich gold and amber tones, soft golden lamplight with deep velvety shadows, luminous warm tropical daylight, gentle film grain, soft bokeh, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, sand lane, table top, balcony railing in soft shadow) for captions and a logo; a small Maldivian local island of white sandy lanes, coral-stone walls, bougainvillea, palms and turquoise lagoon, and, in Malé, a wealthy family's dark modern home glowing with gold lamps and city lights.\nScene: the family seated around the long table full of food: Salaam laughing heartily, Zulfa wide-eyed and mock-stern pointing at the food, Maura with wide eyes and an embarrassed laugh, Reema laughing with a hand on her bump, and next to Reema her husband (a stocky man with a short beard in a navy polo shirt) laughing. Location: the kitchen and dining area of Maura's family house at night: a long wooden dining table, a slowly turning ceiling fan, warm yellow light, simple wooden kitchen cabinets, a tall fridge, a window onto the dark night. Camera: medium wide shot, eye level, faces in the upper two-thirds, a calm uncluttered lower third (the table top).\nCharacters: Maura: a petite slim Maldivian young woman of about 22 with fair light warm-brown skin, a soft round innocent face, large bright dark eyes, gently arched eyebrows, a small nose and a shy sweet smile; wears a loose long-sleeved ankle-length white dress with delicate lace sleeves and a plain white hijab wrapped snugly and fully covering her hair and neck, with a small white frangipani flower pinned at the side of the hijab. Zulfa: a plump Maldivian woman of about 52 with warm brown skin, a kind round face with laugh lines and warm dark eyes; wears a loose long-sleeved ankle-length soft-blue floral housecoat-style dress and a maroon headscarf fully covering her hair and neck. Salaam: a slim Maldivian man of about 58 with warm brown skin, a lean kind face, a gentle smile and a short grey beard; wears a white knitted skullcap, a light-grey long-sleeved kurta-style shirt and a dark checked ankle-length sarong. Reema: a Maldivian woman of about 28 with warm brown skin, a friendly round face with full cheeks and laughing dark eyes, eight months pregnant with a modest rounded bump; wears a loose long-sleeved ankle-length sage-green maternity dress and a dusty-pink hijab fully covering her hair and neck.\nMood/lighting: night, warm yellow kitchen light, homely, lively and full of laughter.\nModest Maldivian clothing (every woman and girl in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck; men in shirts and long trousers, never shirtless, never in a towel), a clear respectful distance between unrelated men and women, nobody touching, culturally respectful, no cigarettes, no smoking, no violence, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.359,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 29.0,
+    "y_pct": 33.9,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_023",
+   "startMs": 568045,
+   "endMs": 595956,
+   "new_image_reason": "scene change: full and drowsy, Maura stops at her bedroom door; Reema calls from behind",
+   "characters": [
+    "maura",
+    "reema"
+   ],
+   "location": "the upstairs landing of Maura's family house at night: a simple tiled corridor with warm light, the open white door of Maura's bedroom",
+   "location_key": "landing",
+   "mood": "night, warm soft hallway light, homely and sleepy",
+   "visual": "Maura standing at the open white door of her bedroom on the upstairs landing, one hand resting on her stomach, turning back with a sleepy smile and a small nod; Reema at the other end of the corridor calling to her with one hand raised",
+   "camera": "medium wide shot, eye level, faces in the upper two-thirds, a calm uncluttered lower third (tiled corridor floor)",
+   "image": "images/beat_023.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "home_night",
+   "shots": [
+    {
+     "id": "shot_060",
+     "startMs": 568045,
+     "endMs": 578986,
+     "narration_dhivehi": "އަނެއްކާވެސް އެންމެންގެ ހުނުމުގެ އަޑު ބަދިގޭގައި ގުގުމައިލިއެވެ. އެހެންޏާއި ނުކާހާ ގިނައިން ކެވުމުން ބަނޑަށް އުނދަގޫވެފައި ހުރެ މައުރާ އައިސް ކޮޓަރި ދޮރުމައްޗަށް ހުއްޓުނެވެ.",
+     "narration_english": "Once again everyone's laughter rang through the kitchen. Having eaten more than ever before, her stomach uncomfortable, Maura came and stopped at her bedroom door.",
+     "crop": "full",
+     "motion": "pan up",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_061",
+     "startMs": 578986,
+     "endMs": 586546,
+     "narration_dhivehi": "އެހިނދު ފަހަތުން ރީމާ ގޮވައިލި އަޑު އިވުނެވެ. \" ކަމެއް ބޭނުން ވަންޏާ ގޮވައި ލައްޗޭ އިނގޭ ދޮންތައަށް... އާން އަދި އެއްކަންތައް...",
+     "narration_english": "Just then she heard Reema calling from behind. \"If you need anything, call Dhontha, okay... oh, and one more thing...",
+     "crop": "tight",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      2.7,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_062",
+     "startMs": 586546,
+     "endMs": 595956,
+     "narration_dhivehi": "މާދަމާ ދޮންތައާއިއެކުގައި ހޮސްޕިޓަލަށް ދާންވާނެ އިނގޭ... \" ރީމާ ބުނެލިއެވެ. އާން އެކޭ ބުނުމުގެ ގޮތުން ބޯ ޖަހައިލަމުން މައުރާ ކޮޓަރިއަށް ވަނެވެ.",
+     "narration_english": "tomorrow you have to go to the hospital with Dhontha, okay...\" said Reema. Nodding yes, Maura went into her room.",
+     "crop": "full",
+     "motion": "pan down",
+     "sfx": [
+      {
+       "name": "door_open",
+       "atMs": 594686,
+       "gainDb": -22,
+       "word": "ކޮޓަރިއަށް"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Maura; reference image 2 is Reema), create a new scene: Cinematic semi-realistic digital illustration with a warm romantic-drama look, rich gold and amber tones, soft golden lamplight with deep velvety shadows, luminous warm tropical daylight, gentle film grain, soft bokeh, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, sand lane, table top, balcony railing in soft shadow) for captions and a logo; a small Maldivian local island of white sandy lanes, coral-stone walls, bougainvillea, palms and turquoise lagoon, and, in Malé, a wealthy family's dark modern home glowing with gold lamps and city lights.\nScene: Maura standing at the open white door of her bedroom on the upstairs landing, one hand resting on her stomach, turning back with a sleepy smile and a small nod; Reema at the other end of the corridor calling to her with one hand raised. Location: the upstairs landing of Maura's family house at night: a simple tiled corridor with warm light, the open white door of Maura's bedroom. Camera: medium wide shot, eye level, faces in the upper two-thirds, a calm uncluttered lower third (tiled corridor floor).\nCharacters: Maura: a petite slim Maldivian young woman of about 22 with fair light warm-brown skin, a soft round innocent face, large bright dark eyes, gently arched eyebrows, a small nose and a shy sweet smile; wears a loose long-sleeved ankle-length white dress with delicate lace sleeves and a plain white hijab wrapped snugly and fully covering her hair and neck, with a small white frangipani flower pinned at the side of the hijab. Reema: a Maldivian woman of about 28 with warm brown skin, a friendly round face with full cheeks and laughing dark eyes, eight months pregnant with a modest rounded bump; wears a loose long-sleeved ankle-length sage-green maternity dress and a dusty-pink hijab fully covering her hair and neck.\nMood/lighting: night, warm soft hallway light, homely and sleepy.\nModest Maldivian clothing (every woman and girl in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck; men in shirts and long trousers, never shirtless, never in a towel), a clear respectful distance between unrelated men and women, nobody touching, culturally respectful, no cigarettes, no smoking, no violence, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "black",
+    "bg_luminance": 0.658,
+    "halo": true
+   },
+   "focus": {
+    "x_pct": 32.4,
+    "y_pct": 24.5,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_024",
+   "startMs": 595956,
+   "endMs": 631318,
+   "new_image_reason": "location change: her redecorated white room, prepared by her father",
+   "characters": [
+    "maura"
+   ],
+   "location": "Maura's newly redecorated bedroom upstairs: pale-green and pale-grey walls, a white queen bed, a white four-door wardrobe, a white dressing table, a white side table, and a glass balcony door with a white curtain opening onto a small balcony with a white railing that faces the street",
+   "location_key": "maura_room",
+   "mood": "night, soft warm lamplight on pale-green and pale-grey walls and white furniture, calm and delighted",
+   "visual": "Maura in her white lace dress and white hijab standing just inside her room, hands clasped at her chest, looking around in delight at the pale-green and pale-grey walls, the white wardrobe, the white dressing table and the white bed; the balcony door with its white curtain behind",
+   "camera": "medium wide shot, eye level, faces in the upper two-thirds, a calm uncluttered lower third (light floor tiles)",
+   "image": "images/beat_024.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "room_night",
+   "shots": [
+    {
+     "id": "shot_063",
+     "startMs": 595956,
+     "endMs": 603517,
+     "narration_dhivehi": "ކޮޓަރި ވަށައިގެން ރަނާ ނަޒަރު ހިންގައިލިއެވެ. ކޮޓަރީގެ ފަރުނީޗަރު ބަދަލުކޮށްލައި މުޅި ކޮޓަރި ވަނީ ބަދަލު ކޮށްލައިފައެވެ.",
+     "narration_english": "She ran her eyes around the room. The furniture had been changed and the whole room had been made over.",
+     "crop": "full",
+     "motion": "static drift",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_064",
+     "startMs": 603517,
+     "endMs": 608087,
+     "narration_dhivehi": "އެއީ ބައްޕަގެ މަސައްކަތްކަން ބަލާލި ކޮންމެ ދިމާއަކުން ދަނީ ފެންނަމުން ނެވެ.",
+     "narration_english": "Wherever she looked, she could see it was her father's work.",
+     "crop": "tight",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      26.4,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_065",
+     "startMs": 608087,
+     "endMs": 619918,
+     "narration_dhivehi": "ރަށަށް ބަދަލުވާ ވާހަކަ ބުނި ފަހުން މައުރާއަށް ކަމުދާނެ ގޮތަށް ކޮޓަރި ތައްޔާރު ކުރުމަށްޓަކައި ސަލާމް ދަނީ ކެނޑިނޭޅި މަސައްކަތްކުރަމުން ކަން ރީމާގެ ފަރާތުން މައުރާއަށް އޮތީ އެނގިފައެވެ.",
+     "narration_english": "Maura had learned from Reema that ever since she said she was moving back to the island, Salaam had been working non-stop to get the room ready just the way she would like it.",
+     "crop": "full",
+     "motion": "pan left",
+     "sfx": [],
+     "hum": true,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_066",
+     "startMs": 619918,
+     "endMs": 631318,
+     "narration_dhivehi": "ކޮޓަރި ފާރުގައި ލައިފައިވީ މަޑު ފެހިކުލައާއި މަޑު އަޅިކުލައިން ހިތަށް ހަމަޖެހުން ލިބުނެވެ. ކުއީން ސައިޒު އެނދާއި ބޮޑު ހަތަރު ދޮރުފަތްލީ އަލަމާރިއާއި ޑްރެސިންޓޭބަލްވެސް ވަނީ ހުދުކުލައިންނެވެ.",
+     "narration_english": "The pale green and pale grey of the room's walls brought her heart peace. The queen-size bed, the big four-door wardrobe and the dressing table were all white.",
+     "crop": "medium",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      20.4,
+      0.0,
+      71.5,
+      84.7
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Maura), create a new scene: Cinematic semi-realistic digital illustration with a warm romantic-drama look, rich gold and amber tones, soft golden lamplight with deep velvety shadows, luminous warm tropical daylight, gentle film grain, soft bokeh, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, sand lane, table top, balcony railing in soft shadow) for captions and a logo; a small Maldivian local island of white sandy lanes, coral-stone walls, bougainvillea, palms and turquoise lagoon, and, in Malé, a wealthy family's dark modern home glowing with gold lamps and city lights.\nScene: Maura in her white lace dress and white hijab standing just inside her room, hands clasped at her chest, looking around in delight at the pale-green and pale-grey walls, the white wardrobe, the white dressing table and the white bed; the balcony door with its white curtain behind. Location: Maura's newly redecorated bedroom upstairs: pale-green and pale-grey walls, a white queen bed, a white four-door wardrobe, a white dressing table, a white side table, and a glass balcony door with a white curtain opening onto a small balcony with a white railing that faces the street. Camera: medium wide shot, eye level, faces in the upper two-thirds, a calm uncluttered lower third (light floor tiles).\nCharacters: Maura: a petite slim Maldivian young woman of about 22 with fair light warm-brown skin, a soft round innocent face, large bright dark eyes, gently arched eyebrows, a small nose and a shy sweet smile; wears a loose long-sleeved ankle-length white dress with delicate lace sleeves and a plain white hijab wrapped snugly and fully covering her hair and neck, with a small white frangipani flower pinned at the side of the hijab.\nMood/lighting: night, soft warm lamplight on pale-green and pale-grey walls and white furniture, calm and delighted.\nModest Maldivian clothing (every woman and girl in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck; men in shirts and long trousers, never shirtless, never in a towel), a clear respectful distance between unrelated men and women, nobody touching, culturally respectful, no cigarettes, no smoking, no violence, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "black",
+    "bg_luminance": 0.658,
+    "halo": true
+   },
+   "focus": {
+    "x_pct": 56.2,
+    "y_pct": 22.5,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_025",
+   "startMs": 631318,
+   "endMs": 638558,
+   "new_image_reason": "time change: she falls asleep — the house at night, her upstairs window dark",
+   "characters": [],
+   "location": "Maura's family house on a Maldivian local island seen from the sandy lane late at night: the two-storey house with pale onion-pink walls, the coral-stone wall with magenta bougainvillea, and upstairs the glass balcony door with a white curtain opening onto a small balcony with a white railing facing the street",
+   "location_key": "house_upstairs",
+   "mood": "late night, silver moonlight and a streetlamp on the pale-pink walls, the upstairs window dark and still, quiet and peaceful",
+   "visual": "the pale-pink two-storey house seen from the quiet sandy lane late at night: the upstairs balcony door's white curtain dim and still, the house asleep, bougainvillea over the wall, the moon high above the palms; no people",
+   "camera": "wide shot from the lane, slightly low angle, the house and moon in the upper two-thirds, the empty sandy lane as the calm lower third",
+   "image": "images/beat_025.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "island_night",
+   "shots": [
+    {
+     "id": "shot_067",
+     "startMs": 631318,
+     "endMs": 638558,
+     "narration_dhivehi": "ފެންވަރާލަގެން އައިސް މައުރާ އެނދުގައި އޮށޯތީ ނިދޭތޯއެވެ. ވެފައި ހުރި ވަރުބައްޔާއި އެކު ނިދޭކަށް މާގިނައިރެއް ނުނެގިއެވެ.",
+     "narration_english": "After a shower, Maura lay down on the bed hoping to sleep. Tired as she was, it did not take long to fall asleep.",
+     "crop": "full",
+     "motion": "pan right",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Cinematic semi-realistic digital illustration with a warm romantic-drama look, rich gold and amber tones, soft golden lamplight with deep velvety shadows, luminous warm tropical daylight, gentle film grain, soft bokeh, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, sand lane, table top, balcony railing in soft shadow) for captions and a logo; a small Maldivian local island of white sandy lanes, coral-stone walls, bougainvillea, palms and turquoise lagoon, and, in Malé, a wealthy family's dark modern home glowing with gold lamps and city lights.\nScene: the pale-pink two-storey house seen from the quiet sandy lane late at night: the upstairs balcony door's white curtain dim and still, the house asleep, bougainvillea over the wall, the moon high above the palms; no people. Location: Maura's family house on a Maldivian local island seen from the sandy lane late at night: the two-storey house with pale onion-pink walls, the coral-stone wall with magenta bougainvillea, and upstairs the glass balcony door with a white curtain opening onto a small balcony with a white railing facing the street. Camera: wide shot from the lane, slightly low angle, the house and moon in the upper two-thirds, the empty sandy lane as the calm lower third.\nMood/lighting: late night, silver moonlight and a streetlamp on the pale-pink walls, the upstairs window dark and still, quiet and peaceful.\nModest Maldivian clothing (every woman and girl in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck; men in shirts and long trousers, never shirtless, never in a towel), a clear respectful distance between unrelated men and women, nobody touching, culturally respectful, no cigarettes, no smoking, no violence, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.324,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 50.0,
+    "y_pct": 40.0,
+    "face_detected": false
+   }
+  },
+  {
+   "id": "beat_026",
+   "startMs": 638558,
+   "endMs": 647029,
+   "new_image_reason": "time jump: she wakes thirsty at 3 a.m.",
+   "characters": [
+    "maura"
+   ],
+   "location": "Maura's newly redecorated bedroom upstairs: pale-green and pale-grey walls, a white queen bed, a white four-door wardrobe, a white dressing table, a white side table, and a glass balcony door with a white curtain opening onto a small balcony with a white railing that faces the street",
+   "location_key": "maura_room_3am",
+   "mood": "3 a.m., dark room, faint silver moonlight through the white balcony curtain, drowsy and quiet",
+   "visual": "Maura, wearing a loose long-sleeved ankle-length soft-lilac home dress and a white hijab fully covering her hair and neck, sitting up on the edge of her white bed in the dark room with her feet on the floor, drowsy, one hand at her throat, glancing at the empty white side table beside her; faint moonlight through the white curtain",
+   "camera": "medium shot, eye level, faces in the upper two-thirds, a calm uncluttered lower third (the dark floor)",
+   "image": "images/beat_026.png",
+   "reuse_of": null,
+   "transition_in": "black",
+   "sensitive": "clothing",
+   "safe_substitution": "bedtime: she wears a long lilac home dress and a white hijab, sitting up, never lying down",
+   "ambience": "room_night",
+   "shots": [
+    {
+     "id": "shot_068",
+     "startMs": 638558,
+     "endMs": 647029,
+     "narration_dhivehi": "ފެންބޮވައިގަނެގެން މައުރާއަށް ހޭލެވުނު އިރު ގަޑިން ތިނެއް ޖަހައިފިއެވެ. ކޮޓަރިއަށް ފެންފުޅިއެއްވެސް ނުގެނެވޭކަން ހަނދައިންވީ އެވަގުތުއެވެ.",
+     "narration_english": "When Maura woke up thirsty, the clock had struck three. Only then did she remember she had not brought a water bottle to her room.",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [
+      {
+       "name": "breath",
+       "atMs": 640388,
+       "gainDb": -24,
+       "word": "ހޭލެވުނު"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Maura), create a new scene: Cinematic semi-realistic digital illustration with a warm romantic-drama look, rich gold and amber tones, soft golden lamplight with deep velvety shadows, luminous warm tropical daylight, gentle film grain, soft bokeh, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, sand lane, table top, balcony railing in soft shadow) for captions and a logo; a small Maldivian local island of white sandy lanes, coral-stone walls, bougainvillea, palms and turquoise lagoon, and, in Malé, a wealthy family's dark modern home glowing with gold lamps and city lights.\nScene: Maura, wearing a loose long-sleeved ankle-length soft-lilac home dress and a white hijab fully covering her hair and neck, sitting up on the edge of her white bed in the dark room with her feet on the floor, drowsy, one hand at her throat, glancing at the empty white side table beside her; faint moonlight through the white curtain. Location: Maura's newly redecorated bedroom upstairs: pale-green and pale-grey walls, a white queen bed, a white four-door wardrobe, a white dressing table, a white side table, and a glass balcony door with a white curtain opening onto a small balcony with a white railing that faces the street. Camera: medium shot, eye level, faces in the upper two-thirds, a calm uncluttered lower third (the dark floor).\nCharacters: Maura: a petite slim Maldivian young woman of about 22 with fair light warm-brown skin, a soft round innocent face, large bright dark eyes, gently arched eyebrows, a small nose and a shy sweet smile; wears a loose long-sleeved ankle-length white dress with delicate lace sleeves and a plain white hijab wrapped snugly and fully covering her hair and neck, with a small white frangipani flower pinned at the side of the hijab.\nMood/lighting: 3 a.m., dark room, faint silver moonlight through the white balcony curtain, drowsy and quiet.\nModest Maldivian clothing (every woman and girl in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck; men in shirts and long trousers, never shirtless, never in a towel), a clear respectful distance between unrelated men and women, nobody touching, culturally respectful, no cigarettes, no smoking, no violence, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.155,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 50.0,
+    "y_pct": 40.0,
+    "face_detected": false
+   }
+  },
+  {
+   "id": "beat_027",
+   "startMs": 647029,
+   "endMs": 656959,
+   "new_image_reason": "location change: half asleep she takes a water bottle from the fridge",
+   "characters": [
+    "maura"
+   ],
+   "location": "the kitchen and dining area of Maura's family house at night: a long wooden dining table, a slowly turning ceiling fan, warm yellow light, simple wooden kitchen cabinets, a tall fridge, a window onto the dark night",
+   "location_key": "kitchen_3am",
+   "mood": "3 a.m., the house dark and silent, only the cold white light from the open fridge on her face, drowsy",
+   "visual": "Maura, wearing a loose long-sleeved ankle-length soft-lilac home dress and a white hijab fully covering her hair and neck, standing at the open fridge in the dark kitchen, its cold white light on her sleepy half-closed eyes, taking out a plain clear water bottle with no label",
+   "camera": "medium shot, eye level, faces in the upper two-thirds, a calm uncluttered lower third (the dark kitchen floor)",
+   "image": "images/beat_027.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "home_night",
+   "shots": [
+    {
+     "id": "shot_069",
+     "startMs": 647029,
+     "endMs": 656959,
+     "narration_dhivehi": "ކަންނެތް ވެފައި އޮވެވެސް ތެދުވެ ބަދިގެއަށް ދިޔައީ ފެންބޮވައިގަނެފައި ހުރިވަރުންނެވެ. އައިސް އަލަމާރިން ފެންފުޅިއެއް ނަގައިގެން ބޮމުން ބޮމުން އައިސް ކޮޓަރިއަށް ވަނެވެ.",
+     "narration_english": "Even half asleep she got up and went to the kitchen, she was so thirsty. Taking a water bottle from the fridge, drinking as she walked, she came back into her room.",
+     "crop": "full",
+     "motion": "pan up",
+     "sfx": [
+      {
+       "name": "footsteps_pavement",
+       "atMs": 649229,
+       "gainDb": -26,
+       "word": "ދިޔައީ"
+      },
+      {
+       "name": "door_open",
+       "atMs": 652649,
+       "gainDb": -24,
+       "word": "އަލަމާރިން"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Maura), create a new scene: Cinematic semi-realistic digital illustration with a warm romantic-drama look, rich gold and amber tones, soft golden lamplight with deep velvety shadows, luminous warm tropical daylight, gentle film grain, soft bokeh, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, sand lane, table top, balcony railing in soft shadow) for captions and a logo; a small Maldivian local island of white sandy lanes, coral-stone walls, bougainvillea, palms and turquoise lagoon, and, in Malé, a wealthy family's dark modern home glowing with gold lamps and city lights.\nScene: Maura, wearing a loose long-sleeved ankle-length soft-lilac home dress and a white hijab fully covering her hair and neck, standing at the open fridge in the dark kitchen, its cold white light on her sleepy half-closed eyes, taking out a plain clear water bottle with no label. Location: the kitchen and dining area of Maura's family house at night: a long wooden dining table, a slowly turning ceiling fan, warm yellow light, simple wooden kitchen cabinets, a tall fridge, a window onto the dark night. Camera: medium shot, eye level, faces in the upper two-thirds, a calm uncluttered lower third (the dark kitchen floor).\nCharacters: Maura: a petite slim Maldivian young woman of about 22 with fair light warm-brown skin, a soft round innocent face, large bright dark eyes, gently arched eyebrows, a small nose and a shy sweet smile; wears a loose long-sleeved ankle-length white dress with delicate lace sleeves and a plain white hijab wrapped snugly and fully covering her hair and neck, with a small white frangipani flower pinned at the side of the hijab.\nMood/lighting: 3 a.m., the house dark and silent, only the cold white light from the open fridge on her face, drowsy.\nModest Maldivian clothing (every woman and girl in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck; men in shirts and long trousers, never shirtless, never in a towel), a clear respectful distance between unrelated men and women, nobody touching, culturally respectful, no cigarettes, no smoking, no violence, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.265,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 50.0,
+    "y_pct": 40.0,
+    "face_detected": false
+   }
+  },
+  {
+   "id": "beat_028",
+   "startMs": 656959,
+   "endMs": 663870,
+   "new_image_reason": "back to the sleeping house as she sinks back into sleep (reuse)",
+   "characters": [],
+   "location": "Maura's family house on a Maldivian local island seen from the sandy lane late at night: the two-storey house with pale onion-pink walls, the coral-stone wall with magenta bougainvillea, and upstairs the glass balcony door with a white curtain opening onto a small balcony with a white railing facing the street",
+   "location_key": "house_upstairs",
+   "mood": "late night, silver moonlight and a streetlamp on the pale-pink walls, the upstairs window dark and still, quiet and peaceful",
+   "visual": "reuse of beat_025",
+   "camera": "medium shot, eye level",
+   "image": "images/beat_025.png",
+   "reuse_of": "beat_025",
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "island_night",
+   "shots": [
+    {
+     "id": "shot_070",
+     "startMs": 656959,
+     "endMs": 663870,
+     "narration_dhivehi": "ސައިޑް ޓޭބަލް މަތީގައި ފެންފުޅި ބަހައްޓައިލަމުން ނިދީގެ ތެރެއަށް މައުރާ އަނެއްކައިވެސް ފީނައި ގަތެވެ. ނުނިމޭ",
+     "narration_english": "Setting the water bottle down on the side table, Maura sank once again into sleep. To be continued.",
+     "crop": "medium",
+     "motion": "slow pull-out",
+     "sfx": [
+      {
+       "name": "soft_thud",
+       "atMs": 658949,
+       "gainDb": -24,
+       "word": "ބަހައްޓައިލަމުން"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      14.2,
+      0.0,
+      71.5,
+      84.7
+     ]
+    }
+   ],
+   "prompt_attempts": [],
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.157,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 50.0,
+    "y_pct": 40.0,
+    "face_detected": false
+   }
+  }
+ ]
+}

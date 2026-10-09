@@ -1,0 +1,2812 @@
+{
+ "series": "Hayaath",
+ "episode": 273,
+ "beats": [
+  {
+   "id": "beat_001",
+   "startMs": 0,
+   "endMs": 8680,
+   "new_image_reason": "new episode opening: scene continues on the shore right after the splash",
+   "characters": [
+    "hayaathu",
+    "maaroof"
+   ],
+   "location": "the edge of a secluded beach on the quiet side of a Maldivian island at night, rough coral rocks at the waterline, white sand, palm trees, full moon over a dark lagoon, waves breaking on the distant reef",
+   "location_key": "shore",
+   "mood": "night, silver moonlight, deep blue sea, tense and shocked",
+   "visual": "Hayaathu on the moonlit shore pressing her hand over her mouth in shock, staring at spreading ripples on the sea; Maaroof standing a few steps away, also staring at the water, alarmed",
+   "camera": "medium wide, eye level",
+   "image": "images/beat_001.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "beach_night",
+   "shots": [
+    {
+     "id": "shot_001",
+     "startMs": 0,
+     "endMs": 8680,
+     "narration_dhivehi": "ހަޔާތު އަނގަމަތީގައި އަތް އަޅާލަމުން ރޯން ފެށިއެވެ. \"ދޫމާ...\" މައުރޫފަށް ވެސް ބުނެވުނެވެ. ހަޔާތު ދެ ފަޔަށް ބާރުލާފައި ދުއްވައިގަތެވެ.",
+     "narration_english": "Hayaathu clapped her hand over her mouth and began to cry. 'Dhooma...' Maaroof said too. Hayaathu ran with all her strength.",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [
+      {
+       "name": "gasp",
+       "atMs": 2080,
+       "gainDb": -20,
+       "word": "ރޯން"
+      },
+      {
+       "name": "footsteps_sand",
+       "atMs": 7460,
+       "gainDb": -20,
+       "word": "ދުއްވައިގަތެވެ."
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Hayaathu; reference image 2 is Maaroof), create a new scene: Cinematic semi-realistic digital illustration, soft natural light, warm tropical colour palette with gentle rose and blush tones like a romantic drama book cover, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject in the upper two-thirds and calm, uncluttered space at the bottom for a logo.\nScene: Hayaathu on the moonlit shore pressing her hand over her mouth in shock, staring at spreading ripples on the sea; Maaroof standing a few steps away, also staring at the water, alarmed. Location: the edge of a secluded beach on the quiet side of a Maldivian island at night, rough coral rocks at the waterline, white sand, palm trees, full moon over a dark lagoon, waves breaking on the distant reef. Camera: medium wide, eye level.\nCharacters: Hayaathu: a Maldivian young woman in her early 20s with warm light-brown skin, soft oval face, large dark expressive eyes with long lashes, thick dark arched eyebrows, soft full lips, slim build; wears a loose long-sleeved ankle-length dusty-rose dress and a soft blush-pink chiffon hijab fully covering her hair and neck. Maaroof: a tall athletic Maldivian man in his late 20s with warm brown skin, short dark wavy hair, a well-groomed short dark beard, strong jaw and kind deep-set dark eyes; wears a white long-sleeved button shirt and dark navy trousers.\nMood/lighting: night, silver moonlight, deep blue sea, tense and shocked.\nModest Maldivian clothing, culturally respectful, no violence shown, no text, no letters, no writing, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.451,
+    "halo": true
+   },
+   "focus": {
+    "x_pct": 32.5,
+    "y_pct": 28.0,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_002",
+   "startMs": 8680,
+   "endMs": 27571,
+   "new_image_reason": "action change: Hayaathu has jumped into the sea and Maaroof dives after her",
+   "characters": [
+    "maaroof"
+   ],
+   "location": "the edge of a secluded beach on the quiet side of a Maldivian island at night, rough coral rocks at the waterline, white sand, palm trees, full moon over a dark lagoon, waves breaking on the distant reef",
+   "location_key": "shore",
+   "mood": "night, silver moonlight, deep blue sea, tense and shocked",
+   "visual": "Maaroof at the edge of the coral rocks, leaning forward to dive into the moonlit sea, shouting, a large splash and white foam in the water ahead of him where someone has just jumped in",
+   "camera": "wide shot from the side",
+   "image": "images/beat_002.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": "other",
+   "safe_substitution": "her jump into the sea is shown only as a splash; no person in the water",
+   "ambience": "beach_night",
+   "shots": [
+    {
+     "id": "shot_002",
+     "startMs": 8680,
+     "endMs": 18420,
+     "narration_dhivehi": "މައުރޫފަށް ހަޔާތުގެ އަތުގައި ނުހިފެހެއްޓިގެން އުޅެނިކޮށް ހަޔާތު އޭނާގެ ދައްތަ ސަލާމަތް ކުރަން މޫދަށް ފުންމާލިއެވެ. މައުރޫފްއަށް ލިބުނީ ކުއްލި ޙައިރާން ކަމެކެވެ.",
+     "narration_english": "Before Maaroof could catch her hand, Hayaathu jumped into the sea to save her sister. Maaroof was stunned.",
+     "crop": "full",
+     "motion": "pan left",
+     "sfx": [
+      {
+       "name": "splash",
+       "atMs": 14720,
+       "gainDb": -12,
+       "word": "ފުންމާލިއެވެ."
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_003",
+     "startMs": 18420,
+     "endMs": 27571,
+     "narration_dhivehi": "\"ހަޔާތު....\" މައުރޫފް އަޑުގެ ކޮޅަށް ގޮވާލަމުން ހަޔާތު ފުންމާލި ދިމާލުން މޫދަށް ފުއްމާލިއެވެ. ހަޔާތަށް ފަތަން ނޭނގޭކަން މައުރޫފަށް އެނގެއެވެ.",
+     "narration_english": "'Hayaathu!' Maaroof shouted at the top of his voice and dived in where she had jumped. He knew Hayaathu couldn't swim.",
+     "crop": "tight",
+     "motion": "slow pull-out",
+     "sfx": [
+      {
+       "name": "splash",
+       "atMs": 23460,
+       "gainDb": -12,
+       "word": "ފުއްމާލިއެވެ."
+      }
+     ],
+     "hum": true,
+     "crop_rect_pct": [
+      40.6,
+      0.0,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Maaroof), create a new scene: Cinematic semi-realistic digital illustration, soft natural light, warm tropical colour palette with gentle rose and blush tones like a romantic drama book cover, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject in the upper two-thirds and calm, uncluttered space at the bottom for a logo.\nScene: Maaroof at the edge of the coral rocks, leaning forward to dive into the moonlit sea, shouting, a large splash and white foam in the water ahead of him where someone has just jumped in. Location: the edge of a secluded beach on the quiet side of a Maldivian island at night, rough coral rocks at the waterline, white sand, palm trees, full moon over a dark lagoon, waves breaking on the distant reef. Camera: wide shot from the side.\nCharacters: Maaroof: a tall athletic Maldivian man in his late 20s with warm brown skin, short dark wavy hair, a well-groomed short dark beard, strong jaw and kind deep-set dark eyes; wears a white long-sleeved button shirt and dark navy trousers.\nMood/lighting: night, silver moonlight, deep blue sea, tense and shocked.\nModest Maldivian clothing, culturally respectful, no violence shown, no text, no letters, no writing, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.286,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 81.0,
+    "y_pct": 9.2,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_003",
+   "startMs": 27571,
+   "endMs": 56142,
+   "new_image_reason": "characters change: people arrive and Maaroof brings Dhooma ashore",
+   "characters": [
+    "maaroof"
+   ],
+   "location": "the edge of a secluded beach on the quiet side of a Maldivian island at night, rough coral rocks at the waterline, white sand, palm trees, full moon over a dark lagoon, waves breaking on the distant reef",
+   "location_key": "shore",
+   "mood": "night, silver moonlight, deep blue sea, tense and shocked",
+   "visual": "on the moonlit beach a small crowd of Maldivian men with torches at the waterline; a young woman (Dhooma: round gentle face, warm medium-brown skin, muted teal-green long dress, cream hijab) lies unconscious on the sand wrapped in a dry grey blanket; Maaroof, soaking wet, kneels a respectful arm's length away looking at her anxiously; there is NO wheelchair anywhere in the scene, only one woman",
+   "camera": "medium wide, slightly high angle",
+   "image": "images/beat_003.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": "other",
+   "safe_substitution": "the rescue and carrying are not shown; Dhooma already on the sand, covered, Maaroof at a respectful distance",
+   "ambience": "beach_night",
+   "shots": [
+    {
+     "id": "shot_004",
+     "startMs": 27571,
+     "endMs": 38181,
+     "narration_dhivehi": "އެ އަޑުތަކާ އެކު އެ ތަނަށް މީހުން އަންނަން ފެށިއެވެ. ދެތިން މީހުން މޫދަށް އެ ކުދިން ސަލާމަތް ކުރަން ފުންމާލިއެވެ. އިރުގަނޑެއް ފަހުން މައުރޫފް އެއްގަމަށް އެރީ ދޫމާ ގޮވައިގެންނެވެ.",
+     "narration_english": "At the noise people started coming. Two or three men jumped into the sea to save them. A while later Maaroof came ashore carrying Dhooma.",
+     "crop": "full",
+     "motion": "pan right",
+     "sfx": [
+      {
+       "name": "splash",
+       "atMs": 32921,
+       "gainDb": -18,
+       "word": "ފުންމާލިއެވެ."
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_005",
+     "startMs": 38181,
+     "endMs": 46991,
+     "narration_dhivehi": "ދެން ތިބި މީހުން ފީނަމުން ދިޔައީ ހަޔާތު ހޯދުމުގައެވެ. \"ދޫމާ... ދޫމާ...\" މައުރޫފް ދުމާގެ ކޮލުގައި މަޑުމަޑުން ޖަހާލަމުން ގޮވަމުން ދިޔައެވެ.",
+     "narration_english": "The others kept diving, searching for Hayaathu. 'Dhooma... Dhooma...' Maaroof called, gently tapping her cheek.",
+     "crop": "tight",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      13.0,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_006",
+     "startMs": 46991,
+     "endMs": 56142,
+     "narration_dhivehi": "ދޫމާގެ ޙަބަރެއް ނުވިއެވެ. އެ ތަނުގައި ދެންތިބި މީހުން ދޫމާ ހޮސްޕިޓަލަށް ގެއްދިޔައެވެ. މައުރޫފް އަނެއްކާ ވެސް މޫދަށް ފުންމާލިއެވެ. ހަޔާތު ހޯދާށެވެ.",
+     "narration_english": "Dhooma didn't respond. The people there took her to the hospital. Maaroof dived into the sea again, to look for Hayaathu.",
+     "crop": "full",
+     "motion": "pan up",
+     "sfx": [
+      {
+       "name": "splash",
+       "atMs": 54242,
+       "gainDb": -16,
+       "word": "ފުންމާލިއެވެ."
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Maaroof), create a new scene: Cinematic semi-realistic digital illustration, soft natural light, warm tropical colour palette with gentle rose and blush tones like a romantic drama book cover, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject in the upper two-thirds and calm, uncluttered space at the bottom for a logo.\nScene: on the moonlit beach a small crowd of Maldivian men with torches at the waterline; a young woman (Dhooma: round gentle face, warm medium-brown skin, muted teal-green long dress, cream hijab) lies unconscious on the sand wrapped in a dry grey blanket; Maaroof, soaking wet, kneels a respectful arm's length away looking at her anxiously; there is NO wheelchair anywhere in the scene, only one woman. Location: the edge of a secluded beach on the quiet side of a Maldivian island at night, rough coral rocks at the waterline, white sand, palm trees, full moon over a dark lagoon, waves breaking on the distant reef. Camera: medium wide, slightly high angle.\nCharacters: Maaroof: a tall athletic Maldivian man in his late 20s with warm brown skin, short dark wavy hair, a well-groomed short dark beard, strong jaw and kind deep-set dark eyes; wears a white long-sleeved button shirt and dark navy trousers.\nMood/lighting: night, silver moonlight, deep blue sea, tense and shocked.\nModest Maldivian clothing, culturally respectful, no violence shown, no text, no letters, no writing, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.484,
+    "halo": true
+   },
+   "focus": {
+    "x_pct": 42.7,
+    "y_pct": 28.6,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_004",
+   "startMs": 56142,
+   "endMs": 82703,
+   "new_image_reason": "action change: Maaroof searches the sea alone",
+   "characters": [
+    "maaroof"
+   ],
+   "location": "the dark open lagoon off a Maldivian island at night, moonlight on the water, distant torches on the shore",
+   "location_key": "sea",
+   "mood": "night, silver moonlight, dark water, desperate and exhausted",
+   "visual": "Maaroof soaking wet, standing waist-deep in the moonlit sea, exhausted and breathing hard, staring at the dark water with tearful eyes; far away small torches and a boat searching",
+   "camera": "medium shot, eye level",
+   "image": "images/beat_004.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "sea_search",
+   "shots": [
+    {
+     "id": "shot_007",
+     "startMs": 56142,
+     "endMs": 64282,
+     "narration_dhivehi": "އަޑިޔަށް ފީނާލާފައި މައްޗަށް އަރައެވެ. ފީނަމުން ދިޔަ ކުދިން ވެސް އެ ގޮތަށް އެތައް އިރެއްވަންދެން ހަޔާތު ހޯދުމުގެ މަސައްކަތުގައި އުޅުނެވެ.",
+     "narration_english": "He dived to the bottom and came back up. The divers too searched for Hayaathu like this for a long time.",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_008",
+     "startMs": 64282,
+     "endMs": 71262,
+     "narration_dhivehi": "މައުރޫފް ފީނާ ފީނާ ވަރުބަލިގެން މައްޗަށް އެރިއެވެ. ހަޔާތު އޭނަ ދޫކޮށް އެހާ އަވަހަށް ގޮސްދާނެ ކަމަކަށް ހިޔެއް ނުކުރެއެވެ.",
+     "narration_english": "Diving again and again, Maaroof came up exhausted. He couldn't believe Hayaathu would leave him and go so quickly.",
+     "crop": "tight",
+     "motion": "pan down",
+     "sfx": [
+      {
+       "name": "breath_heavy",
+       "atMs": 66322,
+       "gainDb": -22,
+       "word": "އެރިއެވެ."
+      }
+     ],
+     "hum": true,
+     "crop_rect_pct": [
+      11.5,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_009",
+     "startMs": 71262,
+     "endMs": 82703,
+     "narration_dhivehi": "ފީނާފީނާ ވަރުބަލިވެފައިވާ މައުރޫފް މޫދާއި ދިމާއަށް ކަރުނުން ފުރިފައިވާ ބެލުމަކުން ބަލަމުން ދިޔައެވެ. ސިފައިގެ މީހުންނާއި ރަށުގެ ގިނަ ބަޔަކު ހަޔާތު ހޯދުމުގެ މަސައްކަތް ކުރަމުން ދިޔައެވެ.",
+     "narration_english": "Exhausted, Maaroof stared at the sea with tear-filled eyes. Police and many islanders kept searching for Hayaathu.",
+     "crop": "full",
+     "motion": "static drift",
+     "sfx": [],
+     "hum": true,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Maaroof), create a new scene: Cinematic semi-realistic digital illustration, soft natural light, warm tropical colour palette with gentle rose and blush tones like a romantic drama book cover, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject in the upper two-thirds and calm, uncluttered space at the bottom for a logo.\nScene: Maaroof soaking wet, standing waist-deep in the moonlit sea, exhausted and breathing hard, staring at the dark water with tearful eyes; far away small torches and a boat searching. Location: the dark open lagoon off a Maldivian island at night, moonlight on the water, distant torches on the shore. Camera: medium shot, eye level.\nCharacters: Maaroof: a tall athletic Maldivian man in his late 20s with warm brown skin, short dark wavy hair, a well-groomed short dark beard, strong jaw and kind deep-set dark eyes; wears a white long-sleeved button shirt and dark navy trousers.\nMood/lighting: night, silver moonlight, dark water, desperate and exhausted.\nModest Maldivian clothing, culturally respectful, no violence shown, no text, no letters, no writing, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.199,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 41.2,
+    "y_pct": 24.9,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_005",
+   "startMs": 82703,
+   "endMs": 116884,
+   "new_image_reason": "scene change: the hospital",
+   "characters": [
+    "waheed",
+    "zoona",
+    "areesha"
+   ],
+   "location": "a small Maldivian island hospital corridor at night, pale green walls, plastic waiting chairs, fluorescent light, a door to the emergency room",
+   "location_key": "hospital_night",
+   "mood": "night, cold fluorescent light, tense and anxious",
+   "visual": "in the hospital corridor Waheed scolding his wife Zoona with a hard angry face, Zoona answering back defensively, while their daughter Areesha sits on a plastic chair nearby chatting on her phone, ignoring them",
+   "camera": "medium wide, eye level",
+   "image": "images/beat_005.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "hospital_night",
+   "shots": [
+    {
+     "id": "shot_010",
+     "startMs": 82703,
+     "endMs": 89883,
+     "narration_dhivehi": "ހޮސްޕިޓަލްގައި ހާސްވެފައި ޒޫނާ އާއި ވަހީދު ތިއްބެވެ. ވަހީދުގެ ހާސްކަމާ އެއް ވަރަށް ޒޫނާ ދެކެ ވަނީ ރުޅިއައިސްފައެވެ.",
+     "narration_english": "At the hospital Zoona and Waheed waited anxiously. As worried as he was, Waheed was furious with Zoona.",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_011",
+     "startMs": 89883,
+     "endMs": 97413,
+     "narration_dhivehi": "ތަނެއްތަނެއް ނުބަލާ އަޑުގަދަކުރާ ވަހީދު ދޫމާ ހޮސްޕިޓަލަށް ގެނައި ފަހުން ދެ ފަހަރަކަށް ޒޫނާއާއި ދިމާއަށް އެތިވަރު ގޮވައިފިއެވެ.",
+     "narration_english": "Waheed, who raises his voice anywhere, had already shouted at Zoona twice since Dhooma was brought in.",
+     "crop": "tight",
+     "motion": "pan left",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      20.3,
+      4.8,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_012",
+     "startMs": 97413,
+     "endMs": 109384,
+     "narration_dhivehi": "ޒޫނާ އަކީ ވެސް އަޑުގަދަ ފާޓުފުޅާ އަންހެންކަސް ވަހީދު ދެކެ އޭނަ ވެސް ޖެހިލުން ވެއެވެ. ޒޫނާގެ އެއްފަރާތެއްގައި ފޯނުން ޗެޓްކުރަން ހުރި އަރީޝާ އެ ދެ މީހުން ކިޔާ އެއްޗަކަށް ކުރާކަމަކަށް ނުބަލައެވެ.",
+     "narration_english": "Zoona was a loud, sharp-tongued woman, but even she feared Waheed. Next to Zoona, Areesha chatted on her phone, ignoring what they said.",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_013",
+     "startMs": 109384,
+     "endMs": 116884,
+     "narration_dhivehi": "އޭނަ ކުރާކަމެއް ކުރަމުން ދިޔައެވެ. \"އަހަރެން މި ބުނީ ތެދެއް މި ރޭ ހަޔާތު މަގޭ އަތުން މަރުވާނެ.\" ވަހީދު ހަރުކަށި ރާގަކަށް ބުންޏެވެ.",
+     "narration_english": "She went on with what she was doing. 'I'm telling you the truth — tonight Hayaathu will die by my hand,' Waheed said harshly.",
+     "crop": "medium",
+     "motion": "pan right",
+     "sfx": [],
+     "hum": true,
+     "crop_rect_pct": [
+      14.2,
+      0.0,
+      71.5,
+      84.7
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Waheed; reference image 2 is Zoona; reference image 3 is Areesha), create a new scene: Cinematic semi-realistic digital illustration, soft natural light, warm tropical colour palette with gentle rose and blush tones like a romantic drama book cover, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject in the upper two-thirds and calm, uncluttered space at the bottom for a logo.\nScene: in the hospital corridor Waheed scolding his wife Zoona with a hard angry face, Zoona answering back defensively, while their daughter Areesha sits on a plastic chair nearby chatting on her phone, ignoring them. Location: a small Maldivian island hospital corridor at night, pale green walls, plastic waiting chairs, fluorescent light, a door to the emergency room. Camera: medium wide, eye level.\nCharacters: Waheed: a heavy-set Maldivian man in his mid 50s with medium-brown skin, heavy square face, deep frown lines, a greying moustache, short greying hair and hard narrow eyes; wears a light grey long-sleeved button shirt and dark trousers. Zoona: a plump Maldivian woman in her mid 40s with medium-brown skin, round full face, arched pencilled eyebrows, light makeup, heavy-lidded eyes; wears a long-sleeved ankle-length maroon kaftan-style dress with a small print and a black hijab covering her hair and neck; often holds a smartphone. Areesha: a slim tall Maldivian young woman about 20 with light-brown skin, heart-shaped face, high cheekbones, sharp winged eyeliner and glossy lips, haughty expression; wears a loose long-sleeved ankle-length mustard-yellow maxi dress and a neatly styled beige satin hijab fully covering her hair and neck.\nMood/lighting: night, cold fluorescent light, tense and anxious.\nModest Maldivian clothing, culturally respectful, no violence shown, no text, no letters, no writing, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.309,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 50.0,
+    "y_pct": 40.0,
+    "face_detected": false
+   }
+  },
+  {
+   "id": "beat_006",
+   "startMs": 116884,
+   "endMs": 125564,
+   "new_image_reason": "emotional turning point: Areesha's secret smile",
+   "characters": [
+    "areesha"
+   ],
+   "location": "a small Maldivian island hospital corridor at night, pale green walls, plastic waiting chairs, fluorescent light, a door to the emergency room",
+   "location_key": "hospital_night",
+   "mood": "night, cold fluorescent light, tense and anxious",
+   "visual": "close-up of Areesha sitting on a hospital waiting chair holding her phone, a small secret satisfied smile spreading on her face",
+   "camera": "close-up",
+   "image": "images/beat_006.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "hospital_night",
+   "shots": [
+    {
+     "id": "shot_014",
+     "startMs": 116884,
+     "endMs": 125564,
+     "narration_dhivehi": "ވަހީދު އެ ބުނި ޖުމްލާން އަރީޝާގެ މޫނުމަތިން ހިނިތުންވުމެއް ފެނިގެން ދިޔައެވެ. ކީއްވެގެން ކަމެއް ނޭނގެއެވެ. އަރީޝާ ހަޔާތު ދެކެ ވަރަށް ރުޅިއާދެއެވެ.",
+     "narration_english": "At that sentence a smile appeared on Areesha's face. Who knows why. Areesha hates Hayaathu.",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Areesha), create a new scene: Cinematic semi-realistic digital illustration, soft natural light, warm tropical colour palette with gentle rose and blush tones like a romantic drama book cover, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject in the upper two-thirds and calm, uncluttered space at the bottom for a logo.\nScene: close-up of Areesha sitting on a hospital waiting chair holding her phone, a small secret satisfied smile spreading on her face. Location: a small Maldivian island hospital corridor at night, pale green walls, plastic waiting chairs, fluorescent light, a door to the emergency room. Camera: close-up.\nCharacters: Areesha: a slim tall Maldivian young woman about 20 with light-brown skin, heart-shaped face, high cheekbones, sharp winged eyeliner and glossy lips, haughty expression; wears a loose long-sleeved ankle-length mustard-yellow maxi dress and a neatly styled beige satin hijab fully covering her hair and neck.\nMood/lighting: night, cold fluorescent light, tense and anxious.\nModest Maldivian clothing, culturally respectful, no violence shown, no text, no letters, no writing, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.448,
+    "halo": true
+   },
+   "focus": {
+    "x_pct": 37.3,
+    "y_pct": 25.1,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_007",
+   "startMs": 125564,
+   "endMs": 163246,
+   "new_image_reason": "flashback: Areesha's jealousy of Hayaathu",
+   "characters": [
+    "areesha",
+    "maaroof",
+    "hayaathu"
+   ],
+   "location": "a modest Maldivian home in an earlier time, remembered, hazy and soft",
+   "location_key": "memory",
+   "mood": "hazy, desaturated, dreamlike memory, soft vignette",
+   "visual": "memory: Areesha half hidden behind a doorway, watching with jealous eyes as Maaroof and Hayaathu talk shyly at a respectful distance in a sunny garden",
+   "camera": "over-the-shoulder from behind Areesha",
+   "image": "images/beat_007.png",
+   "reuse_of": null,
+   "transition_in": "dissolve",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "memory",
+   "shots": [
+    {
+     "id": "shot_015",
+     "startMs": 125564,
+     "endMs": 138485,
+     "narration_dhivehi": "ހަޔާތަށް ރަނގަޅަކަށް އެއްކަމެއް ވެސް ވާކަށް އޭނަ ބޭނުމެއް ނޫނެވެ. އޭނަ މައުރޫފަށް އެދިއެދި ހުއްޓާ މައުރޫފް ހަޔާތަށް ލޯބި ހުށައެޅުން އެއީ އޭނަގެ ހިތުގައި ހަޔާތު ދޭތެރޭގައި އޮތް ނަފުރަތު އިތުރުވެގެން ދިޔަކަމެކެވެ.",
+     "narration_english": "She never wanted anything good to happen to Hayaathu. While she kept begging Maaroof, he proposed to Hayaathu — and her hatred grew.",
+     "crop": "full",
+     "motion": "pan up",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_016",
+     "startMs": 138485,
+     "endMs": 149225,
+     "narration_dhivehi": "އޭގެ ކުރިން ވެސް ހަޔާތުގެ ރީތިކަމަކީ އޭނާގެ ލޮލަށް ނިދިނައިސްގެން އުޅުނު ކަމެކެވެ. ހަޔާތުގެ މޫނުގެ ރީތިކަން ގެއްލުވާލަން އެތައް ދުވަހަކު އެތައް ގޮތަކަށް ވަނީ އަރީޝާ މަސައްކަތް ކޮށްފައެވެ.",
+     "narration_english": "Even before, Hayaathu's beauty had cost her sleep. For days Areesha had tried every way to ruin the beauty of Hayaathu's face.",
+     "crop": "tight",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      0.0,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_017",
+     "startMs": 149225,
+     "endMs": 156765,
+     "narration_dhivehi": "އެކަމަކު އެއިން އެއްވެސް ކަމަކުން ހަޔާތުގެ ރީތިކަމަކަށް ބަދަލެއް ނާދެއެވެ. މޫނުގައި ބިއްސެއް ނެގިޔަސް އަވަހަށް ފަސޭހަވެ ލަކުނެއް ނުލައެވެ.",
+     "narration_english": "But nothing changed Hayaathu's beauty. Even a pimple healed quickly without leaving a mark.",
+     "crop": "full",
+     "motion": "pan down",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_018",
+     "startMs": 156765,
+     "endMs": 163246,
+     "narration_dhivehi": "އެކަމުގެ ސަބަބުން އަރީޝާގެ ނިދިވަނީ ލޮލާ ދުރުވެފައެވެ. އެކަމަކު މިއަދު އަރީޝާ އެހެރީ ވަރަށް އުފަލުންނެވެ.",
+     "narration_english": "Because of that, sleep had left Areesha's eyes. But today Areesha was very happy.",
+     "crop": "medium",
+     "motion": "static drift",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      0.0,
+      0.0,
+      71.5,
+      84.7
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Areesha; reference image 2 is Maaroof; reference image 3 is Hayaathu), create a new scene: Cinematic semi-realistic digital illustration, soft natural light, warm tropical colour palette with gentle rose and blush tones like a romantic drama book cover, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject in the upper two-thirds and calm, uncluttered space at the bottom for a logo.\nScene: memory: Areesha half hidden behind a doorway, watching with jealous eyes as Maaroof and Hayaathu talk shyly at a respectful distance in a sunny garden. Location: a modest Maldivian home in an earlier time, remembered, hazy and soft. Camera: over-the-shoulder from behind Areesha.\nCharacters: Areesha: a slim tall Maldivian young woman about 20 with light-brown skin, heart-shaped face, high cheekbones, sharp winged eyeliner and glossy lips, haughty expression; wears a loose long-sleeved ankle-length mustard-yellow maxi dress and a neatly styled beige satin hijab fully covering her hair and neck. Maaroof: a tall athletic Maldivian man in his late 20s with warm brown skin, short dark wavy hair, a well-groomed short dark beard, strong jaw and kind deep-set dark eyes; wears a white long-sleeved button shirt and dark navy trousers. Hayaathu: a Maldivian young woman in her early 20s with warm light-brown skin, soft oval face, large dark expressive eyes with long lashes, thick dark arched eyebrows, soft full lips, slim build; wears a loose long-sleeved ankle-length dusty-rose dress and a soft blush-pink chiffon hijab fully covering her hair and neck.\nMood/lighting: hazy, desaturated, dreamlike memory, soft vignette.\nModest Maldivian clothing, culturally respectful, no violence shown, no text, no letters, no writing, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.513,
+    "halo": true
+   },
+   "focus": {
+    "x_pct": 25.8,
+    "y_pct": 28.8,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_008",
+   "startMs": 163246,
+   "endMs": 191687,
+   "new_image_reason": "flashback, different place and characters: Areesha complaining to her parents",
+   "characters": [
+    "areesha",
+    "waheed",
+    "zoona"
+   ],
+   "location": "a modest Maldivian home in an earlier time, remembered, hazy and soft",
+   "location_key": "memory",
+   "mood": "hazy, desaturated, dreamlike memory, soft vignette",
+   "visual": "memory: in the family living room Areesha pretending to cry, dabbing her eyes, in front of her parents Waheed and Zoona who sit on the sofa listening with grave faces; an envelope-like wedding proposal card on the table",
+   "camera": "medium wide",
+   "image": "images/beat_008.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "memory",
+   "shots": [
+    {
+     "id": "shot_019",
+     "startMs": 163246,
+     "endMs": 172856,
+     "narration_dhivehi": "އޭނަޔަށް އައިކައިވެނީގެ ދަޢުވަތު ހަޔާތުގެ ބޮލަށް ޖަހާފައެވެ. އެ މުސްކުޅި މީހާއާއި ހަޔާތު ދެވަން އޭނަ ކުޅެން ޖެހުނު ޑްރާ މާގިނައިރަކު ކުޅޭކަށް ވެސް ނުޖެހުނެވެ.",
+     "narration_english": "She had managed to push her own marriage proposal onto Hayaathu. The game she played to marry that old man to Hayaathu didn't even take long.",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_020",
+     "startMs": 172856,
+     "endMs": 181826,
+     "narration_dhivehi": "ދެ ތިން ފަހަރު ބައްޕައާއި މަންމަ ކައިރީގައި ރޮއި ގިސްލަމުން ހަޔާތު އޭނަޔަށް މަލާމަތް ކޮށް މީސް މީހުން ކައިރީގައި އެ މީހާގެ ވާހަކަ ދައްކަނީ އޭ ކިޔާ",
+     "narration_english": "Crying and sobbing two or three times in front of her father and mother, saying Hayaathu mocked her and gossiped about the man to others —",
+     "crop": "tight",
+     "motion": "pan left",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      0.0,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_021",
+     "startMs": 181826,
+     "endMs": 191687,
+     "narration_dhivehi": "ބުނުމުން ބައްޕަ އޭގެ ބަދަލު ހަޔާތަށް ދިނީއެވެ. ވަގުތު އެ ކައިވެނި ހަޔާތާއި ކުރުމަށް އެ މީހާގެ އާއިލާ ކުރެން އެދުނީއެވެ. މިއަދު އަރީޝާ އެހެރީ ވަރަށް އުފަލުން ނެވެ.",
+     "narration_english": "— and so her father gave Hayaathu in her place, and the man's family agreed to the marriage with Hayaathu. Today Areesha was very happy.",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Areesha; reference image 2 is Waheed; reference image 3 is Zoona), create a new scene: Cinematic semi-realistic digital illustration, soft natural light, warm tropical colour palette with gentle rose and blush tones like a romantic drama book cover, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject in the upper two-thirds and calm, uncluttered space at the bottom for a logo.\nScene: memory: in the family living room Areesha pretending to cry, dabbing her eyes, in front of her parents Waheed and Zoona who sit on the sofa listening with grave faces; an envelope-like wedding proposal card on the table. Location: a modest Maldivian home in an earlier time, remembered, hazy and soft. Camera: medium wide.\nCharacters: Areesha: a slim tall Maldivian young woman about 20 with light-brown skin, heart-shaped face, high cheekbones, sharp winged eyeliner and glossy lips, haughty expression; wears a loose long-sleeved ankle-length mustard-yellow maxi dress and a neatly styled beige satin hijab fully covering her hair and neck. Waheed: a heavy-set Maldivian man in his mid 50s with medium-brown skin, heavy square face, deep frown lines, a greying moustache, short greying hair and hard narrow eyes; wears a light grey long-sleeved button shirt and dark trousers. Zoona: a plump Maldivian woman in her mid 40s with medium-brown skin, round full face, arched pencilled eyebrows, light makeup, heavy-lidded eyes; wears a long-sleeved ankle-length maroon kaftan-style dress with a small print and a black hijab covering her hair and neck; often holds a smartphone.\nMood/lighting: hazy, desaturated, dreamlike memory, soft vignette.\nModest Maldivian clothing, culturally respectful, no violence shown, no text, no letters, no writing, no watermark.",
+   "logo": {
+    "color": "black",
+    "bg_luminance": 0.588,
+    "halo": true
+   },
+   "focus": {
+    "x_pct": 23.2,
+    "y_pct": 18.2,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_009",
+   "startMs": 191687,
+   "endMs": 199137,
+   "new_image_reason": "return to the hospital (reuse)",
+   "characters": [
+    "areesha"
+   ],
+   "location": "a small Maldivian island hospital corridor at night, pale green walls, plastic waiting chairs, fluorescent light, a door to the emergency room",
+   "location_key": "hospital_night",
+   "mood": "night, cold fluorescent light, tense and anxious",
+   "visual": "(reuse) Areesha's secret smile in the hospital",
+   "camera": "medium shot, eye level",
+   "image": "images/beat_006.png",
+   "reuse_of": "beat_006",
+   "transition_in": "dissolve",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "hospital_night",
+   "shots": [
+    {
+     "id": "shot_022",
+     "startMs": 191687,
+     "endMs": 199137,
+     "narration_dhivehi": "އަނެއްކޮޅުން ދޫމާއަށް ކުރިމަތިވި ކަންތަކުގެ ސަޒާ ވެސް އަންނަނީ ހަމަ ހަޔާތަށެވެ. އެހެން ވީމައި އަރީޝާ އުފާނުވާންވީ ކީއްވެހެއްޔެވެ.",
+     "narration_english": "And on the other side, the blame for what happened to Dhooma would also fall on Hayaathu. So why shouldn't Areesha be happy?",
+     "crop": "medium",
+     "motion": "pan right",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      1.6,
+      0.0,
+      71.5,
+      84.7
+     ]
+    }
+   ],
+   "prompt_attempts": [],
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.427,
+    "halo": true
+   },
+   "focus": {
+    "x_pct": 37.3,
+    "y_pct": 25.1,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_010",
+   "startMs": 199137,
+   "endMs": 237498,
+   "new_image_reason": "scene change: back to the shore; divers sit beside Maaroof",
+   "characters": [
+    "maaroof",
+    "hassan"
+   ],
+   "location": "the edge of a secluded beach on the quiet side of a Maldivian island at night, rough coral rocks at the waterline, white sand, palm trees, full moon over a dark lagoon, waves breaking on the distant reef",
+   "location_key": "shore",
+   "mood": "night, silver moonlight, deep blue sea, tense and shocked",
+   "visual": "Maaroof sitting on the coral rocks at the shore in wet clothes, wiping his tears, his friend Hassan sitting beside him with a hand on his shoulder, consoling; tired divers resting on the sand behind them",
+   "camera": "medium shot, eye level",
+   "image": "images/beat_010.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "beach_night",
+   "shots": [
+    {
+     "id": "shot_023",
+     "startMs": 199137,
+     "endMs": 209177,
+     "narration_dhivehi": "އަދިވެސް މައުރޫފް އިނީ ތޮށިގަނޑު މަތީގައެވެ. ޕޮލިހުންނާ ފީނާ ކުދިން ހަޔާތު ހޯދުމުގެ މަސައްކަތް ކުރިޔަށް ގެންދިޔައެވެ. މައުރޫފްގެ ލޮލުން ކަރުނަ އަންނަމުން ދިޔައެވެ.",
+     "narration_english": "Maaroof still sat at the water's edge. The police and divers continued the search for Hayaathu. Tears kept falling from Maaroof's eyes.",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_024",
+     "startMs": 209177,
+     "endMs": 217498,
+     "narration_dhivehi": "އޭނަ ހަޔާތު ހާސިލް ކުރުމަށްޓަކާ މިއަދާ ހަމަޔަށް އެ އަންނަނީ މަސައްކަތް ކުރަމުންނެވެ. ހަޔާތުގެ ބޮޑުބެގެ ޝަރުތަކީ 3 މިލިޔަން ރުފިޔާއެވެ.",
+     "narration_english": "To win Hayaathu he had worked until this very day. Her uncle's condition was 3 million rufiyaa.",
+     "crop": "tight",
+     "motion": "pan up",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      10.2,
+      29.6,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_025",
+     "startMs": 217498,
+     "endMs": 227738,
+     "narration_dhivehi": "އެހޯދުމުގައި ރެއާއި ދުވާލު މަސައްކަތް ކުރަމުން މައުރޫފް ދިޔައެވެ. ފީނާ ކުދިން ވަރުބަލި ވެގެން އެއްގަމަށް އެރިއެވެ. މައުރޫފް ކައިރީގައި އެ ކުދިން ވަރުބަލިކަމާއި އެކީގައި އިށީނެވެ.",
+     "narration_english": "He had worked day and night to earn it. The divers, exhausted, came ashore and sat down beside Maaroof.",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_026",
+     "startMs": 227738,
+     "endMs": 237498,
+     "narration_dhivehi": "މައުރޫފްގެ ލޮލުން އަންނަމުން ދިޔަ ކަރުނަ ފުހެލިއެވެ. \"މައުރޫފް... ހިތްވަރުކުރޭ....\" އުންމީދު ކަނޑާލާފައި ބުނާ ކަހަލަ ރާގެއްގައި އެކުވެރި ހަސަން ބުނެލިއެވެ.",
+     "narration_english": "Maaroof wiped away his tears. 'Maaroof... be strong...' his friend Hassan said, in a voice that had given up hope.",
+     "crop": "medium",
+     "motion": "pan down",
+     "sfx": [
+      {
+       "name": "sigh",
+       "atMs": 229908,
+       "gainDb": -22,
+       "word": "ފުހެލިއެވެ."
+      }
+     ],
+     "hum": true,
+     "crop_rect_pct": [
+      4.2,
+      15.3,
+      71.5,
+      84.7
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Maaroof; reference image 2 is Hassan), create a new scene: Cinematic semi-realistic digital illustration, soft natural light, warm tropical colour palette with gentle rose and blush tones like a romantic drama book cover, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject in the upper two-thirds and calm, uncluttered space at the bottom for a logo.\nScene: Maaroof sitting on the coral rocks at the shore in wet clothes, wiping his tears, his friend Hassan sitting beside him with a hand on his shoulder, consoling; tired divers resting on the sand behind them. Location: the edge of a secluded beach on the quiet side of a Maldivian island at night, rough coral rocks at the waterline, white sand, palm trees, full moon over a dark lagoon, waves breaking on the distant reef. Camera: medium shot, eye level.\nCharacters: Maaroof: a tall athletic Maldivian man in his late 20s with warm brown skin, short dark wavy hair, a well-groomed short dark beard, strong jaw and kind deep-set dark eyes; wears a white long-sleeved button shirt and dark navy trousers. Hassan: a stocky Maldivian man in his late 20s with deep brown skin, a round friendly face, short curly black hair and light stubble; wears a faded olive-green crew-neck t-shirt and dark grey long trousers.\nMood/lighting: night, silver moonlight, deep blue sea, tense and shocked.\nModest Maldivian clothing, culturally respectful, no violence shown, no text, no letters, no writing, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.189,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 39.9,
+    "y_pct": 73.3,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_011",
+   "startMs": 237498,
+   "endMs": 249739,
+   "new_image_reason": "detail image after a long moment: the moonlit view they always watched together",
+   "characters": [],
+   "location": "the edge of a secluded beach on the quiet side of a Maldivian island at night, rough coral rocks at the waterline, white sand, palm trees, full moon over a dark lagoon, waves breaking on the distant reef",
+   "location_key": "shore",
+   "mood": "night, silver moonlight, deep blue sea, tense and shocked",
+   "visual": "the full moon over the calm lagoon laying a silver path of light across the water, a leaning palm silhouette, an empty spot on the rocks, no people",
+   "camera": "wide shot",
+   "image": "images/beat_011.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "beach_night",
+   "shots": [
+    {
+     "id": "shot_027",
+     "startMs": 237498,
+     "endMs": 249739,
+     "narration_dhivehi": "މައުރޫފް އޭރު ވެސް އިނީ ބާނިނަގަމުންދާ ކަނޑާ ދިމާއަށް ބަލާށެވެ. އުނޑުގައިވާ ހަނދުގެ ރިހިއަލި ކަނޑަށް އެޅިފައިވާ ރީތި މަންޒަރަކީ އަބަދުވެސް ހަޔާތާއި އެކީގައި އެ ތަނަށް އައިސް ބަލާ މަންޒަރެކެވެ.",
+     "narration_english": "Maaroof was still looking at the dark sea. The silver moonlight on the sea was the view he always came to watch with Hayaathu.",
+     "crop": "full",
+     "motion": "static drift",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Cinematic semi-realistic digital illustration, soft natural light, warm tropical colour palette with gentle rose and blush tones like a romantic drama book cover, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject in the upper two-thirds and calm, uncluttered space at the bottom for a logo.\nScene: the full moon over the calm lagoon laying a silver path of light across the water, a leaning palm silhouette, an empty spot on the rocks, no people. Location: the edge of a secluded beach on the quiet side of a Maldivian island at night, rough coral rocks at the waterline, white sand, palm trees, full moon over a dark lagoon, waves breaking on the distant reef. Camera: wide shot.\nMood/lighting: night, silver moonlight, deep blue sea, tense and shocked.\nModest Maldivian clothing, culturally respectful, no violence shown, no text, no letters, no writing, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.398,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 75.0,
+    "y_pct": 16.4,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_012",
+   "startMs": 249739,
+   "endMs": 271760,
+   "new_image_reason": "scene change: the far side of the island, a stranger brings Hayaathu ashore",
+   "characters": [
+    "hayaathu",
+    "young_driver"
+   ],
+   "location": "a deserted moonlit beach on the far side of a Maldivian island, far from the village, a large old two-storey house with a veranda among the palm trees behind the beach",
+   "location_key": "far_beach",
+   "mood": "night, full moon, bright silver moonlight on the sand, mysterious and tender",
+   "visual": "Hayaathu lying unconscious on her back on the moonlit sand, fully clothed in her wet rose dress and blush-pink hijab, eyes closed, face lit by the moon; a young man in a wet black polo shirt stands a few steps away looking down at her face in wonder; the big old house among the palms behind",
+   "camera": "wide shot, slightly high angle",
+   "image": "images/beat_012.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": "other",
+   "safe_substitution": "the rescue and carrying are not shown; she already lies on the sand and he stands at a distance",
+   "ambience": "beach_night",
+   "shots": [
+    {
+     "id": "shot_028",
+     "startMs": 249739,
+     "endMs": 259839,
+     "narration_dhivehi": "ކަރުނުން ފުރިފައިވާ ދެ ލޯ މަރާލަމުން ހަށިފުރާ ނޭވާއެއްލިއެވެ. އާބާދީއާއި ދުރުން ރަށުގެ އަނެއްފަރާތުން މޫދުން ޒުވާނެއް ހޭނެތިފައި އޮތް ހަޔާތު ގޮވައިގެން އެރިއެވެ.",
+     "narration_english": "He closed his tear-filled eyes and let out a deep sigh. Far from the village, on the other side of the island, a young man came out of the sea carrying the unconscious Hayaathu.",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [
+      {
+       "name": "sigh",
+       "atMs": 251989,
+       "gainDb": -20,
+       "word": "ހަށިފުރާ"
+      },
+      {
+       "name": "footsteps_sand",
+       "atMs": 258709,
+       "gainDb": -22,
+       "word": "ގޮވައިގެން"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_029",
+     "startMs": 259839,
+     "endMs": 271760,
+     "narration_dhivehi": "ޒުވާނާ ހަޔާތު ވެލިގަނޑުމަތީގައި ބޭއްވުމަށްފަހު ހަޔާތަށް ބަލާލިއެވެ. ރެއަކީ ހަނދުވަރު އެންމެފުރިހަމަޔަށް ދީފައިވާ ރެއެއްކަމުން ހަނދުގެ ރިހި އަލިން ހަޔާތުގެ ރީތި މޫނު ޒުވާނާއަށް ފެނުނެވެ.",
+     "narration_english": "He laid her down on the sand and looked at her. It was a full-moon night, and in the silver light he saw Hayaathu's beautiful face.",
+     "crop": "tight",
+     "motion": "pan left",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      31.6,
+      0.0,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Hayaathu; reference image 2 is Fazaal), create a new scene: Cinematic semi-realistic digital illustration, soft natural light, warm tropical colour palette with gentle rose and blush tones like a romantic drama book cover, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject in the upper two-thirds and calm, uncluttered space at the bottom for a logo.\nScene: Hayaathu lying unconscious on her back on the moonlit sand, fully clothed in her wet rose dress and blush-pink hijab, eyes closed, face lit by the moon; a young man in a wet black polo shirt stands a few steps away looking down at her face in wonder; the big old house among the palms behind. Location: a deserted moonlit beach on the far side of a Maldivian island, far from the village, a large old two-storey house with a veranda among the palm trees behind the beach. Camera: wide shot, slightly high angle.\nCharacters: Hayaathu: a Maldivian young woman in her early 20s with warm light-brown skin, soft oval face, large dark expressive eyes with long lashes, thick dark arched eyebrows, soft full lips, slim build; wears a loose long-sleeved ankle-length dusty-rose dress and a soft blush-pink chiffon hijab fully covering her hair and neck. Fazaal (the young man): a tall lean Maldivian man about 25 with light-brown skin, clean-shaven, sharp cheekbones, straight dark eyebrows, intense dark eyes and short black hair swept back; wears a black polo shirt, grey chinos and a dark wristwatch.\nMood/lighting: night, full moon, bright silver moonlight on the sand, mysterious and tender.\nModest Maldivian clothing, culturally respectful, no violence shown, no text, no letters, no writing, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.392,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 61.3,
+    "y_pct": 14.6,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_013",
+   "startMs": 271760,
+   "endMs": 298671,
+   "new_image_reason": "action change: Hayaathu comes round",
+   "characters": [
+    "hayaathu",
+    "young_driver"
+   ],
+   "location": "a deserted moonlit beach on the far side of a Maldivian island, far from the village, a large old two-storey house with a veranda among the palm trees behind the beach",
+   "location_key": "far_beach",
+   "mood": "night, full moon, bright silver moonlight on the sand, mysterious and tender",
+   "visual": "Hayaathu propped up on one elbow on the moonlit sand, coughing, eyes half open and dazed; the young man kneels on the sand an arm's length away watching her face, astonished, moved",
+   "camera": "medium shot, low angle from the sand",
+   "image": "images/beat_013.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": "other",
+   "safe_substitution": "first aid and touching are not shown; only the moment she comes round, at a respectful distance",
+   "ambience": "beach_night",
+   "shots": [
+    {
+     "id": "shot_030",
+     "startMs": 271760,
+     "endMs": 281770,
+     "narration_dhivehi": "ޒުވާނާ ދެ ތިން ފަހަރު ހަޔާތުގެ ކޮލުގައި ޖަހާލިއެވެ. ހަޔާތުގެ އެއްވެސް ހޭވެރިކަމެއް ނެތެވެ. ޒުވާނާ ބަލަން ބަލާކަށް ނުހުރެ މޫދަށް ގެނބުމުން ދޭންޖެހޭ ފަރުފާ ދިނެވެ.",
+     "narration_english": "He tapped her cheek two or three times. No response. Without waiting, he gave her the first aid for drowning.",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": true,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_031",
+     "startMs": 281770,
+     "endMs": 290810,
+     "narration_dhivehi": "އިރުކޮޅެއްފަހުން ކޮށިއަރާ ކަހަލަ ގޮތަކަށް ކެއްސާލުމާއި އެކީގައި އެތެރެހަށީގައި ހުރި ލޮނުތައް ބޭރު ކޮށްލިއެވެ. ޒުވާނާ ހަޔާތުގެ މޫނަށް ބަލަމުން ދިޔައެވެ.",
+     "narration_english": "After a while, with a choking cough, she brought up the salt water. The young man kept looking at her face.",
+     "crop": "tight",
+     "motion": "pan right",
+     "sfx": [
+      {
+       "name": "gasp",
+       "atMs": 284310,
+       "gainDb": -18,
+       "word": "ކެއްސާލުމާއި"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      40.6,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_032",
+     "startMs": 290810,
+     "endMs": 298671,
+     "narration_dhivehi": "ކީއްވެގެން ކަމެއް ނޭނގެއެވެ. ޒުވާނާގެ ހިތް ބާރަށް ވިންދު ޖަހަމުން ދިޔައެވެ. އެއީ އޭނަ ދުވަހަކު ތަޖްރިބާ ކޮށްފައިވާ ކަމެއް ނޫނެވެ.",
+     "narration_english": "Who knows why. His heart was beating hard. It was something he had never felt before.",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [
+      {
+       "name": "heartbeat",
+       "atMs": 293770,
+       "gainDb": -16,
+       "word": "ވިންދު"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Hayaathu; reference image 2 is Fazaal), create a new scene: Cinematic semi-realistic digital illustration, soft natural light, warm tropical colour palette with gentle rose and blush tones like a romantic drama book cover, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject in the upper two-thirds and calm, uncluttered space at the bottom for a logo.\nScene: Hayaathu propped up on one elbow on the moonlit sand, coughing, eyes half open and dazed; the young man kneels on the sand an arm's length away watching her face, astonished, moved. Location: a deserted moonlit beach on the far side of a Maldivian island, far from the village, a large old two-storey house with a veranda among the palm trees behind the beach. Camera: medium shot, low angle from the sand.\nCharacters: Hayaathu: a Maldivian young woman in her early 20s with warm light-brown skin, soft oval face, large dark expressive eyes with long lashes, thick dark arched eyebrows, soft full lips, slim build; wears a loose long-sleeved ankle-length dusty-rose dress and a soft blush-pink chiffon hijab fully covering her hair and neck. Fazaal (the young man): a tall lean Maldivian man about 25 with light-brown skin, clean-shaven, sharp cheekbones, straight dark eyebrows, intense dark eyes and short black hair swept back; wears a black polo shirt, grey chinos and a dark wristwatch.\nMood/lighting: night, full moon, bright silver moonlight on the sand, mysterious and tender.\nModest Maldivian clothing, culturally respectful, no violence shown, no text, no letters, no writing, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.468,
+    "halo": true
+   },
+   "focus": {
+    "x_pct": 70.4,
+    "y_pct": 28.8,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_014",
+   "startMs": 298671,
+   "endMs": 320531,
+   "new_image_reason": "scene change: the coast guard search at sea",
+   "characters": [],
+   "location": "the dark sea off a Maldivian island at night with a coast guard boat and small wooden dhonis searching with spotlights",
+   "location_key": "search",
+   "mood": "night, spotlights sweeping the dark water, tense",
+   "visual": "a coast guard boat and several small wooden Maldivian dhonis on the dark sea at night sweeping their spotlights across the water, searching, no visible faces",
+   "camera": "wide shot",
+   "image": "images/beat_014.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "sea_search",
+   "shots": [
+    {
+     "id": "shot_033",
+     "startMs": 298671,
+     "endMs": 310021,
+     "narration_dhivehi": "ހަޔާތު ހޯދުމުގެ މަސައްކަތުގައި 3 ގަޑިއެއްހާ އިރުވާން ދަނީ އެވެ. އަދިވެސް ހަޔާތު ނުފެނެއެވެ. އެ ދިމާލުން މުޅި ހިސާބު ކޯސްޓްގާޑާއި ރަށުގެ ގިނަ ދޯނި ފަހަރުތައް ނިކުމެ ހޯދަމުން ދިޔައެވެ.",
+     "narration_english": "The search had gone on for nearly 3 hours. Still no Hayaathu. The coast guard and many island boats were out searching.",
+     "crop": "full",
+     "motion": "pan up",
+     "sfx": [
+      {
+       "name": "boat_engine",
+       "atMs": 307771,
+       "gainDb": -20,
+       "word": "ދޯނި"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_034",
+     "startMs": 310021,
+     "endMs": 320531,
+     "narration_dhivehi": "ދަންވި ދަންވިހެން މައުރޫފްގެ ހިތްވަރު އެލެމުން ދިޔައެވެ. ހަޔާތު އެ ތަނަށް ފުންމާލިޔަނުދީ އޭނަޔަށް ނުހިފެއްޓުނީތީ އެކަމާ ދެރަވެ އަމިއްލަ ނަފްސު ދެކެ ރުޅި އާދެވެން ފެށިއެވެ.",
+     "narration_english": "As time passed Maaroof lost heart. Angry that he hadn't held her back, he began to be furious with himself.",
+     "crop": "tight",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": true,
+     "crop_rect_pct": [
+      20.3,
+      4.8,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Cinematic semi-realistic digital illustration, soft natural light, warm tropical colour palette with gentle rose and blush tones like a romantic drama book cover, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject in the upper two-thirds and calm, uncluttered space at the bottom for a logo.\nScene: a coast guard boat and several small wooden Maldivian dhonis on the dark sea at night sweeping their spotlights across the water, searching, no visible faces. Location: the dark sea off a Maldivian island at night with a coast guard boat and small wooden dhonis searching with spotlights. Camera: wide shot.\nMood/lighting: night, spotlights sweeping the dark water, tense.\nModest Maldivian clothing, culturally respectful, no violence shown, no text, no letters, no writing, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.139,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 50.0,
+    "y_pct": 40.0,
+    "face_detected": false
+   }
+  },
+  {
+   "id": "beat_015",
+   "startMs": 320531,
+   "endMs": 348732,
+   "new_image_reason": "characters change: islanders gather on the shore, Maaroof learns the truth",
+   "characters": [
+    "maaroof"
+   ],
+   "location": "the edge of a secluded beach on the quiet side of a Maldivian island at night, rough coral rocks at the waterline, white sand, palm trees, full moon over a dark lagoon, waves breaking on the distant reef",
+   "location_key": "shore",
+   "mood": "night, silver moonlight, deep blue sea, tense and shocked",
+   "visual": "a crowd of islanders gathered on the moonlit beach talking in low voices, Maaroof among them in wet clothes listening, his face hardening with anger as he realises the truth",
+   "camera": "medium wide",
+   "image": "images/beat_015.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "beach_night",
+   "shots": [
+    {
+     "id": "shot_035",
+     "startMs": 320531,
+     "endMs": 329942,
+     "narration_dhivehi": "ރަށުގެ ގިނަ ބަޔަކު ވަނީ އެ ތަނަށް އެއްވެފައެވެ. ކުރެވެމުންދާ ސުވާލު ތަކާ އެ ސުވާލު ތަކަށް ލިބެމުން ދިޔަ ޖަވާބުތައް އެންމެގާތުން އަޑުއަހަމުން ދިޔައީ މައުރޫފެވެ.",
+     "narration_english": "Many islanders had gathered. Maaroof listened closely to the questions being asked and the answers given.",
+     "crop": "full",
+     "motion": "pan down",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_036",
+     "startMs": 329942,
+     "endMs": 339852,
+     "narration_dhivehi": "ހަޔާތާއި ދޫމާ މި ރޭ ރުއީ ކީއްވެގެންކަން މައުރޫފަށް އެނގުނީ އެ ހިސާބުންނެވެ. ހަޔާތުގެ ބޮޑުބޭބެ ވަހީދުގެ ހުރިނުލާފަކަން ކުރިން ވެސް މައުރޫފަށް އެނގެއެވެ.",
+     "narration_english": "That was how Maaroof learned why Hayaathu and Dhooma had cried tonight. He already knew how bad her uncle Waheed was.",
+     "crop": "tight",
+     "motion": "static drift",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      4.7,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_037",
+     "startMs": 339852,
+     "endMs": 348732,
+     "narration_dhivehi": "އެކަމަކު އެހާހިސާބަށް ގޮސްދާނެކަމަކަށް މައުރޫފް ހިޔެއް ނުކުރެއެވެ. އެ އަޑުތައް އިވުމާއި އެކީގައި މައުރޫފް ދެ ފަޔަށް ބާރުލާފައި ހޮސްޕިޓަލަށް ދިޔައެވެ.",
+     "narration_english": "But he never thought it would go this far. Hearing it all, Maaroof ran to the hospital.",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [
+      {
+       "name": "footsteps_pavement",
+       "atMs": 346712,
+       "gainDb": -20,
+       "word": "ބާރުލާފައި"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Maaroof), create a new scene: Cinematic semi-realistic digital illustration, soft natural light, warm tropical colour palette with gentle rose and blush tones like a romantic drama book cover, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject in the upper two-thirds and calm, uncluttered space at the bottom for a logo.\nScene: a crowd of islanders gathered on the moonlit beach talking in low voices, Maaroof among them in wet clothes listening, his face hardening with anger as he realises the truth. Location: the edge of a secluded beach on the quiet side of a Maldivian island at night, rough coral rocks at the waterline, white sand, palm trees, full moon over a dark lagoon, waves breaking on the distant reef. Camera: medium wide.\nCharacters: Maaroof: a tall athletic Maldivian man in his late 20s with warm brown skin, short dark wavy hair, a well-groomed short dark beard, strong jaw and kind deep-set dark eyes; wears a white long-sleeved button shirt and dark navy trousers.\nMood/lighting: night, silver moonlight, deep blue sea, tense and shocked.\nModest Maldivian clothing, culturally respectful, no violence shown, no text, no letters, no writing, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.39,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 34.4,
+    "y_pct": 23.7,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_016",
+   "startMs": 348732,
+   "endMs": 373973,
+   "new_image_reason": "scene change: hospital, waiting for Dhooma to wake",
+   "characters": [
+    "waheed",
+    "zoona"
+   ],
+   "location": "a small Maldivian island hospital corridor at night, pale green walls, plastic waiting chairs, fluorescent light, a door to the emergency room",
+   "location_key": "hospital_night",
+   "mood": "night, cold fluorescent light, tense and anxious",
+   "visual": "Waheed and Zoona standing worried in a hospital corridor in front of a large glass window, Waheed's jaw clenched; through the glass, inside the room, a young woman in a cream hijab lies unconscious in a hospital bed covered by a white sheet up to her shoulders; there is NO wheelchair anywhere and only one young woman, the one in the bed",
+   "camera": "medium wide, eye level",
+   "image": "images/beat_016.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "hospital_night",
+   "shots": [
+    {
+     "id": "shot_038",
+     "startMs": 348732,
+     "endMs": 356953,
+     "narration_dhivehi": "އޭރު ވަހީދާއި ޒޫނާ ދޫމާ ހޭނާރާތީ އެކަމާ ކަނބޮޑުވެފައި ތިއްބެވެ. ދޫމާއަށް ގެއްލުމެއް ވެއްޖެއްޔާ ވަހީދުގެ މުޅި ދިރިއުޅުން ބަރުބާދު ވާނެއެވެ.",
+     "narration_english": "Waheed and Zoona were worried because Dhooma hadn't woken. If anything happened to Dhooma, Waheed's whole life would be ruined.",
+     "crop": "full",
+     "motion": "pan left",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_039",
+     "startMs": 356953,
+     "endMs": 364033,
+     "narration_dhivehi": "އަނެއްކޮޅުން ހަޔާތަށް ވީގޮތެއް ނޭނގެއެވެ. ހަޔާތަށް ކަމެއް ވިޔަސް އޭނަޔަށް ދިއްކުރާނެ އިނގިތައް މަދެއް ނުވާނެއެވެ.",
+     "narration_english": "On the other hand, no one knew what had happened to Hayaathu. If anything happened to her, plenty of fingers would point at him.",
+     "crop": "tight",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      17.1,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_040",
+     "startMs": 364033,
+     "endMs": 373973,
+     "narration_dhivehi": "އަދި ވަހީދުގެ ބައްޕަގެ ވަސިއްޔަތާ ހިލާފު ވެވުނީއެވެ. އެ ހުރިހާކަމެއްގެ ރުޅި އައިސްފައި ވަހީދު އިނެވެ. އަނެއްކޮޅުން އަރީޝާ ހަޔާތު ނުފެނޭތޯ ދުޢާ ކުރަމުން ދިޔައެވެ.",
+     "narration_english": "And he had gone against his father's will. Waheed sat furious about all of it. Meanwhile Areesha kept wishing Hayaathu would not be found.",
+     "crop": "full",
+     "motion": "pan right",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Waheed; reference image 2 is Zoona), create a new scene: Cinematic semi-realistic digital illustration, soft natural light, warm tropical colour palette with gentle rose and blush tones like a romantic drama book cover, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject in the upper two-thirds and calm, uncluttered space at the bottom for a logo.\nScene: Waheed and Zoona standing worried in a hospital corridor in front of a large glass window, Waheed's jaw clenched; through the glass, inside the room, a young woman in a cream hijab lies unconscious in a hospital bed covered by a white sheet up to her shoulders; there is NO wheelchair anywhere and only one young woman, the one in the bed. Location: a small Maldivian island hospital corridor at night, pale green walls, plastic waiting chairs, fluorescent light, a door to the emergency room. Camera: medium wide, eye level.\nCharacters: Waheed: a heavy-set Maldivian man in his mid 50s with medium-brown skin, heavy square face, deep frown lines, a greying moustache, short greying hair and hard narrow eyes; wears a light grey long-sleeved button shirt and dark trousers. Zoona: a plump Maldivian woman in her mid 40s with medium-brown skin, round full face, arched pencilled eyebrows, light makeup, heavy-lidded eyes; wears a long-sleeved ankle-length maroon kaftan-style dress with a small print and a black hijab covering her hair and neck; often holds a smartphone.\nMood/lighting: night, cold fluorescent light, tense and anxious.\nModest Maldivian clothing, culturally respectful, no violence shown, no text, no letters, no writing, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.175,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 46.8,
+    "y_pct": 26.4,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_017",
+   "startMs": 373973,
+   "endMs": 407665,
+   "new_image_reason": "characters change: Maaroof storms in and confronts Waheed",
+   "characters": [
+    "maaroof",
+    "waheed",
+    "zoona",
+    "areesha"
+   ],
+   "location": "a small Maldivian island hospital corridor at night, pale green walls, plastic waiting chairs, fluorescent light, a door to the emergency room",
+   "location_key": "hospital_night",
+   "mood": "night, cold fluorescent light, tense and anxious",
+   "visual": "in the hospital corridor Maaroof, furious and red-faced in his wet shirt, held back by the arms by two men, confronting Waheed; Waheed, Zoona and Areesha staring at him",
+   "camera": "medium wide, eye level",
+   "image": "images/beat_017.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": "violence",
+   "safe_substitution": "the near attack is shown only as men holding Maaroof back; no blow",
+   "ambience": "hospital_night",
+   "shots": [
+    {
+     "id": "shot_041",
+     "startMs": 373973,
+     "endMs": 383474,
+     "narration_dhivehi": "އޭރުން އޭނަގެ މީހަކަށް މައުރޫފް އެ ހިސާބުން ވާނެއެވެ. އެއީ ޔަގީން ކަމެކެވެ. \"ވަހީދު.\" މައުރޫފް އެއްވެސް އަދަބު އިޙްތިރާމަކާ ނުލާ ވަހީދުގެ ނަން ގޮވާލިއެވެ.",
+     "narration_english": "Then Maaroof would be hers. She was sure of it. 'Waheed.' Maaroof called Waheed by name with no respect at all.",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_042",
+     "startMs": 383474,
+     "endMs": 390254,
+     "narration_dhivehi": "ވަހީދާ ހޮސްޕިޓަލްގައި ދެންތިބި މީހުން މައުރޫފަށް ބަލާލިއެވެ. މައުރޫފް ހުރީ ރުޅިއައިސް ރަތްވެފައެވެ.",
+     "narration_english": "Waheed and the others in the hospital looked at Maaroof. He was red with anger.",
+     "crop": "tight",
+     "motion": "pan up",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      0.0,
+      29.6,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_043",
+     "startMs": 390254,
+     "endMs": 396064,
+     "narration_dhivehi": "އެ ވަގުތު އެ ތަނުގައި ތިބި މީހުން މައުރޫފް ނުހިފެހެއްޓިނަމަ ވަހީދަށް ވަރުގަދަ ހަމަލާއެއް މައުރޫފަށް ދެވުނީހެވެ.",
+     "narration_english": "If the people there hadn't held him back, Maaroof would have attacked Waheed.",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": true,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_044",
+     "startMs": 396064,
+     "endMs": 407665,
+     "narration_dhivehi": "\"އަހަރެން ހިޔެއްނުކުރަން ވަހީދު ތިއީ ތިކަހަލަ މީހެއް ކަމަކަށް، އަހަރެންނަށް ވަޢުދު ވެފައި ހަޔާތު އެހެން މީހަކާ ދެވަން ތިނިންމީ، އޭގެ ނަތީޖާ ފެނިއްޖެއެއްނު، ލަދެއްނުގަނޭތަ؟\"",
+     "narration_english": "'I never thought you were that kind of man. After promising me, you decided to marry Hayaathu to someone else — now you see the result. Aren't you ashamed?'",
+     "crop": "medium",
+     "motion": "pan down",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      0.0,
+      15.3,
+      71.5,
+      84.7
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Maaroof; reference image 2 is Waheed; reference image 3 is Zoona; reference image 4 is Areesha), create a new scene: Cinematic semi-realistic digital illustration, soft natural light, warm tropical colour palette with gentle rose and blush tones like a romantic drama book cover, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject in the upper two-thirds and calm, uncluttered space at the bottom for a logo.\nScene: in the hospital corridor Maaroof, furious and red-faced in his wet shirt, held back by the arms by two men, confronting Waheed; Waheed, Zoona and Areesha staring at him. Location: a small Maldivian island hospital corridor at night, pale green walls, plastic waiting chairs, fluorescent light, a door to the emergency room. Camera: medium wide, eye level.\nCharacters: Maaroof: a tall athletic Maldivian man in his late 20s with warm brown skin, short dark wavy hair, a well-groomed short dark beard, strong jaw and kind deep-set dark eyes; wears a white long-sleeved button shirt and dark navy trousers. Waheed: a heavy-set Maldivian man in his mid 50s with medium-brown skin, heavy square face, deep frown lines, a greying moustache, short greying hair and hard narrow eyes; wears a light grey long-sleeved button shirt and dark trousers. Zoona: a plump Maldivian woman in her mid 40s with medium-brown skin, round full face, arched pencilled eyebrows, light makeup, heavy-lidded eyes; wears a long-sleeved ankle-length maroon kaftan-style dress with a small print and a black hijab covering her hair and neck; often holds a smartphone. Areesha: a slim tall Maldivian young woman about 20 with light-brown skin, heart-shaped face, high cheekbones, sharp winged eyeliner and glossy lips, haughty expression; wears a loose long-sleeved ankle-length mustard-yellow maxi dress and a neatly styled beige satin hijab fully covering her hair and neck.\nMood/lighting: night, cold fluorescent light, tense and anxious.\nModest Maldivian clothing, culturally respectful, no violence shown, no text, no letters, no writing, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.421,
+    "halo": true
+   },
+   "focus": {
+    "x_pct": 10.5,
+    "y_pct": 71.4,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_018",
+   "startMs": 407665,
+   "endMs": 458667,
+   "new_image_reason": "focus moves to Areesha: her lying accusation",
+   "characters": [
+    "areesha",
+    "zoona",
+    "waheed",
+    "maaroof"
+   ],
+   "location": "a small Maldivian island hospital corridor at night, pale green walls, plastic waiting chairs, fluorescent light, a door to the emergency room",
+   "location_key": "hospital_night",
+   "mood": "night, cold fluorescent light, tense and anxious",
+   "visual": "Areesha talking with a fake innocent, scornful face, Zoona tugging at her sleeve to stop her, Waheed and Maaroof both glaring at Areesha with narrowed eyes",
+   "camera": "medium shot",
+   "image": "images/beat_018.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "hospital_night",
+   "shots": [
+    {
+     "id": "shot_045",
+     "startMs": 407665,
+     "endMs": 416435,
+     "narration_dhivehi": "މައުރޫފް ރުއައިސްފައި ބުނަމުން ދިޔައެވެ. \"ބައްޕަ އެއްވެސް ކަމެއް ނުކުރޭ...\" އަރީޝާ އަވަސް އަވަހަށް ބުންޏެވެ. \"ހުރިހާ ކަމެއްވެސް އެކުރީ ހަޔާތު...",
+     "narration_english": "Maaroof said, furious. 'Dad didn't do anything...' Areesha said quickly. 'Hayaathu did everything...",
+     "crop": "full",
+     "motion": "static drift",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_046",
+     "startMs": 416435,
+     "endMs": 424605,
+     "narration_dhivehi": "އެ މީހާއާއި އިންނަން އެއްބަސްވީ ވެސް ހަޔާތު، ބައްޕަ ނުބުނޭ އެކައްޗެއް ވެސް، ފުރަތަމަ ވެސް އަހަރެންނާ ހަޔާތު އެ ވާހަކަ ދެއްކީ،",
+     "narration_english": "She agreed to marry that man herself. Dad didn't say a thing. Hayaathu told me about it first.",
+     "crop": "tight",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      0.0,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_047",
+     "startMs": 424605,
+     "endMs": 433156,
+     "narration_dhivehi": "އޭނަ ބޭނުންވަނީ އަވަހަށް މި ތަނުން ދާން، މައުރޫފް ހީކުރަނީ އެއީ މާރަނގަޅު މީހެއް ކަމަށްތަ؟ އޭނަގެ މަކަރު މައުރޫފަށް ނޭނގެނީ،",
+     "narration_english": "She wants to leave this place fast. Does Maaroof think she's such a good person? You don't know her tricks.",
+     "crop": "full",
+     "motion": "pan left",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_048",
+     "startMs": 433156,
+     "endMs": 442226,
+     "narration_dhivehi": "އެއީ އަހަރުމެން ކަހަލަ މީހެއް ނޫން.\" އަރީޝާ މަލާމާތުގެ ރާގެއްގައި ބުންޏެވެ. އަރީޝާ ވާހަކަ ދައްކަން ފެށުމުން ޒޫނާ އަވަސް އަވަހަށް އެކަން މަނާ ކުރިއެވެ.",
+     "narration_english": "She's not like us,' Areesha said mockingly. As soon as Areesha started talking, Zoona hurried to stop her.",
+     "crop": "medium",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      0.0,
+      0.0,
+      71.5,
+      84.7
+     ]
+    },
+    {
+     "id": "shot_049",
+     "startMs": 442226,
+     "endMs": 450686,
+     "narration_dhivehi": "ވަހީދު ދެ ލޯ އަޅާލަމުން އަރީޝާއަށް ބަލާލިއެވެ. މައުރޫފް ވެސް ދެ ލޯ އަޅާލަމުން އަރީޝާއަށް ބަލާލިއެވެ. މައުރޫފަށް އަރީޝާ އޮޅޭނެހެއްޔެވެ.",
+     "narration_english": "Waheed narrowed his eyes at Areesha. Maaroof too narrowed his eyes at her. Could Areesha fool Maaroof?",
+     "crop": "tight",
+     "motion": "pan right",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      0.0,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_050",
+     "startMs": 450686,
+     "endMs": 458667,
+     "narration_dhivehi": "ދޮގުހެދުމާ މަކަރުވެރި ރުއިން ރުއިމަށް އަރީޝާ ވަރަށް ކުލަދާނަވާނެއެވެ. ކޮންމެ ނުލަފާކަމެއް ކޮށްފައި ވެސް ހަޔާތުގެ ބޮލުގައި އަޅުވައެވެ.",
+     "narration_english": "Areesha was very good at lying and fake crying. Whatever wrong she did, she put on Hayaathu's head.",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Areesha; reference image 2 is Zoona; reference image 3 is Waheed; reference image 4 is Maaroof), create a new scene: Cinematic semi-realistic digital illustration, soft natural light, warm tropical colour palette with gentle rose and blush tones like a romantic drama book cover, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject in the upper two-thirds and calm, uncluttered space at the bottom for a logo.\nScene: Areesha talking with a fake innocent, scornful face, Zoona tugging at her sleeve to stop her, Waheed and Maaroof both glaring at Areesha with narrowed eyes. Location: a small Maldivian island hospital corridor at night, pale green walls, plastic waiting chairs, fluorescent light, a door to the emergency room. Camera: medium shot.\nCharacters: Areesha: a slim tall Maldivian young woman about 20 with light-brown skin, heart-shaped face, high cheekbones, sharp winged eyeliner and glossy lips, haughty expression; wears a loose long-sleeved ankle-length mustard-yellow maxi dress and a neatly styled beige satin hijab fully covering her hair and neck. Zoona: a plump Maldivian woman in her mid 40s with medium-brown skin, round full face, arched pencilled eyebrows, light makeup, heavy-lidded eyes; wears a long-sleeved ankle-length maroon kaftan-style dress with a small print and a black hijab covering her hair and neck; often holds a smartphone. Waheed: a heavy-set Maldivian man in his mid 50s with medium-brown skin, heavy square face, deep frown lines, a greying moustache, short greying hair and hard narrow eyes; wears a light grey long-sleeved button shirt and dark trousers. Maaroof: a tall athletic Maldivian man in his late 20s with warm brown skin, short dark wavy hair, a well-groomed short dark beard, strong jaw and kind deep-set dark eyes; wears a white long-sleeved button shirt and dark navy trousers.\nMood/lighting: night, cold fluorescent light, tense and anxious.\nModest Maldivian clothing, culturally respectful, no violence shown, no text, no letters, no writing, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.464,
+    "halo": true
+   },
+   "focus": {
+    "x_pct": 26.1,
+    "y_pct": 21.0,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_019",
+   "startMs": 458667,
+   "endMs": 477207,
+   "new_image_reason": "action change: Zoona pulls Areesha away; Maaroof's scornful reply",
+   "characters": [
+    "maaroof",
+    "zoona",
+    "areesha"
+   ],
+   "location": "a small Maldivian island hospital corridor at night, pale green walls, plastic waiting chairs, fluorescent light, a door to the emergency room",
+   "location_key": "hospital_night",
+   "mood": "night, cold fluorescent light, tense and anxious",
+   "visual": "Maaroof in the foreground with a scornful half smile, while behind him Zoona leads Areesha away down the corridor by the hand, Areesha glancing back sulkily",
+   "camera": "medium close-up with deep background",
+   "image": "images/beat_019.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "hospital_night",
+   "shots": [
+    {
+     "id": "shot_051",
+     "startMs": 458667,
+     "endMs": 467167,
+     "narration_dhivehi": "މައުރޫފް މަލާމާތުގެ ގޮތަކަށް އެއް ކޮލުން ހީލިއެވެ. \"އާނ، އަރީޝާ ތި ބުނީ ތެދެއް، ހަޔާތަކީ އަރީޝާ މެންކަހަލަ މީހެއް ނޫން.\"",
+     "narration_english": "Maaroof smiled scornfully with one side of his mouth. 'Yes, Areesha, you're right — Hayaathu is not someone like you.'",
+     "crop": "full",
+     "motion": "pan up",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_052",
+     "startMs": 467167,
+     "endMs": 477207,
+     "narration_dhivehi": "މައުރޫފް ބުނަން އެ އުޅެނީ ކީކޭކަން ޒޫނާއަށް އެނގުނެވެ. \"އަރީޝާ ދަރިފުޅާ ކޮންކަމެއް... އެކޮޅަށް ހިނގާ....\" ޒޫނާ އަރީޝާގެ އަތުގައި ހިފައިގެން އެ ތަނުން ދުރަށް ލިއެވެ.",
+     "narration_english": "Zoona understood what Maaroof meant. 'Areesha, dear, never mind... come this way...' Zoona took Areesha by the hand and led her away.",
+     "crop": "tight",
+     "motion": "slow pull-out",
+     "sfx": [
+      {
+       "name": "footsteps_pavement",
+       "atMs": 476377,
+       "gainDb": -24,
+       "word": "ދުރަށް"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      0.0,
+      0.0,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Maaroof; reference image 2 is Zoona; reference image 3 is Areesha), create a new scene: Cinematic semi-realistic digital illustration, soft natural light, warm tropical colour palette with gentle rose and blush tones like a romantic drama book cover, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject in the upper two-thirds and calm, uncluttered space at the bottom for a logo.\nScene: Maaroof in the foreground with a scornful half smile, while behind him Zoona leads Areesha away down the corridor by the hand, Areesha glancing back sulkily. Location: a small Maldivian island hospital corridor at night, pale green walls, plastic waiting chairs, fluorescent light, a door to the emergency room. Camera: medium close-up with deep background.\nCharacters: Maaroof: a tall athletic Maldivian man in his late 20s with warm brown skin, short dark wavy hair, a well-groomed short dark beard, strong jaw and kind deep-set dark eyes; wears a white long-sleeved button shirt and dark navy trousers. Zoona: a plump Maldivian woman in her mid 40s with medium-brown skin, round full face, arched pencilled eyebrows, light makeup, heavy-lidded eyes; wears a long-sleeved ankle-length maroon kaftan-style dress with a small print and a black hijab covering her hair and neck; often holds a smartphone. Areesha: a slim tall Maldivian young woman about 20 with light-brown skin, heart-shaped face, high cheekbones, sharp winged eyeliner and glossy lips, haughty expression; wears a loose long-sleeved ankle-length mustard-yellow maxi dress and a neatly styled beige satin hijab fully covering her hair and neck.\nMood/lighting: night, cold fluorescent light, tense and anxious.\nModest Maldivian clothing, culturally respectful, no violence shown, no text, no letters, no writing, no watermark.",
+   "logo": {
+    "color": "black",
+    "bg_luminance": 0.55,
+    "halo": true
+   },
+   "focus": {
+    "x_pct": 25.9,
+    "y_pct": 22.6,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_020",
+   "startMs": 477207,
+   "endMs": 502608,
+   "new_image_reason": "action change: Hayaathu is brought into the emergency room",
+   "characters": [
+    "hassan",
+    "maaroof"
+   ],
+   "location": "a small Maldivian island hospital corridor at night, pale green walls, plastic waiting chairs, fluorescent light, a door to the emergency room",
+   "location_key": "hospital_night",
+   "mood": "night, cold fluorescent light, tense and anxious",
+   "visual": "at the hospital emergency entrance at night police officers and medics rush in a stretcher with a young woman under a blanket (face not visible); Hassan in the foreground, breathless, calling out; Maaroof turning towards him",
+   "camera": "wide shot, eye level",
+   "image": "images/beat_020.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "hospital_night",
+   "shots": [
+    {
+     "id": "shot_053",
+     "startMs": 477207,
+     "endMs": 487008,
+     "narration_dhivehi": "މައުރޫފް ވަހީދާ ދިމާއަށް އެއްޗެއް ބުނަން އުޅުނު ވަގުތު ސިފައިގެން މީހުން ހޭނެތިފައި އޮތް އަންހެންކުއްޖަކު ގޮވައިގެން އައިސް އެމެޖެންސީގައި ވަނެވެ.",
+     "narration_english": "As Maaroof was about to say something to Waheed, police officers rushed into the emergency room carrying an unconscious girl.",
+     "crop": "full",
+     "motion": "pan down",
+     "sfx": [
+      {
+       "name": "wheelchair_roll",
+       "atMs": 485218,
+       "gainDb": -20,
+       "word": "އެމެޖެންސީގައި"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_054",
+     "startMs": 487008,
+     "endMs": 495268,
+     "narration_dhivehi": "އެ ތަނުގައި އެއްވެ ތިބި މީހުން ދުވެފައި އެ ތަނަށް ދިޔައެވެ. އެ ތަނުން ގިނަ މީހުންނަށް އެއީ ކޮންކުއްޖެއްކަން އެނގުނެވެ. \"މައުރޫފް ހަޔާތު ފެނިއްޖެ....\"",
+     "narration_english": "The people gathered there ran over. Many knew who she was. 'Maaroof, Hayaathu's been found!'",
+     "crop": "tight",
+     "motion": "static drift",
+     "sfx": [
+      {
+       "name": "footsteps_pavement",
+       "atMs": 488538,
+       "gainDb": -20,
+       "word": "ދުވެފައި"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      40.6,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_055",
+     "startMs": 495268,
+     "endMs": 502608,
+     "narration_dhivehi": "ހަސަނު ނޭވާ ހަމަޔަކަށް އަޅުވާލަމުން ބުންޏެވެ. މައުރޫފް ވަހީދަށް ބެލުމެއްނެތި ދުވެފައި އެމެޖެންސީ އާއި ދިމާއަށް ދިޔައެވެ.",
+     "narration_english": "Hassan said, catching his breath. Without a glance at Waheed, Maaroof ran towards the emergency room.",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [
+      {
+       "name": "footsteps_pavement",
+       "atMs": 500058,
+       "gainDb": -20,
+       "word": "ދުވެފައި"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Hassan; reference image 2 is Maaroof), create a new scene: Cinematic semi-realistic digital illustration, soft natural light, warm tropical colour palette with gentle rose and blush tones like a romantic drama book cover, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject in the upper two-thirds and calm, uncluttered space at the bottom for a logo.\nScene: at the hospital emergency entrance at night police officers and medics rush in a stretcher with a young woman under a blanket (face not visible); Hassan in the foreground, breathless, calling out; Maaroof turning towards him. Location: a small Maldivian island hospital corridor at night, pale green walls, plastic waiting chairs, fluorescent light, a door to the emergency room. Camera: wide shot, eye level.\nCharacters: Hassan: a stocky Maldivian man in his late 20s with deep brown skin, a round friendly face, short curly black hair and light stubble; wears a faded olive-green crew-neck t-shirt and dark grey long trousers. Maaroof: a tall athletic Maldivian man in his late 20s with warm brown skin, short dark wavy hair, a well-groomed short dark beard, strong jaw and kind deep-set dark eyes; wears a white long-sleeved button shirt and dark navy trousers.\nMood/lighting: night, cold fluorescent light, tense and anxious.\nModest Maldivian clothing, culturally respectful, no violence shown, no text, no letters, no writing, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.472,
+    "halo": true
+   },
+   "focus": {
+    "x_pct": 80.1,
+    "y_pct": 21.3,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_021",
+   "startMs": 502608,
+   "endMs": 530029,
+   "new_image_reason": "time jump and location change: dawn after Fajr prayer",
+   "characters": [
+    "maaroof"
+   ],
+   "location": "outside a white coral-stone Maldivian mosque at dawn, sandy lane, palm trees, low walls, pink and pale-blue sky",
+   "location_key": "dawn_mosque",
+   "mood": "early dawn, soft pink and blue light, tired and quiet",
+   "visual": "men in sarongs and caps leaving a white coral-stone mosque at dawn; Maaroof, sleepless and tired, leaning back against a low white wall with his arms crossed, staring at the pale pink sky",
+   "camera": "medium wide",
+   "image": "images/beat_021.png",
+   "reuse_of": null,
+   "transition_in": "black",
+   "sensitive": "other",
+   "safe_substitution": "the narration mentions him lighting a cigarette; smoking is never shown, he simply leans against the wall",
+   "ambience": "dawn_exterior",
+   "shots": [
+    {
+     "id": "shot_056",
+     "startMs": 502608,
+     "endMs": 511398,
+     "narration_dhivehi": "ފަތިސްނަމާދަށް ފަހު މިސްކިއްތަކުން މީހުން އެކި ދިމަދިމާއަށް ދާންފެށިއެވެ. މައުރޫފް މިސްކިތުން ނިކުތް ގޮތަށް ޖީބުން ސިނގިރޭޓެއް ނަގައި ރޯކޮށްލިއެވެ.",
+     "narration_english": "After the dawn prayer, people left the mosques in every direction. Coming out of the mosque, Maaroof stopped by the wall.",
+     "crop": "full",
+     "motion": "pan left",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_057",
+     "startMs": 511398,
+     "endMs": 519329,
+     "narration_dhivehi": "ރޭގައި ހިނގި ހާދިސާގެ ސަބަބުން މައުރޫފް ވެސް އަދި ނުނިދައެވެ. ސިނގިރޭޓްގެ ދުންތައް ފަޒާގެ ތެރެއަށް ދޫކޮށްލަމުން ފާރުގައި ލެނގިލިއެވެ.",
+     "narration_english": "After last night, Maaroof hadn't slept yet. He leaned back against the wall, staring into the sky.",
+     "crop": "tight",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      0.6,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_058",
+     "startMs": 519329,
+     "endMs": 530029,
+     "narration_dhivehi": "މި ރޭގެ ހާދިސާން އޭނަޔަށް ހަޔާތު ގެއްލުނީހެވެ. ވަހީދުގެ ވިސްނުން ހުރިގޮތް މައުރޫފަށް އެނގުމުން ހަޔާތު ގަދަކަމުން މީހަކާ ދެވާފާނެކަމުގެ ބިރު ހިތުގައި އުފެދިގެން ދިޔައެވެ.",
+     "narration_english": "Last night he had almost lost Hayaathu. Knowing how Waheed thinks, he was afraid she would be forced to marry someone.",
+     "crop": "full",
+     "motion": "pan right",
+     "sfx": [],
+     "hum": true,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Maaroof), create a new scene: Cinematic semi-realistic digital illustration, soft natural light, warm tropical colour palette with gentle rose and blush tones like a romantic drama book cover, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject in the upper two-thirds and calm, uncluttered space at the bottom for a logo.\nScene: men in sarongs and caps leaving a white coral-stone mosque at dawn; Maaroof, sleepless and tired, leaning back against a low white wall with his arms crossed, staring at the pale pink sky. Location: outside a white coral-stone Maldivian mosque at dawn, sandy lane, palm trees, low walls, pink and pale-blue sky. Camera: medium wide.\nCharacters: Maaroof: a tall athletic Maldivian man in his late 20s with warm brown skin, short dark wavy hair, a well-groomed short dark beard, strong jaw and kind deep-set dark eyes; wears a white long-sleeved button shirt and dark navy trousers.\nMood/lighting: early dawn, soft pink and blue light, tired and quiet.\nModest Maldivian clothing, culturally respectful, no violence shown, no text, no letters, no writing, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.359,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 30.3,
+    "y_pct": 25.9,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_022",
+   "startMs": 530029,
+   "endMs": 564680,
+   "new_image_reason": "characters change: Hassan joins Maaroof",
+   "characters": [
+    "maaroof",
+    "hassan"
+   ],
+   "location": "outside a white coral-stone Maldivian mosque at dawn, sandy lane, palm trees, low walls, pink and pale-blue sky",
+   "location_key": "dawn_mosque",
+   "mood": "early dawn, soft pink and blue light, tired and quiet",
+   "visual": "Maaroof and Hassan standing by the white wall in the dawn light talking, Hassan with a serious puzzled face, Maaroof turning to him in surprise",
+   "camera": "medium two-shot",
+   "image": "images/beat_022.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": "other",
+   "safe_substitution": "cigarette never shown",
+   "ambience": "dawn_exterior",
+   "shots": [
+    {
+     "id": "shot_059",
+     "startMs": 530029,
+     "endMs": 540010,
+     "narration_dhivehi": "އަނެއްކާ ވެސް ސިނގިރޭޓް ތުބުގައި ޖަހައި ދާމާލިއެވެ. އެއާއި އެކީގައި ފަޒާއަށް ދުންތައް ދޫކޮށްލިއެވެ. ފަހަތުން ހަސަން އައިސް ބުރަކަށީގައި ކޮއްޓާލިއެވެ. \"ކޮބާ...",
+     "narration_english": "He breathed out slowly into the morning air. Hassan came up from behind and patted him on the back. 'So...",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [
+      {
+       "name": "cloth_rustle",
+       "atMs": 538399,
+       "gainDb": -22,
+       "word": "ކޮއްޓާލިއެވެ."
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_060",
+     "startMs": 540010,
+     "endMs": 547790,
+     "narration_dhivehi": "މިހާރު ކިހިނެއް؟\" ހަސަން މައުރޫފް ކުރެން އަހާލިއެވެ. \"ދެން ކީކޭ ބުނާނީ... އަހަރެންނަށް ހީވީ އެ ވަގުތު ހިތް ހުއްޓުނު ހެން.\"",
+     "narration_english": "how is she now?' Hassan asked Maaroof. 'What can I say... I felt my heart stop at that moment.'",
+     "crop": "tight",
+     "motion": "pan up",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      2.4,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_061",
+     "startMs": 547790,
+     "endMs": 555560,
+     "narration_dhivehi": "މައުރޫފް އަނެއްކާ ވެސް ސިނގިރެޓް ބޯލަމުން ބުންޏެވެ. \"ހަޔާތު ފެނުނީ މޫދަކުން ނޫން... އެކަން އެނގޭތަ؟\" ހަސަން އަހާލިއެވެ.",
+     "narration_english": "Maaroof said. 'Hayaathu wasn't found in the sea... did you know?' Hassan asked.",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_062",
+     "startMs": 555560,
+     "endMs": 564680,
+     "narration_dhivehi": "ހަސަން އެ ބުނި އެއްޗަކުން މައުރޫފް ސިނގިރެޓް ތިރިކޮށްލަމުން ހަސަނަށް ބަލާލިއެވެ. \"ތިބުނީ؟ އަހަރެން ކުރިމަތީގައި ހަޔާތު ދޫމާ ސަލާމަތް ކުރަން ފުންމާލީ...\"",
+     "narration_english": "Maaroof turned and looked at Hassan. 'What? She jumped in right in front of me to save Dhooma...'",
+     "crop": "medium",
+     "motion": "pan down",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      0.0,
+      0.0,
+      71.5,
+      84.7
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Maaroof; reference image 2 is Hassan), create a new scene: Cinematic semi-realistic digital illustration, soft natural light, warm tropical colour palette with gentle rose and blush tones like a romantic drama book cover, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject in the upper two-thirds and calm, uncluttered space at the bottom for a logo.\nScene: Maaroof and Hassan standing by the white wall in the dawn light talking, Hassan with a serious puzzled face, Maaroof turning to him in surprise. Location: outside a white coral-stone Maldivian mosque at dawn, sandy lane, palm trees, low walls, pink and pale-blue sky. Camera: medium two-shot.\nCharacters: Maaroof: a tall athletic Maldivian man in his late 20s with warm brown skin, short dark wavy hair, a well-groomed short dark beard, strong jaw and kind deep-set dark eyes; wears a white long-sleeved button shirt and dark navy trousers. Hassan: a stocky Maldivian man in his late 20s with deep brown skin, a round friendly face, short curly black hair and light stubble; wears a faded olive-green crew-neck t-shirt and dark grey long trousers.\nMood/lighting: early dawn, soft pink and blue light, tired and quiet.\nModest Maldivian clothing, culturally respectful, no violence shown, no text, no letters, no writing, no watermark.",
+   "logo": {
+    "color": "black",
+    "bg_luminance": 0.554,
+    "halo": true
+   },
+   "focus": {
+    "x_pct": 32.1,
+    "y_pct": 28.0,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_023",
+   "startMs": 564680,
+   "endMs": 587921,
+   "new_image_reason": "detail image for the story's mystery: where Hayaathu was found",
+   "characters": [],
+   "location": "the deserted beach at dawn on the far side of a Maldivian island in front of a large old two-storey house among palms",
+   "location_key": "dawn_beach",
+   "mood": "early dawn, soft pale light, mysterious and quiet",
+   "visual": "a deserted beach at dawn in front of a large old two-storey house among palms, a single line of footprints in the wet sand leading out of the water up the beach, no people",
+   "camera": "wide shot, low angle",
+   "image": "images/beat_023.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "dawn_exterior",
+   "shots": [
+    {
+     "id": "shot_063",
+     "startMs": 564680,
+     "endMs": 577551,
+     "narration_dhivehi": "މައުރޫފް ބުންޏެވެ. \"ބަލަ އެ މަންޒަރު އަހަރުމެން ވެސް ދުށީމޭ. މި ބުނީ އާބާދީއާއި ދުރުން އެ ބޮޑުގެއާއި ދިމާ އަތިރި މަތިން ފެނުނީ، އަހަރެންނަށް ހީވާ ގޮތުގައި ކޮންމެވެސް މީހަކު އޭނަ ސަލާމަތް އެކުރީ.",
+     "narration_english": "Maaroof said. 'We saw that too. I mean she was found on the beach far from the village, in front of that big house. I think someone saved her.",
+     "crop": "full",
+     "motion": "static drift",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_064",
+     "startMs": 577551,
+     "endMs": 587921,
+     "narration_dhivehi": "އެއްގަމާ ހަމަޔަށް އޭނަ ގެނެސްސަ.....\" ހަސަން މަޑުމަޑުން ބުންޏެވެ. \"ބުނަން ތި އުޅެނީ ކީކޭ؟\" މައުރޫފް އަހާލިއެވެ. \"ބުނަން މި އުޅެނީ... ހިޔެއްނުވެއޭ އިންސާނެއްހެނެއް.\"",
+     "narration_english": "Brought her all the way to shore...' Hassan said slowly. 'What are you trying to say?' Maaroof asked. 'I'm saying... I don't think it was a human.'",
+     "crop": "tight",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": true,
+     "crop_rect_pct": [
+      20.3,
+      4.8,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Cinematic semi-realistic digital illustration, soft natural light, warm tropical colour palette with gentle rose and blush tones like a romantic drama book cover, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject in the upper two-thirds and calm, uncluttered space at the bottom for a logo.\nScene: a deserted beach at dawn in front of a large old two-storey house among palms, a single line of footprints in the wet sand leading out of the water up the beach, no people. Location: the deserted beach at dawn on the far side of a Maldivian island in front of a large old two-storey house among palms. Camera: wide shot, low angle.\nMood/lighting: early dawn, soft pale light, mysterious and quiet.\nModest Maldivian clothing, culturally respectful, no violence shown, no text, no letters, no writing, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.515,
+    "halo": true
+   },
+   "focus": {
+    "x_pct": 50.0,
+    "y_pct": 40.0,
+    "face_detected": false
+   }
+  },
+  {
+   "id": "beat_024",
+   "startMs": 587921,
+   "endMs": 631173,
+   "new_image_reason": "return to the conversation (reuse)",
+   "characters": [
+    "maaroof",
+    "hassan"
+   ],
+   "location": "outside a white coral-stone Maldivian mosque at dawn, sandy lane, palm trees, low walls, pink and pale-blue sky",
+   "location_key": "dawn_mosque",
+   "mood": "early dawn, soft pink and blue light, tired and quiet",
+   "visual": "(reuse) Maaroof and Hassan talking at dawn",
+   "camera": "medium shot, eye level",
+   "image": "images/beat_022.png",
+   "reuse_of": "beat_022",
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "dawn_exterior",
+   "shots": [
+    {
+     "id": "shot_065",
+     "startMs": 587921,
+     "endMs": 595602,
+     "narration_dhivehi": "ހަސަން ބުންޏެވެ. މައުރޫފް އަތުގައި އޮތް ސިނގިރެޓް އެއްފަރާތައް އެއްލާލިއެވެ. އަދި ދެ ފަރާތައް ބޯ ހޫރާލަމުން ހަސަނަށް ބަލާލިއެވެ.",
+     "narration_english": "Hassan said. Maaroof shook his head and raised his eyebrows, looking at Hassan.",
+     "crop": "tight",
+     "motion": "pan left",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      2.4,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_066",
+     "startMs": 595602,
+     "endMs": 605022,
+     "narration_dhivehi": "\"އަހަރެން ހިޔެއްނުކުރަން ހަސަން ވެސް ތިކަހަލަ ބޯދާ ވާހަކައެއް ދައްކަފާނެ ކަމަކަށް.\" މައުރޫފް ހީލަމުން ބުންޏެވެ. \"ހޮސްޕިޓަލްގެ ނަރުސްކުރެން އަހާލާ...",
+     "narration_english": "'I never thought you'd talk such nonsense, Hassan,' Maaroof said with a smile. 'Ask the hospital nurses...",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_067",
+     "startMs": 605022,
+     "endMs": 614202,
+     "narration_dhivehi": "ނޫނީ މައުރޫފް އަމިއްލައަށް ގޮސް ބަލާ... ހަޔާތުގެ......\" ހަސަން ވަކިހިސާބަކަށް ބުނެފައި ވާހަކަ މެދު ކަނޑައިލިއެވެ. މައުރޫފް ހަސަނަށް ބަލަމުން ދިޔައެވެ.",
+     "narration_english": "or go and see for yourself... Hayaathu's...' Hassan stopped halfway. Maaroof kept looking at him.",
+     "crop": "medium",
+     "motion": "pan right",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      0.0,
+      0.0,
+      71.5,
+      84.7
+     ]
+    },
+    {
+     "id": "shot_068",
+     "startMs": 614202,
+     "endMs": 622423,
+     "narration_dhivehi": "\"އަހަރުމެން ހުރިހާ ޒުވާނުން ތިބީ މައުރޫފާއި އެކީގައި ސިފައިނާ ބައެއް ހަރުފުރާ މީހުންނާ ފީނާ ކުދިން ހަޔާތު ހޯދުމުގައި އުޅުނީ...",
+     "narration_english": "'All of us young men were with you — the police, the fishermen, the divers — searching for Hayaathu...",
+     "crop": "tight",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      2.4,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_069",
+     "startMs": 622423,
+     "endMs": 631173,
+     "narration_dhivehi": "ހިތަށް ވެސް ނާރާ އާބާދީއާއި ދުރުން ފެނިދާނެ ކަމަކަށް، އަނެއްކާ އެއްގަމަށް އަރުވާފައި އޮތީ، އިންސާނެއްނަމަ އަހަރުމެންނަށް އަންގާނެދޯ...\"",
+     "narration_english": "who would think she'd be found so far from the village, laid on the shore? If it were a person, they'd have told us...'",
+     "crop": "full",
+     "motion": "pan up",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [],
+   "logo": {
+    "color": "black",
+    "bg_luminance": 0.592,
+    "halo": true
+   },
+   "focus": {
+    "x_pct": 32.1,
+    "y_pct": 28.0,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_025",
+   "startMs": 631173,
+   "endMs": 676165,
+   "new_image_reason": "characters change: Asad joins them",
+   "characters": [
+    "asad",
+    "maaroof",
+    "hassan"
+   ],
+   "location": "outside a white coral-stone Maldivian mosque at dawn, sandy lane, palm trees, low walls, pink and pale-blue sky",
+   "location_key": "dawn_mosque",
+   "mood": "early dawn, soft pink and blue light, tired and quiet",
+   "visual": "Asad in white kurta and skullcap laughing as he talks, Maaroof and Hassan listening, the three men starting to walk along the sandy lane in the dawn light",
+   "camera": "medium wide",
+   "image": "images/beat_025.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "dawn_exterior",
+   "shots": [
+    {
+     "id": "shot_070",
+     "startMs": 631173,
+     "endMs": 639413,
+     "narration_dhivehi": "ހަސަން ވިސްނާލަމުން ބުންޏެވެ. އެ ވަގުތު މިސްކިތުން ނިކުތް އަސަދު އެ މީހުންގެ ވާހަކަ އަޑުއަހަން މަޑުކޮށްލިއެވެ. \"ސާބަސް ހަސަނާ،",
+     "narration_english": "Hassan said thoughtfully. Just then Asad, coming out of the mosque, stopped to listen. 'Well done, Hassan,",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_071",
+     "startMs": 639413,
+     "endMs": 649614,
+     "narration_dhivehi": "ހަޔާތު ފެނިގެން މީހަކު ގުޅާފައި ބުނީމައި ދިޔައީ... މިހާރު ވާހަކައެއް ދައްކަން ފެށީ، ކީއްކުރާނީ، ނަސީބެއް ޕޮހަށް އެ ފޯނު އައިއިރު ކައިރީގައި ހުރެވުނުކަން.\"",
+     "narration_english": "someone called to say Hayaathu was found... and now the stories begin. Lucky I happened to be near the phone when the call came.'",
+     "crop": "tight",
+     "motion": "pan down",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      20.3,
+      4.8,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_072",
+     "startMs": 649614,
+     "endMs": 658644,
+     "narration_dhivehi": "އަސަދު ހިނިގަނޑެއް ޖަހާލަމުން ބުންޏެވެ. \"ކާކު ފޯނު ކުރީ؟\" މައުރޫފް އަހާލިއެވެ. \"ކާކު ކަމެއް ނޭނގޭ.\" އަސަދު ވިސްނާލަމުން ބުންޏެވެ.",
+     "narration_english": "Asad said, laughing. 'Who called?' Maaroof asked. 'No idea,' Asad said, thinking.",
+     "crop": "full",
+     "motion": "static drift",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_073",
+     "startMs": 658644,
+     "endMs": 667824,
+     "narration_dhivehi": "\"އެ ބޮޑުގޭގެ އޯނަރު އުޅެނީ ރަށުން ބޭރުގަ ދޯ.\" މައުރޫފް ބުންޏެވެ. \"އާނ، އެކަމަކު މިދިޔަ ހަފްތާގައި އެ ތަނަށް ބަޔަކު އައިސްގެން އުޅޭ ޙަބަރު ލިބުނު.\"",
+     "narration_english": "'The owner of that big house lives off the island, right?' Maaroof said. 'Yes, but last week we heard some people came to stay there.'",
+     "crop": "medium",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      14.2,
+      0.0,
+      71.5,
+      84.7
+     ]
+    },
+    {
+     "id": "shot_074",
+     "startMs": 667824,
+     "endMs": 676165,
+     "narration_dhivehi": "އަސަދު ބުންޏެވެ. ވާހަކަ ދައްކަމުން މައުރޫފް މެން ހިނގައިގަތެވެ. ގެޔަށް ދިއުމުގެ ބަދަލުގައި މައުރޫފް ދިޔައީ ހޮސްޕިޓަލަށެވެ.",
+     "narration_english": "Asad said. Talking, they started walking. Instead of going home, Maaroof went to the hospital.",
+     "crop": "tight",
+     "motion": "pan left",
+     "sfx": [
+      {
+       "name": "footsteps_sand",
+       "atMs": 671204,
+       "gainDb": -24,
+       "word": "ހިނގައިގަތެވެ."
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      20.3,
+      4.8,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Asad; reference image 2 is Maaroof; reference image 3 is Hassan), create a new scene: Cinematic semi-realistic digital illustration, soft natural light, warm tropical colour palette with gentle rose and blush tones like a romantic drama book cover, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject in the upper two-thirds and calm, uncluttered space at the bottom for a logo.\nScene: Asad in white kurta and skullcap laughing as he talks, Maaroof and Hassan listening, the three men starting to walk along the sandy lane in the dawn light. Location: outside a white coral-stone Maldivian mosque at dawn, sandy lane, palm trees, low walls, pink and pale-blue sky. Camera: medium wide.\nCharacters: Asad: a lean tall Maldivian man in his mid 30s with medium-brown skin, a long face, a neatly trimmed short black beard and cheerful eyes; wears a white knitted skullcap, a white long-sleeved kurta-style shirt and a dark checked sarong to the ankles. Maaroof: a tall athletic Maldivian man in his late 20s with warm brown skin, short dark wavy hair, a well-groomed short dark beard, strong jaw and kind deep-set dark eyes; wears a white long-sleeved button shirt and dark navy trousers. Hassan: a stocky Maldivian man in his late 20s with deep brown skin, a round friendly face, short curly black hair and light stubble; wears a faded olive-green crew-neck t-shirt and dark grey long trousers.\nMood/lighting: early dawn, soft pink and blue light, tired and quiet.\nModest Maldivian clothing, culturally respectful, no violence shown, no text, no letters, no writing, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.517,
+    "halo": true
+   },
+   "focus": {
+    "x_pct": 50.0,
+    "y_pct": 40.0,
+    "face_detected": false
+   }
+  },
+  {
+   "id": "beat_026",
+   "startMs": 676165,
+   "endMs": 745887,
+   "new_image_reason": "scene change: hospital in the morning, Waheed blocks Maaroof",
+   "characters": [
+    "waheed",
+    "maaroof"
+   ],
+   "location": "a small Maldivian island hospital corridor in the early morning, pale green walls, daylight through the windows, a closed ward door",
+   "location_key": "hospital_day",
+   "mood": "early morning, pale daylight, tense",
+   "visual": "Waheed standing in front of a closed ward door with his arm out barring the way, cold and hard; Maaroof facing him, frustrated and angry",
+   "camera": "medium two-shot, eye level",
+   "image": "images/beat_026.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "hospital_day",
+   "shots": [
+    {
+     "id": "shot_075",
+     "startMs": 676165,
+     "endMs": 684185,
+     "narration_dhivehi": "އެކަމަކު ވަހީދުގެ ސަބަބުން އެތަނަށް މައުރޫފް ވަނަކަ ނުދިނެވެ. \"3 މިލިޔަން ހިފައިގެން އާދޭ.... އޭރުން ހަޔާތު އާއި ބައްދަލު ކުރެވޭނީ...\"",
+     "narration_english": "But because of Waheed he wasn't allowed in. 'Bring the 3 million... then you can meet Hayaathu...'",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_076",
+     "startMs": 684185,
+     "endMs": 694035,
+     "narration_dhivehi": "ވަހީދު ހަރުކަށި ރާގެއްގައި ބުންޏެވެ. \"އަހަރެންނަށް ވަޢުދު ވެފައި މިހާރު ތި އުޅެނީ ހަޔާތު މީހަކާ ދެވަން.\" މައުރޫފް ހިތްހަމަ ނުޖެހިފައިވާ ރާގެއްގައި ބުންޏެވެ.",
+     "narration_english": "Waheed said harshly. 'After promising me, now you're marrying Hayaathu to someone else,' Maaroof said, displeased.",
+     "crop": "tight",
+     "motion": "pan right",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      17.9,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_077",
+     "startMs": 694035,
+     "endMs": 702516,
+     "narration_dhivehi": "\"އަތައް 3 މިލިޔަން ލީ މީހަކަށް ހަޔާތު...\" ވަހީދު ގޮތުގައި ހުރެގެން ބުނެލިއެވެ. \"ކޮންކަހަލަ މީހެއް ތިއީ... ހަޔާތު ލޯބި ވަނީ އަހަރެން ދެކެ،",
+     "narration_english": "'Whoever puts 3 million in my hand gets Hayaathu,' Waheed said, unmoved. 'What kind of man are you... Hayaathu loves me.",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_078",
+     "startMs": 702516,
+     "endMs": 712776,
+     "narration_dhivehi": "އޭނަޔަށް ތިހެން ހަދާކަށް ވަހީދަކަށް ޙައްގެއް ނޯންނާނެ.\" މައުރޫފް ރުޅިއައިސްފައިވާ ރާގަކަށް ބުންޏެވެ. \"އޭނަގެ މައިންބަފައިން އޭނަ ދޫކޮށްލާފައި ދިޔައީ ޙައްގެއް ނެތިގެންތަ؟",
+     "narration_english": "You have no right to do this to her,' Maaroof said angrily. 'Did her parents leave her to me with no rights?",
+     "crop": "medium",
+     "motion": "pan up",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      11.9,
+      0.0,
+      71.5,
+      84.7
+     ]
+    },
+    {
+     "id": "shot_079",
+     "startMs": 712776,
+     "endMs": 720856,
+     "narration_dhivehi": "ޒިންމާއެއް ނެތިގެންތަ؟ އެވަރުކޮށްފައި އެހެރީ އަހަރެން... އަހަރެންނަށް އޭނަ އަގު ނުކުރެވެންވީ ކީއްވެ؟ ކުރި ޙަރަދު ކޮބާ؟",
+     "narration_english": "With no responsibility? I raised her... why shouldn't I put a price on her? What about everything I spent?",
+     "crop": "tight",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      17.9,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_080",
+     "startMs": 720856,
+     "endMs": 729977,
+     "narration_dhivehi": "އިފަތް ތެރިކަމާއި އެކީގައި ބޮޑުކޮށްފައި އެހެރީ... ކީއްވެ އަހަރެން އަގު ނުކިޔަންވީ؟\" ވަހީދު ވެސް ހަރުއަޑުން ބުނެލިއެވެ. \"ތިއީ އޭނަގެ ބައްޕަގެ ކޮއްކޮ އެއްނު...",
+     "narration_english": "I raised her with dignity... why shouldn't I name a price?' Waheed said loudly. 'You're her father's younger brother...",
+     "crop": "full",
+     "motion": "pan down",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_081",
+     "startMs": 729977,
+     "endMs": 737507,
+     "narration_dhivehi": "ބަލަން ޖެހޭނީ ކަލެއަކަށްނު.\" މައުރޫފް ބުނެލިއެވެ. \"ކޮއްކޮ... އެކަމަކު ހާފް...\" ވަހީދު ބުނެލިއެވެ.",
+     "narration_english": "you're the one who must look after her,' Maaroof said. 'Brother... but half...' Waheed said.",
+     "crop": "tight",
+     "motion": "static drift",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      17.9,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_082",
+     "startMs": 737507,
+     "endMs": 745887,
+     "narration_dhivehi": "\"ދެން އެހެން ނޫނަސް ތިހާ ދިގު ވާހަކަ ދައްކާކަށް ވަގުތެއް ނެތް، 3 މިލިޔަންދީފައި ގޮވާގެން ދޭ... އެހެން ނޫނީ އަހަރެން ބޭނުން މީހަކާ ދެވާނީ.\"",
+     "narration_english": "'Anyway, there's no time for long talk. Give 3 million and take her... otherwise I'll marry her to whoever I want.'",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Waheed; reference image 2 is Maaroof), create a new scene: Cinematic semi-realistic digital illustration, soft natural light, warm tropical colour palette with gentle rose and blush tones like a romantic drama book cover, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject in the upper two-thirds and calm, uncluttered space at the bottom for a logo.\nScene: Waheed standing in front of a closed ward door with his arm out barring the way, cold and hard; Maaroof facing him, frustrated and angry. Location: a small Maldivian island hospital corridor in the early morning, pale green walls, daylight through the windows, a closed ward door. Camera: medium two-shot, eye level.\nCharacters: Waheed: a heavy-set Maldivian man in his mid 50s with medium-brown skin, heavy square face, deep frown lines, a greying moustache, short greying hair and hard narrow eyes; wears a light grey long-sleeved button shirt and dark trousers. Maaroof: a tall athletic Maldivian man in his late 20s with warm brown skin, short dark wavy hair, a well-groomed short dark beard, strong jaw and kind deep-set dark eyes; wears a white long-sleeved button shirt and dark navy trousers.\nMood/lighting: early morning, pale daylight, tense.\nModest Maldivian clothing, culturally respectful, no violence shown, no text, no letters, no writing, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.517,
+    "halo": true
+   },
+   "focus": {
+    "x_pct": 47.7,
+    "y_pct": 28.4,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_027",
+   "startMs": 745887,
+   "endMs": 764058,
+   "new_image_reason": "scene change: Hayaathu awake in her hospital room",
+   "characters": [
+    "hayaathu",
+    "nurse"
+   ],
+   "location": "a small Maldivian island hospital room at night, a single hospital bed with white sheets, pale green walls, a drip stand, a bedside table with a glass of water",
+   "location_key": "hospital_room",
+   "mood": "night, soft cold light, fragile and tense",
+   "visual": "Hayaathu sitting up weakly in a hospital bed, leaning back against the pillow, pale and exhausted, hijab on; the nurse beside the bed offering her a glass of water",
+   "camera": "medium shot",
+   "image": "images/beat_027.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "hospital_room",
+   "shots": [
+    {
+     "id": "shot_083",
+     "startMs": 745887,
+     "endMs": 755288,
+     "narration_dhivehi": "އެތެރެއަށް ހިނގައިގަންނަމުން ވަހީދު ބުންޏެވެ. އެނދުން ތެދުވެ ވަރުބަލި ގޮތަކަށް ބާލީހުގައި ލެނގިލިއެވެ. ނަރުސްކުއްޖާ ހަޔާތަށް ފެންފޮދެއް ދޭން އުޅުނެވެ.",
+     "narration_english": "Waheed said, walking inside. She got up from the bed and leaned wearily against the pillow. The nurse tried to give Hayaathu some water.",
+     "crop": "full",
+     "motion": "pan left",
+     "sfx": [
+      {
+       "name": "footsteps_pavement",
+       "atMs": 746727,
+       "gainDb": -24,
+       "word": "ހިނގައިގަންނަމުން"
+      },
+      {
+       "name": "cloth_rustle",
+       "atMs": 749287,
+       "gainDb": -24,
+       "word": "ތެދުވެ"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_084",
+     "startMs": 755288,
+     "endMs": 764058,
+     "narration_dhivehi": "ލޮނުބޮވިފައި ހުރިކަން މޫނުމަތިން އެނގެއެވެ. މީހާ ކުޑަކޮށް ދުޅަވެފައި ހުއްޓެވެ. އެކަމަކު ހޮސްޕިޓަލަށް ގެނެވުނު އިރު ލޮނުގެ އެއްވެސް އަލާމާތެއް ނެތެވެ.",
+     "narration_english": "Her face showed she had swallowed salt water. She looked a little pale. Yet when she was brought in there was no sign of salt water.",
+     "crop": "tight",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      20.3,
+      4.8,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Hayaathu; reference image 2 is Nurse), create a new scene: Cinematic semi-realistic digital illustration, soft natural light, warm tropical colour palette with gentle rose and blush tones like a romantic drama book cover, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject in the upper two-thirds and calm, uncluttered space at the bottom for a logo.\nScene: Hayaathu sitting up weakly in a hospital bed, leaning back against the pillow, pale and exhausted, hijab on; the nurse beside the bed offering her a glass of water. Location: a small Maldivian island hospital room at night, a single hospital bed with white sheets, pale green walls, a drip stand, a bedside table with a glass of water. Camera: medium shot.\nCharacters: Hayaathu: a Maldivian young woman in her early 20s with warm light-brown skin, soft oval face, large dark expressive eyes with long lashes, thick dark arched eyebrows, soft full lips, slim build; wears a loose long-sleeved ankle-length dusty-rose dress and a soft blush-pink chiffon hijab fully covering her hair and neck. the nurse: a petite Maldivian young woman in her mid 20s with warm brown skin, a round kind face and soft dark eyes; wears a light-blue long-sleeved nurse tunic over loose ankle-length light-blue trousers and a white hijab fully covering her hair and neck.\nMood/lighting: night, soft cold light, fragile and tense.\nModest Maldivian clothing, culturally respectful, no violence shown, no text, no letters, no writing, no watermark.",
+   "logo": {
+    "color": "black",
+    "bg_luminance": 0.748,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 50.0,
+    "y_pct": 40.0,
+    "face_detected": false
+   }
+  },
+  {
+   "id": "beat_028",
+   "startMs": 764058,
+   "endMs": 808590,
+   "new_image_reason": "characters/action change: Waheed bursts in and the glass falls",
+   "characters": [
+    "waheed",
+    "hayaathu",
+    "nurse"
+   ],
+   "location": "a small Maldivian island hospital room at night, a single hospital bed with white sheets, pale green walls, a drip stand, a bedside table with a glass of water",
+   "location_key": "hospital_room",
+   "mood": "night, soft cold light, fragile and tense",
+   "visual": "a dropped glass shattered on the hospital floor with spilled water in the foreground; Waheed standing in the doorway red with anger; Hayaathu on the bed looking at him with tearful eyes; the nurse startled",
+   "camera": "low angle from the floor, deep focus",
+   "image": "images/beat_028.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "hospital_room",
+   "shots": [
+    {
+     "id": "shot_085",
+     "startMs": 764058,
+     "endMs": 771728,
+     "narration_dhivehi": "ހަޔާތަށް ފެންތަށި ތުބުގައި ނުޖެހިގެން އުޅެނިކޮށް ވަހީދުގެ ހަރުކަށި އަޑުއިވުނެވެ. އަތުގައި ހުރި ބިއްލޫރި ތަށި ވެއްޓުނެވެ.",
+     "narration_english": "As the glass touched her lips, she heard Waheed's harsh voice. The glass in her hand fell.",
+     "crop": "full",
+     "motion": "pan right",
+     "sfx": [
+      {
+       "name": "glass_break",
+       "atMs": 770568,
+       "gainDb": -14,
+       "word": "ވެއްޓުނެވެ."
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_086",
+     "startMs": 771728,
+     "endMs": 781268,
+     "narration_dhivehi": "އެ އަޑަށް ނަރުސްކުއްޖާ ކުއްލި ސިހުމަކާއި އެކީގައި ބަލާލެވުނެވެ. ހަޔާތު ފެންކަޅިވެފައިވާ ދެ ލޮލުން ކުރިމަތީގައި ރުޅިއައިސް ރަތްވެފައި ހުރި ވަހީދަށް ބަލާލިއެވެ.",
+     "narration_english": "The nurse jumped at the sound. With tear-filled eyes Hayaathu looked at Waheed standing before her, red with anger.",
+     "crop": "tight",
+     "motion": "slow push-in",
+     "sfx": [
+      {
+       "name": "gasp",
+       "atMs": 773188,
+       "gainDb": -18,
+       "word": "ސިހުމަކާއި"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      0.0,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_087",
+     "startMs": 781268,
+     "endMs": 789299,
+     "narration_dhivehi": "ބޭބެ މިއަދު ވެސް ރުޅިއައިސްފައި އެހެރީ ކީއްވެގެން ހެއްޔެވެ. އޭނަޔަށް ކުރެވުނީ ކޮންކުށެއް ހެއްޔެވެ؟ \"ދޫމާއަށް ކަމެއްވިނަމަ.....",
+     "narration_english": "Why is uncle angry again today? What wrong has she done? 'If anything had happened to Dhooma...",
+     "crop": "full",
+     "motion": "pan up",
+     "sfx": [],
+     "hum": true,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_088",
+     "startMs": 789299,
+     "endMs": 804039,
+     "narration_dhivehi": "ކަލޭގެ ނަސީބު ރަނގަޅު ކަން ދޫމާއަށް ކަމެއް ނުވީ.\" ރުޅިއައިސް ރަތްވެފައިވާ ވަހީދު ހަޔާތަށް ބުންޏެވެ. \"މީސްމީހުން ކާރީ ފާޑުފާޑުގެ ވާހަކަ ދައްކަމުން އެބަ ދުވައެއްނު، ކަލޭ ޖެހޭނީ ފަޒާލާ އިންނަން، ހަޑިޔަސް ހުތުރަސް ދޮއްޓަސް ޅަޔަސް،",
+     "narration_english": "you're lucky nothing happened to Dhooma,' the furious Waheed told Hayaathu. 'People are spreading all kinds of talk. You will marry Fazaal — ugly, hideous, lame or blind,",
+     "crop": "medium",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": true,
+     "crop_rect_pct": [
+      0.0,
+      0.0,
+      71.5,
+      84.7
+     ]
+    },
+    {
+     "id": "shot_089",
+     "startMs": 804039,
+     "endMs": 808590,
+     "narration_dhivehi": "މިއީ މަގޭ އެންމެ ފަހުގެ ނިންމުން.\" ވަހީދު ބަސްތަކަށް ބާރުލާފައި ބުންޏެވެ.",
+     "narration_english": "this is my final decision,' Waheed said, stressing every word.",
+     "crop": "tight",
+     "motion": "pan down",
+     "sfx": [],
+     "hum": true,
+     "crop_rect_pct": [
+      0.0,
+      0.0,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Waheed; reference image 2 is Hayaathu; reference image 3 is Nurse), create a new scene: Cinematic semi-realistic digital illustration, soft natural light, warm tropical colour palette with gentle rose and blush tones like a romantic drama book cover, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject in the upper two-thirds and calm, uncluttered space at the bottom for a logo.\nScene: a dropped glass shattered on the hospital floor with spilled water in the foreground; Waheed standing in the doorway red with anger; Hayaathu on the bed looking at him with tearful eyes; the nurse startled. Location: a small Maldivian island hospital room at night, a single hospital bed with white sheets, pale green walls, a drip stand, a bedside table with a glass of water. Camera: low angle from the floor, deep focus.\nCharacters: Waheed: a heavy-set Maldivian man in his mid 50s with medium-brown skin, heavy square face, deep frown lines, a greying moustache, short greying hair and hard narrow eyes; wears a light grey long-sleeved button shirt and dark trousers. Hayaathu: a Maldivian young woman in her early 20s with warm light-brown skin, soft oval face, large dark expressive eyes with long lashes, thick dark arched eyebrows, soft full lips, slim build; wears a loose long-sleeved ankle-length dusty-rose dress and a soft blush-pink chiffon hijab fully covering her hair and neck. the nurse: a petite Maldivian young woman in her mid 20s with warm brown skin, a round kind face and soft dark eyes; wears a light-blue long-sleeved nurse tunic over loose ankle-length light-blue trousers and a white hijab fully covering her hair and neck.\nMood/lighting: night, soft cold light, fragile and tense.\nModest Maldivian clothing, culturally respectful, no violence shown, no text, no letters, no writing, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.416,
+    "halo": true
+   },
+   "focus": {
+    "x_pct": 27.1,
+    "y_pct": 13.7,
+    "face_detected": true
+   }
+  }
+ ]
+}

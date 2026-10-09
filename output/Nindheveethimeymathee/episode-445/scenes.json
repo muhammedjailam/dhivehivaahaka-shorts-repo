@@ -1,0 +1,2456 @@
+{
+ "series": "Nindheveethimeymathee",
+ "episode": 445,
+ "beats": [
+  {
+   "id": "beat_001",
+   "startMs": 0,
+   "endMs": 18860,
+   "new_image_reason": "episode opening: morning in the Vietnam hotel room, the doorbell wakes Haizum",
+   "characters": [
+    "haizum"
+   ],
+   "location": "a modern high-rise hotel room in Ho Chi Minh City, Vietnam: cream walls, a beige carpet, a grey two-seat sofa with a low glass coffee table, a writing desk with a lamp, a tall window and a glass sliding door to a small balcony with the dense city skyline beyond, a plain white closed inner door near the entrance",
+   "location_key": "hotel",
+   "mood": "early morning, bright soft daylight through sheer curtains, pale gold and cool blue tones, clear sky over the city, a tense guilty hush",
+   "visual": "Haizum, younger, about 38, beard fully black, dressed casually for the morning in a plain charcoal-grey crew-neck short-sleeved t-shirt and long dark trousers (no suit, no jacket, no white shirt), hair a little messy from sleep, standing at the hotel room's entrance door in his socks, leaning close to peer through the small round peephole, one hand on the door handle, his face sleepy and wary; morning light from the window behind him; the white inner door closed beside him; he is the only person in the room, the room behind him empty",
+   "camera": "medium shot from the side, eye level, his face in the upper third, the beige carpet as a calm lower third",
+   "image": "images/beat_001.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "hotel_room",
+   "shots": [
+    {
+     "id": "shot_001",
+     "startMs": 0,
+     "endMs": 9270,
+     "narration_dhivehi": "ހެނދުނު ހައިޒުމަށް ހޭލެވުނީ ދޮރުގެ ބެލް ޖަހާ އަޑަށެވެ. ގައިމަތީގައި އޮތް ރަޖާގަނޑު އެއްފަރާތްކޮށްލުމަށްފަހު، އާފުރިލަމުން އޭނާ ތެދުވިއެވެ.",
+     "narration_english": "In the morning, Haizum was woken by the sound of the doorbell. Pushing the blanket off him and yawning, he got up.",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [
+      {
+       "name": "doorbell_buzz",
+       "atMs": 2540,
+       "gainDb": -16,
+       "word": "ބެލް"
+      },
+      {
+       "name": "cloth_rustle",
+       "atMs": 5220,
+       "gainDb": -24,
+       "word": "ރަޖާގަނޑު"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_002",
+     "startMs": 9270,
+     "endMs": 18860,
+     "narration_dhivehi": "އަވަސް ފިޔަވަޅުތަކެއްގައި ގޮސް ދޮރުގެ ލޯ ވަޅުން ބަލައިލިއިރު، ބޭރުގައި ހުރީ އޭނާގެ ގާތް އެކުވެރިޔާ ދަނިޔާލެވެ. ހައިޒުމް ދޮރު ހުޅުވައިލުމާއެކު،",
+     "narration_english": "He went with quick steps and looked through the peephole; outside stood his close friend Daniyal. As soon as Haizum opened the door,",
+     "crop": "tight",
+     "motion": "pan left",
+     "sfx": [
+      {
+       "name": "door_open",
+       "atMs": 17700,
+       "gainDb": -20,
+       "word": "ހުޅުވައިލުމާއެކު،"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      20.3,
+      4.8,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Haizum), create a new scene: Cinematic semi-realistic digital illustration with a moody romantic-drama look, deep moonlit indigo and sapphire-blue night tones contrasted with warm amber lamplight, soft rain-streaked atmosphere, gentle film grain, soft bokeh, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, table top, balcony railing, street in soft shadow) for captions and a logo; modern Male' city life of apartments, TV studios, offices, cafes and seaside promenades, with tropical palms and the lagoon glowing under a cloudy moon.\nScene: Haizum, younger, about 38, beard fully black, dressed casually for the morning in a plain charcoal-grey crew-neck short-sleeved t-shirt and long dark trousers (no suit, no jacket, no white shirt), hair a little messy from sleep, standing at the hotel room's entrance door in his socks, leaning close to peer through the small round peephole, one hand on the door handle, his face sleepy and wary; morning light from the window behind him; the white inner door closed beside him; he is the only person in the room, the room behind him empty. Location: a modern high-rise hotel room in Ho Chi Minh City, Vietnam: cream walls, a beige carpet, a grey two-seat sofa with a low glass coffee table, a writing desk with a lamp, a tall window and a glass sliding door to a small balcony with the dense city skyline beyond, a plain white closed inner door near the entrance. Camera: medium shot from the side, eye level, his face in the upper third, the beige carpet as a calm lower third.\nCharacters: Haizum: a tall broad-shouldered Maldivian man of about 42 with warm brown skin, a strong square face, thick straight black eyebrows, deep tired dark eyes, a neatly trimmed black beard with a few grey flecks and short neat black hair greying slightly at the temples; wears a dark-navy suit with a white open-collar shirt and no tie.\nMood/lighting: early morning, bright soft daylight through sheer curtains, pale gold and cool blue tones, clear sky over the city, a tense guilty hush.\nModest Maldivian clothing (every woman in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck, also at home; men fully clothed in shirts or t-shirts and long trousers, never shirtless), no kissing, no embracing, no physical touch between a man and a woman, culturally respectful, no violence shown, no injuries, no bruises, no blood, no alcohol, no smoking, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.155,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 50.0,
+    "y_pct": 40.0,
+    "face_detected": false
+   }
+  },
+  {
+   "id": "beat_002",
+   "startMs": 18860,
+   "endMs": 65532,
+   "new_image_reason": "character change: Daniyal walks in holding out his phone — Sana is calling; Haizum lies to her",
+   "characters": [
+    "haizum",
+    "daniyal"
+   ],
+   "location": "a modern high-rise hotel room in Ho Chi Minh City, Vietnam: cream walls, a beige carpet, a grey two-seat sofa with a low glass coffee table, a writing desk with a lamp, a tall window and a glass sliding door to a small balcony with the dense city skyline beyond, a plain white closed inner door near the entrance",
+   "location_key": "hotel",
+   "mood": "early morning, bright soft daylight through sheer curtains, pale gold and cool blue tones, clear sky over the city, a tense guilty hush",
+   "visual": "Haizum, younger, about 38, beard fully black, dressed casually for the morning in a plain charcoal-grey crew-neck short-sleeved t-shirt and long dark trousers (no suit, no jacket, no white shirt), hair a little messy from sleep, his bare forearms showing below the short t-shirt sleeves, holding a phone to his ear just inside the doorway, forcing a calm voice while his eyes are full of guilty fear; Daniyal, stout with a moustache, in his light-blue shirt and khaki trousers, walking past him into the room, looking around casually; morning light",
+   "camera": "medium two-shot, eye level, faces in the upper half, the carpet as the lower third",
+   "image": "images/beat_002.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "hotel_room",
+   "shots": [
+    {
+     "id": "shot_003",
+     "startMs": 18860,
+     "endMs": 28501,
+     "narration_dhivehi": "ދަނިޔާލް އޭނާގެ އަތުގައި އޮތް ފޯނު ދިއްކޮށްލިއެވެ. \"ސަނާ ގުޅައިގެން މި އުޅެނީ. ކޮބައިތަ ހައިޒުމްގެ ފޯނު؟\" ކޮޓަރި ތެރެއަށް ވަންނަމުން ދަނިޔާލް އަހައިލިއެވެ.",
+     "narration_english": "Daniyal held out the phone in his hand. \"Sana's been calling. Where's your phone, Haizum?\" Daniyal asked as he walked into the room.",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_004",
+     "startMs": 28501,
+     "endMs": 38061,
+     "narration_dhivehi": "ހައިޒުމްގެ ހިތް ބިރުން ތެޅިގަތެވެ. \"ހަލޯ،\" ހިތުގެ ނުތަނަވަސްކަން ފޮރުވަމުން ހައިޒުމް ފޯނަށް ޖަވާބުދިނެވެ. \"ކޮބައިތަ ފޯނު؟ އަހަރެން ކިހާ ކަންބޮޑުވާނެ!\"",
+     "narration_english": "Haizum's heart jolted with fear. \"Hello,\" Haizum answered the phone, hiding his unease. \"Where's your phone? Do you know how worried I've been!\"",
+     "crop": "tight",
+     "motion": "pan right",
+     "sfx": [
+      {
+       "name": "heartbeat",
+       "atMs": 29721,
+       "gainDb": -20,
+       "word": "ތެޅިގަތެވެ."
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      0.0,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_005",
+     "startMs": 38061,
+     "endMs": 47712,
+     "narration_dhivehi": "އެކޮޅުން އިވުނީ ސަނާގެ ހާސްވެފައިވާ އަޑެވެ. \"ސަނާ... އަހަރެން މި ގުޅަނީއޭ. ރޭގައި ތަންކޮޅެއް އަވަހަށް ނިދުނީމާ ފޯނު ރިންގުވި އަޑު ވެސް ނީވުނީ.",
+     "narration_english": "From the other end came Sana's anxious voice. \"Sana... I was just going to call. Last night I fell asleep a little early, so I didn't even hear the phone ring.",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_006",
+     "startMs": 47712,
+     "endMs": 56922,
+     "narration_dhivehi": "ވަރަށް ބޮޑަށް ސޮރީ.\" ހައިޒުމް އޮޅުވައިލިއެވެ. \"މެސެޖެއްހާ މިންވަރު ވެސް ކޮށްނުލީމައެއްނު މިހާ ބޮޑަށް ކަންބޮޑުވީ.\" ޝަކުވާގެ ރާގަކަށް ސަނާ ބުންޏެވެ.",
+     "narration_english": "I'm really, really sorry.\" Haizum lied. \"You didn't even send so much as a message, that's why I was so worried,\" Sana said in a complaining tone.",
+     "crop": "medium",
+     "motion": "pan up",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      0.0,
+      0.0,
+      71.5,
+      84.7
+     ]
+    },
+    {
+     "id": "shot_007",
+     "startMs": 56922,
+     "endMs": 65532,
+     "narration_dhivehi": "\"އިހަށް ބާއްވަނީ، އިރުކޮޅަކުން އަހަރެން ގުޅާނަން.\" ހައިޒުމް އަވަސްއަވަހަށް ފޯނު ކަނޑައިލުމަށްފަހު ދަނިޔާލަށް ފޯނު ރައްދުކުރިއެވެ.",
+     "narration_english": "\"Hold on, I'll call you in a little while.\" Haizum quickly ended the call and handed the phone back to Daniyal.",
+     "crop": "tight",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      0.0,
+      0.0,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Haizum; reference image 2 is Daniyal), create a new scene: Cinematic semi-realistic digital illustration with a moody romantic-drama look, deep moonlit indigo and sapphire-blue night tones contrasted with warm amber lamplight, soft rain-streaked atmosphere, gentle film grain, soft bokeh, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, table top, balcony railing, street in soft shadow) for captions and a logo; modern Male' city life of apartments, TV studios, offices, cafes and seaside promenades, with tropical palms and the lagoon glowing under a cloudy moon.\nScene: Haizum, younger, about 38, beard fully black, dressed casually for the morning in a plain charcoal-grey crew-neck short-sleeved t-shirt and long dark trousers (no suit, no jacket, no white shirt), hair a little messy from sleep, his bare forearms showing below the short t-shirt sleeves, holding a phone to his ear just inside the doorway, forcing a calm voice while his eyes are full of guilty fear; Daniyal, stout with a moustache, in his light-blue shirt and khaki trousers, walking past him into the room, looking around casually; morning light. Location: a modern high-rise hotel room in Ho Chi Minh City, Vietnam: cream walls, a beige carpet, a grey two-seat sofa with a low glass coffee table, a writing desk with a lamp, a tall window and a glass sliding door to a small balcony with the dense city skyline beyond, a plain white closed inner door near the entrance. Camera: medium two-shot, eye level, faces in the upper half, the carpet as the lower third.\nCharacters: Haizum: a tall broad-shouldered Maldivian man of about 42 with warm brown skin, a strong square face, thick straight black eyebrows, deep tired dark eyes, a neatly trimmed black beard with a few grey flecks and short neat black hair greying slightly at the temples; wears a dark-navy suit with a white open-collar shirt and no tie. Daniyal: a stout Maldivian man of about 38 with warm brown skin, a round jovial face, a thick black moustache and short beard, twinkling eyes and short receding black hair; wears a light-blue long-sleeved shirt and khaki trousers.\nMood/lighting: early morning, bright soft daylight through sheer curtains, pale gold and cool blue tones, clear sky over the city, a tense guilty hush.\nModest Maldivian clothing (every woman in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck, also at home; men fully clothed in shirts or t-shirts and long trousers, never shirtless), no kissing, no embracing, no physical touch between a man and a woman, culturally respectful, no violence shown, no injuries, no bruises, no blood, no alcohol, no smoking, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.237,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 23.1,
+    "y_pct": 19.8,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_003",
+   "startMs": 65532,
+   "endMs": 101414,
+   "new_image_reason": "action change: Daniyal sits on the sofa talking about last night's party while Haizum stands anxious",
+   "characters": [
+    "daniyal",
+    "haizum"
+   ],
+   "location": "a modern high-rise hotel room in Ho Chi Minh City, Vietnam: cream walls, a beige carpet, a grey two-seat sofa with a low glass coffee table, a writing desk with a lamp, a tall window and a glass sliding door to a small balcony with the dense city skyline beyond, a plain white closed inner door near the entrance",
+   "location_key": "hotel",
+   "mood": "early morning, bright soft daylight through sheer curtains, pale gold and cool blue tones, clear sky over the city, a tense guilty hush",
+   "visual": "Daniyal in his light-blue shirt sitting comfortably on the grey sofa, leaning back and gesturing as he chats, puzzled and amused; Haizum, younger, about 38, beard fully black, dressed casually for the morning in a plain charcoal-grey crew-neck short-sleeved t-shirt and long dark trousers (no suit, no jacket, no white shirt), hair a little messy from sleep, standing stiffly a few steps away by the desk, arms folded tight, face tense with extreme worry, glancing towards the closed white inner door",
+   "camera": "medium wide, eye level, faces in the upper half, the coffee table and carpet as the lower third",
+   "image": "images/beat_003.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": "other",
+   "safe_substitution": "last night's party (implied affair) is never shown; only Haizum's anxious face",
+   "ambience": "hotel_room",
+   "shots": [
+    {
+     "id": "shot_008",
+     "startMs": 65532,
+     "endMs": 75793,
+     "narration_dhivehi": "\"ރޭގެ ޕާޓީން ކަލޭ ދިޔައީ ބުނެލުމެއް ވެސް ނެތި. އަހަރެން މި ހުރީ ވީނުވީއެއް ނޭނގި ހައިރާންވެފައި. ހޯލަށް ވަންތަން ދުށިން، އެކަމަކު އޭގެ ފަހުން ވީނުވީއެއް ނޭނގުނު.\"",
+     "narration_english": "\"You left last night's party without even saying a word. I've been standing here not knowing what happened. I saw you go into the hall, but after that I had no idea.\"",
+     "crop": "full",
+     "motion": "pan down",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_009",
+     "startMs": 75793,
+     "endMs": 86043,
+     "narration_dhivehi": "ދަނިޔާލު ދާކަށް ބޭނުން ނުވާ ފަދަ ގޮތަކަށް ވާހަކަދައްކަމުން ގޮސް ސޯފާގައި އިށީނެވެ. އެ ވަގުތު ހައިޒުމްގެ މޫނުމަތިން ފެންނަމުން ދިޔައީ އިންތިހާ ދަރަޖައިގެ ކަންބޮޑުވުމެވެ.",
+     "narration_english": "Talking as if he had no wish to leave, Daniyal went and sat down on the sofa. At that moment Haizum's face showed the utmost worry.",
+     "crop": "tight",
+     "motion": "static drift",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      40.6,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_010",
+     "startMs": 86043,
+     "endMs": 93764,
+     "narration_dhivehi": "\"ދަނިޔާލް ދޭ، އަހަރެން ތައްޔާރުވެލައިގެން ތިރިއަށް ފައިބާނަން.\" ހައިޒުމް ބުންޏެވެ. \"ނޫން، ދެ މީހުން އެކުގައި ދާނީ.",
+     "narration_english": "\"Go on, Daniyal, I'll get ready and come down,\" Haizum said. \"No, we'll go together.",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_011",
+     "startMs": 93764,
+     "endMs": 101414,
+     "narration_dhivehi": "ކުޑަ ކަމަކާ މަޝްވަރާ ވެސް ކޮށްލަން އެބައޮތް.\" ދަނިޔާލު ޖަވާބު ދިނެވެ. ދަނިޔާލު ފޮނުވާލަން އިތުރަށް ބާރުއަޅަން ނުކެރިގެން،",
+     "narration_english": "There's a small matter I need to discuss with you,\" Daniyal replied. Not daring to push any harder to send Daniyal away,",
+     "crop": "medium",
+     "motion": "pan left",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      28.5,
+      0.0,
+      71.5,
+      84.7
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Daniyal; reference image 2 is Haizum), create a new scene: Cinematic semi-realistic digital illustration with a moody romantic-drama look, deep moonlit indigo and sapphire-blue night tones contrasted with warm amber lamplight, soft rain-streaked atmosphere, gentle film grain, soft bokeh, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, table top, balcony railing, street in soft shadow) for captions and a logo; modern Male' city life of apartments, TV studios, offices, cafes and seaside promenades, with tropical palms and the lagoon glowing under a cloudy moon.\nScene: Daniyal in his light-blue shirt sitting comfortably on the grey sofa, leaning back and gesturing as he chats, puzzled and amused; Haizum, younger, about 38, beard fully black, dressed casually for the morning in a plain charcoal-grey crew-neck short-sleeved t-shirt and long dark trousers (no suit, no jacket, no white shirt), hair a little messy from sleep, standing stiffly a few steps away by the desk, arms folded tight, face tense with extreme worry, glancing towards the closed white inner door. Location: a modern high-rise hotel room in Ho Chi Minh City, Vietnam: cream walls, a beige carpet, a grey two-seat sofa with a low glass coffee table, a writing desk with a lamp, a tall window and a glass sliding door to a small balcony with the dense city skyline beyond, a plain white closed inner door near the entrance. Camera: medium wide, eye level, faces in the upper half, the coffee table and carpet as the lower third.\nCharacters: Daniyal: a stout Maldivian man of about 38 with warm brown skin, a round jovial face, a thick black moustache and short beard, twinkling eyes and short receding black hair; wears a light-blue long-sleeved shirt and khaki trousers. Haizum: a tall broad-shouldered Maldivian man of about 42 with warm brown skin, a strong square face, thick straight black eyebrows, deep tired dark eyes, a neatly trimmed black beard with a few grey flecks and short neat black hair greying slightly at the temples; wears a dark-navy suit with a white open-collar shirt and no tie.\nMood/lighting: early morning, bright soft daylight through sheer curtains, pale gold and cool blue tones, clear sky over the city, a tense guilty hush.\nModest Maldivian clothing (every woman in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck, also at home; men fully clothed in shirts or t-shirts and long trousers, never shirtless), no kissing, no embracing, no physical touch between a man and a woman, culturally respectful, no violence shown, no injuries, no bruises, no blood, no alcohol, no smoking, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.257,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 77.6,
+    "y_pct": 16.8,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_004",
+   "startMs": 101414,
+   "endMs": 120145,
+   "new_image_reason": "action change: Daniyal steps onto the balcony for a call; Haizum hurries to the closed inner door",
+   "characters": [
+    "haizum",
+    "daniyal"
+   ],
+   "location": "a modern high-rise hotel room in Ho Chi Minh City, Vietnam: cream walls, a beige carpet, a grey two-seat sofa with a low glass coffee table, a writing desk with a lamp, a tall window and a glass sliding door to a small balcony with the dense city skyline beyond, a plain white closed inner door near the entrance",
+   "location_key": "hotel",
+   "mood": "early morning, bright soft daylight through sheer curtains, pale gold and cool blue tones, clear sky over the city, a tense guilty hush",
+   "visual": "Haizum, younger, about 38, beard fully black, dressed casually for the morning in a plain charcoal-grey crew-neck short-sleeved t-shirt and long dark trousers (no suit, no jacket, no white shirt), hair a little messy from sleep, standing with one hand on the handle of the closed white inner door, looking back over his shoulder towards the balcony with fearful eyes; in the background, beyond the glass sliding door, Daniyal on the small balcony with his back turned, a phone at his ear, the city skyline behind him",
+   "camera": "medium shot, eye level, Haizum's face in the upper third, the carpet as the lower third",
+   "image": "images/beat_004.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": "intimacy",
+   "safe_substitution": "the hint of a woman in his room is only a closed inner door and his guilty face; no woman is shown",
+   "ambience": "hotel_room",
+   "shots": [
+    {
+     "id": "shot_012",
+     "startMs": 101414,
+     "endMs": 112014,
+     "narration_dhivehi": "ނަސީބު ދިމާކުރި ގޮތުން ދަނިޔާލަށް ފޯނެއް އައުމުން އޭނާ ބެލްކަންޏަށް ނުކުތެވެ. އެ ފުރުޞަތުގެ ބޭނުން ހިފައި، ހައިޒުމް އަވަސް އަވަހަށް ފާޚާނާގެ ތަޅުގައި ހިފައި ދޮރު ހުޅުވާލިއެވެ.",
+     "narration_english": "as luck would have it, Daniyal got a phone call and stepped out onto the balcony. Seizing the chance, Haizum quickly grabbed the bathroom handle and opened the door.",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [
+      {
+       "name": "phone_buzz",
+       "atMs": 103644,
+       "gainDb": -20,
+       "word": "ފޯނެއް"
+      },
+      {
+       "name": "door_open",
+       "atMs": 111164,
+       "gainDb": -22,
+       "word": "ހުޅުވާލިއެވެ."
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_013",
+     "startMs": 112014,
+     "endMs": 120145,
+     "narration_dhivehi": "ހައިޒުމް ކަންބޮޑުވުމާއެކު ބެލްކަންޏާ ދިމާއަށް ބަލައިލިއެވެ. އަދި އޭނާގެ ދެ ލޯ މަރައިލެވުނީ، ދެން ވާނެ ގޮތެއް ހިތަށް އަރާފައެވެ.",
+     "narration_english": "Haizum looked anxiously towards the balcony. And he shut his eyes, thinking of what would happen next.",
+     "crop": "tight",
+     "motion": "pan right",
+     "sfx": [
+      {
+       "name": "breath",
+       "atMs": 116665,
+       "gainDb": -22,
+       "word": "މަރައިލެވުނީ،"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      40.6,
+      0.0,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [],
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.321,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 72.4,
+    "y_pct": 30.6,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_005",
+   "startMs": 120145,
+   "endMs": 144766,
+   "new_image_reason": "emotional turning point: Daniyal comes back in frowning; Haizum, trembling, starts to confess",
+   "characters": [
+    "daniyal",
+    "haizum"
+   ],
+   "location": "a modern high-rise hotel room in Ho Chi Minh City, Vietnam: cream walls, a beige carpet, a grey two-seat sofa with a low glass coffee table, a writing desk with a lamp, a tall window and a glass sliding door to a small balcony with the dense city skyline beyond, a plain white closed inner door near the entrance",
+   "location_key": "hotel",
+   "mood": "early morning, bright soft daylight through sheer curtains, pale gold and cool blue tones, clear sky over the city, a tense guilty hush",
+   "visual": "Daniyal standing in the balcony doorway with his eyebrows knitted in a stern frown, staring hard at Haizum; Haizum, younger, about 38, beard fully black, dressed casually for the morning in a plain charcoal-grey crew-neck short-sleeved t-shirt and long dark trousers (no suit, no jacket, no white shirt), hair a little messy from sleep, his bare forearms showing below the short t-shirt sleeves, seen in three-quarter view facing Daniyal across the room, pale, lips parted, one hand half-raised as if about to explain, trembling",
+   "camera": "medium wide over Haizum's shoulder, Daniyal's frowning face in the upper third, the carpet as the lower third",
+   "image": "images/beat_005.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "hotel_room",
+   "shots": [
+    {
+     "id": "shot_014",
+     "startMs": 120145,
+     "endMs": 129045,
+     "narration_dhivehi": "އޭނާގެ ކަންތައް ބޭޒާރުވީ ކަމަށް ނިންމިއެވެ. އެ ވަގުތު ދަނިޔާލު ކޮޓަރިއަށް ވަދެގެން އައީ ދެ ބުމަ ގޮށްޖަހައިގެން ހުރެ ހައިޒުމަށް ބަލަހައްޓައިގެންނެވެ.",
+     "narration_english": "He concluded that his secret had been exposed. At that moment Daniyal came back into the room, his brows knitted, staring at Haizum.",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_015",
+     "startMs": 129045,
+     "endMs": 136746,
+     "narration_dhivehi": "\"ދަނިޔާލް، ވީގޮތް އަހަރެން ކިޔައިދީފާނަން.\" ހައިޒުމް ތުރުތުރުއަޅާ އަޑަކުން ބުންޏެވެ. \"ކޮން ކަމެއް ކިޔައިދޭން އޮތީ؟\"",
+     "narration_english": "\"Daniyal, I'll tell you what happened,\" Haizum said in a trembling voice. \"What is there to tell?\"",
+     "crop": "tight",
+     "motion": "pan up",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      40.6,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_016",
+     "startMs": 136746,
+     "endMs": 144766,
+     "narration_dhivehi": "ދަނިޔާލު ތަންކޮޅެއް ހަރުކަށި ރާގެއްގައި އެހިއެވެ. ހައިޒުމްގެ ހިތުގެ ބިރުވެރިކަން އިތުރުވިއެވެ. \"އަހަރުމެންނަށް ކޮންޓްރެކްޓް ލިބިއްޖެ!\"",
+     "narration_english": "Daniyal asked in a somewhat stern tone. The fear in Haizum's heart grew. \"We got the contract!\"",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [
+      {
+       "name": "heartbeat",
+       "atMs": 141046,
+       "gainDb": -18,
+       "word": "ބިރުވެރިކަން"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Daniyal; reference image 2 is Haizum), create a new scene: Cinematic semi-realistic digital illustration with a moody romantic-drama look, deep moonlit indigo and sapphire-blue night tones contrasted with warm amber lamplight, soft rain-streaked atmosphere, gentle film grain, soft bokeh, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, table top, balcony railing, street in soft shadow) for captions and a logo; modern Male' city life of apartments, TV studios, offices, cafes and seaside promenades, with tropical palms and the lagoon glowing under a cloudy moon.\nScene: Daniyal standing in the balcony doorway with his eyebrows knitted in a stern frown, staring hard at Haizum; Haizum, younger, about 38, beard fully black, dressed casually for the morning in a plain charcoal-grey crew-neck short-sleeved t-shirt and long dark trousers (no suit, no jacket, no white shirt), hair a little messy from sleep, his bare forearms showing below the short t-shirt sleeves, seen in three-quarter view facing Daniyal across the room, pale, lips parted, one hand half-raised as if about to explain, trembling. Location: a modern high-rise hotel room in Ho Chi Minh City, Vietnam: cream walls, a beige carpet, a grey two-seat sofa with a low glass coffee table, a writing desk with a lamp, a tall window and a glass sliding door to a small balcony with the dense city skyline beyond, a plain white closed inner door near the entrance. Camera: medium wide over Haizum's shoulder, Daniyal's frowning face in the upper third, the carpet as the lower third.\nCharacters: Daniyal: a stout Maldivian man of about 38 with warm brown skin, a round jovial face, a thick black moustache and short beard, twinkling eyes and short receding black hair; wears a light-blue long-sleeved shirt and khaki trousers. Haizum: a tall broad-shouldered Maldivian man of about 42 with warm brown skin, a strong square face, thick straight black eyebrows, deep tired dark eyes, a neatly trimmed black beard with a few grey flecks and short neat black hair greying slightly at the temples; wears a dark-navy suit with a white open-collar shirt and no tie.\nMood/lighting: early morning, bright soft daylight through sheer curtains, pale gold and cool blue tones, clear sky over the city, a tense guilty hush.\nModest Maldivian clothing (every woman in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck, also at home; men fully clothed in shirts or t-shirts and long trousers, never shirtless), no kissing, no embracing, no physical touch between a man and a woman, culturally respectful, no violence shown, no injuries, no bruises, no blood, no alcohol, no smoking, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.333,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 72.9,
+    "y_pct": 22.4,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_006",
+   "startMs": 144766,
+   "endMs": 165047,
+   "new_image_reason": "emotional reversal: 'We got the contract!' — Daniyal grabs Haizum's shoulders, beaming",
+   "characters": [
+    "daniyal",
+    "haizum"
+   ],
+   "location": "a modern high-rise hotel room in Ho Chi Minh City, Vietnam: cream walls, a beige carpet, a grey two-seat sofa with a low glass coffee table, a writing desk with a lamp, a tall window and a glass sliding door to a small balcony with the dense city skyline beyond, a plain white closed inner door near the entrance",
+   "location_key": "hotel",
+   "mood": "early morning, bright soft daylight through sheer curtains, pale gold and cool blue tones, clear sky over the city, a tense guilty hush",
+   "visual": "Daniyal beaming with joy, gripping both of Haizum's shoulders and shaking them happily; Haizum, younger, about 38, beard fully black, dressed casually for the morning in a plain charcoal-grey crew-neck short-sleeved t-shirt and long dark trousers (no suit, no jacket, no white shirt), hair a little messy from sleep, stunned with his mouth open, a confused half-relieved face; bright morning light flooding in from the balcony",
+   "camera": "medium close two-shot, eye level, faces in the upper half",
+   "image": "images/beat_006.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "hotel_room",
+   "shots": [
+    {
+     "id": "shot_017",
+     "startMs": 144766,
+     "endMs": 154826,
+     "narration_dhivehi": "ކުއްލިއަކަށް އުފާވެރި ހިނިތުންވުމަކާއެކު ދަނިޔާލު ބުނެލިއެވެ. ހައިޒުމް އަޖައިބުވެ، އަނގަ ހުޅުވުނެވެ. ދަނިޔާލު އުފަލުން ގޮސް ހައިޒުމްގެ ގައިގައި ބައްދައިލިއެވެ.",
+     "narration_english": "Daniyal announced with a sudden joyful smile. Haizum was astonished, his mouth fell open. Daniyal happily went and threw his arms around Haizum.",
+     "crop": "full",
+     "motion": "pan down",
+     "sfx": [
+      {
+       "name": "cloth_rustle",
+       "atMs": 153806,
+       "gainDb": -22,
+       "word": "ބައްދައިލިއެވެ."
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_018",
+     "startMs": 154826,
+     "endMs": 165047,
+     "narration_dhivehi": "\"މިއީ ހަމަ ހައިޒުމްގެ ބުރަ މަސައްކަތުގެ ނަތީޖާ.\" ހިނިތުންވެފައި ހުރެ ދަނިޔާލު ބުންޏެވެ. \"އަހަރެން މިދަނީ ޖިމީމެންނަށް ޚަބަރު ދޭން. އަވަހަށް ތައްޔާރުވެގެން އާދޭ.\"",
+     "narration_english": "\"This is all the result of your hard work,\" Daniyal said, smiling. \"I'm off to tell Jimmy and the others. Get ready quickly and come.\"",
+     "crop": "tight",
+     "motion": "static drift",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      13.9,
+      29.6,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Daniyal; reference image 2 is Haizum), create a new scene: Cinematic semi-realistic digital illustration with a moody romantic-drama look, deep moonlit indigo and sapphire-blue night tones contrasted with warm amber lamplight, soft rain-streaked atmosphere, gentle film grain, soft bokeh, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, table top, balcony railing, street in soft shadow) for captions and a logo; modern Male' city life of apartments, TV studios, offices, cafes and seaside promenades, with tropical palms and the lagoon glowing under a cloudy moon.\nScene: Daniyal beaming with joy, gripping both of Haizum's shoulders and shaking them happily; Haizum, younger, about 38, beard fully black, dressed casually for the morning in a plain charcoal-grey crew-neck short-sleeved t-shirt and long dark trousers (no suit, no jacket, no white shirt), hair a little messy from sleep, stunned with his mouth open, a confused half-relieved face; bright morning light flooding in from the balcony. Location: a modern high-rise hotel room in Ho Chi Minh City, Vietnam: cream walls, a beige carpet, a grey two-seat sofa with a low glass coffee table, a writing desk with a lamp, a tall window and a glass sliding door to a small balcony with the dense city skyline beyond, a plain white closed inner door near the entrance. Camera: medium close two-shot, eye level, faces in the upper half.\nCharacters: Daniyal: a stout Maldivian man of about 38 with warm brown skin, a round jovial face, a thick black moustache and short beard, twinkling eyes and short receding black hair; wears a light-blue long-sleeved shirt and khaki trousers. Haizum: a tall broad-shouldered Maldivian man of about 42 with warm brown skin, a strong square face, thick straight black eyebrows, deep tired dark eyes, a neatly trimmed black beard with a few grey flecks and short neat black hair greying slightly at the temples; wears a dark-navy suit with a white open-collar shirt and no tie.\nMood/lighting: early morning, bright soft daylight through sheer curtains, pale gold and cool blue tones, clear sky over the city, a tense guilty hush.\nModest Maldivian clothing (every woman in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck, also at home; men fully clothed in shirts or t-shirts and long trousers, never shirtless), no kissing, no embracing, no physical touch between a man and a woman, culturally respectful, no violence shown, no injuries, no bruises, no blood, no alcohol, no smoking, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "black",
+    "bg_luminance": 0.639,
+    "halo": true
+   },
+   "focus": {
+    "x_pct": 43.7,
+    "y_pct": 69.2,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_007",
+   "startMs": 165047,
+   "endMs": 196748,
+   "new_image_reason": "character/action change: alone, Haizum sits on the sofa watching Sana's scan video on his phone",
+   "characters": [
+    "haizum"
+   ],
+   "location": "a modern high-rise hotel room in Ho Chi Minh City, Vietnam: cream walls, a beige carpet, a grey two-seat sofa with a low glass coffee table, a writing desk with a lamp, a tall window and a glass sliding door to a small balcony with the dense city skyline beyond, a plain white closed inner door near the entrance",
+   "location_key": "hotel",
+   "mood": "early morning, bright soft daylight through sheer curtains, pale gold and cool blue tones, clear sky over the city, a tense guilty hush",
+   "visual": "Haizum, younger, about 38, beard fully black, dressed casually for the morning in a plain charcoal-grey crew-neck short-sleeved t-shirt and long dark trousers (no suit, no jacket, no white shirt), hair a little messy from sleep, sitting alone on the edge of the grey sofa, holding his phone in both hands, the screen's soft grey glow lighting his face, his eyes glistening with despair and sorrow; the screen faces him, only a pale grey blur visible to us; the city bright beyond the window",
+   "camera": "medium close-up, slightly low eye level, his face in the upper third, the glass coffee table as the lower third",
+   "image": "images/beat_007.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": "other",
+   "safe_substitution": "the ultrasound video is never shown; only the phone's soft grey glow on his face",
+   "ambience": "hotel_room",
+   "shots": [
+    {
+     "id": "shot_019",
+     "startMs": 165047,
+     "endMs": 171597,
+     "narration_dhivehi": "ހައިޒުމް މޭޒުމަތީގައި އޮތް ފޯނު ނަގައި ބަލައިލިއިރު، ސަނާގެ ވިއްސަކަށް މިސްކޯލާއި އެތައް މެސެޖެއް އޮތެވެ.",
+     "narration_english": "When Haizum picked up the phone lying on the table and looked, there were about twenty missed calls and many messages from Sana.",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_020",
+     "startMs": 171597,
+     "endMs": 180747,
+     "narration_dhivehi": "ފަހަރަކު މެސެޖެއް ބަލަމުން ގޮސް، ސަނާ ފޮނުވާފައިވާ ވީޑިއޯ މެސެޖު ހުޅުވާލިއެވެ. އެއީ ސަނާގެ ބަނޑުގައިވާ ލޯބިވާ ދަރިފުޅުގެ ސްކޭން ވީޑިއޯއެކެވެ.",
+     "narration_english": "Looking through the messages one by one, he opened a video message Sana had sent. It was a scan video of the beloved baby in Sana's womb.",
+     "crop": "tight",
+     "motion": "pan left",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      13.8,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_021",
+     "startMs": 180747,
+     "endMs": 188508,
+     "narration_dhivehi": "ހައިޒުމް ފޯނު ހިފައިގެން ގޮސް ސޯފާގައި އިށީނެވެ. ވީޑިއޯއިން ސަނާގެ މޫނު ފެނިގެން ދިޔައެވެ. \"މިއީ އަހަރުމެންގެ ކުޑަކުޑަ ދަރިފުޅު.\"",
+     "narration_english": "Haizum took the phone, went and sat on the sofa. Sana's face appeared in the video. \"This is our little baby.\"",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_022",
+     "startMs": 188508,
+     "endMs": 196748,
+     "narration_dhivehi": "އުފަލުން ފުރިގެންވާ އަޑަކުން ސަނާ ބުނާ އަޑު އިވުނެވެ. އެ ވަގުތު ހައިޒުމްގެ މޫނުމަތިން ފެނުނީ މާޔޫސްކަމާއި ދެރަވުމުގެ އަސަރެވެ.",
+     "narration_english": "Sana's voice could be heard, full of joy. At that moment Haizum's face showed despair and sorrow.",
+     "crop": "medium",
+     "motion": "pan right",
+     "sfx": [],
+     "hum": true,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      71.5,
+      84.7
+     ]
+    }
+   ],
+   "prompt_attempts": [],
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.176,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 43.6,
+    "y_pct": 28.2,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_008",
+   "startMs": 196748,
+   "endMs": 249420,
+   "new_image_reason": "scene and time change: back in Male, weeks later — he keeps calling Shifa's old number, no answer",
+   "characters": [
+    "haizum"
+   ],
+   "location": "Haizum's company office in Male: a large dark wooden desk with a closed laptop, a leather chair, a floor-to-ceiling window overlooking the lit buildings of Male and the harbour",
+   "location_key": "office",
+   "mood": "evening dusk, deep indigo sky and city lights through the window, a single warm desk lamp, lonely restless guilt",
+   "visual": "Haizum, younger, about 38, beard fully black, in a white shirt and dark-navy trousers, standing alone at his office window in the evening, a phone held to his ear, his other hand pressed flat against the glass, eyes closed in restless guilt; the lit city and harbour beyond",
+   "camera": "medium shot from the side, his face in the upper third, the dark desk top as the lower third",
+   "image": "images/beat_008.png",
+   "reuse_of": null,
+   "transition_in": "black",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "office_night",
+   "shots": [
+    {
+     "id": "shot_023",
+     "startMs": 196748,
+     "endMs": 207149,
+     "narration_dhivehi": "ސަނާއަށް ބޭވަފާތެރިވެވުނު ކަމުގެ އިޙްސާސް ވެގެން ދިއުމުން އޭނާއަށް ދެ ލޯ މަރައިލެވުނެވެ. ވިއެޓްނާމުން އެނބުރި އައި ފަހުން ވެސް ޝިފާއާ ގުޅޭނެ އެއްވެސް ގޮތެއް ހައިޒުމަކަށް ނުފެނުނެވެ.",
+     "narration_english": "Feeling that he had been unfaithful to Sana, he closed his eyes. Even after returning from Vietnam, Haizum found no way to reach Shifa.",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [
+      {
+       "name": "sigh",
+       "atMs": 201268,
+       "gainDb": -22,
+       "word": "މަރައިލެވުނެވެ."
+      }
+     ],
+     "hum": true,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_024",
+     "startMs": 207149,
+     "endMs": 222119,
+     "narration_dhivehi": "އޭނާގެ އަތުގައި ޝިފާގެ މިހާރުގެ ނަންބަރު ނެތުމުން، ކުރީގެ ނަންބަރަށް އެތައް ފަހަރަކު ގުޅަން މަސައްކަތް ކުރިއެވެ. ޝިފާ ވަކިވެގެން ދިޔައީ އެއްވެސް އެއްޗެއް ނުބުނެ ކަމަށް ވާތީ، ހައިޒުމްގެ ހިތުގައި ވަނީ ބުނެދޭން ނޭނގޭ ފަދަ ނުތަނަވަސްކަމެއް އުފެދިފައެވެ.",
+     "narration_english": "Not having Shifa's current number, he tried calling her old number many times. Because Shifa had left without saying anything, an unease he couldn't describe had grown in Haizum's heart.",
+     "crop": "tight",
+     "motion": "pan up",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      20.3,
+      4.8,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_025",
+     "startMs": 222119,
+     "endMs": 230900,
+     "narration_dhivehi": "ހައިޒުމް ވިއެޓްނާމަށް ފުރައިގެން ދިޔައިރު ވެސް، ސަނާގެ ބަލިޙާލަތުގެ ސަބަބުން އެ ދެމެދުގައި ވަނީ ނުތަނަވަސް ދުރުކަމެއް އުފެދިފައެވެ. ނަމަވެސް،",
+     "narration_english": "Even when Haizum left for Vietnam, an uneasy distance had grown between him and Sana because of her condition. But,",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_026",
+     "startMs": 230900,
+     "endMs": 240400,
+     "narration_dhivehi": "ވިއެޓްނާމުން އައި ފަހުން ސަނާއަށް ދޭންޖެހޭ ސަމާލުކަން ދިނުމުގައި ހައިޒުމް ވަނީ ނުކުޅެދިފައެވެ. އޭނާގެ ސިކުނޑީގައި އަބަދުވެސް އެނބުރެމުން ދިޔައީ އެންމެ ސުވާލެކެވެ.",
+     "narration_english": "after coming back from Vietnam, Haizum had failed to give Sana the attention she needed. Only one question kept turning in his mind.",
+     "crop": "medium",
+     "motion": "pan down",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      14.2,
+      0.0,
+      71.5,
+      84.7
+     ]
+    },
+    {
+     "id": "shot_027",
+     "startMs": 240400,
+     "endMs": 249420,
+     "narration_dhivehi": "ޝިފާ އެއްވެސް ބަހެއް ނުބުނެ ކުއްލިއަކަށް ދިޔައީ ކީއްވެގެން ހެއްޔެވެ؟ ދެ މަސްދުވަސް ފާއިތުވެގެން ދިޔައީއެވެ. ދުވަސްތައް ފާއިތުވަމުން ދިޔަ ވަރަކަށް،",
+     "narration_english": "Why had Shifa left so suddenly without a single word? Two months went by. As the days passed,",
+     "crop": "tight",
+     "motion": "static drift",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      20.3,
+      4.8,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Haizum), create a new scene: Cinematic semi-realistic digital illustration with a moody romantic-drama look, deep moonlit indigo and sapphire-blue night tones contrasted with warm amber lamplight, soft rain-streaked atmosphere, gentle film grain, soft bokeh, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, table top, balcony railing, street in soft shadow) for captions and a logo; modern Male' city life of apartments, TV studios, offices, cafes and seaside promenades, with tropical palms and the lagoon glowing under a cloudy moon.\nScene: Haizum, younger, about 38, beard fully black, in a white shirt and dark-navy trousers, standing alone at his office window in the evening, a phone held to his ear, his other hand pressed flat against the glass, eyes closed in restless guilt; the lit city and harbour beyond. Location: Haizum's company office in Male: a large dark wooden desk with a closed laptop, a leather chair, a floor-to-ceiling window overlooking the lit buildings of Male and the harbour. Camera: medium shot from the side, his face in the upper third, the dark desk top as the lower third.\nCharacters: Haizum: a tall broad-shouldered Maldivian man of about 42 with warm brown skin, a strong square face, thick straight black eyebrows, deep tired dark eyes, a neatly trimmed black beard with a few grey flecks and short neat black hair greying slightly at the temples; wears a dark-navy suit with a white open-collar shirt and no tie.\nMood/lighting: evening dusk, deep indigo sky and city lights through the window, a single warm desk lamp, lonely restless guilt.\nModest Maldivian clothing (every woman in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck, also at home; men fully clothed in shirts or t-shirts and long trousers, never shirtless), no kissing, no embracing, no physical touch between a man and a woman, culturally respectful, no violence shown, no injuries, no bruises, no blood, no alcohol, no smoking, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.172,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 50.0,
+    "y_pct": 40.0,
+    "face_detected": false
+   }
+  },
+  {
+   "id": "beat_009",
+   "startMs": 249420,
+   "endMs": 284282,
+   "new_image_reason": "time jump (two months later) and scene change: Haizum comes home; pregnant Sana tutoring the children",
+   "characters": [
+    "haizum",
+    "sana",
+    "laira_child",
+    "lail_child"
+   ],
+   "location": "the open-plan living and dining area of the family's spacious modern apartment in Male, Maldives: a wooden dining table with school exercise books and pencil cases, a cream sofa with cushions on a soft grey carpet, a corridor leading to the inner rooms, warm pendant lamps, a large window with the night lights of Male beyond",
+   "location_key": "home",
+   "mood": "early evening after sunset, clear night, warm amber pendant lamplight against deep blue dusk at the window, cosy family tenderness",
+   "visual": "Sana, seven months pregnant, in a loose long-sleeved ankle-length sage-green dress and her ivory hijab fully covering her hair and neck, sitting at the wooden dining table with exercise books open in front of little Laira (12) in her pink dress and dove-grey hijab and little Lail (10) in his striped blue-and-white t-shirt; Haizum, younger, about 38, beard fully black, in his white office shirt with sleeves rolled to the forearm and dark-navy trousers, no jacket, just arrived, standing behind her chair with one hand resting gently on her shoulder, smiling tenderly down at her and the children; the children look up and smile",
+   "camera": "medium wide, eye level, faces in the upper half, the table top with books as the lower third",
+   "image": "images/beat_009.png",
+   "reuse_of": null,
+   "transition_in": "black",
+   "sensitive": "intimacy",
+   "safe_substitution": "the forehead kisses are not shown: married couple shown only with his hand on her shoulder",
+   "ambience": "home_night",
+   "shots": [
+    {
+     "id": "shot_028",
+     "startMs": 249420,
+     "endMs": 257421,
+     "narration_dhivehi": "ހައިޒުމްގެ ހިތުން އެ ހަނދާންތައް ވެސް މަޑުމަޑުން ފަނޑުވަމުން ދިޔައެވެ. އޮފީސް ނިންމާލުމަށްފަހު ހައިޒުމް ގެއަށް އައިސް ވަންއިރު،",
+     "narration_english": "those memories slowly faded from Haizum's heart. When Haizum came home after finishing at the office,",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [
+      {
+       "name": "door_open",
+       "atMs": 256691,
+       "gainDb": -22,
+       "word": "ވަންއިރު،"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_029",
+     "startMs": 257421,
+     "endMs": 267661,
+     "narration_dhivehi": "ހަތް މަހުގެ ބަނޑަކާއިގެން އިން ސަނާ އިނީ ލައިލް އަދި ނައިރާއަށް ފިލާވަޅު ދަސްކޮށްދޭށެވެ. ގޭތެރެއަށް ވަދެގެން އައި ހައިޒުމް ދެ ކުދިންގެ ކޮލުގައި ލޯބިން ފިރުމައިލިއެވެ.",
+     "narration_english": "Sana, seven months pregnant, was sitting teaching Lail and Naira their lessons. Coming inside, Haizum lovingly stroked the two children's cheeks.",
+     "crop": "tight",
+     "motion": "pan left",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      28.7,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_030",
+     "startMs": 267661,
+     "endMs": 277362,
+     "narration_dhivehi": "އަދި ސަނާއާ ދިމާއަށް ގުދުވެލުމަށްފަހު، އޭނާގެ ނިތްކުރީގައި ލޯބިން ބޮސްދީ، ބަނޑުގައި މަޑުމަޑުން އަތްޖައްސައިލިއެވެ. \"މިއަދު ކިހިނެއް؟",
+     "narration_english": "And bending towards Sana, he lovingly kissed her forehead and gently touched her belly. \"How was today?",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_031",
+     "startMs": 277362,
+     "endMs": 284282,
+     "narration_dhivehi": "މާ ބޮޑަށް މޭނުބައިކޮށް ހޮޑުލެވުނުތަ؟\" ހައިޒުމް އަހައިލީ އޯގާތެރިކަމުން ފުރިގެންވާ މަޑުމައިތިރި އަޑަކުންނެވެ.",
+     "narration_english": "Did you feel very sick and throw up a lot?\" Haizum asked in a soft voice full of tenderness.",
+     "crop": "medium",
+     "motion": "pan right",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      22.6,
+      0.0,
+      71.5,
+      84.7
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Haizum; reference image 2 is Sana; reference image 3 is Laira; reference image 4 is Lail), create a new scene: Cinematic semi-realistic digital illustration with a moody romantic-drama look, deep moonlit indigo and sapphire-blue night tones contrasted with warm amber lamplight, soft rain-streaked atmosphere, gentle film grain, soft bokeh, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, table top, balcony railing, street in soft shadow) for captions and a logo; modern Male' city life of apartments, TV studios, offices, cafes and seaside promenades, with tropical palms and the lagoon glowing under a cloudy moon.\nScene: Sana, seven months pregnant, in a loose long-sleeved ankle-length sage-green dress and her ivory hijab fully covering her hair and neck, sitting at the wooden dining table with exercise books open in front of little Laira (12) in her pink dress and dove-grey hijab and little Lail (10) in his striped blue-and-white t-shirt; Haizum, younger, about 38, beard fully black, in his white office shirt with sleeves rolled to the forearm and dark-navy trousers, no jacket, just arrived, standing behind her chair with one hand resting gently on her shoulder, smiling tenderly down at her and the children; the children look up and smile. Location: the open-plan living and dining area of the family's spacious modern apartment in Male, Maldives: a wooden dining table with school exercise books and pencil cases, a cream sofa with cushions on a soft grey carpet, a corridor leading to the inner rooms, warm pendant lamps, a large window with the night lights of Male beyond. Camera: medium wide, eye level, faces in the upper half, the table top with books as the lower third.\nCharacters: Haizum: a tall broad-shouldered Maldivian man of about 42 with warm brown skin, a strong square face, thick straight black eyebrows, deep tired dark eyes, a neatly trimmed black beard with a few grey flecks and short neat black hair greying slightly at the temples; wears a dark-navy suit with a white open-collar shirt and no tie. Sana: a slender Maldivian woman of about 38 with warm brown skin, a delicate oval face, high cheekbones, sorrowful dark eyes and a faint tired smile; wears a loose long-sleeved ankle-length sage-green dress and an ivory hijab fully covering her hair and neck. little Laira: a slim Maldivian girl of about 12 with warm brown skin, a small gentle oval face and soft dark eyes; wears a loose long-sleeved ankle-length pink dress and a small dove-grey hijab fully covering her hair and neck. little Lail: a slim Maldivian boy of about 10 with warm brown skin, a small boyish face, big curious dark eyes under thick black eyebrows and short black hair; wears a striped blue-and-white t-shirt and long khaki trousers.\nMood/lighting: early evening after sunset, clear night, warm amber pendant lamplight against deep blue dusk at the window, cosy family tenderness.\nModest Maldivian clothing (every woman in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck, also at home; men fully clothed in shirts or t-shirts and long trousers, never shirtless), no kissing, no embracing, no physical touch between a man and a woman, culturally respectful, no violence shown, no injuries, no bruises, no blood, no alcohol, no smoking, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.34,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 58.4,
+    "y_pct": 20.3,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_010",
+   "startMs": 284282,
+   "endMs": 311553,
+   "new_image_reason": "framing change: the baby kicks — Haizum and Sana share a smile",
+   "characters": [
+    "haizum",
+    "sana"
+   ],
+   "location": "the open-plan living and dining area of the family's spacious modern apartment in Male, Maldives: a wooden dining table with school exercise books and pencil cases, a cream sofa with cushions on a soft grey carpet, a corridor leading to the inner rooms, warm pendant lamps, a large window with the night lights of Male beyond",
+   "location_key": "home",
+   "mood": "early evening after sunset, clear night, warm amber pendant lamplight against deep blue dusk at the window, cosy family tenderness",
+   "visual": "Sana, seven months pregnant, in a loose long-sleeved ankle-length sage-green dress and her ivory hijab fully covering her hair and neck, sitting at the dining table, both her hands resting on her rounded belly, looking up with a warm delighted smile; Haizum, younger, about 38, beard fully black, in his white office shirt with sleeves rolled to the forearm and dark-navy trousers, no jacket, crouched beside her chair, his hand hovering near her belly, a surprised happy smile on his face; warm lamplight",
+   "camera": "medium close two-shot, eye level, faces in the upper half, the table edge and her loose dress softly below",
+   "image": "images/beat_010.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "home_night",
+   "shots": [
+    {
+     "id": "shot_032",
+     "startMs": 284282,
+     "endMs": 293452,
+     "narration_dhivehi": "ސަނާ ނޫނެކޭ ބުނުމުގެ ގޮތުން މަޑުމަޑުން ބޯ ހޫރައިލިއެވެ. \"ދަރިފުޅު އޯކޭތަ؟\" ހައިޒުމް އަނެއްކާ ވެސް އަހައިލިއެވެ. އެ ވަގުތު ބަނޑުގައި އޮތް ދަރިފުޅު ތޮޅިލިއެވެ.",
+     "narration_english": "Sana gently shook her head to say no. \"Is the baby okay?\" Haizum asked again. Just then the baby in her womb kicked.",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_033",
+     "startMs": 293452,
+     "endMs": 303183,
+     "narration_dhivehi": "ހީވީ ބައްޕަގެ އެ ސުވާލަށް ޖަވާބުދިން ހެންނެވެ. ހައިޒުމްގެ ތުންފަތްމައްޗަށް ހިނިތުންވުމެއް ވެރިވިއެވެ. ސަނާ ވެސް ލޯބިން ފުރިގެންވާ ނަޒަރަކުން ހައިޒުމަށް ބަލައިލިއެވެ.",
+     "narration_english": "It was as if it were answering its father's question. A smile spread over Haizum's lips. Sana too looked at Haizum with eyes full of love.",
+     "crop": "tight",
+     "motion": "pan up",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      20.3,
+      4.8,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_034",
+     "startMs": 303183,
+     "endMs": 311553,
+     "narration_dhivehi": "\"ބަލާބަލަ، ދަރިފުޅު ވެސް ޖަވާބު އެ ދިނީ.\" އުފާވެރި ހިނިތުންވުމަކާއެކު ސަނާ ބުންޏެވެ. \"މަންމާ، ކޮއްކޮ ތޮޅެނީތަ؟\"",
+     "narration_english": "\"Look, the baby answered too,\" Sana said with a joyful smile. \"Mamma, is little one kicking?\"",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Haizum; reference image 2 is Sana), create a new scene: Cinematic semi-realistic digital illustration with a moody romantic-drama look, deep moonlit indigo and sapphire-blue night tones contrasted with warm amber lamplight, soft rain-streaked atmosphere, gentle film grain, soft bokeh, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, table top, balcony railing, street in soft shadow) for captions and a logo; modern Male' city life of apartments, TV studios, offices, cafes and seaside promenades, with tropical palms and the lagoon glowing under a cloudy moon.\nScene: Sana, seven months pregnant, in a loose long-sleeved ankle-length sage-green dress and her ivory hijab fully covering her hair and neck, sitting at the dining table, both her hands resting on her rounded belly, looking up with a warm delighted smile; Haizum, younger, about 38, beard fully black, in his white office shirt with sleeves rolled to the forearm and dark-navy trousers, no jacket, crouched beside her chair, his hand hovering near her belly, a surprised happy smile on his face; warm lamplight. Location: the open-plan living and dining area of the family's spacious modern apartment in Male, Maldives: a wooden dining table with school exercise books and pencil cases, a cream sofa with cushions on a soft grey carpet, a corridor leading to the inner rooms, warm pendant lamps, a large window with the night lights of Male beyond. Camera: medium close two-shot, eye level, faces in the upper half, the table edge and her loose dress softly below.\nCharacters: Haizum: a tall broad-shouldered Maldivian man of about 42 with warm brown skin, a strong square face, thick straight black eyebrows, deep tired dark eyes, a neatly trimmed black beard with a few grey flecks and short neat black hair greying slightly at the temples; wears a dark-navy suit with a white open-collar shirt and no tie. Sana: a slender Maldivian woman of about 38 with warm brown skin, a delicate oval face, high cheekbones, sorrowful dark eyes and a faint tired smile; wears a loose long-sleeved ankle-length sage-green dress and an ivory hijab fully covering her hair and neck.\nMood/lighting: early evening after sunset, clear night, warm amber pendant lamplight against deep blue dusk at the window, cosy family tenderness.\nModest Maldivian clothing (every woman in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck, also at home; men fully clothed in shirts or t-shirts and long trousers, never shirtless), no kissing, no embracing, no physical touch between a man and a woman, culturally respectful, no violence shown, no injuries, no bruises, no blood, no alcohol, no smoking, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.349,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 50.0,
+    "y_pct": 40.0,
+    "face_detected": false
+   }
+  },
+  {
+   "id": "beat_011",
+   "startMs": 311553,
+   "endMs": 340074,
+   "new_image_reason": "characters change: the children come to feel the baby; a warm family moment",
+   "characters": [
+    "sana",
+    "lail_child",
+    "laira_child",
+    "haizum"
+   ],
+   "location": "the open-plan living and dining area of the family's spacious modern apartment in Male, Maldives: a wooden dining table with school exercise books and pencil cases, a cream sofa with cushions on a soft grey carpet, a corridor leading to the inner rooms, warm pendant lamps, a large window with the night lights of Male beyond",
+   "location_key": "home",
+   "mood": "early evening after sunset, clear night, warm amber pendant lamplight against deep blue dusk at the window, cosy family tenderness",
+   "visual": "Sana, seven months pregnant, in a loose long-sleeved ankle-length sage-green dress and her ivory hijab fully covering her hair and neck, sitting on the cream sofa smiling; little Laira (12) in her pink dress and dove-grey hijab and little Lail (10) in his striped blue-and-white t-shirt kneeling on either side of her, each with a small hand resting on her rounded belly, faces full of wonder; Haizum, younger, about 38, beard fully black, in his white office shirt with sleeves rolled to the forearm and dark-navy trousers, no jacket, sitting on the sofa arm beside them, his hand resting on little Lail's head, smiling; warm lamplight",
+   "camera": "medium wide, eye level, faces in the upper half, the soft grey carpet as the lower third",
+   "image": "images/beat_011.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": "intimacy",
+   "safe_substitution": "the family hug and forehead kiss are shown as the family gathered side by side; no kiss, no embrace",
+   "ambience": "home_night",
+   "shots": [
+    {
+     "id": "shot_035",
+     "startMs": 311553,
+     "endMs": 321434,
+     "narration_dhivehi": "ލައިލް އިން ތަނުން ތެދުވެގެން އައިސް ސަނާގެ ގާތުގައި މަޑުކޮށްލުމަށްފަހު، މަންމަގެ ބަނޑުގައި އަތްޖައްސައިލިއެވެ. ހައިޒުމް ލޯތްބާއެކު ލައިލްގެ ބޮލުގައި ފިރުމައިލިއެވެ.",
+     "narration_english": "Lail got up from where he sat, came and stood beside Sana, and touched his mother's belly. Haizum lovingly stroked Lail's head.",
+     "crop": "full",
+     "motion": "pan down",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_036",
+     "startMs": 321434,
+     "endMs": 329194,
+     "narration_dhivehi": "އެ ވަގުތު ނައިރާ ވެސް އައިސް ސަނާގެ ބަނޑުގައި ފިރުމައިލިއެވެ. \"ކޮއްކޯ، މީ ދޮންތިއޭ.\" ލޯބިން ގުދުވެލަމުން ނައިރާ ބުންޏެވެ.",
+     "narration_english": "Then Naira too came and stroked Sana's belly. \"Little one, this is your big sister,\" Naira said, bending down lovingly.",
+     "crop": "tight",
+     "motion": "static drift",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      36.4,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_037",
+     "startMs": 329194,
+     "endMs": 340074,
+     "narration_dhivehi": "ސަނާ ހިނިތުންވެލަމުން ދެ ކުދިންގެ ބޮލުގައި ފިރުމައިލިއެވެ. ހައިޒުމް ދެ ކުދިންނާއެކު ސަނާ ގެނެސް އޭނާގެ މޭގައި ޖައްސައިލުމަށްފަހު، އަނެއްކާ ވެސް ސަނާގެ ނިތްކުރީގައި ބޮސްދިނެވެ.",
+     "narration_english": "Sana smiled and stroked the two children's heads. Haizum drew Sana close to his chest together with the children, and once more kissed Sana's forehead.",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": true,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Sana; reference image 2 is Lail; reference image 3 is Laira; reference image 4 is Haizum), create a new scene: Cinematic semi-realistic digital illustration with a moody romantic-drama look, deep moonlit indigo and sapphire-blue night tones contrasted with warm amber lamplight, soft rain-streaked atmosphere, gentle film grain, soft bokeh, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, table top, balcony railing, street in soft shadow) for captions and a logo; modern Male' city life of apartments, TV studios, offices, cafes and seaside promenades, with tropical palms and the lagoon glowing under a cloudy moon.\nScene: Sana, seven months pregnant, in a loose long-sleeved ankle-length sage-green dress and her ivory hijab fully covering her hair and neck, sitting on the cream sofa smiling; little Laira (12) in her pink dress and dove-grey hijab and little Lail (10) in his striped blue-and-white t-shirt kneeling on either side of her, each with a small hand resting on her rounded belly, faces full of wonder; Haizum, younger, about 38, beard fully black, in his white office shirt with sleeves rolled to the forearm and dark-navy trousers, no jacket, sitting on the sofa arm beside them, his hand resting on little Lail's head, smiling; warm lamplight. Location: the open-plan living and dining area of the family's spacious modern apartment in Male, Maldives: a wooden dining table with school exercise books and pencil cases, a cream sofa with cushions on a soft grey carpet, a corridor leading to the inner rooms, warm pendant lamps, a large window with the night lights of Male beyond. Camera: medium wide, eye level, faces in the upper half, the soft grey carpet as the lower third.\nCharacters: Sana: a slender Maldivian woman of about 38 with warm brown skin, a delicate oval face, high cheekbones, sorrowful dark eyes and a faint tired smile; wears a loose long-sleeved ankle-length sage-green dress and an ivory hijab fully covering her hair and neck. little Lail: a slim Maldivian boy of about 10 with warm brown skin, a small boyish face, big curious dark eyes under thick black eyebrows and short black hair; wears a striped blue-and-white t-shirt and long khaki trousers. little Laira: a slim Maldivian girl of about 12 with warm brown skin, a small gentle oval face and soft dark eyes; wears a loose long-sleeved ankle-length pink dress and a small dove-grey hijab fully covering her hair and neck. Haizum: a tall broad-shouldered Maldivian man of about 42 with warm brown skin, a strong square face, thick straight black eyebrows, deep tired dark eyes, a neatly trimmed black beard with a few grey flecks and short neat black hair greying slightly at the temples; wears a dark-navy suit with a white open-collar shirt and no tie.\nMood/lighting: early evening after sunset, clear night, warm amber pendant lamplight against deep blue dusk at the window, cosy family tenderness.\nModest Maldivian clothing (every woman in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck, also at home; men fully clothed in shirts or t-shirts and long trousers, never shirtless), no kissing, no embracing, no physical touch between a man and a woman, culturally respectful, no violence shown, no injuries, no bruises, no blood, no alcohol, no smoking, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.346,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 66.1,
+    "y_pct": 20.5,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_012",
+   "startMs": 340074,
+   "endMs": 366716,
+   "new_image_reason": "action change: Haizum goes to change; his phone stays on the table in front of Sana",
+   "characters": [
+    "sana",
+    "haizum"
+   ],
+   "location": "the open-plan living and dining area of the family's spacious modern apartment in Male, Maldives: a wooden dining table with school exercise books and pencil cases, a cream sofa with cushions on a soft grey carpet, a corridor leading to the inner rooms, warm pendant lamps, a large window with the night lights of Male beyond",
+   "location_key": "home",
+   "mood": "early evening after sunset, clear night, warm amber pendant lamplight against deep blue dusk at the window, cosy family tenderness",
+   "visual": "Sana, seven months pregnant, in a loose long-sleeved ankle-length sage-green dress and her ivory hijab fully covering her hair and neck, sitting at the dining table smiling after him; in the background Haizum, younger, about 38, beard fully black, in his white office shirt with sleeves rolled to the forearm and dark-navy trousers, no jacket, walking away down the corridor towards the inner rooms, glancing back with a smile; in the foreground on the table top, next to the exercise books, his black phone lying face down",
+   "camera": "medium wide, eye level, Sana's face in the upper third, the table top with the phone as the lower third",
+   "image": "images/beat_012.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "home_night",
+   "shots": [
+    {
+     "id": "shot_038",
+     "startMs": 340074,
+     "endMs": 349605,
+     "narration_dhivehi": "\"ދޭބަލަ އަވަހަށް އެއްޗެހި ބަދަލުކޮށްލައިގެން ކާން އަންނަން. ކުދިންގެ ފިލާވަޅު ވެސް މިހާރު ނިމުނީ.\" ސަނާ ހައިޒުމްގެ އަތުގައި ހިފައިލަމުން ލޯބިން ބުންޏެވެ.",
+     "narration_english": "\"Go on, quickly change your clothes and come and eat. The children's lessons are finished now too,\" Sana said lovingly, taking Haizum's hand.",
+     "crop": "full",
+     "motion": "pan left",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_039",
+     "startMs": 349605,
+     "endMs": 356795,
+     "narration_dhivehi": "\"މި އަންނަނީ އިނގޭ.\" އަނެއްކާވެސް ސަނާގެ ނިތްކުރީގައި ބޮސްދެމުން ހައިޒުމް ކޮޓަރިއާ ދިމާއަށް ހިނގައިގަތެވެ.",
+     "narration_english": "\"Coming, okay.\" Kissing Sana's forehead once more, Haizum walked off towards the bedroom.",
+     "crop": "tight",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      4.8,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_040",
+     "startMs": 356795,
+     "endMs": 366716,
+     "narration_dhivehi": "އޭރު ވެސް ދެ ކުދިން ތިބީ ސަނާގެ ބަނޑުގައި ފިރުމާލަ ފިރުމާލައެވެ. ނަމަވެސް، ހައިޒުމް ދިޔައީ އޭނާގެ ފޯނު ސަނާގެ ކުރިމަތީގައި އޮތް މޭޒުމަތީގައި ބާއްވާފައެވެ.",
+     "narration_english": "The two children were still stroking Sana's belly. But Haizum had gone leaving his phone on the table in front of Sana.",
+     "crop": "full",
+     "motion": "pan right",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Sana; reference image 2 is Haizum), create a new scene: Cinematic semi-realistic digital illustration with a moody romantic-drama look, deep moonlit indigo and sapphire-blue night tones contrasted with warm amber lamplight, soft rain-streaked atmosphere, gentle film grain, soft bokeh, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, table top, balcony railing, street in soft shadow) for captions and a logo; modern Male' city life of apartments, TV studios, offices, cafes and seaside promenades, with tropical palms and the lagoon glowing under a cloudy moon.\nScene: Sana, seven months pregnant, in a loose long-sleeved ankle-length sage-green dress and her ivory hijab fully covering her hair and neck, sitting at the dining table smiling after him; in the background Haizum, younger, about 38, beard fully black, in his white office shirt with sleeves rolled to the forearm and dark-navy trousers, no jacket, walking away down the corridor towards the inner rooms, glancing back with a smile; in the foreground on the table top, next to the exercise books, his black phone lying face down. Location: the open-plan living and dining area of the family's spacious modern apartment in Male, Maldives: a wooden dining table with school exercise books and pencil cases, a cream sofa with cushions on a soft grey carpet, a corridor leading to the inner rooms, warm pendant lamps, a large window with the night lights of Male beyond. Camera: medium wide, eye level, Sana's face in the upper third, the table top with the phone as the lower third.\nCharacters: Sana: a slender Maldivian woman of about 38 with warm brown skin, a delicate oval face, high cheekbones, sorrowful dark eyes and a faint tired smile; wears a loose long-sleeved ankle-length sage-green dress and an ivory hijab fully covering her hair and neck. Haizum: a tall broad-shouldered Maldivian man of about 42 with warm brown skin, a strong square face, thick straight black eyebrows, deep tired dark eyes, a neatly trimmed black beard with a few grey flecks and short neat black hair greying slightly at the temples; wears a dark-navy suit with a white open-collar shirt and no tie.\nMood/lighting: early evening after sunset, clear night, warm amber pendant lamplight against deep blue dusk at the window, cosy family tenderness.\nModest Maldivian clothing (every woman in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck, also at home; men fully clothed in shirts or t-shirts and long trousers, never shirtless), no kissing, no embracing, no physical touch between a man and a woman, culturally respectful, no violence shown, no injuries, no bruises, no blood, no alcohol, no smoking, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.297,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 34.5,
+    "y_pct": 35.2,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_013",
+   "startMs": 366716,
+   "endMs": 388877,
+   "new_image_reason": "action change: the children leave with their books; alone, Sana tidies the table as his phone lights up",
+   "characters": [
+    "sana"
+   ],
+   "location": "the open-plan living and dining area of the family's spacious modern apartment in Male, Maldives: a wooden dining table with school exercise books and pencil cases, a cream sofa with cushions on a soft grey carpet, a corridor leading to the inner rooms, warm pendant lamps, a large window with the night lights of Male beyond",
+   "location_key": "home",
+   "mood": "early evening after sunset, clear night, warm amber pendant lamplight against deep blue dusk at the window, cosy family tenderness",
+   "visual": "Sana, seven months pregnant, in a loose long-sleeved ankle-length sage-green dress and her ivory hijab fully covering her hair and neck, standing at the dining table stacking exercise books, turning her head as Haizum's phone on the table lights up with a soft white glow; in the far background the children walking away down the corridor carrying their books",
+   "camera": "medium shot, eye level, her face in the upper third, the table top with the glowing phone as the lower third",
+   "image": "images/beat_013.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": "other",
+   "safe_substitution": "the phone screen is only a soft glow; no readable text",
+   "ambience": "home_night",
+   "shots": [
+    {
+     "id": "shot_041",
+     "startMs": 366716,
+     "endMs": 377746,
+     "narration_dhivehi": "\"ދެ ކުދިން ދޭ ދެން ފޮތްތައް ހަމަކުރަން. މަންމަ ކާން މި ހަދަނީ.\" ސަނާ މޭޒުދޮށުން ތެދުވަމުން ބުންޏެވެ. ދިހަ އަހަރުގެ ލައިލް އަދި ބާރަ އަހަރުގެ ނައިރާ ފޮތްތައް ހިފައިގެން އެތެރެއަށް ހިނގައިގަތެވެ.",
+     "narration_english": "\"Go on, you two, put your books away now. Mamma's getting dinner,\" Sana said, getting up from the table. Ten-year-old Lail and twelve-year-old Naira took their books and went inside.",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [
+      {
+       "name": "paper_shuffle",
+       "atMs": 367516,
+       "gainDb": -22,
+       "word": "ފޮތްތައް"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_042",
+     "startMs": 377746,
+     "endMs": 388877,
+     "narration_dhivehi": "ސަނާ މޭޒުމަތި ތަރުތީބުކުރަން އުޅެނިކޮށް، ކުއްލިއަކަށް ހައިޒުމްގެ ފޯނަށް މެސެޖެއް އައެވެ. ފޯނުގެ ސްކްރީން ދިއްލިގެން ދިޔުމާއެކު، މެސެޖުގެ ފެށުން ސަނާގެ ލޮލުގައި އަޅައިގަތެވެ.",
+     "narration_english": "While Sana was tidying the table, a message suddenly arrived on Haizum's phone. As the screen lit up, the start of the message caught Sana's eye.",
+     "crop": "tight",
+     "motion": "pan up",
+     "sfx": [
+      {
+       "name": "phone_buzz",
+       "atMs": 382416,
+       "gainDb": -16,
+       "word": "މެސެޖެއް"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      19.5,
+      0.0,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Sana), create a new scene: Cinematic semi-realistic digital illustration with a moody romantic-drama look, deep moonlit indigo and sapphire-blue night tones contrasted with warm amber lamplight, soft rain-streaked atmosphere, gentle film grain, soft bokeh, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, table top, balcony railing, street in soft shadow) for captions and a logo; modern Male' city life of apartments, TV studios, offices, cafes and seaside promenades, with tropical palms and the lagoon glowing under a cloudy moon.\nScene: Sana, seven months pregnant, in a loose long-sleeved ankle-length sage-green dress and her ivory hijab fully covering her hair and neck, standing at the dining table stacking exercise books, turning her head as Haizum's phone on the table lights up with a soft white glow; in the far background the children walking away down the corridor carrying their books. Location: the open-plan living and dining area of the family's spacious modern apartment in Male, Maldives: a wooden dining table with school exercise books and pencil cases, a cream sofa with cushions on a soft grey carpet, a corridor leading to the inner rooms, warm pendant lamps, a large window with the night lights of Male beyond. Camera: medium shot, eye level, her face in the upper third, the table top with the glowing phone as the lower third.\nCharacters: Sana: a slender Maldivian woman of about 38 with warm brown skin, a delicate oval face, high cheekbones, sorrowful dark eyes and a faint tired smile; wears a loose long-sleeved ankle-length sage-green dress and an ivory hijab fully covering her hair and neck.\nMood/lighting: early evening after sunset, clear night, warm amber pendant lamplight against deep blue dusk at the window, cosy family tenderness.\nModest Maldivian clothing (every woman in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck, also at home; men fully clothed in shirts or t-shirts and long trousers, never shirtless), no kissing, no embracing, no physical touch between a man and a woman, culturally respectful, no violence shown, no injuries, no bruises, no blood, no alcohol, no smoking, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.276,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 49.2,
+    "y_pct": 26.9,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_014",
+   "startMs": 388877,
+   "endMs": 418648,
+   "new_image_reason": "emotional turning point: Sana reads Shifa's message",
+   "characters": [
+    "sana"
+   ],
+   "location": "the open-plan living and dining area of the family's spacious modern apartment in Male, Maldives: a wooden dining table with school exercise books and pencil cases, a cream sofa with cushions on a soft grey carpet, a corridor leading to the inner rooms, warm pendant lamps, a large window with the night lights of Male beyond",
+   "location_key": "home",
+   "mood": "early evening after sunset, clear night, warm amber pendant lamplight against deep blue dusk at the window, cosy family tenderness",
+   "visual": "close-up of Sana, seven months pregnant, in a loose long-sleeved ankle-length sage-green dress and her ivory hijab fully covering her hair and neck, holding Haizum's phone in both hands, its cold white glow on her face, her eyes widening in disbelief, lips parted, the colour draining from her face; the screen faces her, only its glow visible",
+   "camera": "close-up, eye level, her face in the upper half, her hands and the phone in the middle, her dress soft below",
+   "image": "images/beat_014.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": "other",
+   "safe_substitution": "the message is never readable; only the glow and her face",
+   "ambience": "home_night",
+   "shots": [
+    {
+     "id": "shot_043",
+     "startMs": 388877,
+     "endMs": 398977,
+     "narration_dhivehi": "\"ހާއި ހައިޒުމް.\" ސަނާ ފޯނު ނަގައި ހުޅުވައިލުމަށްފަހު މެސެޖު ކިޔަން ފެށިއެވެ. \"ހާއި ހައިޒުމް. އެއްވެސް އެއްޗެއް ނުބުނެ ކުއްލިއަކަށް ދެވުނީތީ މަޢާފަށް އެދެން.",
+     "narration_english": "\"Hi Haizum.\" Sana picked up the phone, opened it and began reading the message. \"Hi Haizum. I'm sorry for leaving so suddenly without saying anything.",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_044",
+     "startMs": 398977,
+     "endMs": 408767,
+     "narration_dhivehi": "ހައިޒުމް ދެއްކި ވާހަކަތަކާ މެދު ވަރަށް ވިސްނިން. އެކަމަކު ހިތަށްއެރީ މިހާރު މާ ލަސްވެއްޖެޔޭ. އަހަރެން މި މެސެޖު މި ކުރަނީ ހައިޒުމް ހާސްކޮށްލާކަށް ނޫން.",
+     "narration_english": "I thought a lot about what you said. But I felt it's far too late now. I'm not sending this message to upset you.",
+     "crop": "tight",
+     "motion": "pan down",
+     "sfx": [],
+     "hum": true,
+     "crop_rect_pct": [
+      8.6,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_045",
+     "startMs": 408767,
+     "endMs": 418648,
+     "narration_dhivehi": "އެކަމަކު ހައިޒުމަށް ވެސް އެނގެންޖެހޭ މުހިންމު ކަމަކަށް ވާތީ މި ވާހަކަ ހިއްސާކޮށްލަނީ.\" މެސެޖު ކިޔައި ނިމުނުއިރު ސަނާގެ ބޮލަށް އެނބުރުން އަރައިގެން ދިޔައެވެ.",
+     "narration_english": "But because it's something important that you also need to know, I'm sharing it.\" When she finished reading the message, Sana's head began to spin.",
+     "crop": "full",
+     "motion": "static drift",
+     "sfx": [
+      {
+       "name": "heartbeat",
+       "atMs": 417318,
+       "gainDb": -18,
+       "word": "އެނބުރުން"
+      }
+     ],
+     "hum": true,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Sana), create a new scene: Cinematic semi-realistic digital illustration with a moody romantic-drama look, deep moonlit indigo and sapphire-blue night tones contrasted with warm amber lamplight, soft rain-streaked atmosphere, gentle film grain, soft bokeh, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, table top, balcony railing, street in soft shadow) for captions and a logo; modern Male' city life of apartments, TV studios, offices, cafes and seaside promenades, with tropical palms and the lagoon glowing under a cloudy moon.\nScene: close-up of Sana, seven months pregnant, in a loose long-sleeved ankle-length sage-green dress and her ivory hijab fully covering her hair and neck, holding Haizum's phone in both hands, its cold white glow on her face, her eyes widening in disbelief, lips parted, the colour draining from her face; the screen faces her, only its glow visible. Location: the open-plan living and dining area of the family's spacious modern apartment in Male, Maldives: a wooden dining table with school exercise books and pencil cases, a cream sofa with cushions on a soft grey carpet, a corridor leading to the inner rooms, warm pendant lamps, a large window with the night lights of Male beyond. Camera: close-up, eye level, her face in the upper half, her hands and the phone in the middle, her dress soft below.\nCharacters: Sana: a slender Maldivian woman of about 38 with warm brown skin, a delicate oval face, high cheekbones, sorrowful dark eyes and a faint tired smile; wears a loose long-sleeved ankle-length sage-green dress and an ivory hijab fully covering her hair and neck.\nMood/lighting: early evening after sunset, clear night, warm amber pendant lamplight against deep blue dusk at the window, cosy family tenderness.\nModest Maldivian clothing (every woman in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck, also at home; men fully clothed in shirts or t-shirts and long trousers, never shirtless), no kissing, no embracing, no physical touch between a man and a woman, culturally respectful, no violence shown, no injuries, no bruises, no blood, no alcohol, no smoking, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.301,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 38.3,
+    "y_pct": 27.4,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_015",
+   "startMs": 418648,
+   "endMs": 447329,
+   "new_image_reason": "action change: dizziness — the world spins, she searches the phone frantically",
+   "characters": [
+    "sana"
+   ],
+   "location": "the open-plan living and dining area of the family's spacious modern apartment in Male, Maldives: a wooden dining table with school exercise books and pencil cases, a cream sofa with cushions on a soft grey carpet, a corridor leading to the inner rooms, warm pendant lamps, a large window with the night lights of Male beyond",
+   "location_key": "home_shock",
+   "mood": "evening, clear night, the warm amber lamps turned cold by a dizzying blue tint, soft blur at the edges, sudden dread",
+   "visual": "Sana, seven months pregnant, in a loose long-sleeved ankle-length sage-green dress and her ivory hijab fully covering her hair and neck, swaying on her feet, one hand gripping the edge of the dining table for support, the other clutching the glowing phone, her face pale and frightened, eyes unfocused; the room around her blurred and tilting with soft doubled edges as if spinning",
+   "camera": "medium shot, slightly tilted dutch angle, her face in the upper third, the table top as the lower third",
+   "image": "images/beat_015.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "home_night",
+   "shots": [
+    {
+     "id": "shot_046",
+     "startMs": 418648,
+     "endMs": 426048,
+     "narration_dhivehi": "ލޮލަށް ފެންނަމުންދިޔަ މަންޒަރުތައް ފުސްވެ، މުޅި ދުނިޔެ އެފުށްމިފުށަށް ޖެހުނު ފަދަ އިހުސާސެއް އޭނާއަށް ކުރެވެން ފެށިއެވެ.",
+     "narration_english": "The things before her eyes blurred, and she began to feel as if the whole world were lurching from side to side.",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": true,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_047",
+     "startMs": 426048,
+     "endMs": 436899,
+     "narration_dhivehi": "ފޯނުގެ ސްކްރީނުން ފެންނަމުންދިޔަ ބައެއް ލަފުޒުތައް ކިޔަން ދަތިވާ ވަރަށް ފުސްވަމުން ދިޔައެވެ. މެސެޖު ފޮނުވި ފަރާތެއް ދެނެގަތުމަށްޓަކައި ސަނާ ދެ ލޯ ބޮޑުކޮށްގެން ބަލަން ހުއްޓައި،",
+     "narration_english": "Some of the words on the phone screen blurred until they were hard to read. While Sana was straining her eyes wide to make out who had sent the message,",
+     "crop": "tight",
+     "motion": "pan left",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      14.8,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_048",
+     "startMs": 436899,
+     "endMs": 447329,
+     "narration_dhivehi": "އަތުން ޖެހުނު ގޮތަކުން އެ ނަންބަރު ފޮހެވިގެން ދިޔައެވެ. ހާސްވެފައިވާ ހާލު، އަލުން އެ މެސެޖު ފެނޭތޯ މޮޔައެއް ފަދައިން ހޯދަން ފެށިއެވެ. އޭރު މުޅި މީހާ ތުރުތުރުއަޅައި،",
+     "narration_english": "her hand slipped and the number was deleted. Panicking, she began searching like a madwoman to find the message again. By then her whole body was trembling,",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [
+      {
+       "name": "breath_heavy",
+       "atMs": 446279,
+       "gainDb": -20,
+       "word": "ތުރުތުރުއަޅައި،"
+      }
+     ],
+     "hum": true,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Sana), create a new scene: Cinematic semi-realistic digital illustration with a moody romantic-drama look, deep moonlit indigo and sapphire-blue night tones contrasted with warm amber lamplight, soft rain-streaked atmosphere, gentle film grain, soft bokeh, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, table top, balcony railing, street in soft shadow) for captions and a logo; modern Male' city life of apartments, TV studios, offices, cafes and seaside promenades, with tropical palms and the lagoon glowing under a cloudy moon.\nScene: Sana, seven months pregnant, in a loose long-sleeved ankle-length sage-green dress and her ivory hijab fully covering her hair and neck, swaying on her feet, one hand gripping the edge of the dining table for support, the other clutching the glowing phone, her face pale and frightened, eyes unfocused; the room around her blurred and tilting with soft doubled edges as if spinning. Location: the open-plan living and dining area of the family's spacious modern apartment in Male, Maldives: a wooden dining table with school exercise books and pencil cases, a cream sofa with cushions on a soft grey carpet, a corridor leading to the inner rooms, warm pendant lamps, a large window with the night lights of Male beyond. Camera: medium shot, slightly tilted dutch angle, her face in the upper third, the table top as the lower third.\nCharacters: Sana: a slender Maldivian woman of about 38 with warm brown skin, a delicate oval face, high cheekbones, sorrowful dark eyes and a faint tired smile; wears a loose long-sleeved ankle-length sage-green dress and an ivory hijab fully covering her hair and neck.\nMood/lighting: evening, clear night, the warm amber lamps turned cold by a dizzying blue tint, soft blur at the edges, sudden dread.\nModest Maldivian clothing (every woman in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck, also at home; men fully clothed in shirts or t-shirts and long trousers, never shirtless), no kissing, no embracing, no physical touch between a man and a woman, culturally respectful, no violence shown, no injuries, no bruises, no blood, no alcohol, no smoking, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.134,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 44.5,
+    "y_pct": 23.9,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_016",
+   "startMs": 447329,
+   "endMs": 473870,
+   "new_image_reason": "action change: Sana collapses; the children scream; Haizum rushes out of the bedroom",
+   "characters": [
+    "sana",
+    "laira_child",
+    "lail_child",
+    "haizum"
+   ],
+   "location": "the open-plan living and dining area of the family's spacious modern apartment in Male, Maldives: a wooden dining table with school exercise books and pencil cases, a cream sofa with cushions on a soft grey carpet, a corridor leading to the inner rooms, warm pendant lamps, a large window with the night lights of Male beyond",
+   "location_key": "home_shock",
+   "mood": "evening, clear night, the warm amber lamps turned cold by a dizzying blue tint, soft blur at the edges, sudden dread",
+   "visual": "Sana, seven months pregnant, in a loose long-sleeved ankle-length sage-green dress and her ivory hijab fully covering her hair and neck, sitting on the soft carpet with her back resting against the cream sofa, her head leaning on the sofa cushion, eyes closed as if fainted, a phone on the carpet beside her hand; a few steps behind her little Laira (12) in her pink dress and dove-grey hijab and little Lail (10) in his striped blue-and-white t-shirt standing still with worried faces; in the corridor behind them, Haizum, younger, about 38, beard fully black, in his white office shirt with sleeves rolled to the forearm and dark-navy trousers, no jacket, fully dressed, hurrying towards her with wide alarmed eyes",
+   "camera": "medium wide, slightly high angle, faces in the upper two-thirds, the carpet as the lower third",
+   "image": "images/beat_016.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": "other",
+   "safe_substitution": "the fall is not shown: she is sitting slumped against the sofa; Haizum (who in the narration holds a T-shirt) is fully dressed; no injury",
+   "ambience": "home_night",
+   "shots": [
+    {
+     "id": "shot_049",
+     "startMs": 447329,
+     "endMs": 456200,
+     "narration_dhivehi": "ދުނިޔެ އެނބުރޭ ފަދަ އިހުސާސެއް ކުރެވެމުން ދިޔައެވެ. އެންމެ ފަހުން، ފޯނާއެކު ސަނާ ބަންޑުން ތަޅުންގަނޑުމައްޗަށް ވެއްޓުނެވެ. \"މަންމާ!\"",
+     "narration_english": "and she felt as though the world were spinning. In the end Sana fell unconscious to the floor, phone and all. \"Mamma!\"",
+     "crop": "full",
+     "motion": "pan right",
+     "sfx": [
+      {
+       "name": "soft_thud",
+       "atMs": 454540,
+       "gainDb": -16,
+       "word": "ވެއްޓުނެވެ."
+      },
+      {
+       "name": "gasp",
+       "atMs": 455460,
+       "gainDb": -18,
+       "word": "\"މަންމާ!\""
+      }
+     ],
+     "hum": true,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_050",
+     "startMs": 456200,
+     "endMs": 464720,
+     "narration_dhivehi": "ކެތްނުކުރެވިގެން ސަނާއަށް އަޑުގެ ކޮޅަށް ގޮވައިގަނެވުނެވެ. ސަނާގެ ހަޅޭކުގެ އަޑަށް ހައިޒުމް ކޮޓަރިން ނުކުތްއިރު އަތުގައި އޮތީ ލާން ނެގި ޓީޝާޓެވެ.",
+     "narration_english": "Unable to hold back, the cry burst out at the top of their voices. At the sound of the scream Haizum came out of the room, a T-shirt in his hand that he'd taken to put on.",
+     "crop": "tight",
+     "motion": "slow push-in",
+     "sfx": [
+      {
+       "name": "door_open",
+       "atMs": 462080,
+       "gainDb": -22,
+       "word": "ނުކުތްއިރު"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      11.4,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_051",
+     "startMs": 464720,
+     "endMs": 473870,
+     "narration_dhivehi": "ތަޅުންމަތީގައި ވެއްޓިފައި އޮތް ސަނާ ފެނުމާއެކު، ހައިޒުމްގެ ދެ ލޯ ބޮޑުވެ ސިހުން ލިބުނެވެ. \"ސަނާ.\" ހައިޒުމް ދުވެފައި ގޮސް ސަނާ އަތްދަނޑިމައްޗަށް ނެގިއެވެ.",
+     "narration_english": "Seeing Sana collapsed on the floor, Haizum's eyes went wide with shock. \"Sana.\" Haizum ran over and lifted Sana in his arms.",
+     "crop": "full",
+     "motion": "pan up",
+     "sfx": [
+      {
+       "name": "gasp",
+       "atMs": 468780,
+       "gainDb": -20,
+       "word": "ސިހުން"
+      },
+      {
+       "name": "footsteps_pavement",
+       "atMs": 471520,
+       "gainDb": -22,
+       "word": "ދުވެފައި"
+      }
+     ],
+     "hum": true,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Sana; reference image 2 is Laira; reference image 3 is Lail; reference image 4 is Haizum), create a new scene: Cinematic semi-realistic digital illustration with a moody romantic-drama look, deep moonlit indigo and sapphire-blue night tones contrasted with warm amber lamplight, soft rain-streaked atmosphere, gentle film grain, soft bokeh, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, table top, balcony railing, street in soft shadow) for captions and a logo; modern Male' city life of apartments, TV studios, offices, cafes and seaside promenades, with tropical palms and the lagoon glowing under a cloudy moon.\nScene: Sana, seven months pregnant, in a loose long-sleeved ankle-length sage-green dress and her ivory hijab fully covering her hair and neck, sitting on the soft carpet with her back resting against the cream sofa, her head leaning on the sofa cushion, eyes closed as if fainted, a phone on the carpet beside her hand; a few steps behind her little Laira (12) in her pink dress and dove-grey hijab and little Lail (10) in his striped blue-and-white t-shirt standing still with worried faces; in the corridor behind them, Haizum, younger, about 38, beard fully black, in his white office shirt with sleeves rolled to the forearm and dark-navy trousers, no jacket, fully dressed, hurrying towards her with wide alarmed eyes. Location: the open-plan living and dining area of the family's spacious modern apartment in Male, Maldives: a wooden dining table with school exercise books and pencil cases, a cream sofa with cushions on a soft grey carpet, a corridor leading to the inner rooms, warm pendant lamps, a large window with the night lights of Male beyond. Camera: medium wide, slightly high angle, faces in the upper two-thirds, the carpet as the lower third.\nCharacters: Sana: a slender Maldivian woman of about 38 with warm brown skin, a delicate oval face, high cheekbones, sorrowful dark eyes and a faint tired smile; wears a loose long-sleeved ankle-length sage-green dress and an ivory hijab fully covering her hair and neck. little Laira: a slim Maldivian girl of about 12 with warm brown skin, a small gentle oval face and soft dark eyes; wears a loose long-sleeved ankle-length pink dress and a small dove-grey hijab fully covering her hair and neck. little Lail: a slim Maldivian boy of about 10 with warm brown skin, a small boyish face, big curious dark eyes under thick black eyebrows and short black hair; wears a striped blue-and-white t-shirt and long khaki trousers. Haizum: a tall broad-shouldered Maldivian man of about 42 with warm brown skin, a strong square face, thick straight black eyebrows, deep tired dark eyes, a neatly trimmed black beard with a few grey flecks and short neat black hair greying slightly at the temples; wears a dark-navy suit with a white open-collar shirt and no tie.\nMood/lighting: evening, clear night, the warm amber lamps turned cold by a dizzying blue tint, soft blur at the edges, sudden dread.\nModest Maldivian clothing (every woman in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck, also at home; men fully clothed in shirts or t-shirts and long trousers, never shirtless), no kissing, no embracing, no physical touch between a man and a woman, culturally respectful, no violence shown, no injuries, no bruises, no blood, no alcohol, no smoking, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.326,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 41.1,
+    "y_pct": 20.1,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_017",
+   "startMs": 473870,
+   "endMs": 500472,
+   "new_image_reason": "location change: rushing out — Laira holds the door open, Lail calls the lift",
+   "characters": [
+    "haizum",
+    "lail_child",
+    "laira_child"
+   ],
+   "location": "the bright corridor of the apartment building in Male just outside the family's front door: the apartment door standing wide open spilling warm light, a lift with brushed-steel doors and a small call panel with plain round buttons, a tiled floor",
+   "location_key": "landing",
+   "mood": "night, harsh white corridor light against the warm glow from the open door, urgent panic",
+   "visual": "the building corridor: little Lail (10) in his striped t-shirt pressing the lift button with a frightened face; little Laira (12) in her pink dress and dove-grey hijab holding the apartment door wide open; Haizum, younger, about 38, beard fully black, in his white office shirt with sleeves rolled to the forearm and dark-navy trousers, no jacket, hurrying out of the doorway, his face desperate and tearful",
+   "camera": "medium wide, eye level, faces in the upper half, the tiled floor as the lower third",
+   "image": "images/beat_017.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": "other",
+   "safe_substitution": "Haizum carrying his unconscious wife is not shown; only his urgent face and the children",
+   "ambience": "home_night",
+   "shots": [
+    {
+     "id": "shot_052",
+     "startMs": 473870,
+     "endMs": 483461,
+     "narration_dhivehi": "އޭރު ސަނާގެ ހަށިގަނޑުގައި އެއްވެސް ވަރެއް ނެތެވެ. ކޮޓަރިން ނުކުތް ލައިރާއަށް ގޮވައި އަވަހަށް ދޮރު ހުޅުވުމަށް ހައިޒުމް އެންގިއެވެ. ލައިރާ ގޮސް ދޮރު ހުޅުވައިލުމާއެކު،",
+     "narration_english": "There was no strength left in Sana's body. Calling to Laira, who had come out of her room, Haizum told her to open the door quickly. As soon as Laira opened the door,",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [
+      {
+       "name": "door_open",
+       "atMs": 482221,
+       "gainDb": -20,
+       "word": "ހުޅުވައިލުމާއެކު،"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_053",
+     "startMs": 483461,
+     "endMs": 493331,
+     "narration_dhivehi": "ލައިލް ދުވެފައި ގޮސް ލިފްޓު ތައްޔާރުކުރިއެވެ. ސަނާގެ ހާލަތު ހުރި ގޮތުން ލަސްނުކޮށް ހޮސްޕިޓަލަށް ދާންޖެހޭނެކަން ހައިޒުމަށް ވިސްނުނެވެ. \"މަންމައަށް ކިހިނެއްވީ؟\"",
+     "narration_english": "Lail ran ahead and got the lift ready. From the state Sana was in, Haizum realised they had to get to the hospital without delay. \"What happened to Mamma?\"",
+     "crop": "tight",
+     "motion": "pan down",
+     "sfx": [
+      {
+       "name": "lift_ding",
+       "atMs": 484801,
+       "gainDb": -18,
+       "word": "ލިފްޓު"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      20.1,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_054",
+     "startMs": 493331,
+     "endMs": 500472,
+     "narration_dhivehi": "ލައިލް ހާސްކަމާއެކު އެހިއެވެ. \"ދަރިފުޅުމެން އަވަހަށް ބައްޕައާއެކު އާދޭ.\" ކަރުނަވީ އަޑަކުން ހައިޒުމް ބުންޏެވެ.",
+     "narration_english": "Lail asked anxiously. \"Come quickly with Bappa, children,\" Haizum said in a tearful voice.",
+     "crop": "full",
+     "motion": "static drift",
+     "sfx": [
+      {
+       "name": "sob_breath",
+       "atMs": 498321,
+       "gainDb": -24,
+       "word": "ކަރުނަވީ"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Haizum; reference image 2 is Lail; reference image 3 is Laira), create a new scene: Cinematic semi-realistic digital illustration with a moody romantic-drama look, deep moonlit indigo and sapphire-blue night tones contrasted with warm amber lamplight, soft rain-streaked atmosphere, gentle film grain, soft bokeh, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, table top, balcony railing, street in soft shadow) for captions and a logo; modern Male' city life of apartments, TV studios, offices, cafes and seaside promenades, with tropical palms and the lagoon glowing under a cloudy moon.\nScene: the building corridor: little Lail (10) in his striped t-shirt pressing the lift button with a frightened face; little Laira (12) in her pink dress and dove-grey hijab holding the apartment door wide open; Haizum, younger, about 38, beard fully black, in his white office shirt with sleeves rolled to the forearm and dark-navy trousers, no jacket, hurrying out of the doorway, his face desperate and tearful. Location: the bright corridor of the apartment building in Male just outside the family's front door: the apartment door standing wide open spilling warm light, a lift with brushed-steel doors and a small call panel with plain round buttons, a tiled floor. Camera: medium wide, eye level, faces in the upper half, the tiled floor as the lower third.\nCharacters: Haizum: a tall broad-shouldered Maldivian man of about 42 with warm brown skin, a strong square face, thick straight black eyebrows, deep tired dark eyes, a neatly trimmed black beard with a few grey flecks and short neat black hair greying slightly at the temples; wears a dark-navy suit with a white open-collar shirt and no tie. little Lail: a slim Maldivian boy of about 10 with warm brown skin, a small boyish face, big curious dark eyes under thick black eyebrows and short black hair; wears a striped blue-and-white t-shirt and long khaki trousers. little Laira: a slim Maldivian girl of about 12 with warm brown skin, a small gentle oval face and soft dark eyes; wears a loose long-sleeved ankle-length pink dress and a small dove-grey hijab fully covering her hair and neck.\nMood/lighting: night, harsh white corridor light against the warm glow from the open door, urgent panic.\nModest Maldivian clothing (every woman in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck, also at home; men fully clothed in shirts or t-shirts and long trousers, never shirtless), no kissing, no embracing, no physical touch between a man and a woman, culturally respectful, no violence shown, no injuries, no bruises, no blood, no alcohol, no smoking, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.289,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 49.8,
+    "y_pct": 18.5,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_018",
+   "startMs": 500472,
+   "endMs": 532213,
+   "new_image_reason": "location and time change: the hospital — the doctor says the baby could not be saved",
+   "characters": [
+    "haizum",
+    "laira_child",
+    "lail_child"
+   ],
+   "location": "a hospital corridor in Male outside the operating theatre: closed double doors with frosted round windows, a row of blue plastic waiting chairs against pale green walls, a polished floor",
+   "location_key": "ot_corridor",
+   "mood": "late night, cold fluorescent light, hushed and still, deep grief",
+   "visual": "a doctor in green theatre scrubs and a cap standing at the closed operating-theatre doors, his head lowered in sorrow; facing him Haizum, younger, about 38, beard fully black, in his white office shirt with sleeves rolled to the forearm and dark-navy trousers, no jacket, his shirt rumpled, standing speechless with his arms around the shoulders of little Laira (12) in her pink dress and dove-grey hijab and little Lail (10) in his striped blue-and-white t-shirt who press against his sides crying, tears on their cheeks",
+   "camera": "medium wide, eye level, faces in the upper half, the polished floor as the lower third",
+   "image": "images/beat_018.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": "other",
+   "safe_substitution": "the loss of the baby is only spoken; the baby and the operation are never shown",
+   "ambience": "hospital_corridor",
+   "shots": [
+    {
+     "id": "shot_055",
+     "startMs": 500472,
+     "endMs": 510742,
+     "narration_dhivehi": "ކާޕެޓްމައްޗަށް ވެއްޓިފައި އޮތް ހައިޒުމްގެ ޓީޝާޓް ހިފައިގެން ލައިރާ ވެސް އެ މީހުންގެ ފަހަތުން އަވަސްއަވަހަށް ނުކުތެވެ. \"ވަރަށް ދެރަ، ދަރިފުޅު ސަލާމަތެއް ނުކުރެވުނު.",
+     "narration_english": "Picking up Haizum's T-shirt from where it had fallen on the carpet, Laira too hurried out after them. \"I'm very sorry, we couldn't save the baby.",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [
+      {
+       "name": "footsteps_pavement",
+       "atMs": 507022,
+       "gainDb": -24,
+       "word": "ނުކުތެވެ."
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_056",
+     "startMs": 510742,
+     "endMs": 522993,
+     "narration_dhivehi": "އެކަމަކު ސަނާގެ ހާލު މިހާރު ރަނގަޅު.\" އޮޕަރޭޝަން ތިއޭޓަރުން ނުކުތް ޑޮކްޓަރުގެ މި ބަސްތަކާއެކު، ބައްޕަގެ ދެ ފަރާތުގައި ތިބި ލައިރާއާއި ލައިލްގެ ލޮލުން ހިފެހެއްޓުމެއްނެތި ކަރުނަ އޮހޮރިގަތެވެ.",
+     "narration_english": "But Sana is fine now.\" At these words from the doctor who came out of the operating theatre, tears streamed uncontrollably from the eyes of Laira and Lail on either side of their father.",
+     "crop": "tight",
+     "motion": "pan left",
+     "sfx": [
+      {
+       "name": "sob_breath",
+       "atMs": 521702,
+       "gainDb": -22,
+       "word": "ކަރުނަ"
+      }
+     ],
+     "hum": true,
+     "crop_rect_pct": [
+      35.6,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_057",
+     "startMs": 522993,
+     "endMs": 532213,
+     "narration_dhivehi": "ދުނިޔޭގެ އަލިކަން ދެކުމުގެ ކުރިން އެ ކުދިންގެ ލޯބިވާ ކޮއްކޮ ވަކިވެދިޔުމުންނެވެ. ހައިޒުމް ދެ ކުދިން ގަޔާ ކައިރިކޮށްލައިގެން، ބަސްހުއްޓިފައި ހުއްޓެވެ.",
+     "narration_english": "Because their beloved little sibling had gone before ever seeing the light of the world. Haizum held the two children close, standing speechless.",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": true,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "refused",
+     "rewrite_reason": null
+    },
+    {
+     "attempt": 2,
+     "result": "ok",
+     "rewrite_reason": "refused: removed trigger words, neutral emotion/setting wording"
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing, create a new scene: Cinematic semi-realistic digital illustration with a moody romantic-drama look, deep moonlit indigo and sapphire-blue night tones contrasted with warm amber lamplight, soft rain-streaked atmosphere, gentle film grain, soft bokeh, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, table top, balcony railing, street in soft shadow) for captions and a logo; modern Male' city life of apartments, TV studios, offices, cafes and seaside promenades, with tropical palms and the lagoon glowing under a cloudy moon.\nScene: a doctor in green theatre scrubs and a cap standing at the closed operating-theatre doors, his head lowered in sorrow; facing him Haizum, younger, about 38, beard fully black, in his white office shirt with sleeves rolled to the forearm and dark-navy trousers, no jacket, his shirt rumpled, standing speechless with his arms around the shoulders of little Laira (12) in her pink dress and dove-grey hijab and little Lail (10) in his striped blue-and-white t-shirt who press against his sides , on their cheeks, calm and emotional. Location: a hospital corridor in Male outside the operating theatre: closed double doors with frosted round windows, a row of blue plastic waiting chairs against pale green walls, a polished floor. Camera: medium wide, eye level, faces in the upper half, the polished floor as the lower third.\nCharacters: Haizum: a tall broad-shouldered Maldivian man of about 42 with warm brown skin, a strong square face, thick straight black eyebrows, deep tired dark eyes, a neatly trimmed black beard with a few grey flecks and short neat black hair greying slightly at the temples; wears a dark-navy suit with a white open-collar shirt and no tie. little Laira: a slim Maldivian girl of about 12 with warm brown skin, a small gentle oval face and soft dark eyes; wears a loose long-sleeved ankle-length pink dress and a small dove-grey hijab fully covering her hair and neck. little Lail: a slim Maldivian boy of about 10 with warm brown skin, a small boyish face, big curious dark eyes under thick black eyebrows and short black hair; wears a striped blue-and-white t-shirt and long khaki trousers.\nMood/lighting: late night, cold fluorescent light, hushed and still, deep grief.\nModest Maldivian clothing (every woman in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck, also at home; men fully clothed in shirts or t-shirts and long trousers, never shirtless), no kissing, no embracing, no physical touch between a man and a woman, culturally respectful, no violence shown, no injuries, no bruises, no blood, no alcohol, no smoking, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.276,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 65.3,
+    "y_pct": 18.4,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_019",
+   "startMs": 532213,
+   "endMs": 552014,
+   "new_image_reason": "character change: that night Grandma Shafeeqa takes the children home",
+   "characters": [
+    "shafeeqa",
+    "laira_child",
+    "lail_child",
+    "haizum"
+   ],
+   "location": "a quiet hospital ward corridor in Male at night: the open door of a private room, pale walls, a handrail, a polished floor reflecting the lights",
+   "location_key": "ward_corridor",
+   "mood": "late night, dim quiet corridor lights, deep blue shadows, exhausted sorrow",
+   "visual": "Maama Shafeeqa in her dark-maroon libaas, white headscarf and gold glasses walking away down the corridor holding the hands of little Laira (12) in her pink dress and dove-grey hijab and little Lail (10) in his striped blue-and-white t-shirt, who glance back sadly; in the foreground Haizum, younger, about 38, beard fully black, in his white office shirt with sleeves rolled to the forearm and dark-navy trousers, no jacket, standing alone in the open doorway of a private room, shoulders slumped, watching them go",
+   "camera": "medium wide, eye level, faces in the upper half, the polished floor as the lower third",
+   "image": "images/beat_019.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "hospital_night",
+   "shots": [
+    {
+     "id": "shot_058",
+     "startMs": 532213,
+     "endMs": 540463,
+     "narration_dhivehi": "އެ ރޭ ސަނާ ޕްރައިވެޓް ރޫމަކަށް ބަދަލުކުރުމުން، ދެ ކުދިން ބަލައި ހައިޒުމްގެ މަންމަ ޝަފީޤާ އައުމުން ކުދިން އޭނާއާއެކު ފޮނުވައިލިއެވެ.",
+     "narration_english": "That night, after Sana was moved to a private room, Haizum's mother Shafeeqa came to see the children, and he sent the children home with her.",
+     "crop": "full",
+     "motion": "pan right",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_059",
+     "startMs": 540463,
+     "endMs": 552014,
+     "narration_dhivehi": "ހައިޒުމް ސަނާގެ ގާތުގައި އިނީ ފުން ހިތާމައާއި ނުތަނަވަސްކަމެއްގައެވެ. ދުނިޔެއަށް އުފަންނުވާ އެ ތުއްތު ދަރިފުޅަށްޓަކައި އެ ދެ މަފިރިން ކުރި އެތައް އުއްމީދެއް ފުނޑުފުނޑުވެގެން ދިޔައީއެވެ.",
+     "narration_english": "Haizum sat beside Sana in deep grief and unease. All the hopes the couple had built for that tiny baby who would never be born lay shattered.",
+     "crop": "tight",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": true,
+     "crop_rect_pct": [
+      20.3,
+      4.8,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Shafeeqa; reference image 2 is Laira; reference image 3 is Lail; reference image 4 is Haizum), create a new scene: Cinematic semi-realistic digital illustration with a moody romantic-drama look, deep moonlit indigo and sapphire-blue night tones contrasted with warm amber lamplight, soft rain-streaked atmosphere, gentle film grain, soft bokeh, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, table top, balcony railing, street in soft shadow) for captions and a logo; modern Male' city life of apartments, TV studios, offices, cafes and seaside promenades, with tropical palms and the lagoon glowing under a cloudy moon.\nScene: Maama Shafeeqa in her dark-maroon libaas, white headscarf and gold glasses walking away down the corridor holding the hands of little Laira (12) in her pink dress and dove-grey hijab and little Lail (10) in his striped blue-and-white t-shirt, who glance back sadly; in the foreground Haizum, younger, about 38, beard fully black, in his white office shirt with sleeves rolled to the forearm and dark-navy trousers, no jacket, standing alone in the open doorway of a private room, shoulders slumped, watching them go. Location: a quiet hospital ward corridor in Male at night: the open door of a private room, pale walls, a handrail, a polished floor reflecting the lights. Camera: medium wide, eye level, faces in the upper half, the polished floor as the lower third.\nCharacters: Maama Shafeeqa: a short plump Maldivian grandmother of about 65 with warm brown skin, a kind wrinkled round face and warm dark eyes behind thin gold-rimmed glasses; wears a traditional loose long-sleeved ankle-length dark-maroon libaas dress and a white headscarf fully covering her hair and neck. little Laira: a slim Maldivian girl of about 12 with warm brown skin, a small gentle oval face and soft dark eyes; wears a loose long-sleeved ankle-length pink dress and a small dove-grey hijab fully covering her hair and neck. little Lail: a slim Maldivian boy of about 10 with warm brown skin, a small boyish face, big curious dark eyes under thick black eyebrows and short black hair; wears a striped blue-and-white t-shirt and long khaki trousers. Haizum: a tall broad-shouldered Maldivian man of about 42 with warm brown skin, a strong square face, thick straight black eyebrows, deep tired dark eyes, a neatly trimmed black beard with a few grey flecks and short neat black hair greying slightly at the temples; wears a dark-navy suit with a white open-collar shirt and no tie.\nMood/lighting: late night, dim quiet corridor lights, deep blue shadows, exhausted sorrow.\nModest Maldivian clothing (every woman in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck, also at home; men fully clothed in shirts or t-shirts and long trousers, never shirtless), no kissing, no embracing, no physical touch between a man and a woman, culturally respectful, no violence shown, no injuries, no bruises, no blood, no alcohol, no smoking, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.341,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 50.0,
+    "y_pct": 40.0,
+    "face_detected": false
+   }
+  },
+  {
+   "id": "beat_020",
+   "startMs": 552014,
+   "endMs": 586365,
+   "new_image_reason": "location and action change: in the private room Sana pulls her hand from Haizum's; her face swollen from crying",
+   "characters": [
+    "sana",
+    "haizum"
+   ],
+   "location": "a private hospital room in Male: an adjustable hospital cot with crisp white sheets and the backrest raised high, a padded visitor chair beside it, a small bedside cabinet with a glass of water, an IV stand on wheels in the background, a window with half-closed blinds",
+   "location_key": "hosp_night",
+   "mood": "late night, a single dim warm night lamp, deep blue shadows, rain-free dark window, heavy silent grief",
+   "visual": "Sana in a loose long-sleeved pale hospital gown with a soft ivory hijab fully covering her hair and neck, propped up high against white pillows on the hospital cot, her eyes red and swollen, tears on her cheeks, her hand pulled back against her chest, staring away; Haizum, younger, about 38, beard fully black, in his white office shirt with sleeves rolled to the forearm and dark-navy trousers, no jacket, his shirt rumpled, half-risen from the visitor chair beside her, leaning towards her with deep worry; IV stand in the dim background",
+   "camera": "medium shot, eye level, faces in the upper half, the white sheet as a calm lower third",
+   "image": "images/beat_020.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": "other",
+   "safe_substitution": "patient propped up, no needle, no wound; married couple not touching",
+   "ambience": "hospital_night",
+   "shots": [
+    {
+     "id": "shot_060",
+     "startMs": 552014,
+     "endMs": 560154,
+     "narration_dhivehi": "މާޔޫސްކަމާއެކު ގޮނޑީގައި ބޯ އަޅައިލައިގެން އިންއިރު ވެސް، ހައިޒުމްގެ ވާތުން ވަނީ ސަނާގެ އަތުގައި ބާރަށް ހިފަހައްޓައިލައިގެންނެވެ.",
+     "narration_english": "Even as he sat in the chair with his head bowed in despair, Haizum's left hand held Sana's hand tightly.",
+     "crop": "full",
+     "motion": "pan up",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_061",
+     "startMs": 560154,
+     "endMs": 568585,
+     "narration_dhivehi": "ހައިޒުމަށް ލޯ ހުޅުވައިލެވުނީ، ސަނާ އޭނާގެ އަތް ފޮޅުވައިލުމަށްފަހު ދަމައިގަތުމުންނެވެ. ހައިޒުމް އަވަސްއަވަހަށް ތެދުވެ ސަނާއާ ގާތްވެލަމުން،",
+     "narration_english": "Haizum opened his eyes when Sana twisted her hand free and pulled it away. Haizum quickly got up and, coming close to Sana,",
+     "crop": "tight",
+     "motion": "slow pull-out",
+     "sfx": [
+      {
+       "name": "cloth_rustle",
+       "atMs": 564304,
+       "gainDb": -22,
+       "word": "ދަމައިގަތުމުންނެވެ."
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      0.0,
+      0.5,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_062",
+     "startMs": 568585,
+     "endMs": 576315,
+     "narration_dhivehi": "އޯގާތެރިކަމާއެކު އޭނާގެ ބޮލުގައި ފިރުމައިލިއެވެ. އޭރު ރޮއިރޮއި ދުޅަވެފައިވާ ސަނާގެ މޫނާއި ނޭފަތްކުރި ވަނީ ރަތްވެފައެވެ.",
+     "narration_english": "tenderly stroked her head. By then Sana's face and nose were red and swollen from crying and crying.",
+     "crop": "full",
+     "motion": "pan down",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_063",
+     "startMs": 576315,
+     "endMs": 586365,
+     "narration_dhivehi": "ސަނާގެ ދެ ލޯ ވަނީ ކަރުނުން ފުރި ބަންޑުންވެފައެވެ. އޮޕަރޭޝަނުގެ ވޭނަށްވުރެ ބޮޑަށް އޭނާގެ ހިތް ކުދިކުދިވަމުން ދިޔައީ ނުތަނަވަސްކަމާއި ހިތާމައިގެ ސަބަބުންނެވެ.",
+     "narration_english": "Sana's eyes were swollen and full of tears. More than the pain of the operation, her heart was breaking from distress and grief.",
+     "crop": "medium",
+     "motion": "static drift",
+     "sfx": [],
+     "hum": true,
+     "crop_rect_pct": [
+      0.0,
+      0.0,
+      71.5,
+      84.7
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Sana; reference image 2 is Haizum), create a new scene: Cinematic semi-realistic digital illustration with a moody romantic-drama look, deep moonlit indigo and sapphire-blue night tones contrasted with warm amber lamplight, soft rain-streaked atmosphere, gentle film grain, soft bokeh, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, table top, balcony railing, street in soft shadow) for captions and a logo; modern Male' city life of apartments, TV studios, offices, cafes and seaside promenades, with tropical palms and the lagoon glowing under a cloudy moon.\nScene: Sana in a loose long-sleeved pale hospital gown with a soft ivory hijab fully covering her hair and neck, propped up high against white pillows on the hospital cot, her eyes red and swollen, tears on her cheeks, her hand pulled back against her chest, staring away; Haizum, younger, about 38, beard fully black, in his white office shirt with sleeves rolled to the forearm and dark-navy trousers, no jacket, his shirt rumpled, half-risen from the visitor chair beside her, leaning towards her with deep worry; IV stand in the dim background. Location: a private hospital room in Male: an adjustable hospital cot with crisp white sheets and the backrest raised high, a padded visitor chair beside it, a small bedside cabinet with a glass of water, an IV stand on wheels in the background, a window with half-closed blinds. Camera: medium shot, eye level, faces in the upper half, the white sheet as a calm lower third.\nCharacters: Sana: a slender Maldivian woman of about 38 with warm brown skin, a delicate oval face, high cheekbones, sorrowful dark eyes and a faint tired smile; wears a loose long-sleeved ankle-length sage-green dress and an ivory hijab fully covering her hair and neck. Haizum: a tall broad-shouldered Maldivian man of about 42 with warm brown skin, a strong square face, thick straight black eyebrows, deep tired dark eyes, a neatly trimmed black beard with a few grey flecks and short neat black hair greying slightly at the temples; wears a dark-navy suit with a white open-collar shirt and no tie.\nMood/lighting: late night, a single dim warm night lamp, deep blue shadows, rain-free dark window, heavy silent grief.\nModest Maldivian clothing (every woman in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck, also at home; men fully clothed in shirts or t-shirts and long trousers, never shirtless), no kissing, no embracing, no physical touch between a man and a woman, culturally respectful, no violence shown, no injuries, no bruises, no blood, no alcohol, no smoking, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.296,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 21.2,
+    "y_pct": 35.7,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_021",
+   "startMs": 586365,
+   "endMs": 629247,
+   "new_image_reason": "action change: she turns away from him, sobbing; he stands bewildered — 'Love, what happened?'",
+   "characters": [
+    "sana",
+    "haizum"
+   ],
+   "location": "a private hospital room in Male: an adjustable hospital cot with crisp white sheets and the backrest raised high, a padded visitor chair beside it, a small bedside cabinet with a glass of water, an IV stand on wheels in the background, a window with half-closed blinds",
+   "location_key": "hosp_night",
+   "mood": "late night, a single dim warm night lamp, deep blue shadows, rain-free dark window, heavy silent grief",
+   "visual": "Sana in a loose long-sleeved pale hospital gown with a soft ivory hijab fully covering her hair and neck, propped up on the pillows but turned away to the far side, her face towards the dark window, shoulders shaking as she weeps; Haizum, younger, about 38, beard fully black, in his white office shirt with sleeves rolled to the forearm and dark-navy trousers, no jacket, standing at the side of the cot a step away, one hand half-raised and frozen in the air, his face full of confusion and hurt",
+   "camera": "medium wide, eye level, faces in the upper two-thirds, the white sheet as the lower third",
+   "image": "images/beat_021.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "hospital_night",
+   "shots": [
+    {
+     "id": "shot_064",
+     "startMs": 586365,
+     "endMs": 593566,
+     "narration_dhivehi": "ނިތްކުރިމަތީގައި އޮތް ހައިޒުމްގެ އަތް، ނުރުހުމާއެކު ސަނާ ދުރުކޮށްލީ ބީރައްޓެއްސަކު އަތްލުމުން ދުރުކޮށްލާ ފަދައިންނެވެ.",
+     "narration_english": "Unwillingly, Sana pushed away Haizum's hand from her forehead as one pushes away the touch of a stranger.",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": true,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_065",
+     "startMs": 593566,
+     "endMs": 602046,
+     "narration_dhivehi": "ހުއްޓުމެއްނެތި ގިސްލެވެމުން ދިޔައިރު، ހައިޒުމަށް މޫނު ނުދައްކަން ސަނާ އަނެއްފަރާތަށް އެނބުރުނެވެ. ހައިޒުމްގެ މޫނުމަތިން ފެނުނީ ހައިރާންކަމެވެ.",
+     "narration_english": "Sobbing without stopping, Sana turned to the other side so as not to show Haizum her face. Haizum's face showed bewilderment.",
+     "crop": "tight",
+     "motion": "pan left",
+     "sfx": [
+      {
+       "name": "sob_breath",
+       "atMs": 594206,
+       "gainDb": -22,
+       "word": "ގިސްލެވެމުން"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      0.0,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_066",
+     "startMs": 602046,
+     "endMs": 610836,
+     "narration_dhivehi": "އެހެންޏާ މިފަދަ ކޮންމެ ހިތާމައެއްގައި އޭނާގެ އެހީތެރިކަމާއި ލޯތްބަށް އެދޭ ބައިވެރިޔާ، މިއަދު އޭނާ ދުރުކޮށްލުމުންނެވެ. \"ލޯބީ، ކިހިނެއްވީ؟\"",
+     "narration_english": "Because the partner who in every such sorrow would always seek his help and love had pushed him away today. \"Love, what happened?\"",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_067",
+     "startMs": 610836,
+     "endMs": 620757,
+     "narration_dhivehi": "ކަންބޮޑުވުމުން ފުރިގެންވާ އަޑަކުން ހައިޒުމް އަހައިލިއެވެ. ނަމަވެސް ސަނާ އެއްވެސް ޖަވާބެއް ނުދިނެވެ. ގިސްލުމުގެ އަޑު ފިޔަވައި އިތުރު އަޑެއް އެ ކޮޓަރިއަކުން ނީވެއެވެ.",
+     "narration_english": "Haizum asked in a voice full of worry. But Sana gave no answer. No sound but sobbing could be heard in that room.",
+     "crop": "medium",
+     "motion": "pan right",
+     "sfx": [
+      {
+       "name": "sob_breath",
+       "atMs": 617387,
+       "gainDb": -24,
+       "word": "ގިސްލުމުގެ"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      0.0,
+      0.0,
+      71.5,
+      84.7
+     ]
+    },
+    {
+     "id": "shot_068",
+     "startMs": 620757,
+     "endMs": 629247,
+     "narration_dhivehi": "އޭނާގެ ގައިގައި ހައިޒުމް އަތްލިޔަ ވެސް ނުދިނެވެ. އެއްވެސް އެއްޗެއް ނުކައި، ހުއްޓުމެއްނެތި ރުއިމުގެ ސަބަބުން ސަނާގެ ހާލަތު ދަށަށް ގޮސް،",
+     "narration_english": "She would not even let Haizum touch her. Not eating anything and crying without stopping, Sana's condition went down,",
+     "crop": "tight",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      0.0,
+      0.0,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Sana; reference image 2 is Haizum), create a new scene: Cinematic semi-realistic digital illustration with a moody romantic-drama look, deep moonlit indigo and sapphire-blue night tones contrasted with warm amber lamplight, soft rain-streaked atmosphere, gentle film grain, soft bokeh, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, table top, balcony railing, street in soft shadow) for captions and a logo; modern Male' city life of apartments, TV studios, offices, cafes and seaside promenades, with tropical palms and the lagoon glowing under a cloudy moon.\nScene: Sana in a loose long-sleeved pale hospital gown with a soft ivory hijab fully covering her hair and neck, propped up on the pillows but turned away to the far side, her face towards the dark window, shoulders shaking as she weeps; Haizum, younger, about 38, beard fully black, in his white office shirt with sleeves rolled to the forearm and dark-navy trousers, no jacket, standing at the side of the cot a step away, one hand half-raised and frozen in the air, his face full of confusion and hurt. Location: a private hospital room in Male: an adjustable hospital cot with crisp white sheets and the backrest raised high, a padded visitor chair beside it, a small bedside cabinet with a glass of water, an IV stand on wheels in the background, a window with half-closed blinds. Camera: medium wide, eye level, faces in the upper two-thirds, the white sheet as the lower third.\nCharacters: Sana: a slender Maldivian woman of about 38 with warm brown skin, a delicate oval face, high cheekbones, sorrowful dark eyes and a faint tired smile; wears a loose long-sleeved ankle-length sage-green dress and an ivory hijab fully covering her hair and neck. Haizum: a tall broad-shouldered Maldivian man of about 42 with warm brown skin, a strong square face, thick straight black eyebrows, deep tired dark eyes, a neatly trimmed black beard with a few grey flecks and short neat black hair greying slightly at the temples; wears a dark-navy suit with a white open-collar shirt and no tie.\nMood/lighting: late night, a single dim warm night lamp, deep blue shadows, rain-free dark window, heavy silent grief.\nModest Maldivian clothing (every woman in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck, also at home; men fully clothed in shirts or t-shirts and long trousers, never shirtless), no kissing, no embracing, no physical touch between a man and a woman, culturally respectful, no violence shown, no injuries, no bruises, no blood, no alcohol, no smoking, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.288,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 18.9,
+    "y_pct": 34.0,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_022",
+   "startMs": 629247,
+   "endMs": 652428,
+   "new_image_reason": "time change: the following seven days — he tries to feed her, she will not look at him",
+   "characters": [
+    "sana",
+    "haizum"
+   ],
+   "location": "a private hospital room in Male: an adjustable hospital cot with crisp white sheets and the backrest raised high, a padded visitor chair beside it, a small bedside cabinet with a glass of water, an IV stand on wheels in the background, a window with half-closed blinds",
+   "location_key": "hosp_day",
+   "mood": "daytime over the following week, flat pale daylight through the half-closed blinds, cool grey tones, weary cold distance",
+   "visual": "Sana in a loose long-sleeved pale hospital gown with a soft ivory hijab fully covering her hair and neck, sitting propped up, thin and pale, her face turned away with empty eyes; Haizum, younger, about 38, beard fully black, in a pale-grey shirt, sitting on the visitor chair holding out a small bowl and spoon towards her, tired and patient; an IV stand beside the cot in the background, no needle visible",
+   "camera": "medium shot, eye level, faces in the upper half, the white sheet and a tray table as the lower third",
+   "image": "images/beat_022.png",
+   "reuse_of": null,
+   "transition_in": "black",
+   "sensitive": "other",
+   "safe_substitution": "IV stand only in the background, no needle",
+   "ambience": "hospital_day",
+   "shots": [
+    {
+     "id": "shot_069",
+     "startMs": 629247,
+     "endMs": 639648,
+     "narration_dhivehi": "އައިވީ ގުޅައިގެން ހޮސްޕިޓަލުގައި ހަތް ދުވަސް ހޭދަކުރަން ޖެހުނެވެ. އެ މުއްދަތުގެ ތެރޭގައި އޭނާއަށް ކާންދީ، އަޅާލުމަށް ހައިޒުމް ނުހަނު މަސައްކަތް ކުރިއެވެ. ނަމަވެސް،",
+     "narration_english": "and she had to spend seven days in hospital on an IV drip. During that time Haizum worked tirelessly to feed her and care for her. But,",
+     "crop": "full",
+     "motion": "pan up",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_070",
+     "startMs": 639648,
+     "endMs": 652428,
+     "narration_dhivehi": "އެންމެ ބަހެއް ވެސް ނުބުނުމުގެ އިތުރުން ހައިޒުމާ ދިމާއަށް ބަލައިލަން ވެސް ސަނާ ބޭނުމެއް ނުވިއެވެ. އޭނާއަށް ކުރެވުނީ ކޮން ކުށެއްކަމެއް ހިތަށް ގެންނަން ހައިޒުމަށް ކިތަންމެ ވަރަކަށް ވިސްނި ނަމަވެސް ނޭނގުނެވެ.",
+     "narration_english": "besides not saying a single word, Sana didn't even want to look at Haizum. However hard Haizum thought, he couldn't work out what wrong he had done.",
+     "crop": "tight",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      17.5,
+      0.0,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Sana; reference image 2 is Haizum), create a new scene: Cinematic semi-realistic digital illustration with a moody romantic-drama look, deep moonlit indigo and sapphire-blue night tones contrasted with warm amber lamplight, soft rain-streaked atmosphere, gentle film grain, soft bokeh, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, table top, balcony railing, street in soft shadow) for captions and a logo; modern Male' city life of apartments, TV studios, offices, cafes and seaside promenades, with tropical palms and the lagoon glowing under a cloudy moon.\nScene: Sana in a loose long-sleeved pale hospital gown with a soft ivory hijab fully covering her hair and neck, sitting propped up, thin and pale, her face turned away with empty eyes; Haizum, younger, about 38, beard fully black, in a pale-grey shirt, sitting on the visitor chair holding out a small bowl and spoon towards her, tired and patient; an IV stand beside the cot in the background, no needle visible. Location: a private hospital room in Male: an adjustable hospital cot with crisp white sheets and the backrest raised high, a padded visitor chair beside it, a small bedside cabinet with a glass of water, an IV stand on wheels in the background, a window with half-closed blinds. Camera: medium shot, eye level, faces in the upper half, the white sheet and a tray table as the lower third.\nCharacters: Sana: a slender Maldivian woman of about 38 with warm brown skin, a delicate oval face, high cheekbones, sorrowful dark eyes and a faint tired smile; wears a loose long-sleeved ankle-length sage-green dress and an ivory hijab fully covering her hair and neck. Haizum: a tall broad-shouldered Maldivian man of about 42 with warm brown skin, a strong square face, thick straight black eyebrows, deep tired dark eyes, a neatly trimmed black beard with a few grey flecks and short neat black hair greying slightly at the temples; wears a dark-navy suit with a white open-collar shirt and no tie.\nMood/lighting: daytime over the following week, flat pale daylight through the half-closed blinds, cool grey tones, weary cold distance.\nModest Maldivian clothing (every woman in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck, also at home; men fully clothed in shirts or t-shirts and long trousers, never shirtless), no kissing, no embracing, no physical touch between a man and a woman, culturally respectful, no violence shown, no injuries, no bruises, no blood, no alcohol, no smoking, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.472,
+    "halo": true
+   },
+   "focus": {
+    "x_pct": 47.2,
+    "y_pct": 30.4,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_023",
+   "startMs": 652428,
+   "endMs": 668649,
+   "new_image_reason": "action change: he pleads with her; she turns her back on him",
+   "characters": [
+    "haizum",
+    "sana"
+   ],
+   "location": "a private hospital room in Male: an adjustable hospital cot with crisp white sheets and the backrest raised high, a padded visitor chair beside it, a small bedside cabinet with a glass of water, an IV stand on wheels in the background, a window with half-closed blinds",
+   "location_key": "hosp_day",
+   "mood": "daytime over the following week, flat pale daylight through the half-closed blinds, cool grey tones, weary cold distance",
+   "visual": "Haizum, younger, about 38, beard fully black, in a pale-grey shirt, sitting on the visitor chair pulled close to the cot, hands clasped, leaning forward and pleading with pained eyes; Sana in a loose long-sleeved pale hospital gown with a soft ivory hijab fully covering her hair and neck, propped up but turned fully away from him, her back to him, a tear on her cheek in profile",
+   "camera": "medium shot, eye level, faces in the upper half, the white sheet as the lower third",
+   "image": "images/beat_023.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "hospital_room",
+   "shots": [
+    {
+     "id": "shot_071",
+     "startMs": 652428,
+     "endMs": 659619,
+     "narration_dhivehi": "\"ޕްލީޒް ސަނާ... ވީގޮތެއް ބުނެބަލަ. ކަމެއް ވެގެން އުޅޭ ގޮތް ނޭނގި، މިކަމަށް ހައްލެއް ހޯދާނީ ކިހިނެއް؟\"",
+     "narration_english": "\"Please, Sana... tell me what happened. If I don't know what's going on, how can we find a way to fix it?\"",
+     "crop": "full",
+     "motion": "pan down",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_072",
+     "startMs": 659619,
+     "endMs": 668649,
+     "narration_dhivehi": "އެނދުގެ އަރިމަތީގައި އިށީންނަމުން ހައިޒުމް އާދޭހާއެކު އެހިއެވެ. ސަނާ އެއްވެސް އެއްޗެއް ނުބުނެ، ހައިޒުމަށް ފުރަގަސްދީ އަނެއްފަރާތަށް އެނބުރުނެވެ.",
+     "narration_english": "Haizum pleaded, sitting down by the bedside. Without saying anything, Sana turned her back on Haizum and turned to the other side.",
+     "crop": "tight",
+     "motion": "static drift",
+     "sfx": [
+      {
+       "name": "cloth_rustle",
+       "atMs": 667589,
+       "gainDb": -24,
+       "word": "އެނބުރުނެވެ."
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      20.3,
+      4.8,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Haizum; reference image 2 is Sana), create a new scene: Cinematic semi-realistic digital illustration with a moody romantic-drama look, deep moonlit indigo and sapphire-blue night tones contrasted with warm amber lamplight, soft rain-streaked atmosphere, gentle film grain, soft bokeh, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, table top, balcony railing, street in soft shadow) for captions and a logo; modern Male' city life of apartments, TV studios, offices, cafes and seaside promenades, with tropical palms and the lagoon glowing under a cloudy moon.\nScene: Haizum, younger, about 38, beard fully black, in a pale-grey shirt, sitting on the visitor chair pulled close to the cot, hands clasped, leaning forward and pleading with pained eyes; Sana in a loose long-sleeved pale hospital gown with a soft ivory hijab fully covering her hair and neck, propped up but turned fully away from him, her back to him, a tear on her cheek in profile. Location: a private hospital room in Male: an adjustable hospital cot with crisp white sheets and the backrest raised high, a padded visitor chair beside it, a small bedside cabinet with a glass of water, an IV stand on wheels in the background, a window with half-closed blinds. Camera: medium shot, eye level, faces in the upper half, the white sheet as the lower third.\nCharacters: Haizum: a tall broad-shouldered Maldivian man of about 42 with warm brown skin, a strong square face, thick straight black eyebrows, deep tired dark eyes, a neatly trimmed black beard with a few grey flecks and short neat black hair greying slightly at the temples; wears a dark-navy suit with a white open-collar shirt and no tie. Sana: a slender Maldivian woman of about 38 with warm brown skin, a delicate oval face, high cheekbones, sorrowful dark eyes and a faint tired smile; wears a loose long-sleeved ankle-length sage-green dress and an ivory hijab fully covering her hair and neck.\nMood/lighting: daytime over the following week, flat pale daylight through the half-closed blinds, cool grey tones, weary cold distance.\nModest Maldivian clothing (every woman in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck, also at home; men fully clothed in shirts or t-shirts and long trousers, never shirtless), no kissing, no embracing, no physical touch between a man and a woman, culturally respectful, no violence shown, no injuries, no bruises, no blood, no alcohol, no smoking, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.445,
+    "halo": true
+   },
+   "focus": {
+    "x_pct": 50.0,
+    "y_pct": 40.0,
+    "face_detected": false
+   }
+  },
+  {
+   "id": "beat_024",
+   "startMs": 668649,
+   "endMs": 681390,
+   "new_image_reason": "action change and episode ending: helpless, Haizum walks out of the room",
+   "characters": [
+    "haizum",
+    "sana"
+   ],
+   "location": "a private hospital room in Male: an adjustable hospital cot with crisp white sheets and the backrest raised high, a padded visitor chair beside it, a small bedside cabinet with a glass of water, an IV stand on wheels in the background, a window with half-closed blinds",
+   "location_key": "hosp_day",
+   "mood": "daytime over the following week, flat pale daylight through the half-closed blinds, cool grey tones, weary cold distance",
+   "visual": "Haizum, younger, about 38, beard fully black, in a pale-grey shirt, standing in the open doorway of the hospital room, one hand on the door frame, looking back over his shoulder with a defeated, heartbroken face; in the foreground, soft and out of focus, Sana in a loose long-sleeved pale hospital gown with a soft ivory hijab fully covering her hair and neck, propped up and turned away towards the window, crying silently",
+   "camera": "medium wide from inside the room, his face in the upper third, the floor as the lower third",
+   "image": "images/beat_024.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "hospital_room",
+   "shots": [
+    {
+     "id": "shot_073",
+     "startMs": 668649,
+     "endMs": 675449,
+     "narration_dhivehi": "ހައިޒުމް ވާހަކަދައްކަން މަސައްކަތްކުރި ވަރަކަށް ސަނާގެ ލޮލުން އޮހޮރޭ ކަރުނަތައް ދިޔައީ ގިނަވަމުންނެވެ. އެންމެ ފަހުން،",
+     "narration_english": "The more Haizum tried to talk, the more tears flowed from Sana's eyes. In the end,",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [
+      {
+       "name": "sob_breath",
+       "atMs": 672729,
+       "gainDb": -24,
+       "word": "ކަރުނަތައް"
+      }
+     ],
+     "hum": true,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_074",
+     "startMs": 675449,
+     "endMs": 681390,
+     "narration_dhivehi": "އިތުރަށް ސަނާ ރޮއްވަން ބޭނުންނުވާތީ، ގޮތްހުސްވެފައިވާ ހާލު ހައިޒުމް އެ ކޮޓަރިން ނުކުމެގެން ދިޔައެވެ.",
+     "narration_english": "not wanting to make Sana cry any more, Haizum, at a loss, walked out of that room.",
+     "crop": "tight",
+     "motion": "pan left",
+     "sfx": [
+      {
+       "name": "door_close",
+       "atMs": 680329,
+       "gainDb": -22,
+       "word": "ނުކުމެގެން"
+      }
+     ],
+     "hum": true,
+     "crop_rect_pct": [
+      0.0,
+      0.0,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Haizum; reference image 2 is Sana), create a new scene: Cinematic semi-realistic digital illustration with a moody romantic-drama look, deep moonlit indigo and sapphire-blue night tones contrasted with warm amber lamplight, soft rain-streaked atmosphere, gentle film grain, soft bokeh, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, table top, balcony railing, street in soft shadow) for captions and a logo; modern Male' city life of apartments, TV studios, offices, cafes and seaside promenades, with tropical palms and the lagoon glowing under a cloudy moon.\nScene: Haizum, younger, about 38, beard fully black, in a pale-grey shirt, standing in the open doorway of the hospital room, one hand on the door frame, looking back over his shoulder with a defeated, heartbroken face; in the foreground, soft and out of focus, Sana in a loose long-sleeved pale hospital gown with a soft ivory hijab fully covering her hair and neck, propped up and turned away towards the window, crying silently. Location: a private hospital room in Male: an adjustable hospital cot with crisp white sheets and the backrest raised high, a padded visitor chair beside it, a small bedside cabinet with a glass of water, an IV stand on wheels in the background, a window with half-closed blinds. Camera: medium wide from inside the room, his face in the upper third, the floor as the lower third.\nCharacters: Haizum: a tall broad-shouldered Maldivian man of about 42 with warm brown skin, a strong square face, thick straight black eyebrows, deep tired dark eyes, a neatly trimmed black beard with a few grey flecks and short neat black hair greying slightly at the temples; wears a dark-navy suit with a white open-collar shirt and no tie. Sana: a slender Maldivian woman of about 38 with warm brown skin, a delicate oval face, high cheekbones, sorrowful dark eyes and a faint tired smile; wears a loose long-sleeved ankle-length sage-green dress and an ivory hijab fully covering her hair and neck.\nMood/lighting: daytime over the following week, flat pale daylight through the half-closed blinds, cool grey tones, weary cold distance.\nModest Maldivian clothing (every woman in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck, also at home; men fully clothed in shirts or t-shirts and long trousers, never shirtless), no kissing, no embracing, no physical touch between a man and a woman, culturally respectful, no violence shown, no injuries, no bruises, no blood, no alcohol, no smoking, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.355,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 23.3,
+    "y_pct": 16.3,
+    "face_detected": true
+   }
+  }
+ ]
+}

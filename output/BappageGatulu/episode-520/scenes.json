@@ -1,0 +1,2236 @@
+{
+ "series": "BappageGatulu",
+ "episode": 520,
+ "beats": [
+  {
+   "id": "beat_001",
+   "startMs": 0,
+   "endMs": 17470,
+   "new_image_reason": "episode opening: 2011, a stormy November night over Malé",
+   "characters": [],
+   "location": "the Malé city skyline in 2011 seen from the rough seawall at night, dense rows of narrow multi-storey concrete buildings, a few dim windows, heavy black storm clouds pressing low over the city, a dark churning sea breaking white against the concrete tetrapods of the seawall, an empty wet coastal road",
+   "location_key": "male_storm",
+   "mood": "2011, stormy night, cold desaturated blue-grey haze, black clouds, faint lightning glow inside the clouds, spray over the seawall, ominous and silent",
+   "visual": "the Malé skyline under heavy black storm clouds, rough dark waves crashing white against the seawall tetrapods in the foreground, the coastal road empty and shining wet, no people, no vehicles",
+   "camera": "wide establishing shot, the city and clouds in the upper two-thirds, the dark wet seawall road as a calm lower third",
+   "image": "images/beat_001.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "storm_night",
+   "shots": [
+    {
+     "id": "shot_001",
+     "startMs": 0,
+     "endMs": 8050,
+     "narration_dhivehi": "އެއީ 2011ވަނަ އަހަރެވެ. ނޮވެމްބަރު މަހުގެ ރެއެކެވެ. މާލޭގެ އުދަރެސް ބައްދާލާފައި އޮތީ ކަޅު ބޯ ވިލާތަކުންނެވެ.",
+     "narration_english": "It was the year 2011. A night in November. Malé's sky was wrapped in heavy black clouds.",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [
+      {
+       "name": "thunder",
+       "atMs": 6780,
+       "gainDb": -16,
+       "word": "ވިލާތަކުންނެވެ."
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_002",
+     "startMs": 8050,
+     "endMs": 17470,
+     "narration_dhivehi": "މާލޭގެ ރާޅުގަނޑު ސަރަޙައްދަށް ބިންދަމުންދާ ރާޅުތަކުން އިވެނީ ނޭނގޭ ބިރުވެރިކަމާއި ނުރުހުމެއްގެ އަޑެވެ. މާލޭގެ މަގުތަކުގައި ދުއްވާ އެއްޗެހި މަދެވެ.",
+     "narration_english": "The waves breaking on Malé's reef carried a sound of nameless dread and unease. Few vehicles were moving on Malé's streets.",
+     "crop": "tight",
+     "motion": "pan left",
+     "sfx": [
+      {
+       "name": "wave_crash",
+       "atMs": 10740,
+       "gainDb": -18,
+       "word": "ރާޅުތަކުން"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      20.3,
+      4.8,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Cinematic semi-realistic digital illustration with a dark modern political-thriller noir look, deep charcoal and teal shadows with blood-red accents and warm amber practical lights, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, wet pavement, desk top, soft shadow) for captions and a logo; night scenes in Malé glisten with rain, wet reflective streets and red-and-teal neon reflections, while the 2011 flashback scenes have a slightly desaturated, cold blue-grey haze.\nScene: the Malé skyline under heavy black storm clouds, rough dark waves crashing white against the seawall tetrapods in the foreground, the coastal road empty and shining wet, no people, no vehicles. Location: the Malé city skyline in 2011 seen from the rough seawall at night, dense rows of narrow multi-storey concrete buildings, a few dim windows, heavy black storm clouds pressing low over the city, a dark churning sea breaking white against the concrete tetrapods of the seawall, an empty wet coastal road. Camera: wide establishing shot, the city and clouds in the upper two-thirds, the dark wet seawall road as a calm lower third.\nMood/lighting: 2011, stormy night, cold desaturated blue-grey haze, black clouds, faint lightning glow inside the clouds, spray over the seawall, ominous and silent.\nModest Maldivian clothing (every woman in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck; men fully clothed in shirts or t-shirts and long trousers, never shirtless), a clear respectful distance between men and women, no man touching a woman, culturally respectful, no violence shown, no blood, no wounds, no injuries, no knives, no weapons, no guns, no person lying on the ground, no cigarettes, no smoking, no alcohol, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.069,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 50.0,
+    "y_pct": 40.0,
+    "face_detected": false
+   }
+  },
+  {
+   "id": "beat_002",
+   "startMs": 17470,
+   "endMs": 65342,
+   "new_image_reason": "scene and character change: young Iyaan waits at the sitting-room window for his father",
+   "characters": [
+    "iyaan_young"
+   ],
+   "location": "the modest sitting room of a small Malé house in 2011 at night, a cushioned fabric sofa, a low wooden side table with a small lamp, a plain round wall clock with a blank face and no numerals, a tall window with a thin curtain, rain streaming down the dark glass",
+   "location_key": "sitting_2011",
+   "mood": "2011, stormy night, cold desaturated blue-grey haze, a single warm amber lamp inside against the cold blue night at the window, anxious waiting",
+   "visual": "the small boy Iyaan kneeling on the sofa cushion by the tall window, both small hands resting on the sill, staring out into the dark rain with a hopeful, waiting expression, raindrops streaming down the glass in front of his face, his reflection faint in the pane",
+   "camera": "medium shot from inside the room, slightly from the side, his face in the upper half, the sofa back and floor shadow as a calm lower third",
+   "image": "images/beat_002.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "rain_night",
+   "shots": [
+    {
+     "id": "shot_003",
+     "startMs": 17470,
+     "endMs": 26240,
+     "narration_dhivehi": "މުޅި މާލެ އޮތީ ބިރުވެރި ހިމޭންކަމެއްގެ ތެރޭގައެވެ. އުމުރުން އަށެއްކަ އަހަރުގެ އިޔާން އިނީ އޭނާގެ ގޭގެ ސިޓިންގްރޫމްގެ ކުޑަދޮރު ކައިރީގައެވެ.",
+     "narration_english": "All of Malé lay in a frightening silence. Eight-year-old Iyaan was sitting by the window of his home's sitting room.",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_004",
+     "startMs": 26240,
+     "endMs": 33521,
+     "narration_dhivehi": "އޭނާ އިނީ ބޭރަށް ބަލަހައްޓައިގެން ކޮންމެވެސް ޚިޔާލެއްގެ ތެރެއަށް ގެއްލިފައެވެ. އޭރު ބޯކޮށް ވާރޭ ވެހެން ފަށައިފިއެވެ.",
+     "narration_english": "He sat staring outside, lost in some thought. By then heavy rain had begun to fall.",
+     "crop": "tight",
+     "motion": "pan right",
+     "sfx": [
+      {
+       "name": "rain_start",
+       "atMs": 31781,
+       "gainDb": -18,
+       "word": "ވާރޭ"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      40.6,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_005",
+     "startMs": 33521,
+     "endMs": 43471,
+     "narration_dhivehi": "ވެހެމުން ދިޔަ ބޯ ވާރޭގެ ތިކިތައް ކުޑަދޮރުގެ ބިއްލޫރިގަނޑުގައި ޖެހި، ތިރިއަށް ފައިބަމުންދެއެވެ. އިޔާންގެ ހިތުގައި އޮތީ އިންތިޒާރެކެވެ. އެއީ އޭނާގެ ބައްޕަ،",
+     "narration_english": "The drops of the pouring rain struck the window glass and ran down. In Iyaan's heart there was only waiting — for the moment his father,",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_006",
+     "startMs": 43471,
+     "endMs": 53321,
+     "narration_dhivehi": "ރައްޔިތުންގެ މަޖިލީހުގެ މެންބަރު އަޙްމަދު ޒާހިރު ގެއަށް އަންނާނެ ވަގުތެކެވެ. އަޙްމަދު ޒާހިރަކީ ރައްޔިތުންގެ ލޯބި ލިބިފައިވާ، ތެދުވެރި ސިޔާސީވެރިއެކެވެ.",
+     "narration_english": "Member of Parliament Ahmed Zahir, would come home. Ahmed Zahir was an honest politician, loved by the people.",
+     "crop": "medium",
+     "motion": "pan up",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      28.5,
+      0.0,
+      71.5,
+      84.7
+     ]
+    },
+    {
+     "id": "shot_007",
+     "startMs": 53321,
+     "endMs": 65342,
+     "narration_dhivehi": "އޭނާގެ ދުލަކީ ކޮރަޕްޝަނާއި އަނިޔާވެރިކަމާ ދެކޮޅަށް އަބަދުވެސް ބާރަށް އަޑުއުފުލަމުން ދިޔަ ދުލެކެވެ. އެކަމުގެ އަގު ބައެއް ފަހަރު އޭނާ ދައްކަން ޖެހެނީ އަމިއްލަ ދިރިއުޅުމުގެ ރައްކާތެރިކަމުންނެވެ.",
+     "narration_english": "His was a tongue that always spoke out loudly against corruption and oppression. And sometimes the price he had to pay for it was his own safety.",
+     "crop": "tight",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      40.6,
+      0.0,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Iyaan), create a new scene: Cinematic semi-realistic digital illustration with a dark modern political-thriller noir look, deep charcoal and teal shadows with blood-red accents and warm amber practical lights, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, wet pavement, desk top, soft shadow) for captions and a logo; night scenes in Malé glisten with rain, wet reflective streets and red-and-teal neon reflections, while the 2011 flashback scenes have a slightly desaturated, cold blue-grey haze.\nScene: the small boy Iyaan kneeling on the sofa cushion by the tall window, both small hands resting on the sill, staring out into the dark rain with a hopeful, waiting expression, raindrops streaming down the glass in front of his face, his reflection faint in the pane. Location: the modest sitting room of a small Malé house in 2011 at night, a cushioned fabric sofa, a low wooden side table with a small lamp, a plain round wall clock with a blank face and no numerals, a tall window with a thin curtain, rain streaming down the dark glass. Camera: medium shot from inside the room, slightly from the side, his face in the upper half, the sofa back and floor shadow as a calm lower third.\nCharacters: young Iyaan: a small slight Maldivian boy of 8 with warm brown skin, a small round face, big dark eyes, thick eyebrows and short tousled black hair; wears a soft grey-blue long-sleeved cotton t-shirt and dark navy long trousers.\nMood/lighting: 2011, stormy night, cold desaturated blue-grey haze, a single warm amber lamp inside against the cold blue night at the window, anxious waiting.\nModest Maldivian clothing (every woman in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck; men fully clothed in shirts or t-shirts and long trousers, never shirtless), a clear respectful distance between men and women, no man touching a woman, culturally respectful, no violence shown, no blood, no wounds, no injuries, no knives, no weapons, no guns, no person lying on the ground, no cigarettes, no smoking, no alcohol, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.066,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 70.4,
+    "y_pct": 21.3,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_003",
+   "startMs": 65342,
+   "endMs": 89043,
+   "new_image_reason": "character change: focus moves to Aminath, worried on the sofa watching the clock",
+   "characters": [
+    "aminath_young"
+   ],
+   "location": "the modest sitting room of a small Malé house in 2011 at night, a cushioned fabric sofa, a low wooden side table with a small lamp, a plain round wall clock with a blank face and no numerals, a tall window with a thin curtain, rain streaming down the dark glass",
+   "location_key": "sitting_2011",
+   "mood": "2011, stormy night, cold desaturated blue-grey haze, a single warm amber lamp inside against the cold blue night at the window, anxious waiting",
+   "visual": "Aminath sitting at the edge of the sofa, her hands twisted together in her lap, glancing up anxiously at a plain round wall clock with a blank face and no numerals, her dark-green hijab fully covering her hair and neck, worry deep in her eyes, the lamp lighting one side of her face",
+   "camera": "medium shot, eye level, the clock high in the frame on the wall behind her",
+   "image": "images/beat_003.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "living_night",
+   "shots": [
+    {
+     "id": "shot_008",
+     "startMs": 65342,
+     "endMs": 77622,
+     "narration_dhivehi": "އޭނާގެ ދިރިއުޅުމަށް އެކި ކަހަލަ އިންޒާރުތައް ލިބެމުންދިޔަކަން އޭނާގެ އަންހެނުން، އާމިނަތަށް އެނގެއެވެ. ސިޓިންގްރޫމްގެ ސޯފާގައި އިން އާމިނަތުގެ މޫނުމަތިން ފެންނަމުންދިޔައީ ނުތަނަވަސްކަމެވެ.",
+     "narration_english": "His wife Aminath knew he had been receiving all kinds of threats against his life. Unease showed on the face of Aminath, sitting on the sitting-room sofa.",
+     "crop": "full",
+     "motion": "pan down",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_009",
+     "startMs": 77622,
+     "endMs": 89043,
+     "narration_dhivehi": "އޭނާ ދެއަތް ދެއަތާ މޮޑެމުން، ގަޑިއަށް ބަލަމުން ދިޔައެވެ. ގަޑިން ރޭގަނޑު އެގާރަ ޖަހަނީއެވެ. މަޖިލީހުގެ ކޮމިޓީ ޖަލްސާ ނިމޭނެ ކަމަށް ޒާހިރު ބުނި ވަގުތު ފަހަނައަޅައި ހިނގައްޖެއެވެ.",
+     "narration_english": "She kept wringing her hands and glancing at the clock. The clock was striking eleven at night. The time Zahir had said the parliament committee meeting would end had long passed.",
+     "crop": "tight",
+     "motion": "static drift",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      9.5,
+      0.0,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Aminath), create a new scene: Cinematic semi-realistic digital illustration with a dark modern political-thriller noir look, deep charcoal and teal shadows with blood-red accents and warm amber practical lights, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, wet pavement, desk top, soft shadow) for captions and a logo; night scenes in Malé glisten with rain, wet reflective streets and red-and-teal neon reflections, while the 2011 flashback scenes have a slightly desaturated, cold blue-grey haze.\nScene: Aminath sitting at the edge of the sofa, her hands twisted together in her lap, glancing up anxiously at a plain round wall clock with a blank face and no numerals, her dark-green hijab fully covering her hair and neck, worry deep in her eyes, the lamp lighting one side of her face. Location: the modest sitting room of a small Malé house in 2011 at night, a cushioned fabric sofa, a low wooden side table with a small lamp, a plain round wall clock with a blank face and no numerals, a tall window with a thin curtain, rain streaming down the dark glass. Camera: medium shot, eye level, the clock high in the frame on the wall behind her.\nCharacters: Aminath (2011): a slim Maldivian woman of about 35 with warm brown skin, a gentle oval face, soft worried dark eyes and arched eyebrows; wears a loose long-sleeved ankle-length deep-maroon dress and a dark-green hijab fully covering her hair and neck.\nMood/lighting: 2011, stormy night, cold desaturated blue-grey haze, a single warm amber lamp inside against the cold blue night at the window, anxious waiting.\nModest Maldivian clothing (every woman in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck; men fully clothed in shirts or t-shirts and long trousers, never shirtless), a clear respectful distance between men and women, no man touching a woman, culturally respectful, no violence shown, no blood, no wounds, no injuries, no knives, no weapons, no guns, no person lying on the ground, no cigarettes, no smoking, no alcohol, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.079,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 39.3,
+    "y_pct": 31.3,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_004",
+   "startMs": 89043,
+   "endMs": 125144,
+   "new_image_reason": "action change: Aminath comes to Iyaan at the window and strokes his hair; he refuses to sleep",
+   "characters": [
+    "iyaan_young",
+    "aminath_young"
+   ],
+   "location": "the modest sitting room of a small Malé house in 2011 at night, a cushioned fabric sofa, a low wooden side table with a small lamp, a plain round wall clock with a blank face and no numerals, a tall window with a thin curtain, rain streaming down the dark glass",
+   "location_key": "sitting_2011",
+   "mood": "2011, stormy night, cold desaturated blue-grey haze, a single warm amber lamp inside against the cold blue night at the window, anxious waiting",
+   "visual": "Aminath standing beside the window, bending to gently stroke the small boy's hair with a forced tender smile; Iyaan, kneeling on the sofa by the window, shaking his head stubbornly with pleading eyes, refusing to go to bed; rain running down the dark glass behind them",
+   "camera": "medium two-shot, eye level",
+   "image": "images/beat_004.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": "intimacy",
+   "safe_substitution": "mother and her own small son: a gentle hand on his hair, both fully clothed",
+   "ambience": "rain_night",
+   "shots": [
+    {
+     "id": "shot_010",
+     "startMs": 89043,
+     "endMs": 99063,
+     "narration_dhivehi": "\"މަންމާ، ބައްޕަ ކީއްވެތަ މާލަސްވަނީ؟\" އިޔާން އަހާލިއެވެ. އާމިނަތު ގަދަކަމުން ހިނިތުންވެލަމުން އިޔާންގެ ގާތަށް ޖެހިލިއެވެ. އަދި އޭނާގެ ބޮލުގައި ފިރުމާލިއެވެ.",
+     "narration_english": "\"Mamma, why is Bappa so late?\" Iyaan asked. Aminath forced a smile, moved close to Iyaan and stroked his hair.",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [
+      {
+       "name": "cloth_rustle",
+       "atMs": 98323,
+       "gainDb": -24,
+       "word": "ފިރުމާލިއެވެ."
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_011",
+     "startMs": 99063,
+     "endMs": 108353,
+     "narration_dhivehi": "\"ދަރިފުޅާ، ބައްޕަ އެއުޅެނީ ޤައުމީ ބޮޑު މަސައްކަތެއްގައެއްނު. ރައްޔިތުންގެ ޙައްޤުތައް ހޯދައިދޭން ބައްޕަ ވަރަށް ބުރަކޮށް އުޅެން ޖެހޭނެ.",
+     "narration_english": "\"My child, Bappa is busy with important national work, isn't he? To win the people their rights, Bappa has to work very hard.",
+     "crop": "tight",
+     "motion": "pan left",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      20.3,
+      4.8,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_012",
+     "startMs": 108353,
+     "endMs": 115403,
+     "narration_dhivehi": "ދަރިފުޅު ދޭ ނިދަން. ބައްޕަ އައީމާ މަންމަ ގޮވާނަން.\" އިޔާން ނޫނެކޭ ބުނުމުގެ ގޮތުން ބޯ ހޫރާލިއެވެ. \"ނޫން،",
+     "narration_english": "You go to sleep, my child. When Bappa comes, Mamma will call you.\" Iyaan shook his head to say no. \"No,",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_013",
+     "startMs": 115403,
+     "endMs": 125144,
+     "narration_dhivehi": "ބައްޕަ ބުނި މިރޭ އަންނަމުން އަހަންނަށް ވާހަކަފޮތެއް ގެނެސްދޭނަމޭ. ބައްޕަ އައިމަ ދާނީ.\" އެ ވަގުތު ގޭގެ ބޭރުން ކާރެއް މަޑުކޮށްލި އަޑު އިވުނެވެ.",
+     "narration_english": "Bappa said that when he comes tonight he'll bring me a storybook. I'll go when Bappa comes.\" Just then came the sound of a car stopping outside the house.",
+     "crop": "medium",
+     "motion": "pan right",
+     "sfx": [
+      {
+       "name": "car_approach",
+       "atMs": 123044,
+       "gainDb": -16,
+       "word": "ކާރެއް"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      14.2,
+      0.0,
+      71.5,
+      84.7
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Iyaan; reference image 2 is Aminath), create a new scene: Cinematic semi-realistic digital illustration with a dark modern political-thriller noir look, deep charcoal and teal shadows with blood-red accents and warm amber practical lights, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, wet pavement, desk top, soft shadow) for captions and a logo; night scenes in Malé glisten with rain, wet reflective streets and red-and-teal neon reflections, while the 2011 flashback scenes have a slightly desaturated, cold blue-grey haze.\nScene: Aminath standing beside the window, bending to gently stroke the small boy's hair with a forced tender smile; Iyaan, kneeling on the sofa by the window, shaking his head stubbornly with pleading eyes, refusing to go to bed; rain running down the dark glass behind them. Location: the modest sitting room of a small Malé house in 2011 at night, a cushioned fabric sofa, a low wooden side table with a small lamp, a plain round wall clock with a blank face and no numerals, a tall window with a thin curtain, rain streaming down the dark glass. Camera: medium two-shot, eye level.\nCharacters: young Iyaan: a small slight Maldivian boy of 8 with warm brown skin, a small round face, big dark eyes, thick eyebrows and short tousled black hair; wears a soft grey-blue long-sleeved cotton t-shirt and dark navy long trousers. Aminath (2011): a slim Maldivian woman of about 35 with warm brown skin, a gentle oval face, soft worried dark eyes and arched eyebrows; wears a loose long-sleeved ankle-length deep-maroon dress and a dark-green hijab fully covering her hair and neck.\nMood/lighting: 2011, stormy night, cold desaturated blue-grey haze, a single warm amber lamp inside against the cold blue night at the window, anxious waiting.\nModest Maldivian clothing (every woman in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck; men fully clothed in shirts or t-shirts and long trousers, never shirtless), a clear respectful distance between men and women, no man touching a woman, culturally respectful, no violence shown, no blood, no wounds, no injuries, no knives, no weapons, no guns, no person lying on the ground, no cigarettes, no smoking, no alcohol, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.065,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 50.0,
+    "y_pct": 40.0,
+    "face_detected": false
+   }
+  },
+  {
+   "id": "beat_005",
+   "startMs": 125144,
+   "endMs": 153065,
+   "new_image_reason": "scene and action change: Zahir's black car stops at the gate; Zahir steps out with his briefcase",
+   "characters": [
+    "zahir"
+   ],
+   "location": "the narrow rain-swept lane outside a small Malé house in 2011 at night, seen through the rain-streaked glass of the sitting-room window, a low painted boundary wall with a metal gate, a single tall street lamp, wet tarmac shining",
+   "location_key": "window_view",
+   "mood": "2011, stormy night, cold desaturated blue-grey haze, the white glare of car headlights and the cold street lamp diffused through rain on the glass, a moment of hope",
+   "visual": "seen through the rain-streaked window glass: a black sedan stopped at the gate of the house in the rain, its headlights on, Ahmed Zahir in his dark-navy suit jacket stepping out of the back seat holding a big black briefcase, turning to raise one hand and smile at the driver inside; water drops on the glass in the foreground",
+   "camera": "medium wide, from inside the house looking out through the window, the car and Zahir in the upper half, the wet window sill as a calm lower third",
+   "image": "images/beat_005.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "rain_night",
+   "shots": [
+    {
+     "id": "shot_014",
+     "startMs": 125144,
+     "endMs": 136604,
+     "narration_dhivehi": "އިޔާންގެ މޫނު އުޖާލާވެގެން ދިޔައެވެ. \"އެއީ ބައްޕަ!\" އޭނާ އުފަލުން ހަޅޭއްލަވައިގަތެވެ. އިޔާން ކުޑަދޮރުން ބޭރު ބަލާލިއިރު، އަޙްމަދު ޒާހިރުގެ ކަޅު ކާރު ގޭގެ ދޮރުމައްޗަށް މަޑުކޮށްލައިފިއެވެ.",
+     "narration_english": "Iyaan's face lit up. \"That's Bappa!\" he cried with joy. When Iyaan looked out of the window, Ahmed Zahir's black car had stopped at the gate of the house.",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_015",
+     "startMs": 136604,
+     "endMs": 145764,
+     "narration_dhivehi": "ކާރުގެ ފަހަތު ސީޓުން ޒާހިރު ފޭބިއެވެ. އޭނާގެ އަތުގައި ބޮޑު ބްރީފްކޭހެއް އޮތެވެ. އޭނާ ކާރުގެ ޑްރައިވަރަށް ހިނިތުންވުމަކާ އެކު އަތް ހިއްލާލުމަށް ފަހު،",
+     "narration_english": "Zahir got out of the back seat of the car. In his hand was a big briefcase. He smiled and raised a hand to the driver, and then",
+     "crop": "tight",
+     "motion": "pan up",
+     "sfx": [
+      {
+       "name": "car_door",
+       "atMs": 138284,
+       "gainDb": -16,
+       "word": "ފޭބިއެވެ."
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      20.3,
+      4.8,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_016",
+     "startMs": 145764,
+     "endMs": 153065,
+     "narration_dhivehi": "ގޭގެ ދޮރާ ދިމާއަށް ހިނގައިގަތެވެ. ބޯ ވާރޭގެ އަޑުގެ ތެރެއިން ކުއްލިއަކަށް ސައިކަލެއްގެ ބާރު އަޑު އިވުނެވެ.",
+     "narration_english": "he started walking toward the door of the house. Suddenly, through the sound of the heavy rain, came the loud roar of a motorbike.",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [
+      {
+       "name": "footsteps_pavement",
+       "atMs": 147285,
+       "gainDb": -22,
+       "word": "ހިނގައިގަތެވެ."
+      },
+      {
+       "name": "motorbike_pass",
+       "atMs": 150705,
+       "gainDb": -14,
+       "word": "ސައިކަލެއްގެ"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Ahmed Zahir), create a new scene: Cinematic semi-realistic digital illustration with a dark modern political-thriller noir look, deep charcoal and teal shadows with blood-red accents and warm amber practical lights, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, wet pavement, desk top, soft shadow) for captions and a logo; night scenes in Malé glisten with rain, wet reflective streets and red-and-teal neon reflections, while the 2011 flashback scenes have a slightly desaturated, cold blue-grey haze.\nScene: seen through the rain-streaked window glass: a black sedan stopped at the gate of the house in the rain, its headlights on, Ahmed Zahir in his dark-navy suit jacket stepping out of the back seat holding a big black briefcase, turning to raise one hand and smile at the driver inside; water drops on the glass in the foreground. Location: the narrow rain-swept lane outside a small Malé house in 2011 at night, seen through the rain-streaked glass of the sitting-room window, a low painted boundary wall with a metal gate, a single tall street lamp, wet tarmac shining. Camera: medium wide, from inside the house looking out through the window, the car and Zahir in the upper half, the wet window sill as a calm lower third.\nCharacters: Ahmed Zahir: a sturdy Maldivian man of about 45 with warm brown skin, a kind dignified face, warm dark eyes, short neat side-parted black hair and a short neatly trimmed black beard with a little grey; wears a dark-navy suit jacket over a long-sleeved white shirt with no tie and dark-grey trousers.\nMood/lighting: 2011, stormy night, cold desaturated blue-grey haze, the white glare of car headlights and the cold street lamp diffused through rain on the glass, a moment of hope.\nModest Maldivian clothing (every woman in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck; men fully clothed in shirts or t-shirts and long trousers, never shirtless), a clear respectful distance between men and women, no man touching a woman, culturally respectful, no violence shown, no blood, no wounds, no injuries, no knives, no weapons, no guns, no person lying on the ground, no cigarettes, no smoking, no alcohol, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.082,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 50.0,
+    "y_pct": 40.0,
+    "face_detected": false
+   }
+  },
+  {
+   "id": "beat_006",
+   "startMs": 153065,
+   "endMs": 174455,
+   "new_image_reason": "character and action change: the motorbike with two masked riders races in with its headlight off",
+   "characters": [],
+   "location": "a narrow residential lane in Malé in 2011 at night, low painted walls and closed gates on both sides, tall street lamps, heavy rain bouncing off wet tarmac, deep puddles, dark buildings",
+   "location_key": "lane_2011",
+   "mood": "2011, stormy night, cold desaturated blue-grey haze, darkness and slanting rain, cold street-lamp light, sudden menace",
+   "visual": "far down the dark rain-swept lane, a motorbike with its headlight switched off speeding toward the camera through sheets of rain, two riders in black clothes and full black helmets seen only as dark faceless silhouettes against the glare of a car's headlights behind them, spray rising from the wheels; their hands are on the handlebars and at their sides, holding nothing",
+   "camera": "wide shot, low angle from far away, the silhouettes small in the upper half, the wet tarmac as a calm lower third",
+   "image": "images/beat_006.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": "violence",
+   "safe_substitution": "the attackers are only distant faceless helmeted silhouettes holding nothing; no object is drawn, the attack is never shown",
+   "ambience": "storm_night",
+   "shots": [
+    {
+     "id": "shot_017",
+     "startMs": 153065,
+     "endMs": 159575,
+     "narration_dhivehi": "ހެޑްލައިޓް ނިވާލައިގެން ދުއްވާފައި އައި އެ ސައިކަލުގައި ތިބީ ކަޅު ހެދުން އަޅައި، މޫނު ނިވާކޮށްގެން ތިބި ދެ މީހެކެވެ.",
+     "narration_english": "On that motorbike, which came racing with its headlight off, were two men dressed in black with their faces covered.",
+     "crop": "full",
+     "motion": "pan down",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_018",
+     "startMs": 159575,
+     "endMs": 167285,
+     "narration_dhivehi": "ސައިކަލު ގޮސް މަޑުކޮށްލީ ޒާހިރުގެ ކުރިމައްޗަށެވެ. ކާރުގެ ޑްރައިވަރަށް އެ މަންޒަރު ފެނިގެން ކާރުން ފައިބަން އުޅުނެވެ.",
+     "narration_english": "The motorbike stopped right in front of Zahir. The driver saw it and tried to get out of the car.",
+     "crop": "tight",
+     "motion": "static drift",
+     "sfx": [
+      {
+       "name": "brake_screech",
+       "atMs": 160645,
+       "gainDb": -18,
+       "word": "މަޑުކޮށްލީ"
+      },
+      {
+       "name": "car_door",
+       "atMs": 165905,
+       "gainDb": -20,
+       "word": "ފައިބަން"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      20.3,
+      4.8,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_019",
+     "startMs": 167285,
+     "endMs": 174455,
+     "narration_dhivehi": "ނަމަވެސް ހުރިހާ ކަމެއް ހިނގީ ހީ ވެސް ނުކުރާހާ އަވަހަށެވެ. ސައިކަލުގެ ފަހަތުގައި އިން މީހާ ދިގު ވަޅިއެއް ފާޑުގެ އެއްޗެއް ނެގިއެވެ.",
+     "narration_english": "But everything happened faster than anyone could imagine. The man on the back of the motorbike pulled out something like a long blade.",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [
+      {
+       "name": "heartbeat",
+       "atMs": 173865,
+       "gainDb": -18,
+       "word": "ނެގިއެވެ."
+      }
+     ],
+     "hum": true,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Cinematic semi-realistic digital illustration with a dark modern political-thriller noir look, deep charcoal and teal shadows with blood-red accents and warm amber practical lights, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, wet pavement, desk top, soft shadow) for captions and a logo; night scenes in Malé glisten with rain, wet reflective streets and red-and-teal neon reflections, while the 2011 flashback scenes have a slightly desaturated, cold blue-grey haze.\nScene: far down the dark rain-swept lane, a motorbike with its headlight switched off speeding toward the camera through sheets of rain, two riders in black clothes and full black helmets seen only as dark faceless silhouettes against the glare of a car's headlights behind them, spray rising from the wheels; their hands are on the handlebars and at their sides, holding nothing. Location: a narrow residential lane in Malé in 2011 at night, low painted walls and closed gates on both sides, tall street lamps, heavy rain bouncing off wet tarmac, deep puddles, dark buildings. Camera: wide shot, low angle from far away, the silhouettes small in the upper half, the wet tarmac as a calm lower third.\nMood/lighting: 2011, stormy night, cold desaturated blue-grey haze, darkness and slanting rain, cold street-lamp light, sudden menace.\nModest Maldivian clothing (every woman in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck; men fully clothed in shirts or t-shirts and long trousers, never shirtless), a clear respectful distance between men and women, no man touching a woman, culturally respectful, no violence shown, no blood, no wounds, no injuries, no knives, no weapons, no guns, no person lying on the ground, no cigarettes, no smoking, no alcohol, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.171,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 50.0,
+    "y_pct": 40.0,
+    "face_detected": false
+   }
+  },
+  {
+   "id": "beat_007",
+   "startMs": 174455,
+   "endMs": 192506,
+   "new_image_reason": "action change: Iyaan, face pressed to the glass, witnesses the attack (reaction shot only)",
+   "characters": [
+    "iyaan_young"
+   ],
+   "location": "the modest sitting room of a small Malé house in 2011 at night, a cushioned fabric sofa, a low wooden side table with a small lamp, a plain round wall clock with a blank face and no numerals, a tall window with a thin curtain, rain streaming down the dark glass",
+   "location_key": "sitting_2011",
+   "mood": "2011, stormy night, cold desaturated blue-grey haze, a single warm amber lamp inside against the cold blue night at the window, anxious waiting",
+   "visual": "extreme close-up of the small boy's face pressed against the rain-streaked window glass from inside, his two small palms flat on the pane, eyes wide with shock and terror, mouth open, his face lit by a harsh white headlight glare from outside, raindrops sliding down the glass over his reflection",
+   "camera": "close-up, eye level, from just outside the glass looking in, face in the upper half",
+   "image": "images/beat_007.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": "violence",
+   "safe_substitution": "only the boy's horrified face behind rainy glass; what he sees is never shown",
+   "ambience": "rain_night",
+   "shots": [
+    {
+     "id": "shot_020",
+     "startMs": 174455,
+     "endMs": 184226,
+     "narration_dhivehi": "އިޔާން ކުޑަދޮރުގެ ބިއްލޫރިގަނޑުގައި މޫނު ޖައްސާލައިގެން ހުއްޓެވެ. އޭނާއަށް ފެނުނީ އެ މީހާ ބައްޕަގެ ހަށިގަނޑަށް ވަޅި ހަރާލި މަންޒަރެވެ. އެއް ފަހަރަކު ނޫނެވެ.",
+     "narration_english": "Iyaan stood with his face pressed to the window glass. What he saw was that man striking his father with the blade. Not once.",
+     "crop": "full",
+     "motion": "pan left",
+     "sfx": [
+      {
+       "name": "soft_thud",
+       "atMs": 181826,
+       "gainDb": -24,
+       "word": "ހަރާލި"
+      }
+     ],
+     "hum": true,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_021",
+     "startMs": 184226,
+     "endMs": 192506,
+     "narration_dhivehi": "އެތައް ފަހަރަކުއެވެ. ބައްޕަގެ އަތުން ބްރީފްކޭސް ދޫވެ، ބިންމައްޗަށް ވެއްޓުނެވެ. ޒާހިރުގެ އަނގައިން ބާރު ހަޅޭކެއްގެ އަޑު ނުކުތެވެ.",
+     "narration_english": "But again and again. The briefcase slipped from Bappa's hand and fell to the ground. A loud cry burst from Zahir's mouth.",
+     "crop": "tight",
+     "motion": "slow pull-out",
+     "sfx": [
+      {
+       "name": "soft_thud",
+       "atMs": 188526,
+       "gainDb": -20,
+       "word": "ވެއްޓުނެވެ."
+      }
+     ],
+     "hum": true,
+     "crop_rect_pct": [
+      8.6,
+      0.5,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "refused",
+     "rewrite_reason": null
+    },
+    {
+     "attempt": 2,
+     "result": "ok",
+     "rewrite_reason": "refused: removed trigger words, neutral emotion/setting wording"
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing, create a new scene: Cinematic semi-realistic digital illustration with a dark modern political-thriller noir look, deep charcoal and teal shadows with blood-red accents and warm amber practical lights, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, wet pavement, desk top, soft shadow) for captions and a logo; night scenes in Malé glisten with rain, wet reflective streets and red-and-teal neon reflections, while the 2011 flashback scenes have a slightly desaturated, cold blue-grey haze.\nScene: extreme close-up of the small boy's face pressed against the rain-streaked window glass from inside, his two small palms flat on the pane, eyes wide with shock and , mouth open, his face lit by a white headlight glare from outside, raindrops sliding down the glass over his reflection, calm and emotional. Location: the modest sitting room of a small Malé house in 2011 at night, a cushioned fabric sofa, a low wooden side table with a small lamp, a plain round wall clock with a blank face and no numerals, a tall window with a thin curtain, rain streaming down the dark glass. Camera: close-up, eye level, from just outside the glass looking in, face in the upper half.\nCharacters: young Iyaan: a small slight Maldivian boy of 8 with warm brown skin, a small round face, big dark eyes, thick eyebrows and short tousled black hair; wears a soft grey-blue long-sleeved cotton t-shirt and dark navy long trousers.\nMood/lighting: 2011, stormy night, cold desaturated blue-grey haze, a single warm amber lamp inside against the cold blue night at the window, anxious waiting.\nModest Maldivian clothing (every woman in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck; men fully clothed in shirts or t-shirts and long trousers, never shirtless), a clear respectful distance between men and women, no man touching a woman, culturally respectful, no violence shown, no blood, no wounds, no injuries, no knives, no weapons, no guns, no person lying on the ground, no cigarettes, no smoking, no alcohol, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.099,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 38.3,
+    "y_pct": 35.8,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_008",
+   "startMs": 192506,
+   "endMs": 211167,
+   "new_image_reason": "action change: the cry, Iyaan and Aminath rush to the door and throw it open; the bike speeds away",
+   "characters": [
+    "iyaan_young",
+    "aminath_young"
+   ],
+   "location": "the wide-open wooden front door of a small Malé house in 2011 at night, seen from inside the narrow entrance hall, rain blowing in across the tiled threshold, the wet lane and a street lamp beyond",
+   "location_key": "doorway_2011",
+   "mood": "2011, stormy night, cold desaturated blue-grey haze, cold blue light and rain pouring in through the open door, warm faint lamplight behind, panic",
+   "visual": "seen from behind inside the entrance hall: the small boy rushing out through the wide-open front door into the pouring rain, his mother Aminath hurrying right behind him with one hand reaching out, her dark-green hijab fully covering her hair; far down the lane beyond the gate a single small red tail-light vanishing into the rain",
+   "camera": "medium wide from behind them inside the house, the doorway framing the rainy lane in the upper two-thirds, the wet tiled floor as a calm lower third",
+   "image": "images/beat_008.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "storm_night",
+   "shots": [
+    {
+     "id": "shot_022",
+     "startMs": 192506,
+     "endMs": 202226,
+     "narration_dhivehi": "އެ އަޑު ގޭގެ އެތެރެއަށް އިވުނެވެ. \"ބައްޕާ!\" އިޔާން ބާރަށް ހަޅޭއްލަވައިގަތެވެ. އާމިނަތަށް ވީ ގޮތެއް ވެސް ނޭނގުނެވެ. އޭނާ ދޮރާ ދިމާލަށް ދުއްވައިގަތެވެ.",
+     "narration_english": "The cry carried into the house. \"Bappa!\" Iyaan screamed. Aminath didn't know what was happening. She ran toward the door.",
+     "crop": "full",
+     "motion": "pan right",
+     "sfx": [
+      {
+       "name": "gasp",
+       "atMs": 196206,
+       "gainDb": -18,
+       "word": "ހަޅޭއްލަވައިގަތެވެ."
+      },
+      {
+       "name": "footsteps_pavement",
+       "atMs": 201026,
+       "gainDb": -22,
+       "word": "ދުއްވައިގަތެވެ."
+      }
+     ],
+     "hum": true,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_023",
+     "startMs": 202226,
+     "endMs": 211167,
+     "narration_dhivehi": "އިޔާން ދުވެފައި ގޮސް ގޭގެ ބޮޑު ދޮރު ހުޅުވާލިއެވެ. ބޭރަށް ނުކުތްއިރު، އެ ސައިކަލު ބާރު ދުވެލީގައި ނައްޓާލަނީއެވެ. މަގުމަތީގެ ބޮކިތަކުގެ އަލީގައި،",
+     "narration_english": "Iyaan ran and threw open the big front door. As he came out, the motorbike was speeding away. In the light of the street lamps,",
+     "crop": "tight",
+     "motion": "slow push-in",
+     "sfx": [
+      {
+       "name": "door_open",
+       "atMs": 204146,
+       "gainDb": -16,
+       "word": "ހުޅުވާލިއެވެ."
+      },
+      {
+       "name": "motorbike_pass",
+       "atMs": 207867,
+       "gainDb": -16,
+       "word": "ނައްޓާލަނީއެވެ."
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      16.4,
+      0.0,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "refused",
+     "rewrite_reason": null
+    },
+    {
+     "attempt": 2,
+     "result": "ok",
+     "rewrite_reason": "refused: removed trigger words, neutral emotion/setting wording"
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing, create a new scene: Cinematic semi-realistic digital illustration with a dark modern political-thriller noir look, deep charcoal and teal shadows with blood-red accents and warm amber practical lights, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, wet pavement, desk top, soft shadow) for captions and a logo; night scenes in Malé glisten with rain, wet reflective streets and red-and-teal neon reflections, while the 2011 flashback scenes have a slightly desaturated, cold blue-grey haze.\nScene: seen from behind inside the entrance hall: the small boy rushing out through the wide-open front door into the pouring rain, his mother Aminath hurrying right behind him with one hand reaching out, her dark-green hijab fully covering her hair; far down the lane beyond the gate a single small red tail-light vanishing into the rain, calm and emotional. Location: the wide-open wooden front door of a small Malé house in 2011 at night, seen from inside the narrow entrance hall, rain blowing in across the tiled threshold, the wet lane and a street lamp beyond. Camera: medium wide from behind them inside the house, the doorway framing the rainy lane in the upper two-thirds, the wet tiled floor as a calm lower third.\nCharacters: young Iyaan: a small slight Maldivian boy of 8 with warm brown skin, a small round face, big dark eyes, thick eyebrows and short tousled black hair; wears a soft grey-blue long-sleeved cotton t-shirt and dark navy long trousers. Aminath (2011): a slim Maldivian woman of about 35 with warm brown skin, a gentle oval face, soft worried dark eyes and arched eyebrows; wears a loose long-sleeved ankle-length deep-maroon dress and a dark-green hijab fully covering her hair and neck.\nMood/lighting: 2011, stormy night, cold desaturated blue-grey haze, cold blue light and rain pouring in through the open door, warm faint lamplight behind, panic.\nModest Maldivian clothing (every woman in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck; men fully clothed in shirts or t-shirts and long trousers, never shirtless), a clear respectful distance between men and women, no man touching a woman, culturally respectful, no violence shown, no blood, no wounds, no injuries, no knives, no weapons, no guns, no person lying on the ground, no cigarettes, no smoking, no alcohol, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.195,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 46.1,
+    "y_pct": 26.5,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_009",
+   "startMs": 211167,
+   "endMs": 220947,
+   "new_image_reason": "action change: what Iyaan finds in the lane — the briefcase alone on the wet road",
+   "characters": [],
+   "location": "the wet tarmac of a narrow Malé lane in 2011 at night directly under a tall street lamp, rain falling in sheets, puddles reflecting only cold white and teal light, the low wall and gate of a small house at the edge of the frame",
+   "location_key": "road_2011",
+   "mood": "2011, stormy night, cold desaturated blue-grey haze, a single cold white street lamp cone in the rain, deep shadows all around, stunned stillness, no red tones",
+   "visual": "a black leather briefcase lying alone on its side on the rain-soaked tarmac under the cone of a street lamp, rain hammering the road and splashing in the puddles around it, the puddles reflecting only cold white and teal light, nothing and no one else in the frame",
+   "camera": "low close shot at road level, the briefcase and the lamp cone in the upper half, wet tarmac as a calm lower third",
+   "image": "images/beat_009.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": "violence",
+   "safe_substitution": "the briefcase alone on the wet road stands in for the scene; no person on the ground, no red water",
+   "ambience": "storm_night",
+   "shots": [
+    {
+     "id": "shot_024",
+     "startMs": 211167,
+     "endMs": 220947,
+     "narration_dhivehi": "ބިމުގައި އޮތް ބައްޕަގެ ހަށިގަނޑު އިޔާނަށް ފެނުނެވެ. ބިންމަތީގައި ހެދިފައިވާ ފެންގަނޑު ޒާހިރުގެ ހަށިގަނޑުން ފައިބަމުންދާ ރަތް ލެއިން ކުލަވަމުންދިޔައެވެ.",
+     "narration_english": "Iyaan saw his father on the ground. The rainwater pooled on the road was turning red with what flowed from Zahir.",
+     "crop": "full",
+     "motion": "pan up",
+     "sfx": [],
+     "hum": true,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Cinematic semi-realistic digital illustration with a dark modern political-thriller noir look, deep charcoal and teal shadows with blood-red accents and warm amber practical lights, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, wet pavement, desk top, soft shadow) for captions and a logo; night scenes in Malé glisten with rain, wet reflective streets and red-and-teal neon reflections, while the 2011 flashback scenes have a slightly desaturated, cold blue-grey haze.\nScene: a black leather briefcase lying alone on its side on the rain-soaked tarmac under the cone of a street lamp, rain hammering the road and splashing in the puddles around it, the puddles reflecting only cold white and teal light, nothing and no one else in the frame. Location: the wet tarmac of a narrow Malé lane in 2011 at night directly under a tall street lamp, rain falling in sheets, puddles reflecting only cold white and teal light, the low wall and gate of a small house at the edge of the frame. Camera: low close shot at road level, the briefcase and the lamp cone in the upper half, wet tarmac as a calm lower third.\nMood/lighting: 2011, stormy night, cold desaturated blue-grey haze, a single cold white street lamp cone in the rain, deep shadows all around, stunned stillness, no red tones.\nModest Maldivian clothing (every woman in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck; men fully clothed in shirts or t-shirts and long trousers, never shirtless), a clear respectful distance between men and women, no man touching a woman, culturally respectful, no violence shown, no blood, no wounds, no injuries, no knives, no weapons, no guns, no person lying on the ground, no cigarettes, no smoking, no alcohol, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.248,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 50.0,
+    "y_pct": 40.0,
+    "face_detected": false
+   }
+  },
+  {
+   "id": "beat_010",
+   "startMs": 220947,
+   "endMs": 240148,
+   "new_image_reason": "action change: Iyaan kneels in the rain over his father, calling to him",
+   "characters": [],
+   "location": "the wet tarmac of a narrow Malé lane in 2011 at night directly under a tall street lamp, rain falling in sheets, puddles reflecting only cold white and teal light, the low wall and gate of a small house at the edge of the frame",
+   "location_key": "road_2011",
+   "mood": "2011, stormy night, cold desaturated blue-grey haze, a single cold white street lamp cone in the rain, deep shadows all around, stunned stillness, no red tones",
+   "visual": "seen from behind at a short distance: a small boy of about eight in a soaked grey-blue long-sleeved shirt and dark navy trousers, alone on the rain-soaked lane under the cone of a street lamp, his small shoulders hunched and his head bowed low, his back to the camera, heavy rain falling between him and the viewer, the glowing open front door of his house far behind on the left; the ground just in front of him is hidden in deep shadow and rain",
+   "camera": "medium shot from behind him, slightly high angle, his bowed head and shoulders in the upper half, the wet lane as a calm lower third",
+   "image": "images/beat_010.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": "violence",
+   "safe_substitution": "framed on the boy from the chest up; whatever he kneels beside is entirely out of frame; no red anywhere",
+   "ambience": "storm_night",
+   "shots": [
+    {
+     "id": "shot_025",
+     "startMs": 220947,
+     "endMs": 231247,
+     "narration_dhivehi": "އިޔާން ދުވެފައި ގޮސް ބައްޕަގެ ގައިމައްޗަށް ވެއްޓިގަތެވެ. އޭނާގެ ކުޑަކުޑަ ދެ އަތުން ބައްޕަގެ މޫނުގައި ހިފެހެއްޓިއެވެ. \"ބައްޕާ! ބައްޕާ! ލޯ ހުޅުވަބަލަ!\"",
+     "narration_english": "Iyaan ran and threw himself on his father. With his two small hands he held his father's face. \"Bappa! Bappa! Open your eyes!\"",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [
+      {
+       "name": "sob_breath",
+       "atMs": 230447,
+       "gainDb": -22,
+       "word": "ހުޅުވަބަލަ!\""
+      }
+     ],
+     "hum": true,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_026",
+     "startMs": 231247,
+     "endMs": 240148,
+     "narration_dhivehi": "އިޔާން ރޮމުން ހަޅޭއްލަވަމުންދިޔައެވެ. އޭނާގެ އަތްތިލަ ބައްޕަގެ ލެއިން ތަތްތެޅުނެވެ. ޒާހިރުގެ ހޭ ހުއްޓެވެ. އޭނާ ގަދަކަމުން ދެ ލޯ ހުޅުވާލިއެވެ.",
+     "narration_english": "Iyaan kept crying and screaming. His palms were soaked with his father's blood. Zahir was still conscious. With great effort he opened his eyes.",
+     "crop": "tight",
+     "motion": "pan down",
+     "sfx": [
+      {
+       "name": "sob_breath",
+       "atMs": 231927,
+       "gainDb": -22,
+       "word": "ރޮމުން"
+      }
+     ],
+     "hum": true,
+     "crop_rect_pct": [
+      19.6,
+      27.4,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Cinematic semi-realistic digital illustration with a dark modern political-thriller noir look, deep charcoal and teal shadows with blood-red accents and warm amber practical lights, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, wet pavement, desk top, soft shadow) for captions and a logo; night scenes in Malé glisten with rain, wet reflective streets and red-and-teal neon reflections, while the 2011 flashback scenes have a slightly desaturated, cold blue-grey haze.\nScene: seen from behind at a short distance: a small boy of about eight in a soaked grey-blue long-sleeved shirt and dark navy trousers, alone on the rain-soaked lane under the cone of a street lamp, his small shoulders hunched and his head bowed low, his back to the camera, heavy rain falling between him and the viewer, the glowing open front door of his house far behind on the left; the ground just in front of him is hidden in deep shadow and rain. Location: the wet tarmac of a narrow Malé lane in 2011 at night directly under a tall street lamp, rain falling in sheets, puddles reflecting only cold white and teal light, the low wall and gate of a small house at the edge of the frame. Camera: medium close-up, chest-up, slightly high angle, everything below his chest out of frame.\nMood/lighting: 2011, stormy night, cold desaturated blue-grey haze, a single cold white street lamp cone in the rain, deep shadows all around, stunned stillness, no red tones.\nModest Maldivian clothing (every woman in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck; men fully clothed in shirts or t-shirts and long trousers, never shirtless), a clear respectful distance between men and women, no man touching a woman, culturally respectful, no violence shown, no blood, no wounds, no injuries, no knives, no weapons, no guns, no person lying on the ground, no cigarettes, no smoking, no alcohol, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.078,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 49.3,
+    "y_pct": 62.6,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_011",
+   "startMs": 240148,
+   "endMs": 257918,
+   "new_image_reason": "action change: Zahir's last effort to hold his son's hand and his last words (symbolic close-up)",
+   "characters": [],
+   "location": "the wet tarmac of a narrow Malé lane in 2011 at night directly under a tall street lamp, rain falling in sheets, puddles reflecting only cold white and teal light, the low wall and gate of a small house at the edge of the frame",
+   "location_key": "road_2011",
+   "mood": "2011, stormy night, cold desaturated blue-grey haze, a single cold white street lamp cone in the rain, deep shadows all around, stunned stillness, no red tones",
+   "visual": "close-up of a grown man's hand in the sleeve of a dark-navy suit jacket and white shirt cuff loosely holding a small boy's hand, their fingers slowly slipping apart, both hands resting on wet rain-splashed paving tiles, raindrops falling, clean rainwater only, cold blue light",
+   "camera": "extreme close-up at ground level, the two hands in the upper half, wet tiles as a calm lower third",
+   "image": "images/beat_011.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": "violence",
+   "safe_substitution": "last words shown only as a father's hand loosening around his son's hand on wet tiles; no injury, no red, no face",
+   "ambience": "storm_night",
+   "shots": [
+    {
+     "id": "shot_027",
+     "startMs": 240148,
+     "endMs": 247618,
+     "narration_dhivehi": "އޭނާގެ ނޭވާ ކުރުވަމުންދިޔައެވެ. އޭނާ އިޔާންގެ ކުޑަ އަތްތިލައިގައި ހިފާލަން އުޅުނެވެ. ނަމަވެސް އެ ހަށިގަނޑުގައި ވަރެއް ނެތެވެ.",
+     "narration_english": "His breathing was growing short. He tried to take hold of Iyaan's small hand. But there was no strength left in him.",
+     "crop": "full",
+     "motion": "static drift",
+     "sfx": [
+      {
+       "name": "breath_heavy",
+       "atMs": 240528,
+       "gainDb": -22,
+       "word": "ނޭވާ"
+      }
+     ],
+     "hum": true,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_028",
+     "startMs": 247618,
+     "endMs": 257918,
+     "narration_dhivehi": "ޒާހިރުގެ އަނގައިން ވެސް ލޭ އަންނަމުން ދިޔައެވެ. އޭނާ ގަދަކަމުން ބުނެލިއެވެ. \"ދަ... ދަރިފުޅާ... މަންމަ... ބަލާ...\" އެއީ އޭނާގެ ފަހު ބަސްތަކެވެ.",
+     "narration_english": "Blood was coming from Zahir's mouth too. With effort he said: \"S... son... Mamma... look after...\" Those were his last words.",
+     "crop": "tight",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": true,
+     "crop_rect_pct": [
+      40.6,
+      29.6,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Cinematic semi-realistic digital illustration with a dark modern political-thriller noir look, deep charcoal and teal shadows with blood-red accents and warm amber practical lights, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, wet pavement, desk top, soft shadow) for captions and a logo; night scenes in Malé glisten with rain, wet reflective streets and red-and-teal neon reflections, while the 2011 flashback scenes have a slightly desaturated, cold blue-grey haze.\nScene: close-up of a grown man's hand in the sleeve of a dark-navy suit jacket and white shirt cuff loosely holding a small boy's hand, their fingers slowly slipping apart, both hands resting on wet rain-splashed paving tiles, raindrops falling, clean rainwater only, cold blue light. Location: the wet tarmac of a narrow Malé lane in 2011 at night directly under a tall street lamp, rain falling in sheets, puddles reflecting only cold white and teal light, the low wall and gate of a small house at the edge of the frame. Camera: extreme close-up at ground level, the two hands in the upper half, wet tiles as a calm lower third.\nMood/lighting: 2011, stormy night, cold desaturated blue-grey haze, a single cold white street lamp cone in the rain, deep shadows all around, stunned stillness, no red tones.\nModest Maldivian clothing (every woman in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck; men fully clothed in shirts or t-shirts and long trousers, never shirtless), a clear respectful distance between men and women, no man touching a woman, culturally respectful, no violence shown, no blood, no wounds, no injuries, no knives, no weapons, no guns, no person lying on the ground, no cigarettes, no smoking, no alcohol, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.339,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 76.1,
+    "y_pct": 96.0,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_012",
+   "startMs": 257918,
+   "endMs": 284639,
+   "new_image_reason": "action change: the aftermath — Aminath kneeling in grief, the driver phoning, neighbours at their windows",
+   "characters": [
+    "aminath_young"
+   ],
+   "location": "the same narrow rain-soaked Malé lane in 2011 later that night, low walls, a black car with its rear door left open, the upper windows of neighbouring houses lit, a faint pulsing blue glow at the far end of the lane",
+   "location_key": "road_after_2011",
+   "mood": "2011, stormy night, cold desaturated blue-grey haze, cold rain, warm lit windows above, a faint distant pulsing blue emergency glow, numb grief, no red tones",
+   "visual": "Aminath seen from behind and at a distance, kneeling in the rain on the lane with her head bowed and her shoulders shaking, her dark-green hijab and maroon dress soaked; her own kneeling figure hides everything in front of her; to one side the driver, a man in a white shirt, stands by the black car with a phone to his ear, trembling; above, neighbours' lit windows with dark figures looking out; a faint blue glow far down the lane",
+   "camera": "wide shot from behind her, slightly elevated, the windows and figures in the upper two-thirds, empty wet tarmac as a calm lower third",
+   "image": "images/beat_012.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": "violence",
+   "safe_substitution": "death shown as the mother kneeling seen from behind, neighbours' windows and a distant emergency glow; nothing on the ground is visible",
+   "ambience": "rain_night",
+   "shots": [
+    {
+     "id": "shot_029",
+     "startMs": 257918,
+     "endMs": 266379,
+     "narration_dhivehi": "ޒާހިރުގެ ދެލޯ މެރުނެވެ. އޭނާގެ ހަށިގަނޑު ހިމޭންވިއެވެ. ޒާހިރުގެ ފުރާނަ ނެތް ހަށިގަނޑުގެ މައްޗަށް އާމިނަތު ވެއްޓިގަނެ ރޮމުންދިޔައެވެ.",
+     "narration_english": "Zahir's eyes closed. He went still. Aminath collapsed over Zahir's lifeless form, weeping.",
+     "crop": "full",
+     "motion": "pan left",
+     "sfx": [
+      {
+       "name": "sob_breath",
+       "atMs": 265449,
+       "gainDb": -20,
+       "word": "ރޮމުންދިޔައެވެ."
+      }
+     ],
+     "hum": true,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_030",
+     "startMs": 266379,
+     "endMs": 276129,
+     "narration_dhivehi": "މުޅި ހިސާބަށް އޭނާގެ ރުއިމުގެ އަޑު ފެތުރިގެން ދިޔައެވެ. ކާރުގެ ޑްރައިވަރު ފޯނުން އެމްބިއުލާންސަށް ގުޅަން މަސައްކަތް ކުރަމުން ދިޔައީ ތުރުތުރު އަޅާ ހާލުގައެވެ.",
+     "narration_english": "The sound of her weeping spread through the whole neighbourhood. The driver, shaking all over, was trying to phone for an ambulance.",
+     "crop": "tight",
+     "motion": "slow pull-out",
+     "sfx": [
+      {
+       "name": "siren",
+       "atMs": 271449,
+       "gainDb": -24,
+       "word": "އެމްބިއުލާންސަށް"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      10.8,
+      29.6,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_031",
+     "startMs": 276129,
+     "endMs": 284639,
+     "narration_dhivehi": "އަވަށްޓެރިން ގޭގޭގެ ކުޑަދޮރުތަކުން ބޯ ދިއްކޮށް ބަލަން ފެށިއެވެ. އިޔާންގެ ރުއިމުގެ އަޑު ކުއްލިއަކަށް ކެނޑުނެވެ. އޭނާ ރޯން ބޭނުންވި ނަމަވެސް،",
+     "narration_english": "Neighbours began peering out of the windows of their houses. Iyaan's crying suddenly stopped. Though he wanted to cry,",
+     "crop": "full",
+     "motion": "pan right",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Aminath), create a new scene: Cinematic semi-realistic digital illustration with a dark modern political-thriller noir look, deep charcoal and teal shadows with blood-red accents and warm amber practical lights, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, wet pavement, desk top, soft shadow) for captions and a logo; night scenes in Malé glisten with rain, wet reflective streets and red-and-teal neon reflections, while the 2011 flashback scenes have a slightly desaturated, cold blue-grey haze.\nScene: Aminath seen from behind and at a distance, kneeling in the rain on the lane with her head bowed and her shoulders shaking, her dark-green hijab and maroon dress soaked; her own kneeling figure hides everything in front of her; to one side the driver, a man in a white shirt, stands by the black car with a phone to his ear, trembling; above, neighbours' lit windows with dark figures looking out; a faint blue glow far down the lane. Location: the same narrow rain-soaked Malé lane in 2011 later that night, low walls, a black car with its rear door left open, the upper windows of neighbouring houses lit, a faint pulsing blue glow at the far end of the lane. Camera: wide shot from behind her, slightly elevated, the windows and figures in the upper two-thirds, empty wet tarmac as a calm lower third.\nCharacters: Aminath (2011): a slim Maldivian woman of about 35 with warm brown skin, a gentle oval face, soft worried dark eyes and arched eyebrows; wears a loose long-sleeved ankle-length deep-maroon dress and a dark-green hijab fully covering her hair and neck.\nMood/lighting: 2011, stormy night, cold desaturated blue-grey haze, cold rain, warm lit windows above, a faint distant pulsing blue emergency glow, numb grief, no red tones.\nModest Maldivian clothing (every woman in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck; men fully clothed in shirts or t-shirts and long trousers, never shirtless), a clear respectful distance between men and women, no man touching a woman, culturally respectful, no violence shown, no blood, no wounds, no injuries, no knives, no weapons, no guns, no person lying on the ground, no cigarettes, no smoking, no alcohol, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.169,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 40.5,
+    "y_pct": 96.8,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_013",
+   "startMs": 284639,
+   "endMs": 300830,
+   "new_image_reason": "action change: the boy's tears dry from shock; he stares at his hands",
+   "characters": [],
+   "location": "the same narrow rain-soaked Malé lane in 2011 later that night, low walls, a black car with its rear door left open, the upper windows of neighbouring houses lit, a faint pulsing blue glow at the far end of the lane",
+   "location_key": "road_after_2011",
+   "mood": "2011, stormy night, cold desaturated blue-grey haze, cold rain, warm lit windows above, a faint distant pulsing blue emergency glow, numb grief, no red tones",
+   "visual": "close-up of a small boy's two open hands held up palms-upward in front of him, trembling, wet only with clear rainwater, raindrops splashing on them, cold blue street light, the dark wet road blurred behind, no red on them at all",
+   "camera": "close-up, the hands in the upper half, the blurred dark road as a calm lower third",
+   "image": "images/beat_013.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": "violence",
+   "safe_substitution": "'his hands stained' shown as the boy's small open hands wet with clear rain, no red",
+   "ambience": "rain_night",
+   "shots": [
+    {
+     "id": "shot_032",
+     "startMs": 284639,
+     "endMs": 292799,
+     "narration_dhivehi": "އެ ކުޑަކުޑަ ހިތަށް ލިބުނު ސިހުމުން ކަރުނަތައް ހިކުނެވެ. އޭނާ ބަލަން އިނީ ބައްޕަގެ ލެއިން ތަތްތެޅިފައިވާ އޭނާގެ ދެ އަތްތިލައަށެވެ.",
+     "narration_english": "the shock to that small heart dried up his tears. He sat staring at his two palms, soaked in his father's blood.",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": true,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_033",
+     "startMs": 292799,
+     "endMs": 300830,
+     "narration_dhivehi": "އެ ކުޑަ ސިކުނޑިއަށް ސިޔާސީ ބާރުވެރިކަމެއް، ކޮރަޕްޝަނެއް ވިސްނައެއް ނުގަނެވުނެވެ. ނަމަވެސް އެއް ކަމެއް އޭނާއަށް ޔަގީންވިއެވެ.",
+     "narration_english": "That small mind could not grasp political power or corruption. But one thing became certain to him.",
+     "crop": "tight",
+     "motion": "pan up",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      28.4,
+      0.0,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Cinematic semi-realistic digital illustration with a dark modern political-thriller noir look, deep charcoal and teal shadows with blood-red accents and warm amber practical lights, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, wet pavement, desk top, soft shadow) for captions and a logo; night scenes in Malé glisten with rain, wet reflective streets and red-and-teal neon reflections, while the 2011 flashback scenes have a slightly desaturated, cold blue-grey haze.\nScene: close-up of a small boy's two open hands held up palms-upward in front of him, trembling, wet only with clear rainwater, raindrops splashing on them, cold blue street light, the dark wet road blurred behind, no red on them at all. Location: the same narrow rain-soaked Malé lane in 2011 later that night, low walls, a black car with its rear door left open, the upper windows of neighbouring houses lit, a faint pulsing blue glow at the far end of the lane. Camera: close-up, the hands in the upper half, the blurred dark road as a calm lower third.\nMood/lighting: 2011, stormy night, cold desaturated blue-grey haze, cold rain, warm lit windows above, a faint distant pulsing blue emergency glow, numb grief, no red tones.\nModest Maldivian clothing (every woman in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck; men fully clothed in shirts or t-shirts and long trousers, never shirtless), a clear respectful distance between men and women, no man touching a woman, culturally respectful, no violence shown, no blood, no wounds, no injuries, no knives, no weapons, no guns, no person lying on the ground, no cigarettes, no smoking, no alcohol, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.133,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 58.1,
+    "y_pct": 10.7,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_014",
+   "startMs": 300830,
+   "endMs": 346071,
+   "new_image_reason": "emotional turning point: the fire of revenge ignites; his innocence drowned, his heart turns to stone",
+   "characters": [
+    "iyaan_young"
+   ],
+   "location": "the same narrow rain-soaked Malé lane in 2011 later that night, low walls, a black car with its rear door left open, the upper windows of neighbouring houses lit, a faint pulsing blue glow at the far end of the lane",
+   "location_key": "road_after_2011",
+   "mood": "2011, stormy night, cold desaturated blue-grey haze, cold rain, warm lit windows above, a faint distant pulsing blue emergency glow, numb grief, no red tones",
+   "visual": "portrait of the small boy standing upright on the pavement in light rain at night, his head and shoulders clearly visible and centred, his face calm and serious, eyes dry and fixed straight ahead with quiet determination, a tiny warm amber glint of the street lamp reflected in his dark eyes, raindrops on his cheeks and hair, behind him the softly blurred lane with warm lit windows",
+   "camera": "close-up, eye level, his face in the upper half, his soaked shirt and dark blur as a calm lower third",
+   "image": "images/beat_014.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": "violence",
+   "safe_substitution": "only the boy's resolute face in the rain",
+   "ambience": "memory_rain",
+   "shots": [
+    {
+     "id": "shot_034",
+     "startMs": 300830,
+     "endMs": 314050,
+     "narration_dhivehi": "އޭނާގެ ލޯބިވާ ބައްޕަ، އޭނާގެ އުފާވެރި ދުނިޔެ، މީހަކު ފޭރިގެންފިއެވެ. ވާރޭގެ ތިކިތައް އިޔާންގެ މޫނަށް ޖެހެމުންދިޔައިރު، އޭނާގެ ހިތުގެ ފުންމިނުގައި އާދަޔާ ޚިލާފު އަލިފާންގަނޑެއް ރޯވަމުންދިޔައެވެ.",
+     "narration_english": "Someone had snatched away his beloved father, his happy world. As the raindrops struck Iyaan's face, an extraordinary fire was kindling deep in his heart.",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [
+      {
+       "name": "heartbeat",
+       "atMs": 311810,
+       "gainDb": -18,
+       "word": "އަލިފާންގަނޑެއް"
+      }
+     ],
+     "hum": true,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_035",
+     "startMs": 314050,
+     "endMs": 323761,
+     "narration_dhivehi": "އެއީ ބަދަލުހިފުމުގެ އަލިފާންގަނޑެވެ. އޭނާ ބައްޕަގެ ލޯ މެރިފައިވާ މޫނަށް ބަލާލާފައި ހިތާ ހިތުން ބުނެލިއެވެ. \"ބައްޕާ، އަހަރެން މިކަން ކުރި މީހުން ހޯދާނަން.",
+     "narration_english": "It was the fire of revenge. Looking at his father's closed eyes, he said in his heart: \"Bappa, I will find the people who did this.",
+     "crop": "tight",
+     "motion": "pan down",
+     "sfx": [],
+     "hum": true,
+     "crop_rect_pct": [
+      18.0,
+      4.6,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_036",
+     "startMs": 323761,
+     "endMs": 336391,
+     "narration_dhivehi": "އެ މީހުންގެ ކިބައިން ބަދަލު ހިފާނަން.\" މިއީ އިޔާންގެ ހަޔާތް ބަދަލުކޮށްލި ރެއެވެ. އަށް އަހަރުގެ އެ ކުޑަކުއްޖާގެ މަޢުޞޫމުކަން އެ ރޭ އެ މަގުމަތީގައި އޮތް އޭނާގެ ބައްޕަގެ ލޭގެ ކޯރުގެ ތެރެއަށް ގެނބިގެން ދިޔައެވެ.",
+     "narration_english": "I will take revenge on them.\" This was the night that changed Iyaan's life. That eight-year-old boy's innocence drowned that night in the pool of his father's blood on that road.",
+     "crop": "full",
+     "motion": "static drift",
+     "sfx": [],
+     "hum": true,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_037",
+     "startMs": 336391,
+     "endMs": 346071,
+     "narration_dhivehi": "އޭނާގެ ހިތް ހިލައަށް ވިއެވެ. އޭނާގެ ދިރިއުޅުމުގެ ހަމައެކަނި މަޤުޞަދަކީ ބައްޕަގެ މަރުގެ ޙަޤީޤަތް ހޯދުން ކަމަށް ކަނޑައެޅުނެވެ. -------------- ފަނަރަ އަހަރުގެ ހިމޭންކަން",
+     "narration_english": "His heart turned to stone. Finding the truth of his father's death became the one purpose of his life. — Fifteen years of silence —",
+     "crop": "medium",
+     "motion": "slow push-in",
+     "sfx": [
+      {
+       "name": "thunder",
+       "atMs": 337251,
+       "gainDb": -18,
+       "word": "ހިލައަށް"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      12.0,
+      0.0,
+      71.5,
+      84.7
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Iyaan), create a new scene: Cinematic semi-realistic digital illustration with a dark modern political-thriller noir look, deep charcoal and teal shadows with blood-red accents and warm amber practical lights, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, wet pavement, desk top, soft shadow) for captions and a logo; night scenes in Malé glisten with rain, wet reflective streets and red-and-teal neon reflections, while the 2011 flashback scenes have a slightly desaturated, cold blue-grey haze.\nScene: portrait of the small boy standing upright on the pavement in light rain at night, his head and shoulders clearly visible and centred, his face calm and serious, eyes dry and fixed straight ahead with quiet determination, a tiny warm amber glint of the street lamp reflected in his dark eyes, raindrops on his cheeks and hair, behind him the softly blurred lane with warm lit windows. Location: the same narrow rain-soaked Malé lane in 2011 later that night, low walls, a black car with its rear door left open, the upper windows of neighbouring houses lit, a faint pulsing blue glow at the far end of the lane. Camera: close-up, eye level, his face in the upper half, his soaked shirt and dark blur as a calm lower third.\nCharacters: young Iyaan: a small slight Maldivian boy of 8 with warm brown skin, a small round face, big dark eyes, thick eyebrows and short tousled black hair; wears a soft grey-blue long-sleeved cotton t-shirt and dark navy long trousers.\nMood/lighting: 2011, stormy night, cold desaturated blue-grey haze, cold rain, warm lit windows above, a faint distant pulsing blue emergency glow, numb grief, no red tones.\nModest Maldivian clothing (every woman in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck; men fully clothed in shirts or t-shirts and long trousers, never shirtless), a clear respectful distance between men and women, no man touching a woman, culturally respectful, no violence shown, no blood, no wounds, no injuries, no knives, no weapons, no guns, no person lying on the ground, no cigarettes, no smoking, no alcohol, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.143,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 47.8,
+    "y_pct": 39.9,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_015",
+   "startMs": 346071,
+   "endMs": 374192,
+   "new_image_reason": "time jump out of the flashback: fifteen years later, Iyaan at 23",
+   "characters": [
+    "iyaan"
+   ],
+   "location": "a rain-wet street in Malé today at night between dark multi-storey buildings, red-lit shop fronts with blank signboards, glistening reflections on the pavement, parked motorbikes",
+   "location_key": "male_night",
+   "mood": "present day, night, sharp noir light, wet street reflecting red and teal neon, rain, determined and dangerous",
+   "visual": "Iyaan, now a tall strong young man in his plain black t-shirt and charcoal cargo trousers, standing alone in the middle of the rain-wet Malé street at night between dark buildings and red-lit shop fronts, fists clenched at his sides, his intense deep-set eyes staring ahead, his reflection shimmering on the wet pavement",
+   "camera": "medium wide, slightly low angle, his face and shoulders in the upper third, the reflective wet pavement as a calm lower third",
+   "image": "images/beat_015.png",
+   "reuse_of": null,
+   "transition_in": "dissolve",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "rain_night",
+   "shots": [
+    {
+     "id": "shot_038",
+     "startMs": 346071,
+     "endMs": 354152,
+     "narration_dhivehi": "ބައްޕަގެ މަރުގެ ޙާދިސާއަށް ފަހު ފާއިތުވެގެންދިޔަ ކޮންމެ ދުވަހަކީ އިޔާންގެ ހަޔާތުން އުފާވެރިކަމުގެ ކުލަ ފޮހެވެމުންދާ ދުވަހެކެވެ.",
+     "narration_english": "Every day that passed after his father's death was a day that washed the colour of happiness out of Iyaan's life.",
+     "crop": "full",
+     "motion": "pan left",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_039",
+     "startMs": 354152,
+     "endMs": 363492,
+     "narration_dhivehi": "ދުވަސްތައް ފާއިތުވަމުން ގޮސް މިއަދު އޭނާގެ އުމުރަކީ 23 އަހަރެވެ. އޭނާގެ ހަށިގަނޑު ވަރުގަދައެވެ. އިސްކޮޅުން ދިގު ޒުވާނަކަށް އޭނާ ވަނީ ބަދަލުވެފައެވެ.",
+     "narration_english": "The days went by, and today he is 23 years old. His body is strong. He has grown into a tall young man.",
+     "crop": "tight",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      18.6,
+      29.6,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_040",
+     "startMs": 363492,
+     "endMs": 374192,
+     "narration_dhivehi": "ކަޅުކަންގަދަ ބޮލުގެ އިސްތަށިގަނޑާއި، ތޫނުފިލި ދެ ލޮލުގައި ވަނީ ފުން ސިއްރުތަކެކެވެ. އޭނާއަކީ ރާއްޖޭގެ ބޮޑު ނޫހެއްގެ އެންމެ ހުނަރުވެރި އިންވެސްޓިގޭޓިވް ޖާނަލިސްޓެވެ.",
+     "narration_english": "Jet-black hair, and deep secrets in his two sharp eyes. He is the most skilled investigative journalist at the country's biggest newspaper.",
+     "crop": "full",
+     "motion": "pan right",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Iyaan), create a new scene: Cinematic semi-realistic digital illustration with a dark modern political-thriller noir look, deep charcoal and teal shadows with blood-red accents and warm amber practical lights, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, wet pavement, desk top, soft shadow) for captions and a logo; night scenes in Malé glisten with rain, wet reflective streets and red-and-teal neon reflections, while the 2011 flashback scenes have a slightly desaturated, cold blue-grey haze.\nScene: Iyaan, now a tall strong young man in his plain black t-shirt and charcoal cargo trousers, standing alone in the middle of the rain-wet Malé street at night between dark buildings and red-lit shop fronts, fists clenched at his sides, his intense deep-set eyes staring ahead, his reflection shimmering on the wet pavement. Location: a rain-wet street in Malé today at night between dark multi-storey buildings, red-lit shop fronts with blank signboards, glistening reflections on the pavement, parked motorbikes. Camera: medium wide, slightly low angle, his face and shoulders in the upper third, the reflective wet pavement as a calm lower third.\nCharacters: Iyaan: a tall athletic Maldivian young man of 23 with warm brown skin, a lean handsome clean-shaven face with high cheekbones, intense deep-set dark eyes under straight heavy eyebrows, a firm jaw and thick short black hair swept up and back; wears a plain black crew-neck t-shirt, dark charcoal cargo trousers and a black wristwatch.\nMood/lighting: present day, night, sharp noir light, wet street reflecting red and teal neon, rain, determined and dangerous.\nModest Maldivian clothing (every woman in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck; men fully clothed in shirts or t-shirts and long trousers, never shirtless), a clear respectful distance between men and women, no man touching a woman, culturally respectful, no violence shown, no blood, no wounds, no injuries, no knives, no weapons, no guns, no person lying on the ground, no cigarettes, no smoking, no alcohol, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.066,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 48.3,
+    "y_pct": 86.0,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_016",
+   "startMs": 374192,
+   "endMs": 403433,
+   "new_image_reason": "scene change: Iyaan the investigative journalist at work in the newsroom",
+   "characters": [
+    "iyaan"
+   ],
+   "location": "the large open-plan newsroom of a big newspaper in Malé today late at night, rows of empty desks with dark monitors, stacks of blank papers, tall windows onto the city lights, only one desk lamp lit",
+   "location_key": "newsroom",
+   "mood": "present day, late night, a single warm desk lamp and the cold blue glow of a laptop in a dark empty newsroom, focused and solitary",
+   "visual": "Iyaan sitting alone at a desk in the dark empty newsroom late at night, typing intently on a laptop whose screen faces away from the viewer so only its cold blue glow lights his face, a few blank papers and a notebook beside him, his expression focused and hard",
+   "camera": "medium shot, eye level, from across the desk",
+   "image": "images/beat_016.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "office_night",
+   "shots": [
+    {
+     "id": "shot_041",
+     "startMs": 374192,
+     "endMs": 383553,
+     "narration_dhivehi": "އޭނާ ލިޔާ ކޮންމެ ލިޔުމަކީ ސަރުކާރުގެ އިދާރާތަކާއި ސިޔާސީ މީހުން ތުރުތުރު އަޅުވާލާފަދަ ތެދު ޙަޤީޤަތްތަކެއްގެ މައްޗަށް ބިނާވެފައިވާ އުފެއްދުންތެރި މޮޅު",
+     "narration_english": "Every article he writes is a brilliant, original piece built on hard truths that make government offices and politicians tremble —",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [
+      {
+       "name": "keyboard_typing",
+       "atMs": 374552,
+       "gainDb": -20,
+       "word": "ލިޔާ"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_042",
+     "startMs": 383553,
+     "endMs": 390633,
+     "narration_dhivehi": "ލިޔުންތަކެކެވެ. ނަމަވެސް، އެއްވެސް މީހަކަށް ނޭނގޭ ކަމަކީ، އެ ނޫސްވެރިކަމުގެ ޙަޤީޤީ މަގުސަދެވެ.",
+     "narration_english": "outstanding writing. But what nobody knows is the real purpose behind that journalism.",
+     "crop": "tight",
+     "motion": "pan up",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      18.0,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_043",
+     "startMs": 390633,
+     "endMs": 403433,
+     "narration_dhivehi": "ފާއިތުވި 15 އަހަރު އިޔާން ހޭދަކުރީ ހަމައެކަނި ކިޔެވުމާއި ނޫސްވެރިކަމުގައެއް ނޫނެވެ. އޭނާ ވަނީ ރާއްޖެއިން ބޭރުން މާޝަލް އާޓްސްގެ އެކި އުކުޅުތަކާއި، އަމިއްލަ ނަފުސު ދިފާޢުކުރާނެ ގޮތްތައް ދަސްކޮށްފައެވެ.",
+     "narration_english": "Iyaan did not spend the past 15 years on study and journalism alone. Abroad, he learned various styles of martial arts and the ways of self-defence.",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Iyaan), create a new scene: Cinematic semi-realistic digital illustration with a dark modern political-thriller noir look, deep charcoal and teal shadows with blood-red accents and warm amber practical lights, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, wet pavement, desk top, soft shadow) for captions and a logo; night scenes in Malé glisten with rain, wet reflective streets and red-and-teal neon reflections, while the 2011 flashback scenes have a slightly desaturated, cold blue-grey haze.\nScene: Iyaan sitting alone at a desk in the dark empty newsroom late at night, typing intently on a laptop whose screen faces away from the viewer so only its cold blue glow lights his face, a few blank papers and a notebook beside him, his expression focused and hard. Location: the large open-plan newsroom of a big newspaper in Malé today late at night, rows of empty desks with dark monitors, stacks of blank papers, tall windows onto the city lights, only one desk lamp lit. Camera: medium shot, eye level, from across the desk.\nCharacters: Iyaan: a tall athletic Maldivian young man of 23 with warm brown skin, a lean handsome clean-shaven face with high cheekbones, intense deep-set dark eyes under straight heavy eyebrows, a firm jaw and thick short black hair swept up and back; wears a plain black crew-neck t-shirt, dark charcoal cargo trousers and a black wristwatch.\nMood/lighting: present day, late night, a single warm desk lamp and the cold blue glow of a laptop in a dark empty newsroom, focused and solitary.\nModest Maldivian clothing (every woman in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck; men fully clothed in shirts or t-shirts and long trousers, never shirtless), a clear respectful distance between men and women, no man touching a woman, culturally respectful, no violence shown, no blood, no wounds, no injuries, no knives, no weapons, no guns, no person lying on the ground, no cigarettes, no smoking, no alcohol, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.062,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 47.8,
+    "y_pct": 32.0,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_017",
+   "startMs": 403433,
+   "endMs": 428074,
+   "new_image_reason": "scene change: his hacking skills and private tracking network",
+   "characters": [
+    "iyaan"
+   ],
+   "location": "Iyaan's small locked bedroom in a modest Malé apartment today at night, a wide desk with three computer monitors and a keyboard, cables and small electronic devices, a closed laptop, a single narrow window with rain and distant city lights",
+   "location_key": "hacker_room",
+   "mood": "present day, night, cold blue and green monitor glow on his face, the rest of the room in deep teal shadow, secretive and intense",
+   "visual": "Iyaan seated at his wide desk in his dark room facing three glowing monitors filled with abstract green code streams and a glowing network map of connected dots, no readable text, his fingers on the keyboard, the screen light reflected in his eyes, seen slightly from the side and behind",
+   "camera": "medium shot over his shoulder from the side, his face and the monitors in the upper two-thirds, the desk top as a calm lower third",
+   "image": "images/beat_017.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "hacker_room",
+   "shots": [
+    {
+     "id": "shot_044",
+     "startMs": 403433,
+     "endMs": 412194,
+     "narration_dhivehi": "އަދި އޭގެ އިތުރުން، ޑިޖިޓަލް ދުނިޔޭގެ އެންމެ ފުނަށް ފީނައި، ހެކިންގެ މަޢުލޫމާތާއި ސިއްރު ފައިލްތައް ހޯދާނެ ހެކިންގެ ހުނަރުތައް ވެސް ދަސްކޮށްފައެވެ.",
+     "narration_english": "And beyond that, diving into the deepest corners of the digital world, he also learned the hacking skills to obtain information and secret files.",
+     "crop": "full",
+     "motion": "pan down",
+     "sfx": [
+      {
+       "name": "keyboard_typing",
+       "atMs": 407413,
+       "gainDb": -20,
+       "word": "ހެކިންގެ"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_045",
+     "startMs": 412194,
+     "endMs": 420474,
+     "narration_dhivehi": "އަދި ޓްރެކްކުރާނެ އަމިއްލަ ނެޓްވޯކެއް ވެސް އޭނާ ވަނީ ޤާއިމުކޮށްފައެވެ. އޭނާގެ މުޅި ޒުވާންކަން ޤުރްބާން އެ ކުރަނީ އެންމެ މަޤުޞަދަކަށެވެ.",
+     "narration_english": "He has also built his own network for tracking people. He is sacrificing his whole youth for one single purpose —",
+     "crop": "tight",
+     "motion": "static drift",
+     "sfx": [
+      {
+       "name": "computer_beep",
+       "atMs": 413654,
+       "gainDb": -20,
+       "word": "ނެޓްވޯކެއް"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      20.3,
+      4.8,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_046",
+     "startMs": 420474,
+     "endMs": 428074,
+     "narration_dhivehi": "ބައްޕަގެ ޤާތިލުންގެ ކިބައިން ބަދަލު ހިފުމެވެ. އިޔާން ދިރިއުޅެމުންދިޔައީ މަންމަ އާމިނަތާ އެކު ހެންވޭރުގެ ކުޑަ އެޕާޓްމަންޓެއްގައެވެ.",
+     "narration_english": "revenge on his father's killers. Iyaan lived with his mother Aminath in a small apartment in Henveiru.",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Iyaan), create a new scene: Cinematic semi-realistic digital illustration with a dark modern political-thriller noir look, deep charcoal and teal shadows with blood-red accents and warm amber practical lights, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, wet pavement, desk top, soft shadow) for captions and a logo; night scenes in Malé glisten with rain, wet reflective streets and red-and-teal neon reflections, while the 2011 flashback scenes have a slightly desaturated, cold blue-grey haze.\nScene: Iyaan seated at his wide desk in his dark room facing three glowing monitors filled with abstract green code streams and a glowing network map of connected dots, no readable text, his fingers on the keyboard, the screen light reflected in his eyes, seen slightly from the side and behind. Location: Iyaan's small locked bedroom in a modest Malé apartment today at night, a wide desk with three computer monitors and a keyboard, cables and small electronic devices, a closed laptop, a single narrow window with rain and distant city lights. Camera: medium shot over his shoulder from the side, his face and the monitors in the upper two-thirds, the desk top as a calm lower third.\nCharacters: Iyaan: a tall athletic Maldivian young man of 23 with warm brown skin, a lean handsome clean-shaven face with high cheekbones, intense deep-set dark eyes under straight heavy eyebrows, a firm jaw and thick short black hair swept up and back; wears a plain black crew-neck t-shirt, dark charcoal cargo trousers and a black wristwatch.\nMood/lighting: present day, night, cold blue and green monitor glow on his face, the rest of the room in deep teal shadow, secretive and intense.\nModest Maldivian clothing (every woman in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck; men fully clothed in shirts or t-shirts and long trousers, never shirtless), a clear respectful distance between men and women, no man touching a woman, culturally respectful, no violence shown, no blood, no wounds, no injuries, no knives, no weapons, no guns, no person lying on the ground, no cigarettes, no smoking, no alcohol, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.05,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 50.0,
+    "y_pct": 40.0,
+    "face_detected": false
+   }
+  },
+  {
+   "id": "beat_018",
+   "startMs": 428074,
+   "endMs": 445515,
+   "new_image_reason": "character and scene change: his frail widowed mother with her prayer beads",
+   "characters": [
+    "aminath"
+   ],
+   "location": "the small modest sitting room of a Malé apartment today in the evening, a worn cushioned sofa, a low table with a glass of water and small medicine bottles with blank labels, a prayer mat folded on a chair, plain pale walls, a small window",
+   "location_key": "apartment",
+   "mood": "present day, evening, a dim warm table lamp, soft shadows, quiet, tender and sorrowful",
+   "visual": "the frail mother Aminath sitting on the worn sofa in the small dim sitting room, her white hijab fully covering her hair and neck, slowly passing prayer beads through her thin fingers, lips moving softly in dua, her tired eyes dull and faded with years of grief",
+   "camera": "medium shot, eye level",
+   "image": "images/beat_018.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "living_night",
+   "shots": [
+    {
+     "id": "shot_047",
+     "startMs": 428074,
+     "endMs": 434684,
+     "narration_dhivehi": "ބައްޕަގެ މަރަށް ފަހު މަންމަގެ ހަޔާތަށް ބޮޑު ބަދަލެއް އައެވެ. ނަފުސާނީ ގޮތުންނާއި ޖިސްމާނީގޮތުން މީހާ ބަލިކަށިވިއެވެ.",
+     "narration_english": "After his father's death, a great change came over his mother's life. She grew weak in mind and body.",
+     "crop": "full",
+     "motion": "pan left",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_048",
+     "startMs": 434684,
+     "endMs": 445515,
+     "narration_dhivehi": "އެ ހިތާމައިގައި މަންމަގެ ލޮލުގެ ފެނުން ވެސް ވަނީ ފަނޑުވެފައެވެ. އިޔާން ކޮންމެ ދުވަހަކު ގެއަށް އަންނައިރު މަންމަ އިންނަނީ ތަސްބީހަފަތި ހިފައިގެން ކޮންމެވެސް ދުޢާއެއް ކުރުމުގައެވެ.",
+     "narration_english": "In that grief even the light in her eyes has faded. Every day when Iyaan comes home, his mother is sitting with her prayer beads, making some dua.",
+     "crop": "tight",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      9.5,
+      0.0,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Aminath), create a new scene: Cinematic semi-realistic digital illustration with a dark modern political-thriller noir look, deep charcoal and teal shadows with blood-red accents and warm amber practical lights, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, wet pavement, desk top, soft shadow) for captions and a logo; night scenes in Malé glisten with rain, wet reflective streets and red-and-teal neon reflections, while the 2011 flashback scenes have a slightly desaturated, cold blue-grey haze.\nScene: the frail mother Aminath sitting on the worn sofa in the small dim sitting room, her white hijab fully covering her hair and neck, slowly passing prayer beads through her thin fingers, lips moving softly in dua, her tired eyes dull and faded with years of grief. Location: the small modest sitting room of a Malé apartment today in the evening, a worn cushioned sofa, a low table with a glass of water and small medicine bottles with blank labels, a prayer mat folded on a chair, plain pale walls, a small window. Camera: medium shot, eye level.\nCharacters: Aminath: a thin frail Maldivian woman of about 50 with warm brown skin, a thin gentle face with tired sunken eyes, faint lines and a weary sad smile; wears a loose long-sleeved ankle-length faded grey-blue dress and a plain white hijab fully covering her hair and neck, holding a string of prayer beads.\nMood/lighting: present day, evening, a dim warm table lamp, soft shadows, quiet, tender and sorrowful.\nModest Maldivian clothing (every woman in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck; men fully clothed in shirts or t-shirts and long trousers, never shirtless), a clear respectful distance between men and women, no man touching a woman, culturally respectful, no violence shown, no blood, no wounds, no injuries, no knives, no weapons, no guns, no person lying on the ground, no cigarettes, no smoking, no alcohol, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.132,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 39.2,
+    "y_pct": 24.9,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_019",
+   "startMs": 445515,
+   "endMs": 483416,
+   "new_image_reason": "character and action change: Iyaan sits beside his mother and kisses her hands",
+   "characters": [
+    "iyaan",
+    "aminath"
+   ],
+   "location": "the small modest sitting room of a Malé apartment today in the evening, a worn cushioned sofa, a low table with a glass of water and small medicine bottles with blank labels, a prayer mat folded on a chair, plain pale walls, a small window",
+   "location_key": "apartment",
+   "mood": "present day, evening, a dim warm table lamp, soft shadows, quiet, tender and sorrowful",
+   "visual": "Iyaan sitting close beside his frail mother on the sofa, bending his head to kiss the backs of her thin hands as she holds her prayer beads; Aminath looking down at him with worried tenderness and trembling lips, her white hijab fully covering her hair",
+   "camera": "medium close two-shot, eye level",
+   "image": "images/beat_019.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": "intimacy",
+   "safe_substitution": "mother and son: he kisses her hands, both fully clothed",
+   "ambience": "living_night",
+   "shots": [
+    {
+     "id": "shot_049",
+     "startMs": 445515,
+     "endMs": 455275,
+     "narration_dhivehi": "\"ދަރިފުޅާ އިޔާން، ގެއަށް އައީތަ؟\" މަންމަގެ ބަލި އަޑުން އަހާލިއެވެ. \"އާނ މަންމާ،\" އިޔާން ގޮސް މަންމަގެ ކައިރީގައި އިށީނދެ، އެ ދެ އަތުގައި ބޮސްދިނެވެ.",
+     "narration_english": "\"Iyaan, my son, have you come home?\" his mother asked in her frail voice. \"Yes, Mamma.\" Iyaan went and sat beside her and kissed both her hands.",
+     "crop": "full",
+     "motion": "pan right",
+     "sfx": [
+      {
+       "name": "door_close",
+       "atMs": 447475,
+       "gainDb": -22,
+       "word": "އައީތަ؟\""
+      }
+     ],
+     "hum": true,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_050",
+     "startMs": 455275,
+     "endMs": 464235,
+     "narration_dhivehi": "\"މަންމަ ބޭސް ކައިފިންތަ؟\" \"އާނ، ބޭސް ކައިފިން. ދަރިފުޅާ... މަންމަ އަބަދުވެސް ހާސްވަނީ ދަރިފުޅު ތިކުރާ ނޫސްވެރިކަމުގެ މަސައްކަތުން.",
+     "narration_english": "\"Mamma, have you taken your medicine?\" \"Yes, I've taken it. My son... Mamma always worries about this journalism work you do.",
+     "crop": "tight",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      20.3,
+      4.8,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_051",
+     "startMs": 464235,
+     "endMs": 473516,
+     "narration_dhivehi": "ސިޔާސީ ބޮޑުންގެ ކޮރަޕްޝަނުގެ ވާހަކަ ލިޔާއިރު ވިސްނާތި. ބައްޕަ ވެސް...\" މަންމަގެ އަޑު ތުރުތުރު އަޅައިގަތެވެ، އަދި ވާހަކަ މެދުކަނޑާލިއެވެ.",
+     "narration_english": "Be careful when you write about the corruption of powerful politicians. Your father too...\" Her voice began to tremble and she broke off.",
+     "crop": "full",
+     "motion": "pan up",
+     "sfx": [
+      {
+       "name": "sob_breath",
+       "atMs": 470196,
+       "gainDb": -22,
+       "word": "ތުރުތުރު"
+      }
+     ],
+     "hum": true,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_052",
+     "startMs": 473516,
+     "endMs": 483416,
+     "narration_dhivehi": "އިޔާން މަންމަގެ އަތަށް ފިތާލިއެވެ. \"މަންމާ، ހާސްނުވޭ. އަހަރެން ވަރަށް ބަލައިގެން އުޅެނީ. ބައްޕައަށް ވީގޮތް އަހަރެން ދުވަހަކު ވެސް ހަނދާނެއް ނުނެތޭ.\"",
+     "narration_english": "Iyaan stroked his mother's hand. \"Mamma, don't worry. I'm very careful. I will never forget what happened to Bappa.\"",
+     "crop": "medium",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      14.2,
+      0.0,
+      71.5,
+      84.7
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Iyaan; reference image 2 is Aminath), create a new scene: Cinematic semi-realistic digital illustration with a dark modern political-thriller noir look, deep charcoal and teal shadows with blood-red accents and warm amber practical lights, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, wet pavement, desk top, soft shadow) for captions and a logo; night scenes in Malé glisten with rain, wet reflective streets and red-and-teal neon reflections, while the 2011 flashback scenes have a slightly desaturated, cold blue-grey haze.\nScene: Iyaan sitting close beside his frail mother on the sofa, bending his head to kiss the backs of her thin hands as she holds her prayer beads; Aminath looking down at him with worried tenderness and trembling lips, her white hijab fully covering her hair. Location: the small modest sitting room of a Malé apartment today in the evening, a worn cushioned sofa, a low table with a glass of water and small medicine bottles with blank labels, a prayer mat folded on a chair, plain pale walls, a small window. Camera: medium close two-shot, eye level.\nCharacters: Iyaan: a tall athletic Maldivian young man of 23 with warm brown skin, a lean handsome clean-shaven face with high cheekbones, intense deep-set dark eyes under straight heavy eyebrows, a firm jaw and thick short black hair swept up and back; wears a plain black crew-neck t-shirt, dark charcoal cargo trousers and a black wristwatch. Aminath: a thin frail Maldivian woman of about 50 with warm brown skin, a thin gentle face with tired sunken eyes, faint lines and a weary sad smile; wears a loose long-sleeved ankle-length faded grey-blue dress and a plain white hijab fully covering her hair and neck, holding a string of prayer beads.\nMood/lighting: present day, evening, a dim warm table lamp, soft shadows, quiet, tender and sorrowful.\nModest Maldivian clothing (every woman in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck; men fully clothed in shirts or t-shirts and long trousers, never shirtless), a clear respectful distance between men and women, no man touching a woman, culturally respectful, no violence shown, no blood, no wounds, no injuries, no knives, no weapons, no guns, no person lying on the ground, no cigarettes, no smoking, no alcohol, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.108,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 50.0,
+    "y_pct": 40.0,
+    "face_detected": false
+   }
+  },
+  {
+   "id": "beat_020",
+   "startMs": 483416,
+   "endMs": 510787,
+   "new_image_reason": "memory / time change: twelve-year-old Iyaan leaving the police station after the case was shelved",
+   "characters": [
+    "iyaan_young"
+   ],
+   "location": "the front steps and plain entrance of a police station building in Malé around 2015, grey concrete facade with no sign, glass doors, a few parked motorbikes, an overcast rainy afternoon",
+   "location_key": "police_station",
+   "mood": "a memory about four years after 2011, overcast grey afternoon, light drizzle, soft desaturated haze, disillusionment",
+   "visual": "the boy Iyaan, now about twelve years old, a little taller and thinner, walking alone down the wet front steps of the plain grey police station in a light drizzle, shoulders slumped, looking back over his shoulder at the glass doors with bitter, disillusioned eyes",
+   "camera": "medium wide, eye level from the foot of the steps, the boy and the doors in the upper two-thirds, wet steps as a calm lower third",
+   "image": "images/beat_020.png",
+   "reuse_of": null,
+   "transition_in": "dissolve",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "memory_rain",
+   "shots": [
+    {
+     "id": "shot_053",
+     "startMs": 483416,
+     "endMs": 493716,
+     "narration_dhivehi": "އިޔާންގެ ހިތް އެ ވަގުތު ރޮމުންދިޔައެވެ. ފުލުހުން ބައްޕަގެ މަރުގެ މައްސަލަ \"ނުނިންމި\" އޮތް މައްސަލައެއްގެ ގޮތުގައި ފައިލް ލައްޕާލި ދުވަސް އޭނާގެ ހަނދާނަށް އައެވެ.",
+     "narration_english": "Iyaan's heart was weeping at that moment. He remembered the day the police shelved his father's case as \"unsolved\".",
+     "crop": "full",
+     "motion": "pan down",
+     "sfx": [],
+     "hum": true,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_054",
+     "startMs": 493716,
+     "endMs": 503177,
+     "narration_dhivehi": "އެއިރު އޭނާގެ އުމުރުން އެންމެ ބާރަ އަހަރެވެ. ޕޮލިސް ސްޓޭޝަނުން ނުކުމެގެން އައިއިރު، ޤައުމުގެ އިންސާފުގެ ނިޒާމަށް އޭނާ ކުރި އިތުބާރު މުޅިން ގެއްލުނެވެ.",
+     "narration_english": "He was only twelve years old then. When he walked out of the police station, he lost all his faith in the country's justice system.",
+     "crop": "tight",
+     "motion": "static drift",
+     "sfx": [
+      {
+       "name": "footsteps_pavement",
+       "atMs": 497156,
+       "gainDb": -22,
+       "word": "ނުކުމެގެން"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      9.4,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_055",
+     "startMs": 503177,
+     "endMs": 510787,
+     "narration_dhivehi": "އެ ދުވަހު އޭނާ އަމިއްލަ ނަފްސަށް ވީ ވައުދަކީ، ކޮންމެވެސް އެއް ދުވަހަކުން އަދި އިންސާފު ހޯދާނެ ކަމެވެ. އެ ރޭ މަންމަ ނިދުމުން،",
+     "narration_english": "The promise he made to himself that day was that one day, somehow, he would find justice. That night, after his mother fell asleep,",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Iyaan), create a new scene: Cinematic semi-realistic digital illustration with a dark modern political-thriller noir look, deep charcoal and teal shadows with blood-red accents and warm amber practical lights, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, wet pavement, desk top, soft shadow) for captions and a logo; night scenes in Malé glisten with rain, wet reflective streets and red-and-teal neon reflections, while the 2011 flashback scenes have a slightly desaturated, cold blue-grey haze.\nScene: the boy Iyaan, now about twelve years old, a little taller and thinner, walking alone down the wet front steps of the plain grey police station in a light drizzle, shoulders slumped, looking back over his shoulder at the glass doors with bitter, disillusioned eyes. Location: the front steps and plain entrance of a police station building in Malé around 2015, grey concrete facade with no sign, glass doors, a few parked motorbikes, an overcast rainy afternoon. Camera: medium wide, eye level from the foot of the steps, the boy and the doors in the upper two-thirds, wet steps as a calm lower third.\nCharacters: young Iyaan: a small slight Maldivian boy of 8 with warm brown skin, a small round face, big dark eyes, thick eyebrows and short tousled black hair; wears a soft grey-blue long-sleeved cotton t-shirt and dark navy long trousers.\nMood/lighting: a memory about four years after 2011, overcast grey afternoon, light drizzle, soft desaturated haze, disillusionment.\nModest Maldivian clothing (every woman in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck; men fully clothed in shirts or t-shirts and long trousers, never shirtless), a clear respectful distance between men and women, no man touching a woman, culturally respectful, no violence shown, no blood, no wounds, no injuries, no knives, no weapons, no guns, no person lying on the ground, no cigarettes, no smoking, no alcohol, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.241,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 39.1,
+    "y_pct": 17.2,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_021",
+   "startMs": 510787,
+   "endMs": 537098,
+   "new_image_reason": "scene change: that night in his locked room, the investigation board",
+   "characters": [
+    "iyaan"
+   ],
+   "location": "Iyaan's locked bedroom in a modest Malé apartment today late at night, one whole wall covered by a large cork investigation board filled with small faceless blurred photographs and blank index cards linked by taut red string, a wide desk with computer monitors below it",
+   "location_key": "board_room",
+   "mood": "present day, late night, a single desk lamp and the cold monitor glow throwing long shadows across the red string, obsessive and grim",
+   "visual": "Iyaan standing seen from behind and slightly to the side, facing the huge investigation board on his bedroom wall: dozens of small faceless blurred photographs and blank cards connected by taut red string, a large red question-mark symbol drawn by hand at the centre, the only mark on the board; his arms folded, the desk lamp casting his long shadow across the board",
+   "camera": "medium wide from behind him, the board filling the upper two-thirds, the dark desk top as a calm lower third",
+   "image": "images/beat_021.png",
+   "reuse_of": null,
+   "transition_in": "dissolve",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "hacker_room",
+   "shots": [
+    {
+     "id": "shot_056",
+     "startMs": 510787,
+     "endMs": 522367,
+     "narration_dhivehi": "އިޔާން އޭނާގެ ކޮޓަރިއަށް ވަދެ ދޮރު ތަޅުލިއެވެ. ކޮޓަރީގެ އެއް ފާރުގައި ހުރީ ބޮޑު ބޯޑެކެވެ. އެ ބޯޑުގައި ހުރީ ބައްޕަ މަރުވި ރޭގެ ފޮޓޯތަކާއި، އެއިރު މަޖިލީހުގައި ތިއްބެވި މެންބަރުންގެ ފޮޓޯތަކެވެ.",
+     "narration_english": "Iyaan went into his room and locked the door. On one wall of the room was a big board, covered with photos of the night his father was killed and photos of the members of parliament at the time.",
+     "crop": "full",
+     "motion": "pan left",
+     "sfx": [
+      {
+       "name": "door_close",
+       "atMs": 512317,
+       "gainDb": -18,
+       "word": "ވަދެ"
+      },
+      {
+       "name": "lock_click",
+       "atMs": 512797,
+       "gainDb": -16,
+       "word": "ތަޅުލިއެވެ."
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_057",
+     "startMs": 522367,
+     "endMs": 529618,
+     "narration_dhivehi": "އަދި އެކި މީހުންގެ މަޢުލޫމާތުތައް ރަތް ރޮދިން ގުޅުވާލެވިފައެވެ. ބޯޑުގެ މެދުގައި ބޮޑު ސުވާލުމާކެއް ޖަހާފައި އޮތެވެ.",
+     "narration_english": "Information on various people was linked together with red string. In the middle of the board was a big question mark.",
+     "crop": "tight",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      40.6,
+      11.7,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_058",
+     "startMs": 529618,
+     "endMs": 537098,
+     "narration_dhivehi": "އެއީ ބައްޕަ މަރާލަން އަމުރުކުރި އަސްލު މޭސްތިރިޔާއަކީ ކާކުކަން ނޭނގޭތީއެވެ. އިޔާން އޭނާގެ ލެޕްޓޮޕް ހުޅުވާލިއެވެ.",
+     "narration_english": "Because he did not know who the real mastermind behind his father's killing was. Iyaan opened his laptop.",
+     "crop": "full",
+     "motion": "pan right",
+     "sfx": [
+      {
+       "name": "power_up",
+       "atMs": 535978,
+       "gainDb": -20,
+       "word": "ހުޅުވާލިއެވެ."
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Iyaan), create a new scene: Cinematic semi-realistic digital illustration with a dark modern political-thriller noir look, deep charcoal and teal shadows with blood-red accents and warm amber practical lights, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, wet pavement, desk top, soft shadow) for captions and a logo; night scenes in Malé glisten with rain, wet reflective streets and red-and-teal neon reflections, while the 2011 flashback scenes have a slightly desaturated, cold blue-grey haze.\nScene: Iyaan standing seen from behind and slightly to the side, facing the huge investigation board on his bedroom wall: dozens of small faceless blurred photographs and blank cards connected by taut red string, a large red question-mark symbol drawn by hand at the centre, the only mark on the board; his arms folded, the desk lamp casting his long shadow across the board. Location: Iyaan's locked bedroom in a modest Malé apartment today late at night, one whole wall covered by a large cork investigation board filled with small faceless blurred photographs and blank index cards linked by taut red string, a wide desk with computer monitors below it. Camera: medium wide from behind him, the board filling the upper two-thirds, the dark desk top as a calm lower third.\nCharacters: Iyaan: a tall athletic Maldivian young man of 23 with warm brown skin, a lean handsome clean-shaven face with high cheekbones, intense deep-set dark eyes under straight heavy eyebrows, a firm jaw and thick short black hair swept up and back; wears a plain black crew-neck t-shirt, dark charcoal cargo trousers and a black wristwatch.\nMood/lighting: present day, late night, a single desk lamp and the cold monitor glow throwing long shadows across the red string, obsessive and grim.\nModest Maldivian clothing (every woman in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck; men fully clothed in shirts or t-shirts and long trousers, never shirtless), a clear respectful distance between men and women, no man touching a woman, culturally respectful, no violence shown, no blood, no wounds, no injuries, no knives, no weapons, no guns, no person lying on the ground, no cigarettes, no smoking, no alcohol, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.044,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 88.7,
+    "y_pct": 47.0,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_022",
+   "startMs": 537098,
+   "endMs": 567069,
+   "new_image_reason": "action change: he opens his laptop and finds the police files stripped of evidence",
+   "characters": [
+    "iyaan"
+   ],
+   "location": "Iyaan's small locked bedroom in a modest Malé apartment today at night, a wide desk with three computer monitors and a keyboard, cables and small electronic devices, a closed laptop, a single narrow window with rain and distant city lights",
+   "location_key": "hacker_room",
+   "mood": "present day, night, cold blue and green monitor glow on his face, the rest of the room in deep teal shadow, secretive and intense",
+   "visual": "close-up of Iyaan at his open laptop in the dark, its glow lighting his frowning face from below, the screen showing only blurred abstract document windows with solid black bars, no readable text, his jaw clenched, one hand pressed against his mouth in suspicion and frustration",
+   "camera": "close-up, slightly low angle across the laptop, his face in the upper half",
+   "image": "images/beat_022.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "hacker_room",
+   "shots": [
+    {
+     "id": "shot_059",
+     "startMs": 537098,
+     "endMs": 546848,
+     "narration_dhivehi": "އޭނާ ވަނީ ފުލުހުންގެ ސިއްރު ޑޭޓާބޭހުން ބައްޕަގެ މަރުގެ އިންވެސްޓިގޭޝަން ފައިލްތައް ހޯދާފައެވެ. އެ ފައިލްތައް ކިޔަމުންދިޔައިރު އިޔާންއަށް ފާހަގަވީ އެއް ކަމެކެވެ.",
+     "narration_english": "He had obtained the investigation files on his father's murder from the police's secret database. As he read through them, Iyaan noticed one thing.",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [
+      {
+       "name": "keyboard_typing",
+       "atMs": 541938,
+       "gainDb": -22,
+       "word": "ހޯދާފައެވެ."
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_060",
+     "startMs": 546848,
+     "endMs": 557729,
+     "narration_dhivehi": "ބައެއް މުހިންމު ހެކިތަކާއި، ބައްޕަގެ ފޯން ރެކޯޑިންތައް ވަނީ އެ ފައިލްތަކުން އުނިކޮށްފައެވެ. މިއީ ސަރުކާރުގެ ވަރަށް މަތީ ފަންތީގެ ނުފޫޒެއް އޮވެގެން ނޫނީ ކުރެވޭނެ ކަމެއް ނޫނެވެ.",
+     "narration_english": "Some key evidence and his father's phone recordings had been removed from those files. That could not be done without very high-level influence in the government.",
+     "crop": "tight",
+     "motion": "pan up",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      8.1,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_061",
+     "startMs": 557729,
+     "endMs": 567069,
+     "narration_dhivehi": "\"ކާކު؟ ކާކުގެ ނުފޫޒެއް؟\" އިޔާން އަމިއްލަ ނަފްސާ ސުވާލުކުރަމުން ދިޔައެވެ. ހުރިހާ މަގުތަކެއް ބަންދުވަމުންދާ ކަހަލަ އިޙުސާސެއް އޭނާއަށް ކުރެވުނެވެ.",
+     "narration_english": "\"Who? Whose influence?\" Iyaan kept asking himself. He felt as if every road was closing in front of him.",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [
+      {
+       "name": "heartbeat",
+       "atMs": 565439,
+       "gainDb": -20,
+       "word": "އިޙުސާސެއް"
+      }
+     ],
+     "hum": true,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Iyaan), create a new scene: Cinematic semi-realistic digital illustration with a dark modern political-thriller noir look, deep charcoal and teal shadows with blood-red accents and warm amber practical lights, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, wet pavement, desk top, soft shadow) for captions and a logo; night scenes in Malé glisten with rain, wet reflective streets and red-and-teal neon reflections, while the 2011 flashback scenes have a slightly desaturated, cold blue-grey haze.\nScene: close-up of Iyaan at his open laptop in the dark, its glow lighting his frowning face from below, the screen showing only blurred abstract document windows with solid black bars, no readable text, his jaw clenched, one hand pressed against his mouth in suspicion and frustration. Location: Iyaan's small locked bedroom in a modest Malé apartment today at night, a wide desk with three computer monitors and a keyboard, cables and small electronic devices, a closed laptop, a single narrow window with rain and distant city lights. Camera: close-up, slightly low angle across the laptop, his face in the upper half.\nCharacters: Iyaan: a tall athletic Maldivian young man of 23 with warm brown skin, a lean handsome clean-shaven face with high cheekbones, intense deep-set dark eyes under straight heavy eyebrows, a firm jaw and thick short black hair swept up and back; wears a plain black crew-neck t-shirt, dark charcoal cargo trousers and a black wristwatch.\nMood/lighting: present day, night, cold blue and green monitor glow on his face, the rest of the room in deep teal shadow, secretive and intense.\nModest Maldivian clothing (every woman in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck; men fully clothed in shirts or t-shirts and long trousers, never shirtless), a clear respectful distance between men and women, no man touching a woman, culturally respectful, no violence shown, no blood, no wounds, no injuries, no knives, no weapons, no guns, no person lying on the ground, no cigarettes, no smoking, no alcohol, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.032,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 37.8,
+    "y_pct": 29.1,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_023",
+   "startMs": 567069,
+   "endMs": 585740,
+   "new_image_reason": "return to the board: the rider identified and silenced; who gave the order?",
+   "characters": [],
+   "location": "Iyaan's locked bedroom in a modest Malé apartment today late at night, one whole wall covered by a large cork investigation board filled with small faceless blurred photographs and blank index cards linked by taut red string, a wide desk with computer monitors below it",
+   "location_key": "board_room",
+   "mood": "present day, late night, a single desk lamp and the cold monitor glow throwing long shadows across the red string, obsessive and grim",
+   "visual": "(reuse of the investigation board)",
+   "camera": "medium shot, eye level",
+   "image": "images/beat_021.png",
+   "reuse_of": "beat_021",
+   "transition_in": "xfade",
+   "sensitive": "other",
+   "safe_substitution": "the overdose is never shown; the board with its question mark carries the unanswered question",
+   "ambience": "hacker_room",
+   "shots": [
+    {
+     "id": "shot_062",
+     "startMs": 567069,
+     "endMs": 574719,
+     "narration_dhivehi": "ފާއިތުވި 15 އަހަރު އޭނާ ކުރި މަސައްކަތުން ބައްޕަ މަރާލަން އައި މީހުގެ ސައިކަލު ދުއްވަން އިން މީހާ ދެނެގަނެވުނެވެ.",
+     "narration_english": "Through his work over the past 15 years, he had identified the man who rode the motorbike that came to kill his father.",
+     "crop": "tight",
+     "motion": "pan down",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      40.6,
+      11.7,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_063",
+     "startMs": 574719,
+     "endMs": 585740,
+     "narration_dhivehi": "އޭނާ ފަހުން މަސްތުވާތަކެތީގެ އޯވަޑޯޒެއްގައި މަރުވެފައިވާ ކަމަށް އޮތީ ރިޕޯޓުކޮށްފައެވެ. އޭނާ ލައްވާ އެކަން ކުރުވީ ކާކު ހެއްޔެވެ؟ އެ ސިއްރު ވަނީ ވަރަށް ފުންކޮށް ވަޅުލެވިފައެވެ. ނުނިމޭ.",
+     "narration_english": "He was later reported to have died of a drug overdose. Who made him do it? That secret lies buried very deep. To be continued.",
+     "crop": "full",
+     "motion": "static drift",
+     "sfx": [
+      {
+       "name": "thunder",
+       "atMs": 584139,
+       "gainDb": -20,
+       "word": "ވަޅުލެވިފައެވެ."
+      }
+     ],
+     "hum": true,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [],
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.038,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 88.7,
+    "y_pct": 47.0,
+    "face_detected": true
+   }
+  }
+ ]
+}

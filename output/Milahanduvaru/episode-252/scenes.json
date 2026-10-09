@@ -1,0 +1,2819 @@
+{
+ "series": "Milahanduvaru",
+ "episode": 252,
+ "beats": [
+  {
+   "id": "beat_001",
+   "startMs": 0,
+   "endMs": 14780,
+   "new_image_reason": "episode opening: night, Yameen cries and Shamaan wakes and picks him up",
+   "characters": [
+    "shamaan",
+    "yameen"
+   ],
+   "location": "Shamaan's small bedroom in an old coral-stone island house late at night, whitewashed walls, a wooden double bed with a plain sheet and a thin blanket, a small wooden bedside table with a framed photo and a small dim lamp, a wooden-shuttered window with a thin pale curtain, a slow ceiling fan",
+   "location_key": "bedroom",
+   "mood": "late night, soft silver-blue moonlight from the window and a faint warm amber glow from the small bedside lamp, deep indigo shadows, quiet grief and tenderness",
+   "visual": "Shamaan sitting up on the edge of the bed in the dark bedroom, lifting his small crying toddler son Yameen into his arms and holding him close to his chest, Yameen's face scrunched in tears, Shamaan's tired face full of tender concern; the moonlit window behind them",
+   "camera": "medium shot, eye level, faces in the upper half, the bed sheet as a calm lower third",
+   "image": "images/beat_001.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "island_house_night",
+   "shots": [
+    {
+     "id": "shot_001",
+     "startMs": 0,
+     "endMs": 7220,
+     "narration_dhivehi": "ދަރިފުޅު ރޮއިގަތް އަޑަށް ޝަމްއާން ސިއްސައިގެން ގޮސް ހޭލެވުނެވެ. އޭނާ ވަގުތުން ތެދުވެ ލޯތްބާއެކު ދަރިފުޅު އުރާލިއެވެ.",
+     "narration_english": "At the sound of his little son crying, Shamaan woke with a start. He got up at once and lovingly picked the child up.",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [
+      {
+       "name": "sob_breath",
+       "atMs": 960,
+       "gainDb": -22,
+       "word": "ރޮއިގަތް"
+      },
+      {
+       "name": "cloth_rustle",
+       "atMs": 5100,
+       "gainDb": -24,
+       "word": "ތެދުވެ"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_002",
+     "startMs": 7220,
+     "endMs": 14780,
+     "narration_dhivehi": "ކުޑަކުޑަ ޔަމީންގެ ހުރިހާ ކަމެއް އަމަލީގޮތުން ބަލަހައްޓަމުން ދަނީ ބައްޕަގެ ޒިންމާ އުފުލަމުންދާ ޝަމްއާން އެކަންޏެވެ.",
+     "narration_english": "It is Shamaan alone who looks after everything for little Yameen, carrying the full responsibility of a father.",
+     "crop": "tight",
+     "motion": "pan left",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      26.3,
+      0.0,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Shamaan; reference image 2 is Yameen), create a new scene: Cinematic semi-realistic digital illustration with a quiet, mysterious island-village mood, moonlit palette of deep indigo, silver-blue and sea-teal with warm amber lamplight accents at night and soft natural tropical light by day, gentle atmospheric haze, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and calm, uncluttered space at the bottom for a logo.\nScene: Shamaan sitting up on the edge of the bed in the dark bedroom, lifting his small crying toddler son Yameen into his arms and holding him close to his chest, Yameen's face scrunched in tears, Shamaan's tired face full of tender concern; the moonlit window behind them. Location: Shamaan's small bedroom in an old coral-stone island house late at night, whitewashed walls, a wooden double bed with a plain sheet and a thin blanket, a small wooden bedside table with a framed photo and a small dim lamp, a wooden-shuttered window with a thin pale curtain, a slow ceiling fan. Camera: medium shot, eye level, faces in the upper half, the bed sheet as a calm lower third.\nCharacters: Shamaan: a slim Maldivian man about 28 with warm brown skin, a lean oval face, soft dark brown eyes with a sad tired look, straight dark eyebrows, short slightly wavy neatly combed black hair and a short neatly trimmed black beard; wears a plain light-blue long-sleeved button shirt with sleeves rolled to the forearm and dark grey long trousers. Yameen: a small Maldivian toddler boy about 2 years old with warm brown skin, a round chubby face, big dark innocent eyes and soft short black curly hair; wears a small mustard-yellow short-sleeved t-shirt and light-grey long cotton pants.\nMood/lighting: late night, soft silver-blue moonlight from the window and a faint warm amber glow from the small bedside lamp, deep indigo shadows, quiet grief and tenderness.\nModest Maldivian clothing (women in loose long-sleeved ankle-length dresses with hijab fully covering hair and neck; men in shirts and long trousers or sarong), culturally respectful, no violence shown, no blood, no gore, no monsters, no horror creatures, no text, no letters, no writing, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.2,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 56.1,
+    "y_pct": 15.3,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_002",
+   "startMs": 14780,
+   "endMs": 47041,
+   "new_image_reason": "flashback: Shamaan's late wife Zihuna, who died two years into the marriage (hazy memory)",
+   "characters": [
+    "zihuna"
+   ],
+   "location": "a soft dreamlike memory of the sunny sandy yard of a coral-stone island house, a joali rope seat under a big leafy tree, flowering bougainvillea along the low wall",
+   "location_key": "memory_yard",
+   "mood": "a gentle warm golden daylight memory, soft blur and glowing haze at the edges, tender and wistful",
+   "visual": "a soft hazy memory of Zihuna standing alone in the sunny yard beside the joali under the big tree, smiling gently and shyly towards the viewer, her lilac dress and pale pink hijab glowing in soft golden light, the edges of the image dissolving into a warm blur",
+   "camera": "medium shot, eye level, soft focus, her face in the upper third, sand as a calm lower third",
+   "image": "images/beat_002.png",
+   "reuse_of": null,
+   "transition_in": "dissolve",
+   "sensitive": "other",
+   "safe_substitution": "her sudden death is never shown; only a soft smiling memory",
+   "ambience": "memory",
+   "shots": [
+    {
+     "id": "shot_003",
+     "startMs": 14780,
+     "endMs": 23610,
+     "narration_dhivehi": "އެއީ އޭނާގެ ދުނިޔޭގައި ހުރި ހަމައެކަނި ފުރާނައެވެ. އަނބިމީހާ ޒިހުނާ ނިޔާވުމަށްފަހު، އިތުރު ކައިވެންޏެއް ކުރުމުގެ ޚިޔާލެއް ޝަމްއާންގެ ނެތެވެ.",
+     "narration_english": "He is the only soul he has in this world. Since his wife Zihuna passed away, Shamaan has had no thought of marrying again.",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_004",
+     "startMs": 23610,
+     "endMs": 31660,
+     "narration_dhivehi": "އެ ކައިވެންޏަކީ އާއިލާގެ ނިންމުމަކަށް ވީނަމަވެސް، ޒިހުނާގެ މައްޗަށް އޭނާގެ ހިތުގައި ކޮންމެވެސް ވަރެއްގެ ލޯތްބެއް އުފެދިފައި އޮތެވެ.",
+     "narration_english": "Although that marriage had been the family's decision, some kind of love for Zihuna had grown in his heart.",
+     "crop": "tight",
+     "motion": "pan right",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.1,
+      24.3,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_005",
+     "startMs": 31660,
+     "endMs": 41011,
+     "narration_dhivehi": "ކައިވެންޏަށް ދެ އަހަރު ފުރުނުތަނާހެން ޒިހުނާ މި ދުނިޔެއާ ވަކިވީ، ޝަމްއާންގެ އަތްމައްޗަށް އަގުނުކުރެވޭ ފަދަ އަމާނާތެއް ކަމުގައިވާ ޔަމީން ދޫކޮށްފައެވެ.",
+     "narration_english": "Barely two years into the marriage Zihuna left this world, leaving Yameen in Shamaan's arms as a priceless trust.",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_006",
+     "startMs": 41011,
+     "endMs": 47041,
+     "narration_dhivehi": "ޒިހުނާއަށް ނުދެވުނު އަޅާލުމާއި ލޯބި، ދަރިފުޅަށް ފުރިހަމައަށް ދިނުމަކީ ޝަމްއާންގެ އެންމެ ބޮޑު އަޒުމެވެ.",
+     "narration_english": "To give his son, in full, the care and love Zihuna could not give him is Shamaan's greatest resolve.",
+     "crop": "medium",
+     "motion": "pan up",
+     "sfx": [],
+     "hum": true,
+     "crop_rect_pct": [
+      1.1,
+      15.3,
+      71.5,
+      84.7
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Zihuna), create a new scene: Cinematic semi-realistic digital illustration with a quiet, mysterious island-village mood, moonlit palette of deep indigo, silver-blue and sea-teal with warm amber lamplight accents at night and soft natural tropical light by day, gentle atmospheric haze, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and calm, uncluttered space at the bottom for a logo.\nScene: a soft hazy memory of Zihuna standing alone in the sunny yard beside the joali under the big tree, smiling gently and shyly towards the viewer, her lilac dress and pale pink hijab glowing in soft golden light, the edges of the image dissolving into a warm blur. Location: a soft dreamlike memory of the sunny sandy yard of a coral-stone island house, a joali rope seat under a big leafy tree, flowering bougainvillea along the low wall. Camera: medium shot, eye level, soft focus, her face in the upper third, sand as a calm lower third.\nCharacters: Zihuna: a slim Maldivian young woman in her early 20s with warm brown skin, a gentle oval face, large dark eyes and a warm shy smile; wears a loose long-sleeved ankle-length soft lilac dress and a pale pink hijab fully covering her hair and neck.\nMood/lighting: a gentle warm golden daylight memory, soft blur and glowing haze at the edges, tender and wistful.\nModest Maldivian clothing (women in loose long-sleeved ankle-length dresses with hijab fully covering hair and neck; men in shirts and long trousers or sarong), culturally respectful, no violence shown, no blood, no gore, no monsters, no horror creatures, no text, no letters, no writing, no watermark.",
+   "logo": {
+    "color": "black",
+    "bg_luminance": 0.862,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 36.8,
+    "y_pct": 59.5,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_003",
+   "startMs": 47041,
+   "endMs": 73881,
+   "new_image_reason": "scene change: island rumours of sorcery about Zihuna's sudden death",
+   "characters": [],
+   "location": "a narrow sandy lane of a small Maldivian island village at night, low coral-stone walls, small tin-roofed houses with a few warm lit windows, coconut palms and a big leafy tree, a joali seat beside a gate",
+   "location_key": "lane_night",
+   "mood": "night, deep indigo sky, moonlight through palm fronds, warm amber light from a few windows, hushed and uneasy",
+   "visual": "three or four island villagers, men in shirts and sarongs and women in long dresses with dark headscarves, standing close together in a small huddle on a dark sandy lane under a big tree, whispering, seen from a distance and partly from behind, one of them glancing over a shoulder towards a house with a single lit window",
+   "camera": "wide shot, eye level, figures small in the middle of the frame, the moonlit sandy lane as a calm lower third",
+   "image": "images/beat_003.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": "other",
+   "safe_substitution": "sorcery is only talked about; no rituals, amulets or symbols are shown, only whispering villagers at a distance",
+   "ambience": "village_night",
+   "shots": [
+    {
+     "id": "shot_007",
+     "startMs": 47041,
+     "endMs": 55791,
+     "narration_dhivehi": "ޒިހުނާގެ ކުއްލި ވަކިވުމާ ގުޅިގެން ރަށުތެރޭގައި ތަފާތު ވާހަކަތައް ދެކެވެމުން ދިޔައެވެ. ބައެއް މީހުން އެއީ ސިހުރުވެރިކަމެއްގެ ނަތީޖާ ކަމަށް ބުނާއިރު،",
+     "narration_english": "After Zihuna's sudden death, all kinds of talk went around the island. Some said it was the result of sorcery,",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_008",
+     "startMs": 55791,
+     "endMs": 64041,
+     "narration_dhivehi": "އަނެއް ބަޔަކު ގަބޫލުކުރަނީ އެއީ ޝަމްއާންއަށް އަމާޒުކޮށް ހަދާފައިވާ ފަންޑިތައެއްގެ ސަބަބުން ދިމާވި ކަމެއް ކަމަށެވެ. ނަމަވެސް،",
+     "narration_english": "while others believed it had happened because of fanditha magic aimed at Shamaan. But,",
+     "crop": "tight",
+     "motion": "pan down",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      40.6,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_009",
+     "startMs": 64041,
+     "endMs": 73881,
+     "narration_dhivehi": "ޒިހުނާގެ ހަށިގަނޑަށް އެއްވެސް ގެއްލުމެއް ލިބިފައި ނުވާކަން ޝަމްއާންއަށް ޔަގީންވެއެވެ. އަދި އޭނާއަށް އެފަދަ އާދަޔާޚިލާފު އެއްވެސް ކަމެއް ފާހަގަކުރެވިފައެއް ނުވެއެވެ.",
+     "narration_english": "Shamaan was certain that no harm had come to Zihuna's body, and he had noticed nothing unusual at all.",
+     "crop": "full",
+     "motion": "static drift",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Cinematic semi-realistic digital illustration with a quiet, mysterious island-village mood, moonlit palette of deep indigo, silver-blue and sea-teal with warm amber lamplight accents at night and soft natural tropical light by day, gentle atmospheric haze, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and calm, uncluttered space at the bottom for a logo.\nScene: three or four island villagers, men in shirts and sarongs and women in long dresses with dark headscarves, standing close together in a small huddle on a dark sandy lane under a big tree, whispering, seen from a distance and partly from behind, one of them glancing over a shoulder towards a house with a single lit window. Location: a narrow sandy lane of a small Maldivian island village at night, low coral-stone walls, small tin-roofed houses with a few warm lit windows, coconut palms and a big leafy tree, a joali seat beside a gate. Camera: wide shot, eye level, figures small in the middle of the frame, the moonlit sandy lane as a calm lower third.\nMood/lighting: night, deep indigo sky, moonlight through palm fronds, warm amber light from a few windows, hushed and uneasy.\nModest Maldivian clothing (women in loose long-sleeved ankle-length dresses with hijab fully covering hair and neck; men in shirts and long trousers or sarong), culturally respectful, no violence shown, no blood, no gore, no monsters, no horror creatures, no text, no letters, no writing, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.195,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 84.4,
+    "y_pct": 10.1,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_004",
+   "startMs": 73881,
+   "endMs": 101782,
+   "new_image_reason": "scene change: back in the bedroom, Shamaan lies awake beside the sleeping child",
+   "characters": [
+    "shamaan",
+    "yameen"
+   ],
+   "location": "Shamaan's small bedroom in an old coral-stone island house late at night, whitewashed walls, a wooden double bed with a plain sheet and a thin blanket, a small wooden bedside table with a framed photo and a small dim lamp, a wooden-shuttered window with a thin pale curtain, a slow ceiling fan",
+   "location_key": "bedroom",
+   "mood": "late night, soft silver-blue moonlight from the window and a faint warm amber glow from the small bedside lamp, deep indigo shadows, quiet grief and tenderness",
+   "visual": "Shamaan lying on his back on the bed, wide awake, staring up at the slowly turning ceiling fan with sad, troubled eyes; little Yameen asleep beside him under a thin blanket, his small face peaceful; silver moonlight across the bed",
+   "camera": "high angle looking down over the bed, Shamaan's face in the upper half",
+   "image": "images/beat_004.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "island_house_night",
+   "shots": [
+    {
+     "id": "shot_010",
+     "startMs": 73881,
+     "endMs": 80542,
+     "narration_dhivehi": "ޝަމްއާން އޭނާގެ ދަރިފުޅު ނިންދެވުމަށްފަހު، އަރާމުކޮށްލުމުގެ ނިޔަތުގައި އައިސް އެނދުގައި އޮށޯތެވެ. ނަމަވެސް،",
+     "narration_english": "After putting his son to sleep, Shamaan came and lay down on the bed, meaning to rest. But,",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_011",
+     "startMs": 80542,
+     "endMs": 91102,
+     "narration_dhivehi": "ކޮންމެ ރެއަކުވެސް އޭނާއަށް ނިދިލިބެނީ ވަރަށް މަދު ވަގުތުކޮޅަކަށެވެ. މިރޭވެސް ޝަމްއާންގެ ލޮލަކަށް ނިންޖެއް ނައެވެ. މާދަމާއަކީ އޮފީހަށް ނުކުންނަންޖެހޭ ދުވަހަކަށް ވީއިރު،",
+     "narration_english": "every night he gets only a very little sleep. Tonight too, sleep would not come to Shamaan's eyes. Though tomorrow was a day he had to go to the office,",
+     "crop": "tight",
+     "motion": "pan left",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      10.8,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_012",
+     "startMs": 91102,
+     "endMs": 101782,
+     "narration_dhivehi": "އޭނާގެ ސިކުނޑީގައި އެނބުރެމުންދަނީ ނުތަނަވަސް ޚިޔާލުތަކެކެވެ. ޒިހުނާ ފަދަ، އެއްވެސް މީހަކަށް އުނދަގުލެއް ނުކުރާ މައުސޫމް ކުއްޖަކު މަރާލަން ކެރޭނީ ކާކަށް ބާވައެވެ؟",
+     "narration_english": "uneasy thoughts were circling in his mind. Who could have dared to kill an innocent girl like Zihuna, who never troubled anyone?",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Shamaan; reference image 2 is Yameen), create a new scene: Cinematic semi-realistic digital illustration with a quiet, mysterious island-village mood, moonlit palette of deep indigo, silver-blue and sea-teal with warm amber lamplight accents at night and soft natural tropical light by day, gentle atmospheric haze, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and calm, uncluttered space at the bottom for a logo.\nScene: Shamaan lying on his back on the bed, wide awake, staring up at the slowly turning ceiling fan with sad, troubled eyes; little Yameen asleep beside him under a thin blanket, his small face peaceful; silver moonlight across the bed. Location: Shamaan's small bedroom in an old coral-stone island house late at night, whitewashed walls, a wooden double bed with a plain sheet and a thin blanket, a small wooden bedside table with a framed photo and a small dim lamp, a wooden-shuttered window with a thin pale curtain, a slow ceiling fan. Camera: high angle looking down over the bed, Shamaan's face in the upper half.\nCharacters: Shamaan: a slim Maldivian man about 28 with warm brown skin, a lean oval face, soft dark brown eyes with a sad tired look, straight dark eyebrows, short slightly wavy neatly combed black hair and a short neatly trimmed black beard; wears a plain light-blue long-sleeved button shirt with sleeves rolled to the forearm and dark grey long trousers. Yameen: a small Maldivian toddler boy about 2 years old with warm brown skin, a round chubby face, big dark innocent eyes and soft short black curly hair; wears a small mustard-yellow short-sleeved t-shirt and light-grey long cotton pants.\nMood/lighting: late night, soft silver-blue moonlight from the window and a faint warm amber glow from the small bedside lamp, deep indigo shadows, quiet grief and tenderness.\nModest Maldivian clothing (women in loose long-sleeved ankle-length dresses with hijab fully covering hair and neck; men in shirts and long trousers or sarong), culturally respectful, no violence shown, no blood, no gore, no monsters, no horror creatures, no text, no letters, no writing, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.161,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 40.5,
+    "y_pct": 29.8,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_005",
+   "startMs": 101782,
+   "endMs": 109092,
+   "new_image_reason": "return to the memory of Zihuna (her good character since school days)",
+   "characters": [],
+   "location": "a soft dreamlike memory of the sunny sandy yard of a coral-stone island house, a joali rope seat under a big leafy tree, flowering bougainvillea along the low wall",
+   "location_key": "memory_yard",
+   "mood": "a gentle warm golden daylight memory, soft blur and glowing haze at the edges, tender and wistful",
+   "visual": "reuse of the Zihuna memory",
+   "camera": "medium shot, eye level",
+   "image": "images/beat_002.png",
+   "reuse_of": "beat_002",
+   "transition_in": "dissolve",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "memory",
+   "shots": [
+    {
+     "id": "shot_013",
+     "startMs": 101782,
+     "endMs": 109092,
+     "narration_dhivehi": "ސްކޫލް ދައުރުން ފެށިގެންވެސް ޒިހުނާއަކީ މަޑުމައިތިރި، ރިވެތި އަޚުލާގުގެ ވެރި، ބުރުސޫރަ ރީތި ކުއްޖެކެވެ.",
+     "narration_english": "Ever since her school days Zihuna had been a calm girl of fine character, with a beautiful face.",
+     "crop": "medium",
+     "motion": "pan right",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      1.1,
+      15.3,
+      71.5,
+      84.7
+     ]
+    }
+   ],
+   "prompt_attempts": [],
+   "logo": {
+    "color": "black",
+    "bg_luminance": 0.853,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 36.8,
+    "y_pct": 59.5,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_006",
+   "startMs": 109092,
+   "endMs": 130783,
+   "new_image_reason": "flashback: before the arranged marriage Shamaan was with another girl, Nashwa",
+   "characters": [
+    "shamaan"
+   ],
+   "location": "a soft dreamlike memory of a quiet island beach, white sand, gentle turquoise lagoon, leaning coconut palms",
+   "location_key": "memory_beach",
+   "mood": "a hazy pale daylight memory, washed-out soft colours, gentle glow at the edges, bittersweet",
+   "visual": "a hazy memory of a younger Shamaan standing on the beach talking and smiling with a young woman in a long dark-green dress and black hijab (Nashwa); the two stand a clear arm's length apart facing each other, not touching, she seen in three-quarter view; washed-out soft colours",
+   "camera": "medium wide shot, eye level, both figures in the upper two-thirds, white sand as a calm lower third",
+   "image": "images/beat_006.png",
+   "reuse_of": null,
+   "transition_in": "dissolve",
+   "sensitive": "intimacy",
+   "safe_substitution": "the earlier romance is shown only as two people talking at arm's length, no touching",
+   "ambience": "memory",
+   "shots": [
+    {
+     "id": "shot_014",
+     "startMs": 109092,
+     "endMs": 116443,
+     "narration_dhivehi": "އެ ދުވަސްވަރު ޝަމްއާން ލޯބީގެ ގޮތުން ގުޅިގެން އުޅުނީ އެހެން ކުއްޖަކާއެވެ. އެ ކުއްޖާއަކީވެސް ބަސްއަހާ، ރަނގަޅު ކުއްޖެކެވެ.",
+     "narration_english": "In those days Shamaan was in a relationship with another girl. That girl, too, was an obedient, good girl.",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_015",
+     "startMs": 116443,
+     "endMs": 130783,
+     "narration_dhivehi": "ލޯބިވާ މީހެއްގެ ކިބައިން އުނިސިފައެއް ނުފެންނާނެކަން ޝަމްއާނަށްވެސް ގަބޫލުކުރެވެއެވެ. އެ ކުއްޖާއާ ކައިވެނިކުރުމުގެ ހުރިހާ ތައްޔާރީތަކެއް ނިމިފައިވަނިކޮށް، އާއިލާގެ ނިންމުމަށް ޝަމްއާނަށް މަޖުބޫރުވީ ޒިހުނާއާ ކައިވެނިކުރާށެވެ.",
+     "narration_english": "Shamaan himself admits that one sees no flaws in the person one loves. With every preparation for marrying that girl already done, the family's decision forced Shamaan to marry Zihuna.",
+     "crop": "tight",
+     "motion": "pan up",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      40.6,
+      21.3,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Shamaan), create a new scene: Cinematic semi-realistic digital illustration with a quiet, mysterious island-village mood, moonlit palette of deep indigo, silver-blue and sea-teal with warm amber lamplight accents at night and soft natural tropical light by day, gentle atmospheric haze, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and calm, uncluttered space at the bottom for a logo.\nScene: a hazy memory of a younger Shamaan standing on the beach talking and smiling with a young woman in a long dark-green dress and black hijab (Nashwa); the two stand a clear arm's length apart facing each other, not touching, she seen in three-quarter view; washed-out soft colours. Location: a soft dreamlike memory of a quiet island beach, white sand, gentle turquoise lagoon, leaning coconut palms. Camera: medium wide shot, eye level, both figures in the upper two-thirds, white sand as a calm lower third.\nCharacters: Shamaan: a slim Maldivian man about 28 with warm brown skin, a lean oval face, soft dark brown eyes with a sad tired look, straight dark eyebrows, short slightly wavy neatly combed black hair and a short neatly trimmed black beard; wears a plain light-blue long-sleeved button shirt with sleeves rolled to the forearm and dark grey long trousers.\nMood/lighting: a hazy pale daylight memory, washed-out soft colours, gentle glow at the edges, bittersweet.\nModest Maldivian clothing (women in loose long-sleeved ankle-length dresses with hijab fully covering hair and neck; men in shirts and long trousers or sarong), culturally respectful, no violence shown, no blood, no gore, no monsters, no horror creatures, no text, no letters, no writing, no watermark.",
+   "logo": {
+    "color": "black",
+    "bg_luminance": 0.785,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 89.4,
+    "y_pct": 56.5,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_007",
+   "startMs": 130783,
+   "endMs": 138243,
+   "new_image_reason": "back to the present: a frightening thought — did that girl turn to sorcery?",
+   "characters": [],
+   "location": "Shamaan's small bedroom in an old coral-stone island house late at night, whitewashed walls, a wooden double bed with a plain sheet and a thin blanket, a small wooden bedside table with a framed photo and a small dim lamp, a wooden-shuttered window with a thin pale curtain, a slow ceiling fan",
+   "location_key": "bedroom",
+   "mood": "late night, soft silver-blue moonlight from the window and a faint warm amber glow from the small bedside lamp, deep indigo shadows, quiet grief and tenderness",
+   "visual": "reuse of Shamaan lying awake",
+   "camera": "medium shot, eye level",
+   "image": "images/beat_004.png",
+   "reuse_of": "beat_004",
+   "transition_in": "dissolve",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "island_house_night",
+   "shots": [
+    {
+     "id": "shot_016",
+     "startMs": 130783,
+     "endMs": 138243,
+     "narration_dhivehi": "އެހެންނަމަވެސް، މިހާރު އޭނާގެ ހިތަށް އަރަމުންދަނީ ބިރުވެރި ޚިޔާލެކެވެ. އެ ކުއްޖާ ސިހުރުގެ އެހީ ހޯދާފާނެބާވައެވެ؟",
+     "narration_english": "Yet now a frightening thought was rising in his mind. Could that girl have sought the help of sorcery?",
+     "crop": "medium",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": true,
+     "crop_rect_pct": [
+      4.8,
+      0.0,
+      71.5,
+      84.7
+     ]
+    }
+   ],
+   "prompt_attempts": [],
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.173,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 40.5,
+    "y_pct": 29.8,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_008",
+   "startMs": 138243,
+   "endMs": 158674,
+   "new_image_reason": "action/character change: his mother opens the door; he quickly shuts his eyes and pretends to sleep",
+   "characters": [
+    "shamaan",
+    "sakeena",
+    "yameen"
+   ],
+   "location": "Shamaan's small bedroom in an old coral-stone island house late at night, whitewashed walls, a wooden double bed with a plain sheet and a thin blanket, a small wooden bedside table with a framed photo and a small dim lamp, a wooden-shuttered window with a thin pale curtain, a slow ceiling fan",
+   "location_key": "bedroom",
+   "mood": "late night, soft silver-blue moonlight from the window and a faint warm amber glow from the small bedside lamp, deep indigo shadows, quiet grief and tenderness",
+   "visual": "the bedroom door opening slowly, Sakeena standing in the doorway as a soft figure with warm corridor light behind her, looking in with concern; in the foreground Shamaan lying on the bed with his eyes shut, pretending to sleep, little Yameen asleep beside him",
+   "camera": "medium wide shot from the head of the bed towards the door, Sakeena in the upper half",
+   "image": "images/beat_008.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "island_house_night",
+   "shots": [
+    {
+     "id": "shot_017",
+     "startMs": 138243,
+     "endMs": 146923,
+     "narration_dhivehi": "މިފަދަ ފުން ޚިޔާލުތަކެއްގައި އޮއްވާ، ޝަމްއާން ސިހިގެން ދިޔައީ އޭނާގެ މަންމަ ކޮޓަރީގެ ދޮރު ހުޅުވައިލި އަޑަށެވެ. މަންމަ ހާސްވެދާނެތީ،",
+     "narration_english": "Lying deep in such thoughts, Shamaan was startled by the sound of his mother opening the bedroom door. Afraid his mother would worry,",
+     "crop": "full",
+     "motion": "pan down",
+     "sfx": [
+      {
+       "name": "door_open",
+       "atMs": 143763,
+       "gainDb": -18,
+       "word": "ހުޅުވައިލި"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_018",
+     "startMs": 146923,
+     "endMs": 158674,
+     "narration_dhivehi": "އޭނާ އަވަސްއަވަހަށް ލޯމަރައި ނިދާފައި އޮތްކަމަށް ހެދުނެވެ. ޝަމްއާން ވަޒީފާއަށްދާ ވަގުތުތަކުގައި، އޭނާގެ ދަރިފުޅު ޔަމީންގެ ހުރިހާ ކަމެއް ލޯތްބާއެކު ބަލަހައްޓައިދެނީ މަންމަ ސަކީނާއެވެ.",
+     "narration_english": "he quickly shut his eyes and pretended to be asleep. While Shamaan is at work, it is his mother Sakeena who lovingly looks after everything for his son Yameen.",
+     "crop": "tight",
+     "motion": "static drift",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      15.8,
+      0.0,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Shamaan; reference image 2 is Sakeena; reference image 3 is Yameen), create a new scene: Cinematic semi-realistic digital illustration with a quiet, mysterious island-village mood, moonlit palette of deep indigo, silver-blue and sea-teal with warm amber lamplight accents at night and soft natural tropical light by day, gentle atmospheric haze, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and calm, uncluttered space at the bottom for a logo.\nScene: the bedroom door opening slowly, Sakeena standing in the doorway as a soft figure with warm corridor light behind her, looking in with concern; in the foreground Shamaan lying on the bed with his eyes shut, pretending to sleep, little Yameen asleep beside him. Location: Shamaan's small bedroom in an old coral-stone island house late at night, whitewashed walls, a wooden double bed with a plain sheet and a thin blanket, a small wooden bedside table with a framed photo and a small dim lamp, a wooden-shuttered window with a thin pale curtain, a slow ceiling fan. Camera: medium wide shot from the head of the bed towards the door, Sakeena in the upper half.\nCharacters: Shamaan: a slim Maldivian man about 28 with warm brown skin, a lean oval face, soft dark brown eyes with a sad tired look, straight dark eyebrows, short slightly wavy neatly combed black hair and a short neatly trimmed black beard; wears a plain light-blue long-sleeved button shirt with sleeves rolled to the forearm and dark grey long trousers. Sakeena: a short plump Maldivian woman in her mid 50s with warm brown skin, a round kind face with soft wrinkles and worried dark eyes; wears a loose long-sleeved ankle-length maroon traditional Maldivian dress with a thin gold-thread neckline band and a soft beige headscarf fully covering her hair and neck. Yameen: a small Maldivian toddler boy about 2 years old with warm brown skin, a round chubby face, big dark innocent eyes and soft short black curly hair; wears a small mustard-yellow short-sleeved t-shirt and light-grey long cotton pants.\nMood/lighting: late night, soft silver-blue moonlight from the window and a faint warm amber glow from the small bedside lamp, deep indigo shadows, quiet grief and tenderness.\nModest Maldivian clothing (women in loose long-sleeved ankle-length dresses with hijab fully covering hair and neck; men in shirts and long trousers or sarong), culturally respectful, no violence shown, no blood, no gore, no monsters, no horror creatures, no text, no letters, no writing, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.222,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 45.5,
+    "y_pct": 21.4,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_009",
+   "startMs": 158674,
+   "endMs": 195285,
+   "new_image_reason": "action change: Sakeena comes to the bed, tucks Yameen's blanket and weeps quietly",
+   "characters": [
+    "sakeena",
+    "yameen",
+    "shamaan"
+   ],
+   "location": "Shamaan's small bedroom in an old coral-stone island house late at night, whitewashed walls, a wooden double bed with a plain sheet and a thin blanket, a small wooden bedside table with a framed photo and a small dim lamp, a wooden-shuttered window with a thin pale curtain, a slow ceiling fan",
+   "location_key": "bedroom",
+   "mood": "late night, soft silver-blue moonlight from the window and a faint warm amber glow from the small bedside lamp, deep indigo shadows, quiet grief and tenderness",
+   "visual": "Sakeena bending over the bed, gently straightening the thin blanket over sleeping little Yameen, a tear on her cheek, her worried loving eyes on the child's innocent face; Shamaan lying behind with his eyes closed; soft moonlight and a faint amber lamp glow",
+   "camera": "medium shot, eye level, Sakeena's face in the upper third",
+   "image": "images/beat_009.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "island_house_night",
+   "shots": [
+    {
+     "id": "shot_019",
+     "startMs": 158674,
+     "endMs": 167334,
+     "narration_dhivehi": "ޝަމްއާންގެ މަންމަ ސަކީނާ މަޑުމަޑުން ކޮޓަރިއަށް ވަދެ، ޝަމްއާނާއި ކުޑަކުޑަ ޔަމީން ނިދާފައި ތިބިތޯ ބަލައިލިއެވެ. ޒިހުނާގެ ވަކިވުމަށްފަހު،",
+     "narration_english": "Shamaan's mother Sakeena quietly came into the room and checked whether Shamaan and little Yameen were asleep. Since Zihuna's death,",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [
+      {
+       "name": "footsteps_pavement",
+       "atMs": 161164,
+       "gainDb": -24,
+       "word": "ވަދެ،"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_020",
+     "startMs": 167334,
+     "endMs": 177794,
+     "narration_dhivehi": "އެ ގޭތެރެއިން ފެންނަނީ ފަޅުކަމާއި މާޔޫސްކަމެވެ. ކުރިން ހިނިތުންވުމާއި އުފާވެރިކަމުން ފުރިފައި އޮތް އެ ކުޑަކުޑަ އާއިލާގެ ތެރެއަށް މިއަދު ވަނީ ހިމޭންކަން ވެރިވެފައެވެ.",
+     "narration_english": "emptiness and despair are all one sees in that house. Silence now reigns over the little family that was once full of smiles and joy.",
+     "crop": "tight",
+     "motion": "pan left",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      20.3,
+      4.8,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_021",
+     "startMs": 177794,
+     "endMs": 185274,
+     "narration_dhivehi": "ސަކީނާ އައިސް ޔަމީންގެ ގައިގައި އަޅާފައި އޮތް ރަޖާގަނޑު ރަނގަޅުކޮށްލުމަށްފަހު، ފުން ނޭވާއެއް ދޫކޮށްލިއެވެ.",
+     "narration_english": "Sakeena came over, straightened the blanket covering Yameen, and let out a deep breath.",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [
+      {
+       "name": "cloth_rustle",
+       "atMs": 181504,
+       "gainDb": -24,
+       "word": "ރަނގަޅުކޮށްލުމަށްފަހު،"
+      },
+      {
+       "name": "sigh",
+       "atMs": 183444,
+       "gainDb": -20,
+       "word": "ނޭވާއެއް"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_022",
+     "startMs": 185274,
+     "endMs": 195285,
+     "narration_dhivehi": "އެ މައުސޫމް މޫނަށް ބަލައިލުމުން ސަކީނާގެ ލޮލުން ކަރުނަ ހިލުނެވެ. މަންމައެއްގެ ލޯތްބަށް ފެންބޮވައިގަނެފައިވާ އެ ތުއްތު ކުއްޖާގެ މުސްތަގުބަލާ މެދު އޭނާގެ ހިތް ބިރުގަނެއެވެ.",
+     "narration_english": "Looking at that innocent face, tears welled in Sakeena's eyes. Her heart was afraid for the future of this little child, starved of a mother's love.",
+     "crop": "medium",
+     "motion": "pan right",
+     "sfx": [],
+     "hum": true,
+     "crop_rect_pct": [
+      14.2,
+      0.0,
+      71.5,
+      84.7
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "refused",
+     "rewrite_reason": null
+    },
+    {
+     "attempt": 2,
+     "result": "ok",
+     "rewrite_reason": "refused: removed trigger words, neutral emotion/setting wording"
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing, create a new scene: Cinematic semi-realistic digital illustration with a quiet, mysterious island-village mood, moonlit palette of deep indigo, silver-blue and sea-teal with warm amber lamplight accents at night and soft natural tropical light by day, gentle atmospheric haze, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and calm, uncluttered space at the bottom for a logo.\nScene: Sakeena bending over the , gently straightening the thin blanket over sleeping little Yameen, a on her cheek, her worried loving eyes on the child's innocent face; Shamaan lying behind with his eyes closed; soft moonlight and a faint amber lamp glow, calm and emotional. Location: Shamaan's small bedroom in an old coral-stone island house late at night, whitewashed walls, a wooden double bed with a plain sheet and a thin blanket, a small wooden bedside table with a framed photo and a small dim lamp, a wooden-shuttered window with a thin pale curtain, a slow ceiling fan. Camera: medium shot, eye level, Sakeena's face in the upper third.\nCharacters: Sakeena: a short plump Maldivian woman in her mid 50s with warm brown skin, a round kind face with soft wrinkles and worried dark eyes; wears a loose long-sleeved ankle-length maroon traditional Maldivian dress with a thin gold-thread neckline band and a soft beige headscarf fully covering her hair and neck. Yameen: a small Maldivian toddler boy about 2 years old with warm brown skin, a round chubby face, big dark innocent eyes and soft short black curly hair; wears a small mustard-yellow short-sleeved t-shirt and light-grey long cotton pants. Shamaan: a slim Maldivian man about 28 with warm brown skin, a lean oval face, soft dark brown eyes with a sad tired look, straight dark eyebrows, short slightly wavy neatly combed black hair and a short neatly trimmed black beard; wears a plain light-blue long-sleeved button shirt with sleeves rolled to the forearm and dark grey long trousers.\nMood/lighting: late night, soft silver-blue moonlight from the window and a faint warm amber glow from the small bedside lamp, deep indigo shadows, quiet grief and tenderness.\nModest Maldivian clothing (women in loose long-sleeved ankle-length dresses with hijab fully covering hair and neck; men in shirts and long trousers or sarong), culturally respectful, no violence shown, no blood, no gore, no monsters, no horror creatures, no text, no letters, no writing, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.226,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 50.0,
+    "y_pct": 40.0,
+    "face_detected": false
+   }
+  },
+  {
+   "id": "beat_010",
+   "startMs": 195285,
+   "endMs": 212965,
+   "new_image_reason": "flashback: the happy memories of married life with Zihuna",
+   "characters": [
+    "shamaan",
+    "zihuna"
+   ],
+   "location": "a soft dreamlike memory of a quiet island beach, white sand, gentle turquoise lagoon, leaning coconut palms",
+   "location_key": "memory_beach",
+   "mood": "a hazy pale daylight memory, washed-out soft colours, gentle glow at the edges, bittersweet",
+   "visual": "a soft hazy memory of Shamaan and his wife Zihuna walking side by side along the water's edge at sunset, both smiling and talking, fully clothed and modest, a little space between them, warm golden haze dissolving at the edges",
+   "camera": "medium wide shot from the side, the couple in the upper half, wet sand and gentle foam as a calm lower third",
+   "image": "images/beat_010.png",
+   "reuse_of": null,
+   "transition_in": "dissolve",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "memory",
+   "shots": [
+    {
+     "id": "shot_023",
+     "startMs": 195285,
+     "endMs": 202715,
+     "narration_dhivehi": "ޝަމްއާން ނިދާފައި އޮތްކަމަށް ހެދިގެން އޮތް ނަމަވެސް، އޭނާގެ ހިތުގެ ތެޅުމަށް ބަދަލެއް ނާދެއެވެ. ލޯ މަރައިގެން އޮތް އިރު،",
+     "narration_english": "Though Shamaan lay pretending to be asleep, the trembling of his heart did not change. As he lay with his eyes closed,",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_024",
+     "startMs": 202715,
+     "endMs": 212965,
+     "narration_dhivehi": "އޭނާގެ ސިކުނޑީގައި އެނބުރެމުން ދަނީ ޒިހުނާއާއެކު ހޭދަކުރި އުފާވެރި ހަނދާންތަކެވެ. ސަކީނާ ކޮޓަރިން ނުކުމެގެން ދިޔުމުން، ޝަމްއާން މަޑުމަޑުން ލޯ ހުޅުވައިލިއެވެ.",
+     "narration_english": "happy memories of the time spent with Zihuna were circling in his mind. When Sakeena left the room, Shamaan slowly opened his eyes.",
+     "crop": "tight",
+     "motion": "pan up",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      5.6,
+      0.0,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Shamaan; reference image 2 is Zihuna), create a new scene: Cinematic semi-realistic digital illustration with a quiet, mysterious island-village mood, moonlit palette of deep indigo, silver-blue and sea-teal with warm amber lamplight accents at night and soft natural tropical light by day, gentle atmospheric haze, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and calm, uncluttered space at the bottom for a logo.\nScene: a soft hazy memory of Shamaan and his wife Zihuna walking side by side along the water's edge at sunset, both smiling and talking, fully clothed and modest, a little space between them, warm golden haze dissolving at the edges. Location: a soft dreamlike memory of a quiet island beach, white sand, gentle turquoise lagoon, leaning coconut palms. Camera: medium wide shot from the side, the couple in the upper half, wet sand and gentle foam as a calm lower third.\nCharacters: Shamaan: a slim Maldivian man about 28 with warm brown skin, a lean oval face, soft dark brown eyes with a sad tired look, straight dark eyebrows, short slightly wavy neatly combed black hair and a short neatly trimmed black beard; wears a plain light-blue long-sleeved button shirt with sleeves rolled to the forearm and dark grey long trousers. Zihuna: a slim Maldivian young woman in her early 20s with warm brown skin, a gentle oval face, large dark eyes and a warm shy smile; wears a loose long-sleeved ankle-length soft lilac dress and a pale pink hijab fully covering her hair and neck.\nMood/lighting: a hazy pale daylight memory, washed-out soft colours, gentle glow at the edges, bittersweet.\nModest Maldivian clothing (women in loose long-sleeved ankle-length dresses with hijab fully covering hair and neck; men in shirts and long trousers or sarong), culturally respectful, no violence shown, no blood, no gore, no monsters, no horror creatures, no text, no letters, no writing, no watermark.",
+   "logo": {
+    "color": "black",
+    "bg_luminance": 0.641,
+    "halo": true
+   },
+   "focus": {
+    "x_pct": 35.4,
+    "y_pct": 18.0,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_011",
+   "startMs": 212965,
+   "endMs": 229076,
+   "new_image_reason": "new framing: he opens his eyes and looks at Zihuna's photo on the bedside table",
+   "characters": [
+    "shamaan",
+    "zihuna"
+   ],
+   "location": "Shamaan's small bedroom in an old coral-stone island house late at night, whitewashed walls, a wooden double bed with a plain sheet and a thin blanket, a small wooden bedside table with a framed photo and a small dim lamp, a wooden-shuttered window with a thin pale curtain, a slow ceiling fan",
+   "location_key": "bedroom",
+   "mood": "late night, soft silver-blue moonlight from the window and a faint warm amber glow from the small bedside lamp, deep indigo shadows, quiet grief and tenderness",
+   "visual": "close-up of a simple wooden-framed photograph standing on the small bedside table in dim light, the photo shows Zihuna smiling gently in her pale pink hijab; behind it, softly out of focus, Shamaan lying on his side on the pillow gazing at the photo with sad wet eyes; Zihuna appears ONLY inside the photo frame",
+   "camera": "close-up, shallow depth of field, the photo frame in the upper half, the table top as a calm lower third",
+   "image": "images/beat_011.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": "other",
+   "safe_substitution": "the late wife is shown only as a smiling framed photo",
+   "ambience": "island_house_night",
+   "shots": [
+    {
+     "id": "shot_025",
+     "startMs": 212965,
+     "endMs": 219965,
+     "narration_dhivehi": "ކޮޓަރީގެ ފަނޑު އަލީގެ ތެރެއިން އޭނާ ބަލައިލީ އެނދުކައިރީގައި ހުރި މޭޒުމަތީގައި ހުރި ޒިހުނާގެ ފޮޓޯއަށެވެ.",
+     "narration_english": "In the dim light of the room he looked at Zihuna's photo on the table beside the bed.",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_026",
+     "startMs": 219965,
+     "endMs": 229076,
+     "narration_dhivehi": "އެ ހިނިތުންވުމަކީ ދެން ދުވަހަކުވެސް އޭނާގެ ދިރިއުޅުމުން ފެންނާނެ އެއްޗެއް ނޫންކަން އިހުސާސްވުމުން، ހިތުގެ އެންމެ ފުންމިނުން ރިހުމެއް އުފެދުނެވެ.",
+     "narration_english": "Realising that this smile would never again be seen in his life, a pain rose from the very depths of his heart.",
+     "crop": "tight",
+     "motion": "pan down",
+     "sfx": [],
+     "hum": true,
+     "crop_rect_pct": [
+      0.0,
+      15.0,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Shamaan; reference image 2 is Zihuna), create a new scene: Cinematic semi-realistic digital illustration with a quiet, mysterious island-village mood, moonlit palette of deep indigo, silver-blue and sea-teal with warm amber lamplight accents at night and soft natural tropical light by day, gentle atmospheric haze, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and calm, uncluttered space at the bottom for a logo.\nScene: close-up of a simple wooden-framed photograph standing on the small bedside table in dim light, the photo shows Zihuna smiling gently in her pale pink hijab; behind it, softly out of focus, Shamaan lying on his side on the pillow gazing at the photo with sad wet eyes; Zihuna appears ONLY inside the photo frame. Location: Shamaan's small bedroom in an old coral-stone island house late at night, whitewashed walls, a wooden double bed with a plain sheet and a thin blanket, a small wooden bedside table with a framed photo and a small dim lamp, a wooden-shuttered window with a thin pale curtain, a slow ceiling fan. Camera: close-up, shallow depth of field, the photo frame in the upper half, the table top as a calm lower third.\nCharacters: Shamaan: a slim Maldivian man about 28 with warm brown skin, a lean oval face, soft dark brown eyes with a sad tired look, straight dark eyebrows, short slightly wavy neatly combed black hair and a short neatly trimmed black beard; wears a plain light-blue long-sleeved button shirt with sleeves rolled to the forearm and dark grey long trousers. Zihuna: a slim Maldivian young woman in her early 20s with warm brown skin, a gentle oval face, large dark eyes and a warm shy smile; wears a loose long-sleeved ankle-length soft lilac dress and a pale pink hijab fully covering her hair and neck.\nMood/lighting: late night, soft silver-blue moonlight from the window and a faint warm amber glow from the small bedside lamp, deep indigo shadows, quiet grief and tenderness.\nModest Maldivian clothing (women in loose long-sleeved ankle-length dresses with hijab fully covering hair and neck; men in shirts and long trousers or sarong), culturally respectful, no violence shown, no blood, no gore, no monsters, no horror creatures, no text, no letters, no writing, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.112,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 21.6,
+    "y_pct": 50.2,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_012",
+   "startMs": 229076,
+   "endMs": 270797,
+   "new_image_reason": "action change: Shamaan holds sleeping Yameen's tiny hand and whispers his promise",
+   "characters": [
+    "shamaan",
+    "yameen"
+   ],
+   "location": "Shamaan's small bedroom in an old coral-stone island house late at night, whitewashed walls, a wooden double bed with a plain sheet and a thin blanket, a small wooden bedside table with a framed photo and a small dim lamp, a wooden-shuttered window with a thin pale curtain, a slow ceiling fan",
+   "location_key": "bedroom",
+   "mood": "late night, soft silver-blue moonlight from the window and a faint warm amber glow from the small bedside lamp, deep indigo shadows, quiet grief and tenderness",
+   "visual": "Shamaan lying on his side facing his sleeping toddler son, his large hand gently holding Yameen's tiny hand on the pillow, his eyes wet with tears but his face set in loving determination, whispering; Yameen asleep peacefully",
+   "camera": "close two-shot, slightly above, both faces in the upper half, the sheet as a calm lower third",
+   "image": "images/beat_012.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "island_house_night",
+   "shots": [
+    {
+     "id": "shot_027",
+     "startMs": 229076,
+     "endMs": 241546,
+     "narration_dhivehi": "ކައިރީގައި ނިދާފައި އޮތް ޔަމީންގެ ކުޑަކުޑަ އަތްތިލައިގައި ޝަމްއާން ހިފަހައްޓާލިއެވެ \"ދަރިފުޅާ... ބައްޕަ ދުވަހަކުވެސް ދަރިފުޅު އެކަނިވިޔަކަ ނުދޭނަން\" ޝަމްއާންގެ އަޑު ބޭރުވީ ވަރަށް އުނދަގުލުންނެވެ.",
+     "narration_english": "Shamaan held the tiny palm of Yameen, asleep beside him. \"My son... your father will never let you be alone.\" Shamaan's voice came out with great difficulty.",
+     "crop": "full",
+     "motion": "static drift",
+     "sfx": [],
+     "hum": true,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_028",
+     "startMs": 241546,
+     "endMs": 251686,
+     "narration_dhivehi": "ޒިހުނާ ވަކިވެގެން ދިޔައީ ކުއްލިއަކަށެވެ. އެއީ މުޅި އާއިލާއަށް ލިބުނު ބޮޑު ސިހުމެކެވެ. ސަކީނާގެ އެހީތެރިކަމާއެކު ދިރިއުޅުން ކުރިއަށް ގެންދަން މަސައްކަތް ކުރި ނަމަވެސް،",
+     "narration_english": "Zihuna's passing was sudden. It was a great shock to the whole family. Though he tried to carry on with life with Sakeena's help,",
+     "crop": "tight",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      20.3,
+      4.8,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_029",
+     "startMs": 251686,
+     "endMs": 260636,
+     "narration_dhivehi": "ކޮންމެ ދުވަހަކު އިރުއަރަނީ ޒިހުނާގެ ހަނދާންތަކުން ޝަމްއާންގެ ހިތް ކޮށަމުންނެވެ. ނަމަވެސް، ޔަމީންގެ މޫނަށް ބަލައިލާ ކޮންމެ ފަހަރަކު،",
+     "narration_english": "every day the sun rose with memories of Zihuna scraping at Shamaan's heart. But every time he looked at Yameen's face,",
+     "crop": "full",
+     "motion": "pan left",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_030",
+     "startMs": 260636,
+     "endMs": 270797,
+     "narration_dhivehi": "ހިތްވަރުކޮށްފައި ތެދުވުމުގެ ބާރު އޭނާއަށް ލިބެއެވެ. އެއީ ޒިހުނާ ދޫކޮށްފައި ދިޔަ އެންމެ އަގުބޮޑު އަމާނާތެވެ. އެވަގުތު ކޮޓަރީގެ ކުޑަދޮރުން ވަން ފިނި ރޯޅިއަކާއެކު،",
+     "narration_english": "he found the strength to pull himself together and rise. He is the most precious trust Zihuna left behind. At that moment, with a cold wind coming in through the bedroom window,",
+     "crop": "medium",
+     "motion": "slow pull-out",
+     "sfx": [
+      {
+       "name": "wind_gust",
+       "atMs": 269567,
+       "gainDb": -18,
+       "word": "ރޯޅިއަކާއެކު،"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      14.2,
+      0.0,
+      71.5,
+      84.7
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "refused",
+     "rewrite_reason": null
+    },
+    {
+     "attempt": 2,
+     "result": "ok",
+     "rewrite_reason": "refused: removed trigger words, neutral emotion/setting wording"
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing, create a new scene: Cinematic semi-realistic digital illustration with a quiet, mysterious island-village mood, moonlit palette of deep indigo, silver-blue and sea-teal with warm amber lamplight accents at night and soft natural tropical light by day, gentle atmospheric haze, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and calm, uncluttered space at the bottom for a logo.\nScene: Shamaan lying on his side facing his sleeping toddler son, his large hand gently holding Yameen's tiny hand on the pillow, his eyes wet with but his face set in loving determination, whispering; Yameen asleep peacefully, calm and emotional. Location: Shamaan's small bedroom in an old coral-stone island house late at night, whitewashed walls, a wooden double bed with a plain sheet and a thin blanket, a small wooden bedside table with a framed photo and a small dim lamp, a wooden-shuttered window with a thin pale curtain, a slow ceiling fan. Camera: close two-shot, slightly above, both faces in the upper half, the sheet as a calm lower third.\nCharacters: Shamaan: a slim Maldivian man about 28 with warm brown skin, a lean oval face, soft dark brown eyes with a sad tired look, straight dark eyebrows, short slightly wavy neatly combed black hair and a short neatly trimmed black beard; wears a plain light-blue long-sleeved button shirt with sleeves rolled to the forearm and dark grey long trousers. Yameen: a small Maldivian toddler boy about 2 years old with warm brown skin, a round chubby face, big dark innocent eyes and soft short black curly hair; wears a small mustard-yellow short-sleeved t-shirt and light-grey long cotton pants.\nMood/lighting: late night, soft silver-blue moonlight from the window and a faint warm amber glow from the small bedside lamp, deep indigo shadows, quiet grief and tenderness.\nModest Maldivian clothing (women in loose long-sleeved ankle-length dresses with hijab fully covering hair and neck; men in shirts and long trousers or sarong), culturally respectful, no violence shown, no blood, no gore, no monsters, no horror creatures, no text, no letters, no writing, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.344,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 50.0,
+    "y_pct": 40.0,
+    "face_detected": false
+   }
+  },
+  {
+   "id": "beat_013",
+   "startMs": 270797,
+   "endMs": 285147,
+   "new_image_reason": "new detail: a cold wind blows in through the window; an ominous atmosphere",
+   "characters": [],
+   "location": "the wooden-shuttered window of the island bedroom at night, looking out over a sandy yard with coconut palms and a big leafy tree under heavy dark clouds and a hidden moon",
+   "location_key": "window_night",
+   "mood": "windy night, heavy dark clouds rolling across the sky, silver moonlight breaking through, palms bending in the strong wind, eerie and ominous",
+   "visual": "the bedroom window seen from inside, the thin pale curtain blowing inward in a cold gust of wind, outside coconut palms bending under heavy dark rolling clouds lit by a hidden moon, no people",
+   "camera": "medium shot of the window, eye level, the dark wooden window sill as a calm lower third",
+   "image": "images/beat_013.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "night_exterior",
+   "shots": [
+    {
+     "id": "shot_031",
+     "startMs": 270797,
+     "endMs": 278507,
+     "narration_dhivehi": "މުޅި މާހައުލަށް ނާމާންކަމެއް ވެރިވެގެން ދިޔަ ކަހަލައެވެ. ޝަމްއާންގެ ހަނދާނަށް އަންނަމުންދިޔައީ އޭނާގެ ކުރީގެ ލޯބިވެރިޔާއެވެ.",
+     "narration_english": "it was as if an ominous feeling settled over everything. What came to Shamaan's mind was his former love.",
+     "crop": "full",
+     "motion": "pan right",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_032",
+     "startMs": 278507,
+     "endMs": 285147,
+     "narration_dhivehi": "އެ ދުވަސްވަރު އެކުއްޖާ ދެއްކި ވާހަކަތަކާއި، ކައިވެނި ހުއްޓުމުން ކުރި އިންޒާރުތައް ސިކުނޑީގައި ގުގުމަން ފެށިއެވެ.",
+     "narration_english": "The things that girl had said in those days, and the warnings she made when the marriage was called off, began to echo in his mind.",
+     "crop": "tight",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      20.3,
+      4.8,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Cinematic semi-realistic digital illustration with a quiet, mysterious island-village mood, moonlit palette of deep indigo, silver-blue and sea-teal with warm amber lamplight accents at night and soft natural tropical light by day, gentle atmospheric haze, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and calm, uncluttered space at the bottom for a logo.\nScene: the bedroom window seen from inside, the thin pale curtain blowing inward in a cold gust of wind, outside coconut palms bending under heavy dark rolling clouds lit by a hidden moon, no people. Location: the wooden-shuttered window of the island bedroom at night, looking out over a sandy yard with coconut palms and a big leafy tree under heavy dark clouds and a hidden moon. Camera: medium shot of the window, eye level, the dark wooden window sill as a calm lower third.\nMood/lighting: windy night, heavy dark clouds rolling across the sky, silver moonlight breaking through, palms bending in the strong wind, eerie and ominous.\nModest Maldivian clothing (women in loose long-sleeved ankle-length dresses with hijab fully covering hair and neck; men in shirts and long trousers or sarong), culturally respectful, no violence shown, no blood, no gore, no monsters, no horror creatures, no text, no letters, no writing, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.059,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 50.0,
+    "y_pct": 40.0,
+    "face_detected": false
+   }
+  },
+  {
+   "id": "beat_014",
+   "startMs": 285147,
+   "endMs": 323458,
+   "new_image_reason": "new framing: in the darkness he pictures Zihuna's last innocent smile and resolves to find the truth",
+   "characters": [
+    "shamaan",
+    "zihuna"
+   ],
+   "location": "Shamaan's small bedroom in an old coral-stone island house late at night, whitewashed walls, a wooden double bed with a plain sheet and a thin blanket, a small wooden bedside table with a framed photo and a small dim lamp, a wooden-shuttered window with a thin pale curtain, a slow ceiling fan",
+   "location_key": "bedroom",
+   "mood": "late night, soft silver-blue moonlight from the window and a faint warm amber glow from the small bedside lamp, deep indigo shadows, quiet grief and tenderness",
+   "visual": "Shamaan lying in the dark room with his eyes open, his face turned up, thoughtful and resolved; above him in the darkness, like soft glowing mist, a faint translucent dreamlike memory of Zihuna's gentle smiling face in her pale pink hijab fading into the shadows",
+   "camera": "medium close-up from above, Shamaan's face in the middle third, the faint memory face in the upper third",
+   "image": "images/beat_014.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": "other",
+   "safe_substitution": "Zihuna only as a faint hazy memory, never as a body",
+   "ambience": "island_house_night",
+   "shots": [
+    {
+     "id": "shot_033",
+     "startMs": 285147,
+     "endMs": 295947,
+     "narration_dhivehi": "ސަކީނާ ކޮޓަރިން ނުކުމެގެން ދިޔަ އަޑަށް ޝަމްއާން މަޑުމަޑުން ލޯ ހުޅުވައިލިއެވެ. ކޮޓަރީގެ އަނދިރިކަމުގެ ތެރެއިން އޭނާއަށް ސިފަވަމުންދިޔައީ ޒިހުނާގެ އެންމެ ފަހުގެ ހިނިތުންވުމެވެ.",
+     "narration_english": "Hearing Sakeena leave the room, Shamaan slowly opened his eyes. In the darkness of the room he kept seeing Zihuna's last smile.",
+     "crop": "full",
+     "motion": "pan up",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_034",
+     "startMs": 295947,
+     "endMs": 309668,
+     "narration_dhivehi": "އެ މައުސޫމް ހިނިތުންވުމުގެ ފަހަތުގައި ފޮރުވިފައިވަނީ ކޮންފަދަ ސިއްރުތަކެއްކަމެއް އޭނާއަކަށް ނޭނގެއެވެ. ނަމަވެސް އެނގޭހާވެސް ކަމަކީ، އޭނާގެ ދިރިއުޅުމަށް އައި މި ބޮޑު ތޫފާނުގެ އަސްލު ހޯދަން މަސައްކަތްކުރަން ޖެހޭނެކަމެވެ.",
+     "narration_english": "He does not know what secrets were hidden behind that innocent smile. But one thing he knows: he must work to find the root of this great storm that has come into his life.",
+     "crop": "tight",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      1.9,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_035",
+     "startMs": 309668,
+     "endMs": 323458,
+     "narration_dhivehi": "ދަރިފުޅު ޔަމީންގެ ހައްގުގައިވެސް، ހަގީގަތް ހޯދުމަކީ މިއަދު އޭނާގެ މައްޗަށް އޮތް ޒިންމާއެކެވެ. އުޑުމަތީގައި ބޯވަމުންދިޔަ ކަޅު ވިލާތަކެކޭ އެއްފަދައިން، ޝަމްއާންގެ ހިތުގައި އުފެދިފައިވާ ޝައްކުތައްވެސް ދިޔައީ އިތުރުވަމުންނެވެ.",
+     "narration_english": "For his son Yameen's sake as well, finding the truth is now his duty. Like the dark clouds gathering in the sky, the doubts in Shamaan's heart kept growing.",
+     "crop": "full",
+     "motion": "pan down",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Shamaan; reference image 2 is Zihuna), create a new scene: Cinematic semi-realistic digital illustration with a quiet, mysterious island-village mood, moonlit palette of deep indigo, silver-blue and sea-teal with warm amber lamplight accents at night and soft natural tropical light by day, gentle atmospheric haze, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and calm, uncluttered space at the bottom for a logo.\nScene: Shamaan lying in the dark room with his eyes open, his face turned up, thoughtful and resolved; above him in the darkness, like soft glowing mist, a faint translucent dreamlike memory of Zihuna's gentle smiling face in her pale pink hijab fading into the shadows. Location: Shamaan's small bedroom in an old coral-stone island house late at night, whitewashed walls, a wooden double bed with a plain sheet and a thin blanket, a small wooden bedside table with a framed photo and a small dim lamp, a wooden-shuttered window with a thin pale curtain, a slow ceiling fan. Camera: medium close-up from above, Shamaan's face in the middle third, the faint memory face in the upper third.\nCharacters: Shamaan: a slim Maldivian man about 28 with warm brown skin, a lean oval face, soft dark brown eyes with a sad tired look, straight dark eyebrows, short slightly wavy neatly combed black hair and a short neatly trimmed black beard; wears a plain light-blue long-sleeved button shirt with sleeves rolled to the forearm and dark grey long trousers. Zihuna: a slim Maldivian young woman in her early 20s with warm brown skin, a gentle oval face, large dark eyes and a warm shy smile; wears a loose long-sleeved ankle-length soft lilac dress and a pale pink hijab fully covering her hair and neck.\nMood/lighting: late night, soft silver-blue moonlight from the window and a faint warm amber glow from the small bedside lamp, deep indigo shadows, quiet grief and tenderness.\nModest Maldivian clothing (women in loose long-sleeved ankle-length dresses with hijab fully covering hair and neck; men in shirts and long trousers or sarong), culturally respectful, no violence shown, no blood, no gore, no monsters, no horror creatures, no text, no letters, no writing, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.147,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 31.6,
+    "y_pct": 20.1,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_015",
+   "startMs": 323458,
+   "endMs": 350979,
+   "new_image_reason": "action change: he gets up and goes to the window; the trees thrash in the strong wind",
+   "characters": [
+    "shamaan"
+   ],
+   "location": "the wooden-shuttered window of the island bedroom at night, looking out over a sandy yard with coconut palms and a big leafy tree under heavy dark clouds and a hidden moon",
+   "location_key": "window_night",
+   "mood": "windy night, heavy dark clouds rolling across the sky, silver moonlight breaking through, palms bending in the strong wind, eerie and ominous",
+   "visual": "Shamaan seen from behind and slightly to the side standing at the open window, one hand on the wooden frame, looking out at coconut palms and a big tree thrashing in the strong wind under dark heavy clouds; his worried face half visible in silver moonlight",
+   "camera": "medium shot over the shoulder, the window and sky in the upper two-thirds",
+   "image": "images/beat_015.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "night_exterior",
+   "shots": [
+    {
+     "id": "shot_036",
+     "startMs": 323458,
+     "endMs": 332808,
+     "narration_dhivehi": "ޝަމްއާންގެ ހިތަކަށް ހަމަޖެހުމެއް ނުލިބުނެވެ. އޭނާ އެނދުން ތެދުވެ، ކުޑަދޮރު ކައިރިއަށް ގޮސް ބޭރު ބަލައިލިއެވެ. ގަދަ ވަޔާއެކު ގަސްތައް ހޫރެމުންދާއިރު،",
+     "narration_english": "Shamaan found no peace of mind. He got up from the bed, went to the window and looked outside. As the trees thrashed in the strong wind,",
+     "crop": "full",
+     "motion": "static drift",
+     "sfx": [
+      {
+       "name": "cloth_rustle",
+       "atMs": 326628,
+       "gainDb": -24,
+       "word": "ތެދުވެ،"
+      },
+      {
+       "name": "wind_howl",
+       "atMs": 330668,
+       "gainDb": -18,
+       "word": "ވަޔާއެކު"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_037",
+     "startMs": 332808,
+     "endMs": 342179,
+     "narration_dhivehi": "ބޭރުން ފެންނަނީ ބިރުވެރި މަންޒަރެކެވެ. އޭނާގެ ހިތުގައި އުފެދިފައިވާ ސުވާލުތަކަށް ޖަވާބެއް ބޭނުންވެއެވެ. ޒިހުނާގެ ވަކިވުމަކީ ގުދުރަތީ މަރެއް ބާވައެވެ؟",
+     "narration_english": "the scene outside was frightening. He needed answers to the questions forming in his heart. Was Zihuna's death a natural one?",
+     "crop": "tight",
+     "motion": "slow push-in",
+     "sfx": [
+      {
+       "name": "leaves_rustle",
+       "atMs": 333248,
+       "gainDb": -20,
+       "word": "ބޭރުން"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      20.3,
+      4.8,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_038",
+     "startMs": 342179,
+     "endMs": 350979,
+     "narration_dhivehi": "ނުވަތަ އެއީ ބަޔަކު ރޭވި ނުރައްކާތެރި ރޭވުމެއްގެ ނަތީޖާ ބާވައެވެ؟ . ޝަމްއާން އޮތީ އެނދުގައި ފުރޮޅި ފުރޮޅިއެވެ. ނިދިވަނީ އޭނާގެ ދެލޮލާ ބީރައްޓެހިވެފައެވެ.",
+     "narration_english": "Or was it the result of a dangerous plot someone had made? Shamaan lay tossing and turning in bed. Sleep had fled from his eyes.",
+     "crop": "full",
+     "motion": "pan left",
+     "sfx": [
+      {
+       "name": "cloth_rustle",
+       "atMs": 347229,
+       "gainDb": -24,
+       "word": "ފުރޮޅި"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Shamaan), create a new scene: Cinematic semi-realistic digital illustration with a quiet, mysterious island-village mood, moonlit palette of deep indigo, silver-blue and sea-teal with warm amber lamplight accents at night and soft natural tropical light by day, gentle atmospheric haze, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and calm, uncluttered space at the bottom for a logo.\nScene: Shamaan seen from behind and slightly to the side standing at the open window, one hand on the wooden frame, looking out at coconut palms and a big tree thrashing in the strong wind under dark heavy clouds; his worried face half visible in silver moonlight. Location: the wooden-shuttered window of the island bedroom at night, looking out over a sandy yard with coconut palms and a big leafy tree under heavy dark clouds and a hidden moon. Camera: medium shot over the shoulder, the window and sky in the upper two-thirds.\nCharacters: Shamaan: a slim Maldivian man about 28 with warm brown skin, a lean oval face, soft dark brown eyes with a sad tired look, straight dark eyebrows, short slightly wavy neatly combed black hair and a short neatly trimmed black beard; wears a plain light-blue long-sleeved button shirt with sleeves rolled to the forearm and dark grey long trousers.\nMood/lighting: windy night, heavy dark clouds rolling across the sky, silver moonlight breaking through, palms bending in the strong wind, eerie and ominous.\nModest Maldivian clothing (women in loose long-sleeved ankle-length dresses with hijab fully covering hair and neck; men in shirts and long trousers or sarong), culturally respectful, no violence shown, no blood, no gore, no monsters, no horror creatures, no text, no letters, no writing, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.101,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 50.0,
+    "y_pct": 40.0,
+    "face_detected": false
+   }
+  },
+  {
+   "id": "beat_016",
+   "startMs": 350979,
+   "endMs": 378720,
+   "new_image_reason": "flashback: Nashwa's hateful warning on the day the relationship ended",
+   "characters": [],
+   "location": "a soft dreamlike memory of a narrow sandy island lane at dusk, low coral-stone walls, coconut palms in silhouette",
+   "location_key": "memory_lane_dusk",
+   "mood": "a hazy dusk memory, cold violet and grey-teal light, mist at the edges, cold and ominous",
+   "visual": "a hazy memory of a young woman in a long dark-green dress and black hijab (Nashwa) standing alone in a dusky sandy lane, turned half back towards the viewer, her face cold and bitter, eyes full of resentment, arms folded; mist at the edges of the frame",
+   "camera": "medium shot, eye level, her face in the upper third, the sandy lane as a calm lower third",
+   "image": "images/beat_016.png",
+   "reuse_of": null,
+   "transition_in": "dissolve",
+   "sensitive": "other",
+   "safe_substitution": "her hatred is shown only as a cold expression at a distance; no threat or gesture",
+   "ambience": "memory",
+   "shots": [
+    {
+     "id": "shot_039",
+     "startMs": 350979,
+     "endMs": 360749,
+     "narration_dhivehi": "ސިކުނޑީގައި އަދިވެސް އެނބުރެމުންދަނީ މީގެ ދެ އަހަރު ކުރީގެ ހަނދާންތަކެވެ. އޭނާގެ ކުރީގެ ލޯބިވެރިޔާ ނަޝްވާގެ ސޫރައާއި، އެންމެ ފަހުން ދެއްކި ވާހަކަތަކެވެ.",
+     "narration_english": "Memories from two years ago were still circling in his mind: the image of his former love Nashwa, and the last things she said.",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_040",
+     "startMs": 360749,
+     "endMs": 372069,
+     "narration_dhivehi": "\"ޝަމްއާން އަހަރެން ނޫން މީހަކާއެކު އުފަލުގައި އުޅުނަ ނުދޭނަން\" އެ ގުޅުން ރޫޅުނު ދުވަހު ނަޝްވާގެ ދެލޮލުން ފެނުނު ނަފުރަތާއި ކެކުޅުން ޝަމްއާންގެ ހަނދާނުން ދުވަހަކުވެސް ފިލައިގެން ނުދާނެއެވެ.",
+     "narration_english": "\"Shamaan, I will never let you be happy with anyone but me.\" The hatred and anger he saw in Nashwa's eyes the day that relationship broke will never fade from Shamaan's memory.",
+     "crop": "tight",
+     "motion": "pan right",
+     "sfx": [],
+     "hum": true,
+     "crop_rect_pct": [
+      18.0,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_041",
+     "startMs": 372069,
+     "endMs": 378720,
+     "narration_dhivehi": "ނަޝްވާ އެދުވަހު ބުނި ބަސްތައް މިއަދުވެސް އޭނާގެ ކަންފަތުގައި ގުގުމަމުންދަނީ ބިރުވެރި އިންޒާރެއް ފަދައިންނެވެ.",
+     "narration_english": "The words Nashwa spoke that day still echo in his ears today like a frightening warning.",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Cinematic semi-realistic digital illustration with a quiet, mysterious island-village mood, moonlit palette of deep indigo, silver-blue and sea-teal with warm amber lamplight accents at night and soft natural tropical light by day, gentle atmospheric haze, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and calm, uncluttered space at the bottom for a logo.\nScene: a hazy memory of a young woman in a long dark-green dress and black hijab (Nashwa) standing alone in a dusky sandy lane, turned half back towards the viewer, her face cold and bitter, eyes full of resentment, arms folded; mist at the edges of the frame. Location: a soft dreamlike memory of a narrow sandy island lane at dusk, low coral-stone walls, coconut palms in silhouette. Camera: medium shot, eye level, her face in the upper third, the sandy lane as a calm lower third.\nMood/lighting: a hazy dusk memory, cold violet and grey-teal light, mist at the edges, cold and ominous.\nModest Maldivian clothing (women in loose long-sleeved ankle-length dresses with hijab fully covering hair and neck; men in shirts and long trousers or sarong), culturally respectful, no violence shown, no blood, no gore, no monsters, no horror creatures, no text, no letters, no writing, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.173,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 47.8,
+    "y_pct": 19.9,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_017",
+   "startMs": 378720,
+   "endMs": 408340,
+   "new_image_reason": "back to the present: the warning echoes; a shiver of dread",
+   "characters": [
+    "shamaan"
+   ],
+   "location": "Shamaan's small bedroom in an old coral-stone island house late at night, whitewashed walls, a wooden double bed with a plain sheet and a thin blanket, a small wooden bedside table with a framed photo and a small dim lamp, a wooden-shuttered window with a thin pale curtain, a slow ceiling fan",
+   "location_key": "bedroom",
+   "mood": "late night, soft silver-blue moonlight from the window and a faint warm amber glow from the small bedside lamp, deep indigo shadows, quiet grief and tenderness",
+   "visual": "Shamaan sitting on the edge of the bed in the dark, elbows on his knees and hands clasped before his mouth, staring into the darkness with uneasy, frightened eyes; the shadow of the window frame and of swaying palm fronds stretching across the whitewashed wall behind him",
+   "camera": "medium shot, eye level, his face in the upper half, the floor as a calm lower third",
+   "image": "images/beat_017.png",
+   "reuse_of": null,
+   "transition_in": "dissolve",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "island_house_night",
+   "shots": [
+    {
+     "id": "shot_042",
+     "startMs": 378720,
+     "endMs": 388600,
+     "narration_dhivehi": "ޝަމްއާންގެ ހިތް ބުނަމުން ދިޔައީ ކޮންމެވެސް ނުބައެއް އުޅޭ ކަމަށެވެ. ނަޝްވާގެ އެ އިންޒާރަކީ އާދައިގެ ކަމެއް ނޫންކަން އޭނާއަށް މިއަދު އިހުސާސް ކުރެވެން ފަށައިފިއެވެ.",
+     "narration_english": "Shamaan's heart kept telling him that something evil was at work. Today he has begun to feel that Nashwa's warning was no ordinary thing.",
+     "crop": "full",
+     "motion": "pan up",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_043",
+     "startMs": 388600,
+     "endMs": 398920,
+     "narration_dhivehi": "އޭނާގެ އުފާވެރިކަމަށް އެޅެމުންދާ ކޮންމެ ހުރަހަކީ ނަޝްވާގެ އެ \"ބަދުދުޢާ\" ގެ ނަތީޖާ ބާވައޭ ހިތަށް އަރާ ކޮންމެ ފަހަރަކު ޝަމްއާންގެ ގައިން ހީބިހި ނަގައިގެން ދެއެވެ.",
+     "narration_english": "Every time the thought crossed his mind that every obstacle placed in the way of his happiness might be the result of Nashwa's 'curse', gooseflesh rose on Shamaan's skin.",
+     "crop": "tight",
+     "motion": "slow pull-out",
+     "sfx": [
+      {
+       "name": "heartbeat",
+       "atMs": 396890,
+       "gainDb": -18,
+       "word": "ހީބިހި"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      4.6,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_044",
+     "startMs": 398920,
+     "endMs": 408340,
+     "narration_dhivehi": "ކުރިއަށް އޮތީ ކޮން ފަދަ ތޫފާނެއްކަމެއް އޭނާއަކަށް ނޭނގެއެވެ. ނަމަވެސް އެނގޭހާވެސް އެއްޗަކީ، މާޒީގެ އެ ހިޔަނި އޭނާގެ ފަހަތުން ދޫނުކޮށް އުޅޭކަމެވެ.",
+     "narration_english": "He does not know what kind of storm lies ahead. But one thing he knows: that shadow of the past will not let go of him.",
+     "crop": "full",
+     "motion": "pan down",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Shamaan), create a new scene: Cinematic semi-realistic digital illustration with a quiet, mysterious island-village mood, moonlit palette of deep indigo, silver-blue and sea-teal with warm amber lamplight accents at night and soft natural tropical light by day, gentle atmospheric haze, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and calm, uncluttered space at the bottom for a logo.\nScene: Shamaan sitting on the edge of the bed in the dark, elbows on his knees and hands clasped before his mouth, staring into the darkness with uneasy, frightened eyes; the shadow of the window frame and of swaying palm fronds stretching across the whitewashed wall behind him. Location: Shamaan's small bedroom in an old coral-stone island house late at night, whitewashed walls, a wooden double bed with a plain sheet and a thin blanket, a small wooden bedside table with a framed photo and a small dim lamp, a wooden-shuttered window with a thin pale curtain, a slow ceiling fan. Camera: medium shot, eye level, his face in the upper half, the floor as a calm lower third.\nCharacters: Shamaan: a slim Maldivian man about 28 with warm brown skin, a lean oval face, soft dark brown eyes with a sad tired look, straight dark eyebrows, short slightly wavy neatly combed black hair and a short neatly trimmed black beard; wears a plain light-blue long-sleeved button shirt with sleeves rolled to the forearm and dark grey long trousers.\nMood/lighting: late night, soft silver-blue moonlight from the window and a faint warm amber glow from the small bedside lamp, deep indigo shadows, quiet grief and tenderness.\nModest Maldivian clothing (women in loose long-sleeved ankle-length dresses with hijab fully covering hair and neck; men in shirts and long trousers or sarong), culturally respectful, no violence shown, no blood, no gore, no monsters, no horror creatures, no text, no letters, no writing, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.134,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 34.3,
+    "y_pct": 28.1,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_018",
+   "startMs": 408340,
+   "endMs": 425871,
+   "new_image_reason": "return to the opening image: Yameen startles and cries, Shamaan lifts and soothes him",
+   "characters": [],
+   "location": "Shamaan's small bedroom in an old coral-stone island house late at night, whitewashed walls, a wooden double bed with a plain sheet and a thin blanket, a small wooden bedside table with a framed photo and a small dim lamp, a wooden-shuttered window with a thin pale curtain, a slow ceiling fan",
+   "location_key": "bedroom",
+   "mood": "late night, soft silver-blue moonlight from the window and a faint warm amber glow from the small bedside lamp, deep indigo shadows, quiet grief and tenderness",
+   "visual": "reuse of Shamaan lifting crying Yameen",
+   "camera": "medium shot, eye level",
+   "image": "images/beat_001.png",
+   "reuse_of": "beat_001",
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "island_house_night",
+   "shots": [
+    {
+     "id": "shot_045",
+     "startMs": 408340,
+     "endMs": 417451,
+     "narration_dhivehi": "އެވަގުތު ކުއްލިއަކަށް ޔަމީން ނިދީގައި ތެޅިގަނެފައި ރޯން ފެށިއެވެ. ޝަމްއާން އަވަސްއަވަހަށް ގޮސް ދަރިފުޅު އަތްމައްޗަށް ނަގައި މަސަލަސްކުރަން ފެށިއެވެ. \"ދަރިފުޅާ،",
+     "narration_english": "Just then Yameen suddenly started in his sleep and began to cry. Shamaan hurried over, took his son in his arms and began to soothe him. \"My son,",
+     "crop": "tight",
+     "motion": "static drift",
+     "sfx": [
+      {
+       "name": "sob_breath",
+       "atMs": 410710,
+       "gainDb": -20,
+       "word": "ރޯން"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      26.3,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_046",
+     "startMs": 417451,
+     "endMs": 425871,
+     "narration_dhivehi": "ބައްޕަ މިހުރީއޭ\" އޭނާ މަޑުމަޑުން ބުންޏެވެ. ޔަމީންގެ ކުޑަކުޑަ ދެލޮލުން ފައިބަމުންދިޔަ ކަރުނަތައް ފެނި، ޝަމްއާންގެ ހިތް ކުދިކުދިވިއެވެ.",
+     "narration_english": "Bappa is right here,\" he said softly. Seeing the tears falling from Yameen's little eyes, Shamaan's heart broke into pieces.",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": true,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [],
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.193,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 56.1,
+    "y_pct": 15.3,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_019",
+   "startMs": 425871,
+   "endMs": 458902,
+   "new_image_reason": "action change: he sits holding the child to his chest, stroking his face, crying too",
+   "characters": [
+    "shamaan",
+    "yameen"
+   ],
+   "location": "Shamaan's small bedroom in an old coral-stone island house late at night, whitewashed walls, a wooden double bed with a plain sheet and a thin blanket, a small wooden bedside table with a framed photo and a small dim lamp, a wooden-shuttered window with a thin pale curtain, a slow ceiling fan",
+   "location_key": "bedroom",
+   "mood": "late night, soft silver-blue moonlight from the window and a faint warm amber glow from the small bedside lamp, deep indigo shadows, quiet grief and tenderness",
+   "visual": "Shamaan sitting on the bed holding little Yameen against his chest, gently stroking the child's small wet cheek with his fingers, tears in his own eyes, Yameen still sobbing softly with his head on his father's shoulder; warm amber lamp glow and moonlight",
+   "camera": "medium close-up, eye level, both faces in the upper half",
+   "image": "images/beat_019.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "island_house_night",
+   "shots": [
+    {
+     "id": "shot_047",
+     "startMs": 425871,
+     "endMs": 438731,
+     "narration_dhivehi": "މި މައުސޫމް ކުއްޖާއަށް މައިވަންތަކަމުގެ ލޯބި ބޭނުންވާނެ މިންވަރު އޭނާއަށް އިހުސާސް ކުރެވެއެވެ. ޔަމީންގެ މަޑުމަޑު ރުއިމުގެ އަޑު ކޮޓަރީގެ ތެރޭގައި ގުގުމަމުން ދިޔައިރު، ޝަމްއާންގެ ލޮލުން ވެސް ކަރުނަ ފާއްދާލިއެވެ.",
+     "narration_english": "He felt how much this innocent child needs a mother's love. As Yameen's soft crying echoed in the room, tears fell from Shamaan's eyes too.",
+     "crop": "full",
+     "motion": "pan left",
+     "sfx": [
+      {
+       "name": "sob_breath",
+       "atMs": 433031,
+       "gainDb": -24,
+       "word": "ރުއިމުގެ"
+      }
+     ],
+     "hum": true,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_048",
+     "startMs": 438731,
+     "endMs": 448151,
+     "narration_dhivehi": "އޭނާ ދަރިފުޅު މޭގައި ޖައްސާލައިގެން އިނދެ، އެ ކުޑަކުޑަ މޫނުގައި ފިރުމަމުން ދިޔައެވެ. \"ދަރިފުޅާ، ބައްޕަ ދުވަހަކުވެސް ދަރިފުޅު އެކަނި ނުކުރާނަން.",
+     "narration_english": "He sat holding his son to his chest, stroking that little face. \"My son, Bappa will never leave you alone.",
+     "crop": "tight",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": true,
+     "crop_rect_pct": [
+      20.3,
+      4.8,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_049",
+     "startMs": 448151,
+     "endMs": 458902,
+     "narration_dhivehi": "މަންމަ ނެތުމުގެ އުނިކަން ފޫބައްދައި ނުދެވުނަސް، ބައްޕަގެ މުޅި ދިރިއުޅުން ދަރިފުޅަށްޓަކައި ގުރުބާން ކުރާނަން\" ޝަމްއާންގެ ހިތުގެ އަޑުން އޭނާ އަމިއްލަ ނަފްސަށް ވަޢުދުވިއެވެ.",
+     "narration_english": "Even if I cannot fill the gap of your mother's absence, Bappa will sacrifice his whole life for you,\" Shamaan promised himself in his heart.",
+     "crop": "full",
+     "motion": "pan right",
+     "sfx": [],
+     "hum": true,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "refused",
+     "rewrite_reason": null
+    },
+    {
+     "attempt": 2,
+     "result": "ok",
+     "rewrite_reason": "refused: removed trigger words, neutral emotion/setting wording"
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing, create a new scene: Cinematic semi-realistic digital illustration with a quiet, mysterious island-village mood, moonlit palette of deep indigo, silver-blue and sea-teal with warm amber lamplight accents at night and soft natural tropical light by day, gentle atmospheric haze, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and calm, uncluttered space at the bottom for a logo.\nScene: Shamaan sitting on the holding little Yameen against his chest, gently stroking the child's small wet cheek with his fingers, in his own eyes, Yameen still softly with his head on his father's shoulder; warm amber lamp glow and moonlight, calm and emotional. Location: Shamaan's small bedroom in an old coral-stone island house late at night, whitewashed walls, a wooden double bed with a plain sheet and a thin blanket, a small wooden bedside table with a framed photo and a small dim lamp, a wooden-shuttered window with a thin pale curtain, a slow ceiling fan. Camera: medium close-up, eye level, both faces in the upper half.\nCharacters: Shamaan: a slim Maldivian man about 28 with warm brown skin, a lean oval face, soft dark brown eyes with a sad tired look, straight dark eyebrows, short slightly wavy neatly combed black hair and a short neatly trimmed black beard; wears a plain light-blue long-sleeved button shirt with sleeves rolled to the forearm and dark grey long trousers. Yameen: a small Maldivian toddler boy about 2 years old with warm brown skin, a round chubby face, big dark innocent eyes and soft short black curly hair; wears a small mustard-yellow short-sleeved t-shirt and light-grey long cotton pants.\nMood/lighting: late night, soft silver-blue moonlight from the window and a faint warm amber glow from the small bedside lamp, deep indigo shadows, quiet grief and tenderness.\nModest Maldivian clothing (women in loose long-sleeved ankle-length dresses with hijab fully covering hair and neck; men in shirts and long trousers or sarong), culturally respectful, no violence shown, no blood, no gore, no monsters, no horror creatures, no text, no letters, no writing, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.17,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 50.0,
+    "y_pct": 40.0,
+    "face_detected": false
+   }
+  },
+  {
+   "id": "beat_020",
+   "startMs": 458902,
+   "endMs": 478122,
+   "new_image_reason": "detail: the child's small hand grips his father's shirt as he falls asleep again",
+   "characters": [
+    "yameen",
+    "shamaan"
+   ],
+   "location": "Shamaan's small bedroom in an old coral-stone island house late at night, whitewashed walls, a wooden double bed with a plain sheet and a thin blanket, a small wooden bedside table with a framed photo and a small dim lamp, a wooden-shuttered window with a thin pale curtain, a slow ceiling fan",
+   "location_key": "bedroom",
+   "mood": "late night, soft silver-blue moonlight from the window and a faint warm amber glow from the small bedside lamp, deep indigo shadows, quiet grief and tenderness",
+   "visual": "close-up of little Yameen asleep against his father's chest, his tiny hand tightly gripping a fold of Shamaan's light-blue shirt, his eyelashes still wet, Shamaan's hand resting protectively on the child's back; the curtain lifting softly in the breeze behind",
+   "camera": "close-up, eye level, the hand and the child's face in the upper half",
+   "image": "images/beat_020.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "island_house_night",
+   "shots": [
+    {
+     "id": "shot_050",
+     "startMs": 458902,
+     "endMs": 469622,
+     "narration_dhivehi": "ފިނި ރޯޅިއެއް ކޮޓަރީގެ ތެރެއަށް ވަދެގެން އައިއިރު، ޔަމީންގެ ރުއިން މަޑުމަޑުން ހުއްޓިއްޖެއެވެ. އޭނާގެ ކުޑަކުޑަ އަތުން ބައްޕަގެ ގަމީހުގައި ބާރަށް ހިފަހައްޓާލައިގެން އޮވެ،",
+     "narration_english": "As a cold breeze came into the room, Yameen's crying slowly stopped. Holding tight to his father's shirt with his little hand,",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [
+      {
+       "name": "wind_gust",
+       "atMs": 459592,
+       "gainDb": -22,
+       "word": "ރޯޅިއެއް"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_051",
+     "startMs": 469622,
+     "endMs": 478122,
+     "narration_dhivehi": "އަލުން ނިދީގެ ފުން ކަނޑަކަށް ގެނބިގެން ދިޔައެވެ. ޝަމްއާން އެތައް އިރަކު އެގޮތުގައި ދަރިފުޅަށް ބަލަން އިނެވެ. ކުރިއަށް އޮތީ އުނދަގޫ ދަތުރެކެވެ.",
+     "narration_english": "he sank again into the deep sea of sleep. Shamaan sat for a long time like that, watching his son. A hard journey lay ahead.",
+     "crop": "tight",
+     "motion": "pan up",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      20.3,
+      4.8,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Yameen; reference image 2 is Shamaan), create a new scene: Cinematic semi-realistic digital illustration with a quiet, mysterious island-village mood, moonlit palette of deep indigo, silver-blue and sea-teal with warm amber lamplight accents at night and soft natural tropical light by day, gentle atmospheric haze, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and calm, uncluttered space at the bottom for a logo.\nScene: close-up of little Yameen asleep against his father's chest, his tiny hand tightly gripping a fold of Shamaan's light-blue shirt, his eyelashes still wet, Shamaan's hand resting protectively on the child's back; the curtain lifting softly in the breeze behind. Location: Shamaan's small bedroom in an old coral-stone island house late at night, whitewashed walls, a wooden double bed with a plain sheet and a thin blanket, a small wooden bedside table with a framed photo and a small dim lamp, a wooden-shuttered window with a thin pale curtain, a slow ceiling fan. Camera: close-up, eye level, the hand and the child's face in the upper half.\nCharacters: Yameen: a small Maldivian toddler boy about 2 years old with warm brown skin, a round chubby face, big dark innocent eyes and soft short black curly hair; wears a small mustard-yellow short-sleeved t-shirt and light-grey long cotton pants. Shamaan: a slim Maldivian man about 28 with warm brown skin, a lean oval face, soft dark brown eyes with a sad tired look, straight dark eyebrows, short slightly wavy neatly combed black hair and a short neatly trimmed black beard; wears a plain light-blue long-sleeved button shirt with sleeves rolled to the forearm and dark grey long trousers.\nMood/lighting: late night, soft silver-blue moonlight from the window and a faint warm amber glow from the small bedside lamp, deep indigo shadows, quiet grief and tenderness.\nModest Maldivian clothing (women in loose long-sleeved ankle-length dresses with hijab fully covering hair and neck; men in shirts and long trousers or sarong), culturally respectful, no violence shown, no blood, no gore, no monsters, no horror creatures, no text, no letters, no writing, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.233,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 50.0,
+    "y_pct": 40.0,
+    "face_detected": false
+   }
+  },
+  {
+   "id": "beat_021",
+   "startMs": 478122,
+   "endMs": 505633,
+   "new_image_reason": "action change: he lays the child down, kisses his forehead and lies beside him",
+   "characters": [
+    "shamaan",
+    "yameen"
+   ],
+   "location": "Shamaan's small bedroom in an old coral-stone island house late at night, whitewashed walls, a wooden double bed with a plain sheet and a thin blanket, a small wooden bedside table with a framed photo and a small dim lamp, a wooden-shuttered window with a thin pale curtain, a slow ceiling fan",
+   "location_key": "bedroom",
+   "mood": "late night, soft silver-blue moonlight from the window and a faint warm amber glow from the small bedside lamp, deep indigo shadows, quiet grief and tenderness",
+   "visual": "Shamaan lying beside sleeping Yameen, curled protectively towards him with one arm around the child above the blanket, having just kissed his forehead, his eyes closing at last; soft silver moonlight, the room calm",
+   "camera": "medium shot, slightly above the bed, faces in the upper half",
+   "image": "images/beat_021.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "island_house_night",
+   "shots": [
+    {
+     "id": "shot_052",
+     "startMs": 478122,
+     "endMs": 487483,
+     "narration_dhivehi": "ނަމަވެސް އެ ދަރިފުޅުގެ ހިނިތުންވުމަކީ އޭނާގެ ދިރިއުޅުމުގެ އެންމެ ބޮޑު އުންމީދެވެ. އިރުކޮޅަކުން ޝަމްއާން ޔަމީން މަޑުމަޑުން އެނދުގައި ބާއްވާލިއެވެ.",
+     "narration_english": "But that son's smile is the greatest hope of his life. After a while Shamaan gently laid Yameen down on the bed.",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_053",
+     "startMs": 487483,
+     "endMs": 496293,
+     "narration_dhivehi": "އަދި ދަރިފުޅުގެ ނިތްކުރީގައި ބޮސްދިނުމަށްފަހު، ކައިރީގައި އޮށޯވެލީ އެ ދަރިފުޅަށް އެއްވެސް ބިރުވެރިކަމެއް ނެތްކަމުގެ އިހުސާސް ކޮށްދިނުމަށެވެ.",
+     "narration_english": "And after kissing his son's forehead, he lay down beside him, to give him the feeling that there was nothing at all to fear,",
+     "crop": "tight",
+     "motion": "pan down",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      20.3,
+      4.8,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_054",
+     "startMs": 496293,
+     "endMs": 505633,
+     "narration_dhivehi": "ކޮންމެ ފަދަ ހާލަތެއްގައިވެސް، އެ ދަރިފުޅުގެ ހިމާޔަތުގައި އޭނާ ހުންނާނެކަން ކަށަވަރުކޮށްދެމުންނެވެ. ފޯނުގެ އެލާމް ވުމާއެކު ޝަމްއާންއަށް ހޭލެވިއްޖެއެވެ.",
+     "narration_english": "assuring him that in any situation he will be there to protect him. With the ring of the phone alarm, Shamaan woke up.",
+     "crop": "full",
+     "motion": "static drift",
+     "sfx": [
+      {
+       "name": "phone_buzz",
+       "atMs": 502873,
+       "gainDb": -18,
+       "word": "އެލާމް"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Shamaan; reference image 2 is Yameen), create a new scene: Cinematic semi-realistic digital illustration with a quiet, mysterious island-village mood, moonlit palette of deep indigo, silver-blue and sea-teal with warm amber lamplight accents at night and soft natural tropical light by day, gentle atmospheric haze, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and calm, uncluttered space at the bottom for a logo.\nScene: Shamaan lying beside sleeping Yameen, curled protectively towards him with one arm around the child above the blanket, having just kissed his forehead, his eyes closing at last; soft silver moonlight, the room calm. Location: Shamaan's small bedroom in an old coral-stone island house late at night, whitewashed walls, a wooden double bed with a plain sheet and a thin blanket, a small wooden bedside table with a framed photo and a small dim lamp, a wooden-shuttered window with a thin pale curtain, a slow ceiling fan. Camera: medium shot, slightly above the bed, faces in the upper half.\nCharacters: Shamaan: a slim Maldivian man about 28 with warm brown skin, a lean oval face, soft dark brown eyes with a sad tired look, straight dark eyebrows, short slightly wavy neatly combed black hair and a short neatly trimmed black beard; wears a plain light-blue long-sleeved button shirt with sleeves rolled to the forearm and dark grey long trousers. Yameen: a small Maldivian toddler boy about 2 years old with warm brown skin, a round chubby face, big dark innocent eyes and soft short black curly hair; wears a small mustard-yellow short-sleeved t-shirt and light-grey long cotton pants.\nMood/lighting: late night, soft silver-blue moonlight from the window and a faint warm amber glow from the small bedside lamp, deep indigo shadows, quiet grief and tenderness.\nModest Maldivian clothing (women in loose long-sleeved ankle-length dresses with hijab fully covering hair and neck; men in shirts and long trousers or sarong), culturally respectful, no violence shown, no blood, no gore, no monsters, no horror creatures, no text, no letters, no writing, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.158,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 50.0,
+    "y_pct": 40.0,
+    "face_detected": false
+   }
+  },
+  {
+   "id": "beat_022",
+   "startMs": 505633,
+   "endMs": 524534,
+   "new_image_reason": "time jump: the morning alarm; he wakes and gets ready",
+   "characters": [
+    "shamaan",
+    "yameen"
+   ],
+   "location": "the same small bedroom of the old coral-stone island house in the early morning, whitewashed walls, wooden double bed with a rumpled sheet, small bedside table, wooden-shuttered window open to the morning",
+   "location_key": "bedroom_morning",
+   "mood": "early morning, soft pale-gold sunlight through the window, fresh and quiet",
+   "visual": "Shamaan sitting up on the edge of the bed in the morning, rubbing one eye with his hand, his mobile phone in his other hand, looking back at little Yameen still deeply asleep on the other side of the bed; pale gold sunlight through the window",
+   "camera": "medium shot, eye level",
+   "image": "images/beat_022.png",
+   "reuse_of": null,
+   "transition_in": "black",
+   "sensitive": "clothing",
+   "safe_substitution": "his bath is not shown; he is shown fully dressed",
+   "ambience": "island_house_day",
+   "shots": [
+    {
+     "id": "shot_055",
+     "startMs": 505633,
+     "endMs": 514523,
+     "narration_dhivehi": "ލޯ އުނގުޅަމުން ތެދުވެ، އެނދުގެ އެއްފަރާތުގައި ގަދަ ނިދީގައި އޮތް ކުޑަކުޑަ ޔަމީންއަށް ބަލައިލިއެވެ. މަޑުމަޑުން ތެދުވެގެން ގޮސް ފާޚާނާއަށް ވަނީ،",
+     "narration_english": "Rubbing his eyes he sat up and looked at little Yameen, fast asleep on one side of the bed. He got up quietly and went into the bathroom,",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [
+      {
+       "name": "door_close",
+       "atMs": 513233,
+       "gainDb": -24,
+       "word": "ފާޚާނާއަށް"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_056",
+     "startMs": 514523,
+     "endMs": 524534,
+     "narration_dhivehi": "ޔަމީންގެ ނިދި ޚަރާބުވެދާނެތީ ވަރަށް ސަމާލުވެ ހުރެއެވެ. ޝަމްއާން ފެންވަރައިގެން ނުކުތްއިރު، މުޅި ގޭތެރެއަށް ވަނީ ކާގޭގައި ކައްކާ އެއްޗެހީގެ މީރުވަސް ހިފާފައެވެ.",
+     "narration_english": "taking great care not to wake Yameen. When Shamaan came out after his bath, the smell of cooking from the kitchen had filled the whole house.",
+     "crop": "tight",
+     "motion": "pan left",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      20.3,
+      4.8,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Shamaan; reference image 2 is Yameen), create a new scene: Cinematic semi-realistic digital illustration with a quiet, mysterious island-village mood, moonlit palette of deep indigo, silver-blue and sea-teal with warm amber lamplight accents at night and soft natural tropical light by day, gentle atmospheric haze, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and calm, uncluttered space at the bottom for a logo.\nScene: Shamaan sitting up on the edge of the bed in the morning, rubbing one eye with his hand, his mobile phone in his other hand, looking back at little Yameen still deeply asleep on the other side of the bed; pale gold sunlight through the window. Location: the same small bedroom of the old coral-stone island house in the early morning, whitewashed walls, wooden double bed with a rumpled sheet, small bedside table, wooden-shuttered window open to the morning. Camera: medium shot, eye level.\nCharacters: Shamaan: a slim Maldivian man about 28 with warm brown skin, a lean oval face, soft dark brown eyes with a sad tired look, straight dark eyebrows, short slightly wavy neatly combed black hair and a short neatly trimmed black beard; wears a plain light-blue long-sleeved button shirt with sleeves rolled to the forearm and dark grey long trousers. Yameen: a small Maldivian toddler boy about 2 years old with warm brown skin, a round chubby face, big dark innocent eyes and soft short black curly hair; wears a small mustard-yellow short-sleeved t-shirt and light-grey long cotton pants.\nMood/lighting: early morning, soft pale-gold sunlight through the window, fresh and quiet.\nModest Maldivian clothing (women in loose long-sleeved ankle-length dresses with hijab fully covering hair and neck; men in shirts and long trousers or sarong), culturally respectful, no violence shown, no blood, no gore, no monsters, no horror creatures, no text, no letters, no writing, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.311,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 50.0,
+    "y_pct": 40.0,
+    "face_detected": false
+   }
+  },
+  {
+   "id": "beat_023",
+   "startMs": 524534,
+   "endMs": 533914,
+   "new_image_reason": "location and character change: Sakeena cooks with Yameen on her hip",
+   "characters": [
+    "sakeena",
+    "yameen"
+   ],
+   "location": "the small kitchen of an old coral-stone island house in the morning, a simple gas stove with a steaming pot, a wooden shelf with steel pots and plates, a small window with green leaves outside",
+   "location_key": "kitchen",
+   "mood": "morning, warm soft daylight through the small window, gentle steam, homely",
+   "visual": "Sakeena standing at the small stove holding little Yameen on her hip with one arm and stirring a steaming pot with the other, Yameen watching the steam with sleepy curious eyes",
+   "camera": "medium shot, eye level, faces in the upper half",
+   "image": "images/beat_023.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "island_house_day",
+   "shots": [
+    {
+     "id": "shot_057",
+     "startMs": 524534,
+     "endMs": 533914,
+     "narration_dhivehi": "ޔަމީންވެސް އެއިރު ހޭލައިފިއެވެ. ޝަމްއާންގެ މަންމަ ސަކީނާ އުޅެނީ އެއްއަތުން ޔަމީން އުރާލައިގެން، އަނެއް އަތުން ބަދިގެތެރޭގެ މަސައްކަތްތައް ނިންމުމުގައެވެ.",
+     "narration_english": "Yameen was awake by then too. Shamaan's mother Sakeena was holding Yameen in one arm and finishing the kitchen work with the other.",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [
+      {
+       "name": "cup_clatter",
+       "atMs": 531494,
+       "gainDb": -24,
+       "word": "ބަދިގެތެރޭގެ"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Sakeena; reference image 2 is Yameen), create a new scene: Cinematic semi-realistic digital illustration with a quiet, mysterious island-village mood, moonlit palette of deep indigo, silver-blue and sea-teal with warm amber lamplight accents at night and soft natural tropical light by day, gentle atmospheric haze, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and calm, uncluttered space at the bottom for a logo.\nScene: Sakeena standing at the small stove holding little Yameen on her hip with one arm and stirring a steaming pot with the other, Yameen watching the steam with sleepy curious eyes. Location: the small kitchen of an old coral-stone island house in the morning, a simple gas stove with a steaming pot, a wooden shelf with steel pots and plates, a small window with green leaves outside. Camera: medium shot, eye level, faces in the upper half.\nCharacters: Sakeena: a short plump Maldivian woman in her mid 50s with warm brown skin, a round kind face with soft wrinkles and worried dark eyes; wears a loose long-sleeved ankle-length maroon traditional Maldivian dress with a thin gold-thread neckline band and a soft beige headscarf fully covering her hair and neck. Yameen: a small Maldivian toddler boy about 2 years old with warm brown skin, a round chubby face, big dark innocent eyes and soft short black curly hair; wears a small mustard-yellow short-sleeved t-shirt and light-grey long cotton pants.\nMood/lighting: morning, warm soft daylight through the small window, gentle steam, homely.\nModest Maldivian clothing (women in loose long-sleeved ankle-length dresses with hijab fully covering hair and neck; men in shirts and long trousers or sarong), culturally respectful, no violence shown, no blood, no gore, no monsters, no horror creatures, no text, no letters, no writing, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.296,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 45.2,
+    "y_pct": 26.6,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_024",
+   "startMs": 533914,
+   "endMs": 550414,
+   "new_image_reason": "character change: the father sits ill with a fever on the sofa",
+   "characters": [
+    "shamaan_father"
+   ],
+   "location": "the plain sitting room of an old coral-stone island house, whitewashed walls, a worn cushioned sofa, a woven mat on a tiled floor, a low wooden table, an open doorway to the sandy yard, a few small toys on the mat",
+   "location_key": "sitting_room",
+   "mood": "daytime, soft natural tropical light from the open doorway, quiet and heavy",
+   "visual": "Shamaan's father sitting slumped on the worn sofa looking weak and feverish, one hand pressed to his forehead, eyes half closed, a glass of water on the low table beside him",
+   "camera": "medium shot, eye level, his face in the upper half, the woven mat as a calm lower third",
+   "image": "images/beat_024.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": "other",
+   "safe_substitution": "illness shown only as a tired feverish posture",
+   "ambience": "island_house_day",
+   "shots": [
+    {
+     "id": "shot_058",
+     "startMs": 533914,
+     "endMs": 541144,
+     "narration_dhivehi": "ގޭގެ ސިޓިންގްރޫމް ސޯފާގައި ބައްޕަ އިށީނދެލައިގެން އިނީ ވަރަށް ބަލިކޮށެވެ. އާންމުކޮށް ކޮންމެ ދުވަހަކު ފަތިހު މަހަށްދާ ބައްޕަ،",
+     "narration_english": "Bappa was sitting on the sofa in the sitting room, very unwell. Bappa, who usually goes out fishing at dawn every day,",
+     "crop": "full",
+     "motion": "pan right",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_059",
+     "startMs": 541144,
+     "endMs": 550414,
+     "narration_dhivehi": "މިއަދު ހުން އައިސްފައި ހުރުމުގެ ސަބަބުން ގޭގައި މަޑުކުރީއެވެ. \"އަހަރެން އަތަށް ޔަމީން ދީފައި މަންމަ ދޭ ސައި ހަދައިދޭން\" ޝަމްއާން އޯގާތެރިކަމާއެކު ބުނެލިއެވެ.",
+     "narration_english": "stayed home today because he had come down with a fever. \"Give Yameen to me, mother, and make the tea,\" Shamaan said kindly.",
+     "crop": "tight",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      20.3,
+      4.8,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Shamaan's father), create a new scene: Cinematic semi-realistic digital illustration with a quiet, mysterious island-village mood, moonlit palette of deep indigo, silver-blue and sea-teal with warm amber lamplight accents at night and soft natural tropical light by day, gentle atmospheric haze, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and calm, uncluttered space at the bottom for a logo.\nScene: Shamaan's father sitting slumped on the worn sofa looking weak and feverish, one hand pressed to his forehead, eyes half closed, a glass of water on the low table beside him. Location: the plain sitting room of an old coral-stone island house, whitewashed walls, a worn cushioned sofa, a woven mat on a tiled floor, a low wooden table, an open doorway to the sandy yard, a few small toys on the mat. Camera: medium shot, eye level, his face in the upper half, the woven mat as a calm lower third.\nCharacters: Shamaan's father: a lean wiry slightly stooped Maldivian man about 60 with weathered warm brown skin, a lined face, deep-set tired eyes and a short grey-white beard; wears a white knitted skullcap, a faded olive-green long-sleeved collared shirt and a dark checked sarong to the ankles.\nMood/lighting: daytime, soft natural tropical light from the open doorway, quiet and heavy.\nModest Maldivian clothing (women in loose long-sleeved ankle-length dresses with hijab fully covering hair and neck; men in shirts and long trousers or sarong), culturally respectful, no violence shown, no blood, no gore, no monsters, no horror creatures, no text, no letters, no writing, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.23,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 50.0,
+    "y_pct": 40.0,
+    "face_detected": false
+   }
+  },
+  {
+   "id": "beat_025",
+   "startMs": 550414,
+   "endMs": 585005,
+   "new_image_reason": "action change: the family sits down to breakfast of roshi and curry",
+   "characters": [
+    "shamaan",
+    "yameen",
+    "shamaan_father",
+    "sakeena"
+   ],
+   "location": "the simple dining corner of an old coral-stone island house in the morning, a wooden table with plates of flat roshi bread, a bowl of tuna curry and glasses of milky tea, plastic chairs",
+   "location_key": "dining",
+   "mood": "morning, warm soft daylight, cosy family warmth",
+   "visual": "the family at the small breakfast table: Shamaan sitting with little Yameen on his lap, the giggling toddler reaching for a small piece of roshi from his father's plate; the father sitting beside them looking tired but smiling faintly; Sakeena standing at the table pouring tea; plates of roshi, a bowl of curry and glasses of tea",
+   "camera": "medium wide shot, eye level, faces in the upper half, the table top as a calm lower third",
+   "image": "images/beat_025.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "island_house_day",
+   "shots": [
+    {
+     "id": "shot_060",
+     "startMs": 550414,
+     "endMs": 560074,
+     "narration_dhivehi": "ސަކީނާ ލޯތްބާއެކު ޔަމީން ޝަމްއާންގެ އަތަށް ދިނުމަށްފަހު، އަވަސްވެގަތީ ސައި ތައްޔާރުކުރުމަށެވެ. މާ ގިނައިރެއް ނުވެ، ހޫނު ރޮށްޓާއި ރިހަ މޭޒުމަތީ އަތުރާލިއެވެ.",
+     "narration_english": "Sakeena lovingly handed Yameen to Shamaan and hurried to make the tea. Before long she laid out hot roshi and curry on the table.",
+     "crop": "full",
+     "motion": "pan up",
+     "sfx": [
+      {
+       "name": "cup_clatter",
+       "atMs": 558754,
+       "gainDb": -20,
+       "word": "މޭޒުމަތީ"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_061",
+     "startMs": 560074,
+     "endMs": 566525,
+     "narration_dhivehi": "\"ދަރިފުޅާ، އާދޭ ސައިބޯން،\" ސަކީނާ ގޮވައިލިއެވެ. ޝަމްއާން އާއި ބައްޕަ ސައިބޯން އިށީނެވެ.",
+     "narration_english": "\"Come, son, have your tea,\" Sakeena called. Shamaan and Bappa sat down to their tea.",
+     "crop": "tight",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      40.6,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_062",
+     "startMs": 566525,
+     "endMs": 575695,
+     "narration_dhivehi": "ކުޑަކުޑަ ޔަމީން އިނީ އޭނަގެ ބައްޕަ ޝަމްއާންގެ އުނގުގައެވެ. ބައްޕަގެ ތަށިން ކުޑަ ރޮށިކޮޅެއް ކާލަން މަސައްކަތް ކުރަމުން ޔަމީން ހީނލަ ހީނލާ އިނެވެ.",
+     "narration_english": "Little Yameen sat on his father Shamaan's lap, giggling away as he tried to eat a small piece of roshi from his father's plate.",
+     "crop": "full",
+     "motion": "pan down",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_063",
+     "startMs": 575695,
+     "endMs": 585005,
+     "narration_dhivehi": "އެއީ ޝަމްއާންގެ ދިރިއުޅުމުގެ އެންމެ އުފާވެރި ވަގުތުކޮޅެވެ. ނަމަވެސް ގަޑިއަށް ބަލައިލިއިރު އޮފީހަށް ދާންޖެހޭ ވަގުތު ޖެހިއްޖެއެވެ. ޝަމްއާން ތެދުވެ،",
+     "narration_english": "That was the happiest moment of Shamaan's life. But when he looked at the clock it was time to go to the office. Shamaan got up,",
+     "crop": "medium",
+     "motion": "static drift",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      28.5,
+      0.0,
+      71.5,
+      84.7
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Shamaan; reference image 2 is Yameen; reference image 3 is Shamaan's father; reference image 4 is Sakeena), create a new scene: Cinematic semi-realistic digital illustration with a quiet, mysterious island-village mood, moonlit palette of deep indigo, silver-blue and sea-teal with warm amber lamplight accents at night and soft natural tropical light by day, gentle atmospheric haze, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and calm, uncluttered space at the bottom for a logo.\nScene: the family at the small breakfast table: Shamaan sitting with little Yameen on his lap, the giggling toddler reaching for a small piece of roshi from his father's plate; the father sitting beside them looking tired but smiling faintly; Sakeena standing at the table pouring tea; plates of roshi, a bowl of curry and glasses of tea. Location: the simple dining corner of an old coral-stone island house in the morning, a wooden table with plates of flat roshi bread, a bowl of tuna curry and glasses of milky tea, plastic chairs. Camera: medium wide shot, eye level, faces in the upper half, the table top as a calm lower third.\nCharacters: Shamaan: a slim Maldivian man about 28 with warm brown skin, a lean oval face, soft dark brown eyes with a sad tired look, straight dark eyebrows, short slightly wavy neatly combed black hair and a short neatly trimmed black beard; wears a plain light-blue long-sleeved button shirt with sleeves rolled to the forearm and dark grey long trousers. Yameen: a small Maldivian toddler boy about 2 years old with warm brown skin, a round chubby face, big dark innocent eyes and soft short black curly hair; wears a small mustard-yellow short-sleeved t-shirt and light-grey long cotton pants. Shamaan's father: a lean wiry slightly stooped Maldivian man about 60 with weathered warm brown skin, a lined face, deep-set tired eyes and a short grey-white beard; wears a white knitted skullcap, a faded olive-green long-sleeved collared shirt and a dark checked sarong to the ankles. Sakeena: a short plump Maldivian woman in her mid 50s with warm brown skin, a round kind face with soft wrinkles and worried dark eyes; wears a loose long-sleeved ankle-length maroon traditional Maldivian dress with a thin gold-thread neckline band and a soft beige headscarf fully covering her hair and neck.\nMood/lighting: morning, warm soft daylight, cosy family warmth.\nModest Maldivian clothing (women in loose long-sleeved ankle-length dresses with hijab fully covering hair and neck; men in shirts and long trousers or sarong), culturally respectful, no violence shown, no blood, no gore, no monsters, no horror creatures, no text, no letters, no writing, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.427,
+    "halo": true
+   },
+   "focus": {
+    "x_pct": 74.7,
+    "y_pct": 15.5,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_026",
+   "startMs": 585005,
+   "endMs": 625006,
+   "new_image_reason": "action change: he leaves for the office; Yameen cries 'Bappa' and reaches for him",
+   "characters": [
+    "shamaan",
+    "yameen",
+    "sakeena"
+   ],
+   "location": "the open wooden front door of an old coral-stone island house leading to the sandy yard, morning",
+   "location_key": "front_door",
+   "mood": "morning, bright soft daylight outside the door and gentle shade inside, sad farewell",
+   "visual": "Shamaan at the open front door, dressed for work with a small shoulder bag, turned back towards the room with a pained torn face; in the foreground Sakeena holding little Yameen, who is crying with tears on his cheeks and stretching both small arms out towards his father",
+   "camera": "medium wide shot from inside the house towards the door, faces in the upper half",
+   "image": "images/beat_026.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "island_house_day",
+   "shots": [
+    {
+     "id": "shot_064",
+     "startMs": 585005,
+     "endMs": 594875,
+     "narration_dhivehi": "އޮފީހަށް ދާން ތައްޔާރުވެގެން ދޮރާ ދިމާއަށް ހިނގައިގަތެވެ. އެވަގުތު ޔަމީންގެ މޫނުމަތީގެ ކުލަވަރު ބަދަލުވެ، ދެލޯ ފެންކަޅިވިއެވެ. \"ބައްޕާ... ބައްޕާ...\"",
+     "narration_english": "got ready for the office and started towards the door. Just then the colour of Yameen's face changed and his eyes filled with tears. \"Bappa... Bappa...\"",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [
+      {
+       "name": "footsteps_pavement",
+       "atMs": 587635,
+       "gainDb": -22,
+       "word": "ހިނގައިގަތެވެ."
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_065",
+     "startMs": 594875,
+     "endMs": 606506,
+     "narration_dhivehi": "ކިޔާފައި ޔަމީން ބާރަށް ރޯން ފަށައިފިއެވެ. އޭނާ ބޭނުންވީ ބައްޕައާއެކު ދާށެވެ. އެ ކުޑަކުޑަ ދެއަތް ޝަމްއާނާ ދިމާއަށް ދިއްކޮށްލައިގެން ހުރެ ރުއި ރުއިމުން ޝަމްއާންގެ ހިތް ކުދިކުދިވާ ފަދައެވެ.",
+     "narration_english": "he called, and began to cry loudly. He wanted to go with his father. As he stood crying, stretching his little arms towards Shamaan, it was enough to break Shamaan's heart.",
+     "crop": "tight",
+     "motion": "pan left",
+     "sfx": [
+      {
+       "name": "sob_breath",
+       "atMs": 596395,
+       "gainDb": -20,
+       "word": "ރޯން"
+      }
+     ],
+     "hum": true,
+     "crop_rect_pct": [
+      33.7,
+      29.6,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_066",
+     "startMs": 606506,
+     "endMs": 615076,
+     "narration_dhivehi": "ޝަމްއާން މަޑުޖެހިލިއެވެ. ދަރިފުޅު އުރާލައި މަސަލަސްކުރަން ހިތަށް އެރިއެވެ. އޮފީހަށް ނުގޮސް މަޑުކޮށްލަންވެސް ހިތް ބުންޏެވެ. ނަމަވެސް،",
+     "narration_english": "Shamaan stopped. He wanted to pick his son up and soothe him. His heart even told him to skip the office and stay. But,",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": true,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_067",
+     "startMs": 615076,
+     "endMs": 625006,
+     "narration_dhivehi": "އޭނާގެ ކޮނޑުގައި އެޅިފައިވާ ޒިންމާތަކާއި، ބަލި ބައްޕަގެ ބޭސްފަރުވާއާއި، އަދި ޚާއްސަކޮށް ޔަމީންގެ އުޖާލާ މުސްތަގްބަލަށްޓަކައި އޭނާ މަސައްކަތް ކުރަން ޖެހެއެވެ.",
+     "narration_english": "for the responsibilities on his shoulders, his sick father's treatment, and above all Yameen's bright future, he has to work.",
+     "crop": "medium",
+     "motion": "pan right",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      27.6,
+      15.3,
+      71.5,
+      84.7
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Shamaan; reference image 2 is Yameen; reference image 3 is Sakeena), create a new scene: Cinematic semi-realistic digital illustration with a quiet, mysterious island-village mood, moonlit palette of deep indigo, silver-blue and sea-teal with warm amber lamplight accents at night and soft natural tropical light by day, gentle atmospheric haze, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and calm, uncluttered space at the bottom for a logo.\nScene: Shamaan at the open front door, dressed for work with a small shoulder bag, turned back towards the room with a pained torn face; in the foreground Sakeena holding little Yameen, who is crying with tears on his cheeks and stretching both small arms out towards his father. Location: the open wooden front door of an old coral-stone island house leading to the sandy yard, morning. Camera: medium wide shot from inside the house towards the door, faces in the upper half.\nCharacters: Shamaan: a slim Maldivian man about 28 with warm brown skin, a lean oval face, soft dark brown eyes with a sad tired look, straight dark eyebrows, short slightly wavy neatly combed black hair and a short neatly trimmed black beard; wears a plain light-blue long-sleeved button shirt with sleeves rolled to the forearm and dark grey long trousers. Yameen: a small Maldivian toddler boy about 2 years old with warm brown skin, a round chubby face, big dark innocent eyes and soft short black curly hair; wears a small mustard-yellow short-sleeved t-shirt and light-grey long cotton pants. Sakeena: a short plump Maldivian woman in her mid 50s with warm brown skin, a round kind face with soft wrinkles and worried dark eyes; wears a loose long-sleeved ankle-length maroon traditional Maldivian dress with a thin gold-thread neckline band and a soft beige headscarf fully covering her hair and neck.\nMood/lighting: morning, bright soft daylight outside the door and gentle shade inside, sad farewell.\nModest Maldivian clothing (women in loose long-sleeved ankle-length dresses with hijab fully covering hair and neck; men in shirts and long trousers or sarong), culturally respectful, no violence shown, no blood, no gore, no monsters, no horror creatures, no text, no letters, no writing, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.282,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 63.4,
+    "y_pct": 79.2,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_027",
+   "startMs": 625006,
+   "endMs": 643257,
+   "new_image_reason": "location change: he walks to the office, wiping a tear",
+   "characters": [
+    "shamaan"
+   ],
+   "location": "a narrow sandy lane of a small Maldivian island village in the morning, low coral-stone walls, coconut palms and bougainvillea, long soft shadows",
+   "location_key": "lane_morning",
+   "mood": "morning, soft warm sunlight and long shadows, quiet and heavy-hearted",
+   "visual": "Shamaan walking alone down the sandy village lane towards the viewer, wiping a tear from his eye with the back of his hand, a small bag on his shoulder, his face sad but determined",
+   "camera": "medium wide shot, eye level, his face in the upper third, the sandy lane as a calm lower third",
+   "image": "images/beat_027.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "village_day",
+   "shots": [
+    {
+     "id": "shot_068",
+     "startMs": 625006,
+     "endMs": 632276,
+     "narration_dhivehi": "ލޮލުން ފޭބި ކަރުނަތިއްކެއް ފޮހެލަމުން، ހިތްވަރުކޮށްފައި ޝަމްއާން ގެއިން ނުކުތެވެ. އޮފީހަށް ދާހިތަކުން ނޫނެވެ.",
+     "narration_english": "Wiping away a tear that fell from his eye, Shamaan steeled himself and left the house. Not out of any wish to go to the office,",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_069",
+     "startMs": 632276,
+     "endMs": 643257,
+     "narration_dhivehi": "އެކަމަކު އެ ދަރިފުޅަށް ރަނގަޅު ދިރިއުޅުމެއް ހޯދައިދިނުމުގެ މަތިވެރި އަޒުމުގައެވެ. މަގުމަތީގައި ހިނގަމުން ދިޔައިރުވެސް ޝަމްއާންގެ ކަންފަތުގައި ގުގުމަމުން ދިޔައީ ޔަމީންގެ ރުއިމުގެ އަޑެވެ.",
+     "narration_english": "but with the noble resolve to give that son a good life. Even as he walked along the road, the sound of Yameen's crying echoed in Shamaan's ears.",
+     "crop": "tight",
+     "motion": "pan up",
+     "sfx": [
+      {
+       "name": "footsteps_sand",
+       "atMs": 637777,
+       "gainDb": -22,
+       "word": "ހިނގަމުން"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      20.3,
+      4.8,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Shamaan), create a new scene: Cinematic semi-realistic digital illustration with a quiet, mysterious island-village mood, moonlit palette of deep indigo, silver-blue and sea-teal with warm amber lamplight accents at night and soft natural tropical light by day, gentle atmospheric haze, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and calm, uncluttered space at the bottom for a logo.\nScene: Shamaan walking alone down the sandy village lane towards the viewer, wiping a tear from his eye with the back of his hand, a small bag on his shoulder, his face sad but determined. Location: a narrow sandy lane of a small Maldivian island village in the morning, low coral-stone walls, coconut palms and bougainvillea, long soft shadows. Camera: medium wide shot, eye level, his face in the upper third, the sandy lane as a calm lower third.\nCharacters: Shamaan: a slim Maldivian man about 28 with warm brown skin, a lean oval face, soft dark brown eyes with a sad tired look, straight dark eyebrows, short slightly wavy neatly combed black hair and a short neatly trimmed black beard; wears a plain light-blue long-sleeved button shirt with sleeves rolled to the forearm and dark grey long trousers.\nMood/lighting: morning, soft warm sunlight and long shadows, quiet and heavy-hearted.\nModest Maldivian clothing (women in loose long-sleeved ankle-length dresses with hijab fully covering hair and neck; men in shirts and long trousers or sarong), culturally respectful, no violence shown, no blood, no gore, no monsters, no horror creatures, no text, no letters, no writing, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.368,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 50.0,
+    "y_pct": 40.0,
+    "face_detected": false
+   }
+  },
+  {
+   "id": "beat_028",
+   "startMs": 643257,
+   "endMs": 681118,
+   "new_image_reason": "location change: at the office his mind stays at home",
+   "characters": [
+    "shamaan"
+   ],
+   "location": "a small plain island government office, a few wooden desks with desktop computers seen from behind or the side, a filing cabinet, a window with palm leaves outside, whitewashed walls",
+   "location_key": "office",
+   "mood": "midday, flat cool office light with bright tropical sun outside the window, distracted and lonely",
+   "visual": "Shamaan sitting at his office desk in front of a desktop computer seen from the side (the screen not visible), his chin resting on his hand, staring absently out of the window, lost in thought",
+   "camera": "medium shot, eye level, his face in the upper half, the desk top as a calm lower third",
+   "image": "images/beat_028.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "office_day",
+   "shots": [
+    {
+     "id": "shot_070",
+     "startMs": 643257,
+     "endMs": 652347,
+     "narration_dhivehi": "ކޮންމެ ދުވަހަކުވެސް އޮފީހަށްދާ ވަގުތު އަންނަނީ ހިތްދަތި ކަމަކާއެކުގައެވެ. އޮފީހަށް ވަދެ ގޮނޑީގައި އިށީނދެލުމަށްފަހު، ކޮމްޕިއުޓަރު ހުޅުވައިލި ނަމަވެސް،",
+     "narration_english": "Every day the time to go to the office comes with heartache. After entering the office and sitting down, though he switched on the computer,",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [
+      {
+       "name": "keyboard_typing",
+       "atMs": 650397,
+       "gainDb": -24,
+       "word": "ކޮމްޕިއުޓަރު"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_071",
+     "startMs": 652347,
+     "endMs": 662987,
+     "narration_dhivehi": "އޭނާގެ ސިކުނޑި ވަނީ ގޭގައެވެ. އޮފީހުގެ މަސައްކަތްތަކުގެ ތެރޭގައި އުޅެމުން ދިޔައިރު، ޝަމްއާންގެ ހަނދާނަށް އަންނަމުން ދިޔައީ މީގެ ކުރިން ދިމާވި ހިތްދަތި ހާދިސާއެވެ.",
+     "narration_english": "his mind was at home. As he went about his office work, the painful event that had happened before kept coming back to Shamaan's mind.",
+     "crop": "tight",
+     "motion": "pan down",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      37.7,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_072",
+     "startMs": 662987,
+     "endMs": 673017,
+     "narration_dhivehi": "ޔަމީންގެ މަންމަ، އަދި އޭނާގެ ލޯބިވާ އަނބިމީހާ ވަކިވެގެން ދިޔުމުން، ޔަމީންއަށް ބައްޕައެއްގެ އިތުރުން މަންމައެއްގެ ލޯބި ދޭންޖެހިފައިވަނީ ޝަމްއާން އަށެވެ.",
+     "narration_english": "With Yameen's mother, his beloved wife, gone, it is Shamaan who has to give Yameen a mother's love as well as a father's.",
+     "crop": "full",
+     "motion": "static drift",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_073",
+     "startMs": 673017,
+     "endMs": 681118,
+     "narration_dhivehi": "މަންމަ ސަކީނާގެ އެހީތެރިކަން ލިބުނު ނަމަވެސް، ޔަމީން ބޮޑުވަމުން އަންނަ ވަރަކަށް މަންމައަށް ބޭނުންވާ މިންވަރު ދަނީ އިތުރުވަމުންނެވެ.",
+     "narration_english": "Though he has his mother Sakeena's help, the more Yameen grows, the more he needs a mother.",
+     "crop": "medium",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      28.5,
+      0.0,
+      71.5,
+      84.7
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Shamaan), create a new scene: Cinematic semi-realistic digital illustration with a quiet, mysterious island-village mood, moonlit palette of deep indigo, silver-blue and sea-teal with warm amber lamplight accents at night and soft natural tropical light by day, gentle atmospheric haze, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and calm, uncluttered space at the bottom for a logo.\nScene: Shamaan sitting at his office desk in front of a desktop computer seen from the side (the screen not visible), his chin resting on his hand, staring absently out of the window, lost in thought. Location: a small plain island government office, a few wooden desks with desktop computers seen from behind or the side, a filing cabinet, a window with palm leaves outside, whitewashed walls. Camera: medium shot, eye level, his face in the upper half, the desk top as a calm lower third.\nCharacters: Shamaan: a slim Maldivian man about 28 with warm brown skin, a lean oval face, soft dark brown eyes with a sad tired look, straight dark eyebrows, short slightly wavy neatly combed black hair and a short neatly trimmed black beard; wears a plain light-blue long-sleeved button shirt with sleeves rolled to the forearm and dark grey long trousers.\nMood/lighting: midday, flat cool office light with bright tropical sun outside the window, distracted and lonely.\nModest Maldivian clothing (women in loose long-sleeved ankle-length dresses with hijab fully covering hair and neck; men in shirts and long trousers or sarong), culturally respectful, no violence shown, no blood, no gore, no monsters, no horror creatures, no text, no letters, no writing, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.318,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 67.4,
+    "y_pct": 28.5,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_029",
+   "startMs": 681118,
+   "endMs": 708948,
+   "new_image_reason": "action change: midday break, he phones home and is relieved",
+   "characters": [
+    "shamaan"
+   ],
+   "location": "a small plain island government office, a few wooden desks with desktop computers seen from behind or the side, a filing cabinet, a window with palm leaves outside, whitewashed walls",
+   "location_key": "office",
+   "mood": "midday, flat cool office light with bright tropical sun outside the window, distracted and lonely",
+   "visual": "Shamaan standing by the bright office window holding a mobile phone to his ear, his worried face slowly easing into a relieved smile, bright midday sun and palm leaves outside",
+   "camera": "medium close-up, eye level, his face in the upper third",
+   "image": "images/beat_029.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "office_quiet",
+   "shots": [
+    {
+     "id": "shot_074",
+     "startMs": 681118,
+     "endMs": 691028,
+     "narration_dhivehi": "މެންދުރުގެ ހޫނުގަދަ ވަގުތެވެ. އޮފީހުގެ ބުރޭކް ގަޑީގައި ޝަމްއާން އަވަސްވެގަތީ ގެއަށް ގުޅައިލުމަށެވެ. ފޯނު ނެގީ ސަކީނާއެވެ. \"މަންމާ، ޔަމީން ކިހިނެއް؟",
+     "narration_english": "It was the hot hour of midday. At the office break Shamaan hurried to call home. Sakeena picked up the phone. \"Mother, how is Yameen?",
+     "crop": "full",
+     "motion": "pan left",
+     "sfx": [
+      {
+       "name": "phone_buzz",
+       "atMs": 686258,
+       "gainDb": -24,
+       "word": "ގުޅައިލުމަށެވެ."
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_075",
+     "startMs": 691028,
+     "endMs": 701328,
+     "narration_dhivehi": "އަދިވެސް ރޮނީތަ؟\" ޝަމްއާން ކަންބޮޑުވުމާއެކު އަހައިލިއެވެ. \"ނޫނޭ ދަރިފުޅާ، މިހާރު މައިތިރިވެއްޖެ. ކާލައިގެން ބައްޕަ ގާތުގައި ނިދާފައި އެއޮތީ.",
+     "narration_english": "Is he still crying?\" Shamaan asked anxiously. \"No, son, he has calmed down now. He ate and is sleeping next to Bappa.",
+     "crop": "tight",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      18.4,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_076",
+     "startMs": 701328,
+     "endMs": 708948,
+     "narration_dhivehi": "ބައްޕަގެ ހުންވެސް މިހާރު ތަންކޮޅެއް މަޑުވެއްޖެ\" ސަކީނާ ދިން ޖަވާބުން ޝަމްއާންގެ ހިތަށް ބޮޑު ހަމަޖެހުމެއް ލިބުނެވެ.",
+     "narration_english": "Bappa's fever has also eased a little now.\" Sakeena's answer brought great relief to Shamaan's heart.",
+     "crop": "full",
+     "motion": "pan right",
+     "sfx": [
+      {
+       "name": "sigh",
+       "atMs": 707418,
+       "gainDb": -22,
+       "word": "ހަމަޖެހުމެއް"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Shamaan), create a new scene: Cinematic semi-realistic digital illustration with a quiet, mysterious island-village mood, moonlit palette of deep indigo, silver-blue and sea-teal with warm amber lamplight accents at night and soft natural tropical light by day, gentle atmospheric haze, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and calm, uncluttered space at the bottom for a logo.\nScene: Shamaan standing by the bright office window holding a mobile phone to his ear, his worried face slowly easing into a relieved smile, bright midday sun and palm leaves outside. Location: a small plain island government office, a few wooden desks with desktop computers seen from behind or the side, a filing cabinet, a window with palm leaves outside, whitewashed walls. Camera: medium close-up, eye level, his face in the upper third.\nCharacters: Shamaan: a slim Maldivian man about 28 with warm brown skin, a lean oval face, soft dark brown eyes with a sad tired look, straight dark eyebrows, short slightly wavy neatly combed black hair and a short neatly trimmed black beard; wears a plain light-blue long-sleeved button shirt with sleeves rolled to the forearm and dark grey long trousers.\nMood/lighting: midday, flat cool office light with bright tropical sun outside the window, distracted and lonely.\nModest Maldivian clothing (women in loose long-sleeved ankle-length dresses with hijab fully covering hair and neck; men in shirts and long trousers or sarong), culturally respectful, no violence shown, no blood, no gore, no monsters, no horror creatures, no text, no letters, no writing, no watermark.",
+   "logo": {
+    "color": "black",
+    "bg_luminance": 0.597,
+    "halo": true
+   },
+   "focus": {
+    "x_pct": 48.1,
+    "y_pct": 25.9,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_030",
+   "startMs": 708948,
+   "endMs": 725199,
+   "new_image_reason": "time and location change: after work he hurries home",
+   "characters": [
+    "shamaan"
+   ],
+   "location": "a narrow sandy lane of a small Maldivian island village in the late afternoon, low coral-stone walls, coconut palms, long golden shadows",
+   "location_key": "lane_evening",
+   "mood": "late afternoon, warm golden light and long shadows, eager and hopeful",
+   "visual": "Shamaan walking briskly down the sandy lane towards home in the warm late-afternoon light, a small hopeful smile on his face, his long shadow on the sand",
+   "camera": "medium wide shot from the side, eye level, the sandy lane as a calm lower third",
+   "image": "images/beat_030.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "village_day",
+   "shots": [
+    {
+     "id": "shot_077",
+     "startMs": 708948,
+     "endMs": 719059,
+     "narration_dhivehi": "މަސައްކަތުގެ ބުރަކަމުގެ ތެރޭގައި އުޅެމުން ދަނިކޮށް، އޮފީސް ނިމޭ ގަޑި ޖެހިއްޖެއެވެ. ޝަމްއާން އެހެން ދުވަސްދުވަހަށްވުރެ އަވަހަށް ގެއާ ދިމާއަށް މިސްރާބު ޖެހިއެވެ.",
+     "narration_english": "Amid the strain of the work, the office closing time came. Shamaan set off for home earlier than on other days.",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [
+      {
+       "name": "footsteps_sand",
+       "atMs": 717599,
+       "gainDb": -22,
+       "word": "މިސްރާބު"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_078",
+     "startMs": 719059,
+     "endMs": 725199,
+     "narration_dhivehi": "އޭނާގެ ހިތް އެދެމުން ދިޔައީ ވީހާވެސް އަވަހަކަށް އެ ދަރިފުޅު އުރާލައި، އެ މޫނަށް ބޮސްދިނުމަށެވެ.",
+     "narration_english": "His heart longed to take that son in his arms as soon as possible and kiss that face.",
+     "crop": "tight",
+     "motion": "pan up",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      1.1,
+      29.6,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Shamaan), create a new scene: Cinematic semi-realistic digital illustration with a quiet, mysterious island-village mood, moonlit palette of deep indigo, silver-blue and sea-teal with warm amber lamplight accents at night and soft natural tropical light by day, gentle atmospheric haze, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and calm, uncluttered space at the bottom for a logo.\nScene: Shamaan walking briskly down the sandy lane towards home in the warm late-afternoon light, a small hopeful smile on his face, his long shadow on the sand. Location: a narrow sandy lane of a small Maldivian island village in the late afternoon, low coral-stone walls, coconut palms, long golden shadows. Camera: medium wide shot from the side, eye level, the sandy lane as a calm lower third.\nCharacters: Shamaan: a slim Maldivian man about 28 with warm brown skin, a lean oval face, soft dark brown eyes with a sad tired look, straight dark eyebrows, short slightly wavy neatly combed black hair and a short neatly trimmed black beard; wears a plain light-blue long-sleeved button shirt with sleeves rolled to the forearm and dark grey long trousers.\nMood/lighting: late afternoon, warm golden light and long shadows, eager and hopeful.\nModest Maldivian clothing (women in loose long-sleeved ankle-length dresses with hijab fully covering hair and neck; men in shirts and long trousers or sarong), culturally respectful, no violence shown, no blood, no gore, no monsters, no horror creatures, no text, no letters, no writing, no watermark.",
+   "logo": {
+    "color": "black",
+    "bg_luminance": 0.595,
+    "halo": true
+   },
+   "focus": {
+    "x_pct": 30.9,
+    "y_pct": 74.8,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_031",
+   "startMs": 725199,
+   "endMs": 748480,
+   "new_image_reason": "action change: Yameen runs to his father and Shamaan scoops him up",
+   "characters": [
+    "shamaan",
+    "yameen"
+   ],
+   "location": "the plain sitting room of an old coral-stone island house in the late afternoon, whitewashed walls, a worn cushioned sofa, a woven mat on a tiled floor with a few small toys, an open doorway to the sandy yard",
+   "location_key": "sitting_room_evening",
+   "mood": "late afternoon, warm golden light streaming in through the open doorway, joyful and tender",
+   "visual": "in the sitting room, Shamaan just through the doorway bending down with a wide happy smile and lifting little Yameen, who has run to him and is laughing with joy, arms reaching up; a few small toys on the woven mat; warm late-afternoon light from the doorway",
+   "camera": "medium shot, eye level, both faces in the upper half, the mat as a calm lower third",
+   "image": "images/beat_031.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "island_house_day",
+   "shots": [
+    {
+     "id": "shot_079",
+     "startMs": 725199,
+     "endMs": 734689,
+     "narration_dhivehi": "ގެއަށް ވަދެވުމާއެކު، ސިޓިންގްރޫމްގައި ކުޅެން އިން ޔަމީންއަށް ބައްޕަ ފެނުމުން މޫނުމަތިން ފެނިގެންދިޔައީ އާދަޔާ ޚިލާފު އުފާވެރިކަމެކެވެ. \"ބައްޕާ!\"",
+     "narration_english": "As soon as he stepped into the house, the moment Yameen, sitting playing in the sitting room, saw his father, extraordinary joy lit up his face. \"Bappa!\"",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [
+      {
+       "name": "door_open",
+       "atMs": 725439,
+       "gainDb": -20,
+       "word": "ވަދެވުމާއެކު،"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_080",
+     "startMs": 734689,
+     "endMs": 742079,
+     "narration_dhivehi": "ގޮވައިލަމުން ދުވެފައި އައިސް ޝަމްއާންގެ ފައިގައި ބައްދާލިއެވެ. ޝަމްއާން ލޯތްބާއެކު ޔަމީން އުރާލައި މޭގައި ޖައްސާލިއެވެ.",
+     "narration_english": "Calling out, he came running and hugged Shamaan's legs. Shamaan lovingly picked Yameen up and held him to his chest.",
+     "crop": "tight",
+     "motion": "pan down",
+     "sfx": [
+      {
+       "name": "footsteps_pavement",
+       "atMs": 735759,
+       "gainDb": -24,
+       "word": "ދުވެފައި"
+      }
+     ],
+     "hum": true,
+     "crop_rect_pct": [
+      20.3,
+      4.8,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_081",
+     "startMs": 742079,
+     "endMs": 748480,
+     "narration_dhivehi": "ހެނދުނު ކުރި އިހުސާސްތަކާއި އުފުލި ތަކުލީފުތައް، އެ ކުޑަކުޑަ ހިނިތުންވުމުން، ފިލައިގެން ދިޔައެވެ.",
+     "narration_english": "The feelings of the morning and the pain he had carried melted away with that little smile.",
+     "crop": "full",
+     "motion": "static drift",
+     "sfx": [],
+     "hum": true,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Shamaan; reference image 2 is Yameen), create a new scene: Cinematic semi-realistic digital illustration with a quiet, mysterious island-village mood, moonlit palette of deep indigo, silver-blue and sea-teal with warm amber lamplight accents at night and soft natural tropical light by day, gentle atmospheric haze, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and calm, uncluttered space at the bottom for a logo.\nScene: in the sitting room, Shamaan just through the doorway bending down with a wide happy smile and lifting little Yameen, who has run to him and is laughing with joy, arms reaching up; a few small toys on the woven mat; warm late-afternoon light from the doorway. Location: the plain sitting room of an old coral-stone island house in the late afternoon, whitewashed walls, a worn cushioned sofa, a woven mat on a tiled floor with a few small toys, an open doorway to the sandy yard. Camera: medium shot, eye level, both faces in the upper half, the mat as a calm lower third.\nCharacters: Shamaan: a slim Maldivian man about 28 with warm brown skin, a lean oval face, soft dark brown eyes with a sad tired look, straight dark eyebrows, short slightly wavy neatly combed black hair and a short neatly trimmed black beard; wears a plain light-blue long-sleeved button shirt with sleeves rolled to the forearm and dark grey long trousers. Yameen: a small Maldivian toddler boy about 2 years old with warm brown skin, a round chubby face, big dark innocent eyes and soft short black curly hair; wears a small mustard-yellow short-sleeved t-shirt and light-grey long cotton pants.\nMood/lighting: late afternoon, warm golden light streaming in through the open doorway, joyful and tender.\nModest Maldivian clothing (women in loose long-sleeved ankle-length dresses with hijab fully covering hair and neck; men in shirts and long trousers or sarong), culturally respectful, no violence shown, no blood, no gore, no monsters, no horror creatures, no text, no letters, no writing, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.498,
+    "halo": true
+   },
+   "focus": {
+    "x_pct": 50.0,
+    "y_pct": 40.0,
+    "face_detected": false
+   }
+  }
+ ]
+}

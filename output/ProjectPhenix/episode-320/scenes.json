@@ -1,0 +1,2924 @@
+{
+ "series": "ProjectPhenix",
+ "episode": 320,
+ "beats": [
+  {
+   "id": "beat_001",
+   "startMs": 0,
+   "endMs": 24851,
+   "new_image_reason": "episode opening: dawn, a cargo boat leaving Malé's north harbour with Ashham and Habeeb as secret passengers",
+   "characters": [
+    "ashham",
+    "habeeb"
+   ],
+   "location": "a weathered wooden-and-steel cargo supply boat travelling south across the open Maldivian sea, an open deck stacked with lashed wooden crates and sacks, a small wheelhouse, the low skyline of Malé's north harbour fading behind",
+   "location_key": "cargo_boat",
+   "mood": "dim grey-blue dawn light, a pale pink glow low on the horizon, calm sea, quiet secrecy and tension",
+   "visual": "Ashham in plain civilian clothes (not a uniform): a dark-grey long-sleeved button shirt and dark trousers, short dark stubble and Habeeb in his dark-grey zip-up jacket and black-rimmed glasses sitting quietly among lashed wooden crates on the open deck of the cargo boat as it pulls away from Malé's north harbour at dawn, Habeeb with a laptop bag on his knees, Ashham looking back at the fading city skyline with a grave face; plain unmarked crates",
+   "camera": "medium wide shot from the deck, eye level, faces in the upper two-thirds, a calm dark lower third (the wet wooden deck)",
+   "image": "images/beat_001.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "sea_boat",
+   "shots": [
+    {
+     "id": "shot_001",
+     "startMs": 0,
+     "endMs": 7620,
+     "narration_dhivehi": "ފަތިހުގެ ފަނޑު އަލިކަމުގެ ތެރޭގައި، މާލޭގެ އުތުރު ބަނދަރުން ފުރި މުދާ އުފުލާ ބޯޓެއްގެ ތެރޭގައި އަޝްހަމާއި ހަބީބު ތިއްބެވެ.",
+     "narration_english": "In the dim light of dawn, Ashham and Habeeb were aboard a cargo boat that had left Malé's north harbour.",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [
+      {
+       "name": "boat_engine",
+       "atMs": 5100,
+       "gainDb": -20,
+       "word": "ބޯޓެއްގެ"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_002",
+     "startMs": 7620,
+     "endMs": 15000,
+     "narration_dhivehi": "މި ބޯޓަކީ ދެކުނުގެ އަތޮޅުތަކަށް މުދާ ހިފައިގެންދާ ބޯޓެކެވެ. ބޯޓުގެ ކެޕްޓަނަކީ އަޝްހަމްގެ ކުރީގެ ރައްޓެއްސެއް ކަމުން،",
+     "narration_english": "This boat carries goods to the southern atolls. Because the boat's captain was an old friend of Ashham's,",
+     "crop": "tight",
+     "motion": "pan left",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      12.2,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_003",
+     "startMs": 15000,
+     "endMs": 24851,
+     "narration_dhivehi": "އެމީހުން ބޯޓަށް އެރީ ސިއްރު ފަސިންޖަރުންގެ ގޮތުގައެވެ. ހަބީބު އިނީ އޭނާގެ ސެޓެލައިޓް މޮޑެމް ބޭނުންކޮށްގެން ޑޮކްޓަރ ރާނިޔާގެ ހަރަކާތްތައް ބަލާށެވެ. \"ސަރ،",
+     "narration_english": "they boarded the boat as secret passengers. Habeeb sat using his satellite modem to follow Dr. Raniya's movements. \"Sir,",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [
+      {
+       "name": "keyboard_typing",
+       "atMs": 20520,
+       "gainDb": -24,
+       "word": "މޮޑެމް"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Ashham; reference image 2 is Habeeb), create a new scene: Cinematic semi-realistic digital illustration with a tense modern crime-thriller look, deep midnight-navy and steel-blue shadows, cold moonlight and fluorescent light with warm ember-orange and amber accents, high contrast with soft highlights, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, wet pavement, sand, dark water, table top, soft shadow) for captions and a logo; rain and sea spray glisten in night scenes; set in present-day Maldives: Malé's narrow rain-wet streets and police offices, Hulhumalé, dark open sea, and a deserted jungle-covered island in Gaafu Alifu atoll hiding a concrete underground bunker.\nScene: Ashham in plain civilian clothes (not a uniform): a dark-grey long-sleeved button shirt and dark trousers, short dark stubble and Habeeb in his dark-grey zip-up jacket and black-rimmed glasses sitting quietly among lashed wooden crates on the open deck of the cargo boat as it pulls away from Malé's north harbour at dawn, Habeeb with a laptop bag on his knees, Ashham looking back at the fading city skyline with a grave face; plain unmarked crates. Location: a weathered wooden-and-steel cargo supply boat travelling south across the open Maldivian sea, an open deck stacked with lashed wooden crates and sacks, a small wheelhouse, the low skyline of Malé's north harbour fading behind. Camera: medium wide shot from the deck, eye level, faces in the upper two-thirds, a calm dark lower third (the wet wooden deck).\nCharacters: Ashham: a tall broad-shouldered strong Maldivian man of about 38 with warm brown skin, a strong rectangular face with a firm jaw, sharp intelligent dark eyes under straight thick eyebrows, short neat black hair tapered at the sides and short dark stubble; wears a dark-navy long-sleeved police field shirt with buttoned cuffs and plain epaulettes (no badges, no lettering), dark-navy trousers, a plain black belt, black boots and a black wristwatch. Habeeb: a slim Maldivian young man of about 28 with warm brown skin, a slim clean-shaven youthful face, alert dark eyes behind thin rectangular black-rimmed glasses and short slightly messy black hair; wears a dark-grey long-sleeved zip-up jacket over a plain white t-shirt, black trousers and white sneakers.\nMood/lighting: dim grey-blue dawn light, a pale pink glow low on the horizon, calm sea, quiet secrecy and tension.\nModest Maldivian clothing (every woman in loose long-sleeved ankle-length opaque clothing with a hijab fully covering her hair and neck; men in long-sleeved shirts, jackets or suits and long trousers, never shirtless), a clear respectful distance between men and women, nobody touching, culturally respectful, no guns, no firearms, no weapons of any kind, no knives, no syringes, no handcuffs, no chains, no ropes, no violence, nobody hitting or hurting anyone, no blood, no wounds, no bruises, no injuries, no corpses, no body parts, no person lying lifeless, no cigarettes, no smoking, no tattoos, no text, no letters, no numbers, no digits on displays, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.109,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 41.9,
+    "y_pct": 25.9,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_002",
+   "startMs": 24851,
+   "endMs": 59702,
+   "new_image_reason": "action change: in the cabin Habeeb tracks Raniya on the satellite modem; Ashham watches the storm brewing through the window",
+   "characters": [
+    "habeeb",
+    "ashham"
+   ],
+   "location": "the small cramped cabin of a cargo supply boat at sea, a narrow bench, a fold-down table, a small round window looking out on the grey sea",
+   "location_key": "cargo_cabin",
+   "mood": "cool grey daylight from the small window, the blue glow of a laptop, darkening storm clouds gathering outside, uneasy silence",
+   "visual": "Habeeb in his dark-grey zip-up jacket and black-rimmed glasses hunched at the fold-down table over his open laptop and a small satellite modem with a blinking light, the screen angled away from the viewer, its blue glow on his glasses; Ashham in plain civilian clothes (not a uniform): a dark-grey long-sleeved button shirt and dark trousers, short dark stubble standing by the small round window looking out at dark storm clouds gathering over the grey sea, arms folded, serious",
+   "camera": "medium shot, eye level, faces in the upper two-thirds, a calm dark lower third (table top)",
+   "image": "images/beat_002.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "sea_boat",
+   "shots": [
+    {
+     "id": "shot_004",
+     "startMs": 24851,
+     "endMs": 35491,
+     "narration_dhivehi": "ރާނިޔާ މިހާރު ހުރީ ހޮސްޕިޓަލުގެ ޑިއުޓީގައި. އޭނާގެ ފޯނުގެ ލޮކޭޝަން ދައްކަނީ އެތަން. އެކަމަކު އޭނާގެ ވަށައިގެންވެސް ނޭނގޭ ނަންބަރުތަކަކުން ގިނަ ކޯލްތަކެއް އެބަދޭ.\"",
+     "narration_english": "Raniya is on duty at the hospital now. Her phone's location shows it's there. But there are many calls from unknown numbers around her too.\"",
+     "crop": "full",
+     "motion": "pan right",
+     "sfx": [
+      {
+       "name": "phone_buzz",
+       "atMs": 34141,
+       "gainDb": -24,
+       "word": "ކޯލްތަކެއް"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_005",
+     "startMs": 35491,
+     "endMs": 43031,
+     "narration_dhivehi": "\"އެއީ އެމީހުންގެ ފާރަވެރިން،\" އަޝްހަމް ކުޑަދޮރުން ބޭރަށް ބަލާލިއެވެ. \"ރާނިޔާ ހުރީ ބަންދުވެފައިވާ ކޮށްޓެއްގެ ތެރޭގައި.",
+     "narration_english": "\"Those are their guards,\" Ashham said, looking out of the window. \"Raniya is inside a locked cage.",
+     "crop": "tight",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      40.6,
+      29.6,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_006",
+     "startMs": 43031,
+     "endMs": 50302,
+     "narration_dhivehi": "އޭނާ ސަލާމަތް ކުރެވިގެން ނޫނީ ހަގީގަތް އެނގޭކަށް ނެތް.\" ދަތުރުގެ ބާކީ ބައި ދިޔައީ ހިމޭންކަމާއެކުގައެވެ.",
+     "narration_english": "Unless she's saved, we won't learn the truth.\" The rest of the voyage passed in silence.",
+     "crop": "full",
+     "motion": "pan up",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_007",
+     "startMs": 50302,
+     "endMs": 59702,
+     "narration_dhivehi": "ނަމަވެސް އެ ހިމޭންކަމުގެ ފަހަތުގައި އޮތީ ބޮޑު ތޫފާނެއްގެ ސިއްރުކަން ދެމީހުންނަށްވެސް އެނގެއެވެ. ރަށަށް ލެފުން: އޭގެ އަނެއްދުވަހުގެ ރޭގަނޑު 9 ޖެހިއިރު،",
+     "narration_english": "Yet both of them knew that behind that silence lay the secret of a great storm. Reaching the island: the next night at nine,",
+     "crop": "medium",
+     "motion": "slow pull-out",
+     "sfx": [
+      {
+       "name": "thunder",
+       "atMs": 53122,
+       "gainDb": -22,
+       "word": "ތޫފާނެއްގެ"
+      }
+     ],
+     "hum": true,
+     "crop_rect_pct": [
+      28.5,
+      15.3,
+      71.5,
+      84.7
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Habeeb; reference image 2 is Ashham), create a new scene: Cinematic semi-realistic digital illustration with a tense modern crime-thriller look, deep midnight-navy and steel-blue shadows, cold moonlight and fluorescent light with warm ember-orange and amber accents, high contrast with soft highlights, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, wet pavement, sand, dark water, table top, soft shadow) for captions and a logo; rain and sea spray glisten in night scenes; set in present-day Maldives: Malé's narrow rain-wet streets and police offices, Hulhumalé, dark open sea, and a deserted jungle-covered island in Gaafu Alifu atoll hiding a concrete underground bunker.\nScene: Habeeb in his dark-grey zip-up jacket and black-rimmed glasses hunched at the fold-down table over his open laptop and a small satellite modem with a blinking light, the screen angled away from the viewer, its blue glow on his glasses; Ashham in plain civilian clothes (not a uniform): a dark-grey long-sleeved button shirt and dark trousers, short dark stubble standing by the small round window looking out at dark storm clouds gathering over the grey sea, arms folded, serious. Location: the small cramped cabin of a cargo supply boat at sea, a narrow bench, a fold-down table, a small round window looking out on the grey sea. Camera: medium shot, eye level, faces in the upper two-thirds, a calm dark lower third (table top).\nCharacters: Habeeb: a slim Maldivian young man of about 28 with warm brown skin, a slim clean-shaven youthful face, alert dark eyes behind thin rectangular black-rimmed glasses and short slightly messy black hair; wears a dark-grey long-sleeved zip-up jacket over a plain white t-shirt, black trousers and white sneakers. Ashham: a tall broad-shouldered strong Maldivian man of about 38 with warm brown skin, a strong rectangular face with a firm jaw, sharp intelligent dark eyes under straight thick eyebrows, short neat black hair tapered at the sides and short dark stubble; wears a dark-navy long-sleeved police field shirt with buttoned cuffs and plain epaulettes (no badges, no lettering), dark-navy trousers, a plain black belt, black boots and a black wristwatch.\nMood/lighting: cool grey daylight from the small window, the blue glow of a laptop, darkening storm clouds gathering outside, uneasy silence.\nModest Maldivian clothing (every woman in loose long-sleeved ankle-length opaque clothing with a hijab fully covering her hair and neck; men in long-sleeved shirts, jackets or suits and long trousers, never shirtless), a clear respectful distance between men and women, nobody touching, culturally respectful, no guns, no firearms, no weapons of any kind, no knives, no syringes, no handcuffs, no chains, no ropes, no violence, nobody hitting or hurting anyone, no blood, no wounds, no bruises, no injuries, no corpses, no body parts, no person lying lifeless, no cigarettes, no smoking, no tattoos, no text, no letters, no numbers, no digits on displays, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.118,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 73.7,
+    "y_pct": 77.7,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_003",
+   "startMs": 59702,
+   "endMs": 86223,
+   "new_image_reason": "time and scene change: next night at 9 pm they land at Villingili and walk the dark lanes to the quiet two-storey hospital",
+   "characters": [
+    "ashham",
+    "habeeb"
+   ],
+   "location": "a dark sandy island lane at night leading to a quiet two-storey atoll hospital building with a few lit windows and a small lit emergency entrance",
+   "location_key": "hospital_lane",
+   "mood": "night, cold navy-blue darkness, the warm glow of the hospital's lit windows, deep shadows, silent and eerie",
+   "visual": "Ashham in plain civilian clothes (not a uniform): a dark-grey long-sleeved button shirt and dark trousers, short dark stubble and Habeeb in his dark-grey zip-up jacket and black-rimmed glasses (with a backpack) walking side by side up a dark sandy island lane between coral-stone walls, seen slightly from behind, glancing around warily; ahead at the end of the lane the quiet two-storey island hospital with a few lit windows and a small lit emergency door; far behind them a dim yellow harbour lamp",
+   "camera": "medium wide shot, eye level, slightly from behind, the hospital and figures in the upper two-thirds, faces in the upper two-thirds, a calm dark lower third (dark sandy lane)",
+   "image": "images/beat_003.png",
+   "reuse_of": null,
+   "transition_in": "black",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "island_night",
+   "shots": [
+    {
+     "id": "shot_008",
+     "startMs": 59702,
+     "endMs": 69962,
+     "narration_dhivehi": "ބޯޓު ގއ.ވިލިނގިލީ ބަނދަރަށް ކައިރިކުރިއެވެ. ރަށުގެ ބަނދަރުމަތި އޮތީ ފަނޑު ބޮކިތަކެއްގެ އަލީގައެވެ. އަޝްހަމާއި ހަބީބު އާދައިގެ މީހުން ފަދައިން ހެދުން އަޅައިގެން،",
+     "narration_english": "the boat came alongside GA. Villingili harbour. The harbour lay under a few dim lamps. Dressed like ordinary people, Ashham and Habeeb",
+     "crop": "full",
+     "motion": "pan down",
+     "sfx": [
+      {
+       "name": "boat_engine",
+       "atMs": 61982,
+       "gainDb": -22,
+       "word": "ކައިރިކުރިއެވެ."
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_009",
+     "startMs": 69962,
+     "endMs": 77693,
+     "narration_dhivehi": "ބޯޓުން ފައިބައިގެން އަނދިރި މަގުތަކުން ހިނގާފައި ދިޔައީ ހޮސްޕިޓަލާ ދިމާއަށެވެ. ރަށުގެ ހޮސްޕިޓަލަކީ ދެބުރި އިމާރާތެކެވެ.",
+     "narration_english": "got off the boat and walked through the dark lanes toward the hospital. The island's hospital is a two-storey building.",
+     "crop": "tight",
+     "motion": "static drift",
+     "sfx": [
+      {
+       "name": "footsteps_sand",
+       "atMs": 72343,
+       "gainDb": -22,
+       "word": "ހިނގާފައި"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      20.3,
+      4.8,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_010",
+     "startMs": 77693,
+     "endMs": 86223,
+     "narration_dhivehi": "އެވަގުތު ހޮސްޕިޓަލް އޮތީ ވަރަށް ފަޅުކޮށެވެ. އެމަޖެންސީ ދޮރުން އެތެރެއަށް ވަދެ، އަޝްހަމް ޑޮކްޓަރުންގެ ރޫމްތައް ހުރި ދިމާއަށް މިސްރާބު ޖެހިއެވެ.",
+     "narration_english": "At that hour the hospital was very quiet. Entering through the emergency door, Ashham headed toward where the doctors' rooms were.",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [
+      {
+       "name": "door_open",
+       "atMs": 82103,
+       "gainDb": -22,
+       "word": "ވަދެ،"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Ashham; reference image 2 is Habeeb), create a new scene: Cinematic semi-realistic digital illustration with a tense modern crime-thriller look, deep midnight-navy and steel-blue shadows, cold moonlight and fluorescent light with warm ember-orange and amber accents, high contrast with soft highlights, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, wet pavement, sand, dark water, table top, soft shadow) for captions and a logo; rain and sea spray glisten in night scenes; set in present-day Maldives: Malé's narrow rain-wet streets and police offices, Hulhumalé, dark open sea, and a deserted jungle-covered island in Gaafu Alifu atoll hiding a concrete underground bunker.\nScene: Ashham in plain civilian clothes (not a uniform): a dark-grey long-sleeved button shirt and dark trousers, short dark stubble and Habeeb in his dark-grey zip-up jacket and black-rimmed glasses (with a backpack) walking side by side up a dark sandy island lane between coral-stone walls, seen slightly from behind, glancing around warily; ahead at the end of the lane the quiet two-storey island hospital with a few lit windows and a small lit emergency door; far behind them a dim yellow harbour lamp. Location: a dark sandy island lane at night leading to a quiet two-storey atoll hospital building with a few lit windows and a small lit emergency entrance. Camera: medium wide shot, eye level, slightly from behind, the hospital and figures in the upper two-thirds, faces in the upper two-thirds, a calm dark lower third (dark sandy lane).\nCharacters: Ashham: a tall broad-shouldered strong Maldivian man of about 38 with warm brown skin, a strong rectangular face with a firm jaw, sharp intelligent dark eyes under straight thick eyebrows, short neat black hair tapered at the sides and short dark stubble; wears a dark-navy long-sleeved police field shirt with buttoned cuffs and plain epaulettes (no badges, no lettering), dark-navy trousers, a plain black belt, black boots and a black wristwatch. Habeeb: a slim Maldivian young man of about 28 with warm brown skin, a slim clean-shaven youthful face, alert dark eyes behind thin rectangular black-rimmed glasses and short slightly messy black hair; wears a dark-grey long-sleeved zip-up jacket over a plain white t-shirt, black trousers and white sneakers.\nMood/lighting: night, cold navy-blue darkness, the warm glow of the hospital's lit windows, deep shadows, silent and eerie.\nModest Maldivian clothing (every woman in loose long-sleeved ankle-length opaque clothing with a hijab fully covering her hair and neck; men in long-sleeved shirts, jackets or suits and long trousers, never shirtless), a clear respectful distance between men and women, nobody touching, culturally respectful, no guns, no firearms, no weapons of any kind, no knives, no syringes, no handcuffs, no chains, no ropes, no violence, nobody hitting or hurting anyone, no blood, no wounds, no bruises, no injuries, no corpses, no body parts, no person lying lifeless, no cigarettes, no smoking, no tattoos, no text, no letters, no numbers, no digits on displays, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.069,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 50.0,
+    "y_pct": 40.0,
+    "face_detected": false
+   }
+  },
+  {
+   "id": "beat_004",
+   "startMs": 86223,
+   "endMs": 96404,
+   "new_image_reason": "location change: inside the corridor Habeeb keeps watch while Ashham knocks on Dr. Raniya's door",
+   "characters": [
+    "ashham",
+    "habeeb"
+   ],
+   "location": "the empty upstairs corridor of a two-storey island hospital at night, pale green walls, a few dim ceiling lights, closed wooden office doors with plain blank nameplates, a polished floor",
+   "location_key": "hospital_corridor",
+   "mood": "night, flat dim fluorescent light, long shadows, deserted and tense",
+   "visual": "Ashham in plain civilian clothes (not a uniform): a dark-grey long-sleeved button shirt and dark trousers, short dark stubble knocking softly with his knuckles on a closed wooden office door with a blank nameplate in the empty dim corridor; a few steps behind him Habeeb in his dark-grey zip-up jacket and black-rimmed glasses keeping watch, glancing back down the corridor",
+   "camera": "medium wide shot down the corridor, eye level, faces in the upper two-thirds, a calm dark lower third (polished floor)",
+   "image": "images/beat_004.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "hospital_corridor",
+   "shots": [
+    {
+     "id": "shot_011",
+     "startMs": 86223,
+     "endMs": 96404,
+     "narration_dhivehi": "ހަބީބު ފާރަލަމުން ދިޔައިރު، އަޝްހަމް ގޮސް ޑޮކްޓަރ ރާނިޔާގެ ނަން ޖަހާފައިވާ ކޮޓަރީގެ ދޮރުގައި ޓަކިޖަހާލިއެވެ. \"ވަދޭ،\" އެތެރެއިން އަންހެނެއްގެ އަޑެއް އިވުނެވެ.",
+     "narration_english": "While Habeeb kept watch, Ashham went and knocked on the door of the room bearing Dr. Raniya's name. \"Come in,\" came a woman's voice from inside.",
+     "crop": "full",
+     "motion": "pan left",
+     "sfx": [
+      {
+       "name": "knock",
+       "atMs": 92023,
+       "gainDb": -16,
+       "word": "ޓަކިޖަހާލިއެވެ."
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Ashham; reference image 2 is Habeeb), create a new scene: Cinematic semi-realistic digital illustration with a tense modern crime-thriller look, deep midnight-navy and steel-blue shadows, cold moonlight and fluorescent light with warm ember-orange and amber accents, high contrast with soft highlights, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, wet pavement, sand, dark water, table top, soft shadow) for captions and a logo; rain and sea spray glisten in night scenes; set in present-day Maldives: Malé's narrow rain-wet streets and police offices, Hulhumalé, dark open sea, and a deserted jungle-covered island in Gaafu Alifu atoll hiding a concrete underground bunker.\nScene: Ashham in plain civilian clothes (not a uniform): a dark-grey long-sleeved button shirt and dark trousers, short dark stubble knocking softly with his knuckles on a closed wooden office door with a blank nameplate in the empty dim corridor; a few steps behind him Habeeb in his dark-grey zip-up jacket and black-rimmed glasses keeping watch, glancing back down the corridor. Location: the empty upstairs corridor of a two-storey island hospital at night, pale green walls, a few dim ceiling lights, closed wooden office doors with plain blank nameplates, a polished floor. Camera: medium wide shot down the corridor, eye level, faces in the upper two-thirds, a calm dark lower third (polished floor).\nCharacters: Ashham: a tall broad-shouldered strong Maldivian man of about 38 with warm brown skin, a strong rectangular face with a firm jaw, sharp intelligent dark eyes under straight thick eyebrows, short neat black hair tapered at the sides and short dark stubble; wears a dark-navy long-sleeved police field shirt with buttoned cuffs and plain epaulettes (no badges, no lettering), dark-navy trousers, a plain black belt, black boots and a black wristwatch. Habeeb: a slim Maldivian young man of about 28 with warm brown skin, a slim clean-shaven youthful face, alert dark eyes behind thin rectangular black-rimmed glasses and short slightly messy black hair; wears a dark-grey long-sleeved zip-up jacket over a plain white t-shirt, black trousers and white sneakers.\nMood/lighting: night, flat dim fluorescent light, long shadows, deserted and tense.\nModest Maldivian clothing (every woman in loose long-sleeved ankle-length opaque clothing with a hijab fully covering her hair and neck; men in long-sleeved shirts, jackets or suits and long trousers, never shirtless), a clear respectful distance between men and women, nobody touching, culturally respectful, no guns, no firearms, no weapons of any kind, no knives, no syringes, no handcuffs, no chains, no ropes, no violence, nobody hitting or hurting anyone, no blood, no wounds, no bruises, no injuries, no corpses, no body parts, no person lying lifeless, no cigarettes, no smoking, no tattoos, no text, no letters, no numbers, no digits on displays, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.155,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 26.9,
+    "y_pct": 19.9,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_005",
+   "startMs": 96404,
+   "endMs": 126495,
+   "new_image_reason": "character enters: Dr. Raniya at her desk, frightened by the two strangers; Ashham shows his police card",
+   "characters": [
+    "raniya",
+    "ashham",
+    "habeeb"
+   ],
+   "location": "Dr. Raniya's small office in the island hospital: a wooden desk with stacked files and a desk lamp, a plain chair behind it, a window with dark rain outside, a filing cabinet, a heavy metal file holder on the desk",
+   "location_key": "raniya_office",
+   "mood": "night, the warm amber desk lamp against cold navy-blue shadows, rain on the window, fear and tension",
+   "visual": "Dr. Raniya in her white doctor's coat over a dusty-blue dress, navy hijab fully covering her hair and neck standing up behind her desk with stacked files, startled and frightened, one hand raised in front of her; across the room near the closed door Ashham in plain civilian clothes (not a uniform): a dark-grey long-sleeved button shirt and dark trousers, short dark stubble holding up a small blank police ID card with no writing, calm and firm; Habeeb in his dark-grey zip-up jacket and black-rimmed glasses just behind him by the door; a wide gap between her and the men",
+   "camera": "medium wide shot, eye level, faces in the upper two-thirds, a calm dark lower third (desk top and floor)",
+   "image": "images/beat_005.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "hospital_room",
+   "shots": [
+    {
+     "id": "shot_012",
+     "startMs": 96404,
+     "endMs": 104614,
+     "narration_dhivehi": "އަޝްހަމް އެތެރެއަށް ވަދެ، ދޮރު ލައްޕާ ތަޅުލިއެވެ. ރާނިޔާ އިނީ މޭޒުދޮށުގައި ފައިލްތަކެއް ބަލާށެވެ. އޭނާ އިސްއުފުލާ ބަލާލުމާއެކު،",
+     "narration_english": "Ashham went in, closed the door and locked it. Raniya sat at her desk looking through files. As she raised her head,",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [
+      {
+       "name": "door_close",
+       "atMs": 98224,
+       "gainDb": -20,
+       "word": "ލައްޕާ"
+      },
+      {
+       "name": "lock_click",
+       "atMs": 98624,
+       "gainDb": -20,
+       "word": "ތަޅުލިއެވެ."
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_013",
+     "startMs": 104614,
+     "endMs": 117384,
+     "narration_dhivehi": "ކުރިމަތީގައި ހުރި ބީރައްޓެހި ދެމީހުން ފެނި ބިރުގަތެވެ.\"ތިއީ ކޮންބައެއް؟ މިތަނުން ނުކުމޭ!\" ރާނިޔާ ކޮޅަށް ތެދުވިއެވެ.\"ޑޮކްޓަރ ރާނިޔާ، މަޑުން ހުރޭ،\" އަޝްހަމް އޭނާގެ ފުލުސް ކާޑު ދައްކާލިއެވެ.",
+     "narration_english": "seeing two strangers before her she took fright. \"Who are you? Get out of here!\" Raniya stood up. \"Dr. Raniya, stay calm,\" Ashham said, showing his police card.",
+     "crop": "tight",
+     "motion": "pan right",
+     "sfx": [
+      {
+       "name": "gasp",
+       "atMs": 107304,
+       "gainDb": -22,
+       "word": "ބިރުގަތެވެ.\"ތިއީ"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      30.3,
+      29.6,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_014",
+     "startMs": 117384,
+     "endMs": 126495,
+     "narration_dhivehi": "\"އަހަރެން މިއީ ފުލުހުންގެ ސީރިއަސް ކްރައިމްސްގެ އަޝްހަމް. އަހަރެމެން މިއައީ ނާއިލްގެ މަރުގެ މައްސަލާގައި. އަދި ކަލޭގެ ބައްޕަ ސަލާމަތް ކުރަން.\"",
+     "narration_english": "\"I'm Ashham, police Serious Crimes. We came about Naail's death. And to save your father.\"",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Dr. Raniya; reference image 2 is Ashham; reference image 3 is Habeeb), create a new scene: Cinematic semi-realistic digital illustration with a tense modern crime-thriller look, deep midnight-navy and steel-blue shadows, cold moonlight and fluorescent light with warm ember-orange and amber accents, high contrast with soft highlights, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, wet pavement, sand, dark water, table top, soft shadow) for captions and a logo; rain and sea spray glisten in night scenes; set in present-day Maldives: Malé's narrow rain-wet streets and police offices, Hulhumalé, dark open sea, and a deserted jungle-covered island in Gaafu Alifu atoll hiding a concrete underground bunker.\nScene: Dr. Raniya in her white doctor's coat over a dusty-blue dress, navy hijab fully covering her hair and neck standing up behind her desk with stacked files, startled and frightened, one hand raised in front of her; across the room near the closed door Ashham in plain civilian clothes (not a uniform): a dark-grey long-sleeved button shirt and dark trousers, short dark stubble holding up a small blank police ID card with no writing, calm and firm; Habeeb in his dark-grey zip-up jacket and black-rimmed glasses just behind him by the door; a wide gap between her and the men. Location: Dr. Raniya's small office in the island hospital: a wooden desk with stacked files and a desk lamp, a plain chair behind it, a window with dark rain outside, a filing cabinet, a heavy metal file holder on the desk. Camera: medium wide shot, eye level, faces in the upper two-thirds, a calm dark lower third (desk top and floor).\nCharacters: Dr. Raniya: a slim Maldivian woman of about 28 with fair-brown skin, a beautiful oval face, large serious dark eyes, softly arched eyebrows and a small straight nose; wears a white long-sleeved doctor's coat over a loose long-sleeved ankle-length dusty-blue dress and a navy-blue hijab wrapped snugly and fully covering her hair and neck. Ashham: a tall broad-shouldered strong Maldivian man of about 38 with warm brown skin, a strong rectangular face with a firm jaw, sharp intelligent dark eyes under straight thick eyebrows, short neat black hair tapered at the sides and short dark stubble; wears a dark-navy long-sleeved police field shirt with buttoned cuffs and plain epaulettes (no badges, no lettering), dark-navy trousers, a plain black belt, black boots and a black wristwatch. Habeeb: a slim Maldivian young man of about 28 with warm brown skin, a slim clean-shaven youthful face, alert dark eyes behind thin rectangular black-rimmed glasses and short slightly messy black hair; wears a dark-grey long-sleeved zip-up jacket over a plain white t-shirt, black trousers and white sneakers.\nMood/lighting: night, the warm amber desk lamp against cold navy-blue shadows, rain on the window, fear and tension.\nModest Maldivian clothing (every woman in loose long-sleeved ankle-length opaque clothing with a hijab fully covering her hair and neck; men in long-sleeved shirts, jackets or suits and long trousers, never shirtless), a clear respectful distance between men and women, nobody touching, culturally respectful, no guns, no firearms, no weapons of any kind, no knives, no syringes, no handcuffs, no chains, no ropes, no violence, nobody hitting or hurting anyone, no blood, no wounds, no bruises, no injuries, no corpses, no body parts, no person lying lifeless, no cigarettes, no smoking, no tattoos, no text, no letters, no numbers, no digits on displays, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.144,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 60.0,
+    "y_pct": 89.1,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_006",
+   "startMs": 126495,
+   "endMs": 161596,
+   "new_image_reason": "emotional turning point: hearing Naail's and her father's names she breaks down into her chair",
+   "characters": [
+    "raniya",
+    "ashham",
+    "habeeb"
+   ],
+   "location": "Dr. Raniya's small office in the island hospital: a wooden desk with stacked files and a desk lamp, a plain chair behind it, a window with dark rain outside, a filing cabinet, a heavy metal file holder on the desk",
+   "location_key": "raniya_office",
+   "mood": "night, the warm amber desk lamp against cold navy-blue shadows, rain on the window, fear and tension",
+   "visual": "Dr. Raniya in her white doctor's coat over a dusty-blue dress, navy hijab fully covering her hair and neck sunk into the chair behind her desk, her face in her hands, crying, shoulders shaking; Ashham in plain civilian clothes (not a uniform): a dark-grey long-sleeved button shirt and dark trousers, short dark stubble and Habeeb in his dark-grey zip-up jacket and black-rimmed glasses standing on the other side of the desk at a respectful distance, looking at her with grave sympathy",
+   "camera": "medium shot, eye level, faces in the upper two-thirds, a calm dark lower third (desk top with files)",
+   "image": "images/beat_006.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "hospital_room",
+   "shots": [
+    {
+     "id": "shot_015",
+     "startMs": 126495,
+     "endMs": 136525,
+     "narration_dhivehi": "ނާއިލް އާއި ބައްޕަގެ ނަން އިވުމާއެކު، ރާނިޔާގެ ދެލޮލުން ކަރުނަ ހިލިގަތެވެ. އޭނާގެ ފައިކޮޅުން ބާރުދޫވެ، ގޮނޑިއަށް ތިރިވެވުނެވެ. \"ތިޔަބޭފުޅުންނަށް...",
+     "narration_english": "At the names of Naail and her father, tears spilled from Raniya's eyes. Her legs gave way and she sank onto the chair. \"You...",
+     "crop": "full",
+     "motion": "pan up",
+     "sfx": [
+      {
+       "name": "sob_breath",
+       "atMs": 130365,
+       "gainDb": -24,
+       "word": "ކަރުނަ"
+      },
+      {
+       "name": "cloth_rustle",
+       "atMs": 134165,
+       "gainDb": -24,
+       "word": "ތިރިވެވުނެވެ."
+      }
+     ],
+     "hum": true,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_016",
+     "startMs": 136525,
+     "endMs": 145686,
+     "narration_dhivehi": "ތިޔަބޭފުޅުންނަށް ހުރިހާ ކަމެއް އެނގިއްޖެތަ؟\" \"އާދެ، ނާއިލްގެ ފޯނު ކޯލް ރެކޯޑިންގް އަހަރެމެން އަތުގައި އެބައޮތް،\" ހަބީބު ބުންޏެވެ.",
+     "narration_english": "you know everything?\" \"Yes, we have the recording of Naail's phone call,\" said Habeeb.",
+     "crop": "tight",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      40.6,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_017",
+     "startMs": 145686,
+     "endMs": 153786,
+     "narration_dhivehi": "ރާނިޔާ އޭނާގެ މޫނުގައި އަތްއަޅައި ރޯން ފެށިއެވެ. \"އެމީހުން ނާއިލް މަރާލައިފި. އަހަރެން ބުނިން އޭނާގާތު މިކަމުގެ ތެރެއަށް ނުވަންނާށޭ.",
+     "narration_english": "Raniya put her hands over her face and began to cry. \"They killed Naail. I told him not to get involved in this.",
+     "crop": "full",
+     "motion": "pan down",
+     "sfx": [
+      {
+       "name": "sob_breath",
+       "atMs": 147686,
+       "gainDb": -22,
+       "word": "ރޯން"
+      }
+     ],
+     "hum": true,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_018",
+     "startMs": 153786,
+     "endMs": 161596,
+     "narration_dhivehi": "އެމީހުންނަކީ ރަހުމެއް ހުރި ބައެއް ނޫން.\" ބަންދުވުން: ރާނިޔާ ހަމަޖެހިލުމަށްފަހު ވާހަކަދައްކަން ފެށިއެވެ.",
+     "narration_english": "They are not people with any mercy.\" Locked in: once she had calmed down, Raniya began to talk.",
+     "crop": "medium",
+     "motion": "static drift",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      28.5,
+      0.0,
+      71.5,
+      84.7
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Dr. Raniya; reference image 2 is Ashham; reference image 3 is Habeeb), create a new scene: Cinematic semi-realistic digital illustration with a tense modern crime-thriller look, deep midnight-navy and steel-blue shadows, cold moonlight and fluorescent light with warm ember-orange and amber accents, high contrast with soft highlights, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, wet pavement, sand, dark water, table top, soft shadow) for captions and a logo; rain and sea spray glisten in night scenes; set in present-day Maldives: Malé's narrow rain-wet streets and police offices, Hulhumalé, dark open sea, and a deserted jungle-covered island in Gaafu Alifu atoll hiding a concrete underground bunker.\nScene: Dr. Raniya in her white doctor's coat over a dusty-blue dress, navy hijab fully covering her hair and neck sunk into the chair behind her desk, her face in her hands, crying, shoulders shaking; Ashham in plain civilian clothes (not a uniform): a dark-grey long-sleeved button shirt and dark trousers, short dark stubble and Habeeb in his dark-grey zip-up jacket and black-rimmed glasses standing on the other side of the desk at a respectful distance, looking at her with grave sympathy. Location: Dr. Raniya's small office in the island hospital: a wooden desk with stacked files and a desk lamp, a plain chair behind it, a window with dark rain outside, a filing cabinet, a heavy metal file holder on the desk. Camera: medium shot, eye level, faces in the upper two-thirds, a calm dark lower third (desk top with files).\nCharacters: Dr. Raniya: a slim Maldivian woman of about 28 with fair-brown skin, a beautiful oval face, large serious dark eyes, softly arched eyebrows and a small straight nose; wears a white long-sleeved doctor's coat over a loose long-sleeved ankle-length dusty-blue dress and a navy-blue hijab wrapped snugly and fully covering her hair and neck. Ashham: a tall broad-shouldered strong Maldivian man of about 38 with warm brown skin, a strong rectangular face with a firm jaw, sharp intelligent dark eyes under straight thick eyebrows, short neat black hair tapered at the sides and short dark stubble; wears a dark-navy long-sleeved police field shirt with buttoned cuffs and plain epaulettes (no badges, no lettering), dark-navy trousers, a plain black belt, black boots and a black wristwatch. Habeeb: a slim Maldivian young man of about 28 with warm brown skin, a slim clean-shaven youthful face, alert dark eyes behind thin rectangular black-rimmed glasses and short slightly messy black hair; wears a dark-grey long-sleeved zip-up jacket over a plain white t-shirt, black trousers and white sneakers.\nMood/lighting: night, the warm amber desk lamp against cold navy-blue shadows, rain on the window, fear and tension.\nModest Maldivian clothing (every woman in loose long-sleeved ankle-length opaque clothing with a hijab fully covering her hair and neck; men in long-sleeved shirts, jackets or suits and long trousers, never shirtless), a clear respectful distance between men and women, nobody touching, culturally respectful, no guns, no firearms, no weapons of any kind, no knives, no syringes, no handcuffs, no chains, no ropes, no violence, nobody hitting or hurting anyone, no blood, no wounds, no bruises, no injuries, no corpses, no body parts, no person lying lifeless, no cigarettes, no smoking, no tattoos, no text, no letters, no numbers, no digits on displays, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.137,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 79.6,
+    "y_pct": 22.5,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_007",
+   "startMs": 161596,
+   "endMs": 196828,
+   "new_image_reason": "framing change: calmer now, Raniya reveals the secret lab on Kandu-huttaa; Ashham leans in to ask who is behind it",
+   "characters": [
+    "raniya",
+    "ashham"
+   ],
+   "location": "Dr. Raniya's small office in the island hospital: a wooden desk with stacked files and a desk lamp, a plain chair behind it, a window with dark rain outside, a filing cabinet, a heavy metal file holder on the desk",
+   "location_key": "raniya_office",
+   "mood": "night, the warm amber desk lamp against cold navy-blue shadows, rain on the window, fear and tension",
+   "visual": "close-up of Dr. Raniya in her white doctor's coat over a dusty-blue dress, navy hijab fully covering her hair and neck sitting at her desk, eyes red from crying, speaking urgently in a low voice, one hand pressed flat on a closed file; the shoulder of Ashham in plain civilian clothes (not a uniform): a dark-grey long-sleeved button shirt and dark trousers, short dark stubble soft and out of focus in the foreground as he leans forward across the desk",
+   "camera": "close-up over Ashham's shoulder, eye level, faces in the upper two-thirds, a calm dark lower third (desk top)",
+   "image": "images/beat_007.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": "other",
+   "safe_substitution": "the human experiments and trafficking are only described in her words; nothing of the lab is shown",
+   "ambience": "hospital_room",
+   "shots": [
+    {
+     "id": "shot_019",
+     "startMs": 161596,
+     "endMs": 169887,
+     "narration_dhivehi": "\"ކަނޑުހުއްޓާގައި ހުންނަނީ ބޭރުގެ ފާމަސޫޓިކަލް ކުންފުންޏެއްގެ ސިއްރު ލެބެއް. އެމީހުން އެތަނުގައި ތައްޔާރުކުރަނީ އާ މާސްޓަރ ޑްރަގެއް.",
+     "narration_english": "\"On Kandu-huttaa there is a secret lab of a foreign pharmaceutical company. They are developing a new master drug there.",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_020",
+     "startMs": 169887,
+     "endMs": 178297,
+     "narration_dhivehi": "އެ ބޭސް ތަހުލީލުކުރުމަށް އެމީހުން ބޭނުންކުރަނީ ރާއްޖެއަށް ސިއްރުން އެތެރެކުރާ ބިދޭސީން. މިކަމުގައި އިންސާނީ ވަގުފާރީގެ ކަންތައް ވަރަށްބޮޑު.",
+     "narration_english": "To test that drug they use foreigners smuggled into the Maldives in secret. There is a great deal of human trafficking in this.",
+     "crop": "tight",
+     "motion": "pan left",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      9.7,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_021",
+     "startMs": 178297,
+     "endMs": 187557,
+     "narration_dhivehi": "ނާއިލަށް އެކަން އެނގުނީ އެމީހުންގެ ޝިޕްމަންޓްތައް އޭނާގެ ބަފާގެ ކުންފުނި މެދުވެރިކޮށް ގެންނާތީ.\" \"މާލޭގައި ހުރި މާސްޓަރމައިންޑަކީ ކާކު؟\"",
+     "narration_english": "Naail found out because their shipments came in through his father's company.\" \"Who is the mastermind in Malé?\"",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_022",
+     "startMs": 187557,
+     "endMs": 196828,
+     "narration_dhivehi": "އަޝްހަމް ކުރިއަށް ޖެހިލަމުން އެހިއެވެ. ރާނިޔާ އެއްޗެކޭބުނަން އަނގަ ހުޅުވާލި ވަގުތު، ކުއްލިއަކަށް ހޮސްޕިޓަލުގެ ހުރިހާ ބޮކިތަކެއް ނިވުނެވެ.",
+     "narration_english": "Ashham asked, leaning forward. Just as Raniya opened her mouth to say something, suddenly every light in the hospital went out.",
+     "crop": "medium",
+     "motion": "pan right",
+     "sfx": [
+      {
+       "name": "power_down",
+       "atMs": 195788,
+       "gainDb": -16,
+       "word": "ނިވުނެވެ."
+      }
+     ],
+     "hum": true,
+     "crop_rect_pct": [
+      3.7,
+      0.0,
+      71.5,
+      84.7
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Dr. Raniya; reference image 2 is Ashham), create a new scene: Cinematic semi-realistic digital illustration with a tense modern crime-thriller look, deep midnight-navy and steel-blue shadows, cold moonlight and fluorescent light with warm ember-orange and amber accents, high contrast with soft highlights, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, wet pavement, sand, dark water, table top, soft shadow) for captions and a logo; rain and sea spray glisten in night scenes; set in present-day Maldives: Malé's narrow rain-wet streets and police offices, Hulhumalé, dark open sea, and a deserted jungle-covered island in Gaafu Alifu atoll hiding a concrete underground bunker.\nScene: close-up of Dr. Raniya in her white doctor's coat over a dusty-blue dress, navy hijab fully covering her hair and neck sitting at her desk, eyes red from crying, speaking urgently in a low voice, one hand pressed flat on a closed file; the shoulder of Ashham in plain civilian clothes (not a uniform): a dark-grey long-sleeved button shirt and dark trousers, short dark stubble soft and out of focus in the foreground as he leans forward across the desk. Location: Dr. Raniya's small office in the island hospital: a wooden desk with stacked files and a desk lamp, a plain chair behind it, a window with dark rain outside, a filing cabinet, a heavy metal file holder on the desk. Camera: close-up over Ashham's shoulder, eye level, faces in the upper two-thirds, a calm dark lower third (desk top).\nCharacters: Dr. Raniya: a slim Maldivian woman of about 28 with fair-brown skin, a beautiful oval face, large serious dark eyes, softly arched eyebrows and a small straight nose; wears a white long-sleeved doctor's coat over a loose long-sleeved ankle-length dusty-blue dress and a navy-blue hijab wrapped snugly and fully covering her hair and neck. Ashham: a tall broad-shouldered strong Maldivian man of about 38 with warm brown skin, a strong rectangular face with a firm jaw, sharp intelligent dark eyes under straight thick eyebrows, short neat black hair tapered at the sides and short dark stubble; wears a dark-navy long-sleeved police field shirt with buttoned cuffs and plain epaulettes (no badges, no lettering), dark-navy trousers, a plain black belt, black boots and a black wristwatch.\nMood/lighting: night, the warm amber desk lamp against cold navy-blue shadows, rain on the window, fear and tension.\nModest Maldivian clothing (every woman in loose long-sleeved ankle-length opaque clothing with a hijab fully covering her hair and neck; men in long-sleeved shirts, jackets or suits and long trousers, never shirtless), a clear respectful distance between men and women, nobody touching, culturally respectful, no guns, no firearms, no weapons of any kind, no knives, no syringes, no handcuffs, no chains, no ropes, no violence, nobody hitting or hurting anyone, no blood, no wounds, no bruises, no injuries, no corpses, no body parts, no person lying lifeless, no cigarettes, no smoking, no tattoos, no text, no letters, no numbers, no digits on displays, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.15,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 39.5,
+    "y_pct": 30.2,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_008",
+   "startMs": 196828,
+   "endMs": 224039,
+   "new_image_reason": "emotional turning point: every light in the hospital goes out; boots in the corridor; Ashham holds the door",
+   "characters": [
+    "ashham",
+    "raniya",
+    "habeeb"
+   ],
+   "location": "Dr. Raniya's small hospital office plunged into total darkness, the desk with files and a heavy metal file holder, a rain-streaked window giving a faint cold glow, the wooden door to the corridor",
+   "location_key": "office_dark",
+   "mood": "night, sudden total blackout: cold navy-blue darkness, only faint moonlight from the rain-streaked window and thin white flashlight beams, terror",
+   "visual": "the office in sudden darkness: Ashham in plain civilian clothes (not a uniform): a dark-grey long-sleeved button shirt and dark trousers, short dark stubble braced with his shoulder against the closed wooden door, holding the handle, tense; Habeeb in his dark-grey zip-up jacket and black-rimmed glasses at the window pushing it open; Dr. Raniya in her white doctor's coat over a dusty-blue dress, navy hijab fully covering her hair and neck pressed back against the filing cabinet, hands clasped at her own chest, eyes wide with terror; thin white lines of flashlight light under the door",
+   "camera": "medium wide shot, eye level, faces in the upper two-thirds, a calm dark lower third (dark floor)",
+   "image": "images/beat_008.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "hospital_night",
+   "shots": [
+    {
+     "id": "shot_023",
+     "startMs": 196828,
+     "endMs": 204098,
+     "narration_dhivehi": "މުޅި ތަން އަނދިރިކަމުގެ ތެރެއަށް ގެނބުނެވެ.\"ސަރ! ބެކްއަޕް ޕަވަރވެސް ކަނޑާލައިފި!\" ހަބީބު ހާސްވެފައި ބުންޏެވެ.",
+     "narration_english": "The whole place sank into darkness. \"Sir! The backup power has been cut too!\" Habeeb said in alarm.",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [
+      {
+       "name": "breath_heavy",
+       "atMs": 202868,
+       "gainDb": -24,
+       "word": "ހާސްވެފައި"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_024",
+     "startMs": 204098,
+     "endMs": 214098,
+     "narration_dhivehi": "އެވަގުތު ކޮރިޑޯގެ ތެރެއިން ބަރު ބޫޓުތަކެއްގެ އަޑާއި، ބަޑިތަކެއް ލޯޑްކުރާ އަޑު އިވުނެވެ. އެމީހުން ހޮސްޕިޓަލުގެ ތެރެއަށް ވަދެގެން އެއަންނަނީއެވެ.\"އެމީހުން އަތުވެއްޖެ!\"",
+     "narration_english": "At that moment, from the corridor came the sound of heavy boots and of guns being loaded. They were coming into the hospital. \"They're here!\"",
+     "crop": "tight",
+     "motion": "pan up",
+     "sfx": [
+      {
+       "name": "boots_march",
+       "atMs": 205908,
+       "gainDb": -18,
+       "word": "ބޫޓުތަކެއްގެ"
+      },
+      {
+       "name": "lock_click",
+       "atMs": 208148,
+       "gainDb": -22,
+       "word": "ލޯޑްކުރާ"
+      }
+     ],
+     "hum": true,
+     "crop_rect_pct": [
+      40.6,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_025",
+     "startMs": 214098,
+     "endMs": 224039,
+     "narration_dhivehi": "ރާނިޔާ ބިރުން ހަޅޭއްލަވައިގަތެވެ. \"ހަބީބު ކޮޓަރީގެ ކުޑަދޮރު ހުޅުވާ! އަހަރެމެން މިތަނުން ނުކުންނަންޖެހޭނެ!\" ދޮރުގައި ހިފައި ތަޅުވައިގަންނަމުން އަޝްހަމް ބުންޏެވެ.",
+     "narration_english": "Raniya cried out in fear. \"Habeeb, open the window! We have to get out of here!\" Ashham said, grabbing the door and holding it shut.",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [
+      {
+       "name": "gasp",
+       "atMs": 215168,
+       "gainDb": -18,
+       "word": "ހަޅޭއްލަވައިގަތެވެ."
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Ashham; reference image 2 is Dr. Raniya; reference image 3 is Habeeb), create a new scene: Cinematic semi-realistic digital illustration with a tense modern crime-thriller look, deep midnight-navy and steel-blue shadows, cold moonlight and fluorescent light with warm ember-orange and amber accents, high contrast with soft highlights, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, wet pavement, sand, dark water, table top, soft shadow) for captions and a logo; rain and sea spray glisten in night scenes; set in present-day Maldives: Malé's narrow rain-wet streets and police offices, Hulhumalé, dark open sea, and a deserted jungle-covered island in Gaafu Alifu atoll hiding a concrete underground bunker.\nScene: the office in sudden darkness: Ashham in plain civilian clothes (not a uniform): a dark-grey long-sleeved button shirt and dark trousers, short dark stubble braced with his shoulder against the closed wooden door, holding the handle, tense; Habeeb in his dark-grey zip-up jacket and black-rimmed glasses at the window pushing it open; Dr. Raniya in her white doctor's coat over a dusty-blue dress, navy hijab fully covering her hair and neck pressed back against the filing cabinet, hands clasped at her own chest, eyes wide with terror; thin white lines of flashlight light under the door. Location: Dr. Raniya's small hospital office plunged into total darkness, the desk with files and a heavy metal file holder, a rain-streaked window giving a faint cold glow, the wooden door to the corridor. Camera: medium wide shot, eye level, faces in the upper two-thirds, a calm dark lower third (dark floor).\nCharacters: Ashham: a tall broad-shouldered strong Maldivian man of about 38 with warm brown skin, a strong rectangular face with a firm jaw, sharp intelligent dark eyes under straight thick eyebrows, short neat black hair tapered at the sides and short dark stubble; wears a dark-navy long-sleeved police field shirt with buttoned cuffs and plain epaulettes (no badges, no lettering), dark-navy trousers, a plain black belt, black boots and a black wristwatch. Dr. Raniya: a slim Maldivian woman of about 28 with fair-brown skin, a beautiful oval face, large serious dark eyes, softly arched eyebrows and a small straight nose; wears a white long-sleeved doctor's coat over a loose long-sleeved ankle-length dusty-blue dress and a navy-blue hijab wrapped snugly and fully covering her hair and neck. Habeeb: a slim Maldivian young man of about 28 with warm brown skin, a slim clean-shaven youthful face, alert dark eyes behind thin rectangular black-rimmed glasses and short slightly messy black hair; wears a dark-grey long-sleeved zip-up jacket over a plain white t-shirt, black trousers and white sneakers.\nMood/lighting: night, sudden total blackout: cold navy-blue darkness, only faint moonlight from the rain-streaked window and thin white flashlight beams, terror.\nModest Maldivian clothing (every woman in loose long-sleeved ankle-length opaque clothing with a hijab fully covering her hair and neck; men in long-sleeved shirts, jackets or suits and long trousers, never shirtless), a clear respectful distance between men and women, nobody touching, culturally respectful, no guns, no firearms, no weapons of any kind, no knives, no syringes, no handcuffs, no chains, no ropes, no violence, nobody hitting or hurting anyone, no blood, no wounds, no bruises, no injuries, no corpses, no body parts, no person lying lifeless, no cigarettes, no smoking, no tattoos, no text, no letters, no numbers, no digits on displays, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.056,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 75.8,
+    "y_pct": 18.8,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_009",
+   "startMs": 224039,
+   "endMs": 239609,
+   "new_image_reason": "action change: the door bursts open and three masked men stand in the doorway (no weapons shown)",
+   "characters": [],
+   "location": "Dr. Raniya's small hospital office plunged into total darkness, the desk with files and a heavy metal file holder, a rain-streaked window giving a faint cold glow, the wooden door to the corridor",
+   "location_key": "office_dark",
+   "mood": "night, sudden total blackout: cold navy-blue darkness, only faint moonlight from the rain-streaked window and thin white flashlight beams, terror",
+   "visual": "the office door flung open: three tall dark silhouettes of men in black clothes and black face masks standing in the doorway, their empty hands holding only bright white flashlights whose beams cut through the dark room toward the viewer; nothing else in their hands",
+   "camera": "medium wide shot from inside the room, low angle, the silhouettes in the upper two-thirds, faces in the upper two-thirds, a calm dark lower third (dark floor)",
+   "image": "images/beat_009.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": "violence",
+   "safe_substitution": "armed attackers shown as masked silhouettes with flashlights only; the rifle-butt blow to Ashham's forehead is never shown (muffled thud only)",
+   "ambience": "hospital_night",
+   "shots": [
+    {
+     "id": "shot_026",
+     "startMs": 224039,
+     "endMs": 232919,
+     "narration_dhivehi": "އެވަގުތު ކޮޓަރީގެ ދޮރު ބާރު އަޑަކާއެކު ހުޅުވާލާފައި، ކަޅު މާސްކް އަޅައިގެން ތިބި، ހަތިޔާރު އެޅި ތިން މީހުން އެތެރެއަށް ވަނެވެ.",
+     "narration_english": "At that moment the door was flung open with a loud bang, and three armed men in black masks came in.",
+     "crop": "full",
+     "motion": "pan down",
+     "sfx": [
+      {
+       "name": "door_slam",
+       "atMs": 226569,
+       "gainDb": -14,
+       "word": "ހުޅުވާލާފައި،"
+      }
+     ],
+     "hum": true,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_027",
+     "startMs": 232919,
+     "endMs": 239609,
+     "narration_dhivehi": "އެއިން އެކަކުގެ ބަޑީގެ މުއްގަނޑުން އަޝްހަމްގެ ނިއްކުރީގައި ޖެހިއެވެ. ހޮސްޕިޓަލުގެ ޙާދިސާއިން ސަލާމަތްވުން:",
+     "narration_english": "The butt of one man's gun struck Ashham on the forehead. Escape from the hospital:",
+     "crop": "tight",
+     "motion": "static drift",
+     "sfx": [
+      {
+       "name": "soft_thud",
+       "atMs": 236329,
+       "gainDb": -23,
+       "word": "ޖެހިއެވެ."
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      20.3,
+      4.8,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Cinematic semi-realistic digital illustration with a tense modern crime-thriller look, deep midnight-navy and steel-blue shadows, cold moonlight and fluorescent light with warm ember-orange and amber accents, high contrast with soft highlights, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, wet pavement, sand, dark water, table top, soft shadow) for captions and a logo; rain and sea spray glisten in night scenes; set in present-day Maldives: Malé's narrow rain-wet streets and police offices, Hulhumalé, dark open sea, and a deserted jungle-covered island in Gaafu Alifu atoll hiding a concrete underground bunker.\nScene: the office door flung open: three tall dark silhouettes of men in black clothes and black face masks standing in the doorway, their empty hands holding only bright white flashlights whose beams cut through the dark room toward the viewer; nothing else in their hands. Location: Dr. Raniya's small hospital office plunged into total darkness, the desk with files and a heavy metal file holder, a rain-streaked window giving a faint cold glow, the wooden door to the corridor. Camera: medium wide shot from inside the room, low angle, the silhouettes in the upper two-thirds, faces in the upper two-thirds, a calm dark lower third (dark floor).\nMood/lighting: night, sudden total blackout: cold navy-blue darkness, only faint moonlight from the rain-streaked window and thin white flashlight beams, terror.\nModest Maldivian clothing (every woman in loose long-sleeved ankle-length opaque clothing with a hijab fully covering her hair and neck; men in long-sleeved shirts, jackets or suits and long trousers, never shirtless), a clear respectful distance between men and women, nobody touching, culturally respectful, no guns, no firearms, no weapons of any kind, no knives, no syringes, no handcuffs, no chains, no ropes, no violence, nobody hitting or hurting anyone, no blood, no wounds, no bruises, no injuries, no corpses, no body parts, no person lying lifeless, no cigarettes, no smoking, no tattoos, no text, no letters, no numbers, no digits on displays, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.041,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 50.0,
+    "y_pct": 40.0,
+    "face_detected": false
+   }
+  },
+  {
+   "id": "beat_010",
+   "startMs": 239609,
+   "endMs": 269911,
+   "new_image_reason": "character focus change: in the dark, Raniya and Habeeb pressed against the wall as flashlight beams sweep",
+   "characters": [
+    "raniya",
+    "habeeb"
+   ],
+   "location": "Dr. Raniya's small hospital office plunged into total darkness, the desk with files and a heavy metal file holder, a rain-streaked window giving a faint cold glow, the wooden door to the corridor",
+   "location_key": "office_dark",
+   "mood": "night, sudden total blackout: cold navy-blue darkness, only faint moonlight from the rain-streaked window and thin white flashlight beams, terror",
+   "visual": "Habeeb in his dark-grey zip-up jacket and black-rimmed glasses and Dr. Raniya in her white doctor's coat over a dusty-blue dress, navy hijab fully covering her hair and neck pressed against the wall side by side in the dark office, not touching, a small gap between them, Raniya's hands clasped tightly at her own chest, both staring in fear toward the door; a white flashlight beam sweeping across the wall above their heads",
+   "camera": "medium shot, eye level, faces in the upper two-thirds, a calm dark lower third (dark floor)",
+   "image": "images/beat_010.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": "violence",
+   "safe_substitution": "Ashham falling and being held by the collar are never shown; Raniya 'gripping Habeeb's arm' is shown as her standing close beside him with her hands at her own chest (bible rule 8)",
+   "ambience": "hospital_night",
+   "shots": [
+    {
+     "id": "shot_028",
+     "startMs": 239609,
+     "endMs": 248740,
+     "narration_dhivehi": "ކޮޓަރީގެ ތެރެއަށް ވެރިވެފައި އޮތް ކަނު އަނދިރިކަމުގެ ތެރެއިން އަޝްހަމް ވެއްޓުނެވެ. ކަޅު މާސްކު އަޅައިގެން ހުރި އެކަކު އޭނާގެ ގިރުވާނުގައި ހިފެހެއްޓިއެވެ.",
+     "narration_english": "In the pitch darkness that filled the room, Ashham fell. One of the men in black masks held him by the collar.",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [
+      {
+       "name": "cloth_rustle",
+       "atMs": 247890,
+       "gainDb": -22,
+       "word": "ހިފެހެއްޓިއެވެ."
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_029",
+     "startMs": 248740,
+     "endMs": 259720,
+     "narration_dhivehi": "އެމީހާގެ ނޭވާގެ އަޑު ގާތުން އިވެމުންދިޔައެވެ. ރާނިޔާ ހުރީ ހަބީބުގެ ކައިރީގައެވެ. ބިރުންހުރެ އޭނާ ހަބީބުގެ އަތުގައި ބާރަށް ހިފަހައްޓާލިއެވެ.\"ހިނގާ، އެއްވެސް އަޑެއް ނުލައްވާ ކުރިއަށް!\"",
+     "narration_english": "The man's breathing could be heard close by. Raniya was beside Habeeb; in fear she gripped Habeeb's arm tightly. \"Move, forward, without a sound!\"",
+     "crop": "tight",
+     "motion": "pan left",
+     "sfx": [
+      {
+       "name": "breath_heavy",
+       "atMs": 249470,
+       "gainDb": -20,
+       "word": "ނޭވާގެ"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      8.2,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_030",
+     "startMs": 259720,
+     "endMs": 269911,
+     "narration_dhivehi": "ކުރީގައި ހުރި މުޖުރިމު ބަރު ވައިއަޑަކުން އަޝްހަމަށް އަމުރުކުރިއެވެ. އަޝްހަމްއަކީ މިފަދަ އެތައް ނުރައްކާތެރި ހާލަތްތަކަކާ ކުރިމަތިލާފައިވާ ތަޖުރިބާކާރު އޮފިސަރެކެވެ.",
+     "narration_english": "the man in front ordered Ashham in a heavy voice. Ashham is an experienced officer who has faced many dangerous situations like this.",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Dr. Raniya; reference image 2 is Habeeb), create a new scene: Cinematic semi-realistic digital illustration with a tense modern crime-thriller look, deep midnight-navy and steel-blue shadows, cold moonlight and fluorescent light with warm ember-orange and amber accents, high contrast with soft highlights, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, wet pavement, sand, dark water, table top, soft shadow) for captions and a logo; rain and sea spray glisten in night scenes; set in present-day Maldives: Malé's narrow rain-wet streets and police offices, Hulhumalé, dark open sea, and a deserted jungle-covered island in Gaafu Alifu atoll hiding a concrete underground bunker.\nScene: Habeeb in his dark-grey zip-up jacket and black-rimmed glasses and Dr. Raniya in her white doctor's coat over a dusty-blue dress, navy hijab fully covering her hair and neck pressed against the wall side by side in the dark office, not touching, a small gap between them, Raniya's hands clasped tightly at her own chest, both staring in fear toward the door; a white flashlight beam sweeping across the wall above their heads. Location: Dr. Raniya's small hospital office plunged into total darkness, the desk with files and a heavy metal file holder, a rain-streaked window giving a faint cold glow, the wooden door to the corridor. Camera: medium shot, eye level, faces in the upper two-thirds, a calm dark lower third (dark floor).\nCharacters: Dr. Raniya: a slim Maldivian woman of about 28 with fair-brown skin, a beautiful oval face, large serious dark eyes, softly arched eyebrows and a small straight nose; wears a white long-sleeved doctor's coat over a loose long-sleeved ankle-length dusty-blue dress and a navy-blue hijab wrapped snugly and fully covering her hair and neck. Habeeb: a slim Maldivian young man of about 28 with warm brown skin, a slim clean-shaven youthful face, alert dark eyes behind thin rectangular black-rimmed glasses and short slightly messy black hair; wears a dark-grey long-sleeved zip-up jacket over a plain white t-shirt, black trousers and white sneakers.\nMood/lighting: night, sudden total blackout: cold navy-blue darkness, only faint moonlight from the rain-streaked window and thin white flashlight beams, terror.\nModest Maldivian clothing (every woman in loose long-sleeved ankle-length opaque clothing with a hijab fully covering her hair and neck; men in long-sleeved shirts, jackets or suits and long trousers, never shirtless), a clear respectful distance between men and women, nobody touching, culturally respectful, no guns, no firearms, no weapons of any kind, no knives, no syringes, no handcuffs, no chains, no ropes, no violence, nobody hitting or hurting anyone, no blood, no wounds, no bruises, no injuries, no corpses, no body parts, no person lying lifeless, no cigarettes, no smoking, no tattoos, no text, no letters, no numbers, no digits on displays, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.051,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 37.9,
+    "y_pct": 18.4,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_011",
+   "startMs": 269911,
+   "endMs": 296962,
+   "new_image_reason": "action change: Ashham's eyes adjust to the dark and fix on the heavy metal file holder",
+   "characters": [
+    "ashham"
+   ],
+   "location": "Dr. Raniya's small hospital office plunged into total darkness, the desk with files and a heavy metal file holder, a rain-streaked window giving a faint cold glow, the wooden door to the corridor",
+   "location_key": "office_dark",
+   "mood": "night, sudden total blackout: cold navy-blue darkness, only faint moonlight from the rain-streaked window and thin white flashlight beams, terror",
+   "visual": "close-up of Ashham in plain civilian clothes (not a uniform): a dark-grey long-sleeved button shirt and dark trousers, short dark stubble crouched low beside the desk in the dark, his intense eyes fixed on a heavy metal file holder standing on the desk edge, a flashlight beam glancing across his tense face; his hands empty",
+   "camera": "close-up, low angle, faces in the upper two-thirds, a calm dark lower third (dark desk side)",
+   "image": "images/beat_011.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": "violence",
+   "safe_substitution": "the strike with the file holder, the dropped gun and the tackle are never shown; only Ashham's focused face before he moves, muffled thuds offscreen",
+   "ambience": "hospital_night",
+   "shots": [
+    {
+     "id": "shot_031",
+     "startMs": 269911,
+     "endMs": 277351,
+     "narration_dhivehi": "އޭނާ ދެލޯ އަނދިރިކަމަށް ހޭނުމާއެކު، މޭޒުމަތީގައި އޮތް ބަރު ދަގަނޑު ފައިލް ހޯލްޑަރު ފާހަގަކުރިއެވެ. ކުއްލިއަކަށް،",
+     "narration_english": "As his eyes got used to the dark, he noticed the heavy metal file holder lying on the desk. Suddenly,",
+     "crop": "full",
+     "motion": "pan right",
+     "sfx": [
+      {
+       "name": "heartbeat",
+       "atMs": 274971,
+       "gainDb": -20,
+       "word": "ފާހަގަކުރިއެވެ."
+      }
+     ],
+     "hum": true,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_032",
+     "startMs": 277351,
+     "endMs": 284101,
+     "narration_dhivehi": "އެއްވެސް އިންޒާރެއްނެތި، އަޝްހަމް ތިރިވެލަމުން އެ ހޯލްޑަރުން ކުރީގައި ހުރި މީހާގެ ބޮލުގައި ވީއްލާލިއެވެ.",
+     "narration_english": "without any warning, Ashham ducked down and swung the holder at the head of the man in front.",
+     "crop": "tight",
+     "motion": "slow push-in",
+     "sfx": [
+      {
+       "name": "soft_thud",
+       "atMs": 283231,
+       "gainDb": -22,
+       "word": "ވީއްލާލިއެވެ."
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      20.3,
+      4.8,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_033",
+     "startMs": 284101,
+     "endMs": 296962,
+     "narration_dhivehi": "އެއާއެކު އޭނާގެ އަތުން ބަޑި ދޫވެގެން ބިންމައްޗަށް ވެއްޓުނެވެ.\"ހަބީބު! ދޮރުން ނުކުމޭ!\" އަޝްހަމް ހަޅޭއްލަވައިގަންނަމުން ދެވަނަ މީހާގެ ގައިގައި ބާރަށް ބައްދާލާފައި ބިންމައްޗަށް ވައްޓާލިއެވެ.",
+     "narration_english": "With that, the gun fell from his hand to the floor. \"Habeeb! Out the door!\" Ashham shouted, and grabbing the second man hard, brought him to the floor.",
+     "crop": "full",
+     "motion": "pan up",
+     "sfx": [
+      {
+       "name": "metal_clang",
+       "atMs": 287111,
+       "gainDb": -22,
+       "word": "ވެއްޓުނެވެ.\"ހަބީބު!"
+      },
+      {
+       "name": "soft_thud",
+       "atMs": 296072,
+       "gainDb": -24,
+       "word": "ވައްޓާލިއެވެ."
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Ashham), create a new scene: Cinematic semi-realistic digital illustration with a tense modern crime-thriller look, deep midnight-navy and steel-blue shadows, cold moonlight and fluorescent light with warm ember-orange and amber accents, high contrast with soft highlights, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, wet pavement, sand, dark water, table top, soft shadow) for captions and a logo; rain and sea spray glisten in night scenes; set in present-day Maldives: Malé's narrow rain-wet streets and police offices, Hulhumalé, dark open sea, and a deserted jungle-covered island in Gaafu Alifu atoll hiding a concrete underground bunker.\nScene: close-up of Ashham in plain civilian clothes (not a uniform): a dark-grey long-sleeved button shirt and dark trousers, short dark stubble crouched low beside the desk in the dark, his intense eyes fixed on a heavy metal file holder standing on the desk edge, a flashlight beam glancing across his tense face; his hands empty. Location: Dr. Raniya's small hospital office plunged into total darkness, the desk with files and a heavy metal file holder, a rain-streaked window giving a faint cold glow, the wooden door to the corridor. Camera: close-up, low angle, faces in the upper two-thirds, a calm dark lower third (dark desk side).\nCharacters: Ashham: a tall broad-shouldered strong Maldivian man of about 38 with warm brown skin, a strong rectangular face with a firm jaw, sharp intelligent dark eyes under straight thick eyebrows, short neat black hair tapered at the sides and short dark stubble; wears a dark-navy long-sleeved police field shirt with buttoned cuffs and plain epaulettes (no badges, no lettering), dark-navy trousers, a plain black belt, black boots and a black wristwatch.\nMood/lighting: night, sudden total blackout: cold navy-blue darkness, only faint moonlight from the rain-streaked window and thin white flashlight beams, terror.\nModest Maldivian clothing (every woman in loose long-sleeved ankle-length opaque clothing with a hijab fully covering her hair and neck; men in long-sleeved shirts, jackets or suits and long trousers, never shirtless), a clear respectful distance between men and women, nobody touching, culturally respectful, no guns, no firearms, no weapons of any kind, no knives, no syringes, no handcuffs, no chains, no ropes, no violence, nobody hitting or hurting anyone, no blood, no wounds, no bruises, no injuries, no corpses, no body parts, no person lying lifeless, no cigarettes, no smoking, no tattoos, no text, no letters, no numbers, no digits on displays, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.064,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 50.0,
+    "y_pct": 40.0,
+    "face_detected": false
+   }
+  },
+  {
+   "id": "beat_012",
+   "startMs": 296962,
+   "endMs": 315723,
+   "new_image_reason": "scene change: Habeeb and Raniya flee down the dark corridor; dust bursts from the wall behind them",
+   "characters": [
+    "habeeb",
+    "raniya"
+   ],
+   "location": "the long hospital corridor in total darkness, pale walls, closed doors, a faint emergency glow at the far end, rain-streaked windows",
+   "location_key": "corridor_dark",
+   "mood": "night, blackout, cold navy-blue darkness, a faint red emergency glow at the far end, bursts of grey dust in torchlight, panic",
+   "visual": "Habeeb in his dark-grey zip-up jacket and black-rimmed glasses and Dr. Raniya in her white doctor's coat over a dusty-blue dress, navy hijab fully covering her hair and neck running side by side down the dark hospital corridor toward the viewer, not touching, faces full of fear; behind them small bursts of grey cement dust and sparks puff from the corridor wall in a flashlight beam; nobody is hit",
+   "camera": "medium wide shot, eye level, down the corridor, faces in the upper two-thirds, a calm dark lower third (polished floor)",
+   "image": "images/beat_012.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": "violence",
+   "safe_substitution": "gunfire shown only as dust and sparks bursting from the wall far behind them; Habeeb 'pulling Raniya by the hand' shown as running side by side",
+   "ambience": "hospital_corridor",
+   "shots": [
+    {
+     "id": "shot_034",
+     "startMs": 296962,
+     "endMs": 306212,
+     "narration_dhivehi": "ހަބީބު ރާނިޔާގެ އަތުގައި ހިފައިގެން ކޮޓަރީގެ ދޮރުން ބޭރަށް ދުއްވައިގަތެވެ. އެވަގުތު ތިންވަނަ މީހާ އެމީހުންގެ ފަހަތުން ބަޑިޖަހަން ފެށިއެވެ. \"ޓިޝުން..",
+     "narration_english": "Habeeb took Raniya by the hand and ran out of the room's door. At that moment the third man began firing after them. \"Tishun..",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [
+      {
+       "name": "footsteps_pavement",
+       "atMs": 300732,
+       "gainDb": -20,
+       "word": "ދުއްވައިގަތެވެ."
+      }
+     ],
+     "hum": true,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_035",
+     "startMs": 306212,
+     "endMs": 315723,
+     "narration_dhivehi": "ޓިޝުން\" ވަޒަންތައް ގޮސް ޖެހުނީ ކޮރިޑޯގެ ފާރުގައެވެ. ހޮސްޕިޓަލުގެ ފާރުން ސިމެންތި ބުރައިގެން ދިޔައެވެ. އެކި ތަންތަނުން މީހުން ހަޅޭއްލަވާ ރޯއަޑު ގުގުމާލިއެވެ.",
+     "narration_english": "tishun\" - the bullets struck the corridor wall. Cement flew off the hospital wall. From all around, the sound of people screaming and crying echoed.",
+     "crop": "tight",
+     "motion": "pan down",
+     "sfx": [
+      {
+       "name": "crash_clatter",
+       "atMs": 311132,
+       "gainDb": -22,
+       "word": "ބުރައިގެން"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      0.0,
+      0.0,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Habeeb; reference image 2 is Dr. Raniya), create a new scene: Cinematic semi-realistic digital illustration with a tense modern crime-thriller look, deep midnight-navy and steel-blue shadows, cold moonlight and fluorescent light with warm ember-orange and amber accents, high contrast with soft highlights, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, wet pavement, sand, dark water, table top, soft shadow) for captions and a logo; rain and sea spray glisten in night scenes; set in present-day Maldives: Malé's narrow rain-wet streets and police offices, Hulhumalé, dark open sea, and a deserted jungle-covered island in Gaafu Alifu atoll hiding a concrete underground bunker.\nScene: Habeeb in his dark-grey zip-up jacket and black-rimmed glasses and Dr. Raniya in her white doctor's coat over a dusty-blue dress, navy hijab fully covering her hair and neck running side by side down the dark hospital corridor toward the viewer, not touching, faces full of fear; behind them small bursts of grey cement dust and sparks puff from the corridor wall in a flashlight beam; nobody is hit. Location: the long hospital corridor in total darkness, pale walls, closed doors, a faint emergency glow at the far end, rain-streaked windows. Camera: medium wide shot, eye level, down the corridor, faces in the upper two-thirds, a calm dark lower third (polished floor).\nCharacters: Habeeb: a slim Maldivian young man of about 28 with warm brown skin, a slim clean-shaven youthful face, alert dark eyes behind thin rectangular black-rimmed glasses and short slightly messy black hair; wears a dark-grey long-sleeved zip-up jacket over a plain white t-shirt, black trousers and white sneakers. Dr. Raniya: a slim Maldivian woman of about 28 with fair-brown skin, a beautiful oval face, large serious dark eyes, softly arched eyebrows and a small straight nose; wears a white long-sleeved doctor's coat over a loose long-sleeved ankle-length dusty-blue dress and a navy-blue hijab wrapped snugly and fully covering her hair and neck.\nMood/lighting: night, blackout, cold navy-blue darkness, a faint red emergency glow at the far end, bursts of grey dust in torchlight, panic.\nModest Maldivian clothing (every woman in loose long-sleeved ankle-length opaque clothing with a hijab fully covering her hair and neck; men in long-sleeved shirts, jackets or suits and long trousers, never shirtless), a clear respectful distance between men and women, nobody touching, culturally respectful, no guns, no firearms, no weapons of any kind, no knives, no syringes, no handcuffs, no chains, no ropes, no violence, nobody hitting or hurting anyone, no blood, no wounds, no bruises, no injuries, no corpses, no body parts, no person lying lifeless, no cigarettes, no smoking, no tattoos, no text, no letters, no numbers, no digits on displays, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.107,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 28.8,
+    "y_pct": 17.4,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_013",
+   "startMs": 315723,
+   "endMs": 342324,
+   "new_image_reason": "action change: Ashham follows out the back door; the three vanish into the rainy island lanes",
+   "characters": [],
+   "location": "the back garden of the island hospital at night in the rain: a lit back door, wet hibiscus and breadfruit trees, a sandy path disappearing into dark island lanes",
+   "location_key": "hospital_garden",
+   "mood": "night, heavy rain, cold navy-blue darkness, the warm light of the open back door behind, urgent escape",
+   "visual": "seen from behind: three running figures slipping through the rainy back garden of the hospital away from the lit back door toward the dark island lanes - a tall man in a dark-grey shirt, a slim young man in a grey jacket with glasses, and a slim woman in a white coat and navy hijab - side by side with gaps between them, not touching; rain glittering in the light",
+   "camera": "wide shot from behind, eye level, faces in the upper two-thirds, a calm dark lower third (wet sandy path)",
+   "image": "images/beat_013.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": "violence",
+   "safe_substitution": "Ashham overpowering the attackers and taking their ammunition is never shown; only the escape from behind",
+   "ambience": "rain_night",
+   "shots": [
+    {
+     "id": "shot_036",
+     "startMs": 315723,
+     "endMs": 325543,
+     "narration_dhivehi": "އަޝްހަމް ބިންމަތީގައި އޮވެ، އެމީހުންގެ ބަޑިން އެމީހުންނަށް ޙަމަލާދީ ދެމީހުން ވައްޓާލިއެވެ. ތިންވަނަމީހާ އޮތީ ބޮލުގައި ޖެހިލެއް ބާރުކަމުން ހޭނެތިފައެވެ.",
+     "narration_english": "Lying on the floor, Ashham attacked them with their own guns and brought two of them down. The third man lay unconscious from the hard blow to his head.",
+     "crop": "full",
+     "motion": "static drift",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_037",
+     "startMs": 325543,
+     "endMs": 334103,
+     "narration_dhivehi": "އެމީހުންގެ ބަޑިތަކުގައި ބާކީހުރި ވަޒަންތައް ނަގައިގެން އަޝްހަމް ދުވެފައި ގޮސް ހަބީބުމެންގެ ފަހަތުން ހޮސްޕިޓަލުގެ ފަހަތު ދޮރުން ނުކުމެއްޖެއެވެ.",
+     "narration_english": "Taking the rounds left in their guns, Ashham ran after Habeeb and the others and came out through the hospital's back door.",
+     "crop": "tight",
+     "motion": "slow push-in",
+     "sfx": [
+      {
+       "name": "door_open",
+       "atMs": 332893,
+       "gainDb": -20,
+       "word": "ދޮރުން"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      0.0,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_038",
+     "startMs": 334103,
+     "endMs": 342324,
+     "narration_dhivehi": "އެމީހުން ހޮސްޕިޓަލުގެ ފަހަތު ބަގީޗާ ތެރެއިން ނުކުމެ، ރަށުގެ އަނދިރި މަގުތަކުގެ ތެރެއަށް ގެއްލުނެވެ. އޭރުވެސް ވާރޭ ވެހެމުންދެއެވެ.",
+     "narration_english": "They came out through the hospital's back garden and vanished into the island's dark lanes. It was still raining.",
+     "crop": "full",
+     "motion": "pan left",
+     "sfx": [
+      {
+       "name": "rain_start",
+       "atMs": 341054,
+       "gainDb": -18,
+       "word": "ވާރޭ"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Cinematic semi-realistic digital illustration with a tense modern crime-thriller look, deep midnight-navy and steel-blue shadows, cold moonlight and fluorescent light with warm ember-orange and amber accents, high contrast with soft highlights, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, wet pavement, sand, dark water, table top, soft shadow) for captions and a logo; rain and sea spray glisten in night scenes; set in present-day Maldives: Malé's narrow rain-wet streets and police offices, Hulhumalé, dark open sea, and a deserted jungle-covered island in Gaafu Alifu atoll hiding a concrete underground bunker.\nScene: seen from behind: three running figures slipping through the rainy back garden of the hospital away from the lit back door toward the dark island lanes - a tall man in a dark-grey shirt, a slim young man in a grey jacket with glasses, and a slim woman in a white coat and navy hijab - side by side with gaps between them, not touching; rain glittering in the light. Location: the back garden of the island hospital at night in the rain: a lit back door, wet hibiscus and breadfruit trees, a sandy path disappearing into dark island lanes. Camera: wide shot from behind, eye level, faces in the upper two-thirds, a calm dark lower third (wet sandy path).\nMood/lighting: night, heavy rain, cold navy-blue darkness, the warm light of the open back door behind, urgent escape.\nModest Maldivian clothing (every woman in loose long-sleeved ankle-length opaque clothing with a hijab fully covering her hair and neck; men in long-sleeved shirts, jackets or suits and long trousers, never shirtless), a clear respectful distance between men and women, nobody touching, culturally respectful, no guns, no firearms, no weapons of any kind, no knives, no syringes, no handcuffs, no chains, no ropes, no violence, nobody hitting or hurting anyone, no blood, no wounds, no bruises, no injuries, no corpses, no body parts, no person lying lifeless, no cigarettes, no smoking, no tattoos, no text, no letters, no numbers, no digits on displays, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.121,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 14.4,
+    "y_pct": 26.3,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_014",
+   "startMs": 342324,
+   "endMs": 361855,
+   "new_image_reason": "scene change: at the abandoned jetty on the west shore they stop, breathless; Raniya soaked and trembling",
+   "characters": [
+    "raniya",
+    "ashham",
+    "habeeb"
+   ],
+   "location": "an abandoned old wooden jetty on the island's west shore at night in rain, broken planks and leaning posts, black water, dense dark bushes and screwpine at the shoreline",
+   "location_key": "old_jetty",
+   "mood": "night, heavy rain, cold navy-blue darkness, faint moonlight through black clouds, wet glistening planks, exhaustion and fear",
+   "visual": "Dr. Raniya WITHOUT her white coat: a loose long-sleeved ankle-length dusty-blue dress and a navy hijab fully covering her hair and neck, soaked dark by rain and spray but fully opaque, standing on the old wet jetty planks trembling, arms wrapped around herself, frightened; Ashham in plain civilian clothes (not a uniform): a dark-grey long-sleeved button shirt and dark trousers, short dark stubble, damp and dusty a few steps away scanning the dark shoreline; Habeeb in his dark-grey zip-up jacket and black-rimmed glasses bent over catching his breath, hands on his knees; clear gaps between them, rain falling",
+   "camera": "medium wide shot, eye level, faces in the upper two-thirds, a calm dark lower third (dark wet planks and black water)",
+   "image": "images/beat_014.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "rain_night",
+   "shots": [
+    {
+     "id": "shot_039",
+     "startMs": 342324,
+     "endMs": 352614,
+     "narration_dhivehi": "ރަށުގެ ހުޅަނގު ފަރާތު އަތިރިމަތީގައި އޮތް ފަޅު، ބާ ފާލަމުގެ ކައިރިއަށް އެމީހުންނަށް ދެވުނުއިރު އެންމެން ތިބީ މާނޭވާލެވިފައެވެ. ރާނިޔާގެ ހެދުން ވަނީ ވީދިފައެވެ.",
+     "narration_english": "When they reached the abandoned old jetty on the island's west shore, they were all out of breath. Raniya's clothes were soaked.",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [
+      {
+       "name": "breath_heavy",
+       "atMs": 349094,
+       "gainDb": -18,
+       "word": "މާނޭވާލެވިފައެވެ."
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_040",
+     "startMs": 352614,
+     "endMs": 361855,
+     "narration_dhivehi": "ބިރުން ތުރުތުރު އަޅައެވެ. \"އަހަރެމެން ދެން ކިހިނެއް ހަދާނީ؟ އެމީހުން މުޅި ރަށުގައި އަހަރެމެން ހޯދާނެ،\" ރާނިޔާ ހާސްކަމުން ފުރިފައިވާ އަޑަކުން ބުންޏެވެ.",
+     "narration_english": "She was trembling with fear. \"What do we do now? They'll search the whole island for us,\" Raniya said in a voice full of panic.",
+     "crop": "tight",
+     "motion": "pan right",
+     "sfx": [
+      {
+       "name": "breath",
+       "atMs": 352934,
+       "gainDb": -22,
+       "word": "ތުރުތުރު"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      0.0,
+      0.0,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Dr. Raniya; reference image 2 is Ashham; reference image 3 is Habeeb), create a new scene: Cinematic semi-realistic digital illustration with a tense modern crime-thriller look, deep midnight-navy and steel-blue shadows, cold moonlight and fluorescent light with warm ember-orange and amber accents, high contrast with soft highlights, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, wet pavement, sand, dark water, table top, soft shadow) for captions and a logo; rain and sea spray glisten in night scenes; set in present-day Maldives: Malé's narrow rain-wet streets and police offices, Hulhumalé, dark open sea, and a deserted jungle-covered island in Gaafu Alifu atoll hiding a concrete underground bunker.\nScene: Dr. Raniya WITHOUT her white coat: a loose long-sleeved ankle-length dusty-blue dress and a navy hijab fully covering her hair and neck, soaked dark by rain and spray but fully opaque, standing on the old wet jetty planks trembling, arms wrapped around herself, frightened; Ashham in plain civilian clothes (not a uniform): a dark-grey long-sleeved button shirt and dark trousers, short dark stubble, damp and dusty a few steps away scanning the dark shoreline; Habeeb in his dark-grey zip-up jacket and black-rimmed glasses bent over catching his breath, hands on his knees; clear gaps between them, rain falling. Location: an abandoned old wooden jetty on the island's west shore at night in rain, broken planks and leaning posts, black water, dense dark bushes and screwpine at the shoreline. Camera: medium wide shot, eye level, faces in the upper two-thirds, a calm dark lower third (dark wet planks and black water).\nCharacters: Dr. Raniya: a slim Maldivian woman of about 28 with fair-brown skin, a beautiful oval face, large serious dark eyes, softly arched eyebrows and a small straight nose; wears a white long-sleeved doctor's coat over a loose long-sleeved ankle-length dusty-blue dress and a navy-blue hijab wrapped snugly and fully covering her hair and neck. Ashham: a tall broad-shouldered strong Maldivian man of about 38 with warm brown skin, a strong rectangular face with a firm jaw, sharp intelligent dark eyes under straight thick eyebrows, short neat black hair tapered at the sides and short dark stubble; wears a dark-navy long-sleeved police field shirt with buttoned cuffs and plain epaulettes (no badges, no lettering), dark-navy trousers, a plain black belt, black boots and a black wristwatch. Habeeb: a slim Maldivian young man of about 28 with warm brown skin, a slim clean-shaven youthful face, alert dark eyes behind thin rectangular black-rimmed glasses and short slightly messy black hair; wears a dark-grey long-sleeved zip-up jacket over a plain white t-shirt, black trousers and white sneakers.\nMood/lighting: night, heavy rain, cold navy-blue darkness, faint moonlight through black clouds, wet glistening planks, exhaustion and fear.\nModest Maldivian clothing (every woman in loose long-sleeved ankle-length opaque clothing with a hijab fully covering her hair and neck; men in long-sleeved shirts, jackets or suits and long trousers, never shirtless), a clear respectful distance between men and women, nobody touching, culturally respectful, no guns, no firearms, no weapons of any kind, no knives, no syringes, no handcuffs, no chains, no ropes, no violence, nobody hitting or hurting anyone, no blood, no wounds, no bruises, no injuries, no corpses, no body parts, no person lying lifeless, no cigarettes, no smoking, no tattoos, no text, no letters, no numbers, no digits on displays, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.095,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 22.9,
+    "y_pct": 24.3,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_015",
+   "startMs": 361855,
+   "endMs": 393296,
+   "new_image_reason": "action change: they pull the hidden fibreglass dinghy out of the bushes; Habeeb climbs in with his laptop",
+   "characters": [
+    "ashham",
+    "habeeb",
+    "raniya"
+   ],
+   "location": "an abandoned old wooden jetty on the island's west shore at night in rain, broken planks and leaning posts, black water, dense dark bushes and screwpine at the shoreline",
+   "location_key": "old_jetty",
+   "mood": "night, heavy rain, cold navy-blue darkness, faint moonlight through black clouds, wet glistening planks, exhaustion and fear",
+   "visual": "Ashham in plain civilian clothes (not a uniform): a dark-grey long-sleeved button shirt and dark trousers, short dark stubble, damp and dusty dragging a small white fibreglass dinghy with a small outboard engine out of the dark bushes into the shallow black water; Habeeb in his dark-grey zip-up jacket and black-rimmed glasses stepping into it clutching his laptop bag; Dr. Raniya WITHOUT her white coat: a loose long-sleeved ankle-length dusty-blue dress and a navy hijab fully covering her hair and neck, soaked dark by rain and spray but fully opaque standing a few steps away on the shore pointing toward the bushes; rain",
+   "camera": "medium wide shot, eye level, faces in the upper two-thirds, a calm dark lower third (black shallow water)",
+   "image": "images/beat_015.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "rain_night",
+   "shots": [
+    {
+     "id": "shot_041",
+     "startMs": 361855,
+     "endMs": 371935,
+     "narration_dhivehi": "\"މިތަނުގައި އަހަރެން ފޮރުވާފައި އޮތް ކުޑަ ޑިންގީއެއް އޮންނާނެ،\" ރާނިޔާ މަޑުމަޑުން ބުންޏެވެ. \"އެއީ އަހަރެން ރަށުން ފިލަންވެގެން ތައްޔާރުކުރި އެއްޗެއް.",
+     "narration_english": "\"There should be a small dinghy I hid here,\" Raniya said slowly. \"It's something I prepared to escape from the island.",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_042",
+     "startMs": 371935,
+     "endMs": 384816,
+     "narration_dhivehi": "ކިތަންމެފަހަރަކު ފިލަން އުޅުނިން. އެކަމަކު ބައްޕަ އެމީހުންގެ އަތްދަށުގައި ހުރުމުންނާއި ގަންނާކުރައްވާ ބިރުން ނުކެރި މިހުރީ.\"ގަސްތަކުގެ ތެރޭގައި ފޮރުވާފައި އޮތް، ފައިބަރު ކުޑަ ޑިންގީއެއް ނެރެ މޫދަށް ބޭލިއެވެ.",
+     "narration_english": "I tried to escape so many times. But with my father in their hands, and afraid of what they'd do, I never dared.\" They pulled out a small fibreglass dinghy hidden among the bushes and put it in the sea.",
+     "crop": "tight",
+     "motion": "pan up",
+     "sfx": [
+      {
+       "name": "leaves_rustle",
+       "atMs": 378775,
+       "gainDb": -18,
+       "word": "މިހުރީ.\"ގަސްތަކުގެ"
+      },
+      {
+       "name": "splash",
+       "atMs": 383816,
+       "gainDb": -18,
+       "word": "މޫދަށް"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      16.7,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_043",
+     "startMs": 384816,
+     "endMs": 393296,
+     "narration_dhivehi": "އޭގައި ކުޑަ އައުޓްބޯޑު އިންޖީނެއް ހުއްޓެވެ. ހަބީބު ވަގުތުން އޭގެ ތެރެއަށް ވަދެ، އޭނާގެ ލެޕްޓޮޕް ސަލާމަތްކުރަން އުޅުނެވެ.\"ސަރ،",
+     "narration_english": "It had a small outboard engine. Habeeb got into it at once, trying to keep his laptop safe. \"Sir,",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Ashham; reference image 2 is Habeeb; reference image 3 is Dr. Raniya), create a new scene: Cinematic semi-realistic digital illustration with a tense modern crime-thriller look, deep midnight-navy and steel-blue shadows, cold moonlight and fluorescent light with warm ember-orange and amber accents, high contrast with soft highlights, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, wet pavement, sand, dark water, table top, soft shadow) for captions and a logo; rain and sea spray glisten in night scenes; set in present-day Maldives: Malé's narrow rain-wet streets and police offices, Hulhumalé, dark open sea, and a deserted jungle-covered island in Gaafu Alifu atoll hiding a concrete underground bunker.\nScene: Ashham in plain civilian clothes (not a uniform): a dark-grey long-sleeved button shirt and dark trousers, short dark stubble, damp and dusty dragging a small white fibreglass dinghy with a small outboard engine out of the dark bushes into the shallow black water; Habeeb in his dark-grey zip-up jacket and black-rimmed glasses stepping into it clutching his laptop bag; Dr. Raniya WITHOUT her white coat: a loose long-sleeved ankle-length dusty-blue dress and a navy hijab fully covering her hair and neck, soaked dark by rain and spray but fully opaque standing a few steps away on the shore pointing toward the bushes; rain. Location: an abandoned old wooden jetty on the island's west shore at night in rain, broken planks and leaning posts, black water, dense dark bushes and screwpine at the shoreline. Camera: medium wide shot, eye level, faces in the upper two-thirds, a calm dark lower third (black shallow water).\nCharacters: Ashham: a tall broad-shouldered strong Maldivian man of about 38 with warm brown skin, a strong rectangular face with a firm jaw, sharp intelligent dark eyes under straight thick eyebrows, short neat black hair tapered at the sides and short dark stubble; wears a dark-navy long-sleeved police field shirt with buttoned cuffs and plain epaulettes (no badges, no lettering), dark-navy trousers, a plain black belt, black boots and a black wristwatch. Habeeb: a slim Maldivian young man of about 28 with warm brown skin, a slim clean-shaven youthful face, alert dark eyes behind thin rectangular black-rimmed glasses and short slightly messy black hair; wears a dark-grey long-sleeved zip-up jacket over a plain white t-shirt, black trousers and white sneakers. Dr. Raniya: a slim Maldivian woman of about 28 with fair-brown skin, a beautiful oval face, large serious dark eyes, softly arched eyebrows and a small straight nose; wears a white long-sleeved doctor's coat over a loose long-sleeved ankle-length dusty-blue dress and a navy-blue hijab wrapped snugly and fully covering her hair and neck.\nMood/lighting: night, heavy rain, cold navy-blue darkness, faint moonlight through black clouds, wet glistening planks, exhaustion and fear.\nModest Maldivian clothing (every woman in loose long-sleeved ankle-length opaque clothing with a hijab fully covering her hair and neck; men in long-sleeved shirts, jackets or suits and long trousers, never shirtless), a clear respectful distance between men and women, nobody touching, culturally respectful, no guns, no firearms, no weapons of any kind, no knives, no syringes, no handcuffs, no chains, no ropes, no violence, nobody hitting or hurting anyone, no blood, no wounds, no bruises, no injuries, no corpses, no body parts, no person lying lifeless, no cigarettes, no smoking, no tattoos, no text, no letters, no numbers, no digits on displays, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.088,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 46.4,
+    "y_pct": 23.8,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_016",
+   "startMs": 393296,
+   "endMs": 440558,
+   "new_image_reason": "action change: under black clouds Ashham starts the outboard; Raniya grips the side as they head out into big waves",
+   "characters": [
+    "ashham",
+    "raniya",
+    "habeeb"
+   ],
+   "location": "an abandoned old wooden jetty on the island's west shore at night in rain, broken planks and leaning posts, black water, dense dark bushes and screwpine at the shoreline",
+   "location_key": "old_jetty",
+   "mood": "night, heavy rain, cold navy-blue darkness, faint moonlight through black clouds, wet glistening planks, exhaustion and fear",
+   "visual": "the small white fibreglass dinghy beside the old jetty in rough black water. At the bow: Dr. Raniya WITHOUT her white coat: a loose long-sleeved ankle-length dusty-blue dress and a navy hijab fully covering her hair and neck, soaked dark by rain and spray but fully opaque - she wears NO white coat and NO lab coat at all, only the dark wet dusty-blue dress - gripping the dinghy's side with both hands, determined but afraid. In the middle Habeeb in his dark-grey zip-up jacket and black-rimmed glasses looking up anxiously at huge black storm clouds. At the stern Ashham in plain civilian clothes (not a uniform): a dark-grey long-sleeved button shirt and dark trousers, short dark stubble, damp and dusty pulling the outboard engine's starter cord. Gaps between them",
+   "camera": "medium wide shot, eye level, faces in the upper two-thirds, a calm dark lower third (choppy black water)",
+   "image": "images/beat_016.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "rain_night",
+   "shots": [
+    {
+     "id": "shot_044",
+     "startMs": 393296,
+     "endMs": 403196,
+     "narration_dhivehi": "މިއީ ވަރަށް ނުރައްކާތެރި ދަތުރަކަށް ވާނީ. ކަނޑު ވަރަށް ގަދަ،\" ޒަޔާން އުޑުމައްޗަށް ބަލާލަމުން ބުންޏެވެ. ކަޅުވިލާތަކުން މުޅި އުޑުމަތި ވަނީ ބައްދާލާފައެވެ.",
+     "narration_english": "this will be a very dangerous trip. The sea is very rough,\" Zayaan said, looking up at the sky. Black clouds covered the whole sky.",
+     "crop": "full",
+     "motion": "pan down",
+     "sfx": [
+      {
+       "name": "wind_gust",
+       "atMs": 400196,
+       "gainDb": -18,
+       "word": "ކަޅުވިލާތަކުން"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_045",
+     "startMs": 403196,
+     "endMs": 410727,
+     "narration_dhivehi": "\"އަހަރެމެންނަށް އޮތް ހަމައެކަނި ގޮތަކީ މިތާ ކައިރީ އެހެން ރަށަކަށް ދިއުން.\" \"ނޫން ވަގުތެއް ނެތް. ދާންވީ ކަނޑުހުއްޓާއަށް.",
+     "narration_english": "\"The only option we have is to go to another island near here.\" \"No, there's no time. We have to go to Kandu-huttaa.",
+     "crop": "tight",
+     "motion": "static drift",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      40.6,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_046",
+     "startMs": 410727,
+     "endMs": 420527,
+     "narration_dhivehi": "އެތަނަށް ގޮސް އެ ބިންގަރާހުގެ ތެރެއަށް ވަދެވިއްޖެނަމަ، އެމީހުންގެ ހުރިހާ ސިއްރެއް ދެނެގަނެވޭނެ،\" ޑިންގީގެ އިންޖީނު ސްޓާޓްކޮށްލަމުން އަޝްހަމް ބުންޏެވެ.",
+     "narration_english": "If we can get there and into that bunker, we'll learn all their secrets,\" Ashham said, starting the dinghy's engine.",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [
+      {
+       "name": "boat_engine",
+       "atMs": 418717,
+       "gainDb": -16,
+       "word": "ސްޓާޓްކޮށްލަމުން"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_047",
+     "startMs": 420527,
+     "endMs": 431117,
+     "narration_dhivehi": "\"ރާނިޔާ، ކަލޭގެ އަތުގައި ބަންކަރުގެ ކޯޑު އެބައޮތްތަ؟\" \"އާދެ، އަހަރެންގެ ފޯނުގަ އެބައޮތް. އެކަމަކު އެތަނުގެ އެތެރޭގައި ހަތިޔާރު އެޅި ފާރަވެރިން ތިބޭނެ،\"",
+     "narration_english": "\"Raniya, do you have the bunker code?\" \"Yes, it's on my phone. But there'll be armed guards inside,\"",
+     "crop": "medium",
+     "motion": "pan left",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      28.5,
+      0.0,
+      71.5,
+      84.7
+     ]
+    },
+    {
+     "id": "shot_048",
+     "startMs": 431117,
+     "endMs": 440558,
+     "narration_dhivehi": "ރާނިޔާ ޑިންގީގެ އަރިމަތީގައި ހިފަހައްޓާލަމުން ބުންޏެވެ. ޑިންގީ ރަށުގެ ފަޅުން ނުކުމެ، ކަނޑުގެ ބޮޑެތި ރާޅުތަކުގެ ތެރެއަށް މިސްރާބު ޖެހިއެވެ.",
+     "narration_english": "Raniya said, gripping the side of the dinghy. The dinghy left the island's lagoon and headed into the sea's huge waves.",
+     "crop": "tight",
+     "motion": "slow pull-out",
+     "sfx": [
+      {
+       "name": "wave_crash",
+       "atMs": 437998,
+       "gainDb": -18,
+       "word": "ރާޅުތަކުގެ"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      40.6,
+      0.0,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Ashham; reference image 2 is Dr. Raniya; reference image 3 is Habeeb), create a new scene: Cinematic semi-realistic digital illustration with a tense modern crime-thriller look, deep midnight-navy and steel-blue shadows, cold moonlight and fluorescent light with warm ember-orange and amber accents, high contrast with soft highlights, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, wet pavement, sand, dark water, table top, soft shadow) for captions and a logo; rain and sea spray glisten in night scenes; set in present-day Maldives: Malé's narrow rain-wet streets and police offices, Hulhumalé, dark open sea, and a deserted jungle-covered island in Gaafu Alifu atoll hiding a concrete underground bunker.\nScene: the small white fibreglass dinghy beside the old jetty in rough black water. At the bow: Dr. Raniya WITHOUT her white coat: a loose long-sleeved ankle-length dusty-blue dress and a navy hijab fully covering her hair and neck, soaked dark by rain and spray but fully opaque - she wears NO white coat and NO lab coat at all, only the dark wet dusty-blue dress - gripping the dinghy's side with both hands, determined but afraid. In the middle Habeeb in his dark-grey zip-up jacket and black-rimmed glasses looking up anxiously at huge black storm clouds. At the stern Ashham in plain civilian clothes (not a uniform): a dark-grey long-sleeved button shirt and dark trousers, short dark stubble, damp and dusty pulling the outboard engine's starter cord. Gaps between them. Location: an abandoned old wooden jetty on the island's west shore at night in rain, broken planks and leaning posts, black water, dense dark bushes and screwpine at the shoreline. Camera: medium wide shot, eye level, faces in the upper two-thirds, a calm dark lower third (choppy black water).\nCharacters: Ashham: a tall broad-shouldered strong Maldivian man of about 38 with warm brown skin, a strong rectangular face with a firm jaw, sharp intelligent dark eyes under straight thick eyebrows, short neat black hair tapered at the sides and short dark stubble; wears a dark-navy long-sleeved police field shirt with buttoned cuffs and plain epaulettes (no badges, no lettering), dark-navy trousers, a plain black belt, black boots and a black wristwatch. Dr. Raniya: a slim Maldivian woman of about 28 with fair-brown skin, a beautiful oval face, large serious dark eyes, softly arched eyebrows and a small straight nose; wears a white long-sleeved doctor's coat over a loose long-sleeved ankle-length dusty-blue dress and a navy-blue hijab wrapped snugly and fully covering her hair and neck. Habeeb: a slim Maldivian young man of about 28 with warm brown skin, a slim clean-shaven youthful face, alert dark eyes behind thin rectangular black-rimmed glasses and short slightly messy black hair; wears a dark-grey long-sleeved zip-up jacket over a plain white t-shirt, black trousers and white sneakers.\nMood/lighting: night, heavy rain, cold navy-blue darkness, faint moonlight through black clouds, wet glistening planks, exhaustion and fear.\nModest Maldivian clothing (every woman in loose long-sleeved ankle-length opaque clothing with a hijab fully covering her hair and neck; men in long-sleeved shirts, jackets or suits and long trousers, never shirtless), a clear respectful distance between men and women, nobody touching, culturally respectful, no guns, no firearms, no weapons of any kind, no knives, no syringes, no handcuffs, no chains, no ropes, no violence, nobody hitting or hurting anyone, no blood, no wounds, no bruises, no injuries, no corpses, no body parts, no person lying lifeless, no cigarettes, no smoking, no tattoos, no text, no letters, no numbers, no digits on displays, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.174,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 76.4,
+    "y_pct": 34.5,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_017",
+   "startMs": 440558,
+   "endMs": 466659,
+   "new_image_reason": "scene change: the storm at full force; huge waves over the dinghy, Habeeb bailing water",
+   "characters": [
+    "habeeb",
+    "ashham",
+    "raniya"
+   ],
+   "location": "the open sea between islands in a violent storm at night, huge black waves with white foaming crests, salt spray, black clouds, lightning",
+   "location_key": "storm_sea",
+   "mood": "storm at night: black sea, white spray, flashes of lightning, a blinding white searchlight beam, deadly danger",
+   "visual": "the tiny dinghy climbing a towering black wave, white spray exploding over it; Habeeb in his dark-grey zip-up jacket and black-rimmed glasses bailing water with a plastic scoop, a waterproof bag strapped to his chest; Ashham in plain civilian clothes (not a uniform): a dark-grey long-sleeved button shirt and dark trousers, short dark stubble, damp and dusty at the outboard tiller squinting into the spray; Dr. Raniya WITHOUT her white coat: a loose long-sleeved ankle-length dusty-blue dress and a navy hijab fully covering her hair and neck, soaked dark by rain and spray but fully opaque crouched low gripping the side; lightning in the black clouds",
+   "camera": "medium wide shot, slightly low angle, faces in the upper two-thirds, a calm dark lower third (dark foaming water)",
+   "image": "images/beat_017.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "storm_night",
+   "shots": [
+    {
+     "id": "shot_049",
+     "startMs": 440558,
+     "endMs": 449938,
+     "narration_dhivehi": "ކަނޑުގެ ތޫފާން: ކަނޑުމައްޗަށް ނުކުމެވުމާއެކު، ތޫފާނުގެ އަސްލު ބާރު ދައްކާލިއެވެ. ފަރުބަދައެއް ފަދަ ބޮޑެތި ރާޅުތައް ޑިންގީގެ މައްޗަށް ބިންދަމުންދިޔައެވެ.",
+     "narration_english": "Storm at sea: as soon as they were out on the open sea, the storm showed its true strength. Waves like mountains crashed down on the dinghy.",
+     "crop": "full",
+     "motion": "pan right",
+     "sfx": [
+      {
+       "name": "wind_howl",
+       "atMs": 443898,
+       "gainDb": -18,
+       "word": "ތޫފާނުގެ"
+      },
+      {
+       "name": "wave_crash",
+       "atMs": 447578,
+       "gainDb": -14,
+       "word": "ރާޅުތައް"
+      }
+     ],
+     "hum": true,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_050",
+     "startMs": 449938,
+     "endMs": 458139,
+     "narration_dhivehi": "ލޮނގަނޑުގެ ސަބަބުން ދެލޯ ހުޅުވަންވެސް ދަތިވިއެވެ. ހަބީބު އިނީ ޑިންގީން ދިޔަހިއްކާށެވެ. އޭނާގެ ލެޕްޓޮޕް އޮތީ އޭގެވޯޓަރޕްރޫފް ދަބަހުގައެވެ.",
+     "narration_english": "The salt spray made it hard even to open their eyes. Habeeb sat bailing water out of the dinghy. His laptop was in its waterproof bag,",
+     "crop": "tight",
+     "motion": "slow push-in",
+     "sfx": [
+      {
+       "name": "splash",
+       "atMs": 454118,
+       "gainDb": -20,
+       "word": "ދިޔަހިއްކާށެވެ."
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      2.6,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_051",
+     "startMs": 458139,
+     "endMs": 466659,
+     "narration_dhivehi": "އަދި އިތުރު ކޮތަޅަށް އެލައި ކޮނޑުގައި އަޅުވައި ވާގަނޑަކުން ބަނޑާއެކު އައްސާފައި ވެއެވެ. \"ސަރ! އަނެއް ފަރާތުން ބޮޑު ލޯންޗެއް އެބައާދޭ!\"",
+     "narration_english": "wrapped in another plastic bag, slung round his neck and tied to his body with a strap. \"Sir! A big launch is coming from the other side!\"",
+     "crop": "full",
+     "motion": "pan up",
+     "sfx": [
+      {
+       "name": "engine_rev",
+       "atMs": 465419,
+       "gainDb": -18,
+       "word": "ލޯންޗެއް"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Habeeb; reference image 2 is Ashham; reference image 3 is Dr. Raniya), create a new scene: Cinematic semi-realistic digital illustration with a tense modern crime-thriller look, deep midnight-navy and steel-blue shadows, cold moonlight and fluorescent light with warm ember-orange and amber accents, high contrast with soft highlights, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, wet pavement, sand, dark water, table top, soft shadow) for captions and a logo; rain and sea spray glisten in night scenes; set in present-day Maldives: Malé's narrow rain-wet streets and police offices, Hulhumalé, dark open sea, and a deserted jungle-covered island in Gaafu Alifu atoll hiding a concrete underground bunker.\nScene: the tiny dinghy climbing a towering black wave, white spray exploding over it; Habeeb in his dark-grey zip-up jacket and black-rimmed glasses bailing water with a plastic scoop, a waterproof bag strapped to his chest; Ashham in plain civilian clothes (not a uniform): a dark-grey long-sleeved button shirt and dark trousers, short dark stubble, damp and dusty at the outboard tiller squinting into the spray; Dr. Raniya WITHOUT her white coat: a loose long-sleeved ankle-length dusty-blue dress and a navy hijab fully covering her hair and neck, soaked dark by rain and spray but fully opaque crouched low gripping the side; lightning in the black clouds. Location: the open sea between islands in a violent storm at night, huge black waves with white foaming crests, salt spray, black clouds, lightning. Camera: medium wide shot, slightly low angle, faces in the upper two-thirds, a calm dark lower third (dark foaming water).\nCharacters: Habeeb: a slim Maldivian young man of about 28 with warm brown skin, a slim clean-shaven youthful face, alert dark eyes behind thin rectangular black-rimmed glasses and short slightly messy black hair; wears a dark-grey long-sleeved zip-up jacket over a plain white t-shirt, black trousers and white sneakers. Ashham: a tall broad-shouldered strong Maldivian man of about 38 with warm brown skin, a strong rectangular face with a firm jaw, sharp intelligent dark eyes under straight thick eyebrows, short neat black hair tapered at the sides and short dark stubble; wears a dark-navy long-sleeved police field shirt with buttoned cuffs and plain epaulettes (no badges, no lettering), dark-navy trousers, a plain black belt, black boots and a black wristwatch. Dr. Raniya: a slim Maldivian woman of about 28 with fair-brown skin, a beautiful oval face, large serious dark eyes, softly arched eyebrows and a small straight nose; wears a white long-sleeved doctor's coat over a loose long-sleeved ankle-length dusty-blue dress and a navy-blue hijab wrapped snugly and fully covering her hair and neck.\nMood/lighting: storm at night: black sea, white spray, flashes of lightning, a blinding white searchlight beam, deadly danger.\nModest Maldivian clothing (every woman in loose long-sleeved ankle-length opaque clothing with a hijab fully covering her hair and neck; men in long-sleeved shirts, jackets or suits and long trousers, never shirtless), a clear respectful distance between men and women, nobody touching, culturally respectful, no guns, no firearms, no weapons of any kind, no knives, no syringes, no handcuffs, no chains, no ropes, no violence, nobody hitting or hurting anyone, no blood, no wounds, no bruises, no injuries, no corpses, no body parts, no person lying lifeless, no cigarettes, no smoking, no tattoos, no text, no letters, no numbers, no digits on displays, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.084,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 32.3,
+    "y_pct": 20.1,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_018",
+   "startMs": 466659,
+   "endMs": 493510,
+   "new_image_reason": "action change: a powerful searchlight sweeps toward them; Ashham looks back at two fast launches",
+   "characters": [
+    "ashham"
+   ],
+   "location": "the open sea between islands in a violent storm at night, huge black waves with white foaming crests, salt spray, black clouds, lightning",
+   "location_key": "storm_sea",
+   "mood": "storm at night: black sea, white spray, flashes of lightning, a blinding white searchlight beam, deadly danger",
+   "visual": "Ashham in plain civilian clothes (not a uniform): a dark-grey long-sleeved button shirt and dark trousers, short dark stubble, damp and dusty sitting low inside the small white fibreglass dinghy, the dinghy's white hull and gunwale clearly visible around him, one hand resting on the long arm of the small outboard engine mounted on the stern beside him, twisting to look back over his shoulder, drenched, his face lit hard white by a powerful searchlight beam coming across the black waves from two dark fast launches in the distance behind; spray in the air",
+   "camera": "medium close-up, eye level, faces in the upper two-thirds, a calm dark lower third (black water)",
+   "image": "images/beat_018.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "storm_night",
+   "shots": [
+    {
+     "id": "shot_052",
+     "startMs": 466659,
+     "endMs": 477239,
+     "narration_dhivehi": "ހަބީބުހަޅޭއްލަވައިގަތެވެ. އަޝްހަމް ފަހަތަށް ބަލާލިއެވެ. ދުރުން، ބާރުގަދަ ސާޗްލައިޓެއްގެ އަލި ކަނޑުގެ ލޮނގަނޑު މަތިން އެމީހުންނާ ދިމާލަށް އަންނަމުންދިޔައެވެ.",
+     "narration_english": "Habeeb shouted. Ashham looked back. In the distance, the light of a powerful searchlight was coming toward them over the sea spray.",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_053",
+     "startMs": 477239,
+     "endMs": 484630,
+     "narration_dhivehi": "އެއީ މުޖުރިމުންގެ ބާރުގަދަ، ދެ ލޯންޗެވެ. އެމީހުންގެ ދުވެލި މާ ބާރެވެ.\"އެމީހުންނަށް އަހަރެމެން ފެނިއްޖެ!\"",
+     "narration_english": "It was two powerful launches of the criminals. Their speed was far greater. \"They've seen us!\"",
+     "crop": "tight",
+     "motion": "pan down",
+     "sfx": [
+      {
+       "name": "engine_rev",
+       "atMs": 479380,
+       "gainDb": -16,
+       "word": "ލޯންޗެވެ."
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      8.2,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_054",
+     "startMs": 484630,
+     "endMs": 493510,
+     "narration_dhivehi": "ރާނިޔާ ބިރުން ހަޅޭއްލަވައިގަތެވެ.\"ޒަޔާން! ހިފަހައްޓާ!\" އަޝްހަމް ޑިންގީގެ ހުންގާނު އަނބުރާލަމުން، ރާޅުތަކުގެ ތެރެއަށް ވައްދާލިއެވެ.",
+     "narration_english": "Raniya cried out in fear. \"Zayaan! Hold on!\" Ashham swung the dinghy's helm and drove it into the waves.",
+     "crop": "full",
+     "motion": "static drift",
+     "sfx": [
+      {
+       "name": "wave_crash",
+       "atMs": 491680,
+       "gainDb": -16,
+       "word": "ރާޅުތަކުގެ"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Ashham), create a new scene: Cinematic semi-realistic digital illustration with a tense modern crime-thriller look, deep midnight-navy and steel-blue shadows, cold moonlight and fluorescent light with warm ember-orange and amber accents, high contrast with soft highlights, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, wet pavement, sand, dark water, table top, soft shadow) for captions and a logo; rain and sea spray glisten in night scenes; set in present-day Maldives: Malé's narrow rain-wet streets and police offices, Hulhumalé, dark open sea, and a deserted jungle-covered island in Gaafu Alifu atoll hiding a concrete underground bunker.\nScene: Ashham in plain civilian clothes (not a uniform): a dark-grey long-sleeved button shirt and dark trousers, short dark stubble, damp and dusty sitting low inside the small white fibreglass dinghy, the dinghy's white hull and gunwale clearly visible around him, one hand resting on the long arm of the small outboard engine mounted on the stern beside him, twisting to look back over his shoulder, drenched, his face lit hard white by a powerful searchlight beam coming across the black waves from two dark fast launches in the distance behind; spray in the air. Location: the open sea between islands in a violent storm at night, huge black waves with white foaming crests, salt spray, black clouds, lightning. Camera: medium close-up, eye level, faces in the upper two-thirds, a calm dark lower third (black water).\nCharacters: Ashham: a tall broad-shouldered strong Maldivian man of about 38 with warm brown skin, a strong rectangular face with a firm jaw, sharp intelligent dark eyes under straight thick eyebrows, short neat black hair tapered at the sides and short dark stubble; wears a dark-navy long-sleeved police field shirt with buttoned cuffs and plain epaulettes (no badges, no lettering), dark-navy trousers, a plain black belt, black boots and a black wristwatch.\nMood/lighting: storm at night: black sea, white spray, flashes of lightning, a blinding white searchlight beam, deadly danger.\nModest Maldivian clothing (every woman in loose long-sleeved ankle-length opaque clothing with a hijab fully covering her hair and neck; men in long-sleeved shirts, jackets or suits and long trousers, never shirtless), a clear respectful distance between men and women, nobody touching, culturally respectful, no guns, no firearms, no weapons of any kind, no knives, no syringes, no handcuffs, no chains, no ropes, no violence, nobody hitting or hurting anyone, no blood, no wounds, no bruises, no injuries, no corpses, no body parts, no person lying lifeless, no cigarettes, no smoking, no tattoos, no text, no letters, no numbers, no digits on displays, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.044,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 37.9,
+    "y_pct": 26.2,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_019",
+   "startMs": 493510,
+   "endMs": 516701,
+   "new_image_reason": "action change: the criminals' launches close in; spray bursts around the little dinghy (no gunfire shown)",
+   "characters": [],
+   "location": "the open sea between islands in a violent storm at night, huge black waves with white foaming crests, salt spray, black clouds, lightning",
+   "location_key": "storm_sea",
+   "mood": "storm at night: black sea, white spray, flashes of lightning, a blinding white searchlight beam, deadly danger",
+   "visual": "wide view of the stormy black sea at night: two large dark fast launches with no markings racing through the waves, a blinding white searchlight beam pinning a tiny dinghy ahead of them, small white plumes of spray bursting from the water around the dinghy; lightning",
+   "camera": "wide shot, high angle, the launches and searchlight in the upper two-thirds, faces in the upper two-thirds, a calm dark lower third (black foaming sea)",
+   "image": "images/beat_019.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": "violence",
+   "safe_substitution": "gunfire shown only as spray plumes on the water; no weapons, nobody hit",
+   "ambience": "storm_night",
+   "shots": [
+    {
+     "id": "shot_055",
+     "startMs": 493510,
+     "endMs": 501530,
+     "narration_dhivehi": "ފަހަތުން އައި ލޯންޗުން ބަޑިޖަހަން ފެށިއެވެ. ވަޒަންތައް ކަނޑުގެ ލޮނގަނޑަށް އަރަމުންދިޔައީ \"ޕޮޕް، ޕޮޕް\" އަޑާއެކުގައެވެ.",
+     "narration_english": "From the launch behind they began to fire. The bullets hit the sea spray with a \"pop, pop\".",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [
+      {
+       "name": "splash",
+       "atMs": 499040,
+       "gainDb": -22,
+       "word": "\"ޕޮޕް،"
+      }
+     ],
+     "hum": true,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_056",
+     "startMs": 501530,
+     "endMs": 508171,
+     "narration_dhivehi": "ކަނޑުގެ ރާޅުތައް ގަދަކަމުން އެމީހުންގެ އަމާޒު ގެއްލެނީއެވެ. ނަމަވެސް އެމީހުން ދިޔައީ ކައިރިވަމުންނެވެ.",
+     "narration_english": "Because the waves were so strong, they kept losing their aim. Even so, they kept coming closer.",
+     "crop": "tight",
+     "motion": "pan left",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      20.3,
+      4.8,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_057",
+     "startMs": 508171,
+     "endMs": 516701,
+     "narration_dhivehi": "އެ ބޮޑު ލޯންޗު އައިސް ޑިންގީގެ އަރިމަތީގައި ޖައްސާ، ފިސްފިސްކޮށްލަން އުޅޭ ފަދައެވެ.\"ސަރ، އަހަރެމެން މަރުވަނީ!\" ހަބީބު ހަޅޭއްލަވައިގަތެވެ.",
+     "narration_english": "It was as if the big launch would come and ram the dinghy's side and crush it. \"Sir, we're going to die!\" Habeeb shouted.",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [
+      {
+       "name": "engine_rev",
+       "atMs": 508521,
+       "gainDb": -14,
+       "word": "ލޯންޗު"
+      }
+     ],
+     "hum": true,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Cinematic semi-realistic digital illustration with a tense modern crime-thriller look, deep midnight-navy and steel-blue shadows, cold moonlight and fluorescent light with warm ember-orange and amber accents, high contrast with soft highlights, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, wet pavement, sand, dark water, table top, soft shadow) for captions and a logo; rain and sea spray glisten in night scenes; set in present-day Maldives: Malé's narrow rain-wet streets and police offices, Hulhumalé, dark open sea, and a deserted jungle-covered island in Gaafu Alifu atoll hiding a concrete underground bunker.\nScene: wide view of the stormy black sea at night: two large dark fast launches with no markings racing through the waves, a blinding white searchlight beam pinning a tiny dinghy ahead of them, small white plumes of spray bursting from the water around the dinghy; lightning. Location: the open sea between islands in a violent storm at night, huge black waves with white foaming crests, salt spray, black clouds, lightning. Camera: wide shot, high angle, the launches and searchlight in the upper two-thirds, faces in the upper two-thirds, a calm dark lower third (black foaming sea).\nMood/lighting: storm at night: black sea, white spray, flashes of lightning, a blinding white searchlight beam, deadly danger.\nModest Maldivian clothing (every woman in loose long-sleeved ankle-length opaque clothing with a hijab fully covering her hair and neck; men in long-sleeved shirts, jackets or suits and long trousers, never shirtless), a clear respectful distance between men and women, nobody touching, culturally respectful, no guns, no firearms, no weapons of any kind, no knives, no syringes, no handcuffs, no chains, no ropes, no violence, nobody hitting or hurting anyone, no blood, no wounds, no bruises, no injuries, no corpses, no body parts, no person lying lifeless, no cigarettes, no smoking, no tattoos, no text, no letters, no numbers, no digits on displays, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.104,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 50.0,
+    "y_pct": 40.0,
+    "face_detected": false
+   }
+  },
+  {
+   "id": "beat_020",
+   "startMs": 516701,
+   "endMs": 549592,
+   "new_image_reason": "emotional turning point: Ashham targets the searchlight; it bursts and the sea goes dark",
+   "characters": [],
+   "location": "the open sea between islands in a violent storm at night, huge black waves with white foaming crests, salt spray, black clouds, lightning",
+   "location_key": "storm_sea",
+   "mood": "storm at night: black sea, white spray, flashes of lightning, a blinding white searchlight beam, deadly danger",
+   "visual": "seen from behind: the dark silhouette of a broad-shouldered man in a dark shirt standing braced in the stern of a small dinghy, one arm raised toward the launch behind, his hand not visible against the glare; the big searchlight on the launch's bow bursting in a shower of white-orange sparks and glass fragments, the beam dying; a huge wave rising between the boats",
+   "camera": "medium wide shot from behind the man, low angle, faces in the upper two-thirds, a calm dark lower third (black water)",
+   "image": "images/beat_020.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": "violence",
+   "safe_substitution": "Ashham's shot is shown only as his raised arm in silhouette from behind and the searchlight bursting into sparks; no gun visible",
+   "ambience": "storm_night",
+   "shots": [
+    {
+     "id": "shot_058",
+     "startMs": 516701,
+     "endMs": 525781,
+     "narration_dhivehi": "އަޝްހަމް އޭނާ ހޮސްޕިޓަލުން އަތުލި ބަޑި ނަގައި، ފަހަތަށް އަމާޒުކުރިއެވެ. ނަމަވެސް މިފަދަ ގަދަ ރާޅެއްގެ މަތީގައި އަމާޒު ހިފުމަކީ ނުވާނެ ކަމެކެވެ.",
+     "narration_english": "Ashham took the gun he had seized at the hospital and aimed behind. But taking aim on such a heavy wave was impossible.",
+     "crop": "full",
+     "motion": "pan right",
+     "sfx": [
+      {
+       "name": "heartbeat",
+       "atMs": 520381,
+       "gainDb": -20,
+       "word": "އަމާޒުކުރިއެވެ."
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_059",
+     "startMs": 525781,
+     "endMs": 533052,
+     "narration_dhivehi": "އޭނާ ވިސްނާލުމަށްފަހު، ބަޑީގެ އަމާޒު ބަދަލުކުރީ ލޯންޗުގެ ކުރީގައި ހުރި ބޮޑު ސާޗްލައިޓަށެވެ. \"ބޭންގް!\"",
+     "narration_english": "After a moment's thought he changed his aim to the big searchlight on the front of the launch. \"Bang!\"",
+     "crop": "tight",
+     "motion": "slow push-in",
+     "sfx": [
+      {
+       "name": "soft_thud",
+       "atMs": 532362,
+       "gainDb": -22,
+       "word": "\"ބޭންގް!\""
+      }
+     ],
+     "hum": true,
+     "crop_rect_pct": [
+      20.3,
+      4.8,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_060",
+     "startMs": 533052,
+     "endMs": 541462,
+     "narration_dhivehi": "އެއް ވަޒަނާއެކު ސާޗްލައިޓް ގޮވައި، މުޅި ސަރަހައްދު އަނެއްކާވެސް އަނދިރިވިއެވެ. އެވަގުތު ބޮޑު ރާޅެއް އައިސް ދެ ލޯންޗުގެ މެދަށް ބިންދާލިއެވެ.",
+     "narration_english": "With a single round the searchlight burst, and the whole area was dark again. At that moment a huge wave came and crashed between the two launches.",
+     "crop": "full",
+     "motion": "pan up",
+     "sfx": [
+      {
+       "name": "glass_break",
+       "atMs": 534842,
+       "gainDb": -14,
+       "word": "ގޮވައި،"
+      },
+      {
+       "name": "wave_crash",
+       "atMs": 538642,
+       "gainDb": -14,
+       "word": "ރާޅެއް"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_061",
+     "startMs": 541462,
+     "endMs": 549592,
+     "narration_dhivehi": "އެއާއެކު މުޖުރިމުންގެ ލޯންޗު ދުރަށް ވިއްސައިގެން ދިޔައެވެ. އޭރު ކަނޑުހުއްޓާއާ އަރާ ހަމަވަނީއެވެ. އަޝްހަމް އެ ފުރުސަތުގެ ބޭނުން ހިފައި،",
+     "narration_english": "With that, the criminals' launch was pushed far away. By then they were nearly at Kandu-huttaa. Seizing the chance, Ashham",
+     "crop": "medium",
+     "motion": "slow pull-out",
+     "sfx": [
+      {
+       "name": "engine_rev",
+       "atMs": 542682,
+       "gainDb": -22,
+       "word": "ލޯންޗު"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      14.2,
+      0.0,
+      71.5,
+      84.7
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Cinematic semi-realistic digital illustration with a tense modern crime-thriller look, deep midnight-navy and steel-blue shadows, cold moonlight and fluorescent light with warm ember-orange and amber accents, high contrast with soft highlights, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, wet pavement, sand, dark water, table top, soft shadow) for captions and a logo; rain and sea spray glisten in night scenes; set in present-day Maldives: Malé's narrow rain-wet streets and police offices, Hulhumalé, dark open sea, and a deserted jungle-covered island in Gaafu Alifu atoll hiding a concrete underground bunker.\nScene: seen from behind: the dark silhouette of a broad-shouldered man in a dark shirt standing braced in the stern of a small dinghy, one arm raised toward the launch behind, his hand not visible against the glare; the big searchlight on the launch's bow bursting in a shower of white-orange sparks and glass fragments, the beam dying; a huge wave rising between the boats. Location: the open sea between islands in a violent storm at night, huge black waves with white foaming crests, salt spray, black clouds, lightning. Camera: medium wide shot from behind the man, low angle, faces in the upper two-thirds, a calm dark lower third (black water).\nMood/lighting: storm at night: black sea, white spray, flashes of lightning, a blinding white searchlight beam, deadly danger.\nModest Maldivian clothing (every woman in loose long-sleeved ankle-length opaque clothing with a hijab fully covering her hair and neck; men in long-sleeved shirts, jackets or suits and long trousers, never shirtless), a clear respectful distance between men and women, nobody touching, culturally respectful, no guns, no firearms, no weapons of any kind, no knives, no syringes, no handcuffs, no chains, no ropes, no violence, nobody hitting or hurting anyone, no blood, no wounds, no bruises, no injuries, no corpses, no body parts, no person lying lifeless, no cigarettes, no smoking, no tattoos, no text, no letters, no numbers, no digits on displays, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.049,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 50.0,
+    "y_pct": 40.0,
+    "face_detected": false
+   }
+  },
+  {
+   "id": "beat_021",
+   "startMs": 549592,
+   "endMs": 586874,
+   "new_image_reason": "scene change: through the reef channel; the engine smokes and dies; they climb onto Kandu-huttaa's beach exhausted",
+   "characters": [
+    "raniya",
+    "ashham",
+    "habeeb"
+   ],
+   "location": "the white sand beach of Kandu-huttaa, a deserted jungle-covered island, at night: a narrow channel through the reef behind, dense black jungle of screwpine, magoo bushes and coconut palms right behind the beach",
+   "location_key": "kandu_beach",
+   "mood": "night, cold navy-blue darkness after the storm, faint moonlight breaking through clouds, white sand glowing softly, exhausted and ominous",
+   "visual": "the small dinghy beached on white sand, thin grey smoke rising from its stalled outboard engine; Ashham in plain civilian clothes (not a uniform): a dark-grey long-sleeved button shirt and dark trousers, short dark stubble, damp and dusty stepping onto the sand, exhausted; Habeeb in his dark-grey zip-up jacket and black-rimmed glasses climbing out with his bag; Dr. Raniya WITHOUT her white coat: a loose long-sleeved ankle-length dusty-blue dress and a navy hijab fully covering her hair and neck, soaked dark by rain and spray but fully opaque standing on the beach a few steps apart, staring with dread at the pitch-black jungle; clear gaps between them",
+   "camera": "medium wide shot, eye level, the jungle and figures in the upper two-thirds, faces in the upper two-thirds, a calm dark lower third (white sand)",
+   "image": "images/beat_021.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "beach_night",
+   "shots": [
+    {
+     "id": "shot_062",
+     "startMs": 549592,
+     "endMs": 558613,
+     "narration_dhivehi": "އެރަށުގެ ފަރުކައިރީގައި ހުރި ހަނި ނެރަކުން އެތެރެއަށް ޑިންގީ ވައްދާލިއެވެ. ކުޑަ އުންމީދެއް ކަނޑުހުއްޓާގެ ފަޅުގެ ތެރެއަށް ވަދެވުމާއެކު މަޑުވިއެވެ.",
+     "narration_english": "steered the dinghy in through a narrow channel near the island's reef. A small hope settled as they entered Kandu-huttaa's lagoon.",
+     "crop": "full",
+     "motion": "pan down",
+     "sfx": [
+      {
+       "name": "wave_crash",
+       "atMs": 550683,
+       "gainDb": -20,
+       "word": "ފަރުކައިރީގައި"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_063",
+     "startMs": 558613,
+     "endMs": 567793,
+     "narration_dhivehi": "ނަމަވެސް ޑިންގީގެ އިންޖީނުން ދުން އަރަން ފެށިއެވެ. އިންޖީނަށް ފެން ވަދެ، އެއްކޮށް ހުއްޓުނީއެވެ. ޑިންގީ މަޑުމަޑުން ގޮސް ރަށުގެ ދޮންވެލިގަނޑަށް ބީހުނެވެ.",
+     "narration_english": "But smoke began to rise from the dinghy's engine. Water got into the engine and it stopped completely. The dinghy drifted slowly onto the island's white sand.",
+     "crop": "tight",
+     "motion": "static drift",
+     "sfx": [
+      {
+       "name": "steam_hiss",
+       "atMs": 560263,
+       "gainDb": -20,
+       "word": "ދުން"
+      },
+      {
+       "name": "power_down",
+       "atMs": 563363,
+       "gainDb": -22,
+       "word": "ހުއްޓުނީއެވެ."
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      0.0,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_064",
+     "startMs": 567793,
+     "endMs": 576924,
+     "narration_dhivehi": "ތިން މީހުން ޑިންގީން ފައިބައިގެން ރަށުގެ ހޭޅިފަށަށް އެރިއެވެ. ތިބީ ވަރުބަލިވެގެންގޮސް ހަލާކުވެފައެވެ. \"އަހަރެމެންނަށް އަދި މި އާދެވުނީ މަރުގެ މައިދާނަށް،\"",
+     "narration_english": "The three got off the dinghy and climbed onto the island's beach. They were utterly exhausted and spent. \"We've only reached the field of death,\"",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [
+      {
+       "name": "footsteps_sand",
+       "atMs": 570523,
+       "gainDb": -18,
+       "word": "އެރިއެވެ."
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_065",
+     "startMs": 576924,
+     "endMs": 586874,
+     "narration_dhivehi": "ރާނިޔާ ވަށައިގެންވާ ކަނު އަނދިރި ގަސްތަކަށް ބަލާލަމުން ބުންޏެވެ. \"މި ރަށުގެ ބިމުގެ އަޑީގައިވަނީ ނަރަކައެއް.\" \"ހަބީބު، ކަލޭގެ ސާމާނުތައް މަސައްކަތްކުރޭތަ؟\"",
+     "narration_english": "Raniya said, looking at the pitch-dark trees around them. \"Under this island's ground is hell.\" \"Habeeb, does your equipment work?\"",
+     "crop": "medium",
+     "motion": "pan left",
+     "sfx": [
+      {
+       "name": "leaves_rustle",
+       "atMs": 579164,
+       "gainDb": -22,
+       "word": "ގަސްތަކަށް"
+      }
+     ],
+     "hum": true,
+     "crop_rect_pct": [
+      0.0,
+      0.0,
+      71.5,
+      84.7
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Dr. Raniya; reference image 2 is Ashham; reference image 3 is Habeeb), create a new scene: Cinematic semi-realistic digital illustration with a tense modern crime-thriller look, deep midnight-navy and steel-blue shadows, cold moonlight and fluorescent light with warm ember-orange and amber accents, high contrast with soft highlights, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, wet pavement, sand, dark water, table top, soft shadow) for captions and a logo; rain and sea spray glisten in night scenes; set in present-day Maldives: Malé's narrow rain-wet streets and police offices, Hulhumalé, dark open sea, and a deserted jungle-covered island in Gaafu Alifu atoll hiding a concrete underground bunker.\nScene: the small dinghy beached on white sand, thin grey smoke rising from its stalled outboard engine; Ashham in plain civilian clothes (not a uniform): a dark-grey long-sleeved button shirt and dark trousers, short dark stubble, damp and dusty stepping onto the sand, exhausted; Habeeb in his dark-grey zip-up jacket and black-rimmed glasses climbing out with his bag; Dr. Raniya WITHOUT her white coat: a loose long-sleeved ankle-length dusty-blue dress and a navy hijab fully covering her hair and neck, soaked dark by rain and spray but fully opaque standing on the beach a few steps apart, staring with dread at the pitch-black jungle; clear gaps between them. Location: the white sand beach of Kandu-huttaa, a deserted jungle-covered island, at night: a narrow channel through the reef behind, dense black jungle of screwpine, magoo bushes and coconut palms right behind the beach. Camera: medium wide shot, eye level, the jungle and figures in the upper two-thirds, faces in the upper two-thirds, a calm dark lower third (white sand).\nCharacters: Dr. Raniya: a slim Maldivian woman of about 28 with fair-brown skin, a beautiful oval face, large serious dark eyes, softly arched eyebrows and a small straight nose; wears a white long-sleeved doctor's coat over a loose long-sleeved ankle-length dusty-blue dress and a navy-blue hijab wrapped snugly and fully covering her hair and neck. Ashham: a tall broad-shouldered strong Maldivian man of about 38 with warm brown skin, a strong rectangular face with a firm jaw, sharp intelligent dark eyes under straight thick eyebrows, short neat black hair tapered at the sides and short dark stubble; wears a dark-navy long-sleeved police field shirt with buttoned cuffs and plain epaulettes (no badges, no lettering), dark-navy trousers, a plain black belt, black boots and a black wristwatch. Habeeb: a slim Maldivian young man of about 28 with warm brown skin, a slim clean-shaven youthful face, alert dark eyes behind thin rectangular black-rimmed glasses and short slightly messy black hair; wears a dark-grey long-sleeved zip-up jacket over a plain white t-shirt, black trousers and white sneakers.\nMood/lighting: night, cold navy-blue darkness after the storm, faint moonlight breaking through clouds, white sand glowing softly, exhausted and ominous.\nModest Maldivian clothing (every woman in loose long-sleeved ankle-length opaque clothing with a hijab fully covering her hair and neck; men in long-sleeved shirts, jackets or suits and long trousers, never shirtless), a clear respectful distance between men and women, nobody touching, culturally respectful, no guns, no firearms, no weapons of any kind, no knives, no syringes, no handcuffs, no chains, no ropes, no violence, nobody hitting or hurting anyone, no blood, no wounds, no bruises, no injuries, no corpses, no body parts, no person lying lifeless, no cigarettes, no smoking, no tattoos, no text, no letters, no numbers, no digits on displays, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.328,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 22.2,
+    "y_pct": 24.4,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_022",
+   "startMs": 586874,
+   "endMs": 613115,
+   "new_image_reason": "action change: Habeeb checks his laptop - a jammer from the bunker blocks all messages",
+   "characters": [
+    "habeeb",
+    "ashham",
+    "raniya"
+   ],
+   "location": "the white sand beach of Kandu-huttaa, a deserted jungle-covered island, at night: a narrow channel through the reef behind, dense black jungle of screwpine, magoo bushes and coconut palms right behind the beach",
+   "location_key": "kandu_beach",
+   "mood": "night, cold navy-blue darkness after the storm, faint moonlight breaking through clouds, white sand glowing softly, exhausted and ominous",
+   "visual": "Habeeb in his dark-grey zip-up jacket and black-rimmed glasses kneeling on the sand with his open laptop on his knees, the screen angled away from the viewer, its faint blue glow lighting his worried face and glasses; Ashham in plain civilian clothes (not a uniform): a dark-grey long-sleeved button shirt and dark trousers, short dark stubble, damp and dusty standing beside him looking toward the jungle, decisive; Dr. Raniya WITHOUT her white coat: a loose long-sleeved ankle-length dusty-blue dress and a navy hijab fully covering her hair and neck, soaked dark by rain and spray but fully opaque a little behind Ashham, hands at her chest",
+   "camera": "medium shot, eye level, faces in the upper two-thirds, a calm dark lower third (white sand)",
+   "image": "images/beat_022.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "beach_night",
+   "shots": [
+    {
+     "id": "shot_066",
+     "startMs": 586874,
+     "endMs": 595764,
+     "narration_dhivehi": "އަޝްހަމް އެހިއެވެ. ޒަޔާން އޭނާގެ ލެޕްޓޮޕް ނަގައި ހުޅުވާލިއެވެ. ބެޓެރީ ވަނީ %15 ގައެވެ. \"ސަރ، ސެޓެލައިޓް ސިގްނަލް އެބަލިބޭ.",
+     "narration_english": "Ashham asked. Zayaan took out his laptop and opened it. The battery was at fifteen percent. \"Sir, there's a satellite signal.",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [
+      {
+       "name": "computer_beep",
+       "atMs": 589984,
+       "gainDb": -22,
+       "word": "ހުޅުވާލިއެވެ."
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_067",
+     "startMs": 595764,
+     "endMs": 605975,
+     "narration_dhivehi": "އެކަމަކު މި ރަށުގެ ބަންކަރުން ނުކުންނަ ޖޭމަރެއްގެ ސަބަބުން މާލެއަށް އެއްވެސް މެސެޖެއް ނުފޮނުވޭ. އަހަރެމެން ޖެހޭނީ ބަންކަރުގެ އެތެރެއަށް ވަދެ، މައި ސުވިޗް ނިއްވާލަން.\"",
+     "narration_english": "But because of a jammer coming from this island's bunker, no message can be sent to Malé. We have to get inside the bunker and switch off the main power.\"",
+     "crop": "tight",
+     "motion": "pan right",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      11.7,
+      3.4,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_068",
+     "startMs": 605975,
+     "endMs": 613115,
+     "narration_dhivehi": "\"ހިނގާ،\" އަޝްހަމް ބުންޏެވެ. \"ރާނިޔާ، ކަލޭ ހުރޭ އަހަރެންގެ ފަހަތުގައި. އެއްވެސް އަޑެއް ނުލައްވާތި ހިނގާ.\"",
+     "narration_english": "\"Let's go,\" Ashham said. \"Raniya, stay behind me. Walk without making a sound.\"",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Habeeb; reference image 2 is Ashham; reference image 3 is Dr. Raniya), create a new scene: Cinematic semi-realistic digital illustration with a tense modern crime-thriller look, deep midnight-navy and steel-blue shadows, cold moonlight and fluorescent light with warm ember-orange and amber accents, high contrast with soft highlights, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, wet pavement, sand, dark water, table top, soft shadow) for captions and a logo; rain and sea spray glisten in night scenes; set in present-day Maldives: Malé's narrow rain-wet streets and police offices, Hulhumalé, dark open sea, and a deserted jungle-covered island in Gaafu Alifu atoll hiding a concrete underground bunker.\nScene: Habeeb in his dark-grey zip-up jacket and black-rimmed glasses kneeling on the sand with his open laptop on his knees, the screen angled away from the viewer, its faint blue glow lighting his worried face and glasses; Ashham in plain civilian clothes (not a uniform): a dark-grey long-sleeved button shirt and dark trousers, short dark stubble, damp and dusty standing beside him looking toward the jungle, decisive; Dr. Raniya WITHOUT her white coat: a loose long-sleeved ankle-length dusty-blue dress and a navy hijab fully covering her hair and neck, soaked dark by rain and spray but fully opaque a little behind Ashham, hands at her chest. Location: the white sand beach of Kandu-huttaa, a deserted jungle-covered island, at night: a narrow channel through the reef behind, dense black jungle of screwpine, magoo bushes and coconut palms right behind the beach. Camera: medium shot, eye level, faces in the upper two-thirds, a calm dark lower third (white sand).\nCharacters: Habeeb: a slim Maldivian young man of about 28 with warm brown skin, a slim clean-shaven youthful face, alert dark eyes behind thin rectangular black-rimmed glasses and short slightly messy black hair; wears a dark-grey long-sleeved zip-up jacket over a plain white t-shirt, black trousers and white sneakers. Ashham: a tall broad-shouldered strong Maldivian man of about 38 with warm brown skin, a strong rectangular face with a firm jaw, sharp intelligent dark eyes under straight thick eyebrows, short neat black hair tapered at the sides and short dark stubble; wears a dark-navy long-sleeved police field shirt with buttoned cuffs and plain epaulettes (no badges, no lettering), dark-navy trousers, a plain black belt, black boots and a black wristwatch. Dr. Raniya: a slim Maldivian woman of about 28 with fair-brown skin, a beautiful oval face, large serious dark eyes, softly arched eyebrows and a small straight nose; wears a white long-sleeved doctor's coat over a loose long-sleeved ankle-length dusty-blue dress and a navy-blue hijab wrapped snugly and fully covering her hair and neck.\nMood/lighting: night, cold navy-blue darkness after the storm, faint moonlight breaking through clouds, white sand glowing softly, exhausted and ominous.\nModest Maldivian clothing (every woman in loose long-sleeved ankle-length opaque clothing with a hijab fully covering her hair and neck; men in long-sleeved shirts, jackets or suits and long trousers, never shirtless), a clear respectful distance between men and women, nobody touching, culturally respectful, no guns, no firearms, no weapons of any kind, no knives, no syringes, no handcuffs, no chains, no ropes, no violence, nobody hitting or hurting anyone, no blood, no wounds, no bruises, no injuries, no corpses, no body parts, no person lying lifeless, no cigarettes, no smoking, no tattoos, no text, no letters, no numbers, no digits on displays, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.155,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 41.4,
+    "y_pct": 38.6,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_023",
+   "startMs": 613115,
+   "endMs": 648307,
+   "new_image_reason": "scene change: through the jungle they find the bunker's steel door, guarded by two men",
+   "characters": [
+    "ashham"
+   ],
+   "location": "inside the dense dark jungle of Kandu-huttaa at night: screwpine, magoo bushes and coconut palms; in a small clearing a low concrete block set into the ground with a heavy rusted steel hatch-door and a small electronic keypad panel beside it",
+   "location_key": "kandu_jungle",
+   "mood": "night, cold navy-blue darkness, faint moonlight through the leaves, the small green glow of the keypad and white flashlight beams, silent dread",
+   "visual": "Ashham in plain civilian clothes (not a uniform): a dark-grey long-sleeved button shirt and dark trousers, short dark stubble, damp and dusty crouched in the dark bushes in the foreground, seen from behind and to the side, watching; beyond the leaves the heavy rusted steel hatch-door in its low concrete block, two guards in black clothes and black face masks standing before it holding only flashlights, beams sweeping the ground",
+   "camera": "medium wide shot over Ashham's shoulder, eye level, faces in the upper two-thirds, a calm dark lower third (dark undergrowth)",
+   "image": "images/beat_023.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": "violence",
+   "safe_substitution": "armed guards shown with flashlights only",
+   "ambience": "jungle_night",
+   "shots": [
+    {
+     "id": "shot_069",
+     "startMs": 613115,
+     "endMs": 622055,
+     "narration_dhivehi": "އެމީހުން ގަސްތަކުގެ ތެރެއިން ކުރިއަށް ދިޔައީ ކުރިން އަޝްހަމަށް ފެނިފައިވާ ބޮޑު ކޮންކްރީޓް ބަންކަރުގެ ދޮރު ހޯދާށެވެ. ބިންގަރާހުގެ ދޮރުމަތީގައި:",
+     "narration_english": "They moved forward through the trees to find the big concrete bunker door Ashham had seen before. At the bunker's door:",
+     "crop": "full",
+     "motion": "pan up",
+     "sfx": [
+      {
+       "name": "leaves_rustle",
+       "atMs": 614445,
+       "gainDb": -20,
+       "word": "ގަސްތަކުގެ"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_070",
+     "startMs": 622055,
+     "endMs": 630336,
+     "narration_dhivehi": "ބޯ ގަސްތަކުގެ ތެރެއިން ހޯދަމުން ދަނިކޮށް އެ ބަރު ދަގަނޑު ދޮރު ފެނުނެވެ. މިފަހަރު ދޮރުގެ ކައިރީގައި ދެ ފާރަވެރިއަކު ހަތިޔާރާއެކު ތިއްބެވެ.",
+     "narration_english": "Searching through the thick trees, they found that heavy steel door. This time two guards with weapons stood beside the door.",
+     "crop": "tight",
+     "motion": "slow pull-out",
+     "sfx": [
+      {
+       "name": "leaves_rustle",
+       "atMs": 622586,
+       "gainDb": -22,
+       "word": "ގަސްތަކުގެ"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      20.3,
+      4.8,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_071",
+     "startMs": 630336,
+     "endMs": 640026,
+     "narration_dhivehi": "އެމީހުން ތިބީ ވަރަށް ހުޝިޔާރުވެފައެވެ.\"އެމީހުން އެތިބީ ބަންކަރު ހިމާޔަތްކޮށްގެން،\" އަޝްހަމް މަޑުމަޑުން ބުންޏެވެ. \"އަހަރެން ޖެހޭނީ އެ ދެމީހުން ނައްތާލަން.",
+     "narration_english": "They were very alert. \"They're guarding the bunker,\" Ashham said quietly. \"I have to take those two out.",
+     "crop": "full",
+     "motion": "pan down",
+     "sfx": [],
+     "hum": true,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_072",
+     "startMs": 640026,
+     "endMs": 648307,
+     "narration_dhivehi": "ހަބީބު، ކަލޭ ރާނިޔާއާއެކު މިތާ މަޑުކުރޭ.\"އަޝްހަމް ބިމުން ބޮޑު ގާގަނޑެއް ނަގައި، ދުރަށް އެއްލިއެވެ. \"ތްލަޑް!\"",
+     "narration_english": "Habeeb, wait here with Raniya.\" Ashham picked up a big stone from the ground and threw it far off. \"Thud!\"",
+     "crop": "medium",
+     "motion": "static drift",
+     "sfx": [
+      {
+       "name": "soft_thud",
+       "atMs": 647567,
+       "gainDb": -18,
+       "word": "\"ތްލަޑް!\""
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      14.2,
+      0.0,
+      71.5,
+      84.7
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Ashham), create a new scene: Cinematic semi-realistic digital illustration with a tense modern crime-thriller look, deep midnight-navy and steel-blue shadows, cold moonlight and fluorescent light with warm ember-orange and amber accents, high contrast with soft highlights, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, wet pavement, sand, dark water, table top, soft shadow) for captions and a logo; rain and sea spray glisten in night scenes; set in present-day Maldives: Malé's narrow rain-wet streets and police offices, Hulhumalé, dark open sea, and a deserted jungle-covered island in Gaafu Alifu atoll hiding a concrete underground bunker.\nScene: Ashham in plain civilian clothes (not a uniform): a dark-grey long-sleeved button shirt and dark trousers, short dark stubble, damp and dusty crouched in the dark bushes in the foreground, seen from behind and to the side, watching; beyond the leaves the heavy rusted steel hatch-door in its low concrete block, two guards in black clothes and black face masks standing before it holding only flashlights, beams sweeping the ground. Location: inside the dense dark jungle of Kandu-huttaa at night: screwpine, magoo bushes and coconut palms; in a small clearing a low concrete block set into the ground with a heavy rusted steel hatch-door and a small electronic keypad panel beside it. Camera: medium wide shot over Ashham's shoulder, eye level, faces in the upper two-thirds, a calm dark lower third (dark undergrowth).\nCharacters: Ashham: a tall broad-shouldered strong Maldivian man of about 38 with warm brown skin, a strong rectangular face with a firm jaw, sharp intelligent dark eyes under straight thick eyebrows, short neat black hair tapered at the sides and short dark stubble; wears a dark-navy long-sleeved police field shirt with buttoned cuffs and plain epaulettes (no badges, no lettering), dark-navy trousers, a plain black belt, black boots and a black wristwatch.\nMood/lighting: night, cold navy-blue darkness, faint moonlight through the leaves, the small green glow of the keypad and white flashlight beams, silent dread.\nModest Maldivian clothing (every woman in loose long-sleeved ankle-length opaque clothing with a hijab fully covering her hair and neck; men in long-sleeved shirts, jackets or suits and long trousers, never shirtless), a clear respectful distance between men and women, nobody touching, culturally respectful, no guns, no firearms, no weapons of any kind, no knives, no syringes, no handcuffs, no chains, no ropes, no violence, nobody hitting or hurting anyone, no blood, no wounds, no bruises, no injuries, no corpses, no body parts, no person lying lifeless, no cigarettes, no smoking, no tattoos, no text, no letters, no numbers, no digits on displays, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.043,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 50.0,
+    "y_pct": 40.0,
+    "face_detected": false
+   }
+  },
+  {
+   "id": "beat_024",
+   "startMs": 648307,
+   "endMs": 680568,
+   "new_image_reason": "action change: the guards are gone; Ashham calls the others to the door",
+   "characters": [
+    "ashham"
+   ],
+   "location": "inside the dense dark jungle of Kandu-huttaa at night: screwpine, magoo bushes and coconut palms; in a small clearing a low concrete block set into the ground with a heavy rusted steel hatch-door and a small electronic keypad panel beside it",
+   "location_key": "kandu_jungle",
+   "mood": "night, cold navy-blue darkness, faint moonlight through the leaves, the small green glow of the keypad and white flashlight beams, silent dread",
+   "visual": "the bunker's steel hatch-door with nobody guarding it; a dropped flashlight lying in the grass casting its beam across the ground; Ashham in plain civilian clothes (not a uniform): a dark-grey long-sleeved button shirt and dark trousers, short dark stubble, damp and dusty standing at the door alone, breathing hard, beckoning urgently with one empty hand toward the bushes",
+   "camera": "medium wide shot, eye level, faces in the upper two-thirds, a calm dark lower third (dark grass)",
+   "image": "images/beat_024.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": "violence",
+   "safe_substitution": "Ashham taking down both guards is never shown; only the empty doorway and the dropped flashlight afterwards; nobody on the ground",
+   "ambience": "jungle_night",
+   "shots": [
+    {
+     "id": "shot_073",
+     "startMs": 648307,
+     "endMs": 661327,
+     "narration_dhivehi": "ގާގަނޑު ޖެހުނު އަޑަށް އެއް ފާރަވެރިއަކު ބަލަން ދިޔައެވެ. އަޝްހަމް ފަހަތުން ގޮސް، އޭނާގެ އަނގަޔާއި ނޭފަތުގައި އެއްއަތުން ހިފައި އަނެއްއަތުން ދެއަތާއެކު މޭގައި ބައްދައި ވައްޓާލައި އޭނާ ހޭނައްތާލިއެވެ.",
+     "narration_english": "At the sound of the stone one guard went to look. Ashham came up behind him, clamped one hand over his mouth and nose, gripped him with the other arm and brought him down unconscious.",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [
+      {
+       "name": "footsteps_sand",
+       "atMs": 651067,
+       "gainDb": -22,
+       "word": "ދިޔައެވެ."
+      },
+      {
+       "name": "soft_thud",
+       "atMs": 658627,
+       "gainDb": -24,
+       "word": "ވައްޓާލައި"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_074",
+     "startMs": 661327,
+     "endMs": 670267,
+     "narration_dhivehi": "އެއާއެކު އަނެއް ފާރަވެރިޔާއަށް ހިލަމެއްވެގެން ބަޑި އުފުލާލި ވަގުތު، އަޝްހަމް ދުވެފައި ގޮސް އޭނާގެ މޭގައި ކޮޅުފައިން ޖަހާ ބިންމައްޗަށް ވައްޓާލިއެވެ.",
+     "narration_english": "Just as the other guard, startled, raised his gun, Ashham ran at him, struck him in the chest and brought him to the ground.",
+     "crop": "tight",
+     "motion": "pan left",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.7,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_075",
+     "startMs": 670267,
+     "endMs": 680568,
+     "narration_dhivehi": "ކުރު ކުރިމަތިލުމަކަށްފަހު ދެ ފާރަވެރިންވެސް ބިންމައްޗަށް ދެމިއްޖެއެވެ. \"އަވަހަށް އާދޭ!\" އަޝްހަމް ގޮވާލިއެވެ. ރާނިޔާ އާއި ޒަޔާން ދުވެފައި ދޮރުމައްޗަށް އައެވެ.",
+     "narration_english": "After a short struggle both guards lay on the ground. \"Come quickly!\" Ashham called. Raniya and Zayaan ran to the door.",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [
+      {
+       "name": "footsteps_sand",
+       "atMs": 678868,
+       "gainDb": -18,
+       "word": "ދުވެފައި"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Ashham), create a new scene: Cinematic semi-realistic digital illustration with a tense modern crime-thriller look, deep midnight-navy and steel-blue shadows, cold moonlight and fluorescent light with warm ember-orange and amber accents, high contrast with soft highlights, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, wet pavement, sand, dark water, table top, soft shadow) for captions and a logo; rain and sea spray glisten in night scenes; set in present-day Maldives: Malé's narrow rain-wet streets and police offices, Hulhumalé, dark open sea, and a deserted jungle-covered island in Gaafu Alifu atoll hiding a concrete underground bunker.\nScene: the bunker's steel hatch-door with nobody guarding it; a dropped flashlight lying in the grass casting its beam across the ground; Ashham in plain civilian clothes (not a uniform): a dark-grey long-sleeved button shirt and dark trousers, short dark stubble, damp and dusty standing at the door alone, breathing hard, beckoning urgently with one empty hand toward the bushes. Location: inside the dense dark jungle of Kandu-huttaa at night: screwpine, magoo bushes and coconut palms; in a small clearing a low concrete block set into the ground with a heavy rusted steel hatch-door and a small electronic keypad panel beside it. Camera: medium wide shot, eye level, faces in the upper two-thirds, a calm dark lower third (dark grass).\nCharacters: Ashham: a tall broad-shouldered strong Maldivian man of about 38 with warm brown skin, a strong rectangular face with a firm jaw, sharp intelligent dark eyes under straight thick eyebrows, short neat black hair tapered at the sides and short dark stubble; wears a dark-navy long-sleeved police field shirt with buttoned cuffs and plain epaulettes (no badges, no lettering), dark-navy trousers, a plain black belt, black boots and a black wristwatch.\nMood/lighting: night, cold navy-blue darkness, faint moonlight through the leaves, the small green glow of the keypad and white flashlight beams, silent dread.\nModest Maldivian clothing (every woman in loose long-sleeved ankle-length opaque clothing with a hijab fully covering her hair and neck; men in long-sleeved shirts, jackets or suits and long trousers, never shirtless), a clear respectful distance between men and women, nobody touching, culturally respectful, no guns, no firearms, no weapons of any kind, no knives, no syringes, no handcuffs, no chains, no ropes, no violence, nobody hitting or hurting anyone, no blood, no wounds, no bruises, no injuries, no corpses, no body parts, no person lying lifeless, no cigarettes, no smoking, no tattoos, no text, no letters, no numbers, no digits on displays, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.052,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 37.4,
+    "y_pct": 13.9,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_025",
+   "startMs": 680568,
+   "endMs": 689648,
+   "new_image_reason": "detail: Raniya's trembling finger types the code on the keypad",
+   "characters": [
+    "raniya"
+   ],
+   "location": "inside the dense dark jungle of Kandu-huttaa at night: screwpine, magoo bushes and coconut palms; in a small clearing a low concrete block set into the ground with a heavy rusted steel hatch-door and a small electronic keypad panel beside it",
+   "location_key": "kandu_jungle",
+   "mood": "night, cold navy-blue darkness, faint moonlight through the leaves, the small green glow of the keypad and white flashlight beams, silent dread",
+   "visual": "close-up of Dr. Raniya WITHOUT her white coat: a loose long-sleeved ankle-length dusty-blue dress and a navy hijab fully covering her hair and neck, soaked dark by rain and spray but fully opaque, her face tense in profile, her trembling finger reaching toward a small electronic keypad panel beside the steel door, its blank keys glowing soft green with no numbers or symbols",
+   "camera": "close-up, eye level, faces in the upper two-thirds, a calm dark lower third (concrete surface)",
+   "image": "images/beat_025.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "jungle_night",
+   "shots": [
+    {
+     "id": "shot_076",
+     "startMs": 680568,
+     "endMs": 689648,
+     "narration_dhivehi": "ރާނިޔާ އޭނާގެ ތުރުތުރު އަޅާ އަތުން، ބަންކަރުގެ އިލެކްޓްރޯނިކް ކީޕޭޑްގައި ސިއްރު ކޯޑުތައް ޖަހަން ފެށިއެވެ. \"4... 8... 9... 1... 0...\"",
+     "narration_english": "With her trembling hand, Raniya began typing the secret code into the bunker's electronic keypad. \"4... 8... 9... 1... 0...\"",
+     "crop": "full",
+     "motion": "pan right",
+     "sfx": [
+      {
+       "name": "computer_beep",
+       "atMs": 684268,
+       "gainDb": -20,
+       "word": "ކީޕޭޑްގައި"
+      }
+     ],
+     "hum": true,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Dr. Raniya), create a new scene: Cinematic semi-realistic digital illustration with a tense modern crime-thriller look, deep midnight-navy and steel-blue shadows, cold moonlight and fluorescent light with warm ember-orange and amber accents, high contrast with soft highlights, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, wet pavement, sand, dark water, table top, soft shadow) for captions and a logo; rain and sea spray glisten in night scenes; set in present-day Maldives: Malé's narrow rain-wet streets and police offices, Hulhumalé, dark open sea, and a deserted jungle-covered island in Gaafu Alifu atoll hiding a concrete underground bunker.\nScene: close-up of Dr. Raniya WITHOUT her white coat: a loose long-sleeved ankle-length dusty-blue dress and a navy hijab fully covering her hair and neck, soaked dark by rain and spray but fully opaque, her face tense in profile, her trembling finger reaching toward a small electronic keypad panel beside the steel door, its blank keys glowing soft green with no numbers or symbols. Location: inside the dense dark jungle of Kandu-huttaa at night: screwpine, magoo bushes and coconut palms; in a small clearing a low concrete block set into the ground with a heavy rusted steel hatch-door and a small electronic keypad panel beside it. Camera: close-up, eye level, faces in the upper two-thirds, a calm dark lower third (concrete surface).\nCharacters: Dr. Raniya: a slim Maldivian woman of about 28 with fair-brown skin, a beautiful oval face, large serious dark eyes, softly arched eyebrows and a small straight nose; wears a white long-sleeved doctor's coat over a loose long-sleeved ankle-length dusty-blue dress and a navy-blue hijab wrapped snugly and fully covering her hair and neck.\nMood/lighting: night, cold navy-blue darkness, faint moonlight through the leaves, the small green glow of the keypad and white flashlight beams, silent dread.\nModest Maldivian clothing (every woman in loose long-sleeved ankle-length opaque clothing with a hijab fully covering her hair and neck; men in long-sleeved shirts, jackets or suits and long trousers, never shirtless), a clear respectful distance between men and women, nobody touching, culturally respectful, no guns, no firearms, no weapons of any kind, no knives, no syringes, no handcuffs, no chains, no ropes, no violence, nobody hitting or hurting anyone, no blood, no wounds, no bruises, no injuries, no corpses, no body parts, no person lying lifeless, no cigarettes, no smoking, no tattoos, no text, no letters, no numbers, no digits on displays, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.136,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 55.5,
+    "y_pct": 29.6,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_026",
+   "startMs": 689648,
+   "endMs": 703149,
+   "new_image_reason": "action change: the steel door groans open; cold chemical air pours out",
+   "characters": [
+    "ashham",
+    "raniya",
+    "habeeb"
+   ],
+   "location": "inside the dense dark jungle of Kandu-huttaa at night: screwpine, magoo bushes and coconut palms; in a small clearing a low concrete block set into the ground with a heavy rusted steel hatch-door and a small electronic keypad panel beside it",
+   "location_key": "kandu_jungle",
+   "mood": "night, cold navy-blue darkness, faint moonlight through the leaves, the small green glow of the keypad and white flashlight beams, silent dread",
+   "visual": "the heavy steel hatch-door swinging open, cold pale mist spilling out from a dark stairway leading down under a faint cold fluorescent glow; Ashham in plain civilian clothes (not a uniform): a dark-grey long-sleeved button shirt and dark trousers, short dark stubble, damp and dusty at the edge peering down, alert; Habeeb in his dark-grey zip-up jacket and black-rimmed glasses and Dr. Raniya WITHOUT her white coat: a loose long-sleeved ankle-length dusty-blue dress and a navy hijab fully covering her hair and neck, soaked dark by rain and spray but fully opaque behind him at a distance, frightened faces lit by the cold light",
+   "camera": "medium wide shot, eye level, faces in the upper two-thirds, a calm dark lower third (dark ground)",
+   "image": "images/beat_026.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "jungle_night",
+   "shots": [
+    {
+     "id": "shot_077",
+     "startMs": 689648,
+     "endMs": 703149,
+     "narration_dhivehi": "\"ބީޕް!\" ބާރު އަޑަކާއެކު ދަގަނޑު ދޮރު ހުޅުވެން ފެށިއެވެ. އެތެރެއިން ނުކުތީ ފިނި، އަދި ކެމިކަލް ވަހެއް އެކުލެވޭ ވައިރޯޅިއެކެވެ.\"މިއީ އަދި ފެށުން، ސަމާލުވާތި\" އަޝްހަމް ބުންޏެވެ.",
+     "narration_english": "\"Beep!\" With a loud noise the steel door began to open. Out came cold air carrying a chemical smell. \"This is only the beginning; be careful,\" Ashham said.",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [
+      {
+       "name": "computer_beep",
+       "atMs": 689648,
+       "gainDb": -14,
+       "word": "\"ބީޕް!\""
+      },
+      {
+       "name": "metal_door",
+       "atMs": 694008,
+       "gainDb": -14,
+       "word": "ހުޅުވެން"
+      },
+      {
+       "name": "wind_gust",
+       "atMs": 698529,
+       "gainDb": -22,
+       "word": "ވައިރޯޅިއެކެވެ.\"މިއީ"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Ashham; reference image 2 is Dr. Raniya; reference image 3 is Habeeb), create a new scene: Cinematic semi-realistic digital illustration with a tense modern crime-thriller look, deep midnight-navy and steel-blue shadows, cold moonlight and fluorescent light with warm ember-orange and amber accents, high contrast with soft highlights, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, wet pavement, sand, dark water, table top, soft shadow) for captions and a logo; rain and sea spray glisten in night scenes; set in present-day Maldives: Malé's narrow rain-wet streets and police offices, Hulhumalé, dark open sea, and a deserted jungle-covered island in Gaafu Alifu atoll hiding a concrete underground bunker.\nScene: the heavy steel hatch-door swinging open, cold pale mist spilling out from a dark stairway leading down under a faint cold fluorescent glow; Ashham in plain civilian clothes (not a uniform): a dark-grey long-sleeved button shirt and dark trousers, short dark stubble, damp and dusty at the edge peering down, alert; Habeeb in his dark-grey zip-up jacket and black-rimmed glasses and Dr. Raniya WITHOUT her white coat: a loose long-sleeved ankle-length dusty-blue dress and a navy hijab fully covering her hair and neck, soaked dark by rain and spray but fully opaque behind him at a distance, frightened faces lit by the cold light. Location: inside the dense dark jungle of Kandu-huttaa at night: screwpine, magoo bushes and coconut palms; in a small clearing a low concrete block set into the ground with a heavy rusted steel hatch-door and a small electronic keypad panel beside it. Camera: medium wide shot, eye level, faces in the upper two-thirds, a calm dark lower third (dark ground).\nCharacters: Ashham: a tall broad-shouldered strong Maldivian man of about 38 with warm brown skin, a strong rectangular face with a firm jaw, sharp intelligent dark eyes under straight thick eyebrows, short neat black hair tapered at the sides and short dark stubble; wears a dark-navy long-sleeved police field shirt with buttoned cuffs and plain epaulettes (no badges, no lettering), dark-navy trousers, a plain black belt, black boots and a black wristwatch. Dr. Raniya: a slim Maldivian woman of about 28 with fair-brown skin, a beautiful oval face, large serious dark eyes, softly arched eyebrows and a small straight nose; wears a white long-sleeved doctor's coat over a loose long-sleeved ankle-length dusty-blue dress and a navy-blue hijab wrapped snugly and fully covering her hair and neck. Habeeb: a slim Maldivian young man of about 28 with warm brown skin, a slim clean-shaven youthful face, alert dark eyes behind thin rectangular black-rimmed glasses and short slightly messy black hair; wears a dark-grey long-sleeved zip-up jacket over a plain white t-shirt, black trousers and white sneakers.\nMood/lighting: night, cold navy-blue darkness, faint moonlight through the leaves, the small green glow of the keypad and white flashlight beams, silent dread.\nModest Maldivian clothing (every woman in loose long-sleeved ankle-length opaque clothing with a hijab fully covering her hair and neck; men in long-sleeved shirts, jackets or suits and long trousers, never shirtless), a clear respectful distance between men and women, nobody touching, culturally respectful, no guns, no firearms, no weapons of any kind, no knives, no syringes, no handcuffs, no chains, no ropes, no violence, nobody hitting or hurting anyone, no blood, no wounds, no bruises, no injuries, no corpses, no body parts, no person lying lifeless, no cigarettes, no smoking, no tattoos, no text, no letters, no numbers, no digits on displays, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.113,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 56.4,
+    "y_pct": 16.0,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_027",
+   "startMs": 703149,
+   "endMs": 718010,
+   "new_image_reason": "scene change: they shut themselves in as the criminals' big launch roars into the lagoon",
+   "characters": [],
+   "location": "the lagoon of Kandu-huttaa at night seen from the edge of the jungle: black calm water inside the reef, the dark jungle-covered island, a stormy sky",
+   "location_key": "kandu_lagoon",
+   "mood": "night, cold navy-blue darkness, a powerful white searchlight sweeping across the black lagoon, menacing",
+   "visual": "a large dark launch with no markings roaring into the black lagoon of the deserted island, a powerful white searchlight sweeping across the water toward the dark jungle; no people visible",
+   "camera": "wide shot from the jungle edge, eye level, the launch and searchlight in the upper two-thirds, faces in the upper two-thirds, a calm dark lower third (black water)",
+   "image": "images/beat_027.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "beach_night",
+   "shots": [
+    {
+     "id": "shot_078",
+     "startMs": 703149,
+     "endMs": 711499,
+     "narration_dhivehi": "\"އެތެރެއަށް ވަންނަމާ.\"އެމީހުން ބަންކަރުގެ އެތެރެއަށް ވަދެ ދޮރު ލެއްޕުމާއެކު، ބޭރުން ބޮޑު ލޯންޗެއް ރަށުގެ ފަޅަށް ވަން އަޑު އިވުނެވެ.",
+     "narration_english": "\"Let's go in.\" As they went into the bunker and shut the door, the sound of a big launch entering the island's lagoon was heard outside.",
+     "crop": "full",
+     "motion": "pan up",
+     "sfx": [
+      {
+       "name": "metal_door",
+       "atMs": 706589,
+       "gainDb": -14,
+       "word": "ލެއްޕުމާއެކު،"
+      },
+      {
+       "name": "engine_rev",
+       "atMs": 708869,
+       "gainDb": -16,
+       "word": "ލޯންޗެއް"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_079",
+     "startMs": 711499,
+     "endMs": 718010,
+     "narration_dhivehi": "މުޖުރިމުންގެ މައި ގްރޫޕް ރަށަށް އައީއެވެ. އަޝްހަމްމެން މިހާރު ތިބީ ބަންކަރުގެ ތެރޭގައި ބަންދުވެފައެވެ. - ނުނިމޭ -",
+     "narration_english": "The criminals' main group had come to the island. Ashham and the others were now locked inside the bunker. - To be continued -",
+     "crop": "tight",
+     "motion": "slow pull-out",
+     "sfx": [
+      {
+       "name": "heartbeat",
+       "atMs": 716509,
+       "gainDb": -18,
+       "word": "ބަންދުވެފައެވެ."
+      }
+     ],
+     "hum": true,
+     "crop_rect_pct": [
+      40.6,
+      0.0,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Cinematic semi-realistic digital illustration with a tense modern crime-thriller look, deep midnight-navy and steel-blue shadows, cold moonlight and fluorescent light with warm ember-orange and amber accents, high contrast with soft highlights, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, wet pavement, sand, dark water, table top, soft shadow) for captions and a logo; rain and sea spray glisten in night scenes; set in present-day Maldives: Malé's narrow rain-wet streets and police offices, Hulhumalé, dark open sea, and a deserted jungle-covered island in Gaafu Alifu atoll hiding a concrete underground bunker.\nScene: a large dark launch with no markings roaring into the black lagoon of the deserted island, a powerful white searchlight sweeping across the water toward the dark jungle; no people visible. Location: the lagoon of Kandu-huttaa at night seen from the edge of the jungle: black calm water inside the reef, the dark jungle-covered island, a stormy sky. Camera: wide shot from the jungle edge, eye level, the launch and searchlight in the upper two-thirds, faces in the upper two-thirds, a calm dark lower third (black water).\nMood/lighting: night, cold navy-blue darkness, a powerful white searchlight sweeping across the black lagoon, menacing.\nModest Maldivian clothing (every woman in loose long-sleeved ankle-length opaque clothing with a hijab fully covering her hair and neck; men in long-sleeved shirts, jackets or suits and long trousers, never shirtless), a clear respectful distance between men and women, nobody touching, culturally respectful, no guns, no firearms, no weapons of any kind, no knives, no syringes, no handcuffs, no chains, no ropes, no violence, nobody hitting or hurting anyone, no blood, no wounds, no bruises, no injuries, no corpses, no body parts, no person lying lifeless, no cigarettes, no smoking, no tattoos, no text, no letters, no numbers, no digits on displays, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.071,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 89.5,
+    "y_pct": 3.7,
+    "face_detected": true
+   }
+  }
+ ]
+}

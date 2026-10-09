@@ -1,0 +1,1869 @@
+{
+ "series": "Hayaath",
+ "episode": 319,
+ "beats": [
+  {
+   "id": "beat_001",
+   "startMs": 0,
+   "endMs": 8820,
+   "new_image_reason": "new episode opening: night at the house gate, Yasir waits by the car as Hayaathu comes out",
+   "characters": [
+    "yasir",
+    "hayaathu",
+    "zoona",
+    "areesha"
+   ],
+   "location": "the front of uncle Waheed's old Maldivian coral-stone house at night, a low white-washed boundary wall with an open wooden gate, a warmly lit doorway, a sandy lane with a coconut palm and a single streetlight",
+   "location_key": "house_front",
+   "mood": "night, warm doorway light and a cool streetlight, tense and uneasy",
+   "visual": "at night outside the coral-stone house a young man leans casually against a dark grey sedan by the open gate, empty hands in his pockets, straightening up as Hayaathu steps out of the lit doorway with eyes lowered; Zoona and Areesha follow her out of the doorway, curious",
+   "camera": "wide shot, eye level",
+   "image": "images/beat_001.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": "other",
+   "safe_substitution": "Yasir smokes and throws away a cigarette in the narration: no cigarette is shown, he only leans on the car with empty hands",
+   "ambience": "night_exterior",
+   "shots": [
+    {
+     "id": "shot_001",
+     "startMs": 0,
+     "endMs": 8820,
+     "narration_dhivehi": "ހަޔާތު ބޭރަށް ނުކުތްއިރު ގޭދޮރުމަތީގައި ކާރެއް އޮތެވެ. އޭރު ކާރުގައި ލެނގިލައިގެން ސިނގިރޭޓެއް ބޯން ޔާސިރު ހުއްޓެވެ. ހަޔާތު ފެނުމާއެކު، އޭނާ ސިނގިރޭޓު އެއްލައިލިއެވެ. ހަޔާތުގެ ފަހަތުން ޒޫނާއާއި އަރީޝާ ވެސް ބޭރަށް ނުކުތެވެ. އެ ވަގުތަކީ ހަޔާތުގެ ބޮޑުބެ ވަހީދު ކާރުގައި އައިސް އެ ތަނަށް މަޑުކޮށްލި ވަގުތެވެ.",
+     "narration_english": "When Hayaathu came out, a car was waiting at the gate, Yasir leaning against it with a cigarette. Seeing Hayaathu, he threw it away. Zoona and Areesha came out behind her. Just then her uncle Waheed drove up and stopped there.",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [
+      {
+       "name": "car_approach",
+       "atMs": 8000,
+       "gainDb": -20,
+       "word": "އައިސް"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Yasir; reference image 2 is Hayaathu; reference image 3 is Zoona; reference image 4 is Areesha), create a new scene: Cinematic semi-realistic digital illustration, soft natural light, warm tropical colour palette with gentle rose and blush tones like a romantic drama book cover, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject in the upper two-thirds and calm, uncluttered space at the bottom for a logo.\nScene: at night outside the coral-stone house a young man leans casually against a dark grey sedan by the open gate, empty hands in his pockets, straightening up as Hayaathu steps out of the lit doorway with eyes lowered; Zoona and Areesha follow her out of the doorway, curious. Location: the front of uncle Waheed's old Maldivian coral-stone house at night, a low white-washed boundary wall with an open wooden gate, a warmly lit doorway, a sandy lane with a coconut palm and a single streetlight. Camera: wide shot, eye level.\nCharacters: Yasir: a Maldivian man about 26 with warm brown skin, a friendly oval face with rounded cheeks, a thin neatly trimmed moustache and light stubble, lively dark eyes behind black rectangular-framed glasses, short black hair cropped close at the sides; medium height, average build; wears a light-blue and white checked short-sleeved button shirt and khaki long trousers. Hayaathu: a Maldivian young woman in her early 20s with warm light-brown skin, soft oval face, large dark expressive eyes with long lashes, thick dark arched eyebrows, soft full lips, slim build; wears a loose long-sleeved ankle-length dusty-rose dress and a soft blush-pink chiffon hijab fully covering her hair and neck. Zoona: a plump Maldivian woman in her mid 40s with medium-brown skin, round full face, arched pencilled eyebrows, light makeup, heavy-lidded eyes; wears a long-sleeved ankle-length maroon kaftan-style dress with a small print and a black hijab covering her hair and neck; often holds a smartphone. Areesha: a slim tall Maldivian young woman about 20 with light-brown skin, heart-shaped face, high cheekbones, sharp winged eyeliner and glossy lips, haughty expression; wears a loose long-sleeved ankle-length mustard-yellow maxi dress and a neatly styled beige satin hijab fully covering her hair and neck.\nMood/lighting: night, warm doorway light and a cool streetlight, tense and uneasy.\nModest Maldivian clothing, culturally respectful, no violence shown, no text, no letters, no writing, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.357,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 38.6,
+    "y_pct": 34.6,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_002",
+   "startMs": 8820,
+   "endMs": 36880,
+   "new_image_reason": "characters change: Waheed arrives in his car and greets Yasir",
+   "characters": [
+    "waheed",
+    "yasir",
+    "hayaathu"
+   ],
+   "location": "the front of uncle Waheed's old Maldivian coral-stone house at night, a low white-washed boundary wall with an open wooden gate, a warmly lit doorway, a sandy lane with a coconut palm and a single streetlight",
+   "location_key": "house_front",
+   "mood": "night, warm doorway light and a cool streetlight, tense and uneasy",
+   "visual": "the bright headlights of a second car glowing behind; Waheed, just stepped out of it, smiling politely at the young man standing by the grey sedan; Hayaathu standing a little apart near the gate with her eyes lowered",
+   "camera": "medium wide two-shot",
+   "image": "images/beat_002.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "night_exterior",
+   "shots": [
+    {
+     "id": "shot_002",
+     "startMs": 8820,
+     "endMs": 17260,
+     "narration_dhivehi": "ކާރުގެ އަލި އެޅުމުން ޔާސިރާއި ހަޔާތު އެ ދިމާއަށް ބަލައިލިއެވެ. ވަހީދު ކާރު ޕާކުކުރުމަށްފަހު ފައިބައިގެން އައިސް، ޔާސިރު ފެނުމުން ހިނިތުންވެލިއެވެ. \"ތަނަކަށް ދާންތަ ތިޔަ އުޅެނީ؟\" ހުރިހާ އެންމެން އެ ތަނަށް ނުކުމެ ތިބި ތަން ފެނި، އަޖާއިބުވެފައި ހުރެ ވަހީދު އަހައިލިއެވެ. ވަހީދުގެ ވާހަކަ ދެއްކުމުގައި މި ވަގުތު ހުރީ މަޑުމައިތިރިކަމެވެ.",
+     "narration_english": "As the headlights fell on them, Yasir and Hayaathu looked that way. Waheed parked, got out, came over and smiled at Yasir. 'Going somewhere?' Surprised to find everyone outside, he asked — gently, for once.",
+     "crop": "full",
+     "motion": "pan left",
+     "sfx": [
+      {
+       "name": "car_door",
+       "atMs": 11240,
+       "gainDb": -18,
+       "word": "ފައިބައިގެން"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_003",
+     "startMs": 17260,
+     "endMs": 27090,
+     "narration_dhivehi": "ބޭރުން އައިސް ތިބި މެހެމާނުންގެ ކުރިމަތީގައި އޭނާގެ ހަރުކަށި މިޒާޖު ދައްކާކަށް އޭނާ ވެސް ބޭނުމެއް ނުވިއެވެ. \"އާނ، ފަޒާލު ބުނެގެން.\" ޔާސިރު ވަރަށް އާދައިގެ ރާގެއްގައި ޖަވާބުދިނެވެ. \"ކޮބާ ފަޒާލު؟\" ފަޒާލު ދެކިލުމުގެ ޝައުޤުވެރިކަމާއެކު ވަހީދު ސުވާލުކުރިއެވެ. ފަޒާލުގެ ސިފަ ހުތުރު ވާހަކައަކީ އޭނާއަށް އަޑުއިވިފައިވާ ވާހަކައެކެވެ.",
+     "narration_english": "He didn't want to show his harsh temper in front of guests. 'Yes, Fazaal asked.' Yasir answered quite casually. 'Where is Fazaal?' Waheed asked, eager to see him. He had heard that Fazaal's face was ugly.",
+     "crop": "tight",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      0.0,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_004",
+     "startMs": 27090,
+     "endMs": 36880,
+     "narration_dhivehi": "އަދި އޭނާއަށް ލިބިފައިވާ ފޮޓޯއިން ވެސް އެއީ ޙަޤީޤަތެއްކަން އޮތީ އެނގިފައެވެ. އެހެންނަމަވެސް، ލޮލުން އޭނާގެ ސޫރަ ދެކިލުމުގެ އެދުން ވަހީދުގެ ހިތުގައި އޮތެވެ. ނަމަވެސް ވަހީދުގެ ސުވާލަށް ޖަވާބު ދިނުމުގެ ބަދަލުގައި، ޔާސިރު ހަމައެކަނި މާނަފުން ހިނިތުންވުމެއް ރައްދުކޮށްލީއެވެ. \"ބައްޕާ! އެހެންވިއްޔާ ފަޒާލް ބޭރަށް ނުކުންނާނީ ކިހިނެއް؟ ކުޑަކޮށް ވިސްނާލަބަލަ!\"",
+     "narration_english": "And the photo he'd received had proved it true. Still, he wanted to see that face with his own eyes. But instead of answering, Yasir only gave a meaningful smile. 'Dad! How would Fazaal come out like that? Think a little!'",
+     "crop": "full",
+     "motion": "pan right",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Waheed; reference image 2 is Yasir; reference image 3 is Hayaathu), create a new scene: Cinematic semi-realistic digital illustration, soft natural light, warm tropical colour palette with gentle rose and blush tones like a romantic drama book cover, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject in the upper two-thirds and calm, uncluttered space at the bottom for a logo.\nScene: the bright headlights of a second car glowing behind; Waheed, just stepped out of it, smiling politely at the young man standing by the grey sedan; Hayaathu standing a little apart near the gate with her eyes lowered. Location: the front of uncle Waheed's old Maldivian coral-stone house at night, a low white-washed boundary wall with an open wooden gate, a warmly lit doorway, a sandy lane with a coconut palm and a single streetlight. Camera: medium wide two-shot.\nCharacters: Waheed: a heavy-set Maldivian man in his mid 50s with medium-brown skin, heavy square face, deep frown lines, a greying moustache, short greying hair and hard narrow eyes; wears a light grey long-sleeved button shirt and dark trousers. Yasir: a Maldivian man about 26 with warm brown skin, a friendly oval face with rounded cheeks, a thin neatly trimmed moustache and light stubble, lively dark eyes behind black rectangular-framed glasses, short black hair cropped close at the sides; medium height, average build; wears a light-blue and white checked short-sleeved button shirt and khaki long trousers. Hayaathu: a Maldivian young woman in her early 20s with warm light-brown skin, soft oval face, large dark expressive eyes with long lashes, thick dark arched eyebrows, soft full lips, slim build; wears a loose long-sleeved ankle-length dusty-rose dress and a soft blush-pink chiffon hijab fully covering her hair and neck.\nMood/lighting: night, warm doorway light and a cool streetlight, tense and uneasy.\nModest Maldivian clothing, culturally respectful, no violence shown, no text, no letters, no writing, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.338,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 28.9,
+    "y_pct": 25.3,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_003",
+   "startMs": 36880,
+   "endMs": 45081,
+   "new_image_reason": "Areesha's mocking remark; back to the group at the gate (reuse)",
+   "characters": [
+    "yasir",
+    "hayaathu",
+    "zoona",
+    "areesha"
+   ],
+   "location": "the front of uncle Waheed's old Maldivian coral-stone house at night, a low white-washed boundary wall with an open wooden gate, a warmly lit doorway, a sandy lane with a coconut palm and a single streetlight",
+   "location_key": "house_front",
+   "mood": "night, warm doorway light and a cool streetlight, tense and uneasy",
+   "visual": "(reuse) Yasir by the car, Hayaathu, Zoona and Areesha at the doorway",
+   "camera": "medium shot, eye level",
+   "image": "images/beat_001.png",
+   "reuse_of": "beat_001",
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "night_exterior",
+   "shots": [
+    {
+     "id": "shot_005",
+     "startMs": 36880,
+     "endMs": 45081,
+     "narration_dhivehi": "ހަޔާތަށް މަލާމާތްކުރާ ފަދަ ރާގެއްގައި އަރީޝާ ބުނެލިއެވެ. ޔާސިރު ވެސް ހައިރާންކަމާ އެކު އަރީޝާއަށް ބަލައިލިއެވެ. ނަމަވެސް އެ ވާހަކައަށް އެއްވެސް ޖަވާބެއް ދިނުމެއް ނެތި، އޭނާގެ ނަޒަރު ހުއްޓައިލީ ހަޔާތަށެވެ. \"ހިނގާ ދާން!\" ޔާސިރު މިހެން ބުނެލުމާއެކު، ހަޔާތު މަޑުމައިތިރި ހިނގުމެއްގައި ގޮސް ކާރު ކައިރީގައި މަޑުކޮށްލިއެވެ.",
+     "narration_english": "Areesha said, in a tone that mocked Hayaathu. Yasir looked at Areesha in surprise, but said nothing; his eyes settled on Hayaathu. 'Let's go!' At that Hayaathu walked quietly over and stopped beside the car.",
+     "crop": "medium",
+     "motion": "slow push-in",
+     "sfx": [
+      {
+       "name": "footsteps_pavement",
+       "atMs": 43641,
+       "gainDb": -24,
+       "word": "ހިނގުމެއްގައި"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      2.8,
+      0.0,
+      71.5,
+      84.7
+     ]
+    }
+   ],
+   "prompt_attempts": [],
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.282,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 38.6,
+    "y_pct": 34.6,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_004",
+   "startMs": 45081,
+   "endMs": 61021,
+   "new_image_reason": "action change: Yasir opens the car door, Hayaathu hesitates at the stranger in the driver's seat",
+   "characters": [
+    "yasir",
+    "hayaathu"
+   ],
+   "location": "the front of uncle Waheed's old Maldivian coral-stone house at night, a low white-washed boundary wall with an open wooden gate, a warmly lit doorway, a sandy lane with a coconut palm and a single streetlight",
+   "location_key": "house_front",
+   "mood": "night, warm doorway light and a cool streetlight, tense and uneasy",
+   "visual": "Yasir holding open the front passenger door of the dark grey sedan with a reassuring small nod; Hayaathu hesitating beside the door, looking at him worriedly; inside, behind the wheel, the dim silhouette of a man bent over a faintly glowing phone, his face hidden in shadow",
+   "camera": "medium shot, slightly low angle",
+   "image": "images/beat_004.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "night_exterior",
+   "shots": [
+    {
+     "id": "shot_006",
+     "startMs": 45081,
+     "endMs": 51891,
+     "narration_dhivehi": "އެ ވަގުތު ޔާސިރު ކާރުގެ ކުރީ ސީޓުގެ ދޮރު ހުޅުވައިދިނެވެ. ހަޔާތު ކާރަށް އަރަން އުޅުނު ވަގުތު، ޑްރައިވަރު ސީޓުގައި އިނީ އެހެން މީހަކު ކަމަށްވާތީ ކުޑަކޮށް ޖެހިލުންވާގޮތް ވިއެވެ. ކާރުގެ ބައްތީގެ އަލިވެސް ވަނީ ވަރަށް ބޮޑަށް ފަނޑުވެފައެވެ.",
+     "narration_english": "Yasir opened the front passenger door for her. As she was about to get in, Hayaathu hesitated — someone else was sitting in the driver's seat. The light inside the car was very dim.",
+     "crop": "full",
+     "motion": "pan up",
+     "sfx": [
+      {
+       "name": "car_door",
+       "atMs": 46901,
+       "gainDb": -18,
+       "word": "ހުޅުވައިދިނެވެ."
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_007",
+     "startMs": 51891,
+     "endMs": 61021,
+     "narration_dhivehi": "އެ މީހަކު އިސްދަށަށް ޖަހައިގެން ފޯނާ ކުޅެން އިނުމުގެ އިތުރުން، ފޯނުގެ އަލިވެސް ފަނޑުކޮށްފައި ހުރުމުން އޭނާގެ މޫނު ސާފުވާގޮތެއް ނުވިއެވެ. ހަޔާތު ކަންބޮޑުވެފައި ހުރެ ޔާސިރާ ދިމާއަށް ބަލައިލުމުން، އޭނާ ހިނިތުންވެލަމުން ކުޑަކޮށް ބޯ ޖަހައިލިއެވެ. އެހެންކަމުން، ޖެހިލުންވެފައި ހުރެމެ ހަޔާތު ކާރަށް އެރިއެވެ. ޔާސިރު ކާރުގެ ދޮރު ލައްޕައިލުމަށްފަހު ގޮސް އޭނާގެ ސައިކަލަށް އެރިއެވެ.",
+     "narration_english": "The man sat with his head down, playing on his phone, its screen dimmed, so his face couldn't be seen. Hayaathu looked anxiously at Yasir; he smiled and nodded. So, hesitantly, she got in. Yasir shut the door and went to his motorbike.",
+     "crop": "tight",
+     "motion": "slow pull-out",
+     "sfx": [
+      {
+       "name": "phone_game_taps",
+       "atMs": 52801,
+       "gainDb": -24,
+       "word": "ކުޅެން"
+      },
+      {
+       "name": "car_door",
+       "atMs": 59841,
+       "gainDb": -16,
+       "word": "ލައްޕައިލުމަށްފަހު"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      40.6,
+      0.0,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Yasir; reference image 2 is Hayaathu), create a new scene: Cinematic semi-realistic digital illustration, soft natural light, warm tropical colour palette with gentle rose and blush tones like a romantic drama book cover, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject in the upper two-thirds and calm, uncluttered space at the bottom for a logo.\nScene: Yasir holding open the front passenger door of the dark grey sedan with a reassuring small nod; Hayaathu hesitating beside the door, looking at him worriedly; inside, behind the wheel, the dim silhouette of a man bent over a faintly glowing phone, his face hidden in shadow. Location: the front of uncle Waheed's old Maldivian coral-stone house at night, a low white-washed boundary wall with an open wooden gate, a warmly lit doorway, a sandy lane with a coconut palm and a single streetlight. Camera: medium shot, slightly low angle.\nCharacters: Yasir: a Maldivian man about 26 with warm brown skin, a friendly oval face with rounded cheeks, a thin neatly trimmed moustache and light stubble, lively dark eyes behind black rectangular-framed glasses, short black hair cropped close at the sides; medium height, average build; wears a light-blue and white checked short-sleeved button shirt and khaki long trousers. Hayaathu: a Maldivian young woman in her early 20s with warm light-brown skin, soft oval face, large dark expressive eyes with long lashes, thick dark arched eyebrows, soft full lips, slim build; wears a loose long-sleeved ankle-length dusty-rose dress and a soft blush-pink chiffon hijab fully covering her hair and neck.\nMood/lighting: night, warm doorway light and a cool streetlight, tense and uneasy.\nModest Maldivian clothing, culturally respectful, no violence shown, no text, no letters, no writing, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.239,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 75.4,
+    "y_pct": 29.5,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_005",
+   "startMs": 61021,
+   "endMs": 70601,
+   "new_image_reason": "action change: the car drives off with Yasir following on a motorbike; the family stares",
+   "characters": [
+    "waheed",
+    "zoona",
+    "areesha",
+    "yasir"
+   ],
+   "location": "the front of uncle Waheed's old Maldivian coral-stone house at night, a low white-washed boundary wall with an open wooden gate, a warmly lit doorway, a sandy lane with a coconut palm and a single streetlight",
+   "location_key": "house_front",
+   "mood": "night, warm doorway light and a cool streetlight, tense and uneasy",
+   "visual": "Waheed, Zoona and Areesha standing at the gate staring in surprise as the dark grey sedan pulls away down the lane, its red tail-lights glowing, and Yasir rides after it on a motorbike",
+   "camera": "wide shot from behind the family",
+   "image": "images/beat_005.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "street_night",
+   "shots": [
+    {
+     "id": "shot_008",
+     "startMs": 61021,
+     "endMs": 70601,
+     "narration_dhivehi": "ޒޫނާއާއި އަރީޝާގެ އިތުރުން ވަހީދު ވެސް ހައިރާންކަމާއެކު ޔާސިރާ ދިމާއަށް ބަލަހައްޓައިގެން ތިއްބެވެ. އެ ވަގުތު ކާރު ސްޓާޓްކޮށްލުމަށްފަހު ދުއްވައިލުމުން، ޔާސިރު ވެސް ކާރުގެ ފަހަތުން ސައިކަލުގައި ނައްޓައިލިއެވެ. \"ކާރު ދުއްވަން އެއިނީ ފަޒާލް ކަންނޭނގެ ދޯ؟\" ޒޫނާއަށް އަހައިލެވުނެވެ. \"ޝިޓް، އެ މީހާގެ މޫނު ވެސް ބަލައިނުލެވުނު. އަހަރެން ބޭނުންވީ ހަޔާތު ލަދުގަންނަވާލަން ދިމާކޮށްލަން.\" އަރީޝާ ބުނެލިއެވެ.",
+     "narration_english": "Zoona, Areesha and Waheed stood staring at Yasir in surprise. The car started and drove off, and Yasir followed on his motorbike. 'Was that Fazaal driving?' Zoona asked. 'Damn, I didn't even see his face. I wanted to embarrass Hayaathu,' said Areesha.",
+     "crop": "full",
+     "motion": "pan down",
+     "sfx": [
+      {
+       "name": "car_drive_off",
+       "atMs": 64681,
+       "gainDb": -16,
+       "word": "ދުއްވައިލުމުން،"
+      },
+      {
+       "name": "motorbike_pass",
+       "atMs": 65841,
+       "gainDb": -18,
+       "word": "ސައިކަލުގައި"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Waheed; reference image 2 is Zoona; reference image 3 is Areesha; reference image 4 is Yasir), create a new scene: Cinematic semi-realistic digital illustration, soft natural light, warm tropical colour palette with gentle rose and blush tones like a romantic drama book cover, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject in the upper two-thirds and calm, uncluttered space at the bottom for a logo.\nScene: Waheed, Zoona and Areesha standing at the gate staring in surprise as the dark grey sedan pulls away down the lane, its red tail-lights glowing, and Yasir rides after it on a motorbike. Location: the front of uncle Waheed's old Maldivian coral-stone house at night, a low white-washed boundary wall with an open wooden gate, a warmly lit doorway, a sandy lane with a coconut palm and a single streetlight. Camera: wide shot from behind the family.\nCharacters: Waheed: a heavy-set Maldivian man in his mid 50s with medium-brown skin, heavy square face, deep frown lines, a greying moustache, short greying hair and hard narrow eyes; wears a light grey long-sleeved button shirt and dark trousers. Zoona: a plump Maldivian woman in her mid 40s with medium-brown skin, round full face, arched pencilled eyebrows, light makeup, heavy-lidded eyes; wears a long-sleeved ankle-length maroon kaftan-style dress with a small print and a black hijab covering her hair and neck; often holds a smartphone. Areesha: a slim tall Maldivian young woman about 20 with light-brown skin, heart-shaped face, high cheekbones, sharp winged eyeliner and glossy lips, haughty expression; wears a loose long-sleeved ankle-length mustard-yellow maxi dress and a neatly styled beige satin hijab fully covering her hair and neck. Yasir: a Maldivian man about 26 with warm brown skin, a friendly oval face with rounded cheeks, a thin neatly trimmed moustache and light stubble, lively dark eyes behind black rectangular-framed glasses, short black hair cropped close at the sides; medium height, average build; wears a light-blue and white checked short-sleeved button shirt and khaki long trousers.\nMood/lighting: night, warm doorway light and a cool streetlight, tense and uneasy.\nModest Maldivian clothing, culturally respectful, no violence shown, no text, no letters, no writing, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.379,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 50.0,
+    "y_pct": 40.0,
+    "face_detected": false
+   }
+  },
+  {
+   "id": "beat_006",
+   "startMs": 70601,
+   "endMs": 95142,
+   "new_image_reason": "scene change: inside the car, Hayaathu beside the man she believes is the 'ugly' Fazaal",
+   "characters": [
+    "hayaathu",
+    "young_driver"
+   ],
+   "location": "inside a dark grey sedan at night, dim dashboard glow, the dark sea and the passing streetlights of a long seaside causeway road outside the windows",
+   "location_key": "car",
+   "mood": "night, very dim, soft dashboard glow and passing streetlight on faces, quiet and heavy",
+   "visual": "inside the dim car Hayaathu sits stiffly in the front passenger seat, turned towards the window with tears gathering in her eyes; at the wheel Fazaal, his face softly lit by the dashboard, glances at her with a faint gentle smile",
+   "camera": "medium two-shot from the back seat",
+   "image": "images/beat_006.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "car_night",
+   "shots": [
+    {
+     "id": "shot_009",
+     "startMs": 70601,
+     "endMs": 79521,
+     "narration_dhivehi": "\"މިހާރު ތި ކުރާ ވަރުވެސް ކުޑައީތަ؟\" ގެއަށް ވަންނަމުން ވަހީދު ބުންޏެވެ. ޔާސިރު ނެތި ކާރު ދުއްވައިލުމުން ހަޔާތުގެ ހިތަށް ނުތަނަވަސްކަން ވެރިވިއެވެ. ކާރު ދުއްވަން އިން މީހާއާ ދިމާއަށް ބަލައިލަން ވެސް އޭނާއަކަށް ނުކެރުނެވެ. ކުރީ ސީޓުގައި އަންހެން ކުއްޖަކު އެކަނި އިނުމުގެ މާނަ ހަޔާތަށް ވަރަށް ރަނގަޅަށް އެނގެއެވެ. އޭގެ މާނައަކީ އެއީ އާދައިގެ ޑްރައިވަރެއް ނޫން ކަމެވެ.",
+     "narration_english": "'Haven't you done enough already?' Waheed said, going inside. With Yasir gone, unease filled Hayaathu's heart. She didn't dare look at the driver. She knew well what it meant for a girl to sit alone in the front seat: this was no ordinary driver.",
+     "crop": "full",
+     "motion": "static drift",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_010",
+     "startMs": 79521,
+     "endMs": 87232,
+     "narration_dhivehi": "އެއީ ހަމަ އޭނާއާ ކައިވެނިކުރަން މި ރޭ ރަންކިއުވި ފަޒާލެވެ. އޭނާގެ ސިފަ ހުތުރުކަމުން، ގޭގެ މީހުންނާ ކުރިމަތިލާން ވެސް ނުކެރުނީ ކަންނޭނގެއެވެ. މިފަދަ ޚިޔާލުތަކުން ހަޔާތުގެ ދެ ލޮލަށް ކަރުނަތައް ޖަމާވާން ފެށިއެވެ. ހިމޭންކަމާއެކު ހަޔާތު މޫނު އަނެއް ފަރާތަށް އަނބުރައިލިއެވެ. އެ ވަގުތު ފަޒާލް ހަޔާތަށް ބަލައިލިއެވެ.",
+     "narration_english": "It was Fazaal himself, who had been engaged to her that very night. Perhaps his ugly looks had kept him from facing the family. At these thoughts tears welled in her eyes. Silently she turned her face away. At that moment Fazaal looked at her.",
+     "crop": "tight",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": true,
+     "crop_rect_pct": [
+      40.6,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_011",
+     "startMs": 87232,
+     "endMs": 95142,
+     "narration_dhivehi": "ހަޔާތު މޫނު އަނބުރައިލި މަންޒަރު ފެނުމުން، ފަޒާލްގެ ތުންފަތްމައްޗަށް ލުއި ހިނިތުންވުމެއް ވެރިވިއެވެ. ހަމަހިމޭންކަމުގެ ތެރޭގައި، އާދައިގެ ދުވެއްޔެއްގައި ކާރު ލިންކް ރޯޑުން ކުރިއަށް ދަތުރުކުރަމުން ދިޔައެވެ. ދެމެދުގައި ވަނީ ފުން ހަމަހިމޭންކަމެކެވެ. ފަޒާލް މަގުމައްޗަށް ދީފައިވާ ސަމާލުކަން ކުޑަކޮށްލުމަށްފަހު، ހަޔާތަށް ބަލައިލިއެވެ.",
+     "narration_english": "Seeing her turn away, a faint smile touched Fazaal's lips. In silence the car moved along the Link Road at an easy speed. Deep silence lay between them. Taking his eyes off the road for a moment, Fazaal looked at her.",
+     "crop": "full",
+     "motion": "pan left",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Hayaathu; reference image 2 is Fazaal), create a new scene: Cinematic semi-realistic digital illustration, soft natural light, warm tropical colour palette with gentle rose and blush tones like a romantic drama book cover, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject in the upper two-thirds and calm, uncluttered space at the bottom for a logo.\nScene: inside the dim car Hayaathu sits stiffly in the front passenger seat, turned towards the window with tears gathering in her eyes; at the wheel Fazaal, his face softly lit by the dashboard, glances at her with a faint gentle smile. Location: inside a dark grey sedan at night, dim dashboard glow, the dark sea and the passing streetlights of a long seaside causeway road outside the windows. Camera: medium two-shot from the back seat.\nCharacters: Hayaathu: a Maldivian young woman in her early 20s with warm light-brown skin, soft oval face, large dark expressive eyes with long lashes, thick dark arched eyebrows, soft full lips, slim build; wears a loose long-sleeved ankle-length dusty-rose dress and a soft blush-pink chiffon hijab fully covering her hair and neck. Fazaal (the young man): a tall lean Maldivian man about 25 with light-brown skin, clean-shaven, sharp cheekbones, straight dark eyebrows, intense dark eyes and short black hair swept back; wears a black polo shirt, grey chinos and a dark wristwatch.\nMood/lighting: night, very dim, soft dashboard glow and passing streetlight on faces, quiet and heavy.\nModest Maldivian clothing, culturally respectful, no violence shown, no text, no letters, no writing, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.209,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 78.9,
+    "y_pct": 34.1,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_007",
+   "startMs": 95142,
+   "endMs": 105122,
+   "new_image_reason": "flashback: the same road with Maaroof",
+   "characters": [
+    "hayaathu",
+    "maaroof"
+   ],
+   "location": "the long seaside causeway road between two islands in the Maldives at sunset, turquoise lagoon on both sides, a low white sea wall, a few coconut palms",
+   "location_key": "link_road_memory",
+   "mood": "sunset, warm golden light, soft and nostalgic, dreamlike",
+   "visual": "Hayaathu and Maaroof standing at a respectful distance beside the sea wall of a long causeway road at sunset, a motorbike parked nearby, both smiling shyly at each other, golden light on the lagoon",
+   "camera": "wide shot, eye level",
+   "image": "images/beat_007.png",
+   "reuse_of": null,
+   "transition_in": "dissolve",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "memory",
+   "shots": [
+    {
+     "id": "shot_012",
+     "startMs": 95142,
+     "endMs": 105122,
+     "narration_dhivehi": "އޭރުވެސް ހަޔާތުގެ ނަޒަރު ހުއްޓިފައިވަނީ ކާރުގެ ކުޑަދޮރުން ބޭރުން ފެންނަމުންދިޔަ މަންޒަރުތަކަށެވެ. އެ މަގަކީ އެތައް ދުވަހަކު މައުރޫފާއެކު ދަތުރުކޮށްފައިވާ ހަނދާންތަކުން ފުރިގެންވާ މަގެކެވެ. އެ ފޮނި އަދި ހިތްދަތި ހަނދާންތަކާ އޭނާ ދުރަށްދާނީ ފަހެ ކިހިނެއް ހެއްޔެވެ؟ މިއަދުގެ މި ވަގުތާ ހަމައަށްވެސް އޭނާގެ ހިތް ވަނީ މައުރޫފަށްޓަކައެވެ. އެހެނަސް، މި ވަގުތު އޭނާ އެ އިންނަން ޖެހިފައިވަނީ މުޅިން ބީރައްޓެހި މީހަކާއެކުގައެވެ.",
+     "narration_english": "Hayaathu's gaze stayed on the scenery outside the window. This road was full of memories of countless rides with Maaroof. How could she ever leave those sweet, painful memories behind? To this day her heart belonged to Maaroof. Yet now she had to sit beside a complete stranger.",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": true,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Hayaathu; reference image 2 is Maaroof), create a new scene: Cinematic semi-realistic digital illustration, soft natural light, warm tropical colour palette with gentle rose and blush tones like a romantic drama book cover, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject in the upper two-thirds and calm, uncluttered space at the bottom for a logo.\nScene: Hayaathu and Maaroof standing at a respectful distance beside the sea wall of a long causeway road at sunset, a motorbike parked nearby, both smiling shyly at each other, golden light on the lagoon. Location: the long seaside causeway road between two islands in the Maldives at sunset, turquoise lagoon on both sides, a low white sea wall, a few coconut palms. Camera: wide shot, eye level.\nCharacters: Hayaathu: a Maldivian young woman in her early 20s with warm light-brown skin, soft oval face, large dark expressive eyes with long lashes, thick dark arched eyebrows, soft full lips, slim build; wears a loose long-sleeved ankle-length dusty-rose dress and a soft blush-pink chiffon hijab fully covering her hair and neck. Maaroof: a tall athletic Maldivian man in his late 20s with warm brown skin, short dark wavy hair, a well-groomed short dark beard, strong jaw and kind deep-set dark eyes; wears a white long-sleeved button shirt and dark navy trousers.\nMood/lighting: sunset, warm golden light, soft and nostalgic, dreamlike.\nModest Maldivian clothing, culturally respectful, no violence shown, no text, no letters, no writing, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.476,
+    "halo": true
+   },
+   "focus": {
+    "x_pct": 28.5,
+    "y_pct": 24.4,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_008",
+   "startMs": 105122,
+   "endMs": 114762,
+   "new_image_reason": "action change: Fazaal offers her a tissue",
+   "characters": [
+    "young_driver",
+    "hayaathu"
+   ],
+   "location": "inside a dark grey sedan at night, dim dashboard glow, the dark sea and the passing streetlights of a long seaside causeway road outside the windows",
+   "location_key": "car",
+   "mood": "night, very dim, soft dashboard glow and passing streetlight on faces, quiet and heavy",
+   "visual": "close-up inside the dim car: Fazaal holding out a folded white tissue towards Hayaathu; she takes it by its edge with her fingertips, their hands not touching, her tear-wet eyes still turned to the window",
+   "camera": "close-up",
+   "image": "images/beat_008.png",
+   "reuse_of": null,
+   "transition_in": "dissolve",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "car_night",
+   "shots": [
+    {
+     "id": "shot_013",
+     "startMs": 105122,
+     "endMs": 114762,
+     "narration_dhivehi": "ހިތުގެ އުދާސްތައް ކަރުނައިގެ ސިފައިގައި ލޮލުން ފައިބައިގަތެވެ. ހަޔާތުގެ ކަރުނަތައް ފެނި، ފަޒާލް ޓިޝޫއެއް ނަގައި އޭނާއާ ދިމާއަށް ދިއްކޮށްލިއެވެ. \"އަން...\" ފަޒާލް މަޑުމައިތިރިކަމާއެކު ބުނެލިއެވެ. ހަޔާތު އެ ޓިޝޫއަށް ބަލައިލުމަށްފަހު، މަޑުމަޑުން އޭގައި ހިފިއެވެ. އަދި ކޯތާފަތްމަތިން ފައިބަމުންދިޔަ ކަރުނަތައް ފޮހެލިއެވެ. \"ޝުކުރިއްޔާ...\" އަނެއްކާވެސް ކުޑަދޮރުން ބޭރަށް ނަޒަރު ހިންގައިލަމުން ހަޔާތު ވައިއަޑުން ބުނެލިއެވެ.",
+     "narration_english": "Her sorrow fell as tears. Seeing them, Fazaal took a tissue and held it out. 'Here...' he said gently. She looked at it, slowly took it, and wiped the tears from her cheeks. 'Thank you...' she whispered, looking out of the window again.",
+     "crop": "full",
+     "motion": "pan right",
+     "sfx": [
+      {
+       "name": "cloth_rustle",
+       "atMs": 107322,
+       "gainDb": -24,
+       "word": "ޓިޝޫއެއް"
+      }
+     ],
+     "hum": true,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Fazaal; reference image 2 is Hayaathu), create a new scene: Cinematic semi-realistic digital illustration, soft natural light, warm tropical colour palette with gentle rose and blush tones like a romantic drama book cover, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject in the upper two-thirds and calm, uncluttered space at the bottom for a logo.\nScene: close-up inside the dim car: Fazaal holding out a folded white tissue towards Hayaathu; she takes it by its edge with her fingertips, their hands not touching, her tear-wet eyes still turned to the window. Location: inside a dark grey sedan at night, dim dashboard glow, the dark sea and the passing streetlights of a long seaside causeway road outside the windows. Camera: close-up.\nCharacters: Fazaal (the young man): a tall lean Maldivian man about 25 with light-brown skin, clean-shaven, sharp cheekbones, straight dark eyebrows, intense dark eyes and short black hair swept back; wears a black polo shirt, grey chinos and a dark wristwatch. Hayaathu: a Maldivian young woman in her early 20s with warm light-brown skin, soft oval face, large dark expressive eyes with long lashes, thick dark arched eyebrows, soft full lips, slim build; wears a loose long-sleeved ankle-length dusty-rose dress and a soft blush-pink chiffon hijab fully covering her hair and neck.\nMood/lighting: night, very dim, soft dashboard glow and passing streetlight on faces, quiet and heavy.\nModest Maldivian clothing, culturally respectful, no violence shown, no text, no letters, no writing, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.159,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 82.3,
+    "y_pct": 35.2,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_009",
+   "startMs": 114762,
+   "endMs": 139463,
+   "new_image_reason": "emotional turning point: 'why did you agree to marry me?', the photo, her confession",
+   "characters": [
+    "hayaathu",
+    "young_driver"
+   ],
+   "location": "inside a dark grey sedan at night, dim dashboard glow, the dark sea and the passing streetlights of a long seaside causeway road outside the windows",
+   "location_key": "car",
+   "mood": "night, very dim, soft dashboard glow and passing streetlight on faces, quiet and heavy",
+   "visual": "close-up of Hayaathu in the passenger seat with her eyes shut tight, tear tracks on her cheeks, a crumpled tissue in her hands; behind her, softly out of focus, Fazaal at the wheel turned towards her",
+   "camera": "close-up",
+   "image": "images/beat_009.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "car_night",
+   "shots": [
+    {
+     "id": "shot_014",
+     "startMs": 114762,
+     "endMs": 123583,
+     "narration_dhivehi": "\"އަހަންނާ ކައިވެނިކުރަން އެއްބަސްވީ ކީއްވެގެން؟\" ފަޒާލްގެ ފިރިހެންވަންތަ މަޑުމައިތިރި އަޑު އިވިގެން ދިޔައެވެ. އެ ވަގުތު ހަޔާތަށް ދެ ލޯ މަރާލެވުނެވެ. އެ ސުވާލަށް ދޭނެ ޖަވާބެއް އޭނާއަކަށް ނުވިސްނުނެވެ. ގޭތެރޭގައި އޮތް ހަމަނުޖެހުމާއި، ކުރިމަތިވެފައިވާ ހާލަތު އޭނާއަށް ބަޔާންކޮށްދެވޭނީ ފަހެ ކިހިނެއް ހެއްޔެވެ؟ އެހެންކަމުން ހަޔާތު އިޚްތިޔާރުކުރީ ހިމޭންކަމެވެ.",
+     "narration_english": "'Why did you agree to marry me?' came Fazaal's calm, manly voice. Hayaathu closed her eyes. She could find no answer. How could she explain the turmoil at home and what she was facing? So she chose silence.",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_015",
+     "startMs": 123583,
+     "endMs": 131443,
+     "narration_dhivehi": "\"އަހަރެން ހަޔާތަށް އެއްވެސް މަޖުބޫރުކަމެއް ކުރިމައްޗެއް ނުކުރާނަން. އަހަންނަށް ހީވަނީ އަހަރެން ފޮނުވި ފޮޓޯ ހަޔާތު ނުބަލަނީހެން...\" ފަޒާލް މާނަވީ ގޮތަކަށް ބުނެލިއެވެ. ފޮޓޯގެ ވާހަކަ ބުނުމާއެކު ހަޔާތުގެ ވިންދު އަވަސްވެ، ހިތް ބާރަށް ތެޅެން ފެށިއެވެ. އޭނާއަށް މި އިނދެވުނީ އެ ބިރުވެރި ސިފަ ލިބިގެންވާ މީހާއާ އެކީގައެވެ.",
+     "narration_english": "'I won't force anything on you, Hayaathu. I don't think you even looked at the photo I sent...' Fazaal said meaningfully. At the mention of the photo her heart began to pound. She was sitting beside the man with that frightening face.",
+     "crop": "tight",
+     "motion": "pan up",
+     "sfx": [
+      {
+       "name": "heartbeat",
+       "atMs": 128963,
+       "gainDb": -16,
+       "word": "ވިންދު"
+      }
+     ],
+     "hum": true,
+     "crop_rect_pct": [
+      3.2,
+      1.5,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_016",
+     "startMs": 131443,
+     "endMs": 139463,
+     "narration_dhivehi": "މި ވިސްނުމާއެކު، ހަޔާތުގެ ހިތުގައި އުފެދިފައިވާ ނުތަނަވަސްކަމާއި ހާސްކަން އިހުނަށްވުރެ ވެސް ބޮޑުވެގެން ދިޔައެވެ. \"އަހަރެން މީހަކާ ލޯބީގެ ގޮތުން ގުޅިގެން މި އުޅެނީ،\" ހަޔާތު މަޑުމަޑުން ބުނެލިއެވެ. އެ ހިނދު ކުއްލިއަކަށް ކާރުގެ ބުރަކި ޖައްސައިލިއެވެ. \"ނަސީބެއް...\" ކުރިމައްޗަށް ނަޒަރު ހުއްޓައިލައިގެން އިނދެ ފަޒާލް ބުނެލިއެވެ.",
+     "narration_english": "At that thought her unease and anxiety grew even more. 'I'm in love with someone,' Hayaathu said softly. At that very moment the car braked hard. 'Lucky...' said Fazaal, his eyes fixed ahead.",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [
+      {
+       "name": "brake_screech",
+       "atMs": 137483,
+       "gainDb": -14,
+       "word": "ޖައްސައިލިއެވެ."
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Hayaathu; reference image 2 is Fazaal), create a new scene: Cinematic semi-realistic digital illustration, soft natural light, warm tropical colour palette with gentle rose and blush tones like a romantic drama book cover, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject in the upper two-thirds and calm, uncluttered space at the bottom for a logo.\nScene: close-up of Hayaathu in the passenger seat with her eyes shut tight, tear tracks on her cheeks, a crumpled tissue in her hands; behind her, softly out of focus, Fazaal at the wheel turned towards her. Location: inside a dark grey sedan at night, dim dashboard glow, the dark sea and the passing streetlights of a long seaside causeway road outside the windows. Camera: close-up.\nCharacters: Hayaathu: a Maldivian young woman in her early 20s with warm light-brown skin, soft oval face, large dark expressive eyes with long lashes, thick dark arched eyebrows, soft full lips, slim build; wears a loose long-sleeved ankle-length dusty-rose dress and a soft blush-pink chiffon hijab fully covering her hair and neck. Fazaal (the young man): a tall lean Maldivian man about 25 with light-brown skin, clean-shaven, sharp cheekbones, straight dark eyebrows, intense dark eyes and short black hair swept back; wears a black polo shirt, grey chinos and a dark wristwatch.\nMood/lighting: night, very dim, soft dashboard glow and passing streetlight on faces, quiet and heavy.\nModest Maldivian clothing, culturally respectful, no violence shown, no text, no letters, no writing, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.269,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 32.9,
+    "y_pct": 36.7,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_010",
+   "startMs": 139463,
+   "endMs": 148723,
+   "new_image_reason": "action change: sudden brake for a cat crossing the road",
+   "characters": [],
+   "location": "a quiet seaside causeway road at night seen through a car windscreen, lit by the headlights, a row of streetlights, the dark sea on both sides",
+   "location_key": "windscreen",
+   "mood": "night, bright headlights against blue darkness, a sudden jolt",
+   "visual": "seen through the windscreen of a stopped car, a small cat trotting safely across a quiet seaside road in the bright beam of the headlights, streetlights and the dark sea beyond, no people",
+   "camera": "point of view through the windscreen",
+   "image": "images/beat_010.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "car_night",
+   "shots": [
+    {
+     "id": "shot_017",
+     "startMs": 139463,
+     "endMs": 148723,
+     "narration_dhivehi": "ހަޔާތު ހީކުރީ އޭނާ ބުނި ވާހަކައިގެ ސަބަބުން ފަޒާލް ކާރު ހުއްޓުވީ ކަމަށެވެ. ނަމަވެސް، ކާރު މަޑުކުރީ ކުރިމަތިން މަގު ހުރަސްކުރި ބުޅަލެއް ސަލާމަތް ކުރުމަށެވެ. \"ބުޅާ ކާރު ދަށުނުވެ ސަލާމަތްވިކަން އެއީ ހަމަ ނަސީބެއް.\" ލުއި ހިނިތުންވުމަކާއެކު ފަޒާލް ބުނެލިއެވެ. ނަމަވެސް، ހަޔާތު އިނީ އެ އަޑު ނީވޭ ފަދައަކުން، ކާރުގެ ކުޑަދޮރުން ބޭރަށް ނަޒަރު ހުއްޓައިލައިގެންނެވެ. \"ކީކޭތަ ދެންމެ ބުނީ؟\"",
+     "narration_english": "Hayaathu thought he had stopped because of what she said. But the car had stopped for a cat crossing the road. 'Lucky the cat didn't end up under the car,' Fazaal said with a light smile. But Hayaathu sat as if she hadn't heard, staring out of the window. 'What did you just say?'",
+     "crop": "full",
+     "motion": "pan down",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Cinematic semi-realistic digital illustration, soft natural light, warm tropical colour palette with gentle rose and blush tones like a romantic drama book cover, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject in the upper two-thirds and calm, uncluttered space at the bottom for a logo.\nScene: seen through the windscreen of a stopped car, a small cat trotting safely across a quiet seaside road in the bright beam of the headlights, streetlights and the dark sea beyond, no people. Location: a quiet seaside causeway road at night seen through a car windscreen, lit by the headlights, a row of streetlights, the dark sea on both sides. Camera: point of view through the windscreen.\nMood/lighting: night, bright headlights against blue darkness, a sudden jolt.\nModest Maldivian clothing, culturally respectful, no violence shown, no text, no letters, no writing, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.033,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 50.0,
+    "y_pct": 40.0,
+    "face_detected": false
+   }
+  },
+  {
+   "id": "beat_011",
+   "startMs": 148723,
+   "endMs": 167444,
+   "new_image_reason": "driving on, she stares out of the window (reuse)",
+   "characters": [
+    "hayaathu",
+    "young_driver"
+   ],
+   "location": "inside a dark grey sedan at night, dim dashboard glow, the dark sea and the passing streetlights of a long seaside causeway road outside the windows",
+   "location_key": "car",
+   "mood": "night, very dim, soft dashboard glow and passing streetlight on faces, quiet and heavy",
+   "visual": "(reuse) Hayaathu turned to the window, Fazaal at the wheel",
+   "camera": "medium shot, eye level",
+   "image": "images/beat_006.png",
+   "reuse_of": "beat_006",
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "car_night",
+   "shots": [
+    {
+     "id": "shot_018",
+     "startMs": 148723,
+     "endMs": 158143,
+     "narration_dhivehi": "ކާރު ދުއްވައިލަމުން ފަޒާލް ސުވާލު ތަކުރާރުކޮށްލިއެވެ. ހަޔާތު އިނީ ދޭނެ ޖަވާބެއް ނޭނގި، ބަސްހުއްޓިފައެވެ. އިތުރަށް ވާހަކަދައްކަން ބޭނުންނުވާ ފަދަ ގޮތަކަށް އޭނާ ބޭރު ބަލަހައްޓައިގެން އިނުމުން، ފަޒާލް އަނެއްކާވެސް ވާހަކަ ދައްކަން ފެށިއެވެ. \"ދެންމެ ތިބުނި އެއްޗެއް ސާފެއް ނުވި... އަނެއްކާ މި ކައިވެނި ތި ކުރަނީ އެއްވެސް މަޖުބޫރުކަމެއް އޮވެގެންތަ؟\" އެއްވެސް ކަމެއްގެ ހަގީގަތް ނޭނގޭ ހާލު، ފަޒާލް އަހައިލިއެވެ.",
+     "narration_english": "Fazaal repeated, driving on. Hayaathu sat speechless, not knowing what to answer. When she kept looking outside as if she didn't want to talk, he spoke again: 'I didn't catch what you said... Are you marrying under some kind of pressure?' — knowing nothing of the truth.",
+     "crop": "tight",
+     "motion": "static drift",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      40.6,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_019",
+     "startMs": 158143,
+     "endMs": 167444,
+     "narration_dhivehi": "އެ ސުވާލާއެކު ހަޔާތުގެ ދެ ލޯ ކަރުނުން ފުރިގެން އައެވެ. މަޖުބޫރުވީ ހެއްޔެވެ؟ އާނއެކެވެ! މިއީ ހަމަ ހަގީގަތުގައި ވެސް މަޖުބޫރުން ކުރެވޭ ކައިވެންޏެކެވެ. އޭނާގެ ދައްތައަށްޓަކައެވެ. މައުރޫފަށްޓަކައެވެ. އަދި ޚުދު އޭނާގެ ހިތުގައިވާ ލޯތްބަށްޓަކައެވެ. މި ހުރިހާ އިހުސާސްތަކެއް، ގާތުގައި އެ އިން ފަޒާލަށް ދެނެގަނެވޭނެ ހެއްޔެވެ؟ ދުލުން ބުނެދިން ކަމުގައި ވިޔަސް، އެ ހަގީގަތް ފަޒާލް ގަބޫލުކުރާނެ ހެއްޔެވެ؟",
+     "narration_english": "At that question her eyes filled with tears. Forced? Yes! This truly was a forced marriage. For her sister. For Maaroof. And for the love in her own heart. Could Fazaal, sitting beside her, ever understand all this? Even if she said it, would he believe her?",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": true,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [],
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.238,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 78.9,
+    "y_pct": 34.1,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_012",
+   "startMs": 167444,
+   "endMs": 194424,
+   "new_image_reason": "action change: she speaks to him — 'how much did you pay for me?' — and begs",
+   "characters": [
+    "hayaathu",
+    "young_driver"
+   ],
+   "location": "inside a dark grey sedan at night, dim dashboard glow, the dark sea and the passing streetlights of a long seaside causeway road outside the windows",
+   "location_key": "car",
+   "mood": "night, very dim, soft dashboard glow and passing streetlight on faces, quiet and heavy",
+   "visual": "inside the dim car Hayaathu half-turned towards the driver but with her eyes lowered, tears running, her face bitter and pleading; Fazaal with one hand on the wheel turning to her with a puzzled, concerned frown",
+   "camera": "medium close two-shot through the windscreen",
+   "image": "images/beat_012.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "car_night",
+   "shots": [
+    {
+     "id": "shot_020",
+     "startMs": 167444,
+     "endMs": 176724,
+     "narration_dhivehi": "\"އަހަރެންނާ ކައިވެނިކުރަން ކިހާވަރެއް ދިނިން؟\" އިންގޮތަށް އިނދެ ހަޔާތު ސުވާލުކޮށްލިއެވެ. \"ކީކޭ؟\" ހަޔާތު ބުނި އެއްޗެއް ސާފުނުވެގެން ފަޒާލް އަހައިލިއެވެ. \"ބޮޑުބެ އަހަރެން އަގުކުރީ ކިހާވަރަކަށް ހެއްޔެވެ؟\" އަނެއްކާވެސް ހަޔާތު ސުވާލު ތަކުރާރުކޮށްލިއެވެ. \"އަގޭ؟ ތިއީ ކޮންކަހަލަ ވާހަކައެއް؟\" ޙައިރާންކަމާއެކު ފަޒާލް އަހައިލިއެވެ. ނަމަވެސް ހަޔާތު އިތުރަށް އެ ވާހަކަ ދައްކާކަށް ބޭނުމެއް ނުވިއެވެ.",
+     "narration_english": "'How much did you pay to marry me?' Hayaathu asked without moving. 'What?' Fazaal asked, not catching it. 'What price did my uncle put on me?' she asked again. 'A price? What kind of talk is that?' Fazaal asked in surprise. But she didn't want to say more.",
+     "crop": "full",
+     "motion": "pan left",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_021",
+     "startMs": 176724,
+     "endMs": 185774,
+     "narration_dhivehi": "\"އަހަންނަށް ކަމެއް ކޮށްދޭން ބޭނުންނަމަ، މި ކައިވެނި އެކަހެރި ތަނެއްގައި ކުރެވޭނެ އިންތިޒާމު ހަމަޖައްސައިދީ... ޢާއިލާގެ މީހުންނާ ވެސް ވަކިން.\" ހިތާމައިން ފުރިގެންވީ މަޑުމައިތިރި އަޑަކުން ރޮވިފައި އިނދެ ހަޔާތު އެދުނެވެ. ފަޒާލް ލުއި ހިނިތުންވުމެއް ރައްދުކޮށްލިއެވެ. ނަމަވެސް، އޭނާ ބޭނުންވަނީ އެންމެންގެ ހާޒިރުގައި ފާޅުކަން ބޮޑު ގޮތެއްގައި އެ ކައިވެނި ކުރުމަށެވެ.",
+     "narration_english": "'If you want to do something for me, arrange the wedding somewhere private... away from the family, too.' Crying, in a soft voice full of grief, she pleaded. Fazaal only smiled faintly. For he wanted the wedding held openly, grandly, in front of everyone.",
+     "crop": "tight",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      40.6,
+      0.9,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_022",
+     "startMs": 185774,
+     "endMs": 194424,
+     "narration_dhivehi": "އަދި މުޅި ދުނިޔެއަށް އެކަން ހާމަކޮށް އިއުލާނު ކުރުމަށެވެ. \"ކީއްވެގެން؟\" ފަޒާލް އަހައިލިއެވެ. \"އަހަރެން ބޭނުމެއް ނޫން މި ކައިވެނީގެ އެއްވެސް ޚަބަރެއް އެއްވެސް މީހަކަށް އެނގޭކަށް.\" ހަޔާތަށް ގިސްލެވެން ފެށުނެވެ. \"ލަދުގަންނަނީތަ؟\" ފަޒާލް ސުވާލުކޮށްލިއެވެ. \"ދެން އިތުރަކަށް ބޭނުމެއް ނޫން... އާދޭސްކޮށްފައި މިބުނީ... އަހަރެން ދެން އެއްވެސް ކަމަކަށް ނޭދޭނަން...\"",
+     "narration_english": "And to announce it to the whole world. 'Why?' Fazaal asked. 'I don't want anyone to hear any news of this marriage.' She began to sob. 'Are you ashamed?' he asked. 'I don't want anything else... I'm begging you... I won't ask you for anything ever again...'",
+     "crop": "full",
+     "motion": "pan right",
+     "sfx": [
+      {
+       "name": "sob_breath",
+       "atMs": 190364,
+       "gainDb": -24,
+       "word": "ގިސްލެވެން"
+      }
+     ],
+     "hum": true,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Hayaathu; reference image 2 is Fazaal), create a new scene: Cinematic semi-realistic digital illustration, soft natural light, warm tropical colour palette with gentle rose and blush tones like a romantic drama book cover, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject in the upper two-thirds and calm, uncluttered space at the bottom for a logo.\nScene: inside the dim car Hayaathu half-turned towards the driver but with her eyes lowered, tears running, her face bitter and pleading; Fazaal with one hand on the wheel turning to her with a puzzled, concerned frown. Location: inside a dark grey sedan at night, dim dashboard glow, the dark sea and the passing streetlights of a long seaside causeway road outside the windows. Camera: medium close two-shot through the windscreen.\nCharacters: Hayaathu: a Maldivian young woman in her early 20s with warm light-brown skin, soft oval face, large dark expressive eyes with long lashes, thick dark arched eyebrows, soft full lips, slim build; wears a loose long-sleeved ankle-length dusty-rose dress and a soft blush-pink chiffon hijab fully covering her hair and neck. Fazaal (the young man): a tall lean Maldivian man about 25 with light-brown skin, clean-shaven, sharp cheekbones, straight dark eyebrows, intense dark eyes and short black hair swept back; wears a black polo shirt, grey chinos and a dark wristwatch.\nMood/lighting: night, very dim, soft dashboard glow and passing streetlight on faces, quiet and heavy.\nModest Maldivian clothing, culturally respectful, no violence shown, no text, no letters, no writing, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.134,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 81.6,
+    "y_pct": 36.1,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_013",
+   "startMs": 194424,
+   "endMs": 208765,
+   "new_image_reason": "she refuses to look at him (reuse)",
+   "characters": [
+    "hayaathu",
+    "young_driver"
+   ],
+   "location": "inside a dark grey sedan at night, dim dashboard glow, the dark sea and the passing streetlights of a long seaside causeway road outside the windows",
+   "location_key": "car",
+   "mood": "night, very dim, soft dashboard glow and passing streetlight on faces, quiet and heavy",
+   "visual": "(reuse) Hayaathu with eyes shut, head bowed",
+   "camera": "medium shot, eye level",
+   "image": "images/beat_009.png",
+   "reuse_of": "beat_009",
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "car_night",
+   "shots": [
+    {
+     "id": "shot_023",
+     "startMs": 194424,
+     "endMs": 201814,
+     "narration_dhivehi": "މަޑުމަޑުން ގިސްލެވެން ފެށުމުން، އިތުރަށް ވާހަކަ ކުރިއަށް ގެންދާކަށް ހަޔާތަކަށް ކެތެއް ނުކުރެވުނެވެ. \"މިކޮޅު ބަލައިލަބަލަ،\" ފަޒާލް މަޑުމައިތިރި އަޑަކުން ބުނެލިއެވެ. ނަމަވެސް ހަޔާތު އިނީ ގުޑިވެސް ނުލައި، އިސްޖަހައިގެންނެވެ. ފަޒާލްގެ ސޫރަ ފެނިއްޖެނަމަ، އެ ކާރުގައި އިންނާކަށް ވެސް އޭނާއަކަށް ނުކެރޭނެއެވެ.",
+     "narration_english": "As the sobs came, she couldn't go on. 'Look this way,' Fazaal said gently. But Hayaathu sat motionless, head bowed. If she saw Fazaal's face, she wouldn't even dare stay in the car.",
+     "crop": "tight",
+     "motion": "slow push-in",
+     "sfx": [
+      {
+       "name": "sob_breath",
+       "atMs": 194704,
+       "gainDb": -24,
+       "word": "ގިސްލެވެން"
+      }
+     ],
+     "hum": true,
+     "crop_rect_pct": [
+      3.2,
+      1.5,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_024",
+     "startMs": 201814,
+     "endMs": 208765,
+     "narration_dhivehi": "ފޯނުގެ ސްކްރީނުން އެ މޫނު ފެނުމުން ވެސް އޭނާގެ ހިތް ބިރުވެރިކަމުން ފުރިގެން ދިޔައެވެ. ހަޔާތު އެ އިން ގޮތަށް އިންދާ،",
+     "narration_english": "Even seeing that face on a phone screen had filled her heart with fear. While Hayaathu sat like that,",
+     "crop": "full",
+     "motion": "pan up",
+     "sfx": [
+      {
+       "name": "heartbeat",
+       "atMs": 204944,
+       "gainDb": -20,
+       "word": "ބިރުވެރިކަމުން"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [],
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.301,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 32.9,
+    "y_pct": 36.7,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_014",
+   "startMs": 208765,
+   "endMs": 235605,
+   "new_image_reason": "scene change: a secluded beach under the full moon; Fazaal opens her door",
+   "characters": [
+    "young_driver",
+    "hayaathu"
+   ],
+   "location": "a secluded Maldivian beach at night under a full moon, white sand, dark coconut palms, gentle waves, a silver path of moonlight on the sea, a sandy track where a dark grey sedan is parked",
+   "location_key": "moon_beach",
+   "mood": "night, silver full-moon light, deep blue shadows, quiet, lonely and longing",
+   "visual": "on a secluded moonlit beach the dark grey sedan is parked under coconut palms; Fazaal stands beside the open passenger door at a respectful distance, speaking gently; Hayaathu sits inside with her head lowered; a full moon over the sea",
+   "camera": "wide shot",
+   "image": "images/beat_014.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "beach_night",
+   "shots": [
+    {
+     "id": "shot_025",
+     "startMs": 208765,
+     "endMs": 218105,
+     "narration_dhivehi": "ފަޒާލް ކާރު ދުއްވަމުން ގޮސް މީހުންގެ ހިލަމެއް ނެތް، އެކަހެރި ސަރަޙައްދަކަށް މަޑުކޮށްލިއެވެ. އެއީ ހަމަހިމޭން، ހިތްގައިމު މާޙައުލެކެވެ.",
+     "narration_english": "Fazaal drove on and stopped at a secluded place with no sign of people. It was a quiet, enchanting spot.",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_026",
+     "startMs": 218105,
+     "endMs": 226515,
+     "narration_dhivehi": "ސާދަވިލޭރޭގެ ރިހި އަލިން މުޅި ސަރަޙައްދު ވަނީ ޖަރީވެފައެވެ. ފަޒާލް ކާރުން ފައިބައިގެން އައިސް، ހަޔާތު އިން ފަރާތުގެ ދޮރު ހުޅުވާލިއެވެ.",
+     "narration_english": "The silver light of the full moon bathed the whole place. Fazaal got out of the car, came round and opened Hayaathu's door.",
+     "crop": "tight",
+     "motion": "pan down",
+     "sfx": [
+      {
+       "name": "car_door",
+       "atMs": 222845,
+       "gainDb": -18,
+       "word": "ފައިބައިގެން"
+      },
+      {
+       "name": "car_door",
+       "atMs": 225765,
+       "gainDb": -20,
+       "word": "ހުޅުވާލިއެވެ."
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      35.5,
+      3.2,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_027",
+     "startMs": 226515,
+     "endMs": 235605,
+     "narration_dhivehi": "ފަޒާލް ކައިރިވެލުމާއެކު، ހަޔާތު އަވަސްއަވަހަށް އިސްދަށަށް ޖަހައިލިއެވެ. \"ކާރުގައި އިންނާނީތަ؟\" ފަޒާލް މަޑުމައިތިރިކަމާއެކު ސުވާލުކޮށްލިއެވެ.",
+     "narration_english": "As Fazaal came close, Hayaathu quickly lowered her head. 'Are you going to stay in the car?' Fazaal asked gently.",
+     "crop": "full",
+     "motion": "static drift",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Fazaal; reference image 2 is Hayaathu), create a new scene: Cinematic semi-realistic digital illustration, soft natural light, warm tropical colour palette with gentle rose and blush tones like a romantic drama book cover, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject in the upper two-thirds and calm, uncluttered space at the bottom for a logo.\nScene: on a secluded moonlit beach the dark grey sedan is parked under coconut palms; Fazaal stands beside the open passenger door at a respectful distance, speaking gently; Hayaathu sits inside with her head lowered; a full moon over the sea. Location: a secluded Maldivian beach at night under a full moon, white sand, dark coconut palms, gentle waves, a silver path of moonlight on the sea, a sandy track where a dark grey sedan is parked. Camera: wide shot.\nCharacters: Fazaal (the young man): a tall lean Maldivian man about 25 with light-brown skin, clean-shaven, sharp cheekbones, straight dark eyebrows, intense dark eyes and short black hair swept back; wears a black polo shirt, grey chinos and a dark wristwatch. Hayaathu: a Maldivian young woman in her early 20s with warm light-brown skin, soft oval face, large dark expressive eyes with long lashes, thick dark arched eyebrows, soft full lips, slim build; wears a loose long-sleeved ankle-length dusty-rose dress and a soft blush-pink chiffon hijab fully covering her hair and neck.\nMood/lighting: night, silver full-moon light, deep blue shadows, quiet, lonely and longing.\nModest Maldivian clothing, culturally respectful, no violence shown, no text, no letters, no writing, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.268,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 65.2,
+    "y_pct": 38.4,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_015",
+   "startMs": 235605,
+   "endMs": 255946,
+   "new_image_reason": "action change: she walks to the sea and pulls away from him",
+   "characters": [
+    "hayaathu",
+    "young_driver"
+   ],
+   "location": "a secluded Maldivian beach at night under a full moon, white sand, dark coconut palms, gentle waves, a silver path of moonlight on the sea, a sandy track where a dark grey sedan is parked",
+   "location_key": "moon_beach",
+   "mood": "night, silver full-moon light, deep blue shadows, quiet, lonely and longing",
+   "visual": "on the moonlit sand Hayaathu stepping quickly away towards the sea, startled, clutching her own wrist to her chest; a few steps behind her Fazaal stops with his hand half raised, surprised; the parked car in the background",
+   "camera": "medium wide shot",
+   "image": "images/beat_015.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": "intimacy",
+   "safe_substitution": "he grabs her hand in the narration: the touch is not shown, only the moment after, with the two standing apart",
+   "ambience": "beach_night",
+   "shots": [
+    {
+     "id": "shot_028",
+     "startMs": 235605,
+     "endMs": 246085,
+     "narration_dhivehi": "ފަޒާލާ ދިމާއަށް ބަލައިވެސް ނުލައި، ހަޔާތު މަޑުމަޑުން ކާރުން ފޭބިއެވެ. އަދި ހިމޭންކަމާއެކު ގޮނޑުދޮށާ ދިމާއަށް ހިނގައިގަތެވެ. ފަޒާލް ކާރުގެ ދޮރު ލައްޕާލުމަށްފަހު،",
+     "narration_english": "Without even looking at him, Hayaathu slowly got out of the car and walked silently towards the beach. Fazaal shut the car door,",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [
+      {
+       "name": "footsteps_sand",
+       "atMs": 242845,
+       "gainDb": -22,
+       "word": "ހިނގައިގަތެވެ."
+      },
+      {
+       "name": "car_door",
+       "atMs": 244845,
+       "gainDb": -16,
+       "word": "ލައްޕާލުމަށްފަހު،"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_029",
+     "startMs": 246085,
+     "endMs": 255946,
+     "narration_dhivehi": "ހަޔާތުގެ ފަހަތުން އަވަސް ހިނގުމެއްގައި ގޮސް އޭނާގެ އަތުގައި ހިފާލިއެވެ. ކުއްލިއަކަށް ލިބުނު ސިހުމާއެކު، ހަޔާތު ވަގުތުން ފަޒާލްގެ އަތްދަށުން އަތް ދަމައިގަތެވެ.",
+     "narration_english": "hurried after her and caught her by the hand. Startled, Hayaathu instantly pulled her hand out of his.",
+     "crop": "tight",
+     "motion": "pan left",
+     "sfx": [
+      {
+       "name": "footsteps_sand",
+       "atMs": 247726,
+       "gainDb": -22,
+       "word": "ހިނގުމެއްގައި"
+      },
+      {
+       "name": "gasp",
+       "atMs": 251806,
+       "gainDb": -18,
+       "word": "ސިހުމާއެކު،"
+      }
+     ],
+     "hum": true,
+     "crop_rect_pct": [
+      37.4,
+      0.0,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Hayaathu; reference image 2 is Fazaal), create a new scene: Cinematic semi-realistic digital illustration, soft natural light, warm tropical colour palette with gentle rose and blush tones like a romantic drama book cover, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject in the upper two-thirds and calm, uncluttered space at the bottom for a logo.\nScene: on the moonlit sand Hayaathu stepping quickly away towards the sea, startled, clutching her own wrist to her chest; a few steps behind her Fazaal stops with his hand half raised, surprised; the parked car in the background. Location: a secluded Maldivian beach at night under a full moon, white sand, dark coconut palms, gentle waves, a silver path of moonlight on the sea, a sandy track where a dark grey sedan is parked. Camera: medium wide shot.\nCharacters: Hayaathu: a Maldivian young woman in her early 20s with warm light-brown skin, soft oval face, large dark expressive eyes with long lashes, thick dark arched eyebrows, soft full lips, slim build; wears a loose long-sleeved ankle-length dusty-rose dress and a soft blush-pink chiffon hijab fully covering her hair and neck. Fazaal (the young man): a tall lean Maldivian man about 25 with light-brown skin, clean-shaven, sharp cheekbones, straight dark eyebrows, intense dark eyes and short black hair swept back; wears a black polo shirt, grey chinos and a dark wristwatch.\nMood/lighting: night, silver full-moon light, deep blue shadows, quiet, lonely and longing.\nModest Maldivian clothing, culturally respectful, no violence shown, no text, no letters, no writing, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.427,
+    "halo": true
+   },
+   "focus": {
+    "x_pct": 67.1,
+    "y_pct": 25.1,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_016",
+   "startMs": 255946,
+   "endMs": 274506,
+   "new_image_reason": "action change: she stands alone at the water's edge in tears",
+   "characters": [
+    "hayaathu",
+    "young_driver"
+   ],
+   "location": "a secluded Maldivian beach at night under a full moon, white sand, dark coconut palms, gentle waves, a silver path of moonlight on the sea, a sandy track where a dark grey sedan is parked",
+   "location_key": "moon_beach",
+   "mood": "night, silver full-moon light, deep blue shadows, quiet, lonely and longing",
+   "visual": "Hayaathu standing alone at the water's edge, gentle waves washing in around the hem of her long dress, tears glistening on her cheeks in the moonlight, looking out at the silver moon path; far behind her on the sand Fazaal is a small figure near the car",
+   "camera": "wide shot from the side, the figure in the upper two-thirds",
+   "image": "images/beat_016.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "beach_night",
+   "shots": [
+    {
+     "id": "shot_030",
+     "startMs": 255946,
+     "endMs": 263776,
+     "narration_dhivehi": "އަދި ބާރު ހިނގުމެއްގައި މޫދާ ދިމާއަށް ހިނގައިގަތްއިރު، އޭނާގެ ދެ ލޮލުން ހިފެހެއްޓުމެއްނެތި ކަރުނަތައް ފައިބަމުން ދިޔައެވެ.",
+     "narration_english": "And as she strode towards the sea, tears streamed uncontrollably from her eyes.",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [
+      {
+       "name": "footsteps_sand",
+       "atMs": 258606,
+       "gainDb": -22,
+       "word": "ހިނގައިގަތްއިރު،"
+      }
+     ],
+     "hum": true,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_031",
+     "startMs": 263776,
+     "endMs": 274506,
+     "narration_dhivehi": "މައުރޫފް ފިޔަވައި އެހެން އެއްވެސް މީހަކު އޭނާގެ ގައިގައި ބީހޭކަށް އެ ހިތް އެއްގޮތަކަށް ވެސް ނޭދެއެވެ. މޫދުގެ ރާޅުބާނިތައް ފައިތިލައިގައި ބީހިލުމާއެކު ހަޔާތަށް ހުއްޓެވުނެވެ.",
+     "narration_english": "Her heart would never want anyone but Maaroof to touch her. As the waves touched her feet, Hayaathu stopped.",
+     "crop": "tight",
+     "motion": "pan right",
+     "sfx": [
+      {
+       "name": "wave_crash",
+       "atMs": 270886,
+       "gainDb": -20,
+       "word": "ރާޅުބާނިތައް"
+      }
+     ],
+     "hum": true,
+     "crop_rect_pct": [
+      18.7,
+      0.0,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Hayaathu; reference image 2 is Fazaal), create a new scene: Cinematic semi-realistic digital illustration, soft natural light, warm tropical colour palette with gentle rose and blush tones like a romantic drama book cover, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject in the upper two-thirds and calm, uncluttered space at the bottom for a logo.\nScene: Hayaathu standing alone at the water's edge, gentle waves washing in around the hem of her long dress, tears glistening on her cheeks in the moonlight, looking out at the silver moon path; far behind her on the sand Fazaal is a small figure near the car. Location: a secluded Maldivian beach at night under a full moon, white sand, dark coconut palms, gentle waves, a silver path of moonlight on the sea, a sandy track where a dark grey sedan is parked. Camera: wide shot from the side, the figure in the upper two-thirds.\nCharacters: Hayaathu: a Maldivian young woman in her early 20s with warm light-brown skin, soft oval face, large dark expressive eyes with long lashes, thick dark arched eyebrows, soft full lips, slim build; wears a loose long-sleeved ankle-length dusty-rose dress and a soft blush-pink chiffon hijab fully covering her hair and neck. Fazaal (the young man): a tall lean Maldivian man about 25 with light-brown skin, clean-shaven, sharp cheekbones, straight dark eyebrows, intense dark eyes and short black hair swept back; wears a black polo shirt, grey chinos and a dark wristwatch.\nMood/lighting: night, silver full-moon light, deep blue shadows, quiet, lonely and longing.\nModest Maldivian clothing, culturally respectful, no violence shown, no text, no letters, no writing, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.38,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 48.4,
+    "y_pct": 21.5,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_017",
+   "startMs": 274506,
+   "endMs": 291987,
+   "new_image_reason": "her thoughts go to Maaroof (reuse of the memory image)",
+   "characters": [
+    "hayaathu",
+    "maaroof"
+   ],
+   "location": "the long seaside causeway road between two islands in the Maldives at sunset, turquoise lagoon on both sides, a low white sea wall, a few coconut palms",
+   "location_key": "link_road_memory",
+   "mood": "sunset, warm golden light, soft and nostalgic, dreamlike",
+   "visual": "(reuse) Hayaathu and Maaroof by the sea wall at sunset",
+   "camera": "medium shot, eye level",
+   "image": "images/beat_007.png",
+   "reuse_of": "beat_007",
+   "transition_in": "dissolve",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "memory",
+   "shots": [
+    {
+     "id": "shot_032",
+     "startMs": 274506,
+     "endMs": 283246,
+     "narration_dhivehi": "ހިތަށް އެރިއެވެ. ފަޒާލް އޭނާ މިތަނަށް މި ގެނައީ ކީއްކުރަން ހެއްޔެވެ؟ މި ރޭ ކޮންމެހެން ވެސް ބޭރަށް ނިކުންނަން ބޭނުންވީ މައުރޫފާ ބައްދަލުކުރުމަށެވެ.",
+     "narration_english": "She wondered: why had Fazaal brought her here? Tonight she had wanted to go out no matter what — to meet Maaroof.",
+     "crop": "tight",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      0.0,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_033",
+     "startMs": 283246,
+     "endMs": 291987,
+     "narration_dhivehi": "ކޮންމެވެސް ގޮތަކުން ވަގުތުކޮޅެއް ހޯދައިގެން މައުރޫފްގެ ގާތަށް ދިއުމަށެވެ. ނަމަވެސް، އޭނާ ގޮވައިގެން މިތަނަށް މި އައީ ފަޒާލެވެ.",
+     "narration_english": "To steal a little time somehow and go to Maaroof. But the one who had brought her here was Fazaal.",
+     "crop": "full",
+     "motion": "pan up",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [],
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.488,
+    "halo": true
+   },
+   "focus": {
+    "x_pct": 28.5,
+    "y_pct": 24.4,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_018",
+   "startMs": 291987,
+   "endMs": 300827,
+   "new_image_reason": "back to the shore as Fazaal walks towards her (reuse)",
+   "characters": [
+    "hayaathu",
+    "young_driver"
+   ],
+   "location": "a secluded Maldivian beach at night under a full moon, white sand, dark coconut palms, gentle waves, a silver path of moonlight on the sea, a sandy track where a dark grey sedan is parked",
+   "location_key": "moon_beach",
+   "mood": "night, silver full-moon light, deep blue shadows, quiet, lonely and longing",
+   "visual": "(reuse) Hayaathu at the water's edge, Fazaal behind",
+   "camera": "medium shot, eye level",
+   "image": "images/beat_016.png",
+   "reuse_of": "beat_016",
+   "transition_in": "dissolve",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "beach_night",
+   "shots": [
+    {
+     "id": "shot_034",
+     "startMs": 291987,
+     "endMs": 300827,
+     "narration_dhivehi": "ދެން އޭނާއަށް މައުރޫފާ ބައްދަލުކުރަން ދެވޭނީ ކޮން ފަދައަކުން ހެއްޔެވެ؟ ފަޒާލް މަޑުމަޑުން ފިޔަވަޅުތައް އަޅަމުން ހަޔާތާ ދިމާއަށް މިސްރާބު ޖެހިއެވެ.",
+     "narration_english": "How would she ever meet Maaroof now? Slowly, step by step, Fazaal headed towards Hayaathu.",
+     "crop": "medium",
+     "motion": "slow pull-out",
+     "sfx": [
+      {
+       "name": "footsteps_sand",
+       "atMs": 297227,
+       "gainDb": -24,
+       "word": "ފިޔަވަޅުތައް"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      12.7,
+      0.0,
+      71.5,
+      84.7
+     ]
+    }
+   ],
+   "prompt_attempts": [],
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.361,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 48.4,
+    "y_pct": 21.5,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_019",
+   "startMs": 300827,
+   "endMs": 310777,
+   "new_image_reason": "flashback: the night he rescued her from the sea (reused image from ep 273)",
+   "characters": [
+    "hayaathu",
+    "young_driver"
+   ],
+   "location": "a secluded Maldivian beach at night under a full moon, white sand, dark coconut palms, gentle waves, a silver path of moonlight on the sea, a sandy track where a dark grey sedan is parked",
+   "location_key": "moon_beach",
+   "mood": "night, silver full-moon light, deep blue shadows, quiet, lonely and longing",
+   "visual": "(reuse from ep 273) Fazaal standing on the moonlit sand looking down in wonder at the rescued Hayaathu",
+   "camera": "medium shot, eye level",
+   "image": "images/beat_019.png",
+   "reuse_of": "ep273:beat_012",
+   "transition_in": "dissolve",
+   "sensitive": "other",
+   "safe_substitution": "the rescue itself is not shown (image from ep 273)",
+   "ambience": "memory",
+   "shots": [
+    {
+     "id": "shot_035",
+     "startMs": 300827,
+     "endMs": 310777,
+     "narration_dhivehi": "ހީވަނީ ހަޔާތުގެ ފަރާތުން އޭނާ ދަމައިގަންނަ ފަދަ ބާރެއް ހުރި ހެންނެވެ. މޫދުން ހަޔާތު ސަލާމަތްކުރި ރޭ ކުރެވުނު އިޙްސާސްތައް، މި ރޭ ވެސް އޭނާގެ ހިތުގައި އާލާވާން ފެށިއެވެ.",
+     "narration_english": "It was as if some force was drawing him towards her. The feelings he had felt the night he saved Hayaathu from the sea began to grow in his heart again tonight.",
+     "crop": "medium",
+     "motion": "pan down",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      25.6,
+      0.0,
+      71.5,
+      84.7
+     ]
+    }
+   ],
+   "prompt_attempts": [],
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.351,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 61.3,
+    "y_pct": 14.6,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_020",
+   "startMs": 310777,
+   "endMs": 340988,
+   "new_image_reason": "focus moves to Fazaal: his racing heart and his feelings",
+   "characters": [
+    "young_driver"
+   ],
+   "location": "a secluded Maldivian beach at night under a full moon, white sand, dark coconut palms, gentle waves, a silver path of moonlight on the sea, a sandy track where a dark grey sedan is parked",
+   "location_key": "moon_beach",
+   "mood": "night, silver full-moon light, deep blue shadows, quiet, lonely and longing",
+   "visual": "Fazaal standing on the moonlit beach with one hand pressed to his chest, gazing ahead with wonder and longing, the sea and the full moon behind him",
+   "camera": "medium close-up, low angle",
+   "image": "images/beat_020.png",
+   "reuse_of": null,
+   "transition_in": "dissolve",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "beach_night",
+   "shots": [
+    {
+     "id": "shot_036",
+     "startMs": 310777,
+     "endMs": 321067,
+     "narration_dhivehi": "ފަޒާލަށް އުނދަގޫވާ ވަރަށް އޭނާގެ ހިތުގެ ތެޅުން އަވަސްވަމުން ދިޔައެވެ. އެ ރީތި އަންހެން ކުއްޖާގެ ގައިގައި ބީހިލަން ހިތް އެދެމުން ދިޔަ ސަބަބެއް އޭނާއަކަށް ނުވިސްނުނެވެ.",
+     "narration_english": "His heart raced until it hurt. He could not understand why his heart longed to touch that beautiful girl.",
+     "crop": "full",
+     "motion": "static drift",
+     "sfx": [
+      {
+       "name": "heartbeat",
+       "atMs": 313307,
+       "gainDb": -16,
+       "word": "ތެޅުން"
+      }
+     ],
+     "hum": true,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_037",
+     "startMs": 321067,
+     "endMs": 333438,
+     "narration_dhivehi": "ދުބާއީގައި އުޅުނުއިރު އެކި ޤައުމުތަކުގެ އެތައް ރީތި އަންހެން ކުދިންނާ އޭނާއާ ބައްދަލުވެފައި ވެއެވެ. ނަމަވެސް، ހަޔާތު ފެނުމުން މިކުރެވޭ ފަދަ އިޙްސާސެއް އެއިން އެއްވެސް ކުއްޖެއްގެ ފަރާތަކުން ނުކުރެވެއެވެ.",
+     "narration_english": "In Dubai he had met many beautiful girls from many countries. But none of them had ever made him feel what he felt on seeing Hayaathu.",
+     "crop": "tight",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      15.3,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_038",
+     "startMs": 333438,
+     "endMs": 340988,
+     "narration_dhivehi": "ހިތުގެ ފުންމިނުގައި ފޮރުވާފައިވާ ލޯބިވެރިޔާ ފިޔަވައި އެހެން އަންހެން ކުއްޖަކާ ގާތްވާން ދުވަހަކު ވެސް ބޭނުންނުވި ފަޒާލް،",
+     "narration_english": "Fazaal, who had never wanted to grow close to any girl except the beloved hidden deep in his heart,",
+     "crop": "full",
+     "motion": "pan left",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Fazaal), create a new scene: Cinematic semi-realistic digital illustration, soft natural light, warm tropical colour palette with gentle rose and blush tones like a romantic drama book cover, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject in the upper two-thirds and calm, uncluttered space at the bottom for a logo.\nScene: Fazaal standing on the moonlit beach with one hand pressed to his chest, gazing ahead with wonder and longing, the sea and the full moon behind him. Location: a secluded Maldivian beach at night under a full moon, white sand, dark coconut palms, gentle waves, a silver path of moonlight on the sea, a sandy track where a dark grey sedan is parked. Camera: medium close-up, low angle.\nCharacters: Fazaal (the young man): a tall lean Maldivian man about 25 with light-brown skin, clean-shaven, sharp cheekbones, straight dark eyebrows, intense dark eyes and short black hair swept back; wears a black polo shirt, grey chinos and a dark wristwatch.\nMood/lighting: night, silver full-moon light, deep blue shadows, quiet, lonely and longing.\nModest Maldivian clothing, culturally respectful, no violence shown, no text, no letters, no writing, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.221,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 45.0,
+    "y_pct": 33.2,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_021",
+   "startMs": 340988,
+   "endMs": 367838,
+   "new_image_reason": "action change: he comes to stand beside her; she shuts her eyes in fear",
+   "characters": [
+    "hayaathu",
+    "young_driver"
+   ],
+   "location": "a secluded Maldivian beach at night under a full moon, white sand, dark coconut palms, gentle waves, a silver path of moonlight on the sea, a sandy track where a dark grey sedan is parked",
+   "location_key": "moon_beach",
+   "mood": "night, silver full-moon light, deep blue shadows, quiet, lonely and longing",
+   "visual": "at the water's edge Fazaal stands an arm's length beside Hayaathu, looking at her tenderly; Hayaathu has her eyes squeezed shut and her face turned slightly away, tears on her cheeks, hands clasped tight",
+   "camera": "medium two-shot, eye level",
+   "image": "images/beat_021.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": "intimacy",
+   "safe_substitution": "his wish to hold her in his arms is never shown; they stand apart, not touching",
+   "ambience": "beach_night",
+   "shots": [
+    {
+     "id": "shot_039",
+     "startMs": 340988,
+     "endMs": 348658,
+     "narration_dhivehi": "މި ރޭ ހަޔާތު ގެނެސް އޭނާގެ ދެ އަތުގެ ތެރޭގައި ފޮރުވާލަން ބޭނުންވިއެވެ. ފަޒާލް މަޑުމަޑުން ގޮސް ހަޔާތާއި އަރާހަމަ ކުރިއެވެ.",
+     "narration_english": "tonight wanted to draw Hayaathu into his arms and shelter her there. Slowly Fazaal went and stood beside her.",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [
+      {
+       "name": "footsteps_sand",
+       "atMs": 346408,
+       "gainDb": -24,
+       "word": "ގޮސް"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_040",
+     "startMs": 348658,
+     "endMs": 358838,
+     "narration_dhivehi": "އެ ވަގުތު ފަޒާލުގެ މޫނު ނުބަލަން ވެގެން ހަޔާތު ވަގުތުން ދެ ލޯ މަރައި ތަގުޅިކޮށްލިއެވެ. އޭނާގެ ހިތުގައި އުފެދިފައިވާ ބިރުވެރިކަމާއި ނުތަނަވަސްކަން ފަޒާލަށް އިހުސާސް ނުވަނީ ހެއްޔެވެ؟",
+     "narration_english": "At that moment, so as not to see his face, Hayaathu squeezed her eyes shut. Couldn't Fazaal sense the fear and unease in her heart?",
+     "crop": "tight",
+     "motion": "pan right",
+     "sfx": [],
+     "hum": true,
+     "crop_rect_pct": [
+      32.5,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_041",
+     "startMs": 358838,
+     "endMs": 367838,
+     "narration_dhivehi": "އެފަދަ ހަމަހިމޭން، އެކަހެރި މާހައުލެއްގައި އެ ބިރުވެރި ސިފަ ޖެހިފައިވާ މީހާއާ އެކު އޭނާ ކެތްކޮށްލައިގެން ހުންނާނީ ފަހެ ކޮން ފަދައަކުން ހެއްޔެވެ؟",
+     "narration_english": "In such a silent, lonely place, how could she bear to be with the man with that frightening face?",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": true,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Hayaathu; reference image 2 is Fazaal), create a new scene: Cinematic semi-realistic digital illustration, soft natural light, warm tropical colour palette with gentle rose and blush tones like a romantic drama book cover, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject in the upper two-thirds and calm, uncluttered space at the bottom for a logo.\nScene: at the water's edge Fazaal stands an arm's length beside Hayaathu, looking at her tenderly; Hayaathu has her eyes squeezed shut and her face turned slightly away, tears on her cheeks, hands clasped tight. Location: a secluded Maldivian beach at night under a full moon, white sand, dark coconut palms, gentle waves, a silver path of moonlight on the sea, a sandy track where a dark grey sedan is parked. Camera: medium two-shot, eye level.\nCharacters: Hayaathu: a Maldivian young woman in her early 20s with warm light-brown skin, soft oval face, large dark expressive eyes with long lashes, thick dark arched eyebrows, soft full lips, slim build; wears a loose long-sleeved ankle-length dusty-rose dress and a soft blush-pink chiffon hijab fully covering her hair and neck. Fazaal (the young man): a tall lean Maldivian man about 25 with light-brown skin, clean-shaven, sharp cheekbones, straight dark eyebrows, intense dark eyes and short black hair swept back; wears a black polo shirt, grey chinos and a dark wristwatch.\nMood/lighting: night, silver full-moon light, deep blue shadows, quiet, lonely and longing.\nModest Maldivian clothing, culturally respectful, no violence shown, no text, no letters, no writing, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.287,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 62.2,
+    "y_pct": 24.7,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_022",
+   "startMs": 367838,
+   "endMs": 394169,
+   "new_image_reason": "emotional turning point: his promise, and he sees her tears are for Maaroof",
+   "characters": [
+    "young_driver",
+    "hayaathu"
+   ],
+   "location": "a secluded Maldivian beach at night under a full moon, white sand, dark coconut palms, gentle waves, a silver path of moonlight on the sea, a sandy track where a dark grey sedan is parked",
+   "location_key": "moon_beach",
+   "mood": "night, silver full-moon light, deep blue shadows, quiet, lonely and longing",
+   "visual": "on the moonlit shore Hayaathu stands on the left facing the sea in profile, eyes closed, tears on her cheeks, hands clasped; Fazaal stands well apart on the right, a clear arm's length of empty space between them, half-turned towards her, looking at her with sad tenderness and taking a deep breath; they do not touch",
+   "camera": "medium two-shot, eye level, the two figures separated by open space",
+   "image": "images/beat_022.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "beach_night",
+   "shots": [
+    {
+     "id": "shot_042",
+     "startMs": 367838,
+     "endMs": 374629,
+     "narration_dhivehi": "\"އަހަންނަށް ވަފާތެރިވާނެ ކަމަށް އުންމީދު ކުރަން. އަހަރެން ހަޔާތަށް އިޚްލާޞްތެރި ލޯތްބާއި ވަފާތެރިކަން ދޭނަން.\"",
+     "narration_english": "'I hope you will be faithful to me. I will give you, Hayaathu, sincere love and faithfulness.'",
+     "crop": "full",
+     "motion": "pan up",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_043",
+     "startMs": 374629,
+     "endMs": 386399,
+     "narration_dhivehi": "ހަޔާތުގެ ލޮލުން ވެއްޓެމުންދިޔަ ކަރުނަތަކަށް ބަލަހައްޓައިގެން ހުރެ ފަޒާލް ފުން ނޭވާއެއް ލިއެވެ. ސަބަބަކީ އެ ކަރުނަތަކުގެ ޙަޤީޤީ ޙައްޤުވެރިޔަކީ އޭނާ ނޫންކަން ހިތުގެ އަޑިން ޤަބޫލުކުރެވޭތީއެވެ.",
+     "narration_english": "Watching the tears falling from her eyes, Fazaal took a deep breath. Because deep in his heart he knew that he was not the true owner of those tears.",
+     "crop": "tight",
+     "motion": "slow pull-out",
+     "sfx": [
+      {
+       "name": "breath",
+       "atMs": 379289,
+       "gainDb": -20,
+       "word": "ނޭވާއެއް"
+      }
+     ],
+     "hum": true,
+     "crop_rect_pct": [
+      25.1,
+      26.7,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_044",
+     "startMs": 386399,
+     "endMs": 394169,
+     "narration_dhivehi": "އެ ކަރުނަތަކަކީ މައުރޫފަށްޓަކައި އޮހޮރޭ ކަރުނައެވެ. އެހެނަސް، އަމިއްލަ ހިތުގެ އެދުމުގެ ކުރިމަތީގައި އޭނާ ވަނީ މަޖުބޫރުވެފައެވެ.",
+     "narration_english": "Those tears were shed for Maaroof. And yet, before his own heart's desire, he was helpless.",
+     "crop": "full",
+     "motion": "pan down",
+     "sfx": [],
+     "hum": true,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Fazaal; reference image 2 is Hayaathu), create a new scene: Cinematic semi-realistic digital illustration, soft natural light, warm tropical colour palette with gentle rose and blush tones like a romantic drama book cover, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject in the upper two-thirds and calm, uncluttered space at the bottom for a logo.\nScene: on the moonlit shore Hayaathu stands on the left facing the sea in profile, eyes closed, tears on her cheeks, hands clasped; Fazaal stands well apart on the right, a clear arm's length of empty space between them, half-turned towards her, looking at her with sad tenderness and taking a deep breath; they do not touch. Location: a secluded Maldivian beach at night under a full moon, white sand, dark coconut palms, gentle waves, a silver path of moonlight on the sea, a sandy track where a dark grey sedan is parked. Camera: medium two-shot, eye level, the two figures separated by open space.\nCharacters: Fazaal (the young man): a tall lean Maldivian man about 25 with light-brown skin, clean-shaven, sharp cheekbones, straight dark eyebrows, intense dark eyes and short black hair swept back; wears a black polo shirt, grey chinos and a dark wristwatch. Hayaathu: a Maldivian young woman in her early 20s with warm light-brown skin, soft oval face, large dark expressive eyes with long lashes, thick dark arched eyebrows, soft full lips, slim build; wears a loose long-sleeved ankle-length dusty-rose dress and a soft blush-pink chiffon hijab fully covering her hair and neck.\nMood/lighting: night, silver full-moon light, deep blue shadows, quiet, lonely and longing.\nModest Maldivian clothing, culturally respectful, no violence shown, no text, no letters, no writing, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.456,
+    "halo": true
+   },
+   "focus": {
+    "x_pct": 54.8,
+    "y_pct": 61.9,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_023",
+   "startMs": 394169,
+   "endMs": 410310,
+   "new_image_reason": "closing image: the two of them apart under the full moon",
+   "characters": [
+    "young_driver",
+    "hayaathu"
+   ],
+   "location": "a secluded Maldivian beach at night under a full moon, white sand, dark coconut palms, gentle waves, a silver path of moonlight on the sea, a sandy track where a dark grey sedan is parked",
+   "location_key": "moon_beach",
+   "mood": "night, silver full-moon light, deep blue shadows, quiet, lonely and longing",
+   "visual": "wide shot from behind: two small figures, a young man and a young woman in a rose dress and pink hijab, standing apart at the edge of a silver moonlit sea under a huge full moon, palms framing the sides",
+   "camera": "wide shot from behind",
+   "image": "images/beat_023.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "beach_night",
+   "shots": [
+    {
+     "id": "shot_045",
+     "startMs": 394169,
+     "endMs": 401979,
+     "narration_dhivehi": "އޭނާގެ ހިތުގައި ލޯބީގެ ވިންދު ޖަހަން ފެށީ ހަޔާތުގެ ސަބަބުންނެވެ. ވީއިރު، އެ ލޯތްބާ ދުރަށް އޭނާ ދާނީ ފަހެ ކިހިނެއް ހެއްޔެވެ؟",
+     "narration_english": "It was because of Hayaathu that his heart had first begun to beat with love. Then how could he walk away from that love?",
+     "crop": "full",
+     "motion": "static drift",
+     "sfx": [],
+     "hum": true,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_046",
+     "startMs": 401979,
+     "endMs": 410310,
+     "narration_dhivehi": "މިއަދު ހަޔާތަކީ އޭނާގެ މުސްތަޤްބަލުގެ އަނބިމީހާއެވެ. އެހެން މީހެއްގެ މިލްކަކަށް ވުމަށް އޭނާ ދޫކޮށްލާނީ ފަހެ ކޮން ހިތަކުން ހެއްޔެވެ؟",
+     "narration_english": "Today Hayaathu was his future wife. How could his heart ever let her go to become someone else's?",
+     "crop": "tight",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": true,
+     "crop_rect_pct": [
+      24.0,
+      0.0,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Fazaal; reference image 2 is Hayaathu), create a new scene: Cinematic semi-realistic digital illustration, soft natural light, warm tropical colour palette with gentle rose and blush tones like a romantic drama book cover, gentle film grain, shallow depth of field, emotional storytelling composition, vertical 9:16 framing with the main subject in the upper two-thirds and calm, uncluttered space at the bottom for a logo.\nScene: wide shot from behind: two small figures, a young man and a young woman in a rose dress and pink hijab, standing apart at the edge of a silver moonlit sea under a huge full moon, palms framing the sides. Location: a secluded Maldivian beach at night under a full moon, white sand, dark coconut palms, gentle waves, a silver path of moonlight on the sea, a sandy track where a dark grey sedan is parked. Camera: wide shot from behind.\nCharacters: Fazaal (the young man): a tall lean Maldivian man about 25 with light-brown skin, clean-shaven, sharp cheekbones, straight dark eyebrows, intense dark eyes and short black hair swept back; wears a black polo shirt, grey chinos and a dark wristwatch. Hayaathu: a Maldivian young woman in her early 20s with warm light-brown skin, soft oval face, large dark expressive eyes with long lashes, thick dark arched eyebrows, soft full lips, slim build; wears a loose long-sleeved ankle-length dusty-rose dress and a soft blush-pink chiffon hijab fully covering her hair and neck.\nMood/lighting: night, silver full-moon light, deep blue shadows, quiet, lonely and longing.\nModest Maldivian clothing, culturally respectful, no violence shown, no text, no letters, no writing, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.479,
+    "halo": true
+   },
+   "focus": {
+    "x_pct": 53.7,
+    "y_pct": 18.2,
+    "face_detected": true
+   }
+  }
+ ]
+}

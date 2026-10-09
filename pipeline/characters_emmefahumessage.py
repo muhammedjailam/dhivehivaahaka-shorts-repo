@@ -1,0 +1,93 @@
+"""Series character cards for Emme Fahu Message ("The Last Message"; a quiet grief drama: after five years of failed
+fertility treatment Amaan pushes her husband Eethan away in a fight, he drives off into the monsoon rain and dies in an
+accident, leaving one voice message she cannot bring herself to hear — until she finds out she is pregnant).
+Creates card.json only for characters that don't exist yet.
+Usage: python characters_emmefahumessage.py <series_dir> <first_episode>
+"""
+import json, os, sys
+
+MV = "Maldivian, South Asian features, warm brown skin"
+CARDS = [
+    dict(id="amaan", name="Amaan", name_dhivehi="އަމާން",
+         role="protagonist; the wife (32), married to Eethan for nine years, worn down by five years of fertility treatment",
+         gender="female", age="32",
+         ethnicity_look=MV,
+         face="soft oval face, large expressive dark eyes with faint tired shadows beneath, gentle arched eyebrows, small straight nose, full lips",
+         hair="fully covered by a dusty-rose hijab",
+         build="slim, average height",
+         default_outfit="a loose long-sleeved ankle-length plain cream-oatmeal dress and a soft dusty-rose hijab wrapped snugly and fully covering her hair and neck; a thin silver wedding ring",
+         distinguishing_features="dusty-rose hijab, cream dress, thin silver wedding ring she turns when anxious",
+         personality_cues="warm and teasing at heart, but tired, guarded, quick to blame herself",
+         visual_prompt="Amaan: a slim Maldivian woman of 32 with warm brown skin, a soft oval face, large expressive dark eyes with faint tired shadows beneath, gentle arched eyebrows and full lips; wears a loose long-sleeved ankle-length plain cream-oatmeal dress and a soft dusty-rose hijab wrapped snugly and fully covering her hair and neck, a thin silver wedding ring."),
+    dict(id="eethan", name="Eethan", name_dhivehi="އީތަން",
+         role="Amaan's husband (about 34); warm, playful, endlessly patient; burns the pancakes every morning",
+         gender="male", age="about 34",
+         ethnicity_look=MV,
+         face="friendly open face, warm crinkly dark eyes, a broad easy smile, a short neatly trimmed black beard",
+         hair="short neat black hair, slightly tousled",
+         build="tall, solid, broad-shouldered",
+         default_outfit="a faded navy-blue crew-neck t-shirt with a plain blank chest and grey jogger trousers; a thin silver wedding ring",
+         distinguishing_features="short trimmed beard, easy smile, faded navy t-shirt",
+         personality_cues="gentle humour, steady calm, quietly hurting",
+         visual_prompt="Eethan: a tall broad-shouldered Maldivian man of about 34 with warm brown skin, a friendly open face, warm crinkly dark eyes, a broad easy smile, short neat slightly tousled black hair and a short neatly trimmed black beard; wears a faded navy-blue crew-neck t-shirt with a plain blank chest and grey jogger trousers, a thin silver wedding ring."),
+    dict(id="luha", name="Luha", name_dhivehi="ލުހާ",
+         role="Amaan's elder full sister (about 38); gentle and practical, stays with her after Eethan's death",
+         gender="female", age="about 38",
+         ethnicity_look=MV,
+         face="round kind face, soft dark eyes, a calm motherly expression",
+         hair="fully covered by a black hijab",
+         build="medium height, slightly fuller figure",
+         default_outfit="a loose long-sleeved ankle-length deep-teal dress and a plain black hijab fully covering her hair and neck",
+         distinguishing_features="deep-teal dress, black hijab",
+         personality_cues="caring, steady, gently insistent",
+         visual_prompt="Luha: a Maldivian woman of about 38 with warm brown skin, a round kind face, soft dark eyes and a calm motherly expression, medium height with a slightly fuller figure; wears a loose long-sleeved ankle-length deep-teal dress and a plain black hijab fully covering her hair and neck."),
+    dict(id="dr_mathews", name="Dr. Mathews", name_dhivehi="ޑރ. މެތިއުސް",
+         role="the couple's fertility specialist for five years (about 55)",
+         gender="male", age="about 55",
+         ethnicity_look="South Asian (Indian) features, brown skin",
+         face="kind tired face, gentle eyes behind rimless glasses, a short neat grey beard",
+         hair="short grey hair",
+         build="medium height, slightly stocky",
+         default_outfit="a white doctor's coat over a long-sleeved light-blue shirt and dark trousers",
+         distinguishing_features="rimless glasses, grey beard, white coat",
+         personality_cues="compassionate, measured, sad smile",
+         visual_prompt="Dr. Mathews: a slightly stocky South Asian man of about 55 with brown skin, a kind tired face, gentle eyes behind rimless glasses, short grey hair and a short neat grey beard; wears a white doctor's coat over a long-sleeved light-blue shirt and dark trousers."),
+    dict(id="officer_raain", name="Officer Raain", name_dhivehi="ރާއިން",
+         role="senior police officer (about 50) who brings the news of the accident",
+         gender="male", age="about 50",
+         ethnicity_look=MV,
+         face="weathered square face, weary kind dark eyes, a greying moustache",
+         hair="short black hair greying at the temples",
+         build="sturdy, medium height",
+         default_outfit="a dark-navy police uniform shirt with long sleeves and dark trousers, a dark-navy peaked cap, plain shoulder epaulettes, no readable badges or text, rain droplets on his shoulders",
+         distinguishing_features="greying moustache, peaked cap (takes it off before speaking)",
+         personality_cues="grave, gentle, compassionate",
+         visual_prompt="Officer Raain: a sturdy Maldivian police officer of about 50 with warm brown skin, a weathered square face, weary kind dark eyes, a greying moustache and short black hair greying at the temples; wears a dark-navy long-sleeved police uniform shirt with plain epaulettes, dark trousers and a dark-navy peaked cap, no readable badges or text."),
+    dict(id="officer_young", name="Young officer", name_dhivehi="",
+         role="the younger police officer (about 25) with Officer Raain",
+         gender="male", age="about 25",
+         ethnicity_look=MV,
+         face="young clean-shaven narrow face, troubled dark eyes",
+         hair="very short black hair",
+         build="slim, tall",
+         default_outfit="the same dark-navy long-sleeved police uniform shirt with plain epaulettes, dark trousers and a dark-navy peaked cap, no readable badges or text",
+         distinguishing_features="young, clean-shaven, looks down",
+         personality_cues="uneasy, sorrowful",
+         visual_prompt="the young officer: a slim tall Maldivian police officer of about 25 with warm brown skin, a young clean-shaven narrow face, troubled dark eyes and very short black hair; wears a dark-navy long-sleeved police uniform shirt with plain epaulettes, dark trousers and a dark-navy peaked cap, no readable badges or text."),
+]
+
+FIRST = dict(amaan=326, eethan=326, dr_mathews=326, luha=328, officer_raain=328, officer_young=328)
+
+if __name__ == "__main__":
+    series_dir, episode = sys.argv[1], int(sys.argv[2])
+    for c in CARDS:
+        d = os.path.join(series_dir, "characters", c["id"])
+        p = os.path.join(d, "card.json")
+        if os.path.exists(p):
+            continue
+        os.makedirs(d, exist_ok=True)
+        card = dict(c)
+        card["first_seen_episode"] = FIRST.get(c["id"], episode)
+        card["reference_from_cover"] = bool(c.get("reference_from_cover"))
+        json.dump(card, open(p, "w", encoding="utf-8"), ensure_ascii=False, indent=2)
+        print("new", c["id"])

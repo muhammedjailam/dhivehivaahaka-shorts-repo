@@ -1,0 +1,17 @@
+- [Hayaath video pipeline](hayaath-video-pipeline.md) — beat pipeline scripts, red-pill captions, young_driver = Fazaal, Dhooma wheelchair gotcha
+- [Tedhuveriloabi video pipeline](tedhuveriloabi-video-pipeline.md) — series bible/brief, plum captions, parallel agents + sequential render queue
+- [Taubaa video pipeline](taubaa-video-pipeline.md) — anthology repentance series, per-episode casts, Saudi settings, Arabic-verse caption fallback
+- [Milahanduvaru video pipeline](milahanduvaru-video-pipeline.md) — eps 252–261 jinn-wife series, blue captions, island ambiences, subagent .md write gotcha
+- [Sector 7 video pipeline](sector7-video-pipeline.md) — eps 365–454 bunker sci-fi, no-weapons rule, amber captions, bunker ambience keys
+- [Noorin video pipeline](noorin-video-pipeline.md) — eps 495–503 police drama, two-timeline card pairs, red captions, refs-collage gotcha
+- [Isq video pipeline](isq-video-pipeline.md) — eps 341–484 island romance, married-hero rules, gold captions, text-only refs
+- [Marufas video pipeline](marufas-video-pipeline.md) — eps 430–570 horror arc, possessed-minor substitution rules, crimson captions, horror sound keys
+- [Project Phenix video pipeline](phenix-video-pipeline.md) — eps 311–324 police thriller, no-weapons rule, ember captions, all 7 uploaded to site
+- [Mamma video pipeline](mamma-video-pipeline.md) — eps 308–463 abuse family drama, age-split Shahula cards, amber captions
+- [Bappage Gatulu video pipeline](bappagegatulu-video-pipeline.md) — eps 520–536 revenge thriller, child-witness murder rules, red captions, hacker ambiences
+- [Emme Fahu Message video pipeline](emmefahumessage-video-pipeline.md) — eps 326–329 grief drama, accident never shown, vermilion captions, rainy-apartment sound keys, Bash lacks python
+- [Shorts site upload](shorts-site-upload.md) — upload_shorts.py, env.txt creds, folder N = episode id, 500 MB cap
+- [Nindheveethimeymathee video pipeline](nindheveethimeymathee-video-pipeline.md) — eps 269–552 three-timeline romance, age-split cards, blue captions, reader→planner agents
+- [16 February video pipeline](16february-video-pipeline.md) — eps 246–356 island murder mystery, silhouette stranger, ember captions, cover-crop male refs
+- [Suratul Faatihaa video pipeline](suratulfaatihaa-video-pipeline.md) — eps 422–427 tafsir book, symbolic visuals, never-depict sacred figures, emerald captions, uploaded after manual review
+- [Sahar video pipeline](sahar-video-pipeline.md) — eps 359–574 Palestine 1948 war drama, massacre never shown, Palestinian cards, coral captions

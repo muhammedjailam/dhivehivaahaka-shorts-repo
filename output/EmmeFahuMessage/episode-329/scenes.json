@@ -1,0 +1,3168 @@
+{
+ "series": "EmmeFahuMessage",
+ "episode": 329,
+ "beats": [
+  {
+   "id": "beat_001",
+   "startMs": 0,
+   "endMs": 26520,
+   "new_image_reason": "episode opening: Amaan wakes to the rain after midnight, his empty side of the bed",
+   "characters": [
+    "amaan"
+   ],
+   "location": "a small modest bedroom in a third-floor Hulhumalé apartment at night, a plain wooden headboard, white pillows, a small bedside table with a dim amber lamp, a window with rain streaming down the glass",
+   "location_key": "bedroom_night",
+   "mood": "rainy night after midnight, a single dim amber lamp against cold grey-blue rain light from the window, heavy silent grief, intimate and still",
+   "visual": "Amaan sitting upright against the wooden headboard with a soft blanket over her legs (never lying down) in the dim bedroom, staring up at the ceiling with red, swollen, sleepless eyes, one hand resting on the slightly dented white pillow on the empty side beside her; her phone lies face down on the bedside table; rain streams down the window; one single unified scene with only the people named here; no inset vignettes, no thought-bubble images, no ghostly overlay faces or figures on the walls, in the glow or in the sky, no second copy of any person. Amaan wears her loose long-sleeved ankle-length cream dress with a loose long grey cardigan over it and her dusty-rose hijab wrapped snugly, fully covering her hair and neck",
+   "camera": "medium shot from the foot of the mattress, her face in the upper third, the smooth blanket as a calm lower third",
+   "image": "images/beat_001.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": "other",
+   "safe_substitution": "'lay staring at the ceiling' shown as sitting up against the headboard; hijab kept on at night",
+   "ambience": "apartment_rain_night",
+   "shots": [
+    {
+     "id": "shot_001",
+     "startMs": 0,
+     "endMs": 9890,
+     "narration_dhivehi": "ދަންވަރު ބާރަޖެހި ފަހުން ފެށިގެން ވާރޭ ވެހެމުންދިޔައެވެ. އަމާންއަށް ހޭލެވުނީ އެ ވާރޭގެ އަޑަށެވެ. އެވަގުތު މޭގައި އުފެދިފައިވާ ހިތާމަވެރިކަން އިޙްސާސްވަމުން ދިޔައިރު،",
+     "narration_english": "From past midnight the rain kept falling. Amaan woke to the sound of that rain. As she felt the grief that had formed in her chest,",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_002",
+     "startMs": 9890,
+     "endMs": 16660,
+     "narration_dhivehi": "ހަރަކާތެއްވެސް ކޮށްނުލައި ސީލިންގަށް ބަލަހައްޓައިގެން އޮތެވެ. އޭނާ އެނދުގެ އީތަން ނިދާ ފަރާތަށް އެނބުރިލިއެވެ.",
+     "narration_english": "she stayed staring at the ceiling without moving. She turned towards Eethan's side of the bed.",
+     "crop": "tight",
+     "motion": "pan left",
+     "sfx": [
+      {
+       "name": "cloth_rustle",
+       "atMs": 15920,
+       "gainDb": -24,
+       "word": "އެނބުރިލިއެވެ."
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      12.2,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_003",
+     "startMs": 16660,
+     "endMs": 26520,
+     "narration_dhivehi": "އެތަނުގައިވާ އޭނާގެ ބާލީސް އަދިވެސް އިނީ ކުޑަކޮށް ފިއްތިފައެވެ. އަމާން އޭގައި ބައްދައިލި ވަރުންނެވެ. އަމާންގެ ނަޒަރު ކުއްލިއަކަށް ހުއްޓުނީ އޭނާގެ ފޯނާ ދިމާއަށެވެ.",
+     "narration_english": "His pillow there was still a little dented — from the way Amaan had hugged it. Suddenly Amaan's gaze stopped on her phone.",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Amaan), create a new scene: Cinematic semi-realistic digital illustration with a quiet, tender, melancholic drama look: soft rainy grey-blue monsoon daylight from the windows contrasted with warm amber indoor lamp light, small vermilion-red accents, gentle film grain, shallow depth of field, intimate emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, table top, counter, wet pavement, soft shadow) for captions and a logo; rain streaks on window glass and wet reflective streets outside, while memories have a soft hazy golden dreamlike glow.\nScene: Amaan sitting upright against the wooden headboard with a soft blanket over her legs (never lying down) in the dim bedroom, staring up at the ceiling with red, swollen, sleepless eyes, one hand resting on the slightly dented white pillow on the empty side beside her; her phone lies face down on the bedside table; rain streams down the window; one single unified scene with only the people named here; no inset vignettes, no thought-bubble images, no ghostly overlay faces or figures on the walls, in the glow or in the sky, no second copy of any person. Amaan wears her loose long-sleeved ankle-length cream dress with a loose long grey cardigan over it and her dusty-rose hijab wrapped snugly, fully covering her hair and neck. Location: a small modest bedroom in a third-floor Hulhumalé apartment at night, a plain wooden headboard, white pillows, a small bedside table with a dim amber lamp, a window with rain streaming down the glass. Camera: medium shot from the foot of the mattress, her face in the upper third, the smooth blanket as a calm lower third.\nCharacters: Amaan: a slim Maldivian woman of 32 with warm brown skin, a soft oval face, large expressive dark eyes with faint tired shadows beneath, gentle arched eyebrows and full lips; wears a loose long-sleeved ankle-length plain cream-oatmeal dress and a soft dusty-rose hijab wrapped snugly and fully covering her hair and neck, a thin silver wedding ring.\nMood/lighting: rainy night after midnight, a single dim amber lamp against cold grey-blue rain light from the window, heavy silent grief, intimate and still.\nModest Maldivian clothing (every woman in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck, also at home; men fully clothed in shirts or t-shirts and long trousers, never shirtless), no kissing, no embracing between a man and a woman, culturally respectful, no violence shown, no car crash, no injuries, no blood, no person lying down, no needles, no alcohol, no smoking, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.343,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 41.9,
+    "y_pct": 27.4,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_002",
+   "startMs": 26520,
+   "endMs": 53600,
+   "new_image_reason": "action change: she picks up the phone and decides to listen just once",
+   "characters": [
+    "amaan"
+   ],
+   "location": "a small modest bedroom in a third-floor Hulhumalé apartment at night, a plain wooden headboard, white pillows, a small bedside table with a dim amber lamp, a window with rain streaming down the glass",
+   "location_key": "bedroom_night",
+   "mood": "rainy night after midnight, a single dim amber lamp against cold grey-blue rain light from the window, heavy silent grief, intimate and still",
+   "visual": "close-up of Amaan sitting upright against the wooden headboard with a soft blanket over her legs (never lying down), holding her phone in both hands close to her chest, looking down at its soft glow with trembling resolve, her thumb hovering over the screen, the glow lighting her tear-stained face; the phone screen shows only a soft blank glow, no text, no numbers. Amaan wears her loose long-sleeved ankle-length cream dress with a loose long grey cardigan over it and her dusty-rose hijab wrapped snugly, fully covering her hair and neck",
+   "camera": "medium close-up, slightly high angle, her face in the upper half, her hands and the phone below",
+   "image": "images/beat_002.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "apartment_rain_night",
+   "shots": [
+    {
+     "id": "shot_004",
+     "startMs": 26520,
+     "endMs": 35120,
+     "narration_dhivehi": "އީތަން ވަކިވެގެން ދިޔަފަހުން ފުރަތަމަ ފަހަރަށް ފޯނު ފެނުމުން ތަފާތު އިހުސާސެއް ކުރެވުނެވެ. ފޯނުގައިވާ މެސެޖު އަޑުއަހަން އަމާން ބޭނުންވިއެވެ.",
+     "narration_english": "For the first time since Eethan left, seeing the phone felt different. Amaan wanted to listen to the message on it.",
+     "crop": "full",
+     "motion": "pan right",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_005",
+     "startMs": 35120,
+     "endMs": 44430,
+     "narration_dhivehi": "އޭނާގެ ހިއްސުތައް އެކަމަށް އެހީތެރިވަމުންދާތީ އަމާން އެންމެ އިރުކޮޅެއްވެސް ލަސްކުރާކަށް ބޭނުމެއް ނުވިއެވެ. އަދި ވަގުތުން ފޯނުނެގިއެވެ. \"އެންމެ ފަހަރަކު.",
+     "narration_english": "Her feelings were pushing her towards it, so Amaan did not want to delay even a moment. She picked up the phone at once. \"Just once.",
+     "crop": "tight",
+     "motion": "slow push-in",
+     "sfx": [
+      {
+       "name": "cloth_rustle",
+       "atMs": 42280,
+       "gainDb": -24,
+       "word": "ފޯނުނެގިއެވެ."
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      16.6,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_006",
+     "startMs": 44430,
+     "endMs": 53600,
+     "narration_dhivehi": "ހަމައެކަނި އެންމެ ފަހަރަކު އަޑުއަހާނީ.\" އޭނާ ސިއްރުސިއްރުން ބުނެލިއެވެ. އެއަށް ފަހު އަމާން އެ މެސެޖު ޕްލޭކޮށްލިއެވެ. ހިނދުކޮޅަކަށް،",
+     "narration_english": "Only once, I'll listen just once,\" she whispered. Then Amaan played the message. For a moment,",
+     "crop": "full",
+     "motion": "pan up",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Amaan), create a new scene: Cinematic semi-realistic digital illustration with a quiet, tender, melancholic drama look: soft rainy grey-blue monsoon daylight from the windows contrasted with warm amber indoor lamp light, small vermilion-red accents, gentle film grain, shallow depth of field, intimate emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, table top, counter, wet pavement, soft shadow) for captions and a logo; rain streaks on window glass and wet reflective streets outside, while memories have a soft hazy golden dreamlike glow.\nScene: close-up of Amaan sitting upright against the wooden headboard with a soft blanket over her legs (never lying down), holding her phone in both hands close to her chest, looking down at its soft glow with trembling resolve, her thumb hovering over the screen, the glow lighting her tear-stained face; the phone screen shows only a soft blank glow, no text, no numbers. Amaan wears her loose long-sleeved ankle-length cream dress with a loose long grey cardigan over it and her dusty-rose hijab wrapped snugly, fully covering her hair and neck. Location: a small modest bedroom in a third-floor Hulhumalé apartment at night, a plain wooden headboard, white pillows, a small bedside table with a dim amber lamp, a window with rain streaming down the glass. Camera: medium close-up, slightly high angle, her face in the upper half, her hands and the phone below.\nCharacters: Amaan: a slim Maldivian woman of 32 with warm brown skin, a soft oval face, large expressive dark eyes with faint tired shadows beneath, gentle arched eyebrows and full lips; wears a loose long-sleeved ankle-length plain cream-oatmeal dress and a soft dusty-rose hijab wrapped snugly and fully covering her hair and neck, a thin silver wedding ring.\nMood/lighting: rainy night after midnight, a single dim amber lamp against cold grey-blue rain light from the window, heavy silent grief, intimate and still.\nModest Maldivian clothing (every woman in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck, also at home; men fully clothed in shirts or t-shirts and long trousers, never shirtless), no kissing, no embracing between a man and a woman, culturally respectful, no violence shown, no car crash, no injuries, no blood, no person lying down, no needles, no alcohol, no smoking, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.18,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 46.3,
+    "y_pct": 33.7,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_003",
+   "startMs": 53600,
+   "endMs": 71150,
+   "new_image_reason": "imagined scene: the voice message begins — Eethan alone in his parked car in the rain",
+   "characters": [
+    "eethan"
+   ],
+   "location": "the inside of a small ordinary hatchback car parked at the kerb of a quiet empty rain-washed Hulhumalé street at night, rain running down the windscreen, wipers at rest, blurred amber streetlights and their reflections on the wet road, the soft blue-green glow of the dashboard",
+   "location_key": "car",
+   "mood": "rainy night, an imagined scene seen in a soft dissolve: deep blue darkness, the gentle dashboard glow on his face, warm blurred streetlight bokeh through the rain on the glass, calm, quiet and safe, no danger",
+   "visual": "Eethan sitting calmly alone in the driver's seat of his parked car at night, seen from the passenger side, holding his phone loosely near his mouth as he records a voice message, his face tired and gentle, a deep breath, both of them still and safe; rain runs down the windscreen, blurred amber streetlights outside; the phone screen shows only a soft blank glow, no text, no numbers. Eethan wears a dark-olive zip-up rain jacket over the navy t-shirt and dark jeans",
+   "camera": "medium wide from the passenger seat, his face in the upper half, the dark dashboard and seat as a calm lower third",
+   "image": "images/beat_003.png",
+   "reuse_of": null,
+   "transition_in": "dissolve",
+   "sensitive": "other",
+   "safe_substitution": "the voice message is imagined as Eethan calm in his PARKED car in the rain — no driving danger, no crash",
+   "ambience": "car_rain",
+   "shots": [
+    {
+     "id": "shot_007",
+     "startMs": 53600,
+     "endMs": 63250,
+     "narration_dhivehi": "ހަމައެކަނި އިވުނީ މަޑުމަޑުން ކާރު ދުއްވާ އަޑެވެ. އެއަށްފަހު އޭނާއަށް ވަރަށް ރަނގަޅަށް އެނގޭ، ހިތަށް ތަދުކުރުވި ފުން ނޭވާއެއްގެ އަޑު އިވުނެވެ. \"ހައި ލަވް..\"",
+     "narration_english": "all she heard was the soft sound of a car driving. Then she heard a deep breath she knew so well, one that hurt her heart. \"Hi love..\"",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [
+      {
+       "name": "breath_heavy",
+       "atMs": 60840,
+       "gainDb": -20,
+       "word": "ނޭވާއެއްގެ"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_008",
+     "startMs": 63250,
+     "endMs": 71150,
+     "narration_dhivehi": "އަމާންގެ ނޭވާ އެތެރެއަށް ހިފެހެއްޓުނެވެ. އެއީ ހަމަ އީތަންއެވެ. \"އެނގޭ އަދިވެސް ހުންނާނީ އަހަރެން ދެކެ ރުޅިއައިސްކަން.\"",
+     "narration_english": "Amaan's breath caught in her chest. It really was Eethan. \"I know you're still angry with me.\"",
+     "crop": "tight",
+     "motion": "pan down",
+     "sfx": [
+      {
+       "name": "gasp",
+       "atMs": 65040,
+       "gainDb": -22,
+       "word": "ހިފެހެއްޓުނެވެ."
+      }
+     ],
+     "hum": true,
+     "crop_rect_pct": [
+      20.3,
+      4.8,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Eethan), create a new scene: Cinematic semi-realistic digital illustration with a quiet, tender, melancholic drama look: soft rainy grey-blue monsoon daylight from the windows contrasted with warm amber indoor lamp light, small vermilion-red accents, gentle film grain, shallow depth of field, intimate emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, table top, counter, wet pavement, soft shadow) for captions and a logo; rain streaks on window glass and wet reflective streets outside, while memories have a soft hazy golden dreamlike glow.\nScene: Eethan sitting calmly alone in the driver's seat of his parked car at night, seen from the passenger side, holding his phone loosely near his mouth as he records a voice message, his face tired and gentle, a deep breath, both of them still and safe; rain runs down the windscreen, blurred amber streetlights outside; the phone screen shows only a soft blank glow, no text, no numbers. Eethan wears a dark-olive zip-up rain jacket over the navy t-shirt and dark jeans. Location: the inside of a small ordinary hatchback car parked at the kerb of a quiet empty rain-washed Hulhumalé street at night, rain running down the windscreen, wipers at rest, blurred amber streetlights and their reflections on the wet road, the soft blue-green glow of the dashboard. Camera: medium wide from the passenger seat, his face in the upper half, the dark dashboard and seat as a calm lower third.\nCharacters: Eethan: a tall broad-shouldered Maldivian man of about 34 with warm brown skin, a friendly open face, warm crinkly dark eyes, a broad easy smile, short neat slightly tousled black hair and a short neatly trimmed black beard; wears a faded navy-blue crew-neck t-shirt with a plain blank chest and grey jogger trousers, a thin silver wedding ring.\nMood/lighting: rainy night, an imagined scene seen in a soft dissolve: deep blue darkness, the gentle dashboard glow on his face, warm blurred streetlight bokeh through the rain on the glass, calm, quiet and safe, no danger.\nModest Maldivian clothing (every woman in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck, also at home; men fully clothed in shirts or t-shirts and long trousers, never shirtless), no kissing, no embracing between a man and a woman, culturally respectful, no violence shown, no car crash, no injuries, no blood, no person lying down, no needles, no alcohol, no smoking, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.125,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 50.0,
+    "y_pct": 40.0,
+    "face_detected": false
+   }
+  },
+  {
+   "id": "beat_004",
+   "startMs": 71150,
+   "endMs": 88321,
+   "new_image_reason": "focus change: back to Amaan listening with her eyes closed",
+   "characters": [
+    "amaan"
+   ],
+   "location": "a small modest bedroom in a third-floor Hulhumalé apartment at night, a plain wooden headboard, white pillows, a small bedside table with a dim amber lamp, a window with rain streaming down the glass",
+   "location_key": "bedroom_night",
+   "mood": "rainy night after midnight, a single dim amber lamp against cold grey-blue rain light from the window, heavy silent grief, intimate and still",
+   "visual": "Amaan sitting upright against the wooden headboard with a soft blanket over her legs (never lying down), the phone held against her ear with one hand, her eyes closed, her other hand pressed to her lips, holding her breath as she hears his voice; the amber lamp beside her, rain on the window. Amaan wears her loose long-sleeved ankle-length cream dress with a loose long grey cardigan over it and her dusty-rose hijab wrapped snugly, fully covering her hair and neck",
+   "camera": "close-up, eye level, her face in the upper half, the folded blanket below",
+   "image": "images/beat_004.png",
+   "reuse_of": null,
+   "transition_in": "dissolve",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "apartment_rain_night",
+   "shots": [
+    {
+     "id": "shot_009",
+     "startMs": 71150,
+     "endMs": 81460,
+     "narration_dhivehi": "އީތަން މަޑުމައިތިރިކަމާއެކު ކުރިއަށް ގެންދިޔައެވެ. \"ވަރަށް ބޮޑަށް ސޮރީ މަޑުނުކޮށް ގެއިން ނިކުމެވުނީމަ. ދެމީހުންގެ ރުޅި މަޑުވަންދެން އަހަރެން މަޑުކުރަން ވާނެދޯ އަސްލު.",
+     "narration_english": "Eethan went on calmly. \"I'm so sorry I walked out without waiting. I really should have waited until we'd both calmed down.",
+     "crop": "full",
+     "motion": "static drift",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_010",
+     "startMs": 81460,
+     "endMs": 88321,
+     "narration_dhivehi": "ކަންކަން މާ ގޯސްނުކޮށް ބުނާނެ އެއްޗެއް ނޭނގުނީ.\" އަމާން ދެލޯ މަރައިލިއެވެ. އީތަން ކާރުގެ ތެރޭގައި އިނދެ،",
+     "narration_english": "I just didn't know what to say without making things worse.\" Amaan closed her eyes. Eethan sitting in the car,",
+     "crop": "tight",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      20.8,
+      0.0,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Amaan), create a new scene: Cinematic semi-realistic digital illustration with a quiet, tender, melancholic drama look: soft rainy grey-blue monsoon daylight from the windows contrasted with warm amber indoor lamp light, small vermilion-red accents, gentle film grain, shallow depth of field, intimate emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, table top, counter, wet pavement, soft shadow) for captions and a logo; rain streaks on window glass and wet reflective streets outside, while memories have a soft hazy golden dreamlike glow.\nScene: Amaan sitting upright against the wooden headboard with a soft blanket over her legs (never lying down), the phone held against her ear with one hand, her eyes closed, her other hand pressed to her lips, holding her breath as she hears his voice; the amber lamp beside her, rain on the window. Amaan wears her loose long-sleeved ankle-length cream dress with a loose long grey cardigan over it and her dusty-rose hijab wrapped snugly, fully covering her hair and neck. Location: a small modest bedroom in a third-floor Hulhumalé apartment at night, a plain wooden headboard, white pillows, a small bedside table with a dim amber lamp, a window with rain streaming down the glass. Camera: close-up, eye level, her face in the upper half, the folded blanket below.\nCharacters: Amaan: a slim Maldivian woman of 32 with warm brown skin, a soft oval face, large expressive dark eyes with faint tired shadows beneath, gentle arched eyebrows and full lips; wears a loose long-sleeved ankle-length plain cream-oatmeal dress and a soft dusty-rose hijab wrapped snugly and fully covering her hair and neck, a thin silver wedding ring.\nMood/lighting: rainy night after midnight, a single dim amber lamp against cold grey-blue rain light from the window, heavy silent grief, intimate and still.\nModest Maldivian clothing (every woman in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck, also at home; men fully clothed in shirts or t-shirts and long trousers, never shirtless), no kissing, no embracing between a man and a woman, culturally respectful, no violence shown, no car crash, no injuries, no blood, no person lying down, no needles, no alcohol, no smoking, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.285,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 50.5,
+    "y_pct": 33.1,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_005",
+   "startMs": 88321,
+   "endMs": 116451,
+   "new_image_reason": "imagined scene: Eethan in the car searching for the right words",
+   "characters": [
+    "eethan"
+   ],
+   "location": "the inside of a small ordinary hatchback car parked at the kerb of a quiet empty rain-washed Hulhumalé street at night, rain running down the windscreen, wipers at rest, blurred amber streetlights and their reflections on the wet road, the soft blue-green glow of the dashboard",
+   "location_key": "car",
+   "mood": "rainy night, an imagined scene seen in a soft dissolve: deep blue darkness, the gentle dashboard glow on his face, warm blurred streetlight bokeh through the rain on the glass, calm, quiet and safe, no danger",
+   "visual": "close side profile of Eethan in the driver's seat of the parked car at night, looking down thoughtfully, searching for the right words, the phone held near his mouth, his free hand resting calmly on the steering wheel, a thin silver wedding ring; the side window behind him streaked with rain and soft amber bokeh; the phone screen shows only a soft blank glow, no text, no numbers. Eethan wears a dark-olive zip-up rain jacket over the navy t-shirt and dark jeans",
+   "camera": "close-up profile, his face in the upper half, the dark door panel below",
+   "image": "images/beat_005.png",
+   "reuse_of": null,
+   "transition_in": "dissolve",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "car_rain",
+   "shots": [
+    {
+     "id": "shot_011",
+     "startMs": 88321,
+     "endMs": 97791,
+     "narration_dhivehi": "ބުނާނެ ރަނގަޅު ބަސްތަކެއް ހޯދަން އުޅޭނެ ގޮތް އޭނާގެ ހިޔާލަށް އައެވެ. \"އަނެއްކާވެސް ގުޅަން އުޅެފަވެސް ހީވީ އަމާންއަށް ކުޑަ ވަގުތުކޮޅެއް ބޭނުންވާނެހެން.",
+     "narration_english": "she could picture him searching for the right words. \"I thought of calling again, but I felt you'd need a little time.",
+     "crop": "full",
+     "motion": "pan left",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_012",
+     "startMs": 97791,
+     "endMs": 106711,
+     "narration_dhivehi": "އެކަމަކު ގެއަށް އައުމުގެ ކުރިން އެއްޗެއް ބުނެލަން ބޭނުންވީ. އަމާންއަކީ އުއްމީދު ގެއްލިފައިވާ މީހެއް ނޫން. އަމާންއަކީ ނާކާމިޔާބު މީހެއްވެސް ނޫން.",
+     "narration_english": "But I wanted to say something before I come home. You are not someone without hope. And you are not a failure.",
+     "crop": "tight",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      20.3,
+      4.8,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_013",
+     "startMs": 106711,
+     "endMs": 116451,
+     "narration_dhivehi": "އަމިއްލަ އުފަން ދަރިއަކު ނެތުމަކީ އަންހެންވަންތަކަން އުނިވާނެ ކަމެއްވެސް ނޫން. އަހަރެން އަމާންއާ ކައިވެނިކުރީ ދަރިން ހޯދައިދޭނެކަމުގެ އުންމީދަކު ނޫން.\"",
+     "narration_english": "Not having a child of your own doesn't make you any less of a woman. I didn't marry you hoping you'd give me children.\"",
+     "crop": "full",
+     "motion": "pan right",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Eethan), create a new scene: Cinematic semi-realistic digital illustration with a quiet, tender, melancholic drama look: soft rainy grey-blue monsoon daylight from the windows contrasted with warm amber indoor lamp light, small vermilion-red accents, gentle film grain, shallow depth of field, intimate emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, table top, counter, wet pavement, soft shadow) for captions and a logo; rain streaks on window glass and wet reflective streets outside, while memories have a soft hazy golden dreamlike glow.\nScene: close side profile of Eethan in the driver's seat of the parked car at night, looking down thoughtfully, searching for the right words, the phone held near his mouth, his free hand resting calmly on the steering wheel, a thin silver wedding ring; the side window behind him streaked with rain and soft amber bokeh; the phone screen shows only a soft blank glow, no text, no numbers. Eethan wears a dark-olive zip-up rain jacket over the navy t-shirt and dark jeans. Location: the inside of a small ordinary hatchback car parked at the kerb of a quiet empty rain-washed Hulhumalé street at night, rain running down the windscreen, wipers at rest, blurred amber streetlights and their reflections on the wet road, the soft blue-green glow of the dashboard. Camera: close-up profile, his face in the upper half, the dark door panel below.\nCharacters: Eethan: a tall broad-shouldered Maldivian man of about 34 with warm brown skin, a friendly open face, warm crinkly dark eyes, a broad easy smile, short neat slightly tousled black hair and a short neatly trimmed black beard; wears a faded navy-blue crew-neck t-shirt with a plain blank chest and grey jogger trousers, a thin silver wedding ring.\nMood/lighting: rainy night, an imagined scene seen in a soft dissolve: deep blue darkness, the gentle dashboard glow on his face, warm blurred streetlight bokeh through the rain on the glass, calm, quiet and safe, no danger.\nModest Maldivian clothing (every woman in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck, also at home; men fully clothed in shirts or t-shirts and long trousers, never shirtless), no kissing, no embracing between a man and a woman, culturally respectful, no violence shown, no car crash, no injuries, no blood, no person lying down, no needles, no alcohol, no smoking, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.081,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 50.0,
+    "y_pct": 40.0,
+    "face_detected": false
+   }
+  },
+  {
+   "id": "beat_006",
+   "startMs": 116451,
+   "endMs": 137701,
+   "new_image_reason": "memory: one of the things he loves about her — she cries when she sees a cat in the street",
+   "characters": [
+    "amaan",
+    "eethan"
+   ],
+   "location": "a quiet wet Hulhumalé side street in a light monsoon drizzle, a closed shop with a plain grey rolled-down shutter and a small plain awning, puddles reflecting the sky, potted plants, no signs",
+   "location_key": "memory_street",
+   "mood": "soft hazy golden dreamlike memory glow, warm light breaking through a light drizzle, tender and funny",
+   "visual": "a memory: Amaan crouching on a wet pavement under a small awning beside a tiny wet ginger kitten, tears in her eyes and a tender smile; Eethan standing beside her holding a vermilion-red umbrella over her, smiling down at her fondly with amused love, not touching her. Amaan wears her loose long-sleeved ankle-length cream dress and her dusty-rose hijab fully covering her hair and neck. Eethan wears a dark-olive zip-up rain jacket over the navy t-shirt and dark jeans",
+   "camera": "medium wide, eye level, both faces in the upper half, the wet pavement as a calm lower third",
+   "image": "images/beat_006.png",
+   "reuse_of": null,
+   "transition_in": "dissolve",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "memory_rain",
+   "shots": [
+    {
+     "id": "shot_014",
+     "startMs": 116451,
+     "endMs": 125711,
+     "narration_dhivehi": "އަމާން ލޯ ހުޅުވައިލިއެވެ. \"އަހަރެން އަމާންއާ ކައިވެނިކުރީ ހަމައެކަނި އަމާންއަށްޓަކައި. އަމާން ރޭގަނޑު ނިދާ ގަޑީ ރަޖާގަނޑު އަތުލައިގަނެފައި،",
+     "narration_english": "Amaan opened her eyes. \"I married you only for you. For grabbing the blanket while you sleep at night,",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_015",
+     "startMs": 125711,
+     "endMs": 137701,
+     "narration_dhivehi": "އަހަންނޭ އަތުލައިގަތީ ކިޔައި ތުހުމަތުކުރާތީ. މަގުމަތިން ބުޅަލެއް ފެނިގެން ރޯތީ. ދުނިޔޭގައިވެސް ފިހެވޭނެ އެންމެ ނުބައި ޕޭންކޭކު ފިހެފައިވެސް، އަހަރެން އެ ކާނެކަމަށް އުންމީދުކުރާތީ.\"",
+     "narration_english": "and then accusing me of grabbing it. For crying when you see a cat on the street. For expecting me to eat the worst pancakes ever baked in the world.\"",
+     "crop": "tight",
+     "motion": "pan up",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      15.8,
+      7.2,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Amaan; reference image 2 is Eethan), create a new scene: Cinematic semi-realistic digital illustration with a quiet, tender, melancholic drama look: soft rainy grey-blue monsoon daylight from the windows contrasted with warm amber indoor lamp light, small vermilion-red accents, gentle film grain, shallow depth of field, intimate emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, table top, counter, wet pavement, soft shadow) for captions and a logo; rain streaks on window glass and wet reflective streets outside, while memories have a soft hazy golden dreamlike glow.\nScene: a memory: Amaan crouching on a wet pavement under a small awning beside a tiny wet ginger kitten, tears in her eyes and a tender smile; Eethan standing beside her holding a vermilion-red umbrella over her, smiling down at her fondly with amused love, not touching her. Amaan wears her loose long-sleeved ankle-length cream dress and her dusty-rose hijab fully covering her hair and neck. Eethan wears a dark-olive zip-up rain jacket over the navy t-shirt and dark jeans. Location: a quiet wet Hulhumalé side street in a light monsoon drizzle, a closed shop with a plain grey rolled-down shutter and a small plain awning, puddles reflecting the sky, potted plants, no signs. Camera: medium wide, eye level, both faces in the upper half, the wet pavement as a calm lower third.\nCharacters: Amaan: a slim Maldivian woman of 32 with warm brown skin, a soft oval face, large expressive dark eyes with faint tired shadows beneath, gentle arched eyebrows and full lips; wears a loose long-sleeved ankle-length plain cream-oatmeal dress and a soft dusty-rose hijab wrapped snugly and fully covering her hair and neck, a thin silver wedding ring. Eethan: a tall broad-shouldered Maldivian man of about 34 with warm brown skin, a friendly open face, warm crinkly dark eyes, a broad easy smile, short neat slightly tousled black hair and a short neatly trimmed black beard; wears a faded navy-blue crew-neck t-shirt with a plain blank chest and grey jogger trousers, a thin silver wedding ring.\nMood/lighting: soft hazy golden dreamlike memory glow, warm light breaking through a light drizzle, tender and funny.\nModest Maldivian clothing (every woman in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck, also at home; men fully clothed in shirts or t-shirts and long trousers, never shirtless), no kissing, no embracing between a man and a woman, culturally respectful, no violence shown, no car crash, no injuries, no blood, no person lying down, no needles, no alcohol, no smoking, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.429,
+    "halo": true
+   },
+   "focus": {
+    "x_pct": 45.5,
+    "y_pct": 42.4,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_007",
+   "startMs": 137701,
+   "endMs": 153031,
+   "new_image_reason": "action change: Amaan laughs through tears and presses the phone to her chest",
+   "characters": [
+    "amaan"
+   ],
+   "location": "a small modest bedroom in a third-floor Hulhumalé apartment at night, a plain wooden headboard, white pillows, a small bedside table with a dim amber lamp, a window with rain streaming down the glass",
+   "location_key": "bedroom_night",
+   "mood": "rainy night after midnight, a single dim amber lamp against cold grey-blue rain light from the window, heavy silent grief, intimate and still",
+   "visual": "Amaan sitting upright against the wooden headboard with a soft blanket over her legs (never lying down), a small surprised laugh breaking through her tears, both hands pressing the phone flat against her chest, eyes shining, head tilted back slightly against the headboard; the amber lamp, rain on the window. Amaan wears her loose long-sleeved ankle-length cream dress with a loose long grey cardigan over it and her dusty-rose hijab wrapped snugly, fully covering her hair and neck",
+   "camera": "medium close-up, eye level, her face in the upper third",
+   "image": "images/beat_007.png",
+   "reuse_of": null,
+   "transition_in": "dissolve",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "apartment_rain_night",
+   "shots": [
+    {
+     "id": "shot_016",
+     "startMs": 137701,
+     "endMs": 144551,
+     "narration_dhivehi": "އަމާންގެ އަރުތެރެއިން ކުޑަ ހިނިގަނޑެއްގެ އަޑު ބޭރުވިއެވެ. \"އަދި ވަރުބަލި ދުވަހަކަށްފަހު ގެއަށް އަންނައިރު،",
+     "narration_english": "A small laugh escaped Amaan's throat. \"And because when I come home after a tiring day,",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_017",
+     "startMs": 144551,
+     "endMs": 153031,
+     "narration_dhivehi": "މުޅި ދުވަހުގެ ވަރުބަލިކަން ފިލުވައިދޭ މީހަކީ އަމާން ކަމަށްވާތީ.\" އަމާން ފޯނު އޭނާގެ މޭގައި ޖައްސައި ބާރުކޮށްލިއެވެ. \"އަހަންނަށް އެނގޭ،",
+     "narration_english": "you are the one who takes the whole day's tiredness away.\" Amaan pressed the phone hard against her chest. \"I know,",
+     "crop": "tight",
+     "motion": "pan down",
+     "sfx": [
+      {
+       "name": "cloth_rustle",
+       "atMs": 150561,
+       "gainDb": -24,
+       "word": "ޖައްސައި"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      18.5,
+      0.0,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Amaan), create a new scene: Cinematic semi-realistic digital illustration with a quiet, tender, melancholic drama look: soft rainy grey-blue monsoon daylight from the windows contrasted with warm amber indoor lamp light, small vermilion-red accents, gentle film grain, shallow depth of field, intimate emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, table top, counter, wet pavement, soft shadow) for captions and a logo; rain streaks on window glass and wet reflective streets outside, while memories have a soft hazy golden dreamlike glow.\nScene: Amaan sitting upright against the wooden headboard with a soft blanket over her legs (never lying down), a small surprised laugh breaking through her tears, both hands pressing the phone flat against her chest, eyes shining, head tilted back slightly against the headboard; the amber lamp, rain on the window. Amaan wears her loose long-sleeved ankle-length cream dress with a loose long grey cardigan over it and her dusty-rose hijab wrapped snugly, fully covering her hair and neck. Location: a small modest bedroom in a third-floor Hulhumalé apartment at night, a plain wooden headboard, white pillows, a small bedside table with a dim amber lamp, a window with rain streaming down the glass. Camera: medium close-up, eye level, her face in the upper third.\nCharacters: Amaan: a slim Maldivian woman of 32 with warm brown skin, a soft oval face, large expressive dark eyes with faint tired shadows beneath, gentle arched eyebrows and full lips; wears a loose long-sleeved ankle-length plain cream-oatmeal dress and a soft dusty-rose hijab wrapped snugly and fully covering her hair and neck, a thin silver wedding ring.\nMood/lighting: rainy night after midnight, a single dim amber lamp against cold grey-blue rain light from the window, heavy silent grief, intimate and still.\nModest Maldivian clothing (every woman in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck, also at home; men fully clothed in shirts or t-shirts and long trousers, never shirtless), no kissing, no embracing between a man and a woman, culturally respectful, no violence shown, no car crash, no injuries, no blood, no person lying down, no needles, no alcohol, no smoking, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.357,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 48.2,
+    "y_pct": 26.0,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_008",
+   "startMs": 153031,
+   "endMs": 172971,
+   "new_image_reason": "imagined dream: the child they both dreamed of — toys scattered through the house",
+   "characters": [],
+   "location": "the small cosy sitting room of the apartment imagined as a future family home: a worn sofa with a vermilion cushion, a low wooden coffee table, a woven rug on a wooden floor",
+   "location_key": "memory_home",
+   "mood": "soft hazy golden dreamlike memory glow, a warm night lamp, gentle and wistful, a dream of a future",
+   "visual": "a soft dreamlike image of the little sitting room as a family home: colourful wooden toys, building blocks and a small stuffed bear scattered across the woven rug, a pair of tiny baby shoes beside the sofa, two cups of tea on the coffee table, a small night lamp glowing; nobody in the room, no people or children anywhere in the image, no figures in the glow or on the walls",
+   "camera": "wide shot from a low angle, the toys and sofa in the middle, the soft rug as a calm lower third",
+   "image": "images/beat_008.png",
+   "reuse_of": null,
+   "transition_in": "dissolve",
+   "sensitive": "other",
+   "safe_substitution": "the dreamed child is shown only through toys and tiny shoes",
+   "ambience": "memory",
+   "shots": [
+    {
+     "id": "shot_018",
+     "startMs": 153031,
+     "endMs": 161881,
+     "narration_dhivehi": "ދަރިއަކު ނުލިބޭތީ އަހަރެން ރުޅިއައިސްފާ ހުރިކަމަށް އަމާން ހީކުރާކަން. އަހަރެން ދެމީހުންގެ ދަރިއަކާ މެދު އަހަރެންވެސް ހުވަފެން ދެކުނިން.",
+     "narration_english": "you think I'm angry because we can't have a child. I dreamed of our child too.",
+     "crop": "full",
+     "motion": "static drift",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_019",
+     "startMs": 161881,
+     "endMs": 172971,
+     "narration_dhivehi": "ކުޑަކުޑަ ފައިތިލަތަކުން ގޭތެރޭގައި ދުވާނެ ދުވަހާއި، މުޅި ތަނުގައި ކުޅޭއެއްޗެހި އުކާފައި ހުންނާނެ ދުވަހާއި، ދަންވަރު ތިނެއްޖަހާއިރު އަހަރެމެން ގޮވާލައި ހޭލައްވާނެ ދުވަސް.",
+     "narration_english": "The day little feet would run through the house, the day toys would be scattered everywhere, the day they'd wake us up crying at three in the morning.",
+     "crop": "tight",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      20.3,
+      4.8,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Cinematic semi-realistic digital illustration with a quiet, tender, melancholic drama look: soft rainy grey-blue monsoon daylight from the windows contrasted with warm amber indoor lamp light, small vermilion-red accents, gentle film grain, shallow depth of field, intimate emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, table top, counter, wet pavement, soft shadow) for captions and a logo; rain streaks on window glass and wet reflective streets outside, while memories have a soft hazy golden dreamlike glow.\nScene: a soft dreamlike image of the little sitting room as a family home: colourful wooden toys, building blocks and a small stuffed bear scattered across the woven rug, a pair of tiny baby shoes beside the sofa, two cups of tea on the coffee table, a small night lamp glowing; nobody in the room, no people or children anywhere in the image, no figures in the glow or on the walls. Location: the small cosy sitting room of the apartment imagined as a future family home: a worn sofa with a vermilion cushion, a low wooden coffee table, a woven rug on a wooden floor. Camera: wide shot from a low angle, the toys and sofa in the middle, the soft rug as a calm lower third.\nMood/lighting: soft hazy golden dreamlike memory glow, a warm night lamp, gentle and wistful, a dream of a future.\nModest Maldivian clothing (every woman in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck, also at home; men fully clothed in shirts or t-shirts and long trousers, never shirtless), no kissing, no embracing between a man and a woman, culturally respectful, no violence shown, no car crash, no injuries, no blood, no person lying down, no needles, no alcohol, no smoking, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.184,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 50.0,
+    "y_pct": 40.0,
+    "face_detected": false
+   }
+  },
+  {
+   "id": "beat_009",
+   "startMs": 172971,
+   "endMs": 186412,
+   "new_image_reason": "return to the imagined car scene: his voice grows softer",
+   "characters": [
+    "eethan"
+   ],
+   "location": "the inside of a small ordinary hatchback car parked at the kerb of a quiet empty rain-washed Hulhumalé street at night, rain running down the windscreen, wipers at rest, blurred amber streetlights and their reflections on the wet road, the soft blue-green glow of the dashboard",
+   "location_key": "car",
+   "mood": "rainy night, an imagined scene seen in a soft dissolve: deep blue darkness, the gentle dashboard glow on his face, warm blurred streetlight bokeh through the rain on the glass, calm, quiet and safe, no danger",
+   "visual": "(reuse of beat_003: Eethan calm in his parked car at night)",
+   "camera": "medium shot, eye level",
+   "image": "images/beat_003.png",
+   "reuse_of": "beat_003",
+   "transition_in": "dissolve",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "car_rain",
+   "shots": [
+    {
+     "id": "shot_020",
+     "startMs": 172971,
+     "endMs": 179602,
+     "narration_dhivehi": "އެކަމަކު އެއިން އެއްވެސް ކަމަކީ އަމާންއަށްވުރެ މުހިންމު ކަންކަމެއް ނޫން.\" އޭނާގެ އަޑު މަޑުމައިތިރިވިއެވެ.",
+     "narration_english": "But none of those things matter more than you.\" His voice grew softer.",
+     "crop": "tight",
+     "motion": "pan left",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      20.3,
+      4.8,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_021",
+     "startMs": 179602,
+     "endMs": 186412,
+     "narration_dhivehi": "\"އަހަރެމެންނަށް ދުވަހަކުވެސް ދަރިއަކު ނުލިބުނަސް، އަހަރެން ވާނީ މި ދުނިޔޭގައި ހުރި އެންމެ ނަސީބުވެރި އިންސާނާއަށް.",
+     "narration_english": "\"Even if we never have a child, I'll be the luckiest person in this world.",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [],
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.125,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 50.0,
+    "y_pct": 40.0,
+    "face_detected": false
+   }
+  },
+  {
+   "id": "beat_010",
+   "startMs": 186412,
+   "endMs": 221632,
+   "new_image_reason": "action change / emotional peak: Amaan bends forward and cries silently",
+   "characters": [
+    "amaan"
+   ],
+   "location": "a small modest bedroom in a third-floor Hulhumalé apartment at night, a plain wooden headboard, white pillows, a small bedside table with a dim amber lamp, a window with rain streaming down the glass",
+   "location_key": "bedroom_night",
+   "mood": "rainy night after midnight, a single dim amber lamp against cold grey-blue rain light from the window, heavy silent grief, intimate and still",
+   "visual": "Amaan sitting upright against the wooden headboard with a soft blanket over her legs (never lying down) but bent forward over her drawn-up knees, the phone still held to her ear, her other hand covering her mouth, shoulders shaking as she cries silently, tears on her cheeks; the amber lamp, rain streaming down the window. Amaan wears her loose long-sleeved ankle-length cream dress with a loose long grey cardigan over it and her dusty-rose hijab wrapped snugly, fully covering her hair and neck",
+   "camera": "medium shot, slightly from the side, her face in the upper half, the blanket over her knees below",
+   "image": "images/beat_010.png",
+   "reuse_of": null,
+   "transition_in": "dissolve",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "apartment_rain_night",
+   "shots": [
+    {
+     "id": "shot_022",
+     "startMs": 186412,
+     "endMs": 195422,
+     "narration_dhivehi": "ސަބަބަކީ އަހަރެންގެ މުޅި އުމުރު ހޭދަކުރަން މިލިބުނީ އަމާންއާއެކު ކަމަށްވާތީ.\" އަމާން ކުރިއަށް ގުދުވެލައި، އަޑެއް ބޭރުނުކޮށް ރޯންފެށިއެވެ.",
+     "narration_english": "Because I got to spend my whole life with you.\" Amaan bent forward and began to cry without a sound.",
+     "crop": "full",
+     "motion": "pan right",
+     "sfx": [
+      {
+       "name": "sob_breath",
+       "atMs": 194822,
+       "gainDb": -22,
+       "word": "ރޯންފެށިއެވެ."
+      }
+     ],
+     "hum": true,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_023",
+     "startMs": 195422,
+     "endMs": 202472,
+     "narration_dhivehi": "\"އަމާންއަކީ ފުރިހަމަ މީހެއް. އަބަދުވެސް އަމާން ހުންނާނީ ފުރިހަމައަށް. އަހަރެން އަމާން ދެކެ ނުހަނު ލޯބިވޭ.",
+     "narration_english": "\"You are a perfect person. You will always be perfect. I love you endlessly.",
+     "crop": "tight",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      11.1,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_024",
+     "startMs": 202472,
+     "endMs": 210892,
+     "narration_dhivehi": "އަދި އެއީ ދޮގެއްކަމަށް އަމާންއަށް އިޙްސާސްކުރެވުނުނަމަ އެކަމަށް މާފަށް އެދެން. އަހަރެން މިއަންނަނީ ވަރަށް އަވަހަށް ގެއަށް.",
+     "narration_english": "And if you ever felt that was a lie, I'm sorry for that. I'm coming home very soon.",
+     "crop": "full",
+     "motion": "pan up",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_025",
+     "startMs": 210892,
+     "endMs": 221632,
+     "narration_dhivehi": "ގޮސް އަހަރެމެން ދެމީހުން ރަނގަޅަށް ވާހަކަދައްކާނީ. އަދި ކޮންމެ ގޮތަކަށް ނިންމިޔަސް، ނިންމާނީ ދެމީހުން އެކުގައި. އެކަނި އެއްވެސް ކަމެއް ތަހައްމަލުކުރާކަށް ނުޖެހޭނެ.\"",
+     "narration_english": "We'll talk properly, the two of us. And whatever we decide, we'll decide together. You'll never have to carry anything alone.\"",
+     "crop": "medium",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      5.1,
+      0.0,
+      71.5,
+      84.7
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Amaan), create a new scene: Cinematic semi-realistic digital illustration with a quiet, tender, melancholic drama look: soft rainy grey-blue monsoon daylight from the windows contrasted with warm amber indoor lamp light, small vermilion-red accents, gentle film grain, shallow depth of field, intimate emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, table top, counter, wet pavement, soft shadow) for captions and a logo; rain streaks on window glass and wet reflective streets outside, while memories have a soft hazy golden dreamlike glow.\nScene: Amaan sitting upright against the wooden headboard with a soft blanket over her legs (never lying down) but bent forward over her drawn-up knees, the phone still held to her ear, her other hand covering her mouth, shoulders shaking as she cries silently, tears on her cheeks; the amber lamp, rain streaming down the window. Amaan wears her loose long-sleeved ankle-length cream dress with a loose long grey cardigan over it and her dusty-rose hijab wrapped snugly, fully covering her hair and neck. Location: a small modest bedroom in a third-floor Hulhumalé apartment at night, a plain wooden headboard, white pillows, a small bedside table with a dim amber lamp, a window with rain streaming down the glass. Camera: medium shot, slightly from the side, her face in the upper half, the blanket over her knees below.\nCharacters: Amaan: a slim Maldivian woman of 32 with warm brown skin, a soft oval face, large expressive dark eyes with faint tired shadows beneath, gentle arched eyebrows and full lips; wears a loose long-sleeved ankle-length plain cream-oatmeal dress and a soft dusty-rose hijab wrapped snugly and fully covering her hair and neck, a thin silver wedding ring.\nMood/lighting: rainy night after midnight, a single dim amber lamp against cold grey-blue rain light from the window, heavy silent grief, intimate and still.\nModest Maldivian clothing (every woman in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck, also at home; men fully clothed in shirts or t-shirts and long trousers, never shirtless), no kissing, no embracing between a man and a woman, culturally respectful, no violence shown, no car crash, no injuries, no blood, no person lying down, no needles, no alcohol, no smoking, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.322,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 40.8,
+    "y_pct": 31.5,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_011",
+   "startMs": 221632,
+   "endMs": 255532,
+   "new_image_reason": "imagined scene: Eethan's tender promise about 'a little miracle'",
+   "characters": [
+    "eethan"
+   ],
+   "location": "the inside of a small ordinary hatchback car parked at the kerb of a quiet empty rain-washed Hulhumalé street at night, rain running down the windscreen, wipers at rest, blurred amber streetlights and their reflections on the wet road, the soft blue-green glow of the dashboard",
+   "location_key": "car",
+   "mood": "rainy night, an imagined scene seen in a soft dissolve: deep blue darkness, the gentle dashboard glow on his face, warm blurred streetlight bokeh through the rain on the glass, calm, quiet and safe, no danger",
+   "visual": "close-up of Eethan in the driver's seat of the parked car at night, turned slightly towards the camera, a gentle loving smile and glistening eyes as he speaks softly into the phone near his mouth, the warm dashboard glow on his face, rain drops on the windscreen behind him; the phone screen shows only a soft blank glow, no text, no numbers. Eethan wears a dark-olive zip-up rain jacket over the navy t-shirt and dark jeans",
+   "camera": "close-up from the passenger side, his face in the upper half",
+   "image": "images/beat_011.png",
+   "reuse_of": null,
+   "transition_in": "dissolve",
+   "sensitive": "other",
+   "safe_substitution": "calm, safe, parked; nothing about the drive that followed is shown",
+   "ambience": "car_rain",
+   "shots": [
+    {
+     "id": "shot_026",
+     "startMs": 221632,
+     "endMs": 235402,
+     "narration_dhivehi": "އީތަން ބުނަމުންދިޔަ ކޮންމެ ޖުމްލައަކުން އަމާންގެ ހިތުގައި ކޫރުން އެޅެމުންދިޔައެވެ. \"އަދި ކޮންމެވެސް ދުވަހަކުން އަހަރެމެން ކުޑަކުޑަ މުޢުޖިޒާތަކާއި ބައްދަލުވެއްޖެނަމަ، އަހަރެންގެ ފަރާތުން އެކުއްޖާ ގާތު ބުނެދޭންވާނެ.",
+     "narration_english": "Every sentence Eethan spoke cut deep into Amaan's heart. \"And if one day we meet a little miracle, tell that child for me,",
+     "crop": "full",
+     "motion": "pan down",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_027",
+     "startMs": 235402,
+     "endMs": 245902,
+     "narration_dhivehi": "އެކުއްޖާގެ ނަންވެސް ނޭނގޭއިރު، އެކުއްޖާގެ ބައްޕަ އެކުއްޖާގެ މަންމަ ދެކެ އިންތިހާއަށް ލޯބިވި ވާހަކަ. އަހަރެން އަބަދުވެސް ޚިޔާރުކުރާނީ އަމާންކަން. ކޮންމެ ފަހަރަކު.",
+     "narration_english": "even without knowing its name, that its father loved its mother endlessly. I'll always choose you. Every time.",
+     "crop": "tight",
+     "motion": "static drift",
+     "sfx": [],
+     "hum": true,
+     "crop_rect_pct": [
+      5.7,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_028",
+     "startMs": 245902,
+     "endMs": 255532,
+     "narration_dhivehi": "ކޮންމެ ޙަޔާތެއްގައިވެސް. މިއަންނަނީ ވަރަށް އަވަހަށް. އަމާން ނިދާލެވޭތޯ ބަލާ. ކާން ހަނދާން ނައްތާނުލާތި. އަހަރެން ނެތި ޕޭންކޭކު ނުފިހާތި.",
+     "narration_english": "In every life. I'm coming home very soon. Try to get some sleep. Don't forget to eat. Don't make pancakes without me.",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": true,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Eethan), create a new scene: Cinematic semi-realistic digital illustration with a quiet, tender, melancholic drama look: soft rainy grey-blue monsoon daylight from the windows contrasted with warm amber indoor lamp light, small vermilion-red accents, gentle film grain, shallow depth of field, intimate emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, table top, counter, wet pavement, soft shadow) for captions and a logo; rain streaks on window glass and wet reflective streets outside, while memories have a soft hazy golden dreamlike glow.\nScene: close-up of Eethan in the driver's seat of the parked car at night, turned slightly towards the camera, a gentle loving smile and glistening eyes as he speaks softly into the phone near his mouth, the warm dashboard glow on his face, rain drops on the windscreen behind him; the phone screen shows only a soft blank glow, no text, no numbers. Eethan wears a dark-olive zip-up rain jacket over the navy t-shirt and dark jeans. Location: the inside of a small ordinary hatchback car parked at the kerb of a quiet empty rain-washed Hulhumalé street at night, rain running down the windscreen, wipers at rest, blurred amber streetlights and their reflections on the wet road, the soft blue-green glow of the dashboard. Camera: close-up from the passenger side, his face in the upper half.\nCharacters: Eethan: a tall broad-shouldered Maldivian man of about 34 with warm brown skin, a friendly open face, warm crinkly dark eyes, a broad easy smile, short neat slightly tousled black hair and a short neatly trimmed black beard; wears a faded navy-blue crew-neck t-shirt with a plain blank chest and grey jogger trousers, a thin silver wedding ring.\nMood/lighting: rainy night, an imagined scene seen in a soft dissolve: deep blue darkness, the gentle dashboard glow on his face, warm blurred streetlight bokeh through the rain on the glass, calm, quiet and safe, no danger.\nModest Maldivian clothing (every woman in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck, also at home; men fully clothed in shirts or t-shirts and long trousers, never shirtless), no kissing, no embracing between a man and a woman, culturally respectful, no violence shown, no car crash, no injuries, no blood, no person lying down, no needles, no alcohol, no smoking, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.129,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 35.4,
+    "y_pct": 29.2,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_012",
+   "startMs": 255532,
+   "endMs": 289623,
+   "new_image_reason": "time change: the recording ends; dawn — she plays it again and again",
+   "characters": [
+    "amaan"
+   ],
+   "location": "the same small modest bedroom in a third-floor Hulhumalé apartment at first light, a plain wooden headboard, white pillows, a small bedside table, a window with rain-streaked glass",
+   "location_key": "bedroom_dawn",
+   "mood": "rainy dawn, pale blue first light mixing with the last warm glow of the lamp, exhausted, tear-stained and quietly tender",
+   "visual": "Amaan sitting upright against the wooden headboard with a soft blanket over her legs (never lying down) in the pale dawn light, the phone pressed to her ear, red-rimmed eyes, a tear on her cheek and at the same time a faint helpless smile, as if listening again and again; the lamp still on, rain easing on the window; one single unified scene with only the people named here; no inset vignettes, no thought-bubble images, no ghostly overlay faces or figures on the walls, in the glow or in the sky, no second copy of any person. Amaan wears her loose long-sleeved ankle-length cream dress with a loose long grey cardigan over it and her dusty-rose hijab wrapped snugly, fully covering her hair and neck",
+   "camera": "medium shot, eye level, her face in the upper third, the blanket as a calm lower third",
+   "image": "images/beat_012.png",
+   "reuse_of": null,
+   "transition_in": "dissolve",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "apartment_rain_night",
+   "shots": [
+    {
+     "id": "shot_029",
+     "startMs": 255532,
+     "endMs": 264383,
+     "narration_dhivehi": "ދެމީހުންނަށްވެސް އެނގޭ އަމާންއަށް ބެލެހެއްޓުންތެރިއަކު ބޭނުންވާނެކަން.\" ރެކޯޑިން ނިމުނެވެ. އަމާން ހަރަކާތެއްވެސް ކޮށްނުލައި އިނީއެވެ.",
+     "narration_english": "We both know you need someone to look after you.\" The recording ended. Amaan sat without moving.",
+     "crop": "full",
+     "motion": "pan left",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_030",
+     "startMs": 264383,
+     "endMs": 272773,
+     "narration_dhivehi": "ފޯނު އަދިވެސް އޮތީ އޭނާގެ ކަންފަތުގައި ޖައްސާފައެވެ. އެއަށްފަހު އޭނާ އަނެއްކާވެސް އެ މެސެޖު ޕްލޭކޮށްލިއެވެ. އަދި އަނެއްކާވެސްމެއެވެ.",
+     "narration_english": "The phone was still pressed to her ear. Then she played the message again. And again.",
+     "crop": "tight",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      5.0,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_031",
+     "startMs": 272773,
+     "endMs": 283163,
+     "narration_dhivehi": "ބައެއް ފަހަރު އޭނާއަށް ރޮވުނެވެ. އަނެއްބައި ފަހަރު ޕޭންކޭކުގެ ވާހަކައިން ހެވުނެވެ. އަނެއްބައި ފަހަރު އީތަން އޭނާގެ ނަމުން ގޮވާލުމުން ލިބޭ އަސަރުން ރެކޯޑިން ހުއްޓާލައެވެ.",
+     "narration_english": "Sometimes she cried. Sometimes she laughed at the bit about the pancakes. Sometimes, overwhelmed when Eethan said her name, she stopped the recording.",
+     "crop": "full",
+     "motion": "pan right",
+     "sfx": [
+      {
+       "name": "sob_breath",
+       "atMs": 274103,
+       "gainDb": -24,
+       "word": "ރޮވުނެވެ."
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_032",
+     "startMs": 283163,
+     "endMs": 289623,
+     "narration_dhivehi": "ނަމަވެސް ކޮންމެ ފަހަރަކުވެސް، އޭނާ އެ އަޑު އިތުރަށް އަޑުއަހަން އަމިއްލަ ނަފްސަށް ފުރުޞަތު ދިނެވެ.",
+     "narration_english": "But every time, she let herself listen to that voice a little more.",
+     "crop": "medium",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      0.0,
+      0.0,
+      71.5,
+      84.7
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Amaan), create a new scene: Cinematic semi-realistic digital illustration with a quiet, tender, melancholic drama look: soft rainy grey-blue monsoon daylight from the windows contrasted with warm amber indoor lamp light, small vermilion-red accents, gentle film grain, shallow depth of field, intimate emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, table top, counter, wet pavement, soft shadow) for captions and a logo; rain streaks on window glass and wet reflective streets outside, while memories have a soft hazy golden dreamlike glow.\nScene: Amaan sitting upright against the wooden headboard with a soft blanket over her legs (never lying down) in the pale dawn light, the phone pressed to her ear, red-rimmed eyes, a tear on her cheek and at the same time a faint helpless smile, as if listening again and again; the lamp still on, rain easing on the window; one single unified scene with only the people named here; no inset vignettes, no thought-bubble images, no ghostly overlay faces or figures on the walls, in the glow or in the sky, no second copy of any person. Amaan wears her loose long-sleeved ankle-length cream dress with a loose long grey cardigan over it and her dusty-rose hijab wrapped snugly, fully covering her hair and neck. Location: the same small modest bedroom in a third-floor Hulhumalé apartment at first light, a plain wooden headboard, white pillows, a small bedside table, a window with rain-streaked glass. Camera: medium shot, eye level, her face in the upper third, the blanket as a calm lower third.\nCharacters: Amaan: a slim Maldivian woman of 32 with warm brown skin, a soft oval face, large expressive dark eyes with faint tired shadows beneath, gentle arched eyebrows and full lips; wears a loose long-sleeved ankle-length plain cream-oatmeal dress and a soft dusty-rose hijab wrapped snugly and fully covering her hair and neck, a thin silver wedding ring.\nMood/lighting: rainy dawn, pale blue first light mixing with the last warm glow of the lamp, exhausted, tear-stained and quietly tender.\nModest Maldivian clothing (every woman in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck, also at home; men fully clothed in shirts or t-shirts and long trousers, never shirtless), no kissing, no embracing between a man and a woman, culturally respectful, no violence shown, no car crash, no injuries, no blood, no person lying down, no needles, no alcohol, no smoking, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.375,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 34.7,
+    "y_pct": 27.4,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_013",
+   "startMs": 289623,
+   "endMs": 314623,
+   "new_image_reason": "time and location change: the first days — she carries his voice everywhere; morning coffee on the balcony",
+   "characters": [
+    "amaan"
+   ],
+   "location": "a narrow third-floor apartment balcony in Hulhumalé with a simple metal railing, a small folding chair and a potted plant, wet rooftops and palm tops of the town beyond",
+   "location_key": "balcony",
+   "mood": "early morning after rain, soft pale gold sunlight through thinning grey clouds, wet glistening rooftops, quiet and fragile",
+   "visual": "Amaan sitting on a small folding chair on the narrow balcony in the early morning, a vermilion-red mug of coffee in one hand, her phone held to her ear with the other, listening with calm wet eyes, looking out over the wet rooftops; the phone screen shows only a soft blank glow, no text, no numbers; one single unified scene with only the people named here; no inset vignettes, no thought-bubble images, no ghostly overlay faces or figures on the walls, in the glow or in the sky, no second copy of any person. Amaan wears her loose long-sleeved ankle-length cream dress and her dusty-rose hijab fully covering her hair and neck",
+   "camera": "medium shot from the side, her face in the upper third, the balcony floor as a calm lower third",
+   "image": "images/beat_013.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "apartment_morning",
+   "shots": [
+    {
+     "id": "shot_033",
+     "startMs": 289623,
+     "endMs": 296523,
+     "narration_dhivehi": "އީތަންގެ މެސެޖު އަޑުއެހި ފުރަތަމަ ދުވަސްކޮޅު، އަމާން އުޅުނީ ކޮންމެ ތަނަކަށް ދިޔަޔަސް ފޯނު އަތަށް ނަގައިގެންނެވެ.",
+     "narration_english": "In the first days after hearing Eethan's message, wherever Amaan went she carried the phone in her hand.",
+     "crop": "full",
+     "motion": "pan up",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_034",
+     "startMs": 296523,
+     "endMs": 306313,
+     "narration_dhivehi": "އެއްޗެހި ފައްޖަހާއިރު، ތަށިދޮންނައިރު، އަދި ހެނދުނު ކޮފީ ބޯން ބެލްކަނީގައި އިނދެގެންވެސް އޭނާ އެ މެސެޖު އަޑުއަހައެވެ. އޭނާ އެ އަޑުއަހަނީ ރޯކަށެއް ނޫނެވެ.",
+     "narration_english": "Folding laundry, washing the dishes, even sitting on the balcony with her morning coffee, she listened to that message. She didn't listen to it to cry.",
+     "crop": "tight",
+     "motion": "slow pull-out",
+     "sfx": [
+      {
+       "name": "cloth_rustle",
+       "atMs": 296823,
+       "gainDb": -24,
+       "word": "ފައްޖަހާއިރު،"
+      },
+      {
+       "name": "cup_clatter",
+       "atMs": 297743,
+       "gainDb": -24,
+       "word": "ތަށިދޮންނައިރު،"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      20.3,
+      4.8,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_035",
+     "startMs": 306313,
+     "endMs": 314623,
+     "narration_dhivehi": "އޭނާ އެ އަޑުއަހަނީ މިހާރު އީތަންގެ އަޑު އިވުމަކީ އަލިފާނުގެ ތެރެއިން ސަލާމަތްވި އަގުހުރި އެއްޗެއްގައި ބީހިލުން ފަދަ އިޙްސާސަކަށް ވީތީއެވެ.",
+     "narration_english": "She listened because hearing Eethan's voice now felt like holding on to something precious saved from a fire.",
+     "crop": "full",
+     "motion": "pan down",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Amaan), create a new scene: Cinematic semi-realistic digital illustration with a quiet, tender, melancholic drama look: soft rainy grey-blue monsoon daylight from the windows contrasted with warm amber indoor lamp light, small vermilion-red accents, gentle film grain, shallow depth of field, intimate emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, table top, counter, wet pavement, soft shadow) for captions and a logo; rain streaks on window glass and wet reflective streets outside, while memories have a soft hazy golden dreamlike glow.\nScene: Amaan sitting on a small folding chair on the narrow balcony in the early morning, a vermilion-red mug of coffee in one hand, her phone held to her ear with the other, listening with calm wet eyes, looking out over the wet rooftops; the phone screen shows only a soft blank glow, no text, no numbers; one single unified scene with only the people named here; no inset vignettes, no thought-bubble images, no ghostly overlay faces or figures on the walls, in the glow or in the sky, no second copy of any person. Amaan wears her loose long-sleeved ankle-length cream dress and her dusty-rose hijab fully covering her hair and neck. Location: a narrow third-floor apartment balcony in Hulhumalé with a simple metal railing, a small folding chair and a potted plant, wet rooftops and palm tops of the town beyond. Camera: medium shot from the side, her face in the upper third, the balcony floor as a calm lower third.\nCharacters: Amaan: a slim Maldivian woman of 32 with warm brown skin, a soft oval face, large expressive dark eyes with faint tired shadows beneath, gentle arched eyebrows and full lips; wears a loose long-sleeved ankle-length plain cream-oatmeal dress and a soft dusty-rose hijab wrapped snugly and fully covering her hair and neck, a thin silver wedding ring.\nMood/lighting: early morning after rain, soft pale gold sunlight through thinning grey clouds, wet glistening rooftops, quiet and fragile.\nModest Maldivian clothing (every woman in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck, also at home; men fully clothed in shirts or t-shirts and long trousers, never shirtless), no kissing, no embracing between a man and a woman, culturally respectful, no violence shown, no car crash, no injuries, no blood, no person lying down, no needles, no alcohol, no smoking, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.454,
+    "halo": true
+   },
+   "focus": {
+    "x_pct": 50.0,
+    "y_pct": 40.0,
+    "face_detected": false
+   }
+  },
+  {
+   "id": "beat_014",
+   "startMs": 314623,
+   "endMs": 336623,
+   "new_image_reason": "action change: grief without warning — pouring tea into a second cup",
+   "characters": [
+    "amaan"
+   ],
+   "location": "the tiny apartment kitchen: a narrow counter, simple cupboards, a kettle, a small window with rain on the glass, a small two-seat dining table at the edge of the kitchen",
+   "location_key": "kitchen",
+   "mood": "grey rainy morning light from the small window mixed with warm amber kitchen light, steam rising, quiet ache",
+   "visual": "Amaan at the kitchen counter, a teapot in her hand frozen just above a second empty cup next to her own full one, her face suddenly still as she remembers there is no one to drink it; Eethan's vermilion-red mug is the empty one. Amaan wears her loose long-sleeved ankle-length cream dress and her dusty-rose hijab fully covering her hair and neck",
+   "camera": "medium close-up, eye level, her face in the upper third, the two cups on the counter in the lower part",
+   "image": "images/beat_014.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "apartment_morning",
+   "shots": [
+    {
+     "id": "shot_036",
+     "startMs": 314623,
+     "endMs": 329123,
+     "narration_dhivehi": "ހިތާމަ އަދިވެސް އަންނަނީ އެއްވެސް އެންގުމަކާ ނުލައެވެ. ދެވަނަ ތަށްޓަށް ސައިއަޅަން އުޅެފައި، އެ ސައިބޯނެ މީހަކު ނެތްކަން ހަނދާންވާ ފަހަރުފަހަރާއި، ކޮޓަރީގައި އުޅެނިކޮށް އީތަން ގޮވާލިހެން ހީވެގެން ހޭލެވޭ ފަހަރުތަކުންނެވެ.",
+     "narration_english": "Grief still came without any warning. Times she went to pour tea into a second cup and remembered there was no one to drink it, and times she woke thinking she'd heard Eethan call her in the room.",
+     "crop": "full",
+     "motion": "static drift",
+     "sfx": [
+      {
+       "name": "pour",
+       "atMs": 319063,
+       "gainDb": -20,
+       "word": "ސައިއަޅަން"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_037",
+     "startMs": 329123,
+     "endMs": 336623,
+     "narration_dhivehi": "ނަމަވެސް އެކަނިވެރިކަން ވެރިވާހިނދު، ކުރިން ކުރެވޭ ފަދަ އެކަނިވެރިކަމުގެ އިހުސާސެއް މިހާރަކު އޭނާއަކަށް ނުކުރެވެއެވެ.",
+     "narration_english": "But when loneliness took hold, she no longer felt the kind of loneliness she used to feel.",
+     "crop": "tight",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      13.3,
+      0.0,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Amaan), create a new scene: Cinematic semi-realistic digital illustration with a quiet, tender, melancholic drama look: soft rainy grey-blue monsoon daylight from the windows contrasted with warm amber indoor lamp light, small vermilion-red accents, gentle film grain, shallow depth of field, intimate emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, table top, counter, wet pavement, soft shadow) for captions and a logo; rain streaks on window glass and wet reflective streets outside, while memories have a soft hazy golden dreamlike glow.\nScene: Amaan at the kitchen counter, a teapot in her hand frozen just above a second empty cup next to her own full one, her face suddenly still as she remembers there is no one to drink it; Eethan's vermilion-red mug is the empty one. Amaan wears her loose long-sleeved ankle-length cream dress and her dusty-rose hijab fully covering her hair and neck. Location: the tiny apartment kitchen: a narrow counter, simple cupboards, a kettle, a small window with rain on the glass, a small two-seat dining table at the edge of the kitchen. Camera: medium close-up, eye level, her face in the upper third, the two cups on the counter in the lower part.\nCharacters: Amaan: a slim Maldivian woman of 32 with warm brown skin, a soft oval face, large expressive dark eyes with faint tired shadows beneath, gentle arched eyebrows and full lips; wears a loose long-sleeved ankle-length plain cream-oatmeal dress and a soft dusty-rose hijab wrapped snugly and fully covering her hair and neck, a thin silver wedding ring.\nMood/lighting: grey rainy morning light from the small window mixed with warm amber kitchen light, steam rising, quiet ache.\nModest Maldivian clothing (every woman in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck, also at home; men fully clothed in shirts or t-shirts and long trousers, never shirtless), no kissing, no embracing between a man and a woman, culturally respectful, no violence shown, no car crash, no injuries, no blood, no person lying down, no needles, no alcohol, no smoking, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.359,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 43.0,
+    "y_pct": 22.0,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_015",
+   "startMs": 336623,
+   "endMs": 363434,
+   "new_image_reason": "time jump ('weeks passed'): she throws the condolence flowers away and looks at the empty vases",
+   "characters": [
+    "amaan"
+   ],
+   "location": "the tiny apartment kitchen: a narrow counter, simple cupboards, a kettle, a small window with rain on the glass, a small two-seat dining table at the edge of the kitchen",
+   "location_key": "kitchen",
+   "mood": "grey rainy morning light from the small window mixed with warm amber kitchen light, steam rising, quiet ache",
+   "visual": "a grey rainy afternoon weeks later: Amaan standing beside a tall kitchen bin heaped with wilted white and pale green flowers, looking at a row of empty glass vases on the small dining table, her hands hanging at her sides, a hollow, undecided expression. Amaan wears her loose long-sleeved ankle-length cream dress and her dusty-rose hijab fully covering her hair and neck",
+   "camera": "medium wide, eye level, her face in the upper third, the floor as a calm lower third",
+   "image": "images/beat_015.png",
+   "reuse_of": null,
+   "transition_in": "black",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "apartment_rain_day",
+   "shots": [
+    {
+     "id": "shot_038",
+     "startMs": 336623,
+     "endMs": 348014,
+     "narration_dhivehi": "އޭނާގެ އަތުގައި އީތަންގެ އަގުހުރި ބަސްތައް އެބަހުއްޓެވެ. ހަފްތާތައް ފާއިތުވަމުން ދިޔައެވެ. އެއްދުވަހެއްގެ މެންދުރުފަހު، އަމާން މީހުން ގެނެސްފައިވާ މާތައް އެއްކޮށް ކުނިބާލިދީއަށް އުކާލިއެވެ.",
+     "narration_english": "In her hands were Eethan's precious words. The weeks went by. One afternoon Amaan threw all the flowers people had brought into the bin.",
+     "crop": "full",
+     "motion": "pan left",
+     "sfx": [
+      {
+       "name": "leaves_rustle",
+       "atMs": 347403,
+       "gainDb": -20,
+       "word": "އުކާލިއެވެ."
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_039",
+     "startMs": 348014,
+     "endMs": 354464,
+     "narration_dhivehi": "އަދި ހުސްކޮށްހުރި މާވަށިގަނޑުތަކަށް ބަލަހައްޓައިގެން ކުނިބާލިދީ ކައިރީގައި ހުއްޓުނެވެ.",
+     "narration_english": "And stood beside the bin, looking at the empty vases.",
+     "crop": "tight",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      10.2,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_040",
+     "startMs": 354464,
+     "endMs": 363434,
+     "narration_dhivehi": "އެ މާތައް ބެހެއްޓުމަކީވެސް ރަނގަޅުކަމެއްހެން އޭނާއަކަށް ނުވިސްނުނެވެ. އަދި އުކާލުމަކީވެސް ރަނގަޅުކަމެއްހެން ހީނުވިއެވެ. އެރޭ އޭނާ ކޮޓަރި ސާފުކުރިއެވެ.",
+     "narration_english": "Keeping the flowers didn't feel right to her. Throwing them away didn't feel right either. That night she cleaned the room.",
+     "crop": "full",
+     "motion": "pan right",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Amaan), create a new scene: Cinematic semi-realistic digital illustration with a quiet, tender, melancholic drama look: soft rainy grey-blue monsoon daylight from the windows contrasted with warm amber indoor lamp light, small vermilion-red accents, gentle film grain, shallow depth of field, intimate emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, table top, counter, wet pavement, soft shadow) for captions and a logo; rain streaks on window glass and wet reflective streets outside, while memories have a soft hazy golden dreamlike glow.\nScene: a grey rainy afternoon weeks later: Amaan standing beside a tall kitchen bin heaped with wilted white and pale green flowers, looking at a row of empty glass vases on the small dining table, her hands hanging at her sides, a hollow, undecided expression. Amaan wears her loose long-sleeved ankle-length cream dress and her dusty-rose hijab fully covering her hair and neck. Location: the tiny apartment kitchen: a narrow counter, simple cupboards, a kettle, a small window with rain on the glass, a small two-seat dining table at the edge of the kitchen. Camera: medium wide, eye level, her face in the upper third, the floor as a calm lower third.\nCharacters: Amaan: a slim Maldivian woman of 32 with warm brown skin, a soft oval face, large expressive dark eyes with faint tired shadows beneath, gentle arched eyebrows and full lips; wears a loose long-sleeved ankle-length plain cream-oatmeal dress and a soft dusty-rose hijab wrapped snugly and fully covering her hair and neck, a thin silver wedding ring.\nMood/lighting: grey rainy morning light from the small window mixed with warm amber kitchen light, steam rising, quiet ache.\nModest Maldivian clothing (every woman in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck, also at home; men fully clothed in shirts or t-shirts and long trousers, never shirtless), no kissing, no embracing between a man and a woman, culturally respectful, no violence shown, no car crash, no injuries, no blood, no person lying down, no needles, no alcohol, no smoking, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.316,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 39.9,
+    "y_pct": 16.7,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_016",
+   "startMs": 363434,
+   "endMs": 391494,
+   "new_image_reason": "time and action change: that night she cleans the room and moves back to her own side",
+   "characters": [
+    "amaan"
+   ],
+   "location": "the small bedroom freshly cleaned at night: crisp fresh white sheets and pillows, the window wide open to the rainy night air with a sheer curtain lifting, a folded blanket on a wooden chair",
+   "location_key": "bedroom_clean",
+   "mood": "rainy night, cool fresh air, soft blue night light from the open window and a small warm lamp, a tentative new beginning",
+   "visual": "the freshly cleaned bedroom at night: Amaan sitting upright against the wooden headboard with a soft blanket over her legs (never lying down) on HER OWN side, the other side smooth, empty and neatly made with fresh white sheets, the window wide open with the curtain lifting in the rainy night air, the washed blanket folded on a chair; she looks into the darkness with quiet resolve. Amaan wears her loose long-sleeved ankle-length cream dress with a loose long grey cardigan over it and her dusty-rose hijab wrapped snugly, fully covering her hair and neck",
+   "camera": "medium wide from the foot of the room, her face in the upper third",
+   "image": "images/beat_016.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "apartment_quiet_night",
+   "shots": [
+    {
+     "id": "shot_041",
+     "startMs": 363434,
+     "endMs": 370294,
+     "narration_dhivehi": "ތަންމަތި ބަދަލުކޮށް، ކުޑަދޮރުތައް ހުޅުވައި، އީތަން އަބަދުވެސް ތުނިކަމަށް ބުނެ ޝަކުވާކުރާ ރަޖާ ފައްޖެހިއެވެ.",
+     "narration_english": "She changed the sheets, opened the windows, and washed the blanket Eethan always complained was too thin.",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [
+      {
+       "name": "cloth_rustle",
+       "atMs": 364024,
+       "gainDb": -22,
+       "word": "ބަދަލުކޮށް،"
+      },
+      {
+       "name": "creak",
+       "atMs": 365764,
+       "gainDb": -22,
+       "word": "ހުޅުވައި،"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_042",
+     "startMs": 370294,
+     "endMs": 380434,
+     "narration_dhivehi": "މަސްތަކެއް ވަންދެން، އޭނާ ނިދީ އީތަން ނިދާ ފަރާތުގައެވެ. ސަބަބަކީ އެކަނިވެރިކަން ކުޑަކޮށް ނަމަވެސް ލުއިވާހެން ހީވާ ހަމައެކަނި ތަނަކީ އެއީ ކަމަށްވާތީއެވެ.",
+     "narration_english": "For months she had slept on Eethan's side, because it was the only place where the loneliness felt even a little lighter.",
+     "crop": "tight",
+     "motion": "pan up",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      0.0,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_043",
+     "startMs": 380434,
+     "endMs": 391494,
+     "narration_dhivehi": "ނަމަވެސް އެރޭ، އޭނާ އަނބުރާ އޭނާގެ އަމިއްލަ ފަރާތަށް ބަދަލުވިއެވެ. \"އަހަރެން ދިރިއުޅުމައިގެން ކުރިއަށް ދާން މަސައްކަތް އެބަކުރަން\" އަނދިރިކަމުގެ ތެރެއަށް އޭނާ މަޑުމަޑުން ބުނެލިއެވެ.",
+     "narration_english": "But that night she moved back to her own side. \"I'm trying to move on with my life,\" she said softly into the darkness.",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [
+      {
+       "name": "sigh",
+       "atMs": 390944,
+       "gainDb": -22,
+       "word": "ބުނެލިއެވެ."
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Amaan), create a new scene: Cinematic semi-realistic digital illustration with a quiet, tender, melancholic drama look: soft rainy grey-blue monsoon daylight from the windows contrasted with warm amber indoor lamp light, small vermilion-red accents, gentle film grain, shallow depth of field, intimate emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, table top, counter, wet pavement, soft shadow) for captions and a logo; rain streaks on window glass and wet reflective streets outside, while memories have a soft hazy golden dreamlike glow.\nScene: the freshly cleaned bedroom at night: Amaan sitting upright against the wooden headboard with a soft blanket over her legs (never lying down) on HER OWN side, the other side smooth, empty and neatly made with fresh white sheets, the window wide open with the curtain lifting in the rainy night air, the washed blanket folded on a chair; she looks into the darkness with quiet resolve. Amaan wears her loose long-sleeved ankle-length cream dress with a loose long grey cardigan over it and her dusty-rose hijab wrapped snugly, fully covering her hair and neck. Location: the small bedroom freshly cleaned at night: crisp fresh white sheets and pillows, the window wide open to the rainy night air with a sheer curtain lifting, a folded blanket on a wooden chair. Camera: medium wide from the foot of the room, her face in the upper third.\nCharacters: Amaan: a slim Maldivian woman of 32 with warm brown skin, a soft oval face, large expressive dark eyes with faint tired shadows beneath, gentle arched eyebrows and full lips; wears a loose long-sleeved ankle-length plain cream-oatmeal dress and a soft dusty-rose hijab wrapped snugly and fully covering her hair and neck, a thin silver wedding ring.\nMood/lighting: rainy night, cool fresh air, soft blue night light from the open window and a small warm lamp, a tentative new beginning.\nModest Maldivian clothing (every woman in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck, also at home; men fully clothed in shirts or t-shirts and long trousers, never shirtless), no kissing, no embracing between a man and a woman, culturally respectful, no violence shown, no car crash, no injuries, no blood, no person lying down, no needles, no alcohol, no smoking, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.207,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 25.6,
+    "y_pct": 23.6,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_017",
+   "startMs": 391494,
+   "endMs": 423634,
+   "new_image_reason": "time jump: the next morning she wakes heavy and nauseous",
+   "characters": [
+    "amaan"
+   ],
+   "location": "the small bedroom early in the morning, fresh white sheets slightly rumpled, a small bedside table, a window with pale grey light",
+   "location_key": "bedroom_morning",
+   "mood": "early morning, pale grey monsoon daylight, soft and heavy, a hint of unease",
+   "visual": "Amaan sitting on the edge of the mattress in the early morning, one hand pressed to her stomach and the other lightly at her lips, pale and queasy, eyes tired from crying; a small framed photo lies face down on the blanket behind her. Amaan wears her loose long-sleeved ankle-length cream dress with a loose long grey cardigan over it and her dusty-rose hijab wrapped snugly, fully covering her hair and neck",
+   "camera": "medium shot, eye level, her face in the upper third, the wooden floor as a calm lower third",
+   "image": "images/beat_017.png",
+   "reuse_of": null,
+   "transition_in": "black",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "apartment_morning",
+   "shots": [
+    {
+     "id": "shot_044",
+     "startMs": 391494,
+     "endMs": 399484,
+     "narration_dhivehi": "ޖެހިގެން އައި ހެނދުނު، އެލާމުވުމުގެ ކުރިން އަމާންއަށް ހޭލެވުނީ ހަށިގަނޑަށް އާދައާ ޚިލާފު ބަރުކަމެއް އިޙްސާސްވަމުންނެވެ.",
+     "narration_english": "The next morning Amaan woke before the alarm, feeling an unusual heaviness in her body.",
+     "crop": "full",
+     "motion": "pan down",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_045",
+     "startMs": 399484,
+     "endMs": 407024,
+     "narration_dhivehi": "އޭނާ ތެދުވެ އިށީނުމާއެކު، މޭނުބައިކުރުމުގެ އިޙްސާސެއް ވިއެވެ. އޭނާ ހީކުރީ އެއީ ހިތާމައިގެ ސަބަބުން ވާގޮތެއް ކަމަށެވެ.",
+     "narration_english": "As she got up and sat, she felt sick. She thought it was because of the grief.",
+     "crop": "tight",
+     "motion": "static drift",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      20.4,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_046",
+     "startMs": 407024,
+     "endMs": 414014,
+     "narration_dhivehi": "އޭގެ ކުރީރޭ އޭނާ ހޭދަކުރީ އީތަންގެ ދުވަސްވީ ފޮޓޯތައް ބެލުމުގައެވެ. ކޮންމެ ފޮޓޯއަކަށް ބަލާފައި ކަހަލަ ގޮތަކަށް ރޮއި،",
+     "narration_english": "The night before, she had spent looking at old photos of Eethan. Crying over every photo,",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_047",
+     "startMs": 414014,
+     "endMs": 423634,
+     "narration_dhivehi": "އެންމެފަހުން ފޮޓޯއެއް މޭގައި ޖައްސައިގެން އޮވެ އޭނާއަށް ނިދުނީއެވެ. އޭނާ ރޭގަނޑު ނުވެސް ކައެވެ. ކާތަކެތީގެ ޚިޔާލު އައުމުންވެސް އޭނާގެ ބަނޑަށް އުނދަގޫވިއެވެ.",
+     "narration_english": "she finally fell asleep with a photo pressed to her chest. She hadn't eaten that night either. Even the thought of food turned her stomach.",
+     "crop": "medium",
+     "motion": "pan left",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      14.3,
+      0.0,
+      71.5,
+      84.7
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Amaan), create a new scene: Cinematic semi-realistic digital illustration with a quiet, tender, melancholic drama look: soft rainy grey-blue monsoon daylight from the windows contrasted with warm amber indoor lamp light, small vermilion-red accents, gentle film grain, shallow depth of field, intimate emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, table top, counter, wet pavement, soft shadow) for captions and a logo; rain streaks on window glass and wet reflective streets outside, while memories have a soft hazy golden dreamlike glow.\nScene: Amaan sitting on the edge of the mattress in the early morning, one hand pressed to her stomach and the other lightly at her lips, pale and queasy, eyes tired from crying; a small framed photo lies face down on the blanket behind her. Amaan wears her loose long-sleeved ankle-length cream dress with a loose long grey cardigan over it and her dusty-rose hijab wrapped snugly, fully covering her hair and neck. Location: the small bedroom early in the morning, fresh white sheets slightly rumpled, a small bedside table, a window with pale grey light. Camera: medium shot, eye level, her face in the upper third, the wooden floor as a calm lower third.\nCharacters: Amaan: a slim Maldivian woman of 32 with warm brown skin, a soft oval face, large expressive dark eyes with faint tired shadows beneath, gentle arched eyebrows and full lips; wears a loose long-sleeved ankle-length plain cream-oatmeal dress and a soft dusty-rose hijab wrapped snugly and fully covering her hair and neck, a thin silver wedding ring.\nMood/lighting: early morning, pale grey monsoon daylight, soft and heavy, a hint of unease.\nModest Maldivian clothing (every woman in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck, also at home; men fully clothed in shirts or t-shirts and long trousers, never shirtless), no kissing, no embracing between a man and a woman, culturally respectful, no violence shown, no car crash, no injuries, no blood, no person lying down, no needles, no alcohol, no smoking, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.453,
+    "halo": true
+   },
+   "focus": {
+    "x_pct": 50.1,
+    "y_pct": 22.9,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_018",
+   "startMs": 423634,
+   "endMs": 451105,
+   "new_image_reason": "location and action change: nausea again in the kitchen after making tea — a thought she pushes away",
+   "characters": [
+    "amaan"
+   ],
+   "location": "the tiny apartment kitchen: a narrow counter, simple cupboards, a kettle, a small window with rain on the glass, a small two-seat dining table at the edge of the kitchen",
+   "location_key": "kitchen",
+   "mood": "grey rainy morning light from the small window mixed with warm amber kitchen light, steam rising, quiet ache",
+   "visual": "Amaan standing still in the tiny kitchen, one hand resting on her stomach, the other on the counter beside a steaming cup of tea she just made, her eyes distant and wide as a thought crosses her mind, a small shake of the head. Amaan wears her loose long-sleeved ankle-length cream dress and her dusty-rose hijab fully covering her hair and neck",
+   "camera": "medium shot, eye level, her face in the upper third, the counter top as a calm lower third",
+   "image": "images/beat_018.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "apartment_morning",
+   "shots": [
+    {
+     "id": "shot_048",
+     "startMs": 423634,
+     "endMs": 431804,
+     "narration_dhivehi": "ނަމަވެސް، ސައި ހެދުމަށްފަހުވެސް އަނެއްކާ މޭނުބައިކުރަން ފެށުމުން، އަމާން ބަނޑުގައި އަތްއަޅައިގެން ބަދިގޭގައި ހުއްޓުނެވެ.",
+     "narration_english": "But when the nausea came again after she made tea, Amaan stood still in the kitchen with a hand on her stomach.",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [
+      {
+       "name": "pour",
+       "atMs": 425184,
+       "gainDb": -22,
+       "word": "ހެދުމަށްފަހުވެސް"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_049",
+     "startMs": 431804,
+     "endMs": 442035,
+     "narration_dhivehi": "ކުއްލިއަކަށް އަމާންގެ ހިތަށް ޚިޔާލުތަކެއް ވެރިވެގަތެވެ. އެއީ ތެދަކަށް ވެއްޖާ ހަދާނީ ކިހިނެއްހެއްޔެވެ؟ އަމާން ވަގުތުން ބޯ ހޫރާލިއެވެ. މީގެ ކުރިންވެސް އޭނާއަށް އެހެން ހީވިއެވެ.",
+     "narration_english": "Suddenly thoughts flooded Amaan's mind. What if it were true? At once Amaan shook her head. She had felt this before, too.",
+     "crop": "tight",
+     "motion": "pan right",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      14.2,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_050",
+     "startMs": 442035,
+     "endMs": 451105,
+     "narration_dhivehi": "މައްސަރުކަންތައް ލަސްވާ ކޮންމެ ފަހަރަކު، އަދި ހަށިގަނޑަށް އާދައާ ޚިލާފު ބަދަލެއް އަންނަ ކޮންމެ ހެނދުނަކު، އޭނާގެ ހިތުގައި އުންމީދު އާވެއެވެ.",
+     "narration_english": "Every time her period was late, every morning her body changed in some unusual way, hope came alive again in her heart.",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Amaan), create a new scene: Cinematic semi-realistic digital illustration with a quiet, tender, melancholic drama look: soft rainy grey-blue monsoon daylight from the windows contrasted with warm amber indoor lamp light, small vermilion-red accents, gentle film grain, shallow depth of field, intimate emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, table top, counter, wet pavement, soft shadow) for captions and a logo; rain streaks on window glass and wet reflective streets outside, while memories have a soft hazy golden dreamlike glow.\nScene: Amaan standing still in the tiny kitchen, one hand resting on her stomach, the other on the counter beside a steaming cup of tea she just made, her eyes distant and wide as a thought crosses her mind, a small shake of the head. Amaan wears her loose long-sleeved ankle-length cream dress and her dusty-rose hijab fully covering her hair and neck. Location: the tiny apartment kitchen: a narrow counter, simple cupboards, a kettle, a small window with rain on the glass, a small two-seat dining table at the edge of the kitchen. Camera: medium shot, eye level, her face in the upper third, the counter top as a calm lower third.\nCharacters: Amaan: a slim Maldivian woman of 32 with warm brown skin, a soft oval face, large expressive dark eyes with faint tired shadows beneath, gentle arched eyebrows and full lips; wears a loose long-sleeved ankle-length plain cream-oatmeal dress and a soft dusty-rose hijab wrapped snugly and fully covering her hair and neck, a thin silver wedding ring.\nMood/lighting: grey rainy morning light from the small window mixed with warm amber kitchen light, steam rising, quiet ache.\nModest Maldivian clothing (every woman in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck, also at home; men fully clothed in shirts or t-shirts and long trousers, never shirtless), no kissing, no embracing between a man and a woman, culturally respectful, no violence shown, no car crash, no injuries, no blood, no person lying down, no needles, no alcohol, no smoking, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.535,
+    "halo": true
+   },
+   "focus": {
+    "x_pct": 43.9,
+    "y_pct": 21.5,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_019",
+   "startMs": 451105,
+   "endMs": 468125,
+   "new_image_reason": "memory: every hope ended in a negative test or the doctor's sympathetic silence",
+   "characters": [
+    "dr_mathews",
+    "amaan"
+   ],
+   "location": "a fertility specialist's consulting room: a wooden desk, a plain cream wall, a small potted plant, a closed folder on the desk",
+   "location_key": "clinic_memory",
+   "mood": "soft hazy golden dreamlike memory glow, muted and sad, a quiet heavy silence",
+   "visual": "a muted memory: Dr. Mathews behind his wooden desk with a kind, sad, silent look and his hands folded, a small plain white plastic test stick lying on the desk; Amaan seated across the desk, seen from the side, her eyes lowered; a clear distance across the desk between them. Amaan wears her loose long-sleeved ankle-length cream dress and her dusty-rose hijab fully covering her hair and neck",
+   "camera": "medium shot over the desk, both faces in the upper half, the desk top as a calm lower third",
+   "image": "images/beat_019.png",
+   "reuse_of": null,
+   "transition_in": "dissolve",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "memory",
+   "shots": [
+    {
+     "id": "shot_051",
+     "startMs": 451105,
+     "endMs": 459085,
+     "narration_dhivehi": "ނަމަވެސް ކޮންމެ ފަހަރަކުވެސް އެ އުންމީދު ނިމިގެންދަނީ، ހެދޭ ޓެސްޓަކުން، ނޫނީ ޑޮކްޓަރުގެ ހަމްދަރުދީގެ ހިމޭންކަމުންނެވެ.",
+     "narration_english": "But every time that hope ended — with a test, or with the doctor's sympathetic silence.",
+     "crop": "full",
+     "motion": "pan up",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_052",
+     "startMs": 459085,
+     "endMs": 468125,
+     "narration_dhivehi": "އަނެއްކާވެސް އެ ތަދާ ކުރިމަތިލާކަށް އޭނާ ބޭނުމެއް ނޫނެވެ. ޚާއްޞަކޮށް އީތަން ނެތް ދުވަހެއްގައެވެ. މުޅި ދުވަހު އޭނާ މަސައްކަތްކުރީ އެކަމާ ނުވިސްނޭތޯއެވެ.",
+     "narration_english": "She did not want to face that pain again. Especially not on a day without Eethan. All day she tried not to think about it.",
+     "crop": "tight",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      0.0,
+      0.0,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Dr. Mathews; reference image 2 is Amaan), create a new scene: Cinematic semi-realistic digital illustration with a quiet, tender, melancholic drama look: soft rainy grey-blue monsoon daylight from the windows contrasted with warm amber indoor lamp light, small vermilion-red accents, gentle film grain, shallow depth of field, intimate emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, table top, counter, wet pavement, soft shadow) for captions and a logo; rain streaks on window glass and wet reflective streets outside, while memories have a soft hazy golden dreamlike glow.\nScene: a muted memory: Dr. Mathews behind his wooden desk with a kind, sad, silent look and his hands folded, a small plain white plastic test stick lying on the desk; Amaan seated across the desk, seen from the side, her eyes lowered; a clear distance across the desk between them. Amaan wears her loose long-sleeved ankle-length cream dress and her dusty-rose hijab fully covering her hair and neck. Location: a fertility specialist's consulting room: a wooden desk, a plain cream wall, a small potted plant, a closed folder on the desk. Camera: medium shot over the desk, both faces in the upper half, the desk top as a calm lower third.\nCharacters: Dr. Mathews: a slightly stocky South Asian man of about 55 with brown skin, a kind tired face, gentle eyes behind rimless glasses, short grey hair and a short neat grey beard; wears a white doctor's coat over a long-sleeved light-blue shirt and dark trousers. Amaan: a slim Maldivian woman of 32 with warm brown skin, a soft oval face, large expressive dark eyes with faint tired shadows beneath, gentle arched eyebrows and full lips; wears a loose long-sleeved ankle-length plain cream-oatmeal dress and a soft dusty-rose hijab wrapped snugly and fully covering her hair and neck, a thin silver wedding ring.\nMood/lighting: soft hazy golden dreamlike memory glow, muted and sad, a quiet heavy silence.\nModest Maldivian clothing (every woman in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck, also at home; men fully clothed in shirts or t-shirts and long trousers, never shirtless), no kissing, no embracing between a man and a woman, culturally respectful, no violence shown, no car crash, no injuries, no blood, no person lying down, no needles, no alcohol, no smoking, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.332,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 24.6,
+    "y_pct": 29.6,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_020",
+   "startMs": 468125,
+   "endMs": 503665,
+   "new_image_reason": "time and character change: that afternoon Luha notices how unwell she is",
+   "characters": [
+    "amaan",
+    "luha"
+   ],
+   "location": "the small sitting room of the apartment: a worn sofa with a vermilion cushion, a low wooden coffee table with a novel and reading glasses, framed photos on the walls, a plain analog wall clock with no numerals, a balcony door with rain on the glass",
+   "location_key": "sitting_day",
+   "mood": "rainy grey afternoon, soft diffused grey-blue daylight from the balcony door and one warm amber lamp, tender worry",
+   "visual": "Amaan sitting on the sofa looking pale and dizzy, one hand on her stomach, glancing up; her elder sister Luha standing a step away in front of her, leaning slightly forward with a worried frown, then a dawning realisation on her face. Amaan wears her loose long-sleeved ankle-length cream dress and her dusty-rose hijab fully covering her hair and neck. Luha in her deep-teal dress and black hijab",
+   "camera": "medium wide two-shot, eye level, both faces in the upper half, the rug as a calm lower third",
+   "image": "images/beat_020.png",
+   "reuse_of": null,
+   "transition_in": "dissolve",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "apartment_rain_day",
+   "shots": [
+    {
+     "id": "shot_053",
+     "startMs": 468125,
+     "endMs": 477895,
+     "narration_dhivehi": "ނަމަވެސް މެންދުރުފަހު އަނެއްކާވެސް މޭނުބައިކުރަން ފެށިއެވެ. އަމާން އުޅޭގޮތުން ލުހާ އޭނާއަށް ފަރުވާތެރިކަމާއެކު ބަލައިލިއެވެ. \"ކިހިނެއްވީ؟\" ލުހާ އަހައިލިއެވެ.",
+     "narration_english": "But in the afternoon the nausea began again. Seeing how Amaan was, Luha looked at her with concern. \"What's wrong?\" Luha asked.",
+     "crop": "full",
+     "motion": "pan down",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_054",
+     "startMs": 477895,
+     "endMs": 486605,
+     "narration_dhivehi": "\"ކަމެއް ނުވޭ.\" \"މިހާރަކަށް އައިސް އަބަދުވެސް ތިހެން ތީ ބުނަނީ.\" ލުހާ އަޑު ބާރުކޮށްލިއެވެ. \"ބޮލަށް އެނބުރުން އަރައި މޭނުބައިކުރަނީ.\"",
+     "narration_english": "\"Nothing.\" \"These days that's what you always say,\" Luha said, raising her voice. \"I'm dizzy and I feel sick.\"",
+     "crop": "tight",
+     "motion": "static drift",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      30.9,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_055",
+     "startMs": 486605,
+     "endMs": 496215,
+     "narration_dhivehi": "އަމާން މައްޗަށް ބަލައިލަމުން ބުންޏެވެ. \"ކޮން އިރަކުން ފެށިގެން.\" \"މަސްދުވަސް ވެދާނެ.\" \"އަމާން. އެންމެ ފަހުން މައްސަރު ކަންތައްވީ ކޮން އިރަކު.\"",
+     "narration_english": "Amaan said, looking up. \"Since when?\" \"Maybe a month.\" \"Amaan. When was your last period?\"",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_056",
+     "startMs": 496215,
+     "endMs": 503665,
+     "narration_dhivehi": "ލުހާގެ މޫނުމަތީގެ އަސަރު ބަދަލުވިއެވެ. \"ނޭނގޭ. އަހަރެން ތާރީޚެއް ނުބަލަން.\" އަމާން ހައިރާންވެފައި ހުއްޓުނެވެ.",
+     "narration_english": "Luha's expression changed. \"I don't know. I don't keep track of dates.\" Amaan stood there, stunned.",
+     "crop": "medium",
+     "motion": "pan left",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      24.9,
+      0.0,
+      71.5,
+      84.7
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Amaan; reference image 2 is Luha), create a new scene: Cinematic semi-realistic digital illustration with a quiet, tender, melancholic drama look: soft rainy grey-blue monsoon daylight from the windows contrasted with warm amber indoor lamp light, small vermilion-red accents, gentle film grain, shallow depth of field, intimate emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, table top, counter, wet pavement, soft shadow) for captions and a logo; rain streaks on window glass and wet reflective streets outside, while memories have a soft hazy golden dreamlike glow.\nScene: Amaan sitting on the sofa looking pale and dizzy, one hand on her stomach, glancing up; her elder sister Luha standing a step away in front of her, leaning slightly forward with a worried frown, then a dawning realisation on her face. Amaan wears her loose long-sleeved ankle-length cream dress and her dusty-rose hijab fully covering her hair and neck. Luha in her deep-teal dress and black hijab. Location: the small sitting room of the apartment: a worn sofa with a vermilion cushion, a low wooden coffee table with a novel and reading glasses, framed photos on the walls, a plain analog wall clock with no numerals, a balcony door with rain on the glass. Camera: medium wide two-shot, eye level, both faces in the upper half, the rug as a calm lower third.\nCharacters: Amaan: a slim Maldivian woman of 32 with warm brown skin, a soft oval face, large expressive dark eyes with faint tired shadows beneath, gentle arched eyebrows and full lips; wears a loose long-sleeved ankle-length plain cream-oatmeal dress and a soft dusty-rose hijab wrapped snugly and fully covering her hair and neck, a thin silver wedding ring. Luha: a Maldivian woman of about 38 with warm brown skin, a round kind face, soft dark eyes and a calm motherly expression, medium height with a slightly fuller figure; wears a loose long-sleeved ankle-length deep-teal dress and a plain black hijab fully covering her hair and neck.\nMood/lighting: rainy grey afternoon, soft diffused grey-blue daylight from the balcony door and one warm amber lamp, tender worry.\nModest Maldivian clothing (every woman in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck, also at home; men fully clothed in shirts or t-shirts and long trousers, never shirtless), no kissing, no embracing between a man and a woman, culturally respectful, no violence shown, no car crash, no injuries, no blood, no person lying down, no needles, no alcohol, no smoking, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.264,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 60.6,
+    "y_pct": 18.9,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_021",
+   "startMs": 503665,
+   "endMs": 521265,
+   "new_image_reason": "emotional turning point: the question stuns her — she cannot count time since he died",
+   "characters": [
+    "amaan"
+   ],
+   "location": "the small sitting room of the apartment: a worn sofa with a vermilion cushion, a low wooden coffee table with a novel and reading glasses, framed photos on the walls, a plain analog wall clock with no numerals, a balcony door with rain on the glass",
+   "location_key": "sitting_day",
+   "mood": "rainy grey afternoon, soft diffused grey-blue daylight from the balcony door and one warm amber lamp, tender worry",
+   "visual": "close-up of Amaan sitting on the sofa, frozen and stunned, staring into nothing, lips slightly parted, the room soft and out of focus behind her with a plain analog wall clock without numerals. Amaan wears her loose long-sleeved ankle-length cream dress and her dusty-rose hijab fully covering her hair and neck",
+   "camera": "close-up, eye level, her face in the upper half",
+   "image": "images/beat_021.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": "other",
+   "safe_substitution": "the narration mentions the day of the accident — nothing of it is shown, only her stunned face",
+   "ambience": "apartment_rain_day",
+   "shots": [
+    {
+     "id": "shot_057",
+     "startMs": 503665,
+     "endMs": 513185,
+     "narration_dhivehi": "އެ ސުވާލު މުޅި ކޮޓަރިތެރޭގައި އެނބުރެމުން ގޮސް އޭނާއާ ހަމައަށް ފޯރި ކަހަލައެވެ. އީތަން ނިޔާވިފަހުން، ވަގުތު ގުނުމަކީ އޭނާއަށް ކުޅަދާނަ ކަމަކަށް ނުވިއެވެ.",
+     "narration_english": "It was as if that question circled the whole room and came back to reach her. Since Eethan passed away, counting time was something she simply couldn't do.",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": true,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_058",
+     "startMs": 513185,
+     "endMs": 521265,
+     "narration_dhivehi": "އެކްސިޑެންޓް ހިނގި ދުވަސް އޭނާ މުޅި އުމުރަށް ހަނދާން ހުންނާނެއެވެ. ނަމަވެސް އެހެން ހުރިހާ ކަމެއް ވަނީ ފުސްވެފައެވެ. \"ޓެސްޓެއް ހަދައިފިންތަ؟\"",
+     "narration_english": "The day of the accident she would remember all her life. But everything else had faded. \"Have you taken a test?\"",
+     "crop": "tight",
+     "motion": "pan right",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.0,
+      0.0,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Amaan), create a new scene: Cinematic semi-realistic digital illustration with a quiet, tender, melancholic drama look: soft rainy grey-blue monsoon daylight from the windows contrasted with warm amber indoor lamp light, small vermilion-red accents, gentle film grain, shallow depth of field, intimate emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, table top, counter, wet pavement, soft shadow) for captions and a logo; rain streaks on window glass and wet reflective streets outside, while memories have a soft hazy golden dreamlike glow.\nScene: close-up of Amaan sitting on the sofa, frozen and stunned, staring into nothing, lips slightly parted, the room soft and out of focus behind her with a plain analog wall clock without numerals. Amaan wears her loose long-sleeved ankle-length cream dress and her dusty-rose hijab fully covering her hair and neck. Location: the small sitting room of the apartment: a worn sofa with a vermilion cushion, a low wooden coffee table with a novel and reading glasses, framed photos on the walls, a plain analog wall clock with no numerals, a balcony door with rain on the glass. Camera: close-up, eye level, her face in the upper half.\nCharacters: Amaan: a slim Maldivian woman of 32 with warm brown skin, a soft oval face, large expressive dark eyes with faint tired shadows beneath, gentle arched eyebrows and full lips; wears a loose long-sleeved ankle-length plain cream-oatmeal dress and a soft dusty-rose hijab wrapped snugly and fully covering her hair and neck, a thin silver wedding ring.\nMood/lighting: rainy grey afternoon, soft diffused grey-blue daylight from the balcony door and one warm amber lamp, tender worry.\nModest Maldivian clothing (every woman in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck, also at home; men fully clothed in shirts or t-shirts and long trousers, never shirtless), no kissing, no embracing between a man and a woman, culturally respectful, no violence shown, no car crash, no injuries, no blood, no person lying down, no needles, no alcohol, no smoking, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.373,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 36.7,
+    "y_pct": 30.7,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_022",
+   "startMs": 521265,
+   "endMs": 549536,
+   "new_image_reason": "action change: Luha sits beside her and takes her hand",
+   "characters": [
+    "amaan",
+    "luha"
+   ],
+   "location": "the small sitting room of the apartment: a worn sofa with a vermilion cushion, a low wooden coffee table with a novel and reading glasses, framed photos on the walls, a plain analog wall clock with no numerals, a balcony door with rain on the glass",
+   "location_key": "sitting_day",
+   "mood": "rainy grey afternoon, soft diffused grey-blue daylight from the balcony door and one warm amber lamp, tender worry",
+   "visual": "Luha sitting close beside Amaan on the sofa, holding Amaan's hand in both of hers with a kind, serious face; Amaan looking down at their joined hands, afraid. Amaan wears her loose long-sleeved ankle-length cream dress and her dusty-rose hijab fully covering her hair and neck. Luha in her deep-teal dress and black hijab",
+   "camera": "medium shot, eye level, both faces in the upper half, their joined hands in the middle",
+   "image": "images/beat_022.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "apartment_rain_day",
+   "shots": [
+    {
+     "id": "shot_059",
+     "startMs": 521265,
+     "endMs": 531136,
+     "narration_dhivehi": "ލުހާ އައިސް އޭނާގެ ކައިރީގައި އިށީނެވެ. އަމާން ނޫނެކޭ ބުނުމުގެ ގޮތުން ބޯހޫރާލިއެވެ. \"ސަބަބަކީ އެއީ ކަމަކަށް ނުވާނެތީ. އަނެއްކާވެސް އެ ތަދު ތަހައްމަލެއް ނުކުރެވޭނެ.\"",
+     "narration_english": "Luha came and sat beside her. Amaan shook her head. \"Because it won't be that. I can't bear that pain again.\"",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [
+      {
+       "name": "cloth_rustle",
+       "atMs": 523186,
+       "gainDb": -24,
+       "word": "އިށީނެވެ."
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_060",
+     "startMs": 531136,
+     "endMs": 539856,
+     "narration_dhivehi": "ލުހާ ކީއްވެގެންތޯ ސުވާލުކުރުމުން އަމާން ޖަވާބުގައި ބުންޏެވެ. އޭނާގެ އަޑުގައި ސީރިއަސްކަން އެކުލެވިފައިވެއެވެ. \"އުންމީދު ކުރާކަށް ނުޖެހޭ.",
+     "narration_english": "When Luha asked why, Amaan answered. Then Luha spoke, her voice serious. \"You don't have to hope.",
+     "crop": "tight",
+     "motion": "pan up",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_061",
+     "startMs": 539856,
+     "endMs": 549536,
+     "narration_dhivehi": "ހަމައެކަނި ޓެސްޓެއް ކޮށްލާ.\" ލުހާގެ މޫނުމަތިން އޯގާތެރިކަން ފާޅުވިއެވެ. އޭނާ އަމާންގެ އަތުގައި ހިފާލިއެވެ. އަމާން އެމީހުންގެ ގުޅިފައިވާ ދެއަތަށް ބަލައިލިއެވެ.",
+     "narration_english": "Just take a test.\" Kindness showed on Luha's face. She took Amaan's hand. Amaan looked at their joined hands.",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Amaan; reference image 2 is Luha), create a new scene: Cinematic semi-realistic digital illustration with a quiet, tender, melancholic drama look: soft rainy grey-blue monsoon daylight from the windows contrasted with warm amber indoor lamp light, small vermilion-red accents, gentle film grain, shallow depth of field, intimate emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, table top, counter, wet pavement, soft shadow) for captions and a logo; rain streaks on window glass and wet reflective streets outside, while memories have a soft hazy golden dreamlike glow.\nScene: Luha sitting close beside Amaan on the sofa, holding Amaan's hand in both of hers with a kind, serious face; Amaan looking down at their joined hands, afraid. Amaan wears her loose long-sleeved ankle-length cream dress and her dusty-rose hijab fully covering her hair and neck. Luha in her deep-teal dress and black hijab. Location: the small sitting room of the apartment: a worn sofa with a vermilion cushion, a low wooden coffee table with a novel and reading glasses, framed photos on the walls, a plain analog wall clock with no numerals, a balcony door with rain on the glass. Camera: medium shot, eye level, both faces in the upper half, their joined hands in the middle.\nCharacters: Amaan: a slim Maldivian woman of 32 with warm brown skin, a soft oval face, large expressive dark eyes with faint tired shadows beneath, gentle arched eyebrows and full lips; wears a loose long-sleeved ankle-length plain cream-oatmeal dress and a soft dusty-rose hijab wrapped snugly and fully covering her hair and neck, a thin silver wedding ring. Luha: a Maldivian woman of about 38 with warm brown skin, a round kind face, soft dark eyes and a calm motherly expression, medium height with a slightly fuller figure; wears a loose long-sleeved ankle-length deep-teal dress and a plain black hijab fully covering her hair and neck.\nMood/lighting: rainy grey afternoon, soft diffused grey-blue daylight from the balcony door and one warm amber lamp, tender worry.\nModest Maldivian clothing (every woman in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck, also at home; men fully clothed in shirts or t-shirts and long trousers, never shirtless), no kissing, no embracing between a man and a woman, culturally respectful, no violence shown, no car crash, no injuries, no blood, no person lying down, no needles, no alcohol, no smoking, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.355,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 37.5,
+    "y_pct": 33.4,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_023",
+   "startMs": 549536,
+   "endMs": 578546,
+   "new_image_reason": "emotional turning point: 'what if it's negative? what if it's positive?' — Luha's eyes fill",
+   "characters": [
+    "luha",
+    "amaan"
+   ],
+   "location": "the small sitting room of the apartment: a worn sofa with a vermilion cushion, a low wooden coffee table with a novel and reading glasses, framed photos on the walls, a plain analog wall clock with no numerals, a balcony door with rain on the glass",
+   "location_key": "sitting_day",
+   "mood": "rainy grey afternoon, soft diffused grey-blue daylight from the balcony door and one warm amber lamp, tender worry",
+   "visual": "closer two-shot of the two sisters on the sofa: Luha's eyes filling with tears and a gentle brave smile, Amaan whispering a frightened question, still holding hands; a small plain white unopened box with no printing lies on the coffee table in front of them. Amaan wears her loose long-sleeved ankle-length cream dress and her dusty-rose hijab fully covering her hair and neck. Luha in her deep-teal dress and black hijab",
+   "camera": "medium close-up, eye level, both faces in the upper half",
+   "image": "images/beat_023.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "apartment_rain_day",
+   "shots": [
+    {
+     "id": "shot_062",
+     "startMs": 549536,
+     "endMs": 558456,
+     "narration_dhivehi": "އެ ޚިޔާލުންވެސް އޭނާ ބިރުގަތެވެ. ޕްރެގްނަންސީ ޓެސްޓަކީ ކުޑަކުޑަ ޕްލާސްޓިކް އެއްޗެކެވެ. ނަމަވެސް އެއިން އުފުލައިދޭނެ ހިތާމައިގެ ބަރުދަން އޭނާއަށް އެނގެއެވެ.",
+     "narration_english": "Even the thought frightened her. A pregnancy test is a tiny plastic thing. But she knew the weight of grief it could bring.",
+     "crop": "full",
+     "motion": "pan down",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_063",
+     "startMs": 558456,
+     "endMs": 568416,
+     "narration_dhivehi": "ފާއިތުވި ފަސް އަހަރުގެ އިންތިޒާރާއި، ނެގަޓިވްވި ކޮންމެ ޓެސްޓަކާއި، އީތަން ގާތު އެ ޚަބަރު ދޭނެ ގޮތް ހިޔާލުކުރުމަށްފަހު މާޔޫސްވާންޖެހުނު ކޮންމެ ފަހަރެކެވެ.",
+     "narration_english": "Five years of waiting, every test that came back negative, every time she imagined how she would tell Eethan the news and then had to be disappointed.",
+     "crop": "tight",
+     "motion": "static drift",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      10.5,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_064",
+     "startMs": 568416,
+     "endMs": 578546,
+     "narration_dhivehi": "\"ނެގަޓިވް ވެއްޖެނަމަ؟\" އޭނާ މަޑުމަޑުން އަހައިލިއެވެ. \"ދެން އެކަމާ ކުރިމަތިލާނީ.\" \"ޕޮޒިޓިވް ވެއްޖެނަމަ؟\" \"އެކަމާވެސް ކުރިމަތިލާނީ.\" ލުހާގެ ލޮލުން ކަރުނަ އައެވެ.",
+     "narration_english": "\"What if it's negative?\" she asked softly. \"Then we'll face it.\" \"What if it's positive?\" \"We'll face that too.\" Tears came to Luha's eyes.",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": true,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Luha; reference image 2 is Amaan), create a new scene: Cinematic semi-realistic digital illustration with a quiet, tender, melancholic drama look: soft rainy grey-blue monsoon daylight from the windows contrasted with warm amber indoor lamp light, small vermilion-red accents, gentle film grain, shallow depth of field, intimate emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, table top, counter, wet pavement, soft shadow) for captions and a logo; rain streaks on window glass and wet reflective streets outside, while memories have a soft hazy golden dreamlike glow.\nScene: closer two-shot of the two sisters on the sofa: Luha's eyes filling with tears and a gentle brave smile, Amaan whispering a frightened question, still holding hands; a small plain white unopened box with no printing lies on the coffee table in front of them. Amaan wears her loose long-sleeved ankle-length cream dress and her dusty-rose hijab fully covering her hair and neck. Luha in her deep-teal dress and black hijab. Location: the small sitting room of the apartment: a worn sofa with a vermilion cushion, a low wooden coffee table with a novel and reading glasses, framed photos on the walls, a plain analog wall clock with no numerals, a balcony door with rain on the glass. Camera: medium close-up, eye level, both faces in the upper half.\nCharacters: Luha: a Maldivian woman of about 38 with warm brown skin, a round kind face, soft dark eyes and a calm motherly expression, medium height with a slightly fuller figure; wears a loose long-sleeved ankle-length deep-teal dress and a plain black hijab fully covering her hair and neck. Amaan: a slim Maldivian woman of 32 with warm brown skin, a soft oval face, large expressive dark eyes with faint tired shadows beneath, gentle arched eyebrows and full lips; wears a loose long-sleeved ankle-length plain cream-oatmeal dress and a soft dusty-rose hijab wrapped snugly and fully covering her hair and neck, a thin silver wedding ring.\nMood/lighting: rainy grey afternoon, soft diffused grey-blue daylight from the balcony door and one warm amber lamp, tender worry.\nModest Maldivian clothing (every woman in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck, also at home; men fully clothed in shirts or t-shirts and long trousers, never shirtless), no kissing, no embracing between a man and a woman, culturally respectful, no violence shown, no car crash, no injuries, no blood, no person lying down, no needles, no alcohol, no smoking, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.281,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 40.2,
+    "y_pct": 28.4,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_024",
+   "startMs": 578546,
+   "endMs": 597906,
+   "new_image_reason": "object focus: Eethan's framed photo under the mirror, smiling, his hand on her shoulder",
+   "characters": [
+    "eethan",
+    "amaan"
+   ],
+   "location": "a low wooden cabinet in the sitting room beneath a plain wall mirror, a small vase and a framed photograph on top, rain light from a nearby window",
+   "location_key": "photo",
+   "mood": "rainy grey afternoon, soft diffused daylight, a warm amber lamp glow on the frame, longing",
+   "visual": "a framed photograph standing on the low cabinet under a plain wall mirror: in the photo Eethan smiles warmly with his hand on Amaan's shoulder, Amaan beside him in her cream dress and dusty-rose hijab, a beach sunset behind them; the mirror reflects only the soft empty room; nobody else is in the scene",
+   "camera": "close-up of the cabinet top and the frame, the frame in the upper half",
+   "image": "images/beat_024.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": "other",
+   "safe_substitution": "Eethan appears only in a small framed photo (husband's hand on her shoulder)",
+   "ambience": "apartment_rain_day",
+   "shots": [
+    {
+     "id": "shot_065",
+     "startMs": 578546,
+     "endMs": 587086,
+     "narration_dhivehi": "އަމާން ސިޓިންރޫމާއި ދިމާއަށް ބަލައިލިއެވެ. އެތަނުގައިވާ ލޯގަނޑު ދަށުގައި އީތަންގެ ފޮޓޯއެއް އިނެވެ. އޭނާ ހުރީ ހިނިތުންވެފައެވެ.",
+     "narration_english": "Amaan looked towards the sitting room. Under the mirror there was a photo of Eethan. He was smiling.",
+     "crop": "full",
+     "motion": "pan left",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_066",
+     "startMs": 587086,
+     "endMs": 597906,
+     "narration_dhivehi": "އޭނާގެ އަތް އޮތީ އަމާންގެ ކޮނޑުމަތީގައެވެ. އޭނާއަށް އީތަންގެ އަޑު ހަނދާންވިއެވެ. އަމާން އިންތިޒާރުކުރަމުން ދިޔައިރު، ޓެސްޓު އޮތީ ފާޚާނާގެ މޭޒުމަތީގައި އަނެއްފުށަށް ޖަހާފައެވެ.",
+     "narration_english": "His hand rested on Amaan's shoulder. She remembered Eethan's voice. As Amaan waited, the test lay face down on the bathroom counter.",
+     "crop": "tight",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      28.6,
+      3.0,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Eethan; reference image 2 is Amaan), create a new scene: Cinematic semi-realistic digital illustration with a quiet, tender, melancholic drama look: soft rainy grey-blue monsoon daylight from the windows contrasted with warm amber indoor lamp light, small vermilion-red accents, gentle film grain, shallow depth of field, intimate emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, table top, counter, wet pavement, soft shadow) for captions and a logo; rain streaks on window glass and wet reflective streets outside, while memories have a soft hazy golden dreamlike glow.\nScene: a framed photograph standing on the low cabinet under a plain wall mirror: in the photo Eethan smiles warmly with his hand on Amaan's shoulder, Amaan beside him in her cream dress and dusty-rose hijab, a beach sunset behind them; the mirror reflects only the soft empty room; nobody else is in the scene. Location: a low wooden cabinet in the sitting room beneath a plain wall mirror, a small vase and a framed photograph on top, rain light from a nearby window. Camera: close-up of the cabinet top and the frame, the frame in the upper half.\nCharacters: Eethan: a tall broad-shouldered Maldivian man of about 34 with warm brown skin, a friendly open face, warm crinkly dark eyes, a broad easy smile, short neat slightly tousled black hair and a short neatly trimmed black beard; wears a faded navy-blue crew-neck t-shirt with a plain blank chest and grey jogger trousers, a thin silver wedding ring. Amaan: a slim Maldivian woman of 32 with warm brown skin, a soft oval face, large expressive dark eyes with faint tired shadows beneath, gentle arched eyebrows and full lips; wears a loose long-sleeved ankle-length plain cream-oatmeal dress and a soft dusty-rose hijab wrapped snugly and fully covering her hair and neck, a thin silver wedding ring.\nMood/lighting: rainy grey afternoon, soft diffused daylight, a warm amber lamp glow on the frame, longing.\nModest Maldivian clothing (every woman in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck, also at home; men fully clothed in shirts or t-shirts and long trousers, never shirtless), no kissing, no embracing between a man and a woman, culturally respectful, no violence shown, no car crash, no injuries, no blood, no person lying down, no needles, no alcohol, no smoking, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.164,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 58.3,
+    "y_pct": 38.2,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_025",
+   "startMs": 597906,
+   "endMs": 614657,
+   "new_image_reason": "location and action change: she waits by the frosted window, the test face down",
+   "characters": [
+    "amaan"
+   ],
+   "location": "a small plain room off the hallway with a narrow pale counter under a frosted glass window, a folded hand towel on the counter, a white door ajar to a hallway; no toilet, no shower, no bathtub, no sink fixtures visible",
+   "location_key": "vanity",
+   "mood": "rainy grey afternoon, soft milky light through the frosted glass, very quiet, suspense and fragile hope",
+   "visual": "Amaan standing at the narrow pale counter under a frosted glass window, both hands resting on the counter edge, head bowed, listening; a small plain white plastic stick lies face down on the counter in front of her; milky rain light from the frosted glass. Amaan wears her loose long-sleeved ankle-length cream dress and her dusty-rose hijab fully covering her hair and neck",
+   "camera": "medium shot, eye level, her face in the upper third, the counter top as a calm lower third",
+   "image": "images/beat_025.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": "other",
+   "safe_substitution": "the 'bathroom counter/basin' is shown as a plain counter by a frosted window; no toilet, sink or shower",
+   "ambience": "apartment_rain_day",
+   "shots": [
+    {
+     "id": "shot_067",
+     "startMs": 597906,
+     "endMs": 607066,
+     "narration_dhivehi": "އޭނާ ފާޙަނާގެ ތަށިމަތީގައި އަތްއަޅުވައިގެން، ބަދިގޭގައި ލުހާ އުޅޭ އަޑުއަހަން ހުއްޓެވެ. ގޭތެރެއިން ދުވަނީ ސައިގެ ވަހާއި ވާރޭގެ ތެތްކަމުގެ ވަހެވެ.",
+     "narration_english": "She stood with her hands on the edge of the basin, listening to Luha moving about in the kitchen. Through the house drifted the smell of tea and the dampness of the rain.",
+     "crop": "full",
+     "motion": "pan right",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_068",
+     "startMs": 607066,
+     "endMs": 614657,
+     "narration_dhivehi": "އަމާން ޓެސްޓަށް ބަލައިލިއެވެ. އޭނާގެ ހިތުގެ ހިނގުން އަވަސްވިއެވެ. މަޑުމަޑުން، އޭނާ އެ ޓެސްޓު އަނބުރައިލިއެވެ. ދެ ރޮނގު ފެންނަން ހުއްޓެވެ.",
+     "narration_english": "Amaan looked at the test. Her heart began to race. Slowly she turned the test over. Two lines were showing.",
+     "crop": "tight",
+     "motion": "slow push-in",
+     "sfx": [
+      {
+       "name": "heartbeat",
+       "atMs": 609687,
+       "gainDb": -20,
+       "word": "އަވަސްވިއެވެ."
+      }
+     ],
+     "hum": true,
+     "crop_rect_pct": [
+      20.3,
+      4.8,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Amaan), create a new scene: Cinematic semi-realistic digital illustration with a quiet, tender, melancholic drama look: soft rainy grey-blue monsoon daylight from the windows contrasted with warm amber indoor lamp light, small vermilion-red accents, gentle film grain, shallow depth of field, intimate emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, table top, counter, wet pavement, soft shadow) for captions and a logo; rain streaks on window glass and wet reflective streets outside, while memories have a soft hazy golden dreamlike glow.\nScene: Amaan standing at the narrow pale counter under a frosted glass window, both hands resting on the counter edge, head bowed, listening; a small plain white plastic stick lies face down on the counter in front of her; milky rain light from the frosted glass. Amaan wears her loose long-sleeved ankle-length cream dress and her dusty-rose hijab fully covering her hair and neck. Location: a small plain room off the hallway with a narrow pale counter under a frosted glass window, a folded hand towel on the counter, a white door ajar to a hallway; no toilet, no shower, no bathtub, no sink fixtures visible. Camera: medium shot, eye level, her face in the upper third, the counter top as a calm lower third.\nCharacters: Amaan: a slim Maldivian woman of 32 with warm brown skin, a soft oval face, large expressive dark eyes with faint tired shadows beneath, gentle arched eyebrows and full lips; wears a loose long-sleeved ankle-length plain cream-oatmeal dress and a soft dusty-rose hijab wrapped snugly and fully covering her hair and neck, a thin silver wedding ring.\nMood/lighting: rainy grey afternoon, soft milky light through the frosted glass, very quiet, suspense and fragile hope.\nModest Maldivian clothing (every woman in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck, also at home; men fully clothed in shirts or t-shirts and long trousers, never shirtless), no kissing, no embracing between a man and a woman, culturally respectful, no violence shown, no car crash, no injuries, no blood, no person lying down, no needles, no alcohol, no smoking, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.423,
+    "halo": true
+   },
+   "focus": {
+    "x_pct": 50.0,
+    "y_pct": 40.0,
+    "face_detected": false
+   }
+  },
+  {
+   "id": "beat_026",
+   "startMs": 614657,
+   "endMs": 633677,
+   "new_image_reason": "emotional turning point: she turns it over — two lines",
+   "characters": [
+    "amaan"
+   ],
+   "location": "a small plain room off the hallway with a narrow pale counter under a frosted glass window, a folded hand towel on the counter, a white door ajar to a hallway; no toilet, no shower, no bathtub, no sink fixtures visible",
+   "location_key": "vanity",
+   "mood": "rainy grey afternoon, soft milky light through the frosted glass, very quiet, suspense and fragile hope",
+   "visual": "close-up of Amaan's trembling hand holding a small plain white plastic test stick showing two faint pink lines in its little window, no text or logo on it; above it her stunned, disbelieving face, wide eyes brimming, soft milky light from the frosted window. Amaan wears her loose long-sleeved ankle-length cream dress and her dusty-rose hijab fully covering her hair and neck",
+   "camera": "close-up, her face in the upper third, the hand and stick in the middle",
+   "image": "images/beat_026.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": "other",
+   "safe_substitution": "pregnancy test = a plain white stick with two faint pink lines, held in her hand",
+   "ambience": "apartment_rain_day",
+   "shots": [
+    {
+     "id": "shot_069",
+     "startMs": 614657,
+     "endMs": 623167,
+     "narration_dhivehi": "އޭނާއަށް ކުރިމަތީގައިވާ މަންޒަރު ޤަބޫލެއް ނުކުރެވުނެވެ. އޭނާ ޓެސްޓަށް ބަލަހައްޓައިގެން ހުރީ، އެ ރޮނގުތައް ފިލައިގެން ގޮސް،",
+     "narration_english": "She couldn't believe what was in front of her. She stood staring at the test, waiting for the lines to fade away,",
+     "crop": "full",
+     "motion": "pan up",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_070",
+     "startMs": 623167,
+     "endMs": 633677,
+     "narration_dhivehi": "އޭނާއަށް އޮޅުނީކަން އެނގޭނެ އިރަކަށެވެ. ނަމަވެސް އެ ރޮނގުތައް ފިލައިގެންނެއް ނުދިޔައެވެ. ވަރަށް ސާފުކޮށް ފެންނަން ހުއްޓެވެ. \"ލުހާ؟\" އަމާންގެ އަތް ތުރުތުރުލާން ފެށިއެވެ.",
+     "narration_english": "and for her to realise she had been mistaken. But the lines didn't fade. They stayed, very clear. \"Luha?\" Amaan's hands began to tremble.",
+     "crop": "tight",
+     "motion": "slow pull-out",
+     "sfx": [
+      {
+       "name": "breath",
+       "atMs": 632347,
+       "gainDb": -22,
+       "word": "ތުރުތުރުލާން"
+      }
+     ],
+     "hum": true,
+     "crop_rect_pct": [
+      21.0,
+      0.0,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Amaan), create a new scene: Cinematic semi-realistic digital illustration with a quiet, tender, melancholic drama look: soft rainy grey-blue monsoon daylight from the windows contrasted with warm amber indoor lamp light, small vermilion-red accents, gentle film grain, shallow depth of field, intimate emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, table top, counter, wet pavement, soft shadow) for captions and a logo; rain streaks on window glass and wet reflective streets outside, while memories have a soft hazy golden dreamlike glow.\nScene: close-up of Amaan's trembling hand holding a small plain white plastic test stick showing two faint pink lines in its little window, no text or logo on it; above it her stunned, disbelieving face, wide eyes brimming, soft milky light from the frosted window. Amaan wears her loose long-sleeved ankle-length cream dress and her dusty-rose hijab fully covering her hair and neck. Location: a small plain room off the hallway with a narrow pale counter under a frosted glass window, a folded hand towel on the counter, a white door ajar to a hallway; no toilet, no shower, no bathtub, no sink fixtures visible. Camera: close-up, her face in the upper third, the hand and stick in the middle.\nCharacters: Amaan: a slim Maldivian woman of 32 with warm brown skin, a soft oval face, large expressive dark eyes with faint tired shadows beneath, gentle arched eyebrows and full lips; wears a loose long-sleeved ankle-length plain cream-oatmeal dress and a soft dusty-rose hijab wrapped snugly and fully covering her hair and neck, a thin silver wedding ring.\nMood/lighting: rainy grey afternoon, soft milky light through the frosted glass, very quiet, suspense and fragile hope.\nModest Maldivian clothing (every woman in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck, also at home; men fully clothed in shirts or t-shirts and long trousers, never shirtless), no kissing, no embracing between a man and a woman, culturally respectful, no violence shown, no car crash, no injuries, no blood, no person lying down, no needles, no alcohol, no smoking, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.405,
+    "halo": true
+   },
+   "focus": {
+    "x_pct": 50.7,
+    "y_pct": 26.3,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_027",
+   "startMs": 633677,
+   "endMs": 650807,
+   "new_image_reason": "character enters: Luha in the doorway; Amaan shows her the test",
+   "characters": [
+    "luha",
+    "amaan"
+   ],
+   "location": "a small plain room off the hallway with a narrow pale counter under a frosted glass window, a folded hand towel on the counter, a white door ajar to a hallway; no toilet, no shower, no bathtub, no sink fixtures visible",
+   "location_key": "vanity",
+   "mood": "rainy grey afternoon, soft milky light through the frosted glass, very quiet, suspense and fragile hope",
+   "visual": "Luha stopping in the open doorway, one hand flying to cover her mouth in shock, eyes wide and filling with tears; Amaan facing her, speechless, holding out the small white test stick in her trembling hand. Amaan wears her loose long-sleeved ankle-length cream dress and her dusty-rose hijab fully covering her hair and neck. Luha in her deep-teal dress and black hijab",
+   "camera": "medium wide two-shot, eye level, both faces in the upper half",
+   "image": "images/beat_027.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "apartment_rain_day",
+   "shots": [
+    {
+     "id": "shot_071",
+     "startMs": 633677,
+     "endMs": 643307,
+     "narration_dhivehi": "އޭނާގެ ދައްތަ ދޮރުމައްޗަށް ހުއްޓުނެވެ. އަމާންގެ މޫނުމަތި ފެނުމުން އެކަނިވެސް ލުހާއަށް ކަންތައް ވީގޮތް އެނގުނެވެ. އަމާންއަކަށް ވާހަކައެއް ނުދެއްކުނެވެ.",
+     "narration_english": "Her elder sister stopped in the doorway. Just seeing Amaan's face, Luha knew what had happened. Amaan couldn't say a word.",
+     "crop": "full",
+     "motion": "pan down",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_072",
+     "startMs": 643307,
+     "endMs": 650807,
+     "narration_dhivehi": "އޭނާ ދެއްކީ އަތުގައި އޮތް ޓެސްޓެވެ. ލުހާ އެ ނަގައި، ބަލައިލުމަށްފަހު އަނގަމަތީގައި އަތްއެޅިއެވެ. އަމާން ރޯން ފެށިއެވެ.",
+     "narration_english": "She only showed the test in her hand. Luha took it, looked at it, and put her hand over her mouth. Amaan began to cry.",
+     "crop": "tight",
+     "motion": "static drift",
+     "sfx": [
+      {
+       "name": "gasp",
+       "atMs": 648387,
+       "gainDb": -20,
+       "word": "އަތްއެޅިއެވެ."
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      0.0,
+      0.0,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Luha; reference image 2 is Amaan), create a new scene: Cinematic semi-realistic digital illustration with a quiet, tender, melancholic drama look: soft rainy grey-blue monsoon daylight from the windows contrasted with warm amber indoor lamp light, small vermilion-red accents, gentle film grain, shallow depth of field, intimate emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, table top, counter, wet pavement, soft shadow) for captions and a logo; rain streaks on window glass and wet reflective streets outside, while memories have a soft hazy golden dreamlike glow.\nScene: Luha stopping in the open doorway, one hand flying to cover her mouth in shock, eyes wide and filling with tears; Amaan facing her, speechless, holding out the small white test stick in her trembling hand. Amaan wears her loose long-sleeved ankle-length cream dress and her dusty-rose hijab fully covering her hair and neck. Luha in her deep-teal dress and black hijab. Location: a small plain room off the hallway with a narrow pale counter under a frosted glass window, a folded hand towel on the counter, a white door ajar to a hallway; no toilet, no shower, no bathtub, no sink fixtures visible. Camera: medium wide two-shot, eye level, both faces in the upper half.\nCharacters: Luha: a Maldivian woman of about 38 with warm brown skin, a round kind face, soft dark eyes and a calm motherly expression, medium height with a slightly fuller figure; wears a loose long-sleeved ankle-length deep-teal dress and a plain black hijab fully covering her hair and neck. Amaan: a slim Maldivian woman of 32 with warm brown skin, a soft oval face, large expressive dark eyes with faint tired shadows beneath, gentle arched eyebrows and full lips; wears a loose long-sleeved ankle-length plain cream-oatmeal dress and a soft dusty-rose hijab wrapped snugly and fully covering her hair and neck, a thin silver wedding ring.\nMood/lighting: rainy grey afternoon, soft milky light through the frosted glass, very quiet, suspense and fragile hope.\nModest Maldivian clothing (every woman in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck, also at home; men fully clothed in shirts or t-shirts and long trousers, never shirtless), no kissing, no embracing between a man and a woman, culturally respectful, no violence shown, no car crash, no injuries, no blood, no person lying down, no needles, no alcohol, no smoking, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.242,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 28.9,
+    "y_pct": 20.5,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_028",
+   "startMs": 650807,
+   "endMs": 676687,
+   "new_image_reason": "action change / emotional peak: Luha holds her as she sobs — 'positive, really positive'",
+   "characters": [
+    "amaan",
+    "luha"
+   ],
+   "location": "a small plain room off the hallway with a narrow pale counter under a frosted glass window, a folded hand towel on the counter, a white door ajar to a hallway; no toilet, no shower, no bathtub, no sink fixtures visible",
+   "location_key": "vanity",
+   "mood": "rainy grey afternoon, soft milky light through the frosted glass, very quiet, suspense and fragile hope",
+   "visual": "Luha wrapping her arms tightly around her younger sister Amaan; Amaan sobbing against Luha's shoulder, eyes squeezed shut, the small white stick still clutched in her hand; Luha's eyes closed with tears; two sisters, fully covered. Amaan wears her loose long-sleeved ankle-length cream dress and her dusty-rose hijab fully covering her hair and neck. Luha in her deep-teal dress and black hijab",
+   "camera": "medium close-up, eye level, both faces in the upper half",
+   "image": "images/beat_028.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": "other",
+   "safe_substitution": "a sisters' hug (allowed); no bathroom fixtures shown",
+   "ambience": "apartment_rain_day",
+   "shots": [
+    {
+     "id": "shot_073",
+     "startMs": 650807,
+     "endMs": 659837,
+     "narration_dhivehi": "ހިފެހެއްޓުމެއްނެތި ބާރަށް އައި ކަރުނައިގެ އޮހޮރުމެކެވެ. ލުހާ ފާޚާނާއަށް ވަދެ އޭނާގެ ގައިގައި ބައްދައިލިއެވެ. \"ޕޮޒިޓިވް.\" އަމާން މަޑުމަޑުން ބުންޏެވެ.",
+     "narration_english": "A flood of tears with nothing holding them back. Luha came in and wrapped her arms around her. \"Positive,\" Amaan said softly.",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [
+      {
+       "name": "sob_breath",
+       "atMs": 653007,
+       "gainDb": -20,
+       "word": "އޮހޮރުމެކެވެ."
+      }
+     ],
+     "hum": true,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_074",
+     "startMs": 659837,
+     "endMs": 669257,
+     "narration_dhivehi": "\"ހަގީގަތުގައިވެސް ޕޮޒިޓިވް.\" އަމާން ބޯހޫރާލަމުން، އިތުރަށް ގިސްލާފައި ރޯން ފެށިއެވެ. ފަސް އަހަރުގެ އިންތިޒާރާއި، ބޭސްތަކާއި،",
+     "narration_english": "\"Really positive.\" Amaan nodded, sobbing even harder. After five years of waiting, of medicines,",
+     "crop": "tight",
+     "motion": "pan left",
+     "sfx": [
+      {
+       "name": "sob_breath",
+       "atMs": 664427,
+       "gainDb": -22,
+       "word": "ގިސްލާފައި"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      24.1,
+      7.9,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_075",
+     "startMs": 669257,
+     "endMs": 676687,
+     "narration_dhivehi": "ގެއްލިގެންދިޔަ އުންމީދުތަކަށް ފަހު، އެންމެ ފަހުން އޭނާގެ ބަނޑުގައި ދިރުމެއް އުފެދެނީއެވެ. އީތަން ދެކުނު ހުވަފެނެކެވެ.",
+     "narration_english": "of lost hopes, at last a life was forming inside her. The dream Eethan had dreamed.",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": true,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Amaan; reference image 2 is Luha), create a new scene: Cinematic semi-realistic digital illustration with a quiet, tender, melancholic drama look: soft rainy grey-blue monsoon daylight from the windows contrasted with warm amber indoor lamp light, small vermilion-red accents, gentle film grain, shallow depth of field, intimate emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, table top, counter, wet pavement, soft shadow) for captions and a logo; rain streaks on window glass and wet reflective streets outside, while memories have a soft hazy golden dreamlike glow.\nScene: Luha wrapping her arms tightly around her younger sister Amaan; Amaan sobbing against Luha's shoulder, eyes squeezed shut, the small white stick still clutched in her hand; Luha's eyes closed with tears; two sisters, fully covered. Amaan wears her loose long-sleeved ankle-length cream dress and her dusty-rose hijab fully covering her hair and neck. Luha in her deep-teal dress and black hijab. Location: a small plain room off the hallway with a narrow pale counter under a frosted glass window, a folded hand towel on the counter, a white door ajar to a hallway; no toilet, no shower, no bathtub, no sink fixtures visible. Camera: medium close-up, eye level, both faces in the upper half.\nCharacters: Amaan: a slim Maldivian woman of 32 with warm brown skin, a soft oval face, large expressive dark eyes with faint tired shadows beneath, gentle arched eyebrows and full lips; wears a loose long-sleeved ankle-length plain cream-oatmeal dress and a soft dusty-rose hijab wrapped snugly and fully covering her hair and neck, a thin silver wedding ring. Luha: a Maldivian woman of about 38 with warm brown skin, a round kind face, soft dark eyes and a calm motherly expression, medium height with a slightly fuller figure; wears a loose long-sleeved ankle-length deep-teal dress and a plain black hijab fully covering her hair and neck.\nMood/lighting: rainy grey afternoon, soft milky light through the frosted glass, very quiet, suspense and fragile hope.\nModest Maldivian clothing (every woman in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck, also at home; men fully clothed in shirts or t-shirts and long trousers, never shirtless), no kissing, no embracing between a man and a woman, culturally respectful, no violence shown, no car crash, no injuries, no blood, no person lying down, no needles, no alcohol, no smoking, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.183,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 53.8,
+    "y_pct": 43.1,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_029",
+   "startMs": 676687,
+   "endMs": 718448,
+   "new_image_reason": "action change: both sink to the floor; she lays her palm on her belly — 'hello'",
+   "characters": [
+    "amaan",
+    "luha"
+   ],
+   "location": "the narrow apartment hallway outside a small room, a plain cream wall, a wooden floor, a soft light from the kitchen at the end",
+   "location_key": "hallway",
+   "mood": "rainy grey afternoon with warm amber light from the kitchen, overwhelming emotion, tears of joy and grief",
+   "visual": "Amaan sitting on the hallway floor with her back against the cream wall, the white test stick in one hand and her other palm resting gently on her still-flat stomach, looking down at it with tearful wonder and a tiny smile; Luha kneeling beside her, tears on her cheeks, a hand on Amaan's arm. Amaan wears her loose long-sleeved ankle-length cream dress and her dusty-rose hijab fully covering her hair and neck. Luha in her deep-teal dress and black hijab",
+   "camera": "medium shot, slightly high angle, both faces in the upper half, the wooden floor as a calm lower third",
+   "image": "images/beat_029.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "apartment_rain_day",
+   "shots": [
+    {
+     "id": "shot_076",
+     "startMs": 676687,
+     "endMs": 684427,
+     "narration_dhivehi": "ދުވަހަކުވެސް ޙަޤީޤަތަކަށް ނުވާނެކަމަށް އޭނާ ހީކުރި ދިރުމެކެވެ. އޭނާ ތިރީގައި އިށީނެވެ. އަތުގައި އަދިވެސް އެ ޓެސްޓު އޮތެވެ.",
+     "narration_english": "A life she thought would never become real. She sat down on the floor. The test was still in her hand.",
+     "crop": "full",
+     "motion": "pan right",
+     "sfx": [
+      {
+       "name": "cloth_rustle",
+       "atMs": 681567,
+       "gainDb": -24,
+       "word": "އިށީނެވެ."
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_077",
+     "startMs": 684427,
+     "endMs": 692847,
+     "narration_dhivehi": "ލުހާ އޭނާގެ ކައިރީގައި ކަކޫޖައްސައިގެން އިށީނެވެ. އޭނާގެ ލޮލުންވެސް ކަރުނަ އޮއްސެމުން ދިޔައެވެ. \"އަވަހަށް ޑޮކްޓަރު ދައްކަން ދަމާ.\" ލުހާ ބުންޏެވެ.",
+     "narration_english": "Luha knelt down beside her. Tears were flowing from her eyes too. \"Let's go and see a doctor soon,\" Luha said.",
+     "crop": "tight",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      0.8,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_078",
+     "startMs": 692847,
+     "endMs": 700568,
+     "narration_dhivehi": "އަމާން އޭނާގެ ބަނޑަށް ބަލައިލިއެވެ. ބަނޑު އަދިވެސް އިނީ ކުރިއެކޭވެސް އެއްފަދައިންނެވެ. ބޭރުފުށުން އެއްވެސް ބަދަލެއް ނެތެވެ.",
+     "narration_english": "Amaan looked at her stomach. It was still just as it had been. Nothing had changed on the outside.",
+     "crop": "full",
+     "motion": "pan up",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_079",
+     "startMs": 700568,
+     "endMs": 709558,
+     "narration_dhivehi": "އޭނާ މަޑުމަޑުން އޭނާގެ އަތްތިލަ ބަނޑުމަތީގައި ބާއްވައިލިއެވެ. \"ހެލޯ.\" އޭނާ ސިއްރުސިއްރުން ބުނެލިއެވެ. އެއަށް ފަހު އޭނާ ދޮރާ ދިމާއަށް ބަލައިލީ،",
+     "narration_english": "Slowly she rested her palm on her stomach. \"Hello,\" she whispered. Then she looked towards the door,",
+     "crop": "medium",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": true,
+     "crop_rect_pct": [
+      0.0,
+      0.0,
+      71.5,
+      84.7
+     ]
+    },
+    {
+     "id": "shot_080",
+     "startMs": 709558,
+     "endMs": 718448,
+     "narration_dhivehi": "ވާނުވާ ނޭނގިފައި ހުރެ ހިނިތުންވެލަމުން، ދެ މީހުން އެ ރޮނީ ކީއްވެގެންތޯ އަހައިލަން އީތަން އައިސްދާނެ ކަމުގެ މައުސޫމް އުންމީދާއެކުގައެވެ.",
+     "narration_english": "smiling without knowing why, with an innocent hope that Eethan might walk in and ask why the two of them were crying.",
+     "crop": "tight",
+     "motion": "pan down",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      0.8,
+      0.0,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Amaan; reference image 2 is Luha), create a new scene: Cinematic semi-realistic digital illustration with a quiet, tender, melancholic drama look: soft rainy grey-blue monsoon daylight from the windows contrasted with warm amber indoor lamp light, small vermilion-red accents, gentle film grain, shallow depth of field, intimate emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, table top, counter, wet pavement, soft shadow) for captions and a logo; rain streaks on window glass and wet reflective streets outside, while memories have a soft hazy golden dreamlike glow.\nScene: Amaan sitting on the hallway floor with her back against the cream wall, the white test stick in one hand and her other palm resting gently on her still-flat stomach, looking down at it with tearful wonder and a tiny smile; Luha kneeling beside her, tears on her cheeks, a hand on Amaan's arm. Amaan wears her loose long-sleeved ankle-length cream dress and her dusty-rose hijab fully covering her hair and neck. Luha in her deep-teal dress and black hijab. Location: the narrow apartment hallway outside a small room, a plain cream wall, a wooden floor, a soft light from the kitchen at the end. Camera: medium shot, slightly high angle, both faces in the upper half, the wooden floor as a calm lower third.\nCharacters: Amaan: a slim Maldivian woman of 32 with warm brown skin, a soft oval face, large expressive dark eyes with faint tired shadows beneath, gentle arched eyebrows and full lips; wears a loose long-sleeved ankle-length plain cream-oatmeal dress and a soft dusty-rose hijab wrapped snugly and fully covering her hair and neck, a thin silver wedding ring. Luha: a Maldivian woman of about 38 with warm brown skin, a round kind face, soft dark eyes and a calm motherly expression, medium height with a slightly fuller figure; wears a loose long-sleeved ankle-length deep-teal dress and a plain black hijab fully covering her hair and neck.\nMood/lighting: rainy grey afternoon with warm amber light from the kitchen, overwhelming emotion, tears of joy and grief.\nModest Maldivian clothing (every woman in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck, also at home; men fully clothed in shirts or t-shirts and long trousers, never shirtless), no kissing, no embracing between a man and a woman, culturally respectful, no violence shown, no car crash, no injuries, no blood, no person lying down, no needles, no alcohol, no smoking, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.4,
+    "halo": true
+   },
+   "focus": {
+    "x_pct": 30.5,
+    "y_pct": 30.4,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_030",
+   "startMs": 718448,
+   "endMs": 734928,
+   "new_image_reason": "imagined scene: how Eethan would have taken the news",
+   "characters": [
+    "eethan"
+   ],
+   "location": "the apartment's front doorway and the narrow entrance hall, a wooden door standing open",
+   "location_key": "imagined_door",
+   "mood": "soft hazy golden dreamlike memory glow, warm and joyful, an imagined moment",
+   "visual": "an imagined moment: Eethan standing in the open front doorway in his navy t-shirt, holding the small white test stick in one hand, his other hand pressed to his forehead, his face breaking into laughing, crying joy, eyes shining with tears; nobody else in the frame",
+   "camera": "medium shot, eye level, his face in the upper third",
+   "image": "images/beat_030.png",
+   "reuse_of": null,
+   "transition_in": "dissolve",
+   "sensitive": "intimacy",
+   "safe_substitution": "the imagined joyful hug is shown as Eethan alone, overwhelmed with joy in the doorway",
+   "ambience": "memory",
+   "shots": [
+    {
+     "id": "shot_081",
+     "startMs": 718448,
+     "endMs": 726168,
+     "narration_dhivehi": "އޭނާ އީތަންއަށް އެ ޚަބަރު ދޭ މަންޒަރާއި، ޓެސްޓަށް ބަލަހައްޓައިގެން ހުރެ އޭނާގެ މޫނުމަތީގެ އަސަރުތައް ބަދަލުވެގެންދާ ތަނާއި،",
+     "narration_english": "She imagined giving Eethan the news, his face changing as he stared at the test,",
+     "crop": "full",
+     "motion": "static drift",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_082",
+     "startMs": 726168,
+     "endMs": 734928,
+     "narration_dhivehi": "އުފަލުން ގޮސް ރޮމުން އޭނާގެ ގައިގައި ބައްދާލައި، އަދި ނުގަނެވި ހުރި އެއްޗެއްސާމެދު ވަގުތުން ކަންބޮޑުވާން ފަށާނެ ގޮތް ހިޔާލުކޮށްލިއެވެ.",
+     "narration_english": "how he would wrap his arms around her, laughing and crying with joy, and then immediately start worrying about all the things they hadn't bought yet.",
+     "crop": "tight",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      21.0,
+      0.0,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Eethan), create a new scene: Cinematic semi-realistic digital illustration with a quiet, tender, melancholic drama look: soft rainy grey-blue monsoon daylight from the windows contrasted with warm amber indoor lamp light, small vermilion-red accents, gentle film grain, shallow depth of field, intimate emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, table top, counter, wet pavement, soft shadow) for captions and a logo; rain streaks on window glass and wet reflective streets outside, while memories have a soft hazy golden dreamlike glow.\nScene: an imagined moment: Eethan standing in the open front doorway in his navy t-shirt, holding the small white test stick in one hand, his other hand pressed to his forehead, his face breaking into laughing, crying joy, eyes shining with tears; nobody else in the frame. Location: the apartment's front doorway and the narrow entrance hall, a wooden door standing open. Camera: medium shot, eye level, his face in the upper third.\nCharacters: Eethan: a tall broad-shouldered Maldivian man of about 34 with warm brown skin, a friendly open face, warm crinkly dark eyes, a broad easy smile, short neat slightly tousled black hair and a short neatly trimmed black beard; wears a faded navy-blue crew-neck t-shirt with a plain blank chest and grey jogger trousers, a thin silver wedding ring.\nMood/lighting: soft hazy golden dreamlike memory glow, warm and joyful, an imagined moment.\nModest Maldivian clothing (every woman in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck, also at home; men fully clothed in shirts or t-shirts and long trousers, never shirtless), no kissing, no embracing between a man and a woman, culturally respectful, no violence shown, no car crash, no injuries, no blood, no person lying down, no needles, no alcohol, no smoking, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.241,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 50.7,
+    "y_pct": 19.4,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_031",
+   "startMs": 734928,
+   "endMs": 750918,
+   "new_image_reason": "return from the imagined scene: 'I wish Eethan were here' — Luha's hand on her shoulder",
+   "characters": [
+    "amaan",
+    "luha"
+   ],
+   "location": "the narrow apartment hallway outside a small room, a plain cream wall, a wooden floor, a soft light from the kitchen at the end",
+   "location_key": "hallway",
+   "mood": "rainy grey afternoon with warm amber light from the kitchen, overwhelming emotion, tears of joy and grief",
+   "visual": "(reuse of beat_029: Amaan and Luha on the hallway floor)",
+   "camera": "medium shot, eye level",
+   "image": "images/beat_029.png",
+   "reuse_of": "beat_029",
+   "transition_in": "dissolve",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "apartment_rain_day",
+   "shots": [
+    {
+     "id": "shot_083",
+     "startMs": 734928,
+     "endMs": 742728,
+     "narration_dhivehi": "\"އީތަން މިތަނުގައި ހުރި ނަމައޭ ހިތަށް އަރާ.\" އަމާން ބުންޏެވެ \"އެނގޭ.\" ލުހާ އޭނާގެ ކޮނޑުގައި އަތް އަޅުވާލިއެވެ.",
+     "narration_english": "\"I wish Eethan were here,\" Amaan said. \"I know.\" Luha laid her hand on her shoulder.",
+     "crop": "tight",
+     "motion": "pan left",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      0.8,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_084",
+     "startMs": 742728,
+     "endMs": 750918,
+     "narration_dhivehi": "\"އޭނާ ބުނީ ވަރަށް އަވަހަށް ގެއަށް އަންނާނަމޭ.\" އަމާން އެ ޓެސްޓު އޭނާގެ މޭގައި ޖައްސައި ބާރުކޮށްލިއެވެ. ލުހާ އެއަށް ޖަވާބެއް ދޭކަށް ނޫޅެއެވެ.",
+     "narration_english": "\"He said he'd come home very soon.\" Amaan pressed the test hard against her chest. Luha didn't try to answer,",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": true,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [],
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.388,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 30.5,
+    "y_pct": 30.4,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_032",
+   "startMs": 750918,
+   "endMs": 793799,
+   "new_image_reason": "time jump: that night alone in the sitting room she plays the message — 'we met'",
+   "characters": [
+    "amaan"
+   ],
+   "location": "the small sitting room of the apartment at night: a worn sofa with a vermilion cushion, a low coffee table, a balcony door with rain streaming down the dark glass, one warm amber floor lamp",
+   "location_key": "sitting_night",
+   "mood": "rainy night, one warm amber lamp against deep blue shadows, the soft glow of a phone, tearful wonder",
+   "visual": "Amaan sitting alone on the sofa at night, her phone lying on the cushion beside her with a soft glow, one hand resting on her stomach, eyes full of tears and a trembling, wondering smile as she whispers; rain streams down the dark balcony door; the phone screen shows only a soft blank glow, no text, no numbers. Amaan wears her loose long-sleeved ankle-length cream dress with a loose long grey cardigan over it and her dusty-rose hijab wrapped snugly, fully covering her hair and neck",
+   "camera": "medium shot, eye level, her face in the upper third, the sofa seat and rug as a calm lower third",
+   "image": "images/beat_032.png",
+   "reuse_of": null,
+   "transition_in": "black",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "apartment_rain_night",
+   "shots": [
+    {
+     "id": "shot_085",
+     "startMs": 750918,
+     "endMs": 758318,
+     "narration_dhivehi": "އެ ބަސްތަކުގެ ތަދު ކުޑަކޮށްދެވޭނެ އެއްވެސް ޖަވާބެއް ނެތީތީއެވެ. އެރޭ، އަމާން ސިޓިންރޫމްގައި އެކަނި އިނދެގެން،",
+     "narration_english": "because there was no answer that could ease the pain of those words. That night, sitting alone in the sitting room, Amaan",
+     "crop": "full",
+     "motion": "pan right",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_086",
+     "startMs": 758318,
+     "endMs": 768968,
+     "narration_dhivehi": "އޭނާގެ ފޯނުން އީތަންގެ އެންމެ ފަހު މެސެޖު ކުޑަކޮށް އަޑު ބާރުކޮށްލައިގެން އަޑުއަހަން އިނެވެ. ހެނދުނުން ފެށިގެން އޭނާ އެ މެސެޖު އެތައް ފަހަރަކު އަޑުއަހައިފިއެވެ. ނަމަވެސް،",
+     "narration_english": "listened to Eethan's last message on her phone, the volume turned up a little. She had listened to it many times since morning. But",
+     "crop": "tight",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      14.5,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_087",
+     "startMs": 768968,
+     "endMs": 777868,
+     "narration_dhivehi": "މިހާރު އޭގެ ކޮންމެ ބަހަކުން އޭނާއަށް އާ މާނައެއް ފޯރުކޮށްދޭ ކަހަލައެވެ. އަހަރެމެންގެ ކުޑަކުޑަ މުޢުޖިޒާތާ ބައްދަލުވެއްޖެނަމަ..... \"ބައްދަލުވެއްޖެ.\"",
+     "narration_english": "now every word of it seemed to give her a new meaning. \"If we ever meet our little miracle...\" \"We met.\"",
+     "crop": "full",
+     "motion": "pan up",
+     "sfx": [],
+     "hum": true,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_088",
+     "startMs": 777868,
+     "endMs": 785249,
+     "narration_dhivehi": "އަމާން މަޑުމަޑުން ބުނެލިއެވެ. އަދި އޭނާގެ ބަނޑުމަތީގައި އަތް ބާއްވާލިއެވެ. އޭނާގެ ދެ ލޯ ކަރުނައިން ފުރުނެވެ.",
+     "narration_english": "Amaan said softly. And she rested her hand on her stomach. Her eyes filled with tears.",
+     "crop": "medium",
+     "motion": "slow pull-out",
+     "sfx": [
+      {
+       "name": "breath",
+       "atMs": 784429,
+       "gainDb": -24,
+       "word": "ފުރުނެވެ."
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      8.5,
+      0.0,
+      71.5,
+      84.7
+     ]
+    },
+    {
+     "id": "shot_089",
+     "startMs": 785249,
+     "endMs": 793799,
+     "narration_dhivehi": "އަމާން އޭނާގެ ބަނޑުގައި ހިފަހައްޓައިގެން އިނދެ މެސެޖު ނިމެންދެން އަޑުއެހިއެވެ. ނިމޭއިރަށް އަނެއްކާވެސް އެ މެސެޖު ޕްލޭކޮށްލައެވެ. މަސްތަކެއް ފަހެވެ.",
+     "narration_english": "Holding her stomach, Amaan listened until the message ended. When it ended, she played it again. Months later.",
+     "crop": "tight",
+     "motion": "pan down",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      14.5,
+      0.0,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Amaan), create a new scene: Cinematic semi-realistic digital illustration with a quiet, tender, melancholic drama look: soft rainy grey-blue monsoon daylight from the windows contrasted with warm amber indoor lamp light, small vermilion-red accents, gentle film grain, shallow depth of field, intimate emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, table top, counter, wet pavement, soft shadow) for captions and a logo; rain streaks on window glass and wet reflective streets outside, while memories have a soft hazy golden dreamlike glow.\nScene: Amaan sitting alone on the sofa at night, her phone lying on the cushion beside her with a soft glow, one hand resting on her stomach, eyes full of tears and a trembling, wondering smile as she whispers; rain streams down the dark balcony door; the phone screen shows only a soft blank glow, no text, no numbers. Amaan wears her loose long-sleeved ankle-length cream dress with a loose long grey cardigan over it and her dusty-rose hijab wrapped snugly, fully covering her hair and neck. Location: the small sitting room of the apartment at night: a worn sofa with a vermilion cushion, a low coffee table, a balcony door with rain streaming down the dark glass, one warm amber floor lamp. Camera: medium shot, eye level, her face in the upper third, the sofa seat and rug as a calm lower third.\nCharacters: Amaan: a slim Maldivian woman of 32 with warm brown skin, a soft oval face, large expressive dark eyes with faint tired shadows beneath, gentle arched eyebrows and full lips; wears a loose long-sleeved ankle-length plain cream-oatmeal dress and a soft dusty-rose hijab wrapped snugly and fully covering her hair and neck, a thin silver wedding ring.\nMood/lighting: rainy night, one warm amber lamp against deep blue shadows, the soft glow of a phone, tearful wonder.\nModest Maldivian clothing (every woman in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck, also at home; men fully clothed in shirts or t-shirts and long trousers, never shirtless), no kissing, no embracing between a man and a woman, culturally respectful, no violence shown, no car crash, no injuries, no blood, no person lying down, no needles, no alcohol, no smoking, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.251,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 44.2,
+    "y_pct": 21.6,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_033",
+   "startMs": 793799,
+   "endMs": 835029,
+   "new_image_reason": "time jump ('months later'): the nursery Eethan built, golden evening light",
+   "characters": [
+    "amaan"
+   ],
+   "location": "a small children's room: a white wooden crib with a soft blanket, a low chest with neatly folded tiny baby clothes, a pale wall, a window with a sheer curtain, a phone lying on the windowsill",
+   "location_key": "nursery",
+   "mood": "months later, a clear golden late-afternoon after the rains, warm golden sun rays slanting through the window across the crib, peaceful, hopeful, gently fading to deep gold",
+   "visual": "Amaan, now visibly pregnant with a gently rounded belly, standing beside a white wooden crib in the small children's room, one hand resting softly on her belly, looking at the neatly folded tiny baby clothes; warm golden late-afternoon rays slant across the crib; her phone lies on the windowsill. Amaan wears a loose long-sleeved ankle-length soft cream maternity dress and her dusty-rose hijab fully covering her hair and neck",
+   "camera": "medium wide, eye level, her face in the upper third, the floor in golden light as a calm lower third",
+   "image": "images/beat_033.png",
+   "reuse_of": null,
+   "transition_in": "black",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "nursery_evening",
+   "shots": [
+    {
+     "id": "shot_090",
+     "startMs": 793799,
+     "endMs": 804209,
+     "narration_dhivehi": "އަހަރުތަކެއް ކުރިން އީތަން ހަދާފައިވާ ކުޑަކުދިންގެ ކޮޓަރީގައި އަމާން ހުއްޓިލައިގެން ހުރީ، އޭނާގެ ބަނޑުމަތީގައި މަޑުމަޑުން އަތް ބާއްވާލައިގެންނެވެ.",
+     "narration_english": "In the little children's room Eethan had made years ago, Amaan stood with her hand resting gently on her belly.",
+     "crop": "full",
+     "motion": "static drift",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_091",
+     "startMs": 804209,
+     "endMs": 813189,
+     "narration_dhivehi": "ހަވީރުގެ އަވީގެ ރަންދޯދިތައް ކުޑަ އެނދާއި، އެތަނުގައި ތައްޔާރުކޮށްފައި ހުރި ކުޑަކުއްޖާގެ ފައްޖަހާފައިވާ ހެދުންތަކުގެ މައްޗަށް އެޅެމުން ދިޔައެވެ.",
+     "narration_english": "The golden rays of the evening sun fell across the small crib and the folded baby clothes laid out there.",
+     "crop": "tight",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      17.0,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_092",
+     "startMs": 813189,
+     "endMs": 822619,
+     "narration_dhivehi": "އޭނާ ކުޑަދޮރުގެ ކައިރީގައި ފޯނު ބޭއްވުމަށް ފަހު، އެންމެ ފަހު ފަހަރަށް އީތަންގެ މެސެޖު ޕްލޭކޮށްލިއެވެ. އެ ހިމޭން ކޮޓަރީގެ ތެރެއަށް އޭނާގެ އަޑު ފެތުރިގެން ދިޔައެވެ.",
+     "narration_english": "She set the phone down by the window and played Eethan's message for the very last time. His voice spread through the silent room.",
+     "crop": "full",
+     "motion": "pan left",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_093",
+     "startMs": 822619,
+     "endMs": 835029,
+     "narration_dhivehi": "އީތަން އޭނާގެ އަރިހުގައި ހުރި ފަދަ އިޙްސާސެއް ކުރެވުނެވެ. އެ ދެމީހުން އެކުގައި ދެކުނު ހުވަފެނާއި، ދަރިފުޅުގެ އެ ކޮޓަރިއާއި، އެ ކުޑަކުޑަ ހެދުންތައް އީތަންއަށް ފެންނާނެ ނަމައޭ އޭނާގެ ހިތަށްއެރިއެވެ.",
+     "narration_english": "She felt as if Eethan were standing beside her. The dream the two of them had dreamed together, the baby's room, those tiny clothes — she hoped Eethan could see them.",
+     "crop": "medium",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": true,
+     "crop_rect_pct": [
+      10.9,
+      0.0,
+      71.5,
+      84.7
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Amaan), create a new scene: Cinematic semi-realistic digital illustration with a quiet, tender, melancholic drama look: soft rainy grey-blue monsoon daylight from the windows contrasted with warm amber indoor lamp light, small vermilion-red accents, gentle film grain, shallow depth of field, intimate emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, table top, counter, wet pavement, soft shadow) for captions and a logo; rain streaks on window glass and wet reflective streets outside, while memories have a soft hazy golden dreamlike glow.\nScene: Amaan, now visibly pregnant with a gently rounded belly, standing beside a white wooden crib in the small children's room, one hand resting softly on her belly, looking at the neatly folded tiny baby clothes; warm golden late-afternoon rays slant across the crib; her phone lies on the windowsill. Amaan wears a loose long-sleeved ankle-length soft cream maternity dress and her dusty-rose hijab fully covering her hair and neck. Location: a small children's room: a white wooden crib with a soft blanket, a low chest with neatly folded tiny baby clothes, a pale wall, a window with a sheer curtain, a phone lying on the windowsill. Camera: medium wide, eye level, her face in the upper third, the floor in golden light as a calm lower third.\nCharacters: Amaan: a slim Maldivian woman of 32 with warm brown skin, a soft oval face, large expressive dark eyes with faint tired shadows beneath, gentle arched eyebrows and full lips; wears a loose long-sleeved ankle-length plain cream-oatmeal dress and a soft dusty-rose hijab wrapped snugly and fully covering her hair and neck, a thin silver wedding ring.\nMood/lighting: months later, a clear golden late-afternoon after the rains, warm golden sun rays slanting through the window across the crib, peaceful, hopeful, gently fading to deep gold.\nModest Maldivian clothing (every woman in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck, also at home; men fully clothed in shirts or t-shirts and long trousers, never shirtless), no kissing, no embracing between a man and a woman, culturally respectful, no violence shown, no car crash, no injuries, no blood, no person lying down, no needles, no alcohol, no smoking, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.374,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 46.7,
+    "y_pct": 17.5,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_034",
+   "startMs": 835029,
+   "endMs": 869710,
+   "new_image_reason": "final emotional close: one hand on her chest, one on her belly — she smiles at the future",
+   "characters": [
+    "amaan"
+   ],
+   "location": "a small children's room: a white wooden crib with a soft blanket, a low chest with neatly folded tiny baby clothes, a pale wall, a window with a sheer curtain, a phone lying on the windowsill",
+   "location_key": "nursery",
+   "mood": "months later, a clear golden late-afternoon after the rains, warm golden sun rays slanting through the window across the crib, peaceful, hopeful, gently fading to deep gold",
+   "visual": "close-up of Amaan, visibly pregnant, looking down at her rounded belly with a peaceful, hopeful smile and tear-bright eyes, one hand on her chest and the other resting on her belly, bathed in deep golden evening light by the window; the crib softly out of focus behind her. Amaan wears a loose long-sleeved ankle-length soft cream maternity dress and her dusty-rose hijab fully covering her hair and neck",
+   "camera": "medium close-up, eye level, her face in the upper third, her hands in the middle",
+   "image": "images/beat_034.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "nursery_evening",
+   "shots": [
+    {
+     "id": "shot_094",
+     "startMs": 835029,
+     "endMs": 842559,
+     "narration_dhivehi": "އެއަށްފަހު އަމާން ތިރިއަށް، އޭނާގެ ބަނޑަށް ބަލައިލިއެވެ. \"އީތަން ދަރިފުޅު ދެކެ ނުހަނު ލޯބިވީސް.\" އޭނާ މަޑުމަޑުން ބުނެލިއެވެ.",
+     "narration_english": "Then Amaan looked down at her belly. \"Eethan loved you so much, little one,\" she said softly.",
+     "crop": "full",
+     "motion": "pan right",
+     "sfx": [],
+     "hum": true,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_095",
+     "startMs": 842559,
+     "endMs": 849719,
+     "narration_dhivehi": "ބޭރުން، އިރުގެ އަލިކަން މަޑުވަމުންގޮސް، މުޅި ކޮޓަރި ރަންކުލައިން ދިއްލުނެވެ. އަމާން އެއް އަތުން އޭނާގެ މޭމަތީގައި އަތް އެޅިއެވެ.",
+     "narration_english": "Outside, as the sunlight softened, the whole room glowed gold. Amaan laid one hand on her chest.",
+     "crop": "tight",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      19.9,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_096",
+     "startMs": 849719,
+     "endMs": 856109,
+     "narration_dhivehi": "އަދި އަނެއް އަތުން އޭނާގެ ބަނޑުގައިވާ ތުއްތު ދަރިފުޅުގެ ގައިގައި އަތް އެޅިއެވެ. އީތަންއެއް ނެތެވެ.",
+     "narration_english": "And with the other she touched the tiny child in her belly. Eethan is gone.",
+     "crop": "full",
+     "motion": "pan up",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_097",
+     "startMs": 856109,
+     "endMs": 869710,
+     "narration_dhivehi": "އެހެންނަމަވެސް އީތަން، އަމާންއަށް ދީފައިވާ ލޯބި އަދިވެސް އޭނާއާއެކު އެބަވެއެވެ. އެ ވަގުތު އީތަން ވަކިވެގެން ދިޔަ ފަހުން އެންމެ ފުރަތަމަ ފަހަރަށް އަމާންއަށް އޭނާގެ އުފާވެރި މުސްތަގުބަލާމެދު ވިސްނައިލެވުމުން ހިނިތުންވެވުނެވެ.",
+     "narration_english": "But the love Eethan gave Amaan is still with her. In that moment, for the first time since Eethan left, she smiled as she thought about her happy future.",
+     "crop": "medium",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": true,
+     "crop_rect_pct": [
+      13.9,
+      0.0,
+      71.5,
+      84.7
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Amaan), create a new scene: Cinematic semi-realistic digital illustration with a quiet, tender, melancholic drama look: soft rainy grey-blue monsoon daylight from the windows contrasted with warm amber indoor lamp light, small vermilion-red accents, gentle film grain, shallow depth of field, intimate emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (floor, table top, counter, wet pavement, soft shadow) for captions and a logo; rain streaks on window glass and wet reflective streets outside, while memories have a soft hazy golden dreamlike glow.\nScene: close-up of Amaan, visibly pregnant, looking down at her rounded belly with a peaceful, hopeful smile and tear-bright eyes, one hand on her chest and the other resting on her belly, bathed in deep golden evening light by the window; the crib softly out of focus behind her. Amaan wears a loose long-sleeved ankle-length soft cream maternity dress and her dusty-rose hijab fully covering her hair and neck. Location: a small children's room: a white wooden crib with a soft blanket, a low chest with neatly folded tiny baby clothes, a pale wall, a window with a sheer curtain, a phone lying on the windowsill. Camera: medium close-up, eye level, her face in the upper third, her hands in the middle.\nCharacters: Amaan: a slim Maldivian woman of 32 with warm brown skin, a soft oval face, large expressive dark eyes with faint tired shadows beneath, gentle arched eyebrows and full lips; wears a loose long-sleeved ankle-length plain cream-oatmeal dress and a soft dusty-rose hijab wrapped snugly and fully covering her hair and neck, a thin silver wedding ring.\nMood/lighting: months later, a clear golden late-afternoon after the rains, warm golden sun rays slanting through the window across the crib, peaceful, hopeful, gently fading to deep gold.\nModest Maldivian clothing (every woman in loose long-sleeved ankle-length clothing with a hijab fully covering her hair and neck, also at home; men fully clothed in shirts or t-shirts and long trousers, never shirtless), no kissing, no embracing between a man and a woman, culturally respectful, no violence shown, no car crash, no injuries, no blood, no person lying down, no needles, no alcohol, no smoking, no text, no letters, no numbers, no writing, no readable screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.49,
+    "halo": true
+   },
+   "focus": {
+    "x_pct": 49.6,
+    "y_pct": 24.3,
+    "face_detected": true
+   }
+  }
+ ]
+}
