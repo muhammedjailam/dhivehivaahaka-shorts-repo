@@ -1,0 +1,1461 @@
+{
+ "series": "Gaathil",
+ "episode": 607,
+ "beats": [
+  {
+   "id": "beat_001",
+   "startMs": 0,
+   "endMs": 18010,
+   "new_image_reason": "episode opening (repeat of 606's end): Amjad has risen and stands at the interview-room window, a storm in his head",
+   "characters": [
+    "amjad",
+    "shahid"
+   ],
+   "location": "a cold bare interview room in the modest whitewashed island police station: plain grey-white walls with faint mould stains, a scratched wooden table with two chairs, a closed laptop-style computer on the table with its screen turned away, one tall window with old wooden frames and a dusty glass looking out onto a sandy lane and coconut palms",
+   "location_key": "interview_room",
+   "mood": "mid-morning, cold flat grey daylight through the window, bare and tense, deep shadows in the corners",
+   "speaker": null,
+   "visual": "Officer Amjad standing at the tall window of the bare interview room with his back half-turned to the room, seen in three-quarter profile, his jaw clenched and his sharp eyes narrowed as he stares out at the grey sandy lane, one hand resting tensely on the window frame; behind him at the table Shahid sits watching him, softer and smaller, the laptop on the table with its screen turned away; cold grey light falls across Amjad's face",
+   "camera": "medium wide, eye level, Amjad at the window in the upper two-thirds, the bare table top and floor as the lower third",
+   "image": "images/beat_001.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "office_quiet",
+   "shots": [
+    {
+     "id": "shot_001",
+     "startMs": 0,
+     "endMs": 8270,
+     "narration_dhivehi": "އަމްޖަދު މޭޒުން ތެދުވެ، ކޮޓަރީގެ ކުޑަދޮރުން ބޭރަށް ބަލަހައްޓައިގެން ހުއްޓުނު. އޭނާގެ ސިކުނޑީގައި ތޫފާނެއް އެނބުރެމުން ދިޔަ.",
+     "narration_english": "Amjad got up from the table and stood looking out through the room's window. A storm was swirling in his mind.",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "speaker": null,
+     "focus_pct": null,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_002",
+     "startMs": 8270,
+     "endMs": 18010,
+     "narration_dhivehi": "ވިހި އަހަރު ވަންދެން ވަޅުލައިފައި އޮތް ސިއްރެއް، މި ޒުވާނާގެ އެންމެ ފޮޓޯއަކުން ދިރިގެން މިއައީ. އަމްޖަދު އެނބުރިލަމުން ޝާހިދުގެ ކޮނޑުގައި އަތް ބާއްވައިލި.",
+     "narration_english": "A secret that had lain buried for twenty years had come back to life through this young man's single photo. Turning around, Amjad laid his hand on Shahid's shoulder.",
+     "crop": "tight",
+     "motion": "pan left",
+     "sfx": [
+      {
+       "name": "cloth_rustle",
+       "atMs": 16720,
+       "gainDb": -22,
+       "word": "ބާއްވައިލި."
+      }
+     ],
+     "hum": true,
+     "speaker": null,
+     "focus_pct": null,
+     "crop_rect_pct": [
+      0.0,
+      0.0,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Officer Amjad; reference image 2 is Ali Shahid), create a new scene: Cinematic semi-realistic digital painting in the look of a gritty mystery-thriller book cover: soft painterly realism, desaturated palette of slate grey, ash white, weathered sepia and deep charcoal shadow with small touches of warm amber light, low-key dramatic side lighting, gentle haze, fine film grain, shallow depth of field, Maldivian characters with warm brown skin, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (sand, floor, desk top, water, soft shadow) for captions and a logo; set on a Maldivian island (crumbling mould-stained whitewashed coral-stone walls with arched wooden windows, sandy lanes, coconut palms silhouetted against brooding skies, an old abandoned lighthouse, old harbour warehouses, dense dark jungle of screw-pines and magoo shrubs); emotional suspense composition; stormy nights are near-black blue-grey with silver rain and white lightning, interiors at night are lit by a single warm bulb or a cold computer-screen glow, mornings are pale gold, and memories of the past are faded and sepia-toned.\nScene: Officer Amjad standing at the tall window of the bare interview room with his back half-turned to the room, seen in three-quarter profile, his jaw clenched and his sharp eyes narrowed as he stares out at the grey sandy lane, one hand resting tensely on the window frame; behind him at the table Shahid sits watching him, softer and smaller, the laptop on the table with its screen turned away; cold grey light falls across Amjad's face. Location: a cold bare interview room in the modest whitewashed island police station: plain grey-white walls with faint mould stains, a scratched wooden table with two chairs, a closed laptop-style computer on the table with its screen turned away, one tall window with old wooden frames and a dusty glass looking out onto a sandy lane and coconut palms. Camera: medium wide, eye level, Amjad at the window in the upper two-thirds, the bare table top and floor as the lower third.\nCharacters: Officer Amjad: a tall broad-shouldered Maldivian man of about 55 with warm brown skin, a square stern face, sharp narrow vigilant dark eyes, heavy brows, a thick salt-and-pepper moustache, a clean-shaven chin and short salt-and-pepper hair combed back; wears a long-sleeved dark navy-blue police uniform shirt with plain shoulder epaulettes and no badges or lettering, dark navy trousers and a plain black belt; no weapon. Ali Shahid: a slim Maldivian man of about 30 with warm brown skin, a lean intelligent face, alert dark-brown eyes, straight eyebrows, light black stubble and short slightly wavy black hair; wears a dark olive-green long-sleeved utility shirt open over a plain grey t-shirt, black trousers and dark sneakers.\nMood/lighting: mid-morning, cold flat grey daylight through the window, bare and tense, deep shadows in the corners.\nModest Maldivian clothing (every woman in a loose long-sleeved ankle-length dress with a hijab fully covering her hair and neck, also at home and at night; men in shirts with long trousers, never shirtless), married couples only side by side with no embracing or kissing, culturally respectful and Islamic in spirit, no ghosts, no monsters, no faces in clouds or shadows, no violence shown, no blood, no wounds, no gore, no dead bodies, no guns, no knives, no weapons, no handcuffs, no alcohol, no smoking, no religious symbols of other faiths, no text, no letters, no numbers, no writing, no readable screens, no badges with lettering, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.172,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 20.5,
+    "y_pct": 34.7,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_002",
+   "startMs": 18010,
+   "endMs": 62631,
+   "new_image_reason": "action change + dialogue: Amjad turns, puts his hand on Shahid's shoulder and swears him to secrecy (Amjad speaking; Shahid's reaction on a crop)",
+   "characters": [
+    "amjad",
+    "shahid"
+   ],
+   "location": "a cold bare interview room in the modest whitewashed island police station: plain grey-white walls with faint mould stains, a scratched wooden table with two chairs, a closed laptop-style computer on the table with its screen turned away, one tall window with old wooden frames and a dusty glass looking out onto a sandy lane and coconut palms",
+   "location_key": "interview_room",
+   "mood": "mid-morning, cold flat grey daylight through the window, bare and tense, deep shadows in the corners",
+   "speaker": null,
+   "visual": "Officer Amjad standing beside the seated Shahid, his right hand resting firmly on Shahid's shoulder, leaning down slightly and speaking in a low commanding voice, face calm and controlled but his eyes hard; Shahid seated at the table turned up towards him in three-quarter view, listening, nodding slowly, a faint guarded suspicion in his eyes; both faces clearly visible; cold grey window light from the side",
+   "camera": "medium two-shot, slightly low angle, Amjad's face centred in the upper half, Shahid's face lower-right in the upper half, the table top as the lower third",
+   "image": "images/beat_002.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "office_quiet",
+   "shots": [
+    {
+     "id": "shot_003",
+     "startMs": 18010,
+     "endMs": 28740,
+     "narration_dhivehi": "ޝާހިދު، މިއީ އާދައިގެ މައްސަލައެއް ނޫން. މިއީ ޤައުމީ ސަލާމަތާވެސް ގުޅުންހުރި ބޮޑު ސިއްރެއްގެ ފެށުން.",
+     "narration_english": "\"Shahid, this is not an ordinary matter. This is the beginning of a big secret connected even to national security.",
+     "crop": "medium",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": false,
+     "speaker": "amjad",
+     "focus_pct": [
+      31,
+      24
+     ],
+     "crop_rect_pct": [
+      0.0,
+      0.0,
+      71.5,
+      84.7
+     ]
+    },
+    {
+     "id": "shot_004",
+     "startMs": 28740,
+     "endMs": 36381,
+     "narration_dhivehi": "މި މައްސަލައިގެ ތަހުގީގު މިއަދުން ފެށިގެން މި ހަވާލުވަނީ ސީދާ އަހަންނާ. އެކަމަކު ހަނދާންކުރާތި،",
+     "narration_english": "From today on, the investigation of this matter is handed directly to me. But remember,",
+     "crop": "tight",
+     "motion": "pan right",
+     "sfx": [],
+     "hum": false,
+     "speaker": "amjad",
+     "focus_pct": [
+      31,
+      24
+     ],
+     "crop_rect_pct": [
+      1.3,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_005",
+     "startMs": 36381,
+     "endMs": 44661,
+     "narration_dhivehi": "މި ފޮޓޯއާ ބެހޭ ގޮތުން ރަށުގެ އެއްވެސް މީހަކަށް، އަދި ކީއްކުރަން ފުލުހުންގެ އެހެން އޮފިސަރަކަށްވެސް އެނގިގެން ނުވާނެ.",
+     "narration_english": "no one on the island — and not even another police officer — may know anything about this photo.",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "speaker": "amjad",
+     "focus_pct": [
+      31,
+      30
+     ],
+     "crop_rect_pct": [
+      0.0,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_006",
+     "startMs": 44661,
+     "endMs": 54551,
+     "narration_dhivehi": "މިއީ ކަލެއާއި އަހަންނާ ދެމެދު އޮތް ސިއްރެއް. އަމްޖަދުގެ އަޑުގައި ހުރީ އަމުރުވެރި ގޮތެއް. ޝާހިދު ބޯ ޖަހައިލިއޭ.",
+     "narration_english": "This is a secret between you and me.\" There was a commanding tone in Amjad's voice. Shahid nodded.",
+     "crop": "medium",
+     "motion": "pan up",
+     "sfx": [],
+     "hum": false,
+     "speaker": null,
+     "focus_pct": [
+      70,
+      45
+     ],
+     "crop_rect_pct": [
+      28.5,
+      2.6,
+      71.5,
+      84.7
+     ]
+    },
+    {
+     "id": "shot_007",
+     "startMs": 54551,
+     "endMs": 62631,
+     "narration_dhivehi": "ނަމަވެސް އަމްޖަދުގެ އެ ކުއްލި ނިންމުމާ، މޫނުމަތީން ފެނުނު ކުލަވަރުން ޝާހިދުގެ ހިތުގައި ފާޑެއްގެ ޝައްކެއްގެ އޮށެއް އިންދައިލެވުނު.",
+     "narration_english": "Yet from Amjad's sudden decision and the colour that showed on his face, a seed of strange suspicion was planted in Shahid's heart.",
+     "crop": "tight",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": false,
+     "speaker": null,
+     "focus_pct": [
+      70,
+      45
+     ],
+     "crop_rect_pct": [
+      40.3,
+      9.8,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Officer Amjad; reference image 2 is Ali Shahid), create a new scene: Cinematic semi-realistic digital painting in the look of a gritty mystery-thriller book cover: soft painterly realism, desaturated palette of slate grey, ash white, weathered sepia and deep charcoal shadow with small touches of warm amber light, low-key dramatic side lighting, gentle haze, fine film grain, shallow depth of field, Maldivian characters with warm brown skin, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (sand, floor, desk top, water, soft shadow) for captions and a logo; set on a Maldivian island (crumbling mould-stained whitewashed coral-stone walls with arched wooden windows, sandy lanes, coconut palms silhouetted against brooding skies, an old abandoned lighthouse, old harbour warehouses, dense dark jungle of screw-pines and magoo shrubs); emotional suspense composition; stormy nights are near-black blue-grey with silver rain and white lightning, interiors at night are lit by a single warm bulb or a cold computer-screen glow, mornings are pale gold, and memories of the past are faded and sepia-toned.\nScene: Officer Amjad standing beside the seated Shahid, his right hand resting firmly on Shahid's shoulder, leaning down slightly and speaking in a low commanding voice, face calm and controlled but his eyes hard; Shahid seated at the table turned up towards him in three-quarter view, listening, nodding slowly, a faint guarded suspicion in his eyes; both faces clearly visible; cold grey window light from the side. Location: a cold bare interview room in the modest whitewashed island police station: plain grey-white walls with faint mould stains, a scratched wooden table with two chairs, a closed laptop-style computer on the table with its screen turned away, one tall window with old wooden frames and a dusty glass looking out onto a sandy lane and coconut palms. Camera: medium two-shot, slightly low angle, Amjad's face centred in the upper half, Shahid's face lower-right in the upper half, the table top as the lower third.\nCharacters: Officer Amjad: a tall broad-shouldered Maldivian man of about 55 with warm brown skin, a square stern face, sharp narrow vigilant dark eyes, heavy brows, a thick salt-and-pepper moustache, a clean-shaven chin and short salt-and-pepper hair combed back; wears a long-sleeved dark navy-blue police uniform shirt with plain shoulder epaulettes and no badges or lettering, dark navy trousers and a plain black belt; no weapon. Ali Shahid: a slim Maldivian man of about 30 with warm brown skin, a lean intelligent face, alert dark-brown eyes, straight eyebrows, light black stubble and short slightly wavy black hair; wears a dark olive-green long-sleeved utility shirt open over a plain grey t-shirt, black trousers and dark sneakers.\nMood/lighting: mid-morning, cold flat grey daylight through the window, bare and tense, deep shadows in the corners.\nModest Maldivian clothing (every woman in a loose long-sleeved ankle-length dress with a hijab fully covering her hair and neck, also at home and at night; men in shirts with long trousers, never shirtless), married couples only side by side with no embracing or kissing, culturally respectful and Islamic in spirit, no ghosts, no monsters, no faces in clouds or shadows, no violence shown, no blood, no wounds, no gore, no dead bodies, no guns, no knives, no weapons, no handcuffs, no alcohol, no smoking, no religious symbols of other faiths, no text, no letters, no numbers, no writing, no readable screens, no badges with lettering, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.141,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 36.3,
+    "y_pct": 24.2,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_003",
+   "startMs": 62631,
+   "endMs": 91842,
+   "new_image_reason": "scene/character change: alone behind the locked office door Amjad calls on a secret phone from the bottom of his drawer",
+   "characters": [
+    "amjad"
+   ],
+   "location": "Officer Amjad's small office in the island police station: a heavy wooden desk with a closed laptop and a few plain blank folders, a desk drawer pulled fully open, a closed plain wooden door with a key turned in its lock, half-closed window blinds striping the wall with thin bars of light",
+   "location_key": "amjad_office",
+   "mood": "mid-morning behind closed blinds, dim cold grey light cut into thin bright stripes, secretive and claustrophobic",
+   "speaker": null,
+   "visual": "Officer Amjad alone at his desk, half-standing and hunched forward, pressing a plain old black mobile phone to his ear with one hand, the other hand braced on the desk beside the pulled-open drawer; his face tense, breath short, eyes darting towards the shut door behind him; thin stripes of light from the blinds across his face and uniform; the phone has no visible screen",
+   "camera": "medium close-up, eye level, Amjad's face centred in the upper half, the desk top and open drawer as the lower third",
+   "image": "images/beat_003.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": "other",
+   "safe_substitution": "the secret phone is a plain old black phone held to the ear; nothing on it is readable",
+   "ambience": "office_quiet",
+   "shots": [
+    {
+     "id": "shot_008",
+     "startMs": 62631,
+     "endMs": 73912,
+     "narration_dhivehi": "ޝާހިދު ކޮޓަރީން ނުކުމެގެން ދިޔުމާއެކު، އަމްޖަދު އަވަސްއަވަހަށް ކޮޓަރީގެ ދޮރު ތަޅުލިއޭ. އަދި އޭނާގެ ވަތްގަނޑުގެ އެންމެ އަޑީން ނެގި ސިއްރު ފޯނަކުން ނަންބަރަކަށް ގުޅައިލިއޭ.",
+     "narration_english": "As soon as Shahid left the room, Amjad hurriedly locked the door. And from the very bottom of his drawer he took a secret phone and called a number.",
+     "crop": "full",
+     "motion": "pan down",
+     "sfx": [
+      {
+       "name": "lock_click",
+       "atMs": 67782,
+       "gainDb": -18,
+       "word": "ތަޅުލިއޭ."
+      },
+      {
+       "name": "creak",
+       "atMs": 69742,
+       "gainDb": -22,
+       "word": "ވަތްގަނޑުގެ"
+      }
+     ],
+     "hum": false,
+     "speaker": null,
+     "focus_pct": null,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_009",
+     "startMs": 73912,
+     "endMs": 82492,
+     "narration_dhivehi": "ފޯނު ރިންގުވަމުން ދިޔަ ވަގުތު އޭނާގެ ނޭވާ ހުރީ އަވަސްވެފައޭ. ހެލޯ... ކަލޭ ތިޔަ ހުރީ ކޮންތާކު؟",
+     "narration_english": "While the phone rang, his breath was quick. \"Hello... where are you?",
+     "crop": "tight",
+     "motion": "static drift",
+     "sfx": [
+      {
+       "name": "phone_buzz",
+       "atMs": 74622,
+       "gainDb": -20,
+       "word": "ރިންގުވަމުން"
+      },
+      {
+       "name": "breath_heavy",
+       "atMs": 76122,
+       "gainDb": -22,
+       "word": "ނޭވާ"
+      }
+     ],
+     "hum": true,
+     "speaker": "amjad",
+     "focus_pct": null,
+     "crop_rect_pct": [
+      11.0,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_010",
+     "startMs": 82492,
+     "endMs": 91842,
+     "narration_dhivehi": "ކަލޭގެ ކޮޅު ފެނިއްޖެ! ކެމެރާއެއްގެ ލެންސަށް ކަލޭގެ މޫނު އަރައިފި... ވަގުތުން ތިޔަ ތަނުން ފިލާ!",
+     "narration_english": "You've been seen! Your face got into a camera's lens... Leave that place right now!\"",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": true,
+     "speaker": "amjad",
+     "focus_pct": null,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Officer Amjad), create a new scene: Cinematic semi-realistic digital painting in the look of a gritty mystery-thriller book cover: soft painterly realism, desaturated palette of slate grey, ash white, weathered sepia and deep charcoal shadow with small touches of warm amber light, low-key dramatic side lighting, gentle haze, fine film grain, shallow depth of field, Maldivian characters with warm brown skin, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (sand, floor, desk top, water, soft shadow) for captions and a logo; set on a Maldivian island (crumbling mould-stained whitewashed coral-stone walls with arched wooden windows, sandy lanes, coconut palms silhouetted against brooding skies, an old abandoned lighthouse, old harbour warehouses, dense dark jungle of screw-pines and magoo shrubs); emotional suspense composition; stormy nights are near-black blue-grey with silver rain and white lightning, interiors at night are lit by a single warm bulb or a cold computer-screen glow, mornings are pale gold, and memories of the past are faded and sepia-toned.\nScene: Officer Amjad alone at his desk, half-standing and hunched forward, pressing a plain old black mobile phone to his ear with one hand, the other hand braced on the desk beside the pulled-open drawer; his face tense, breath short, eyes darting towards the shut door behind him; thin stripes of light from the blinds across his face and uniform; the phone has no visible screen. Location: Officer Amjad's small office in the island police station: a heavy wooden desk with a closed laptop and a few plain blank folders, a desk drawer pulled fully open, a closed plain wooden door with a key turned in its lock, half-closed window blinds striping the wall with thin bars of light. Camera: medium close-up, eye level, Amjad's face centred in the upper half, the desk top and open drawer as the lower third.\nCharacters: Officer Amjad: a tall broad-shouldered Maldivian man of about 55 with warm brown skin, a square stern face, sharp narrow vigilant dark eyes, heavy brows, a thick salt-and-pepper moustache, a clean-shaven chin and short salt-and-pepper hair combed back; wears a long-sleeved dark navy-blue police uniform shirt with plain shoulder epaulettes and no badges or lettering, dark navy trousers and a plain black belt; no weapon.\nMood/lighting: mid-morning behind closed blinds, dim cold grey light cut into thin bright stripes, secretive and claustrophobic.\nModest Maldivian clothing (every woman in a loose long-sleeved ankle-length dress with a hijab fully covering her hair and neck, also at home and at night; men in shirts with long trousers, never shirtless), married couples only side by side with no embracing or kissing, culturally respectful and Islamic in spirit, no ghosts, no monsters, no faces in clouds or shadows, no violence shown, no blood, no wounds, no gore, no dead bodies, no guns, no knives, no weapons, no handcuffs, no alcohol, no smoking, no religious symbols of other faiths, no text, no letters, no numbers, no writing, no readable screens, no badges with lettering, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.077,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 40.7,
+    "y_pct": 23.3,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_004",
+   "startMs": 91842,
+   "endMs": 128763,
+   "new_image_reason": "scene change: Shahid walks out of the police station, uneasy, suspicion burning",
+   "characters": [
+    "shahid"
+   ],
+   "location": "outside the modest whitewashed island police station: a low coral-stone building with arched wooden windows and a plain wooden door with no sign, a wide sandy lane in front lined with coconut palms and low coral-stone walls",
+   "location_key": "station_lane",
+   "mood": "late morning, pale washed-out sunlight under a hazy sky, ordinary daylight with an uneasy, watchful undertone",
+   "speaker": null,
+   "visual": "Shahid walking slowly out of the plain wooden door of the whitewashed police station into the sandy lane, looking back over his shoulder at the building with narrowed troubled eyes, his jaw tight, one hand on the strap of a canvas shoulder bag; the station behind him quiet, no signs, no lettering",
+   "camera": "medium shot, eye level, Shahid's face in the upper half, the bright empty sand of the lane as the lower third",
+   "image": "images/beat_004.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "village_day",
+   "shots": [
+    {
+     "id": "shot_011",
+     "startMs": 91842,
+     "endMs": 101153,
+     "narration_dhivehi": "އަމްޖަދު ދަތްކުނޑި ވިކައިލަމުން ސިއްރުން ބުނި. ފުލުހުންގެ މަރުކަޒުން ނުކުތް ޝާހިދުގެ ހިތް އޮތީ ނުތަނަވަސްކަމެއްގެ ތެރޭގައޭ.",
+     "narration_english": "Amjad said it secretly, through gritted teeth. Shahid, coming out of the police station, had a heart full of unease.",
+     "crop": "full",
+     "motion": "pan left",
+     "sfx": [
+      {
+       "name": "footsteps_pavement",
+       "atMs": 97443,
+       "gainDb": -22,
+       "word": "ނުކުތް"
+      }
+     ],
+     "hum": false,
+     "speaker": null,
+     "focus_pct": null,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_012",
+     "startMs": 101153,
+     "endMs": 110843,
+     "narration_dhivehi": "އޮފިސަރު އަމްޖަދުގެ މޫނުމަތީން ފެނުނު ކުއްލި ބަދަލާއި، މައްސަލަ ސިއްރުކުރާން އެންގި އެންގުމަކީ އޭނާގެ ހިތުގައި އުފެދުނު ޝައްކުގެ އަލިފާނަށް އެޅުނު ދަރެއް",
+     "narration_english": "The sudden change seen on Officer Amjad's face, and the order to keep the matter secret, were like fuel thrown onto the fire of suspicion kindling in his heart.",
+     "crop": "tight",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": false,
+     "speaker": null,
+     "focus_pct": null,
+     "crop_rect_pct": [
+      20.8,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_013",
+     "startMs": 110843,
+     "endMs": 120923,
+     "narration_dhivehi": "އެއްވެސް މީހަކަށް އެނގިގެން ނުވާނެ ކަމަށް ބުނި ބުނުމަކީ ތަހުގީގުގެ ސަލާމަތަށް ބުނި ބަހެއްހެއްޔެވެ؟ ނުވަތަ އެހެން ކަމެއް ފޮރުވާން އުޅުމުގެ އުކުޅެއް ހެއްޔެވެ؟",
+     "narration_english": "Was saying that no one must know meant for the safety of the investigation? Or was it a trick to hide something else?",
+     "crop": "full",
+     "motion": "pan right",
+     "sfx": [],
+     "hum": false,
+     "speaker": null,
+     "focus_pct": null,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_014",
+     "startMs": 120923,
+     "endMs": 128763,
+     "narration_dhivehi": "ޝާހިދުގެ ސިކުނޑި މި ސުވާލުތަކުން ފުނި ޖެހެމުން ދިޔައޭ. އޭނާ ނިންމީ ފުލުހުންގެ އެހީއާ ނުލައި، އަމިއްލައަށް މި ކަމުގެ އަޑިއަށް ދާށޭ.",
+     "narration_english": "Shahid's mind kept churning with these questions. He decided to get to the bottom of this on his own, without the police's help.",
+     "crop": "medium",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "speaker": null,
+     "focus_pct": null,
+     "crop_rect_pct": [
+      14.7,
+      0.0,
+      71.5,
+      84.7
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Ali Shahid), create a new scene: Cinematic semi-realistic digital painting in the look of a gritty mystery-thriller book cover: soft painterly realism, desaturated palette of slate grey, ash white, weathered sepia and deep charcoal shadow with small touches of warm amber light, low-key dramatic side lighting, gentle haze, fine film grain, shallow depth of field, Maldivian characters with warm brown skin, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (sand, floor, desk top, water, soft shadow) for captions and a logo; set on a Maldivian island (crumbling mould-stained whitewashed coral-stone walls with arched wooden windows, sandy lanes, coconut palms silhouetted against brooding skies, an old abandoned lighthouse, old harbour warehouses, dense dark jungle of screw-pines and magoo shrubs); emotional suspense composition; stormy nights are near-black blue-grey with silver rain and white lightning, interiors at night are lit by a single warm bulb or a cold computer-screen glow, mornings are pale gold, and memories of the past are faded and sepia-toned.\nScene: Shahid walking slowly out of the plain wooden door of the whitewashed police station into the sandy lane, looking back over his shoulder at the building with narrowed troubled eyes, his jaw tight, one hand on the strap of a canvas shoulder bag; the station behind him quiet, no signs, no lettering. Location: outside the modest whitewashed island police station: a low coral-stone building with arched wooden windows and a plain wooden door with no sign, a wide sandy lane in front lined with coconut palms and low coral-stone walls. Camera: medium shot, eye level, Shahid's face in the upper half, the bright empty sand of the lane as the lower third.\nCharacters: Ali Shahid: a slim Maldivian man of about 30 with warm brown skin, a lean intelligent face, alert dark-brown eyes, straight eyebrows, light black stubble and short slightly wavy black hair; wears a dark olive-green long-sleeved utility shirt open over a plain grey t-shirt, black trousers and dark sneakers.\nMood/lighting: late morning, pale washed-out sunlight under a hazy sky, ordinary daylight with an uneasy, watchful undertone.\nModest Maldivian clothing (every woman in a loose long-sleeved ankle-length dress with a hijab fully covering her hair and neck, also at home and at night; men in shirts with long trousers, never shirtless), married couples only side by side with no embracing or kissing, culturally respectful and Islamic in spirit, no ghosts, no monsters, no faces in clouds or shadows, no violence shown, no blood, no wounds, no gore, no dead bodies, no guns, no knives, no weapons, no handcuffs, no alcohol, no smoking, no religious symbols of other faiths, no text, no letters, no numbers, no writing, no readable screens, no badges with lettering, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.487,
+    "halo": true
+   },
+   "focus": {
+    "x_pct": 50.5,
+    "y_pct": 25.2,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_005",
+   "startMs": 128763,
+   "endMs": 137584,
+   "new_image_reason": "scene change: at home Shahid opens last night's photo again on his monitor",
+   "characters": [
+    "shahid"
+   ],
+   "location": "Shahid's room in an old coral-stone island house by day: a wooden desk with a computer and a big monitor, camera gear and lenses on the desk, a window with half-open wooden shutters letting in a slanting beam of daylight, a ceiling bulb switched off",
+   "location_key": "shahid_room_day",
+   "mood": "daytime, a single slanting beam of pale daylight through the shutters plus the cold glow of the monitor, quiet concentration",
+   "speaker": null,
+   "visual": "Shahid sitting at his desk leaning close to the big monitor, chin resting on his hand, eyes narrowed in deep concentration, his face lit by the cold screen glow and a slanting beam of daylight; the monitor, seen at an angle, shows a dark rainy photo of a man in a heavy coat standing among dark trees, no interface text; camera gear on the desk",
+   "camera": "medium shot over the corner of the desk, Shahid's face centred in the upper half, the desk top with camera and lenses as the lower third",
+   "image": "images/beat_005.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "home_day",
+   "shots": [
+    {
+     "id": "shot_015",
+     "startMs": 128763,
+     "endMs": 137584,
+     "narration_dhivehi": "އޭނާ އެނބުރި ގެއަށް އައިސް، ރޭގެ ފޮޓޯ އަލުން ހުޅުވައިލިއޭ. މި ފަހަރު އޭނާގެ ނަޒަރު ހުއްޓުނީ އިބްރާހީމް ނަސީމްގެ މޫނަކަށް ނޫން.",
+     "narration_english": "He came back home and opened last night's photo again. This time his gaze did not stop on Ibrahim Naseem's face —",
+     "crop": "full",
+     "motion": "pan up",
+     "sfx": [
+      {
+       "name": "keyboard_typing",
+       "atMs": 132684,
+       "gainDb": -22,
+       "word": "ހުޅުވައިލިއޭ."
+      }
+     ],
+     "hum": false,
+     "speaker": null,
+     "focus_pct": null,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Ali Shahid), create a new scene: Cinematic semi-realistic digital painting in the look of a gritty mystery-thriller book cover: soft painterly realism, desaturated palette of slate grey, ash white, weathered sepia and deep charcoal shadow with small touches of warm amber light, low-key dramatic side lighting, gentle haze, fine film grain, shallow depth of field, Maldivian characters with warm brown skin, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (sand, floor, desk top, water, soft shadow) for captions and a logo; set on a Maldivian island (crumbling mould-stained whitewashed coral-stone walls with arched wooden windows, sandy lanes, coconut palms silhouetted against brooding skies, an old abandoned lighthouse, old harbour warehouses, dense dark jungle of screw-pines and magoo shrubs); emotional suspense composition; stormy nights are near-black blue-grey with silver rain and white lightning, interiors at night are lit by a single warm bulb or a cold computer-screen glow, mornings are pale gold, and memories of the past are faded and sepia-toned.\nScene: Shahid sitting at his desk leaning close to the big monitor, chin resting on his hand, eyes narrowed in deep concentration, his face lit by the cold screen glow and a slanting beam of daylight; the monitor, seen at an angle, shows a dark rainy photo of a man in a heavy coat standing among dark trees, no interface text; camera gear on the desk. Location: Shahid's room in an old coral-stone island house by day: a wooden desk with a computer and a big monitor, camera gear and lenses on the desk, a window with half-open wooden shutters letting in a slanting beam of daylight, a ceiling bulb switched off. Camera: medium shot over the corner of the desk, Shahid's face centred in the upper half, the desk top with camera and lenses as the lower third.\nCharacters: Ali Shahid: a slim Maldivian man of about 30 with warm brown skin, a lean intelligent face, alert dark-brown eyes, straight eyebrows, light black stubble and short slightly wavy black hair; wears a dark olive-green long-sleeved utility shirt open over a plain grey t-shirt, black trousers and dark sneakers.\nMood/lighting: daytime, a single slanting beam of pale daylight through the shutters plus the cold glow of the monitor, quiet concentration.\nModest Maldivian clothing (every woman in a loose long-sleeved ankle-length dress with a hijab fully covering her hair and neck, also at home and at night; men in shirts with long trousers, never shirtless), married couples only side by side with no embracing or kissing, culturally respectful and Islamic in spirit, no ghosts, no monsters, no faces in clouds or shadows, no violence shown, no blood, no wounds, no gore, no dead bodies, no guns, no knives, no weapons, no handcuffs, no alcohol, no smoking, no religious symbols of other faiths, no text, no letters, no numbers, no writing, no readable screens, no badges with lettering, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.185,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 52.1,
+    "y_pct": 34.2,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_006",
+   "startMs": 137584,
+   "endMs": 155824,
+   "new_image_reason": "detail image: the photo itself, focus on the broken iron piece at his feet and the old ruined wall",
+   "characters": [],
+   "location": "the inside of Shahid's rainy night photograph shown full-frame: a dark patch of wet sandy ground among the shadows of trees, silver rain streaks, a broken old coral-stone wall behind",
+   "location_key": "photo",
+   "mood": "near-black blue-grey storm night, silver rain, a white flash of lightning lighting the ground, grainy and unsettling",
+   "speaker": null,
+   "visual": "full-frame view of the rainy night photograph: the lower half of a man in an old-fashioned heavy dark-brown thick wool long coat standing on wet sand, cropped at the chest so his head is out of frame, his boots sunk in puddles; at his feet an oddly shaped broken rusty iron piece like a twisted old bracket half buried in the sand; directly behind him a broken old coral-stone wall with a crumbling arched opening and black mould streaks; silver rain, tree shadows, a flash of lightning; a real man, nothing ghostly",
+   "camera": "close detail shot, slightly high angle, the iron piece and wall in the middle and upper part, the wet ground as the lower third",
+   "image": "images/beat_006.png",
+   "reuse_of": null,
+   "transition_in": "dissolve",
+   "sensitive": "other",
+   "safe_substitution": "Ibrahim in the photo stays a real man in a coat, cropped below the face; no supernatural look",
+   "ambience": "home_day",
+   "shots": [
+    {
+     "id": "shot_016",
+     "startMs": 137584,
+     "endMs": 147454,
+     "narration_dhivehi": "އޭނާގެ ފައިދަށުގައި އޮތް ބާ ދަގަނޑު ބުރިއަށާއި، ފަހަތުން ފެންނާން ހުރި ދުވަސްވެ ވީރާނާވެފައިވާ މުސްކުޅި ފާރަށޭ.",
+     "narration_english": "but on the broken iron piece lying at his feet, and the old, ruined wall that could be seen behind him.",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": false,
+     "speaker": null,
+     "focus_pct": null,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_017",
+     "startMs": 147454,
+     "endMs": 155824,
+     "narration_dhivehi": "ޝާހިދަކީ ރަށުގެ ކޮންމެ ދިމާއެއް ރަނގަޅަށް ދަންނަ، އެކި ތަންތަނުގެ ފޮޓޯ ނަގައި އުޅޭ މީހަކަށް ވުމުން، އެ ފާރުގެ ބައްޓަމަކީ ލައިޓްހައުސްގެ ފާރެއް ނޫންކަން އޭނާއަށް ޔަގީންވިއޭ.",
+     "narration_english": "Since Shahid knows every corner of the island well and goes about photographing all kinds of places, he was sure the shape of that wall was not the lighthouse wall.",
+     "crop": "tight",
+     "motion": "pan down",
+     "sfx": [],
+     "hum": false,
+     "speaker": null,
+     "focus_pct": null,
+     "crop_rect_pct": [
+      0.0,
+      29.6,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Cinematic semi-realistic digital painting in the look of a gritty mystery-thriller book cover: soft painterly realism, desaturated palette of slate grey, ash white, weathered sepia and deep charcoal shadow with small touches of warm amber light, low-key dramatic side lighting, gentle haze, fine film grain, shallow depth of field, Maldivian characters with warm brown skin, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (sand, floor, desk top, water, soft shadow) for captions and a logo; set on a Maldivian island (crumbling mould-stained whitewashed coral-stone walls with arched wooden windows, sandy lanes, coconut palms silhouetted against brooding skies, an old abandoned lighthouse, old harbour warehouses, dense dark jungle of screw-pines and magoo shrubs); emotional suspense composition; stormy nights are near-black blue-grey with silver rain and white lightning, interiors at night are lit by a single warm bulb or a cold computer-screen glow, mornings are pale gold, and memories of the past are faded and sepia-toned.\nScene: full-frame view of the rainy night photograph: the lower half of a man in an old-fashioned heavy dark-brown thick wool long coat standing on wet sand, cropped at the chest so his head is out of frame, his boots sunk in puddles; at his feet an oddly shaped broken rusty iron piece like a twisted old bracket half buried in the sand; directly behind him a broken old coral-stone wall with a crumbling arched opening and black mould streaks; silver rain, tree shadows, a flash of lightning; a real man, nothing ghostly. Location: the inside of Shahid's rainy night photograph shown full-frame: a dark patch of wet sandy ground among the shadows of trees, silver rain streaks, a broken old coral-stone wall behind. Camera: close detail shot, slightly high angle, the iron piece and wall in the middle and upper part, the wet ground as the lower third.\nMood/lighting: near-black blue-grey storm night, silver rain, a white flash of lightning lighting the ground, grainy and unsettling.\nModest Maldivian clothing (every woman in a loose long-sleeved ankle-length dress with a hijab fully covering her hair and neck, also at home and at night; men in shirts with long trousers, never shirtless), married couples only side by side with no embracing or kissing, culturally respectful and Islamic in spirit, no ghosts, no monsters, no faces in clouds or shadows, no violence shown, no blood, no wounds, no gore, no dead bodies, no guns, no knives, no weapons, no handcuffs, no alcohol, no smoking, no religious symbols of other faiths, no text, no letters, no numbers, no writing, no readable screens, no badges with lettering, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.139,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 10.2,
+    "y_pct": 75.4,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_007",
+   "startMs": 155824,
+   "endMs": 165085,
+   "new_image_reason": "return to Shahid at the monitor: he recognises the warehouses by the east harbour (reuse)",
+   "characters": [
+    "shahid"
+   ],
+   "location": "Shahid's room in an old coral-stone island house by day: a wooden desk with a computer and a big monitor, camera gear and lenses on the desk, a window with half-open wooden shutters letting in a slanting beam of daylight, a ceiling bulb switched off",
+   "location_key": "shahid_room_day",
+   "mood": "daytime, a single slanting beam of pale daylight through the shutters plus the cold glow of the monitor, quiet concentration",
+   "speaker": null,
+   "visual": "(reuse of beat_005)",
+   "camera": "medium shot, eye level",
+   "image": "images/beat_005.png",
+   "reuse_of": "beat_005",
+   "transition_in": "dissolve",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "home_day",
+   "shots": [
+    {
+     "id": "shot_018",
+     "startMs": 155824,
+     "endMs": 165085,
+     "narration_dhivehi": "ޝާހިދު އެ ފޮޓޯއަށް ފުންކޮށް ބަލަހައްޓައިގެން ހުރެ، އެއީ ރަށުގެ އިރުމަތީ ފަރާތު ބަނދަރު ކައިރީގައި ހުރި ބާ ގުދަންތަކުގެ ސަރަހައްދުކަން ދެނެގަތް.",
+     "narration_english": "Staring deeply at the photo, Shahid recognised it as the area of the old warehouses near the harbour on the island's east side.",
+     "crop": "medium",
+     "motion": "static drift",
+     "sfx": [],
+     "hum": false,
+     "speaker": null,
+     "focus_pct": null,
+     "crop_rect_pct": [
+      16.3,
+      0.0,
+      71.5,
+      84.7
+     ]
+    }
+   ],
+   "prompt_attempts": [],
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.162,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 52.1,
+    "y_pct": 34.2,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_008",
+   "startMs": 165085,
+   "endMs": 173065,
+   "new_image_reason": "scene change: at the old harbour warehouses Shahid finds fresh footprints and a small folded note",
+   "characters": [
+    "shahid"
+   ],
+   "location": "the row of old abandoned warehouses (ba gudhan) near the east-side harbour of the island: long low buildings of weathered broken whitewashed coral-stone with black mould streaks, partly collapsed rusted corrugated-iron roofs, sagging grey wooden doors hanging open on dark interiors, narrow sandy lanes between them strewn with rusted iron scraps, one broken wall with a crumbling arched opening, a glimpse of the grey harbour water and an old moored wooden dhoni with no lettering beyond",
+   "location_key": "warehouses",
+   "mood": "overcast afternoon, flat grey light, heavy brooding clouds over the harbour, empty and silent, quietly menacing",
+   "speaker": null,
+   "visual": "Shahid crouching in a sandy lane between the abandoned coral-stone warehouses, holding up a small folded scrap of plain paper with no visible writing that he has just pulled from a crack in the wall, examining it warily; in front of him a fresh line of footprints pressed into the damp sand leading into a dark open warehouse doorway; rusted iron scraps; the broken wall with the arched opening behind him",
+   "camera": "medium wide, slightly high angle, Shahid in the upper half, the footprints in the sand as the lower third",
+   "image": "images/beat_008.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": "other",
+   "safe_substitution": "the meeting note is a folded blank-looking scrap; nothing readable",
+   "ambience": "jetty_day",
+   "shots": [
+    {
+     "id": "shot_019",
+     "startMs": 165085,
+     "endMs": 173065,
+     "narration_dhivehi": "އެ ސަރަހައްދަށް ގޮސް ބެލުމުން، ތާޒާ ފައިތިލައިގެ ނިޝާންތަކަކާއި، ބައްދަލުވުމަކަށް އިޝާރާތްކުރާ ކުޑަ ނޯޓެއް އޭނާއަށް ފެނު.",
+     "narration_english": "When he went to that area and looked, he found fresh footprints and a small note hinting at a meeting.",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [
+      {
+       "name": "footsteps_sand",
+       "atMs": 165625,
+       "gainDb": -22,
+       "word": "ސަރަހައްދަށް"
+      },
+      {
+       "name": "paper_shuffle",
+       "atMs": 171525,
+       "gainDb": -20,
+       "word": "ނޯޓެއް"
+      }
+     ],
+     "hum": false,
+     "speaker": null,
+     "focus_pct": null,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Ali Shahid), create a new scene: Cinematic semi-realistic digital painting in the look of a gritty mystery-thriller book cover: soft painterly realism, desaturated palette of slate grey, ash white, weathered sepia and deep charcoal shadow with small touches of warm amber light, low-key dramatic side lighting, gentle haze, fine film grain, shallow depth of field, Maldivian characters with warm brown skin, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (sand, floor, desk top, water, soft shadow) for captions and a logo; set on a Maldivian island (crumbling mould-stained whitewashed coral-stone walls with arched wooden windows, sandy lanes, coconut palms silhouetted against brooding skies, an old abandoned lighthouse, old harbour warehouses, dense dark jungle of screw-pines and magoo shrubs); emotional suspense composition; stormy nights are near-black blue-grey with silver rain and white lightning, interiors at night are lit by a single warm bulb or a cold computer-screen glow, mornings are pale gold, and memories of the past are faded and sepia-toned.\nScene: Shahid crouching in a sandy lane between the abandoned coral-stone warehouses, holding up a small folded scrap of plain paper with no visible writing that he has just pulled from a crack in the wall, examining it warily; in front of him a fresh line of footprints pressed into the damp sand leading into a dark open warehouse doorway; rusted iron scraps; the broken wall with the arched opening behind him. Location: the row of old abandoned warehouses (ba gudhan) near the east-side harbour of the island: long low buildings of weathered broken whitewashed coral-stone with black mould streaks, partly collapsed rusted corrugated-iron roofs, sagging grey wooden doors hanging open on dark interiors, narrow sandy lanes between them strewn with rusted iron scraps, one broken wall with a crumbling arched opening, a glimpse of the grey harbour water and an old moored wooden dhoni with no lettering beyond. Camera: medium wide, slightly high angle, Shahid in the upper half, the footprints in the sand as the lower third.\nCharacters: Ali Shahid: a slim Maldivian man of about 30 with warm brown skin, a lean intelligent face, alert dark-brown eyes, straight eyebrows, light black stubble and short slightly wavy black hair; wears a dark olive-green long-sleeved utility shirt open over a plain grey t-shirt, black trousers and dark sneakers.\nMood/lighting: overcast afternoon, flat grey light, heavy brooding clouds over the harbour, empty and silent, quietly menacing.\nModest Maldivian clothing (every woman in a loose long-sleeved ankle-length dress with a hijab fully covering her hair and neck, also at home and at night; men in shirts with long trousers, never shirtless), married couples only side by side with no embracing or kissing, culturally respectful and Islamic in spirit, no ghosts, no monsters, no faces in clouds or shadows, no violence shown, no blood, no wounds, no gore, no dead bodies, no guns, no knives, no weapons, no handcuffs, no alcohol, no smoking, no religious symbols of other faiths, no text, no letters, no numbers, no writing, no readable screens, no badges with lettering, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.349,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 50.0,
+    "y_pct": 40.0,
+    "face_detected": false
+   }
+  },
+  {
+   "id": "beat_009",
+   "startMs": 173065,
+   "endMs": 181785,
+   "new_image_reason": "character change: a strange-looking masked figure appears behind Shahid and warns him",
+   "characters": [
+    "masked_stranger",
+    "shahid"
+   ],
+   "location": "the row of old abandoned warehouses (ba gudhan) near the east-side harbour of the island: long low buildings of weathered broken whitewashed coral-stone with black mould streaks, partly collapsed rusted corrugated-iron roofs, sagging grey wooden doors hanging open on dark interiors, narrow sandy lanes between them strewn with rusted iron scraps, one broken wall with a crumbling arched opening, a glimpse of the grey harbour water and an old moored wooden dhoni with no lettering beyond",
+   "location_key": "warehouses",
+   "mood": "overcast afternoon, flat grey light, heavy brooding clouds over the harbour, empty and silent, quietly menacing",
+   "speaker": null,
+   "visual": "the masked stranger standing in a dark warehouse doorway a few metres away, in his long loose black robe, black turban wrap and black face cloth, only his grime-smeared wary eyes visible, one hand raised with a pointing finger in a silent warning; in the soft-focus foreground Shahid seen from behind and to the side, frozen mid-turn; grey light, sagging wooden door, mould-streaked walls; no weapon, no fighting",
+   "camera": "over-the-shoulder medium shot, the stranger centred and sharp in the upper half, Shahid blurred in the foreground, the sandy ground as the lower third",
+   "image": "images/beat_009.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": "violence",
+   "safe_substitution": "the stranger only warns with a raised finger; no weapon, no contact",
+   "ambience": "abandoned_house",
+   "shots": [
+    {
+     "id": "shot_020",
+     "startMs": 173065,
+     "endMs": 181785,
+     "narration_dhivehi": "އެ ތަނުން އަވަހަށް ނުކުންނަން އުޅެނިކޮށް، ކުއްލިއަކަށް އޭނާގެ ފަހަތުން ނާމާން ސިފައެއްގެ މީހަކު ފެނި ބިރުވެރިކަމެއްގެ ތެރެއަށް ވެއްޓުނު.",
+     "narration_english": "As he was about to hurry out of the place, suddenly a strange-looking man appeared behind him, and he was gripped by fear.",
+     "crop": "full",
+     "motion": "pan left",
+     "sfx": [
+      {
+       "name": "gasp",
+       "atMs": 179185,
+       "gainDb": -20,
+       "word": "ފެނި"
+      },
+      {
+       "name": "heartbeat",
+       "atMs": 179645,
+       "gainDb": -20,
+       "word": "ބިރުވެރިކަމެއްގެ"
+      }
+     ],
+     "hum": true,
+     "speaker": null,
+     "focus_pct": [
+      52,
+      30
+     ],
+     "crop_rect_pct": [
+      9.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is the masked stranger; reference image 2 is Ali Shahid), create a new scene: Cinematic semi-realistic digital painting in the look of a gritty mystery-thriller book cover: soft painterly realism, desaturated palette of slate grey, ash white, weathered sepia and deep charcoal shadow with small touches of warm amber light, low-key dramatic side lighting, gentle haze, fine film grain, shallow depth of field, Maldivian characters with warm brown skin, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (sand, floor, desk top, water, soft shadow) for captions and a logo; set on a Maldivian island (crumbling mould-stained whitewashed coral-stone walls with arched wooden windows, sandy lanes, coconut palms silhouetted against brooding skies, an old abandoned lighthouse, old harbour warehouses, dense dark jungle of screw-pines and magoo shrubs); emotional suspense composition; stormy nights are near-black blue-grey with silver rain and white lightning, interiors at night are lit by a single warm bulb or a cold computer-screen glow, mornings are pale gold, and memories of the past are faded and sepia-toned.\nScene: the masked stranger standing in a dark warehouse doorway a few metres away, in his long loose black robe, black turban wrap and black face cloth, only his grime-smeared wary eyes visible, one hand raised with a pointing finger in a silent warning; in the soft-focus foreground Shahid seen from behind and to the side, frozen mid-turn; grey light, sagging wooden door, mould-streaked walls; no weapon, no fighting. Location: the row of old abandoned warehouses (ba gudhan) near the east-side harbour of the island: long low buildings of weathered broken whitewashed coral-stone with black mould streaks, partly collapsed rusted corrugated-iron roofs, sagging grey wooden doors hanging open on dark interiors, narrow sandy lanes between them strewn with rusted iron scraps, one broken wall with a crumbling arched opening, a glimpse of the grey harbour water and an old moored wooden dhoni with no lettering beyond. Camera: over-the-shoulder medium shot, the stranger centred and sharp in the upper half, Shahid blurred in the foreground, the sandy ground as the lower third.\nCharacters: the masked stranger: a lean man wrapped in a long loose black robe, a black turban-style head wrap and a black cloth covering his nose, mouth and chin, so only his wary dark eyes are visible, the skin around them smeared with grime. Ali Shahid: a slim Maldivian man of about 30 with warm brown skin, a lean intelligent face, alert dark-brown eyes, straight eyebrows, light black stubble and short slightly wavy black hair; wears a dark olive-green long-sleeved utility shirt open over a plain grey t-shirt, black trousers and dark sneakers.\nMood/lighting: overcast afternoon, flat grey light, heavy brooding clouds over the harbour, empty and silent, quietly menacing.\nModest Maldivian clothing (every woman in a loose long-sleeved ankle-length dress with a hijab fully covering her hair and neck, also at home and at night; men in shirts with long trousers, never shirtless), married couples only side by side with no embracing or kissing, culturally respectful and Islamic in spirit, no ghosts, no monsters, no faces in clouds or shadows, no violence shown, no blood, no wounds, no gore, no dead bodies, no guns, no knives, no weapons, no handcuffs, no alcohol, no smoking, no religious symbols of other faiths, no text, no letters, no numbers, no writing, no readable screens, no badges with lettering, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.335,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 87.8,
+    "y_pct": 50.3,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_010",
+   "startMs": 181785,
+   "endMs": 193506,
+   "new_image_reason": "action change: the stranger runs into the warehouses; Shahid chases at a distance and loses him",
+   "characters": [
+    "shahid",
+    "masked_stranger"
+   ],
+   "location": "the row of old abandoned warehouses (ba gudhan) near the east-side harbour of the island: long low buildings of weathered broken whitewashed coral-stone with black mould streaks, partly collapsed rusted corrugated-iron roofs, sagging grey wooden doors hanging open on dark interiors, narrow sandy lanes between them strewn with rusted iron scraps, one broken wall with a crumbling arched opening, a glimpse of the grey harbour water and an old moored wooden dhoni with no lettering beyond",
+   "location_key": "warehouses",
+   "mood": "overcast afternoon, flat grey light, heavy brooding clouds over the harbour, empty and silent, quietly menacing",
+   "speaker": null,
+   "visual": "a long narrow sandy lane between the abandoned warehouses: far ahead the dark figure of the masked stranger in his black robe vanishing around a crumbling corner, only the flutter of the black cloth visible; Shahid running after him in the middle distance, seen from behind and slightly to the side, his arm outstretched; dust kicked up from the sand; collapsing rusted roofs, deep shadows",
+   "camera": "wide shot down the lane, eye level, the figures in the upper-middle, the empty sand and footprints as the lower third",
+   "image": "images/beat_010.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": "violence",
+   "safe_substitution": "a chase at a distance only; no contact, no fighting",
+   "ambience": "abandoned_house",
+   "shots": [
+    {
+     "id": "shot_021",
+     "startMs": 181785,
+     "endMs": 193506,
+     "narration_dhivehi": "ޝާހިދުގެ ކުރިމަތީގައި ހުރި މީހާ އިންޒާރެއް ދިނުމަށްފަހު، ކުއްލިއަކަށް ގުދަންތަކުގެ ތެރެއަށް ދުއްވައިގަތް. ޝާހިދު އޭނާގެ ފަހަތުން ދުވެފައި ދިޔަ ނަމަވެސް، އެ މީހާ ވަނީ ގެއްލިފައޭ.",
+     "narration_english": "The man in front of Shahid gave a warning, then suddenly ran off into the warehouses. Shahid ran after him, but the man had vanished.",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [
+      {
+       "name": "footsteps_sand",
+       "atMs": 187885,
+       "gainDb": -18,
+       "word": "ދުއްވައިގަތް."
+      },
+      {
+       "name": "footsteps_sand",
+       "atMs": 190585,
+       "gainDb": -20,
+       "word": "ދުވެފައި"
+      }
+     ],
+     "hum": true,
+     "speaker": null,
+     "focus_pct": null,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Ali Shahid; reference image 2 is the masked stranger), create a new scene: Cinematic semi-realistic digital painting in the look of a gritty mystery-thriller book cover: soft painterly realism, desaturated palette of slate grey, ash white, weathered sepia and deep charcoal shadow with small touches of warm amber light, low-key dramatic side lighting, gentle haze, fine film grain, shallow depth of field, Maldivian characters with warm brown skin, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (sand, floor, desk top, water, soft shadow) for captions and a logo; set on a Maldivian island (crumbling mould-stained whitewashed coral-stone walls with arched wooden windows, sandy lanes, coconut palms silhouetted against brooding skies, an old abandoned lighthouse, old harbour warehouses, dense dark jungle of screw-pines and magoo shrubs); emotional suspense composition; stormy nights are near-black blue-grey with silver rain and white lightning, interiors at night are lit by a single warm bulb or a cold computer-screen glow, mornings are pale gold, and memories of the past are faded and sepia-toned.\nScene: a long narrow sandy lane between the abandoned warehouses: far ahead the dark figure of the masked stranger in his black robe vanishing around a crumbling corner, only the flutter of the black cloth visible; Shahid running after him in the middle distance, seen from behind and slightly to the side, his arm outstretched; dust kicked up from the sand; collapsing rusted roofs, deep shadows. Location: the row of old abandoned warehouses (ba gudhan) near the east-side harbour of the island: long low buildings of weathered broken whitewashed coral-stone with black mould streaks, partly collapsed rusted corrugated-iron roofs, sagging grey wooden doors hanging open on dark interiors, narrow sandy lanes between them strewn with rusted iron scraps, one broken wall with a crumbling arched opening, a glimpse of the grey harbour water and an old moored wooden dhoni with no lettering beyond. Camera: wide shot down the lane, eye level, the figures in the upper-middle, the empty sand and footprints as the lower third.\nCharacters: Ali Shahid: a slim Maldivian man of about 30 with warm brown skin, a lean intelligent face, alert dark-brown eyes, straight eyebrows, light black stubble and short slightly wavy black hair; wears a dark olive-green long-sleeved utility shirt open over a plain grey t-shirt, black trousers and dark sneakers. the masked stranger: a lean man wrapped in a long loose black robe, a black turban-style head wrap and a black cloth covering his nose, mouth and chin, so only his wary dark eyes are visible, the skin around them smeared with grime.\nMood/lighting: overcast afternoon, flat grey light, heavy brooding clouds over the harbour, empty and silent, quietly menacing.\nModest Maldivian clothing (every woman in a loose long-sleeved ankle-length dress with a hijab fully covering her hair and neck, also at home and at night; men in shirts with long trousers, never shirtless), married couples only side by side with no embracing or kissing, culturally respectful and Islamic in spirit, no ghosts, no monsters, no faces in clouds or shadows, no violence shown, no blood, no wounds, no gore, no dead bodies, no guns, no knives, no weapons, no handcuffs, no alcohol, no smoking, no religious symbols of other faiths, no text, no letters, no numbers, no writing, no readable screens, no badges with lettering, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.378,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 50.0,
+    "y_pct": 40.0,
+    "face_detected": false
+   }
+  },
+  {
+   "id": "beat_011",
+   "startMs": 193506,
+   "endMs": 206026,
+   "new_image_reason": "action/character change: Shahid finds the dropped silicone mask as Amjad and a police team arrive",
+   "characters": [
+    "shahid",
+    "amjad"
+   ],
+   "location": "the row of old abandoned warehouses (ba gudhan) near the east-side harbour of the island: long low buildings of weathered broken whitewashed coral-stone with black mould streaks, partly collapsed rusted corrugated-iron roofs, sagging grey wooden doors hanging open on dark interiors, narrow sandy lanes between them strewn with rusted iron scraps, one broken wall with a crumbling arched opening, a glimpse of the grey harbour water and an old moored wooden dhoni with no lettering beyond",
+   "location_key": "warehouses",
+   "mood": "overcast afternoon, flat grey light, heavy brooding clouds over the harbour, empty and silent, quietly menacing",
+   "speaker": null,
+   "visual": "Shahid crouching in the sand at the corner where the stranger vanished, staring in astonishment at a soft flesh-toned theatrical silicone face mask like a film-studio prop: a smooth matte beige rubbery hollow face shape with empty eye holes, limp and slightly crumpled, no hair, clearly an artificial prop, no blood, nothing gory, lifting it carefully from the sand with both hands; at the far end of the lane behind him Officer Amjad striding into view with two or three ordinary island police officers in plain dark navy uniform shirts with no badges and no lettering, empty hands, no weapons, no holsters, no batons, no handcuffs, small and approaching",
+   "camera": "medium wide, eye level, Shahid and the mask in the upper half, Amjad and the officers small in the background, the sand as the lower third",
+   "image": "images/beat_011.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": "other",
+   "safe_substitution": "the mask is a soft rubbery film prop held in the hands, never skin; police carry nothing",
+   "ambience": "jetty_day",
+   "shots": [
+    {
+     "id": "shot_022",
+     "startMs": 193506,
+     "endMs": 206026,
+     "narration_dhivehi": "އެ ސަރަހައްދުން ޝާހިދަށް ފެނުނީ ސިފަ ބަދަލުކުރަން ބޭނުންކުރި މާސްކެއް. އެ ވަގުތު އޮފިސަރު އަމްޖަދު ފުލުހުންގެ ޓީމަކާއެކު އެ ތަނަށް އައިސް، އެ ސަރަހައްދުގައި ޝާހިދު ހުރުމުން ސުވާލުކޮށް ހިތްހަމަނުޖެހުން ފާޅުކުރިއޭ.",
+     "narration_english": "In that area Shahid found a mask used to change one's appearance. At that moment Officer Amjad arrived with a police team, and finding Shahid there, questioned him and showed his displeasure.",
+     "crop": "full",
+     "motion": "pan right",
+     "sfx": [
+      {
+       "name": "footsteps_sand",
+       "atMs": 200146,
+       "gainDb": -20,
+       "word": "ޓީމަކާއެކު"
+      }
+     ],
+     "hum": false,
+     "speaker": null,
+     "focus_pct": null,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Ali Shahid; reference image 2 is Officer Amjad), create a new scene: Cinematic semi-realistic digital painting in the look of a gritty mystery-thriller book cover: soft painterly realism, desaturated palette of slate grey, ash white, weathered sepia and deep charcoal shadow with small touches of warm amber light, low-key dramatic side lighting, gentle haze, fine film grain, shallow depth of field, Maldivian characters with warm brown skin, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (sand, floor, desk top, water, soft shadow) for captions and a logo; set on a Maldivian island (crumbling mould-stained whitewashed coral-stone walls with arched wooden windows, sandy lanes, coconut palms silhouetted against brooding skies, an old abandoned lighthouse, old harbour warehouses, dense dark jungle of screw-pines and magoo shrubs); emotional suspense composition; stormy nights are near-black blue-grey with silver rain and white lightning, interiors at night are lit by a single warm bulb or a cold computer-screen glow, mornings are pale gold, and memories of the past are faded and sepia-toned.\nScene: Shahid crouching in the sand at the corner where the stranger vanished, staring in astonishment at a soft flesh-toned theatrical silicone face mask like a film-studio prop: a smooth matte beige rubbery hollow face shape with empty eye holes, limp and slightly crumpled, no hair, clearly an artificial prop, no blood, nothing gory, lifting it carefully from the sand with both hands; at the far end of the lane behind him Officer Amjad striding into view with two or three ordinary island police officers in plain dark navy uniform shirts with no badges and no lettering, empty hands, no weapons, no holsters, no batons, no handcuffs, small and approaching. Location: the row of old abandoned warehouses (ba gudhan) near the east-side harbour of the island: long low buildings of weathered broken whitewashed coral-stone with black mould streaks, partly collapsed rusted corrugated-iron roofs, sagging grey wooden doors hanging open on dark interiors, narrow sandy lanes between them strewn with rusted iron scraps, one broken wall with a crumbling arched opening, a glimpse of the grey harbour water and an old moored wooden dhoni with no lettering beyond. Camera: medium wide, eye level, Shahid and the mask in the upper half, Amjad and the officers small in the background, the sand as the lower third.\nCharacters: Ali Shahid: a slim Maldivian man of about 30 with warm brown skin, a lean intelligent face, alert dark-brown eyes, straight eyebrows, light black stubble and short slightly wavy black hair; wears a dark olive-green long-sleeved utility shirt open over a plain grey t-shirt, black trousers and dark sneakers. Officer Amjad: a tall broad-shouldered Maldivian man of about 55 with warm brown skin, a square stern face, sharp narrow vigilant dark eyes, heavy brows, a thick salt-and-pepper moustache, a clean-shaven chin and short salt-and-pepper hair combed back; wears a long-sleeved dark navy-blue police uniform shirt with plain shoulder epaulettes and no badges or lettering, dark navy trousers and a plain black belt; no weapon.\nMood/lighting: overcast afternoon, flat grey light, heavy brooding clouds over the harbour, empty and silent, quietly menacing.\nModest Maldivian clothing (every woman in a loose long-sleeved ankle-length dress with a hijab fully covering her hair and neck, also at home and at night; men in shirts with long trousers, never shirtless), married couples only side by side with no embracing or kissing, culturally respectful and Islamic in spirit, no ghosts, no monsters, no faces in clouds or shadows, no violence shown, no blood, no wounds, no gore, no dead bodies, no guns, no knives, no weapons, no handcuffs, no alcohol, no smoking, no religious symbols of other faiths, no text, no letters, no numbers, no writing, no readable screens, no badges with lettering, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.444,
+    "halo": true
+   },
+   "focus": {
+    "x_pct": 38.9,
+    "y_pct": 31.8,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_012",
+   "startMs": 206026,
+   "endMs": 222736,
+   "new_image_reason": "dialogue: Amjad orders his officers to seal the area, then turns his warning eyes on Shahid (Amjad speaking)",
+   "characters": [
+    "amjad",
+    "shahid"
+   ],
+   "location": "the row of old abandoned warehouses (ba gudhan) near the east-side harbour of the island: long low buildings of weathered broken whitewashed coral-stone with black mould streaks, partly collapsed rusted corrugated-iron roofs, sagging grey wooden doors hanging open on dark interiors, narrow sandy lanes between them strewn with rusted iron scraps, one broken wall with a crumbling arched opening, a glimpse of the grey harbour water and an old moored wooden dhoni with no lettering beyond",
+   "location_key": "warehouses",
+   "mood": "overcast afternoon, flat grey light, heavy brooding clouds over the harbour, empty and silent, quietly menacing",
+   "speaker": null,
+   "visual": "Officer Amjad standing in the warehouse lane, one arm stretched out pointing sharply as he barks an order, his face stern and commanding, eyes hard; behind him two or three ordinary island police officers in plain dark navy uniform shirts with no badges and no lettering, empty hands, no weapons, no holsters, no batons, no handcuffs spreading out along the warehouses; at the side Shahid stands smaller and softer, watching; grey overcast light",
+   "camera": "medium shot, slightly low angle, Amjad's face centred and sharp in the upper half, the sandy lane as the lower third",
+   "image": "images/beat_012.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": "violence",
+   "safe_substitution": "sealing the area is shown only as a pointed order; no weapons, no tape with lettering",
+   "ambience": "jetty_day",
+   "shots": [
+    {
+     "id": "shot_023",
+     "startMs": 206026,
+     "endMs": 215496,
+     "narration_dhivehi": "އަމްޖަދު ވަގުތުން އޭނާގެ ފުލުހުންނަށް އަމުރުކުރި. މުޅި ސަރަހައްދު ބަންދުކުރޭ! އެއްވެސް މީހަކު މިތަނުން ބޭރުވެގެން ނުވާނެ!",
+     "narration_english": "Amjad at once ordered his officers: \"Seal off the whole area! Nobody is to leave this place!\"",
+     "crop": "medium",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "speaker": "amjad",
+     "focus_pct": [
+      52,
+      33
+     ],
+     "crop_rect_pct": [
+      16.2,
+      0.0,
+      71.5,
+      84.7
+     ]
+    },
+    {
+     "id": "shot_024",
+     "startMs": 215496,
+     "endMs": 222736,
+     "narration_dhivehi": "ނަމަވެސް އަމްޖަދު ޝާހިދާ ދިމާއަށް އެނބުރިލިއިރު، އޭނާގެ ދެލޮލުގައި ހުރީ އިންޒާރެއްގެ ނާމާން ކުލަވަރެއް.",
+     "narration_english": "But when Amjad turned towards Shahid, there was a strange colour of warning in his eyes.",
+     "crop": "tight",
+     "motion": "pan up",
+     "sfx": [],
+     "hum": true,
+     "speaker": null,
+     "focus_pct": [
+      52,
+      33
+     ],
+     "crop_rect_pct": [
+      22.3,
+      0.0,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Officer Amjad; reference image 2 is Ali Shahid), create a new scene: Cinematic semi-realistic digital painting in the look of a gritty mystery-thriller book cover: soft painterly realism, desaturated palette of slate grey, ash white, weathered sepia and deep charcoal shadow with small touches of warm amber light, low-key dramatic side lighting, gentle haze, fine film grain, shallow depth of field, Maldivian characters with warm brown skin, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (sand, floor, desk top, water, soft shadow) for captions and a logo; set on a Maldivian island (crumbling mould-stained whitewashed coral-stone walls with arched wooden windows, sandy lanes, coconut palms silhouetted against brooding skies, an old abandoned lighthouse, old harbour warehouses, dense dark jungle of screw-pines and magoo shrubs); emotional suspense composition; stormy nights are near-black blue-grey with silver rain and white lightning, interiors at night are lit by a single warm bulb or a cold computer-screen glow, mornings are pale gold, and memories of the past are faded and sepia-toned.\nScene: Officer Amjad standing in the warehouse lane, one arm stretched out pointing sharply as he barks an order, his face stern and commanding, eyes hard; behind him two or three ordinary island police officers in plain dark navy uniform shirts with no badges and no lettering, empty hands, no weapons, no holsters, no batons, no handcuffs spreading out along the warehouses; at the side Shahid stands smaller and softer, watching; grey overcast light. Location: the row of old abandoned warehouses (ba gudhan) near the east-side harbour of the island: long low buildings of weathered broken whitewashed coral-stone with black mould streaks, partly collapsed rusted corrugated-iron roofs, sagging grey wooden doors hanging open on dark interiors, narrow sandy lanes between them strewn with rusted iron scraps, one broken wall with a crumbling arched opening, a glimpse of the grey harbour water and an old moored wooden dhoni with no lettering beyond. Camera: medium shot, slightly low angle, Amjad's face centred and sharp in the upper half, the sandy lane as the lower third.\nCharacters: Officer Amjad: a tall broad-shouldered Maldivian man of about 55 with warm brown skin, a square stern face, sharp narrow vigilant dark eyes, heavy brows, a thick salt-and-pepper moustache, a clean-shaven chin and short salt-and-pepper hair combed back; wears a long-sleeved dark navy-blue police uniform shirt with plain shoulder epaulettes and no badges or lettering, dark navy trousers and a plain black belt; no weapon. Ali Shahid: a slim Maldivian man of about 30 with warm brown skin, a lean intelligent face, alert dark-brown eyes, straight eyebrows, light black stubble and short slightly wavy black hair; wears a dark olive-green long-sleeved utility shirt open over a plain grey t-shirt, black trousers and dark sneakers.\nMood/lighting: overcast afternoon, flat grey light, heavy brooding clouds over the harbour, empty and silent, quietly menacing.\nModest Maldivian clothing (every woman in a loose long-sleeved ankle-length dress with a hijab fully covering her hair and neck, also at home and at night; men in shirts with long trousers, never shirtless), married couples only side by side with no embracing or kissing, culturally respectful and Islamic in spirit, no ghosts, no monsters, no faces in clouds or shadows, no violence shown, no blood, no wounds, no gore, no dead bodies, no guns, no knives, no weapons, no handcuffs, no alcohol, no smoking, no religious symbols of other faiths, no text, no letters, no numbers, no writing, no readable screens, no badges with lettering, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.123,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 48.8,
+    "y_pct": 38.3,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_013",
+   "startMs": 222736,
+   "endMs": 264968,
+   "new_image_reason": "action change: Amjad steps close and whispers a threat at Shahid's ear; Shahid freezes and understands (dialogue + reaction)",
+   "characters": [
+    "amjad",
+    "shahid"
+   ],
+   "location": "the row of old abandoned warehouses (ba gudhan) near the east-side harbour of the island: long low buildings of weathered broken whitewashed coral-stone with black mould streaks, partly collapsed rusted corrugated-iron roofs, sagging grey wooden doors hanging open on dark interiors, narrow sandy lanes between them strewn with rusted iron scraps, one broken wall with a crumbling arched opening, a glimpse of the grey harbour water and an old moored wooden dhoni with no lettering beyond",
+   "location_key": "warehouses",
+   "mood": "overcast afternoon, flat grey light, heavy brooding clouds over the harbour, empty and silent, quietly menacing",
+   "speaker": null,
+   "visual": "close two-shot in the grey warehouse lane: Officer Amjad leaning in close beside Shahid's ear, seen in sharp profile, whispering with narrowed menacing eyes and a hard mouth under his salt-and-pepper moustache; Shahid facing the camera in three-quarter view, frozen, eyes wide with dawning fear, leaning slightly away; no touching of weapons, no handcuffs; mould-streaked wall behind them",
+   "camera": "medium close-up two-shot, eye level, both faces in the upper half (Amjad left, Shahid right), the dark wall and sand as the lower third",
+   "image": "images/beat_013.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": "violence",
+   "safe_substitution": "the arrest is only a whispered threat; no handcuffs, no grabbing",
+   "ambience": "jetty_day",
+   "shots": [
+    {
+     "id": "shot_025",
+     "startMs": 222736,
+     "endMs": 231757,
+     "narration_dhivehi": "އަމްޖަދު ދެ ފިޔަވަޅެއްވަރު ކުރިއަށް ޖެހިލައި ޝާހިދުގެ ކަންފަތް ކައިރީގައި މަޑުމަޑުން ބުނި. ޝާހިދު، އަހަރެން ބުނީމެއްނު",
+     "narration_english": "Amjad stepped about two paces forward and said softly, close to Shahid's ear: \"Shahid, didn't I tell you",
+     "crop": "medium",
+     "motion": "slow pull-out",
+     "sfx": [
+      {
+       "name": "footsteps_sand",
+       "atMs": 223526,
+       "gainDb": -22,
+       "word": "ފިޔަވަޅެއްވަރު"
+      }
+     ],
+     "hum": false,
+     "speaker": "amjad",
+     "focus_pct": [
+      38,
+      30
+     ],
+     "crop_rect_pct": [
+      2.2,
+      0.0,
+      71.5,
+      84.7
+     ]
+    },
+    {
+     "id": "shot_026",
+     "startMs": 231757,
+     "endMs": 244587,
+     "narration_dhivehi": "މިއީ ކަލޭ ބެހެންވީ ކަމެއް ނޫނޭ. މިއަދު ކަލޭ ސަލާމަތްވީ. ދެން ފަހަރަކުން މިތަނުން ފެނިއްޖެއްޔާ، އަހަރެން ޖެހޭނީ ކަލޭ ހައްޔަރުކުރަން.",
+     "narration_english": "this is no business of yours? Today you got away. Next time I see you here, I'll have to arrest you.\"",
+     "crop": "tight",
+     "motion": "pan down",
+     "sfx": [],
+     "hum": true,
+     "speaker": "amjad",
+     "focus_pct": [
+      38,
+      30
+     ],
+     "crop_rect_pct": [
+      8.3,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_027",
+     "startMs": 244587,
+     "endMs": 253607,
+     "narration_dhivehi": "ޝާހިދު ފަހަތަށް ޖެހިލި. އަމްޖަދުގެ އެ ބަސްތަކުން އޭނާއަށް ޔަގީންވި. އަމްޖަދު އުޅެނީ އިބްރާހީމް ހޯދާކަށް ނޫން. އޭނާ އުޅެނީ އިބްރާހީމް ފޮރުވަން!",
+     "narration_english": "Shahid stepped back. From those words of Amjad's he was certain: Amjad isn't trying to find Ibrahim. He is trying to hide Ibrahim!",
+     "crop": "medium",
+     "motion": "static drift",
+     "sfx": [
+      {
+       "name": "footsteps_sand",
+       "atMs": 246247,
+       "gainDb": -24,
+       "word": "ޖެހިލި."
+      }
+     ],
+     "hum": true,
+     "speaker": null,
+     "focus_pct": [
+      60,
+      33
+     ],
+     "crop_rect_pct": [
+      24.2,
+      0.0,
+      71.5,
+      84.7
+     ]
+    },
+    {
+     "id": "shot_028",
+     "startMs": 253607,
+     "endMs": 264968,
+     "narration_dhivehi": "ނުވަތަ އިބްރާހީމްގެ ދޫ ބަންދުކުރަން. ނުވިތާކަށް، ޝާހިދުގެވެސް ދޫ ބަންދުކުރަން. އޮފިސަރު އަމްޖަދުގެ ނާމާން އިންޒާރުގެ ބަސްތަކުން ޝާހިދުގެ ކަންފަތް ބައްވެފައި ހުރި ކަހަލަ.",
+     "narration_english": "Or to shut Ibrahim's mouth. Or worse — to shut Shahid's mouth too. Officer Amjad's strange words of warning seemed to leave Shahid's ears ringing.",
+     "crop": "tight",
+     "motion": "slow push-in",
+     "sfx": [
+      {
+       "name": "heartbeat",
+       "atMs": 263568,
+       "gainDb": -22,
+       "word": "ބައްވެފައި"
+      }
+     ],
+     "hum": true,
+     "speaker": null,
+     "focus_pct": [
+      60,
+      33
+     ],
+     "crop_rect_pct": [
+      30.3,
+      0.0,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Officer Amjad; reference image 2 is Ali Shahid), create a new scene: Cinematic semi-realistic digital painting in the look of a gritty mystery-thriller book cover: soft painterly realism, desaturated palette of slate grey, ash white, weathered sepia and deep charcoal shadow with small touches of warm amber light, low-key dramatic side lighting, gentle haze, fine film grain, shallow depth of field, Maldivian characters with warm brown skin, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (sand, floor, desk top, water, soft shadow) for captions and a logo; set on a Maldivian island (crumbling mould-stained whitewashed coral-stone walls with arched wooden windows, sandy lanes, coconut palms silhouetted against brooding skies, an old abandoned lighthouse, old harbour warehouses, dense dark jungle of screw-pines and magoo shrubs); emotional suspense composition; stormy nights are near-black blue-grey with silver rain and white lightning, interiors at night are lit by a single warm bulb or a cold computer-screen glow, mornings are pale gold, and memories of the past are faded and sepia-toned.\nScene: close two-shot in the grey warehouse lane: Officer Amjad leaning in close beside Shahid's ear, seen in sharp profile, whispering with narrowed menacing eyes and a hard mouth under his salt-and-pepper moustache; Shahid facing the camera in three-quarter view, frozen, eyes wide with dawning fear, leaning slightly away; no touching of weapons, no handcuffs; mould-streaked wall behind them. Location: the row of old abandoned warehouses (ba gudhan) near the east-side harbour of the island: long low buildings of weathered broken whitewashed coral-stone with black mould streaks, partly collapsed rusted corrugated-iron roofs, sagging grey wooden doors hanging open on dark interiors, narrow sandy lanes between them strewn with rusted iron scraps, one broken wall with a crumbling arched opening, a glimpse of the grey harbour water and an old moored wooden dhoni with no lettering beyond. Camera: medium close-up two-shot, eye level, both faces in the upper half (Amjad left, Shahid right), the dark wall and sand as the lower third.\nCharacters: Officer Amjad: a tall broad-shouldered Maldivian man of about 55 with warm brown skin, a square stern face, sharp narrow vigilant dark eyes, heavy brows, a thick salt-and-pepper moustache, a clean-shaven chin and short salt-and-pepper hair combed back; wears a long-sleeved dark navy-blue police uniform shirt with plain shoulder epaulettes and no badges or lettering, dark navy trousers and a plain black belt; no weapon. Ali Shahid: a slim Maldivian man of about 30 with warm brown skin, a lean intelligent face, alert dark-brown eyes, straight eyebrows, light black stubble and short slightly wavy black hair; wears a dark olive-green long-sleeved utility shirt open over a plain grey t-shirt, black trousers and dark sneakers.\nMood/lighting: overcast afternoon, flat grey light, heavy brooding clouds over the harbour, empty and silent, quietly menacing.\nModest Maldivian clothing (every woman in a loose long-sleeved ankle-length dress with a hijab fully covering her hair and neck, also at home and at night; men in shirts with long trousers, never shirtless), married couples only side by side with no embracing or kissing, culturally respectful and Islamic in spirit, no ghosts, no monsters, no faces in clouds or shadows, no violence shown, no blood, no wounds, no gore, no dead bodies, no guns, no knives, no weapons, no handcuffs, no alcohol, no smoking, no religious symbols of other faiths, no text, no letters, no numbers, no writing, no readable screens, no badges with lettering, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.116,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 61.1,
+    "y_pct": 37.4,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_014",
+   "startMs": 264968,
+   "endMs": 287178,
+   "new_image_reason": "scene change: Shahid walks away afraid, feeling the weight of the bag with the mask on his shoulder",
+   "characters": [
+    "shahid"
+   ],
+   "location": "the sandy lane leading away from the east harbour warehouses towards the village: coconut palms, low crumbling coral-stone walls, long shadows, the old warehouses small in the distance behind",
+   "location_key": "harbour_lane",
+   "mood": "late overcast afternoon turning to dusk, grey-amber sky, long soft shadows, anxious",
+   "speaker": null,
+   "visual": "Shahid walking away along the sandy lane towards the camera, one hand gripping the strap of the canvas shoulder bag slung across his body as if it were heavy, glancing back over his shoulder with fear mixed with a new determined spark in his eyes; far behind him the old warehouses small and grey under a darkening sky",
+   "camera": "medium shot, eye level, Shahid's face in the upper half, the sandy lane as the lower third",
+   "image": "images/beat_014.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "village_day",
+   "shots": [
+    {
+     "id": "shot_029",
+     "startMs": 264968,
+     "endMs": 278258,
+     "narration_dhivehi": "އޭނާ ފުލުހުންގެ ސަރަހައްދުން ދުރަށް ހިނގައިގަތީ ހިތް ބިރުގަންނަ ހާލުގައި. ނަމަވެސް، ކޮނޑުގައި އަޅުވައިލައިފައި އޮތް ދަބަހުގެ ބަރުކަން އިހުސާސްވުމާއެކު އޭނާގެ ހިތުގެ ކަނެއްގައި އާ ޖޯޝެއް އުފެދުނު.",
+     "narration_english": "He set off walking away from the police area with a frightened heart. Yet, as he felt the weight of the bag slung on his shoulder, a new excitement rose in a corner of his heart.",
+     "crop": "full",
+     "motion": "pan left",
+     "sfx": [
+      {
+       "name": "footsteps_sand",
+       "atMs": 267428,
+       "gainDb": -22,
+       "word": "ހިނގައިގަތީ"
+      },
+      {
+       "name": "cloth_rustle",
+       "atMs": 272768,
+       "gainDb": -24,
+       "word": "ދަބަހުގެ"
+      }
+     ],
+     "hum": false,
+     "speaker": null,
+     "focus_pct": null,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_030",
+     "startMs": 278258,
+     "endMs": 287178,
+     "narration_dhivehi": "އެ ދަބަހުގެ ތެރޭގައި އެ އޮތީ މުޅި ރަށަށް ސިއްރުވެފައި އޮތް ބޮޑު ހަގީގަތުގެ ފުރަތަމަ ފާޅުކަން ބޮޑު ހެކިއެއް. އިބްރާހީމް ނަސީމް ވައްޓައިލައިފައި ދިޔަ ސިއްރު މާސްކު.",
+     "narration_english": "Inside that bag lay the first big piece of evidence of a great truth hidden from the whole island: the secret mask Ibrahim Naseem had dropped.",
+     "crop": "tight",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": false,
+     "speaker": null,
+     "focus_pct": null,
+     "crop_rect_pct": [
+      11.6,
+      0.0,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Ali Shahid), create a new scene: Cinematic semi-realistic digital painting in the look of a gritty mystery-thriller book cover: soft painterly realism, desaturated palette of slate grey, ash white, weathered sepia and deep charcoal shadow with small touches of warm amber light, low-key dramatic side lighting, gentle haze, fine film grain, shallow depth of field, Maldivian characters with warm brown skin, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (sand, floor, desk top, water, soft shadow) for captions and a logo; set on a Maldivian island (crumbling mould-stained whitewashed coral-stone walls with arched wooden windows, sandy lanes, coconut palms silhouetted against brooding skies, an old abandoned lighthouse, old harbour warehouses, dense dark jungle of screw-pines and magoo shrubs); emotional suspense composition; stormy nights are near-black blue-grey with silver rain and white lightning, interiors at night are lit by a single warm bulb or a cold computer-screen glow, mornings are pale gold, and memories of the past are faded and sepia-toned.\nScene: Shahid walking away along the sandy lane towards the camera, one hand gripping the strap of the canvas shoulder bag slung across his body as if it were heavy, glancing back over his shoulder with fear mixed with a new determined spark in his eyes; far behind him the old warehouses small and grey under a darkening sky. Location: the sandy lane leading away from the east harbour warehouses towards the village: coconut palms, low crumbling coral-stone walls, long shadows, the old warehouses small in the distance behind. Camera: medium shot, eye level, Shahid's face in the upper half, the sandy lane as the lower third.\nCharacters: Ali Shahid: a slim Maldivian man of about 30 with warm brown skin, a lean intelligent face, alert dark-brown eyes, straight eyebrows, light black stubble and short slightly wavy black hair; wears a dark olive-green long-sleeved utility shirt open over a plain grey t-shirt, black trousers and dark sneakers.\nMood/lighting: late overcast afternoon turning to dusk, grey-amber sky, long soft shadows, anxious.\nModest Maldivian clothing (every woman in a loose long-sleeved ankle-length dress with a hijab fully covering her hair and neck, also at home and at night; men in shirts with long trousers, never shirtless), married couples only side by side with no embracing or kissing, culturally respectful and Islamic in spirit, no ghosts, no monsters, no faces in clouds or shadows, no violence shown, no blood, no wounds, no gore, no dead bodies, no guns, no knives, no weapons, no handcuffs, no alcohol, no smoking, no religious symbols of other faiths, no text, no letters, no numbers, no writing, no readable screens, no badges with lettering, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.207,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 41.3,
+    "y_pct": 25.2,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_015",
+   "startMs": 287178,
+   "endMs": 300389,
+   "new_image_reason": "scene/time change: evening at home, door locked, Shahid takes out the silicone mask under the desk lamp",
+   "characters": [
+    "shahid"
+   ],
+   "location": "Shahid's room at night in the old coral-stone island house: the wooden desk under a bright angled desk lamp throwing a hard warm cone of light, the big monitor dark, camera gear in shadow, the wooden window shutters closed, the room door shut and locked",
+   "location_key": "shahid_room_night",
+   "mood": "evening, the room dark except for the single hard warm cone of the desk lamp, intimate, secretive, deep charcoal shadows",
+   "speaker": null,
+   "visual": "Shahid sitting at his desk under the hard warm cone of the angled desk lamp, holding a soft flesh-toned theatrical silicone face mask like a film-studio prop: a smooth matte beige rubbery hollow face shape with empty eye holes, limp and slightly crumpled, no hair, clearly an artificial prop, no blood, nothing gory up into the light with both hands and studying it intently, his face lit from below, eyes narrowed; the canvas bag open beside him on the desk; the rest of the room in deep shadow, the locked door dark behind him",
+   "camera": "medium close-up, eye level, Shahid's face and the mask in the upper half, the lit desk top as the lower third",
+   "image": "images/beat_015.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": "other",
+   "safe_substitution": "the mask is a soft rubbery film prop in his hands, never skin or a face",
+   "ambience": "home_night",
+   "shots": [
+    {
+     "id": "shot_031",
+     "startMs": 287178,
+     "endMs": 300389,
+     "narration_dhivehi": "ގެއަށް އައިސް ކޮޓަރީގެ ދޮރު ތަޅުލުމަށްފަހު، ޝާހިދު އަވަސްއަވަހަށް ދަބަހުން އެ ސިލިކޯން މާސްކު ނެގި. މޭޒުމަތީގައި ހުރި ބޮކީގެ ގަދަ އަލީގެ ދަށަށް މާސްކު ގެންގޮސް، އޭނާ ވަރަށް ފަރުވާތެރިކަމާއެކު ދިރާސާކުރަން ފެށި.",
+     "narration_english": "After coming home and locking his room door, Shahid quickly took the silicone mask out of the bag. Bringing it under the strong light of the lamp on the desk, he began to study it very carefully.",
+     "crop": "full",
+     "motion": "pan right",
+     "sfx": [
+      {
+       "name": "lock_click",
+       "atMs": 289149,
+       "gainDb": -18,
+       "word": "ތަޅުލުމަށްފަހު،"
+      },
+      {
+       "name": "cloth_rustle",
+       "atMs": 291549,
+       "gainDb": -22,
+       "word": "ދަބަހުން"
+      }
+     ],
+     "hum": false,
+     "speaker": null,
+     "focus_pct": null,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Ali Shahid), create a new scene: Cinematic semi-realistic digital painting in the look of a gritty mystery-thriller book cover: soft painterly realism, desaturated palette of slate grey, ash white, weathered sepia and deep charcoal shadow with small touches of warm amber light, low-key dramatic side lighting, gentle haze, fine film grain, shallow depth of field, Maldivian characters with warm brown skin, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (sand, floor, desk top, water, soft shadow) for captions and a logo; set on a Maldivian island (crumbling mould-stained whitewashed coral-stone walls with arched wooden windows, sandy lanes, coconut palms silhouetted against brooding skies, an old abandoned lighthouse, old harbour warehouses, dense dark jungle of screw-pines and magoo shrubs); emotional suspense composition; stormy nights are near-black blue-grey with silver rain and white lightning, interiors at night are lit by a single warm bulb or a cold computer-screen glow, mornings are pale gold, and memories of the past are faded and sepia-toned.\nScene: Shahid sitting at his desk under the hard warm cone of the angled desk lamp, holding a soft flesh-toned theatrical silicone face mask like a film-studio prop: a smooth matte beige rubbery hollow face shape with empty eye holes, limp and slightly crumpled, no hair, clearly an artificial prop, no blood, nothing gory up into the light with both hands and studying it intently, his face lit from below, eyes narrowed; the canvas bag open beside him on the desk; the rest of the room in deep shadow, the locked door dark behind him. Location: Shahid's room at night in the old coral-stone island house: the wooden desk under a bright angled desk lamp throwing a hard warm cone of light, the big monitor dark, camera gear in shadow, the wooden window shutters closed, the room door shut and locked. Camera: medium close-up, eye level, Shahid's face and the mask in the upper half, the lit desk top as the lower third.\nCharacters: Ali Shahid: a slim Maldivian man of about 30 with warm brown skin, a lean intelligent face, alert dark-brown eyes, straight eyebrows, light black stubble and short slightly wavy black hair; wears a dark olive-green long-sleeved utility shirt open over a plain grey t-shirt, black trousers and dark sneakers.\nMood/lighting: evening, the room dark except for the single hard warm cone of the desk lamp, intimate, secretive, deep charcoal shadows.\nModest Maldivian clothing (every woman in a loose long-sleeved ankle-length dress with a hijab fully covering her hair and neck, also at home and at night; men in shirts with long trousers, never shirtless), married couples only side by side with no embracing or kissing, culturally respectful and Islamic in spirit, no ghosts, no monsters, no faces in clouds or shadows, no violence shown, no blood, no wounds, no gore, no dead bodies, no guns, no knives, no weapons, no handcuffs, no alcohol, no smoking, no religious symbols of other faiths, no text, no letters, no numbers, no writing, no readable screens, no badges with lettering, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.111,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 48.6,
+    "y_pct": 30.4,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_016",
+   "startMs": 300389,
+   "endMs": 320670,
+   "new_image_reason": "detail image / emotional turning point: the tiny maker's mark inside the edge of the mask",
+   "characters": [],
+   "location": "Shahid's room at night in the old coral-stone island house: the wooden desk under a bright angled desk lamp throwing a hard warm cone of light, the big monitor dark, camera gear in shadow, the wooden window shutters closed, the room door shut and locked",
+   "location_key": "shahid_room_night",
+   "mood": "evening, the room dark except for the single hard warm cone of the desk lamp, intimate, secretive, deep charcoal shadows",
+   "speaker": null,
+   "visual": "extreme close-up under the warm desk lamp: two fingertips folding back the thin edge of a soft matte beige silicone prop mask, revealing on its inner side a tiny engraved abstract emblem, a small precise geometric symbol of a circle crossed by three fine lines, crisply pressed into the material; nothing else on it; a small magnifying glass at the edge of the frame; behind the hands only the dark empty room in deep shadow, the closed wooden shutters and the dark monitor, absolutely no other people anywhere in the room, only one man's two hands in the frame; shallow depth of field",
+   "camera": "macro close-up, the emblem in the upper-middle, the lit desk top as the lower third",
+   "image": "images/beat_016.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": "other",
+   "safe_substitution": "the 'fine letters' of the mark become an abstract geometric emblem with no letters or numbers",
+   "ambience": "home_night",
+   "shots": [
+    {
+     "id": "shot_032",
+     "startMs": 300389,
+     "endMs": 307899,
+     "narration_dhivehi": "އެއީ އާދައިގެ މާސްކެއް ނޫން. އޭގެ އެތެރޭގެ ކައިރީގައި ވަރަށް ހިމަ އަކުރުތަކުން މަރުކާއެއް ޖަހައިފައިވޭ.",
+     "narration_english": "It was no ordinary mask. Near the edge on its inside, a mark had been stamped in very fine letters.",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": true,
+     "speaker": null,
+     "focus_pct": null,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_033",
+     "startMs": 307899,
+     "endMs": 320670,
+     "narration_dhivehi": "އެއީ ހަމައެކަނި ފިލްމުތަކުގައި ނުވަތަ ބޭރުގެ ސިއްރު ޖާސޫސީ އިދާރާތަކުން ހާއްސަ މިޝަންތަކަށް ބޭނުންކުރާ ފަދަ މަތީ ފެންވަރުގެ ތަކެތި ތައްޔާރުކުރާ މަރުކާއެއް. އިބްރާހީމް ނަސީމަށް މިފަދަ އެއްޗެއް ލިބުނީ ކިހިނެއް؟ ޝާހިދު އަމިއްލަ ނަފްސާ ސުވާލުކުރި.",
+     "narration_english": "It is a mark of the kind used only by those making high-grade items, like the ones used in films or by foreign secret spy agencies for special missions. How did Ibrahim Naseem get such a thing? Shahid asked himself.",
+     "crop": "tight",
+     "motion": "pan up",
+     "sfx": [],
+     "hum": true,
+     "speaker": null,
+     "focus_pct": null,
+     "crop_rect_pct": [
+      20.3,
+      4.8,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Cinematic semi-realistic digital painting in the look of a gritty mystery-thriller book cover: soft painterly realism, desaturated palette of slate grey, ash white, weathered sepia and deep charcoal shadow with small touches of warm amber light, low-key dramatic side lighting, gentle haze, fine film grain, shallow depth of field, Maldivian characters with warm brown skin, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (sand, floor, desk top, water, soft shadow) for captions and a logo; set on a Maldivian island (crumbling mould-stained whitewashed coral-stone walls with arched wooden windows, sandy lanes, coconut palms silhouetted against brooding skies, an old abandoned lighthouse, old harbour warehouses, dense dark jungle of screw-pines and magoo shrubs); emotional suspense composition; stormy nights are near-black blue-grey with silver rain and white lightning, interiors at night are lit by a single warm bulb or a cold computer-screen glow, mornings are pale gold, and memories of the past are faded and sepia-toned.\nScene: extreme close-up under the warm desk lamp: two fingertips folding back the thin edge of a soft matte beige silicone prop mask, revealing on its inner side a tiny engraved abstract emblem, a small precise geometric symbol of a circle crossed by three fine lines, crisply pressed into the material; nothing else on it; a small magnifying glass at the edge of the frame; behind the hands only the dark empty room in deep shadow, the closed wooden shutters and the dark monitor, absolutely no other people anywhere in the room, only one man's two hands in the frame; shallow depth of field. Location: Shahid's room at night in the old coral-stone island house: the wooden desk under a bright angled desk lamp throwing a hard warm cone of light, the big monitor dark, camera gear in shadow, the wooden window shutters closed, the room door shut and locked. Camera: macro close-up, the emblem in the upper-middle, the lit desk top as the lower third.\nMood/lighting: evening, the room dark except for the single hard warm cone of the desk lamp, intimate, secretive, deep charcoal shadows.\nModest Maldivian clothing (every woman in a loose long-sleeved ankle-length dress with a hijab fully covering her hair and neck, also at home and at night; men in shirts with long trousers, never shirtless), married couples only side by side with no embracing or kissing, culturally respectful and Islamic in spirit, no ghosts, no monsters, no faces in clouds or shadows, no violence shown, no blood, no wounds, no gore, no dead bodies, no guns, no knives, no weapons, no handcuffs, no alcohol, no smoking, no religious symbols of other faiths, no text, no letters, no numbers, no writing, no readable screens, no badges with lettering, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.23,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 50.0,
+    "y_pct": 40.0,
+    "face_detected": false
+   }
+  }
+ ]
+}
