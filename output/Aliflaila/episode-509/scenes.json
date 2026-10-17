@@ -1,0 +1,2713 @@
+{
+ "series": "Aliflaila",
+ "episode": 509,
+ "beats": [
+  {
+   "id": "beat_001",
+   "startMs": 0,
+   "endMs": 40081,
+   "new_image_reason": "episode opening: Night 5 in the frame chamber — Shahrazad asks leave to continue, the king is impatient",
+   "characters": [
+    "shahrazad",
+    "shahryar",
+    "dunyazad"
+   ],
+   "location": "King Shahryar's palace bedchamber at night: a large Persian carpet in deep red and blue, a low cushioned divan with silk bolsters, brass lanterns hanging on chains, an arched window with a carved lattice screen opening on a moonlit city of white onion domes and slender towers under a huge moon",
+   "location_key": "chamber_night",
+   "mood": "deep midnight-blue night with warm amber lantern light and a big silver moon through the lattice window, intimate and suspenseful",
+   "visual": "Shahrazad kneeling on a cushion on the carpet, bowing her head graciously with one hand on her heart and the other raised in a polite gesture, her large dark eyes lifted towards the king; King Shahryar sitting fully dressed on the divan an arm's length away, leaning forward eagerly with one empty hand waving her on impatiently, curious frown; little Dunyazad sitting on the carpet beside her sister hugging her knees, wide-eyed; the moonlit city of domes through the lattice window behind them",
+   "camera": "wide shot, eye level, the three figures in the upper two-thirds, the carpet as a calm lower third",
+   "image": "images/beat_001.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "palace_night",
+   "shots": [
+    {
+     "id": "shot_001",
+     "startMs": 0,
+     "endMs": 11420,
+     "narration_dhivehi": "ޝަހްރަޒާދު އޭނާގެ ރީތި، ކަޅުކަންގަދަ ދެލޮލުން ޝަހްރިޔާރު ރަސްގެފާނާ ދިމާއަށް ބަލައިލިއެވެ. އަދި ނުހަނު އަދަބުވެރިކަމާއެކު އިސްދަށަށް ޖަހައިލަމުން ހުއްދައަށް އެދުނެވެ.",
+     "narration_english": "Shahrazad looked towards King Shahryar with her beautiful, deep-dark eyes, and, lowering her head with great courtesy, asked for permission.",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [
+      {
+       "name": "cloth_rustle",
+       "atMs": 9260,
+       "gainDb": -24,
+       "word": "ޖަހައިލަމުން"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_002",
+     "startMs": 11420,
+     "endMs": 19400,
+     "narration_dhivehi": "\"އަޅުގަނޑު ވާހަކަ ކުރިއަށް ގެންދިއުމުގެ ހުއްދަ މާތްވެގެންވާ ބާރުގަދަ ރަސްގެފާނު، ދެއްވަންތޯއެވެ؟\" \"އަވަހަށް ކިޔައިދޭށެވެ!\"",
+     "narration_english": "\"Most noble and mighty king, will you grant me leave to continue the story?\" \"Tell it quickly!\"",
+     "crop": "tight",
+     "motion": "pan left",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      14.8,
+      9.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_003",
+     "startMs": 19400,
+     "endMs": 27140,
+     "narration_dhivehi": "ޝަހްރިޔާރު ރަސްގެފާނު އަވަސްއަވަހަށް ވިދާޅުވިއެވެ. \"އެ ތިންވަނަ މުސްކުޅިޔާގެ ސިއްރަކީ ކޮބައިކަން އެނގެން އަހަރެން ވަރަށް ބޭނުމެވެ.",
+     "narration_english": "King Shahryar said hastily. \"I very much want to know what the third old man's secret is,",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_004",
+     "startMs": 27140,
+     "endMs": 33680,
+     "narration_dhivehi": "އަދި އެ ޖިންނި އެ ވިޔަފާރިވެރިޔާ މަރައިލީތޯ ނޫންތޯ ބަލަން އަހަރެންގެ ހިތް މިވަނީ ކެތްމަދުވެފައެވެ.\"",
+     "narration_english": "and my heart is impatient to see whether that jinni killed the merchant or not.\"",
+     "crop": "medium",
+     "motion": "pan right",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      8.8,
+      1.8,
+      71.5,
+      84.7
+     ]
+    },
+    {
+     "id": "shot_005",
+     "startMs": 33680,
+     "endMs": 40081,
+     "narration_dhivehi": "ޝަހްރަޒާދު އޭނާގެ ފަށުވި، ރީތި އަޑުން ވާހަކަ ފެށިއެވެ. \"އޭ ބާރުގަދަ، ޙިކުމަތްތެރި ރަސްގެފާނެވެ!",
+     "narration_english": "Shahrazad began the tale in her soft, lovely voice. \"O mighty and wise king!",
+     "crop": "tight",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      14.8,
+      9.0,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Shahrazad; reference image 2 is King Shahryar; reference image 3 is Dunyazad), create a new scene: Classic hand-drawn 2D animated fairy-tale feature film look, like the golden-age American animated princess musicals of the late 1980s and 1990s: smooth clean ink outlines, soft cel shading with gentle gradient highlights, graceful elegant characters with large expressive almond-shaped eyes, long lashes, small noses, expressive arched eyebrows and warm brown skin, flowing silk fabrics that drape and sway, richly detailed painterly gouache-style backgrounds, magical glowing light with soft sparkles and glints, a warm jewel-tone palette of sapphire blue, gold, ruby red, emerald and turquoise; set in a medieval Arabian Nights kingdom of the old Persian and Arabian lands (white and sand-coloured palaces with onion domes and slender towers, arched windows with carved lattice screens, silk curtains, brass lanterns, Persian carpets, cushioned divans, fountains and courtyard gardens with date palms, busy bazaars, desert dunes, caravans, the sea with old wooden sailing ships), emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (carpet, marble floor, sand, water, soft shadow) for captions and a logo; daytime scenes glow with golden sunlight and turquoise skies, evenings are rose and amber, night scenes are deep midnight blue with a big moon and warm amber lantern light, and tales-within-the-tale or memories have a soft dreamy storybook glow.\nScene: Shahrazad kneeling on a cushion on the carpet, bowing her head graciously with one hand on her heart and the other raised in a polite gesture, her large dark eyes lifted towards the king; King Shahryar sitting fully dressed on the divan an arm's length away, leaning forward eagerly with one empty hand waving her on impatiently, curious frown; little Dunyazad sitting on the carpet beside her sister hugging her knees, wide-eyed; the moonlit city of domes through the lattice window behind them. Location: King Shahryar's palace bedchamber at night: a large Persian carpet in deep red and blue, a low cushioned divan with silk bolsters, brass lanterns hanging on chains, an arched window with a carved lattice screen opening on a moonlit city of white onion domes and slender towers under a huge moon. Camera: wide shot, eye level, the three figures in the upper two-thirds, the carpet as a calm lower third.\nCharacters: Shahrazad: a graceful young woman of about 20 with warm olive-brown skin, a soft oval face, very large expressive dark almond eyes with long lashes, elegant arched eyebrows and a calm clever smile; wears a flowing long-sleeved ankle-length gown of rich saffron-gold silk with deep ruby-red embroidered borders and a gold sash, and a soft ivory silk headscarf with a fine gold trim wrapped snugly and fully covering her hair and neck, a small teardrop ruby on a thin gold band over the scarf at her forehead. King Shahryar: a tall broad-shouldered king in his late 30s with warm olive-brown skin, a strong square jaw, a short neat black beard, thick dark eyebrows and stern brooding dark eyes; wears a large crimson-and-gold turban with a white plume and a ruby jewel, a long dark bronze-brown brocade coat with gold patterns over a cream tunic, a gold sash, loose trousers and pointed brown boots; no weapon. Dunyazad: a small slim girl of about 12 with warm olive-brown skin, a round youthful face, big bright curious dark eyes and a sweet eager smile; wears a loose long-sleeved ankle-length gown of soft lavender silk with silver embroidery and a pale rose-pink headscarf fully covering her hair and neck.\nMood/lighting: deep midnight-blue night with warm amber lantern light and a big silver moon through the lattice window, intimate and suspenseful.\nModest medieval Arabian Nights clothing (every woman and girl in a loose long-sleeved ankle-length gown with a headscarf or veil fully covering her hair and neck; men in long-sleeved tunics, robes and sashes with long trousers, turbans or caps, never shirtless), a clear respectful distance between men and women who are not married, culturally respectful and Islamic in spirit, no violence shown, no blood, no wounds, no injuries, no corpses, no person lying on the ground, no swords, no daggers, no weapons, no idols, no statues of gods, no religious symbols of other faiths, no alcohol, no wine, no smoking, no text, no letters, no numbers, no writing, no Arabic script, no logos, no watermark, classic hand-drawn 2D animated feature film style.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.2,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 44.5,
+    "y_pct": 44.2,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_002",
+   "startMs": 40081,
+   "endMs": 69382,
+   "new_image_reason": "story level change into the tale: the desert — the jinni, the merchant and the third old man stepping forward with his mule",
+   "characters": [
+    "merchant_jinni",
+    "old_man_mule",
+    "merchant",
+    "old_man_gazelle"
+   ],
+   "location": "a wide open sea of golden sand dunes beside a lone leafy tree and a small spring of clear water, distant blue mountains on the horizon, wind-rippled sand",
+   "location_key": "desert",
+   "mood": "bright golden afternoon sunlight, turquoise sky, long shadows on the dunes, wonder and suspense",
+   "visual": "the towering giant jinni rising from a column of charcoal smoke beside the lone tree, arms folded, empty-handed, glowering down with ember eyes; in front of him the thin old man in a maroon robe and blue cap steps forward boldly holding the halter of a plain grey mule, looking straight up at the jinni with a firm steady face; the merchant in a plain white travelling robe kneels on the sand a little behind with hopeful eyes; the white-bearded first old man with his staff stands further back beside a small gazelle on a golden cord",
+   "camera": "dramatic low angle wide shot, the jinni filling the upper frame, the figures in the middle, smooth sand as a calm lower third",
+   "image": "images/beat_002.png",
+   "reuse_of": null,
+   "transition_in": "dissolve",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "desert_day",
+   "shots": [
+    {
+     "id": "shot_006",
+     "startMs": 40081,
+     "endMs": 49391,
+     "narration_dhivehi": "ދެވަނަ މުސްކުޅިޔާ އޭނާގެ ވާހަކަ ކިޔައިދީ ނިމުމާއެކު، އެ ބިޔަ ޖިންނި ވިޔަފާރިވެރިޔާގެ ފުރާނައިގެ ތިންބައިކުޅަ ދެބައި މަޢާފުކޮށްދިނެވެ. ދެން،",
+     "narration_english": "When the second old man finished his story, the huge jinni pardoned two of the three thirds of the merchant's life. Then,",
+     "crop": "full",
+     "motion": "pan up",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_007",
+     "startMs": 49391,
+     "endMs": 60521,
+     "narration_dhivehi": "އޭނާގެ އަތުގައި ބަޣަލެއް ގޮވައިގެން ހުރި ތިންވަނަ މުސްކުޅިޔާ ކުރިއަށް ޖެހިލިއެވެ. އޭނާ އެ ބިރުވެރި ޖިންނިއާ ދިމާއަށް ބަލަހައްޓައިގެން ހުރެ، ވަރަށް ސާބިތުކަމާއެކު ވާހަކަދައްކަން ފެށިއެވެ.",
+     "narration_english": "the third old man, leading a mule by the hand, stepped forward. Looking straight at the fearsome jinni, he began to speak with great firmness.",
+     "crop": "tight",
+     "motion": "slow pull-out",
+     "sfx": [
+      {
+       "name": "footsteps_sand",
+       "atMs": 53601,
+       "gainDb": -22,
+       "word": "ޖެހިލިއެވެ."
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      20.3,
+      4.8,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_008",
+     "startMs": 60521,
+     "endMs": 69382,
+     "narration_dhivehi": "\"'އޭ ބާރުގަދަ ޖިންނިއެވެ! މިތާ އަހަރެންގެ ކައިރީގައި މި ހުރި ބަޣަލަކީ އާދައިގެ ޖަނަވާރެއް ނޫނެވެ. މިއީ ޙަޤީޤަތުގައި މަގޭ އަމިއްލަ އަނބިމީހާއެވެ.",
+     "narration_english": "'O mighty jinni! This mule standing here beside me is no ordinary animal. In truth it is my very own wife.",
+     "crop": "full",
+     "motion": "pan down",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is the Jinni; reference image 2 is the Third Old Man; reference image 3 is the Merchant; reference image 4 is the First Old Man), create a new scene: Classic hand-drawn 2D animated fairy-tale feature film look, like the golden-age American animated princess musicals of the late 1980s and 1990s: smooth clean ink outlines, soft cel shading with gentle gradient highlights, graceful elegant characters with large expressive almond-shaped eyes, long lashes, small noses, expressive arched eyebrows and warm brown skin, flowing silk fabrics that drape and sway, richly detailed painterly gouache-style backgrounds, magical glowing light with soft sparkles and glints, a warm jewel-tone palette of sapphire blue, gold, ruby red, emerald and turquoise; set in a medieval Arabian Nights kingdom of the old Persian and Arabian lands (white and sand-coloured palaces with onion domes and slender towers, arched windows with carved lattice screens, silk curtains, brass lanterns, Persian carpets, cushioned divans, fountains and courtyard gardens with date palms, busy bazaars, desert dunes, caravans, the sea with old wooden sailing ships), emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (carpet, marble floor, sand, water, soft shadow) for captions and a logo; daytime scenes glow with golden sunlight and turquoise skies, evenings are rose and amber, night scenes are deep midnight blue with a big moon and warm amber lantern light, and tales-within-the-tale or memories have a soft dreamy storybook glow.\nScene: the towering giant jinni rising from a column of charcoal smoke beside the lone tree, arms folded, empty-handed, glowering down with ember eyes; in front of him the thin old man in a maroon robe and blue cap steps forward boldly holding the halter of a plain grey mule, looking straight up at the jinni with a firm steady face; the merchant in a plain white travelling robe kneels on the sand a little behind with hopeful eyes; the white-bearded first old man with his staff stands further back beside a small gazelle on a golden cord. Location: a wide open sea of golden sand dunes beside a lone leafy tree and a small spring of clear water, distant blue mountains on the horizon, wind-rippled sand. Camera: dramatic low angle wide shot, the jinni filling the upper frame, the figures in the middle, smooth sand as a calm lower third.\nCharacters: the giant jinni: a towering fearsome jinni whose lower body is a swirling column of charcoal-grey smoke, with a massive upper body of dark ash-grey skin fully covered by a long-sleeved smoky dark-red robe, a dark-red turban, a thick black beard, pointed ears and glowing ember-orange eyes; his hands are empty, no weapon. the Third Old Man: a thin wiry old man of about 60 with warm olive-brown skin, a long narrow face, a grey pointed beard and sharp lively eyes; wears a small dark-blue cap wrapped with a grey cloth and a long maroon robe with a grey sash. the Merchant: a sturdy man of about 45 with warm olive-brown skin, a round honest face, a trimmed black beard with grey streaks and anxious dark eyes; wears a white turban, a long brown-and-cream striped robe over a white tunic, a wide red sash and a dusty travelling cloak. the First Old Man: a gentle old man of about 65 with warm olive-brown skin, a lined kind face, a long snow-white beard and bushy white eyebrows; wears a white turban, a long pale sage-green robe and leans on a wooden walking staff.\nMood/lighting: bright golden afternoon sunlight, turquoise sky, long shadows on the dunes, wonder and suspense.\nModest medieval Arabian Nights clothing (every woman and girl in a loose long-sleeved ankle-length gown with a headscarf or veil fully covering her hair and neck; men in long-sleeved tunics, robes and sashes with long trousers, turbans or caps, never shirtless), a clear respectful distance between men and women who are not married, culturally respectful and Islamic in spirit, no violence shown, no blood, no wounds, no injuries, no corpses, no person lying on the ground, no swords, no daggers, no weapons, no idols, no statues of gods, no religious symbols of other faiths, no alcohol, no wine, no smoking, no text, no letters, no numbers, no writing, no Arabic script, no logos, no watermark, classic hand-drawn 2D animated feature film style.",
+   "logo": {
+    "color": "black",
+    "bg_luminance": 0.565,
+    "halo": true
+   },
+   "focus": {
+    "x_pct": 50.0,
+    "y_pct": 40.0,
+    "face_detected": false
+   }
+  },
+  {
+   "id": "beat_003",
+   "startMs": 69382,
+   "endMs": 102312,
+   "new_image_reason": "story level change into the old man's own tale: the young trader and his outwardly lovely wife",
+   "characters": [
+    "old_man_mule_young",
+    "sorceress_wife"
+   ],
+   "location": "the comfortable courtyard home of a young trader in an old Arabian Nights town: whitewashed walls, a carved wooden door, potted lemon trees, a small tiled fountain, hanging brass lanterns, silk curtains in arched doorways",
+   "location_key": "trader_home",
+   "mood": "warm golden daylight with a soft golden storybook glow, gentle and loving but with a faint chill of hidden secrets",
+   "visual": "soft golden storybook glow; the young trader in his maroon robe and blue cap standing in his sunny courtyard smiling fondly at his beautiful wife, who stands a step away in her black-and-violet gown and dark-violet headscarf fully covering her hair and neck, smiling sweetly at him while her violet eyes glint with a cold secret; behind her, in the shade of an arched doorway, a faint wisp of violet smoke curls mysteriously",
+   "camera": "medium wide two-shot, eye level, the fountain and tiles forming a calm lower third",
+   "image": "images/beat_003.png",
+   "reuse_of": null,
+   "transition_in": "dissolve",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "stone_house_day",
+   "shots": [
+    {
+     "id": "shot_009",
+     "startMs": 69382,
+     "endMs": 77652,
+     "narration_dhivehi": "އަހަރެންނާއި މީނާ ކައިވެނިކުރީ މީގެ އެތައް އަހަރެއް ކުރިންނެވެ. މީނާއަކީ ބޭރުފުށުން ބަލާއިރު ނުހަނު ރީތި، ލޯބި އަންހެނެކެވެ.",
+     "narration_english": "She and I were married many years ago. From the outside she was an exceedingly beautiful, loving woman.",
+     "crop": "full",
+     "motion": "static drift",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_010",
+     "startMs": 77652,
+     "endMs": 88602,
+     "narration_dhivehi": "ނަމަވެސް މީނާގެ އެތެރެހަށީގައި ފޮރުވިފައިވަނީ އިންތިހާއަށް ނުބައި، އަނދިރި ސިއްރުތަކެކެވެ. މީނާއަކީ ސިހުރު ހާހޫރައިގެ އެންމެ ނުބައި ޢިލްމުތައް ދަސްކޮށްގެން ހުރި،",
+     "narration_english": "But hidden inside her were utterly wicked, dark secrets. That she had learned the worst arts of sorcery and witchcraft,",
+     "crop": "tight",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      36.1,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_011",
+     "startMs": 88602,
+     "endMs": 102312,
+     "narration_dhivehi": "ވަރަށް ނުލަފާ ސިހުރުވެރިއެއްކަން އަހަރެންނަކަށް ކުރިން އެނގިފައެއް ނެތެވެ. \"'އަހަރެމެންގެ ކައިވެންޏަށް އެއް އަހަރު ފުރުނުތަނާ، އަހަރެންނަށް ވިޔަފާރީގެ ބޭނުމަކަށްޓަކައި ވަރަށް ދުރު ޤައުމަކަށް ދިގު ދަތުރެއް ކުރަން ޖެހުނެވެ.",
+     "narration_english": "that she was a most evil sorceress, I had no idea. One year after our wedding, I had to make a long journey to a very distant country for trade.",
+     "crop": "full",
+     "motion": "pan left",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is the Third Old Man; reference image 2 is the Third Old Man's wife), create a new scene: Classic hand-drawn 2D animated fairy-tale feature film look, like the golden-age American animated princess musicals of the late 1980s and 1990s: smooth clean ink outlines, soft cel shading with gentle gradient highlights, graceful elegant characters with large expressive almond-shaped eyes, long lashes, small noses, expressive arched eyebrows and warm brown skin, flowing silk fabrics that drape and sway, richly detailed painterly gouache-style backgrounds, magical glowing light with soft sparkles and glints, a warm jewel-tone palette of sapphire blue, gold, ruby red, emerald and turquoise; set in a medieval Arabian Nights kingdom of the old Persian and Arabian lands (white and sand-coloured palaces with onion domes and slender towers, arched windows with carved lattice screens, silk curtains, brass lanterns, Persian carpets, cushioned divans, fountains and courtyard gardens with date palms, busy bazaars, desert dunes, caravans, the sea with old wooden sailing ships), emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (carpet, marble floor, sand, water, soft shadow) for captions and a logo; daytime scenes glow with golden sunlight and turquoise skies, evenings are rose and amber, night scenes are deep midnight blue with a big moon and warm amber lantern light, and tales-within-the-tale or memories have a soft dreamy storybook glow.\nScene: soft golden storybook glow; the young trader in his maroon robe and blue cap standing in his sunny courtyard smiling fondly at his beautiful wife, who stands a step away in her black-and-violet gown and dark-violet headscarf fully covering her hair and neck, smiling sweetly at him while her violet eyes glint with a cold secret; behind her, in the shade of an arched doorway, a faint wisp of violet smoke curls mysteriously. Location: the comfortable courtyard home of a young trader in an old Arabian Nights town: whitewashed walls, a carved wooden door, potted lemon trees, a small tiled fountain, hanging brass lanterns, silk curtains in arched doorways. Camera: medium wide two-shot, eye level, the fountain and tiles forming a calm lower third.\nCharacters: the young trader (the Third Old Man in his youth): a slim young man of about 32 with warm olive-brown skin, a long narrow face, a short pointed black beard and lively dark eyes; wears a small dark-blue cap wrapped with a grey cloth and a long maroon robe with a grey sash. the sorceress wife: a beautiful woman of about 30 with warm olive-brown skin, a sharp elegant face, cold glittering violet-dark eyes with heavy lashes and a cruel thin smile; wears a long-sleeved ankle-length gown of black silk with deep violet embroidery and a dark-violet headscarf fully covering her hair and neck.\nMood/lighting: warm golden daylight with a soft golden storybook glow, gentle and loving but with a faint chill of hidden secrets.\nModest medieval Arabian Nights clothing (every woman and girl in a loose long-sleeved ankle-length gown with a headscarf or veil fully covering her hair and neck; men in long-sleeved tunics, robes and sashes with long trousers, turbans or caps, never shirtless), a clear respectful distance between men and women who are not married, culturally respectful and Islamic in spirit, no violence shown, no blood, no wounds, no injuries, no corpses, no person lying on the ground, no swords, no daggers, no weapons, no idols, no statues of gods, no religious symbols of other faiths, no alcohol, no wine, no smoking, no text, no letters, no numbers, no writing, no Arabic script, no logos, no watermark, classic hand-drawn 2D animated feature film style.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.394,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 65.8,
+    "y_pct": 23.0,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_004",
+   "startMs": 102312,
+   "endMs": 124583,
+   "new_image_reason": "scene change: the year-long trading voyage at sea",
+   "characters": [
+    "old_man_mule_young"
+   ],
+   "location": "the wooden deck of a large old cargo sailing ship with billowing cream sails, coiled ropes and bales of trade goods, open turquoise sea and a far coastline of foreign domes and palm trees",
+   "location_key": "ship",
+   "mood": "golden late-afternoon sun over the sea with a soft golden storybook glow, wistful longing",
+   "visual": "soft golden storybook glow; the young trader standing at the rail of a big sailing ship, the cream sails billowing above him, gazing back over the sea with a wistful longing look, one hand resting on the rail, foreign domes and palm trees on a far coast",
+   "camera": "medium wide shot, slightly low angle, sails in the upper frame, calm sea as the lower third",
+   "image": "images/beat_004.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "ship_deck",
+   "shots": [
+    {
+     "id": "shot_012",
+     "startMs": 102312,
+     "endMs": 110573,
+     "narration_dhivehi": "އަހަރެން ދަތުރަށް ފުރުމުގެ ކުރިން، މަގޭ އަނބިމީހާއަށް ގޭގެ ހުރިހާ ކަމެއް ޙަވާލުކޮށް، ވަރަށް ލޯބިން ވަދާޢީ ސަލާމް ކުރީމެވެ.",
+     "narration_english": "Before setting out, I put my wife in charge of everything in the house and bade her a loving farewell.",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_013",
+     "startMs": 110573,
+     "endMs": 116893,
+     "narration_dhivehi": "އެއަށްފަހު ބޮޑު ނަވެއްގައި އަހަރެން ފުރައިގެން ހިނގައްޖީމެވެ. އަހަރެންގެ ދަތުރުގައި އެއް އަހަރު ދުވަސް ހޭދަވިއެވެ.",
+     "narration_english": "Then I sailed away on a big ship. A whole year passed on my journey.",
+     "crop": "tight",
+     "motion": "pan right",
+     "sfx": [
+      {
+       "name": "wave_crash",
+       "atMs": 111283,
+       "gainDb": -24,
+       "word": "ނަވެއްގައި"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      20.3,
+      4.8,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_014",
+     "startMs": 116893,
+     "endMs": 124583,
+     "narration_dhivehi": "ބީރައްޓެހި ޤައުމުތަކުގައި އުޅުނުއިރުވެސް، އަހަރެންގެ ހިތުގައި އަބަދުވެސް ވަނީ މަގޭ އަނބިމީހާގެ މަތިން ހަނދާންވުމެވެ.",
+     "narration_english": "Even while I was in foreign lands, my heart was always full of memories of my wife.",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is the Third Old Man), create a new scene: Classic hand-drawn 2D animated fairy-tale feature film look, like the golden-age American animated princess musicals of the late 1980s and 1990s: smooth clean ink outlines, soft cel shading with gentle gradient highlights, graceful elegant characters with large expressive almond-shaped eyes, long lashes, small noses, expressive arched eyebrows and warm brown skin, flowing silk fabrics that drape and sway, richly detailed painterly gouache-style backgrounds, magical glowing light with soft sparkles and glints, a warm jewel-tone palette of sapphire blue, gold, ruby red, emerald and turquoise; set in a medieval Arabian Nights kingdom of the old Persian and Arabian lands (white and sand-coloured palaces with onion domes and slender towers, arched windows with carved lattice screens, silk curtains, brass lanterns, Persian carpets, cushioned divans, fountains and courtyard gardens with date palms, busy bazaars, desert dunes, caravans, the sea with old wooden sailing ships), emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (carpet, marble floor, sand, water, soft shadow) for captions and a logo; daytime scenes glow with golden sunlight and turquoise skies, evenings are rose and amber, night scenes are deep midnight blue with a big moon and warm amber lantern light, and tales-within-the-tale or memories have a soft dreamy storybook glow.\nScene: soft golden storybook glow; the young trader standing at the rail of a big sailing ship, the cream sails billowing above him, gazing back over the sea with a wistful longing look, one hand resting on the rail, foreign domes and palm trees on a far coast. Location: the wooden deck of a large old cargo sailing ship with billowing cream sails, coiled ropes and bales of trade goods, open turquoise sea and a far coastline of foreign domes and palm trees. Camera: medium wide shot, slightly low angle, sails in the upper frame, calm sea as the lower third.\nCharacters: the young trader (the Third Old Man in his youth): a slim young man of about 32 with warm olive-brown skin, a long narrow face, a short pointed black beard and lively dark eyes; wears a small dark-blue cap wrapped with a grey cloth and a long maroon robe with a grey sash.\nMood/lighting: golden late-afternoon sun over the sea with a soft golden storybook glow, wistful longing.\nModest medieval Arabian Nights clothing (every woman and girl in a loose long-sleeved ankle-length gown with a headscarf or veil fully covering her hair and neck; men in long-sleeved tunics, robes and sashes with long trousers, turbans or caps, never shirtless), a clear respectful distance between men and women who are not married, culturally respectful and Islamic in spirit, no violence shown, no blood, no wounds, no injuries, no corpses, no person lying on the ground, no swords, no daggers, no weapons, no idols, no statues of gods, no religious symbols of other faiths, no alcohol, no wine, no smoking, no text, no letters, no numbers, no writing, no Arabic script, no logos, no watermark, classic hand-drawn 2D animated feature film style.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.234,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 50.0,
+    "y_pct": 40.0,
+    "face_detected": false
+   }
+  },
+  {
+   "id": "beat_005",
+   "startMs": 124583,
+   "endMs": 149214,
+   "new_image_reason": "time jump: a year later he returns secretly at midnight and slips in through the back door",
+   "characters": [
+    "old_man_mule_young"
+   ],
+   "location": "the narrow back lane behind a whitewashed town house late at night, a small low wooden back door in the wall, a vine climbing the wall, a huge moon over flat rooftops and domes",
+   "location_key": "back_door_night",
+   "mood": "midnight, deep blue moonlight and long shadows with a soft storybook glow, hushed and secretive",
+   "visual": "soft storybook glow; the young trader in his maroon robe and blue cap, a small travel bundle on his shoulder, quietly pushing open the small low back door of his house with a hopeful secretive smile, glancing over his shoulder, moonlight on the wall",
+   "camera": "medium shot, eye level, from the side, the moonlit cobbles as a calm lower third",
+   "image": "images/beat_005.png",
+   "reuse_of": null,
+   "transition_in": "black",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "city_lanes_night",
+   "shots": [
+    {
+     "id": "shot_015",
+     "startMs": 124583,
+     "endMs": 130083,
+     "narration_dhivehi": "\"'ދަތުރު ނިންމާފައި، އަހަރެން އެނބުރި ރަށަށް އައިސް ފޭބީ މެންދަމުގެ ވަގުތެއްގައެވެ.",
+     "narration_english": "When the journey was over, I came back to my island and landed at midnight.",
+     "crop": "full",
+     "motion": "pan up",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_016",
+     "startMs": 130083,
+     "endMs": 141714,
+     "narration_dhivehi": "މަގޭ އަނބިމީހާއަށް ސަޕްރައިޒެއް ދިނުމުގެ ބޭނުމުގައި، އަހަރެން އެއްވެސް މީހަކަށް ނާންގައި، ސިއްރުސިއްރުން ގޮސް އަހަރެންގެ ގޭގެ ފުރަގަހުގައި ހުރި ކުޑަ ދޮރުން ގޭތެރެއަށް ވަނީމެވެ.",
+     "narration_english": "Wanting to surprise my wife, I told no one, and crept secretly into my house through the small door at the back.",
+     "crop": "tight",
+     "motion": "slow pull-out",
+     "sfx": [
+      {
+       "name": "door_open",
+       "atMs": 140104,
+       "gainDb": -20,
+       "word": "ދޮރުން"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      20.3,
+      4.8,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_017",
+     "startMs": 141714,
+     "endMs": 149214,
+     "narration_dhivehi": "މުޅި ގޭތެރެ އޮތީ އަނދިރިކޮށެވެ. އަހަރެން މަޑުމަޑުން ފިޔަވަޅު ނަގަމުން ގޮސް އަހަރެމެންގެ ނިދާ ކޮޓަރިއާ ހަމައަށް ދިޔައިރު،",
+     "narration_english": "The whole house was dark. Stepping slowly, I made my way up to our bedroom,",
+     "crop": "full",
+     "motion": "pan down",
+     "sfx": [
+      {
+       "name": "footsteps_pavement",
+       "atMs": 145044,
+       "gainDb": -24,
+       "word": "ފިޔަވަޅު"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is the Third Old Man), create a new scene: Classic hand-drawn 2D animated fairy-tale feature film look, like the golden-age American animated princess musicals of the late 1980s and 1990s: smooth clean ink outlines, soft cel shading with gentle gradient highlights, graceful elegant characters with large expressive almond-shaped eyes, long lashes, small noses, expressive arched eyebrows and warm brown skin, flowing silk fabrics that drape and sway, richly detailed painterly gouache-style backgrounds, magical glowing light with soft sparkles and glints, a warm jewel-tone palette of sapphire blue, gold, ruby red, emerald and turquoise; set in a medieval Arabian Nights kingdom of the old Persian and Arabian lands (white and sand-coloured palaces with onion domes and slender towers, arched windows with carved lattice screens, silk curtains, brass lanterns, Persian carpets, cushioned divans, fountains and courtyard gardens with date palms, busy bazaars, desert dunes, caravans, the sea with old wooden sailing ships), emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (carpet, marble floor, sand, water, soft shadow) for captions and a logo; daytime scenes glow with golden sunlight and turquoise skies, evenings are rose and amber, night scenes are deep midnight blue with a big moon and warm amber lantern light, and tales-within-the-tale or memories have a soft dreamy storybook glow.\nScene: soft storybook glow; the young trader in his maroon robe and blue cap, a small travel bundle on his shoulder, quietly pushing open the small low back door of his house with a hopeful secretive smile, glancing over his shoulder, moonlight on the wall. Location: the narrow back lane behind a whitewashed town house late at night, a small low wooden back door in the wall, a vine climbing the wall, a huge moon over flat rooftops and domes. Camera: medium shot, eye level, from the side, the moonlit cobbles as a calm lower third.\nCharacters: the young trader (the Third Old Man in his youth): a slim young man of about 32 with warm olive-brown skin, a long narrow face, a short pointed black beard and lively dark eyes; wears a small dark-blue cap wrapped with a grey cloth and a long maroon robe with a grey sash.\nMood/lighting: midnight, deep blue moonlight and long shadows with a soft storybook glow, hushed and secretive.\nModest medieval Arabian Nights clothing (every woman and girl in a loose long-sleeved ankle-length gown with a headscarf or veil fully covering her hair and neck; men in long-sleeved tunics, robes and sashes with long trousers, turbans or caps, never shirtless), a clear respectful distance between men and women who are not married, culturally respectful and Islamic in spirit, no violence shown, no blood, no wounds, no injuries, no corpses, no person lying on the ground, no swords, no daggers, no weapons, no idols, no statues of gods, no religious symbols of other faiths, no alcohol, no wine, no smoking, no text, no letters, no numbers, no writing, no Arabic script, no logos, no watermark, classic hand-drawn 2D animated feature film style.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.195,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 50.0,
+    "y_pct": 40.0,
+    "face_detected": false
+   }
+  },
+  {
+   "id": "beat_006",
+   "startMs": 149214,
+   "endMs": 183525,
+   "new_image_reason": "emotional turning point: at the half-open bedroom door he sees the betrayal (shown only on his face)",
+   "characters": [
+    "old_man_mule_young"
+   ],
+   "location": "the dark inside of a whitewashed town house at midnight, a narrow hallway with a tiled floor and arched doorways, a wooden bedroom door standing slightly ajar with a thin wedge of dim amber lamplight spilling out",
+   "location_key": "house_night",
+   "mood": "midnight, almost dark, deep blue shadows and one thin wedge of dim amber lamplight, dread and shock",
+   "visual": "the young trader standing frozen in the dark hallway beside a door that is slightly ajar, a thin wedge of dim amber light falling across his face; his eyes wide with shock and heartbreak, mouth open, one hand gripping the door frame and the other pressed to his chest; nothing of the room beyond the door is visible, only the warm light",
+   "camera": "close-up on his face and hand at the door frame, the dark tiled floor as a calm lower third",
+   "image": "images/beat_006.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": "intimacy",
+   "safe_substitution": "the adultery is never shown: no lover, no couple, no bed — only the husband's shocked face in the wedge of light at the door",
+   "ambience": "stone_house_night",
+   "shots": [
+    {
+     "id": "shot_018",
+     "startMs": 149214,
+     "endMs": 157344,
+     "narration_dhivehi": "ކޮޓަރީގެ ދޮރު ހުރީ ކުޑަކޮށް ހުޅުވިފައެވެ. އެތެރެއިން ފަނޑު އަލިކަމެއް ފެންނަން ހުއްޓެވެ. \"'އަހަރެން ކޮޓަރީގެ އެތެރެއަށް ބަލައިލި ވަގުތު،",
+     "narration_english": "and its door stood slightly open. A dim light was showing from inside. The moment I looked into the room,",
+     "crop": "full",
+     "motion": "static drift",
+     "sfx": [
+      {
+       "name": "creak",
+       "atMs": 150904,
+       "gainDb": -22,
+       "word": "ހުޅުވިފައެވެ."
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_019",
+     "startMs": 157344,
+     "endMs": 166604,
+     "narration_dhivehi": "މަގޭ ދެލޮލަށް ފެނުނު މަންޒަރުން މަގޭ ހިތް ހުއްޓުނު ކަހަލައެވެ. މަގޭ އެންމެ ލޯބިވާ އަނބިމީހާ އޮތީ އެހެން ފިރިހެނަކާއެކު އަހަރެންގެ އަމިއްލަ އެނދުގައެވެ!",
+     "narration_english": "the sight before my eyes almost stopped my heart. My most beloved wife was with another man in my own bed!",
+     "crop": "tight",
+     "motion": "slow push-in",
+     "sfx": [
+      {
+       "name": "heartbeat",
+       "atMs": 160104,
+       "gainDb": -18,
+       "word": "ހުއްޓުނު"
+      }
+     ],
+     "hum": true,
+     "crop_rect_pct": [
+      26.1,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_020",
+     "startMs": 166604,
+     "endMs": 173605,
+     "narration_dhivehi": "އެ ފިރިހެންމީހާއަކީ ބޮޑު، ކަޅު، ބިރުވެރި ސިފައަކަށް ހުރި މީހެކެވެ. އެމީހުން ތިބީ އުފާކުރުމުގައެވެ.",
+     "narration_english": "That man was big, dark and frightening to look at. The two of them were taking their pleasure.",
+     "crop": "full",
+     "motion": "pan left",
+     "sfx": [],
+     "hum": true,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_021",
+     "startMs": 173605,
+     "endMs": 183525,
+     "narration_dhivehi": "މި މަންޒަރު ފެނުމުން އަހަރެންގެ ބޮލަށް އުޑު ވެއްޓުނު ފަދައެވެ. ރުޅިވެރިކަމާއި ހިތާމައިގެ ސަބަބުން މަގޭ މުޅި ހަށިގަނޑު ތުރުތުރުއަޅަން ފެށިއެވެ. އަހަރެންނަށް ކެތްނުކުރެވިގެން،",
+     "narration_english": "At that sight it was as if the sky had fallen on my head. Rage and grief set my whole body trembling. Unable to bear it,",
+     "crop": "medium",
+     "motion": "slow pull-out",
+     "sfx": [
+      {
+       "name": "breath_heavy",
+       "atMs": 180045,
+       "gainDb": -20,
+       "word": "ތުރުތުރުއަޅަން"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      20.1,
+      0.0,
+      71.5,
+      84.7
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is the Third Old Man), create a new scene: Classic hand-drawn 2D animated fairy-tale feature film look, like the golden-age American animated princess musicals of the late 1980s and 1990s: smooth clean ink outlines, soft cel shading with gentle gradient highlights, graceful elegant characters with large expressive almond-shaped eyes, long lashes, small noses, expressive arched eyebrows and warm brown skin, flowing silk fabrics that drape and sway, richly detailed painterly gouache-style backgrounds, magical glowing light with soft sparkles and glints, a warm jewel-tone palette of sapphire blue, gold, ruby red, emerald and turquoise; set in a medieval Arabian Nights kingdom of the old Persian and Arabian lands (white and sand-coloured palaces with onion domes and slender towers, arched windows with carved lattice screens, silk curtains, brass lanterns, Persian carpets, cushioned divans, fountains and courtyard gardens with date palms, busy bazaars, desert dunes, caravans, the sea with old wooden sailing ships), emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (carpet, marble floor, sand, water, soft shadow) for captions and a logo; daytime scenes glow with golden sunlight and turquoise skies, evenings are rose and amber, night scenes are deep midnight blue with a big moon and warm amber lantern light, and tales-within-the-tale or memories have a soft dreamy storybook glow.\nScene: the young trader standing frozen in the dark hallway beside a door that is slightly ajar, a thin wedge of dim amber light falling across his face; his eyes wide with shock and heartbreak, mouth open, one hand gripping the door frame and the other pressed to his chest; nothing of the room beyond the door is visible, only the warm light. Location: the dark inside of a whitewashed town house at midnight, a narrow hallway with a tiled floor and arched doorways, a wooden bedroom door standing slightly ajar with a thin wedge of dim amber lamplight spilling out. Camera: close-up on his face and hand at the door frame, the dark tiled floor as a calm lower third.\nCharacters: the young trader (the Third Old Man in his youth): a slim young man of about 32 with warm olive-brown skin, a long narrow face, a short pointed black beard and lively dark eyes; wears a small dark-blue cap wrapped with a grey cloth and a long maroon robe with a grey sash.\nMood/lighting: midnight, almost dark, deep blue shadows and one thin wedge of dim amber lamplight, dread and shock.\nModest medieval Arabian Nights clothing (every woman and girl in a loose long-sleeved ankle-length gown with a headscarf or veil fully covering her hair and neck; men in long-sleeved tunics, robes and sashes with long trousers, turbans or caps, never shirtless), a clear respectful distance between men and women who are not married, culturally respectful and Islamic in spirit, no violence shown, no blood, no wounds, no injuries, no corpses, no person lying on the ground, no swords, no daggers, no weapons, no idols, no statues of gods, no religious symbols of other faiths, no alcohol, no wine, no smoking, no text, no letters, no numbers, no writing, no Arabic script, no logos, no watermark, classic hand-drawn 2D animated feature film style.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.133,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 55.9,
+    "y_pct": 30.4,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_007",
+   "startMs": 183525,
+   "endMs": 212956,
+   "new_image_reason": "action change: he bursts in; the room is empty but for his furious wife, the window curtain still flying",
+   "characters": [
+    "sorceress_wife",
+    "old_man_mule_young"
+   ],
+   "location": "a dim richly furnished room of a town house at midnight lit by one small brass oil lamp: violet silk curtains, a Persian rug, a tall clay water jar in the corner, an arched window with its curtain blowing outward into the night",
+   "location_key": "room_night",
+   "mood": "midnight, a single small amber oil-lamp glow against deep violet shadows, tense and eerie",
+   "visual": "the sorceress wife standing fully dressed in her black-and-violet gown and dark-violet headscarf in the middle of the dim room, her eyes blazing with violet fire, glaring defiantly towards the doorway; the young trader seen from behind in the foreground at the open door, shoulders tense; behind her the arched window stands open and empty, its curtain whipping outward into the night; no other person anywhere",
+   "camera": "medium wide shot over the husband's shoulder, eye level, the rug as a calm lower third",
+   "image": "images/beat_007.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": "intimacy",
+   "safe_substitution": "the lover who escaped is never drawn — only an empty open window with a blowing curtain; no bed is visible",
+   "ambience": "stone_house_night",
+   "shots": [
+    {
+     "id": "shot_022",
+     "startMs": 183525,
+     "endMs": 191555,
+     "narration_dhivehi": "ކޮޓަރީގެ ދޮރު ބާރަށް ހުޅުވައިލާފައި އެތެރެއަށް ވަނީމެވެ. \"'އަހަރެން ފެނުމާއެކު، އެ ފިރިހެންމީހާ ކުއްލިއަކަށް ކޮޅަށް ތެދުވެ،",
+     "narration_english": "I flung the bedroom door open and went in. The moment he saw me, that man sprang to his feet,",
+     "crop": "full",
+     "motion": "pan right",
+     "sfx": [
+      {
+       "name": "door_open",
+       "atMs": 185225,
+       "gainDb": -16,
+       "word": "ހުޅުވައިލާފައި"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_023",
+     "startMs": 191555,
+     "endMs": 202665,
+     "narration_dhivehi": "ކުޑަދޮރުން ބޭރަށް ފުންމައިލައިގެން ފިލައިފިއެވެ. ނަމަވެސް މަގޭ އަނބިމީހާ އެއްވެސް ބިރުގަތުމެއް ނެތި، އަހަރެންނާ ދިމާއަށް ބަލަހައްޓައިގެން ހުރީ އިންތިހާއަށް ރުޅިއައިސްފައެވެ.",
+     "narration_english": "leapt out through the window and fled. But my wife, without the least fear, stood glaring at me in utter fury.",
+     "crop": "tight",
+     "motion": "slow push-in",
+     "sfx": [
+      {
+       "name": "wind_gust",
+       "atMs": 191865,
+       "gainDb": -22,
+       "word": "ކުޑަދޮރުން"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      32.0,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_024",
+     "startMs": 202665,
+     "endMs": 212956,
+     "narration_dhivehi": "އޭނާގެ ދެލޮލުން އަލިފާން ނުކުންނަ ފަދައެވެ. އަހަރެންނަށް އެއްޗެކޭ ބުނުމުގެ ފުރުޞަތުވެސް ނުދީ، އޭނާ ކޮޓަރީގެ އެއްކަނެއްގައި ހުރި ފެން އެއްޗަކުން މުށެއްފުރައި ފެން ނެގިއެވެ.",
+     "narration_english": "Her eyes seemed to blaze with fire. Without giving me a chance to say a word, she scooped a handful of water from a jar in the corner of the room,",
+     "crop": "full",
+     "motion": "pan up",
+     "sfx": [
+      {
+       "name": "pour",
+       "atMs": 212386,
+       "gainDb": -20,
+       "word": "ނެގިއެވެ."
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is the Third Old Man's wife; reference image 2 is the Third Old Man), create a new scene: Classic hand-drawn 2D animated fairy-tale feature film look, like the golden-age American animated princess musicals of the late 1980s and 1990s: smooth clean ink outlines, soft cel shading with gentle gradient highlights, graceful elegant characters with large expressive almond-shaped eyes, long lashes, small noses, expressive arched eyebrows and warm brown skin, flowing silk fabrics that drape and sway, richly detailed painterly gouache-style backgrounds, magical glowing light with soft sparkles and glints, a warm jewel-tone palette of sapphire blue, gold, ruby red, emerald and turquoise; set in a medieval Arabian Nights kingdom of the old Persian and Arabian lands (white and sand-coloured palaces with onion domes and slender towers, arched windows with carved lattice screens, silk curtains, brass lanterns, Persian carpets, cushioned divans, fountains and courtyard gardens with date palms, busy bazaars, desert dunes, caravans, the sea with old wooden sailing ships), emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (carpet, marble floor, sand, water, soft shadow) for captions and a logo; daytime scenes glow with golden sunlight and turquoise skies, evenings are rose and amber, night scenes are deep midnight blue with a big moon and warm amber lantern light, and tales-within-the-tale or memories have a soft dreamy storybook glow.\nScene: the sorceress wife standing fully dressed in her black-and-violet gown and dark-violet headscarf in the middle of the dim room, her eyes blazing with violet fire, glaring defiantly towards the doorway; the young trader seen from behind in the foreground at the open door, shoulders tense; behind her the arched window stands open and empty, its curtain whipping outward into the night; no other person anywhere. Location: a dim richly furnished room of a town house at midnight lit by one small brass oil lamp: violet silk curtains, a Persian rug, a tall clay water jar in the corner, an arched window with its curtain blowing outward into the night. Camera: medium wide shot over the husband's shoulder, eye level, the rug as a calm lower third.\nCharacters: the sorceress wife: a beautiful woman of about 30 with warm olive-brown skin, a sharp elegant face, cold glittering violet-dark eyes with heavy lashes and a cruel thin smile; wears a long-sleeved ankle-length gown of black silk with deep violet embroidery and a dark-violet headscarf fully covering her hair and neck. the young trader (the Third Old Man in his youth): a slim young man of about 32 with warm olive-brown skin, a long narrow face, a short pointed black beard and lively dark eyes; wears a small dark-blue cap wrapped with a grey cloth and a long maroon robe with a grey sash.\nMood/lighting: midnight, a single small amber oil-lamp glow against deep violet shadows, tense and eerie.\nModest medieval Arabian Nights clothing (every woman and girl in a loose long-sleeved ankle-length gown with a headscarf or veil fully covering her hair and neck; men in long-sleeved tunics, robes and sashes with long trousers, turbans or caps, never shirtless), a clear respectful distance between men and women who are not married, culturally respectful and Islamic in spirit, no violence shown, no blood, no wounds, no injuries, no corpses, no person lying on the ground, no swords, no daggers, no weapons, no idols, no statues of gods, no religious symbols of other faiths, no alcohol, no wine, no smoking, no text, no letters, no numbers, no writing, no Arabic script, no logos, no watermark, classic hand-drawn 2D animated feature film style.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.078,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 61.7,
+    "y_pct": 24.0,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_008",
+   "startMs": 212956,
+   "endMs": 232076,
+   "new_image_reason": "action change: she casts the spell with the water",
+   "characters": [
+    "sorceress_wife"
+   ],
+   "location": "a dim richly furnished room of a town house at midnight lit by one small brass oil lamp: violet silk curtains, a Persian rug, a tall clay water jar in the corner, an arched window with its curtain blowing outward into the night",
+   "location_key": "room_night",
+   "mood": "midnight, a single small amber oil-lamp glow against deep violet shadows, tense and eerie",
+   "visual": "the sorceress wife beside the tall clay water jar, flinging a handful of water from her cupped hand towards the viewer, the water bursting into a glittering arc of violet sparkles and swirling smoke, her face fierce and commanding, her other hand pointing; magical violet glow lighting the dim room",
+   "camera": "medium shot, slightly low angle, the sparkling arc crossing the frame, the rug as a calm lower third",
+   "image": "images/beat_008.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": "other",
+   "safe_substitution": "sorcery as fairy-tale violet sparkles and smoke, no occult symbols",
+   "ambience": "stone_house_night",
+   "shots": [
+    {
+     "id": "shot_025",
+     "startMs": 212956,
+     "endMs": 224486,
+     "narration_dhivehi": "އަދި ނޭނގޭ، ބިރުވެރި ބަސްތަކަކުން ސިހުރު ކިޔެވުމަށްފަހު، އެފެންތައް މަގޭ ގަޔަށް ޖެހިއެވެ. \"'އެއާއެކު އޭނާ ބާރަށް ހަޅޭއްލަވައިގަތެވެ: 'ކަލޭ ތިޔަ އިންސާނެއްގެ ސިފައިން ނުކުމެ،",
+     "narration_english": "and after chanting a spell in strange, terrifying words she threw the water on me. And she screamed: 'Leave your human form,",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [
+      {
+       "name": "magic_shimmer",
+       "atMs": 216086,
+       "gainDb": -18,
+       "word": "ކިޔެވުމަށްފަހު،"
+      },
+      {
+       "name": "water_splash_small",
+       "atMs": 218546,
+       "gainDb": -18,
+       "word": "ޖެހިއެވެ."
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_026",
+     "startMs": 224486,
+     "endMs": 232076,
+     "narration_dhivehi": "ވަގުތުން ކުއްތާއެއްގެ ސިފައަށް ބަދަލުވާށެވެ!' \"'އޭ ބާރުގަދަ ޖިންނިއެވެ! އެ ފެންތިކިތައް މަގޭ ގައިގައި ޖެހުމާއެކު،",
+     "narration_english": "and become a dog at once!' O mighty jinni! As soon as those drops touched my body,",
+     "crop": "tight",
+     "motion": "pan down",
+     "sfx": [
+      {
+       "name": "magic_shimmer",
+       "atMs": 231066,
+       "gainDb": -18,
+       "word": "ޖެހުމާއެކު،"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      14.3,
+      0.0,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is the Third Old Man's wife), create a new scene: Classic hand-drawn 2D animated fairy-tale feature film look, like the golden-age American animated princess musicals of the late 1980s and 1990s: smooth clean ink outlines, soft cel shading with gentle gradient highlights, graceful elegant characters with large expressive almond-shaped eyes, long lashes, small noses, expressive arched eyebrows and warm brown skin, flowing silk fabrics that drape and sway, richly detailed painterly gouache-style backgrounds, magical glowing light with soft sparkles and glints, a warm jewel-tone palette of sapphire blue, gold, ruby red, emerald and turquoise; set in a medieval Arabian Nights kingdom of the old Persian and Arabian lands (white and sand-coloured palaces with onion domes and slender towers, arched windows with carved lattice screens, silk curtains, brass lanterns, Persian carpets, cushioned divans, fountains and courtyard gardens with date palms, busy bazaars, desert dunes, caravans, the sea with old wooden sailing ships), emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (carpet, marble floor, sand, water, soft shadow) for captions and a logo; daytime scenes glow with golden sunlight and turquoise skies, evenings are rose and amber, night scenes are deep midnight blue with a big moon and warm amber lantern light, and tales-within-the-tale or memories have a soft dreamy storybook glow.\nScene: the sorceress wife beside the tall clay water jar, flinging a handful of water from her cupped hand towards the viewer, the water bursting into a glittering arc of violet sparkles and swirling smoke, her face fierce and commanding, her other hand pointing; magical violet glow lighting the dim room. Location: a dim richly furnished room of a town house at midnight lit by one small brass oil lamp: violet silk curtains, a Persian rug, a tall clay water jar in the corner, an arched window with its curtain blowing outward into the night. Camera: medium shot, slightly low angle, the sparkling arc crossing the frame, the rug as a calm lower third.\nCharacters: the sorceress wife: a beautiful woman of about 30 with warm olive-brown skin, a sharp elegant face, cold glittering violet-dark eyes with heavy lashes and a cruel thin smile; wears a long-sleeved ankle-length gown of black silk with deep violet embroidery and a dark-violet headscarf fully covering her hair and neck.\nMood/lighting: midnight, a single small amber oil-lamp glow against deep violet shadows, tense and eerie.\nModest medieval Arabian Nights clothing (every woman and girl in a loose long-sleeved ankle-length gown with a headscarf or veil fully covering her hair and neck; men in long-sleeved tunics, robes and sashes with long trousers, turbans or caps, never shirtless), a clear respectful distance between men and women who are not married, culturally respectful and Islamic in spirit, no violence shown, no blood, no wounds, no injuries, no corpses, no person lying on the ground, no swords, no daggers, no weapons, no idols, no statues of gods, no religious symbols of other faiths, no alcohol, no wine, no smoking, no text, no letters, no numbers, no writing, no Arabic script, no logos, no watermark, classic hand-drawn 2D animated feature film style.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.135,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 44.0,
+    "y_pct": 20.4,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_009",
+   "startMs": 232076,
+   "endMs": 258627,
+   "new_image_reason": "action change: the transformation is complete — a big black dog stands where he was",
+   "characters": [],
+   "location": "a dim richly furnished room of a town house at midnight lit by one small brass oil lamp: violet silk curtains, a Persian rug, a tall clay water jar in the corner, an arched window with its curtain blowing outward into the night",
+   "location_key": "room_night",
+   "mood": "midnight, a single small amber oil-lamp glow against deep violet shadows, tense and eerie",
+   "visual": "a big black dog with sad human-like eyes sitting bewildered on the rug in the dim room, the last violet sparkles and wisps of smoke swirling away around it, a small dark-blue cap wrapped in grey cloth lying on the floor beside it; the dog looks up in confusion",
+   "camera": "medium shot, eye level, the dog in the upper middle, the rug as a calm lower third",
+   "image": "images/beat_009.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": "other",
+   "safe_substitution": "transformation shown only as the finished animal amid fading sparkles, never a half-changed body",
+   "ambience": "stone_house_night",
+   "shots": [
+    {
+     "id": "shot_027",
+     "startMs": 232076,
+     "endMs": 239856,
+     "narration_dhivehi": "މަގޭ މުޅި ހަށިގަނޑަށް ބަޔާންކުރަންދަތި ވޭނެއް ލިބިގެން ދިޔައެވެ. މަގޭ ހަށިގަނޑުގެ ކަށިތައް ބިނދި، ސިފަ ބަދަލުވާން ފެށިއެވެ.",
+     "narration_english": "an indescribable pain went through my whole body. The bones of my body broke and my shape began to change.",
+     "crop": "full",
+     "motion": "static drift",
+     "sfx": [
+      {
+       "name": "breath_heavy",
+       "atMs": 234366,
+       "gainDb": -20,
+       "word": "ވޭނެއް"
+      }
+     ],
+     "hum": true,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_028",
+     "startMs": 239856,
+     "endMs": 249987,
+     "narration_dhivehi": "މަގޭ އަނގަ ދިގުވެ، މުޅި ގައިގައި އިސްތަށި ފަޅައި، ހަތަރު މޮށްގަނޑު މައްޗަށް ވެއްޓުނެވެ. ކުޑަ ހިނދުކޮޅެއްގެ ތެރޭގައި، އަހަރެންނަކީ އިންސާނެއް ނޫނެވެ.",
+     "narration_english": "My mouth grew long, hair sprouted all over me, and I fell onto four paws. In a short moment I was no longer human.",
+     "crop": "tight",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      20.3,
+      4.8,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_029",
+     "startMs": 249987,
+     "endMs": 258627,
+     "narration_dhivehi": "އަހަރެން ބަދަލުވީ ބޮޑު، ކަޅު ކުއްތާއަކަށެވެ! އަހަރެން ވާހަކަދައްކަން އުޅުމުން، އަނގައިން ނުކުތީ ހަމައެކަނި ކުއްތާ ވައްވައްޖަހާ އަޑެވެ.",
+     "narration_english": "I had become a big black dog! When I tried to speak, only the sound of a dog's barking came out of my mouth.",
+     "crop": "full",
+     "motion": "pan left",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Classic hand-drawn 2D animated fairy-tale feature film look, like the golden-age American animated princess musicals of the late 1980s and 1990s: smooth clean ink outlines, soft cel shading with gentle gradient highlights, graceful elegant characters with large expressive almond-shaped eyes, long lashes, small noses, expressive arched eyebrows and warm brown skin, flowing silk fabrics that drape and sway, richly detailed painterly gouache-style backgrounds, magical glowing light with soft sparkles and glints, a warm jewel-tone palette of sapphire blue, gold, ruby red, emerald and turquoise; set in a medieval Arabian Nights kingdom of the old Persian and Arabian lands (white and sand-coloured palaces with onion domes and slender towers, arched windows with carved lattice screens, silk curtains, brass lanterns, Persian carpets, cushioned divans, fountains and courtyard gardens with date palms, busy bazaars, desert dunes, caravans, the sea with old wooden sailing ships), emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (carpet, marble floor, sand, water, soft shadow) for captions and a logo; daytime scenes glow with golden sunlight and turquoise skies, evenings are rose and amber, night scenes are deep midnight blue with a big moon and warm amber lantern light, and tales-within-the-tale or memories have a soft dreamy storybook glow.\nScene: a big black dog with sad human-like eyes sitting bewildered on the rug in the dim room, the last violet sparkles and wisps of smoke swirling away around it, a small dark-blue cap wrapped in grey cloth lying on the floor beside it; the dog looks up in confusion. Location: a dim richly furnished room of a town house at midnight lit by one small brass oil lamp: violet silk curtains, a Persian rug, a tall clay water jar in the corner, an arched window with its curtain blowing outward into the night. Camera: medium shot, eye level, the dog in the upper middle, the rug as a calm lower third.\nMood/lighting: midnight, a single small amber oil-lamp glow against deep violet shadows, tense and eerie.\nModest medieval Arabian Nights clothing (every woman and girl in a loose long-sleeved ankle-length gown with a headscarf or veil fully covering her hair and neck; men in long-sleeved tunics, robes and sashes with long trousers, turbans or caps, never shirtless), a clear respectful distance between men and women who are not married, culturally respectful and Islamic in spirit, no violence shown, no blood, no wounds, no injuries, no corpses, no person lying on the ground, no swords, no daggers, no weapons, no idols, no statues of gods, no religious symbols of other faiths, no alcohol, no wine, no smoking, no text, no letters, no numbers, no writing, no Arabic script, no logos, no watermark, classic hand-drawn 2D animated feature film style.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.14,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 50.0,
+    "y_pct": 40.0,
+    "face_detected": false
+   }
+  },
+  {
+   "id": "beat_010",
+   "startMs": 258627,
+   "endMs": 273457,
+   "new_image_reason": "scene change: he is driven out into the street at night",
+   "characters": [
+    "sorceress_wife"
+   ],
+   "location": "a moonlit cobbled street of an old Arabian Nights town at midnight, closed wooden doors, flat-roofed houses, long blue shadows",
+   "location_key": "street_night",
+   "mood": "midnight, cold blue moonlight with a soft storybook glow, loneliness and fear",
+   "visual": "the big black dog standing alone on the moonlit cobbled street, looking back at a house doorway where the sorceress wife stands in silhouette against the amber light, one empty hand pointing out into the night, about to shut the heavy wooden door; nobody is touched",
+   "camera": "wide shot, eye level, the empty cobbles as a calm lower third",
+   "image": "images/beat_010.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": "violence",
+   "safe_substitution": "the beating with a stick is not shown: only the wife's pointing silhouette at the door and the cast-out dog",
+   "ambience": "city_lanes_night",
+   "shots": [
+    {
+     "id": "shot_030",
+     "startMs": 258627,
+     "endMs": 266057,
+     "narration_dhivehi": "\"'އެ ނުބައި އަނބިމީހާ ދަނޑިބުރިއެއް ނަގައިގެން އަހަރެންގެ ގައިގައި ތަޅަން ފެށިއެވެ. އޭނާ އަހަރެންނަށް އަނިޔާކުރަމުން ގޮސް،",
+     "narration_english": "That wicked wife took a stick and began to beat me. Tormenting me all the way,",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_031",
+     "startMs": 266057,
+     "endMs": 273457,
+     "narration_dhivehi": "ގޭގެ ދޮރުން ބޭރަށް ނެރެ މަގުމައްޗަށް އެއްލައިލިއެވެ. \"'އެރޭ އަހަރެން މަގުމަތީގައި އުޅުނީ އިންތިހާއަށް ބިރުންނެވެ.",
+     "narration_english": "she drove me out of the house door and threw me into the street. That night I roamed the street in terrible fear.",
+     "crop": "tight",
+     "motion": "pan right",
+     "sfx": [
+      {
+       "name": "door_slam",
+       "atMs": 268427,
+       "gainDb": -18,
+       "word": "އެއްލައިލިއެވެ."
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      0.0,
+      0.0,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is the Third Old Man's wife), create a new scene: Classic hand-drawn 2D animated fairy-tale feature film look, like the golden-age American animated princess musicals of the late 1980s and 1990s: smooth clean ink outlines, soft cel shading with gentle gradient highlights, graceful elegant characters with large expressive almond-shaped eyes, long lashes, small noses, expressive arched eyebrows and warm brown skin, flowing silk fabrics that drape and sway, richly detailed painterly gouache-style backgrounds, magical glowing light with soft sparkles and glints, a warm jewel-tone palette of sapphire blue, gold, ruby red, emerald and turquoise; set in a medieval Arabian Nights kingdom of the old Persian and Arabian lands (white and sand-coloured palaces with onion domes and slender towers, arched windows with carved lattice screens, silk curtains, brass lanterns, Persian carpets, cushioned divans, fountains and courtyard gardens with date palms, busy bazaars, desert dunes, caravans, the sea with old wooden sailing ships), emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (carpet, marble floor, sand, water, soft shadow) for captions and a logo; daytime scenes glow with golden sunlight and turquoise skies, evenings are rose and amber, night scenes are deep midnight blue with a big moon and warm amber lantern light, and tales-within-the-tale or memories have a soft dreamy storybook glow.\nScene: the big black dog standing alone on the moonlit cobbled street, looking back at a house doorway where the sorceress wife stands in silhouette against the amber light, one empty hand pointing out into the night, about to shut the heavy wooden door; nobody is touched. Location: a moonlit cobbled street of an old Arabian Nights town at midnight, closed wooden doors, flat-roofed houses, long blue shadows. Camera: wide shot, eye level, the empty cobbles as a calm lower third.\nCharacters: the sorceress wife: a beautiful woman of about 30 with warm olive-brown skin, a sharp elegant face, cold glittering violet-dark eyes with heavy lashes and a cruel thin smile; wears a long-sleeved ankle-length gown of black silk with deep violet embroidery and a dark-violet headscarf fully covering her hair and neck.\nMood/lighting: midnight, cold blue moonlight with a soft storybook glow, loneliness and fear.\nModest medieval Arabian Nights clothing (every woman and girl in a loose long-sleeved ankle-length gown with a headscarf or veil fully covering her hair and neck; men in long-sleeved tunics, robes and sashes with long trousers, turbans or caps, never shirtless), a clear respectful distance between men and women who are not married, culturally respectful and Islamic in spirit, no violence shown, no blood, no wounds, no injuries, no corpses, no person lying on the ground, no swords, no daggers, no weapons, no idols, no statues of gods, no religious symbols of other faiths, no alcohol, no wine, no smoking, no text, no letters, no numbers, no writing, no Arabic script, no logos, no watermark, classic hand-drawn 2D animated feature film style.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.137,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 23.9,
+    "y_pct": 8.6,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_011",
+   "startMs": 273457,
+   "endMs": 301978,
+   "new_image_reason": "scene change: the frightened night among the other dogs and the rubbish heaps",
+   "characters": [],
+   "location": "a cold narrow alley behind houses at night, heaps of old baskets, broken crates and palm-leaf rubbish against a crumbling wall, puddles reflecting a pale moon",
+   "location_key": "alley_night",
+   "mood": "the cold dead of night, pale blue moonlight, shivering misery",
+   "visual": "the big black dog curled up shivering among old baskets and broken crates in a cold moonlit alley, ears flat, sad eyes looking out; far away at the mouth of the alley three other dogs stand as dark silhouettes against the moonlight, their heads turned towards him",
+   "camera": "medium wide shot, low angle, the puddled ground as a calm lower third",
+   "image": "images/beat_011.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": "violence",
+   "safe_substitution": "the attack is not shown: the other dogs only as distant silhouettes, the dog hiding and shivering",
+   "ambience": "city_lanes_night",
+   "shots": [
+    {
+     "id": "shot_032",
+     "startMs": 273457,
+     "endMs": 280418,
+     "narration_dhivehi": "އެހެން ކުއްތާތަކަށް އަހަރެން ފެނުމާއެކު، އެސޮރުމެން އަހަރެންނާ ދިމާއަށް ރުޅިއައިސްގެން އަންނަން ފެށިއެވެ. ކުއްލިއަކަށް،",
+     "narration_english": "As soon as the other dogs saw me, they came at me angrily. Suddenly,",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_033",
+     "startMs": 280418,
+     "endMs": 291918,
+     "narration_dhivehi": "ރުޅިގަދަ ބޮޑު ތިން ކުއްތާ އަހަރެންނާ ދިމާއަށް ހަމަލާދޭން އައެވެ. އަހަރެން ފުރާނަ ސަލާމަތްކުރުމަށްޓަކައި ދުވަމުން ގޮސް ފިލީ ގޭގޭގެ ފުރަގަހުގައި ހުރި ކުނިގޮނޑުތަކުގެ ތެރޭގައެވެ.",
+     "narration_english": "three big, fierce dogs came to attack me. To save my life I ran, and hid among the rubbish heaps behind the houses.",
+     "crop": "tight",
+     "motion": "pan up",
+     "sfx": [
+      {
+       "name": "footsteps_pavement",
+       "atMs": 286848,
+       "gainDb": -20,
+       "word": "ދުވަމުން"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      40.6,
+      29.6,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_034",
+     "startMs": 291918,
+     "endMs": 301978,
+     "narration_dhivehi": "ބަނޑުހައިހޫނުކަމާއި ފިނީގެ ސަބަބުން އަހަރެން އުޅުނީ މަރުވާވަރު ވެފައެވެ. \"'އަނެއް ދުވަހުގެ ހެނދުނު، އަހަރެން ބަނޑުހައިވެގެން ގޮސް މަގުމަތީގައި ހިނގަމުން ދަނިކޮށް،",
+     "narration_english": "From hunger and cold I was close to dying. The next morning, as I walked along the street, starving,",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [
+      {
+       "name": "wind_gust",
+       "atMs": 293028,
+       "gainDb": -24,
+       "word": "ފިނީގެ"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Classic hand-drawn 2D animated fairy-tale feature film look, like the golden-age American animated princess musicals of the late 1980s and 1990s: smooth clean ink outlines, soft cel shading with gentle gradient highlights, graceful elegant characters with large expressive almond-shaped eyes, long lashes, small noses, expressive arched eyebrows and warm brown skin, flowing silk fabrics that drape and sway, richly detailed painterly gouache-style backgrounds, magical glowing light with soft sparkles and glints, a warm jewel-tone palette of sapphire blue, gold, ruby red, emerald and turquoise; set in a medieval Arabian Nights kingdom of the old Persian and Arabian lands (white and sand-coloured palaces with onion domes and slender towers, arched windows with carved lattice screens, silk curtains, brass lanterns, Persian carpets, cushioned divans, fountains and courtyard gardens with date palms, busy bazaars, desert dunes, caravans, the sea with old wooden sailing ships), emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (carpet, marble floor, sand, water, soft shadow) for captions and a logo; daytime scenes glow with golden sunlight and turquoise skies, evenings are rose and amber, night scenes are deep midnight blue with a big moon and warm amber lantern light, and tales-within-the-tale or memories have a soft dreamy storybook glow.\nScene: the big black dog curled up shivering among old baskets and broken crates in a cold moonlit alley, ears flat, sad eyes looking out; far away at the mouth of the alley three other dogs stand as dark silhouettes against the moonlight, their heads turned towards him. Location: a cold narrow alley behind houses at night, heaps of old baskets, broken crates and palm-leaf rubbish against a crumbling wall, puddles reflecting a pale moon. Camera: medium wide shot, low angle, the puddled ground as a calm lower third.\nMood/lighting: the cold dead of night, pale blue moonlight, shivering misery.\nModest medieval Arabian Nights clothing (every woman and girl in a loose long-sleeved ankle-length gown with a headscarf or veil fully covering her hair and neck; men in long-sleeved tunics, robes and sashes with long trousers, turbans or caps, never shirtless), a clear respectful distance between men and women who are not married, culturally respectful and Islamic in spirit, no violence shown, no blood, no wounds, no injuries, no corpses, no person lying on the ground, no swords, no daggers, no weapons, no idols, no statues of gods, no religious symbols of other faiths, no alcohol, no wine, no smoking, no text, no letters, no numbers, no writing, no Arabic script, no logos, no watermark, classic hand-drawn 2D animated feature film style.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.206,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 82.0,
+    "y_pct": 88.3,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_012",
+   "startMs": 301978,
+   "endMs": 327429,
+   "new_image_reason": "time jump: the next morning at the kind old fish-seller's shop",
+   "characters": [
+    "fish_seller"
+   ],
+   "location": "a small open-fronted fish shop in a busy morning bazaar of an old Arabian Nights town: a wooden counter with baskets of silver fish on palm leaves, a striped awning, sunlit stone street",
+   "location_key": "fish_shop",
+   "mood": "fresh early-morning golden sunlight with a soft golden storybook glow, kindness and pity",
+   "visual": "soft golden storybook glow; the round kindly old fish-seller in his white skullcap and brown apron leaning over his wooden counter with a gentle pitying smile, tossing a small piece of fish down to the thin black dog that sits before the shop looking up at him with pleading, sorrowful eyes; baskets of silver fish, a striped awning, a few small background shoppers in modest clothing",
+   "camera": "medium wide shot, eye level, the sunlit street as a calm lower third",
+   "image": "images/beat_012.png",
+   "reuse_of": null,
+   "transition_in": "black",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "bazaar_day",
+   "shots": [
+    {
+     "id": "shot_035",
+     "startMs": 301978,
+     "endMs": 310289,
+     "narration_dhivehi": "މަސްވިއްކާ ފިހާރައެއް ފެނުނެވެ. އެ ފިހާރައިގައި ހުރީ ވަރަށް ހެޔޮލަފާ މުސްކުޅި މަސްވިއްކާ މީހެކެވެ. އަހަރެން އޭނާގެ ކައިރިއަށް ގޮސް،",
+     "narration_english": "I saw a fish shop. In that shop stood a very kind old fish-seller. I went up to him,",
+     "crop": "full",
+     "motion": "pan down",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_036",
+     "startMs": 310289,
+     "endMs": 319309,
+     "narration_dhivehi": "އިންސާނަކު އާދޭސްކުރާ ފަދަ ގޮތަކަށް އޭނާއަށް ބަލަން ހުރީމެވެ. އެ މުސްކުޅިޔާއަށް މަގޭ ދެލޮލުގައިވާ ހިތާމަ ފެނިފައި ރަޙުމު އުފެދުނެވެ.",
+     "narration_english": "and stood looking at him the way a person would plead. That old man saw the sorrow in my eyes and felt pity.",
+     "crop": "tight",
+     "motion": "static drift",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      40.6,
+      29.6,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_037",
+     "startMs": 319309,
+     "endMs": 327429,
+     "narration_dhivehi": "އޭނާ އަހަރެންނަށް މަސްކޮޅަކާއި ކަށިގަނޑެއް އެއްލިއެވެ. އަހަރެން އެ ކައިގެން، އޭނާއަށް ޝުކުރުވެރިވުމުގެ ގޮތުން އޭނާގެ ފައިގައި ބޯ އުނގުޅީމެވެ.",
+     "narration_english": "He tossed me a piece of fish and a bone. I ate it, and to show my thanks I rubbed my head against his feet.",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [
+      {
+       "name": "soft_thud",
+       "atMs": 321529,
+       "gainDb": -24,
+       "word": "އެއްލިއެވެ."
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is the old fish-seller), create a new scene: Classic hand-drawn 2D animated fairy-tale feature film look, like the golden-age American animated princess musicals of the late 1980s and 1990s: smooth clean ink outlines, soft cel shading with gentle gradient highlights, graceful elegant characters with large expressive almond-shaped eyes, long lashes, small noses, expressive arched eyebrows and warm brown skin, flowing silk fabrics that drape and sway, richly detailed painterly gouache-style backgrounds, magical glowing light with soft sparkles and glints, a warm jewel-tone palette of sapphire blue, gold, ruby red, emerald and turquoise; set in a medieval Arabian Nights kingdom of the old Persian and Arabian lands (white and sand-coloured palaces with onion domes and slender towers, arched windows with carved lattice screens, silk curtains, brass lanterns, Persian carpets, cushioned divans, fountains and courtyard gardens with date palms, busy bazaars, desert dunes, caravans, the sea with old wooden sailing ships), emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (carpet, marble floor, sand, water, soft shadow) for captions and a logo; daytime scenes glow with golden sunlight and turquoise skies, evenings are rose and amber, night scenes are deep midnight blue with a big moon and warm amber lantern light, and tales-within-the-tale or memories have a soft dreamy storybook glow.\nScene: soft golden storybook glow; the round kindly old fish-seller in his white skullcap and brown apron leaning over his wooden counter with a gentle pitying smile, tossing a small piece of fish down to the thin black dog that sits before the shop looking up at him with pleading, sorrowful eyes; baskets of silver fish, a striped awning, a few small background shoppers in modest clothing. Location: a small open-fronted fish shop in a busy morning bazaar of an old Arabian Nights town: a wooden counter with baskets of silver fish on palm leaves, a striped awning, sunlit stone street. Camera: medium wide shot, eye level, the sunlit street as a calm lower third.\nCharacters: the old fish-seller: a short round kindly man of about 65 with warm olive-brown skin, a chubby cheerful face, a fluffy white beard and twinkling eyes; wears a white skullcap, a plain beige robe with rolled sleeves and a brown leather apron.\nMood/lighting: fresh early-morning golden sunlight with a soft golden storybook glow, kindness and pity.\nModest medieval Arabian Nights clothing (every woman and girl in a loose long-sleeved ankle-length gown with a headscarf or veil fully covering her hair and neck; men in long-sleeved tunics, robes and sashes with long trousers, turbans or caps, never shirtless), a clear respectful distance between men and women who are not married, culturally respectful and Islamic in spirit, no violence shown, no blood, no wounds, no injuries, no corpses, no person lying on the ground, no swords, no daggers, no weapons, no idols, no statues of gods, no religious symbols of other faiths, no alcohol, no wine, no smoking, no text, no letters, no numbers, no writing, no Arabic script, no logos, no watermark, classic hand-drawn 2D animated feature film style.",
+   "logo": {
+    "color": "black",
+    "bg_luminance": 0.614,
+    "halo": true
+   },
+   "focus": {
+    "x_pct": 78.1,
+    "y_pct": 66.5,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_013",
+   "startMs": 327429,
+   "endMs": 355220,
+   "new_image_reason": "scene and character change: at the fish-seller's home the veiled daughter hides behind the curtain",
+   "characters": [
+    "fishseller_daughter",
+    "fish_seller"
+   ],
+   "location": "the simple, tidy home of an old fish-seller: whitewashed walls, a woven reed mat, a low wooden table with clay cups and a water jug, a plain sky-blue cloth curtain hanging across an arched doorway, sunlight through a small window",
+   "location_key": "fishseller_home",
+   "mood": "warm late-afternoon sunlight with a soft golden storybook glow, gentle wonder",
+   "visual": "soft golden storybook glow; the old fish-seller standing just inside his doorway with the black dog sitting at his feet; across the room his veiled daughter in a sky-blue gown, white headscarf and white face veil half-hidden behind a sky-blue curtain in an arched doorway, one hand drawing the curtain across herself, her large dark eyes wide with alarm, her other hand raised towards her father",
+   "camera": "medium wide shot, eye level, the reed mat as a calm lower third",
+   "image": "images/beat_013.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "stone_house_day",
+   "shots": [
+    {
+     "id": "shot_038",
+     "startMs": 327429,
+     "endMs": 338599,
+     "narration_dhivehi": "\"'އެދުވަހު އޭނާ ފިހާރަ ބަންދުކޮށްފައި ގެއަށް ދިޔައިރު، އަހަރެންވެސް އޭނާގެ ފަހަތުން ދިޔައީމެވެ. އޭނާ ގެއަށް ވަދެ، އަހަރެންނަށްވެސް ގޭތެރެއަށް ވަނުމަށް ހުއްދަ ދިނެވެ.",
+     "narration_english": "That day, when he closed the shop and went home, I followed behind him. He went into his house and let me come inside too.",
+     "crop": "full",
+     "motion": "pan left",
+     "sfx": [
+      {
+       "name": "door_open",
+       "atMs": 334409,
+       "gainDb": -22,
+       "word": "ވަދެ،"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_039",
+     "startMs": 338599,
+     "endMs": 344980,
+     "narration_dhivehi": "އެގޭގައި އުޅެނީ އޭނާއާއި އޭނާގެ ޒުވާން އަންހެން ދަރިފުޅެވެ. އެ އަންހެންކުއްޖާއަށް އަހަރެން ފެނުމާއެކު،",
+     "narration_english": "Living in that house were he and his young daughter. As soon as the girl saw me,",
+     "crop": "tight",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      40.6,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_040",
+     "startMs": 344980,
+     "endMs": 355220,
+     "narration_dhivehi": "ކުއްލިއަކަށް އޭނާގެ މޫނު ނިވާކޮށް، ފަރުދާގެ ފުރަގަހުގައި ފިލިއެވެ. \"'ބައްޕާއެވެ!' އެ ކުއްޖާ ބާރަށް ބުންޏެވެ. 'ބައްޕަ ތިޔަ ގެއަށް ވެއްދީ ކާކު ހެއްޔެވެ؟",
+     "narration_english": "she suddenly covered her face and hid behind a curtain. 'Father!' the girl cried out. 'Who is this you have brought into the house?",
+     "crop": "full",
+     "motion": "pan right",
+     "sfx": [
+      {
+       "name": "cloth_rustle",
+       "atMs": 346730,
+       "gainDb": -22,
+       "word": "ނިވާކޮށް،"
+      },
+      {
+       "name": "gasp",
+       "atMs": 349890,
+       "gainDb": -22,
+       "word": "\"'ބައްޕާއެވެ!'"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is the fish-seller's daughter; reference image 2 is the old fish-seller), create a new scene: Classic hand-drawn 2D animated fairy-tale feature film look, like the golden-age American animated princess musicals of the late 1980s and 1990s: smooth clean ink outlines, soft cel shading with gentle gradient highlights, graceful elegant characters with large expressive almond-shaped eyes, long lashes, small noses, expressive arched eyebrows and warm brown skin, flowing silk fabrics that drape and sway, richly detailed painterly gouache-style backgrounds, magical glowing light with soft sparkles and glints, a warm jewel-tone palette of sapphire blue, gold, ruby red, emerald and turquoise; set in a medieval Arabian Nights kingdom of the old Persian and Arabian lands (white and sand-coloured palaces with onion domes and slender towers, arched windows with carved lattice screens, silk curtains, brass lanterns, Persian carpets, cushioned divans, fountains and courtyard gardens with date palms, busy bazaars, desert dunes, caravans, the sea with old wooden sailing ships), emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (carpet, marble floor, sand, water, soft shadow) for captions and a logo; daytime scenes glow with golden sunlight and turquoise skies, evenings are rose and amber, night scenes are deep midnight blue with a big moon and warm amber lantern light, and tales-within-the-tale or memories have a soft dreamy storybook glow.\nScene: soft golden storybook glow; the old fish-seller standing just inside his doorway with the black dog sitting at his feet; across the room his veiled daughter in a sky-blue gown, white headscarf and white face veil half-hidden behind a sky-blue curtain in an arched doorway, one hand drawing the curtain across herself, her large dark eyes wide with alarm, her other hand raised towards her father. Location: the simple, tidy home of an old fish-seller: whitewashed walls, a woven reed mat, a low wooden table with clay cups and a water jug, a plain sky-blue cloth curtain hanging across an arched doorway, sunlight through a small window. Camera: medium wide shot, eye level, the reed mat as a calm lower third.\nCharacters: the fish-seller's daughter: a slim girl of about 16 with warm olive-brown skin, only her large wise dark eyes and brows visible above a soft white face veil; wears a loose long-sleeved ankle-length sky-blue gown and a white headscarf fully covering her hair and neck with the veil across her nose and mouth. the old fish-seller: a short round kindly man of about 65 with warm olive-brown skin, a chubby cheerful face, a fluffy white beard and twinkling eyes; wears a white skullcap, a plain beige robe with rolled sleeves and a brown leather apron.\nMood/lighting: warm late-afternoon sunlight with a soft golden storybook glow, gentle wonder.\nModest medieval Arabian Nights clothing (every woman and girl in a loose long-sleeved ankle-length gown with a headscarf or veil fully covering her hair and neck; men in long-sleeved tunics, robes and sashes with long trousers, turbans or caps, never shirtless), a clear respectful distance between men and women who are not married, culturally respectful and Islamic in spirit, no violence shown, no blood, no wounds, no injuries, no corpses, no person lying on the ground, no swords, no daggers, no weapons, no idols, no statues of gods, no religious symbols of other faiths, no alcohol, no wine, no smoking, no text, no letters, no numbers, no writing, no Arabic script, no logos, no watermark, classic hand-drawn 2D animated feature film style.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.461,
+    "halo": true
+   },
+   "focus": {
+    "x_pct": 80.5,
+    "y_pct": 26.9,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_014",
+   "startMs": 355220,
+   "endMs": 383511,
+   "new_image_reason": "emotional turning point: she reveals he is an enchanted man; the dog nods with tearful eyes",
+   "characters": [
+    "fish_seller"
+   ],
+   "location": "the simple, tidy home of an old fish-seller: whitewashed walls, a woven reed mat, a low wooden table with clay cups and a water jug, a plain sky-blue cloth curtain hanging across an arched doorway, sunlight through a small window",
+   "location_key": "fishseller_home",
+   "mood": "warm late-afternoon sunlight with a soft golden storybook glow, gentle wonder",
+   "visual": "soft golden storybook glow; close on the big black dog sitting on the reed mat, nodding its head, tears shining in its sad human-like eyes; beside it the old fish-seller bends down in astonishment, hands raised, mouth open, eyebrows high",
+   "camera": "medium close-up, low eye level, the mat as a calm lower third",
+   "image": "images/beat_014.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "stone_house_day",
+   "shots": [
+    {
+     "id": "shot_041",
+     "startMs": 355220,
+     "endMs": 363700,
+     "narration_dhivehi": "ތިއީ ކުއްތާއެއް ނޫނެވެ! ތިއީ ސިހުރު ޖެހިފައިވާ ފިރިހެނެކެވެ! އަޅުގަނޑަކީ ސިހުރުގެ ޢިލްމު ދެނެހުރި މީހަކީމެވެ. އަޅުގަނޑަށް އެނގޭ ގޮތުގައި،",
+     "narration_english": "That is no dog! That is an enchanted man! I am someone who knows the science of magic. As far as I can tell,",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_042",
+     "startMs": 363700,
+     "endMs": 371870,
+     "narration_dhivehi": "މީނާގެ ނުބައި އަނބިމީހާ މީނާއަށް ސިހުރު ހަދައި ކުއްތާއަކަށް ބަދަލުކޮށްލީއެވެ.' \"'މަސްވިއްކާ މީހާ އިންތިހާއަށް ޙައިރާންވިއެވެ.",
+     "narration_english": "his wicked wife put a spell on him and turned him into a dog.' The fish-seller was utterly astonished.",
+     "crop": "tight",
+     "motion": "pan up",
+     "sfx": [
+      {
+       "name": "gasp",
+       "atMs": 370710,
+       "gainDb": -22,
+       "word": "ޙައިރާންވިއެވެ."
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      0.0,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_043",
+     "startMs": 371870,
+     "endMs": 383511,
+     "narration_dhivehi": "އޭނާގެ ދަރިފުޅު ބުނި ވާހަކަ ޤަބޫލުކުރަން ދަތިވިއެވެ. ނަމަވެސް އަހަރެން، އެ ކުއްޖާ ބުނި ވާހަކަ ތެދުކަން އެންގުމަށްޓަކައި، ބޮލުން އިޝާރާތްކޮށް ކަރުނަވީ ދެލޮލުން ބަލަން ފެށީމެވެ.",
+     "narration_english": "He found it hard to believe what his daughter said. But to show that what the girl said was true, I nodded my head and looked at them with tearful eyes.",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [
+      {
+       "name": "sob_breath",
+       "atMs": 380911,
+       "gainDb": -24,
+       "word": "ކަރުނަވީ"
+      }
+     ],
+     "hum": true,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is the old fish-seller), create a new scene: Classic hand-drawn 2D animated fairy-tale feature film look, like the golden-age American animated princess musicals of the late 1980s and 1990s: smooth clean ink outlines, soft cel shading with gentle gradient highlights, graceful elegant characters with large expressive almond-shaped eyes, long lashes, small noses, expressive arched eyebrows and warm brown skin, flowing silk fabrics that drape and sway, richly detailed painterly gouache-style backgrounds, magical glowing light with soft sparkles and glints, a warm jewel-tone palette of sapphire blue, gold, ruby red, emerald and turquoise; set in a medieval Arabian Nights kingdom of the old Persian and Arabian lands (white and sand-coloured palaces with onion domes and slender towers, arched windows with carved lattice screens, silk curtains, brass lanterns, Persian carpets, cushioned divans, fountains and courtyard gardens with date palms, busy bazaars, desert dunes, caravans, the sea with old wooden sailing ships), emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (carpet, marble floor, sand, water, soft shadow) for captions and a logo; daytime scenes glow with golden sunlight and turquoise skies, evenings are rose and amber, night scenes are deep midnight blue with a big moon and warm amber lantern light, and tales-within-the-tale or memories have a soft dreamy storybook glow.\nScene: soft golden storybook glow; close on the big black dog sitting on the reed mat, nodding its head, tears shining in its sad human-like eyes; beside it the old fish-seller bends down in astonishment, hands raised, mouth open, eyebrows high. Location: the simple, tidy home of an old fish-seller: whitewashed walls, a woven reed mat, a low wooden table with clay cups and a water jug, a plain sky-blue cloth curtain hanging across an arched doorway, sunlight through a small window. Camera: medium close-up, low eye level, the mat as a calm lower third.\nCharacters: the old fish-seller: a short round kindly man of about 65 with warm olive-brown skin, a chubby cheerful face, a fluffy white beard and twinkling eyes; wears a white skullcap, a plain beige robe with rolled sleeves and a brown leather apron.\nMood/lighting: warm late-afternoon sunlight with a soft golden storybook glow, gentle wonder.\nModest medieval Arabian Nights clothing (every woman and girl in a loose long-sleeved ankle-length gown with a headscarf or veil fully covering her hair and neck; men in long-sleeved tunics, robes and sashes with long trousers, turbans or caps, never shirtless), a clear respectful distance between men and women who are not married, culturally respectful and Islamic in spirit, no violence shown, no blood, no wounds, no injuries, no corpses, no person lying on the ground, no swords, no daggers, no weapons, no idols, no statues of gods, no religious symbols of other faiths, no alcohol, no wine, no smoking, no text, no letters, no numbers, no writing, no Arabic script, no logos, no watermark, classic hand-drawn 2D animated feature film style.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.47,
+    "halo": true
+   },
+   "focus": {
+    "x_pct": 18.3,
+    "y_pct": 13.2,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_015",
+   "startMs": 383511,
+   "endMs": 402231,
+   "new_image_reason": "action change: the daughter breaks the spell with water and prayerful words",
+   "characters": [
+    "fishseller_daughter"
+   ],
+   "location": "the simple, tidy home of an old fish-seller: whitewashed walls, a woven reed mat, a low wooden table with clay cups and a water jug, a plain sky-blue cloth curtain hanging across an arched doorway, sunlight through a small window",
+   "location_key": "fishseller_home",
+   "mood": "warm late-afternoon sunlight with a soft golden storybook glow, gentle wonder",
+   "visual": "soft golden storybook glow; the veiled daughter in her sky-blue gown and white headscarf standing calmly, holding a clay cup of water, sprinkling a gentle arc of shining golden water-drops towards the black dog in front of her, warm golden sparkles beginning to swirl around the dog; her dark eyes kind and serene",
+   "camera": "medium wide shot, eye level, the mat as a calm lower third",
+   "image": "images/beat_015.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": "other",
+   "safe_substitution": "her counter-spell shown as gentle golden light and water-drops, no occult symbols",
+   "ambience": "stone_house_day",
+   "shots": [
+    {
+     "id": "shot_044",
+     "startMs": 383511,
+     "endMs": 392471,
+     "narration_dhivehi": "\"'އެ ކުއްޖާ އެތެރެއަށް ގޮސް، ފެންތައްޓެއް ހިފައިގެން އައެވެ. އަދި އެ ފެންތައްޓަށް ބަލަހައްޓައިގެން ހުރެ، ރީތި ބަސްތަކަކުން ކިޔެވެލި ކިޔެވިއެވެ.",
+     "narration_english": "The girl went inside and came back with a cup of water. Gazing into the cup, she recited beautiful words over it.",
+     "crop": "full",
+     "motion": "pan down",
+     "sfx": [
+      {
+       "name": "pour",
+       "atMs": 385251,
+       "gainDb": -22,
+       "word": "ފެންތައްޓެއް"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_045",
+     "startMs": 392471,
+     "endMs": 402231,
+     "narration_dhivehi": "އެއަށްފަހު އެ ފެންތައް މަގޭ ގަޔަށް ޖަހާފައި ބުންޏެވެ: 'މާތްރަސްކަލާނގެ އިރާދަފުޅުން، ކަލޭ ތިޔަ ކުއްތާއެއްގެ ސިފައިން ނުކުމެ، އަލުން އިންސާނަކަށް ބަދަލުވާށެވެ!'",
+     "narration_english": "Then she sprinkled the water on me and said: 'By the will of God, leave the form of a dog and become human again!'",
+     "crop": "tight",
+     "motion": "static drift",
+     "sfx": [
+      {
+       "name": "water_splash_small",
+       "atMs": 394251,
+       "gainDb": -18,
+       "word": "ޖަހާފައި"
+      },
+      {
+       "name": "magic_shimmer",
+       "atMs": 396451,
+       "gainDb": -18,
+       "word": "އިރާދަފުޅުން،"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      20.3,
+      4.8,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is the fish-seller's daughter), create a new scene: Classic hand-drawn 2D animated fairy-tale feature film look, like the golden-age American animated princess musicals of the late 1980s and 1990s: smooth clean ink outlines, soft cel shading with gentle gradient highlights, graceful elegant characters with large expressive almond-shaped eyes, long lashes, small noses, expressive arched eyebrows and warm brown skin, flowing silk fabrics that drape and sway, richly detailed painterly gouache-style backgrounds, magical glowing light with soft sparkles and glints, a warm jewel-tone palette of sapphire blue, gold, ruby red, emerald and turquoise; set in a medieval Arabian Nights kingdom of the old Persian and Arabian lands (white and sand-coloured palaces with onion domes and slender towers, arched windows with carved lattice screens, silk curtains, brass lanterns, Persian carpets, cushioned divans, fountains and courtyard gardens with date palms, busy bazaars, desert dunes, caravans, the sea with old wooden sailing ships), emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (carpet, marble floor, sand, water, soft shadow) for captions and a logo; daytime scenes glow with golden sunlight and turquoise skies, evenings are rose and amber, night scenes are deep midnight blue with a big moon and warm amber lantern light, and tales-within-the-tale or memories have a soft dreamy storybook glow.\nScene: soft golden storybook glow; the veiled daughter in her sky-blue gown and white headscarf standing calmly, holding a clay cup of water, sprinkling a gentle arc of shining golden water-drops towards the black dog in front of her, warm golden sparkles beginning to swirl around the dog; her dark eyes kind and serene. Location: the simple, tidy home of an old fish-seller: whitewashed walls, a woven reed mat, a low wooden table with clay cups and a water jug, a plain sky-blue cloth curtain hanging across an arched doorway, sunlight through a small window. Camera: medium wide shot, eye level, the mat as a calm lower third.\nCharacters: the fish-seller's daughter: a slim girl of about 16 with warm olive-brown skin, only her large wise dark eyes and brows visible above a soft white face veil; wears a loose long-sleeved ankle-length sky-blue gown and a white headscarf fully covering her hair and neck with the veil across her nose and mouth.\nMood/lighting: warm late-afternoon sunlight with a soft golden storybook glow, gentle wonder.\nModest medieval Arabian Nights clothing (every woman and girl in a loose long-sleeved ankle-length gown with a headscarf or veil fully covering her hair and neck; men in long-sleeved tunics, robes and sashes with long trousers, turbans or caps, never shirtless), a clear respectful distance between men and women who are not married, culturally respectful and Islamic in spirit, no violence shown, no blood, no wounds, no injuries, no corpses, no person lying on the ground, no swords, no daggers, no weapons, no idols, no statues of gods, no religious symbols of other faiths, no alcohol, no wine, no smoking, no text, no letters, no numbers, no writing, no Arabic script, no logos, no watermark, classic hand-drawn 2D animated feature film style.",
+   "logo": {
+    "color": "black",
+    "bg_luminance": 0.698,
+    "halo": true
+   },
+   "focus": {
+    "x_pct": 50.0,
+    "y_pct": 40.0,
+    "face_detected": false
+   }
+  },
+  {
+   "id": "beat_016",
+   "startMs": 402231,
+   "endMs": 418732,
+   "new_image_reason": "action change: he is a man again and thanks them with joy",
+   "characters": [
+    "old_man_mule_young",
+    "fish_seller",
+    "fishseller_daughter"
+   ],
+   "location": "the simple, tidy home of an old fish-seller: whitewashed walls, a woven reed mat, a low wooden table with clay cups and a water jug, a plain sky-blue cloth curtain hanging across an arched doorway, sunlight through a small window",
+   "location_key": "fishseller_home",
+   "mood": "warm late-afternoon sunlight with a soft golden storybook glow, gentle wonder",
+   "visual": "soft golden storybook glow; the young trader in his maroon robe and blue cap standing restored in a fading swirl of golden sparkles, hands pressed together in heartfelt thanks, tears of joy on his face, bowing towards the beaming old fish-seller; the veiled daughter stands a respectful distance away by the curtain, her eyes smiling",
+   "camera": "medium wide shot, eye level, the mat as a calm lower third",
+   "image": "images/beat_016.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": "other",
+   "safe_substitution": "transformation back shown only as the finished man amid fading sparkles; no touching between him and the girl",
+   "ambience": "stone_house_day",
+   "shots": [
+    {
+     "id": "shot_046",
+     "startMs": 402231,
+     "endMs": 409891,
+     "narration_dhivehi": "\"'ވަގުތުން މަގޭ ހަށިގަނޑު އަލުން ބަދަލުވާން ފެށިއެވެ. މަދު ސިކުންތުކޮޅެއްގެ ތެރޭގައި އަހަރެން އަނބުރާ އިންސާނަކަށް ބަދަލުވެއްޖެއެވެ!",
+     "narration_english": "At once my body began to change back. Within a few seconds I had turned back into a human being!",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [
+      {
+       "name": "magic_shimmer",
+       "atMs": 404131,
+       "gainDb": -18,
+       "word": "ބަދަލުވާން"
+      }
+     ],
+     "hum": true,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_047",
+     "startMs": 409891,
+     "endMs": 418732,
+     "narration_dhivehi": "އަހަރެން އުފަލުން ގޮސް އެ މުސްކުޅިޔާއާއި އޭނާގެ ދަރިފުޅަށް ފަށްފަށުން ޝުކުރު އަދާކުރީމެވެ. އަހަރެން އޭނާގެ ދަރިފުޅު ކައިރީގައި އެދުނީމެވެ.",
+     "narration_english": "Overjoyed, I thanked the old man and his daughter again and again. Then I made a request of his daughter.",
+     "crop": "tight",
+     "motion": "pan left",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      20.3,
+      4.8,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is the Third Old Man; reference image 2 is the old fish-seller; reference image 3 is the fish-seller's daughter), create a new scene: Classic hand-drawn 2D animated fairy-tale feature film look, like the golden-age American animated princess musicals of the late 1980s and 1990s: smooth clean ink outlines, soft cel shading with gentle gradient highlights, graceful elegant characters with large expressive almond-shaped eyes, long lashes, small noses, expressive arched eyebrows and warm brown skin, flowing silk fabrics that drape and sway, richly detailed painterly gouache-style backgrounds, magical glowing light with soft sparkles and glints, a warm jewel-tone palette of sapphire blue, gold, ruby red, emerald and turquoise; set in a medieval Arabian Nights kingdom of the old Persian and Arabian lands (white and sand-coloured palaces with onion domes and slender towers, arched windows with carved lattice screens, silk curtains, brass lanterns, Persian carpets, cushioned divans, fountains and courtyard gardens with date palms, busy bazaars, desert dunes, caravans, the sea with old wooden sailing ships), emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (carpet, marble floor, sand, water, soft shadow) for captions and a logo; daytime scenes glow with golden sunlight and turquoise skies, evenings are rose and amber, night scenes are deep midnight blue with a big moon and warm amber lantern light, and tales-within-the-tale or memories have a soft dreamy storybook glow.\nScene: soft golden storybook glow; the young trader in his maroon robe and blue cap standing restored in a fading swirl of golden sparkles, hands pressed together in heartfelt thanks, tears of joy on his face, bowing towards the beaming old fish-seller; the veiled daughter stands a respectful distance away by the curtain, her eyes smiling. Location: the simple, tidy home of an old fish-seller: whitewashed walls, a woven reed mat, a low wooden table with clay cups and a water jug, a plain sky-blue cloth curtain hanging across an arched doorway, sunlight through a small window. Camera: medium wide shot, eye level, the mat as a calm lower third.\nCharacters: the young trader (the Third Old Man in his youth): a slim young man of about 32 with warm olive-brown skin, a long narrow face, a short pointed black beard and lively dark eyes; wears a small dark-blue cap wrapped with a grey cloth and a long maroon robe with a grey sash. the old fish-seller: a short round kindly man of about 65 with warm olive-brown skin, a chubby cheerful face, a fluffy white beard and twinkling eyes; wears a white skullcap, a plain beige robe with rolled sleeves and a brown leather apron. the fish-seller's daughter: a slim girl of about 16 with warm olive-brown skin, only her large wise dark eyes and brows visible above a soft white face veil; wears a loose long-sleeved ankle-length sky-blue gown and a white headscarf fully covering her hair and neck with the veil across her nose and mouth.\nMood/lighting: warm late-afternoon sunlight with a soft golden storybook glow, gentle wonder.\nModest medieval Arabian Nights clothing (every woman and girl in a loose long-sleeved ankle-length gown with a headscarf or veil fully covering her hair and neck; men in long-sleeved tunics, robes and sashes with long trousers, turbans or caps, never shirtless), a clear respectful distance between men and women who are not married, culturally respectful and Islamic in spirit, no violence shown, no blood, no wounds, no injuries, no corpses, no person lying on the ground, no swords, no daggers, no weapons, no idols, no statues of gods, no religious symbols of other faiths, no alcohol, no wine, no smoking, no text, no letters, no numbers, no writing, no Arabic script, no logos, no watermark, classic hand-drawn 2D animated feature film style.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.546,
+    "halo": true
+   },
+   "focus": {
+    "x_pct": 50.0,
+    "y_pct": 40.0,
+    "face_detected": false
+   }
+  },
+  {
+   "id": "beat_017",
+   "startMs": 418732,
+   "endMs": 443732,
+   "new_image_reason": "action change: he asks for justice and she prepares the little flask of water",
+   "characters": [
+    "fishseller_daughter",
+    "old_man_mule_young",
+    "fish_seller"
+   ],
+   "location": "the simple, tidy home of an old fish-seller: whitewashed walls, a woven reed mat, a low wooden table with clay cups and a water jug, a plain sky-blue cloth curtain hanging across an arched doorway, sunlight through a small window",
+   "location_key": "fishseller_home",
+   "mood": "warm late-afternoon sunlight with a soft golden storybook glow, gentle wonder",
+   "visual": "soft golden storybook glow; the veiled daughter holding up a small corked glass flask of water that glows softly with golden light, setting it down on a small brass tray on the low table; across the table the young trader leans forward earnestly with determined eyes, the old fish-seller beside him nodding",
+   "camera": "medium shot, eye level, the table top as a calm lower third",
+   "image": "images/beat_017.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": "other",
+   "safe_substitution": "no touching: the flask is placed on a tray between them",
+   "ambience": "stone_house_day",
+   "shots": [
+    {
+     "id": "shot_048",
+     "startMs": 418732,
+     "endMs": 426552,
+     "narration_dhivehi": "'އޭ ހެޔޮލަފާ ކުއްޖާއެވެ! މަގޭ އެ ނުބައި އަނބިމީހާ އަހަރެންނަށް ދިން އަނިޔާގެ ބަދަލު ހިފަން އަހަރެން ބޭނުމެވެ.",
+     "narration_english": "'O good girl! I want to repay my wicked wife for the cruelty she did to me.",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_049",
+     "startMs": 426552,
+     "endMs": 436452,
+     "narration_dhivehi": "އޭނާއަށް ޙައްޤު އަދަބު ދެވޭނެ ގޮތެއް އަހަރެންނަށް އުނގަންނައިދޭށެވެ.' \"'އެ ކުއްޖާ ހިނިތުންވެލައިފައި، ކުޑަ ފުޅިއަކަށް ފެން އަޅައި، އެއަށް ކިޔަވައި ފުމުމަށްފަހު އަހަރެންނަށް ދިނެވެ.",
+     "narration_english": "Teach me a way to give her the punishment she deserves.' The girl smiled, poured water into a small flask, recited over it, blew on it, and gave it to me.",
+     "crop": "tight",
+     "motion": "pan right",
+     "sfx": [
+      {
+       "name": "pour",
+       "atMs": 433032,
+       "gainDb": -22,
+       "word": "އަޅައި،"
+      },
+      {
+       "name": "breath",
+       "atMs": 434612,
+       "gainDb": -24,
+       "word": "ފުމުމަށްފަހު"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      20.3,
+      4.8,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_050",
+     "startMs": 436452,
+     "endMs": 443732,
+     "narration_dhivehi": "'މި ފެންފުޅި ގެންދާށެވެ. ކަލޭގެ ގެއަށް ގޮސް، އޭނާ ނިދާފައި އޮންނަ ވަގުތު ބަލާފައި، މި ފެން އޭނާގެ ގަޔަށް ޖަހާށެވެ.",
+     "narration_english": "'Take this flask of water. Go to your house, wait until she is asleep, and throw this water on her.",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is the fish-seller's daughter; reference image 2 is the Third Old Man; reference image 3 is the old fish-seller), create a new scene: Classic hand-drawn 2D animated fairy-tale feature film look, like the golden-age American animated princess musicals of the late 1980s and 1990s: smooth clean ink outlines, soft cel shading with gentle gradient highlights, graceful elegant characters with large expressive almond-shaped eyes, long lashes, small noses, expressive arched eyebrows and warm brown skin, flowing silk fabrics that drape and sway, richly detailed painterly gouache-style backgrounds, magical glowing light with soft sparkles and glints, a warm jewel-tone palette of sapphire blue, gold, ruby red, emerald and turquoise; set in a medieval Arabian Nights kingdom of the old Persian and Arabian lands (white and sand-coloured palaces with onion domes and slender towers, arched windows with carved lattice screens, silk curtains, brass lanterns, Persian carpets, cushioned divans, fountains and courtyard gardens with date palms, busy bazaars, desert dunes, caravans, the sea with old wooden sailing ships), emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (carpet, marble floor, sand, water, soft shadow) for captions and a logo; daytime scenes glow with golden sunlight and turquoise skies, evenings are rose and amber, night scenes are deep midnight blue with a big moon and warm amber lantern light, and tales-within-the-tale or memories have a soft dreamy storybook glow.\nScene: soft golden storybook glow; the veiled daughter holding up a small corked glass flask of water that glows softly with golden light, setting it down on a small brass tray on the low table; across the table the young trader leans forward earnestly with determined eyes, the old fish-seller beside him nodding. Location: the simple, tidy home of an old fish-seller: whitewashed walls, a woven reed mat, a low wooden table with clay cups and a water jug, a plain sky-blue cloth curtain hanging across an arched doorway, sunlight through a small window. Camera: medium shot, eye level, the table top as a calm lower third.\nCharacters: the fish-seller's daughter: a slim girl of about 16 with warm olive-brown skin, only her large wise dark eyes and brows visible above a soft white face veil; wears a loose long-sleeved ankle-length sky-blue gown and a white headscarf fully covering her hair and neck with the veil across her nose and mouth. the young trader (the Third Old Man in his youth): a slim young man of about 32 with warm olive-brown skin, a long narrow face, a short pointed black beard and lively dark eyes; wears a small dark-blue cap wrapped with a grey cloth and a long maroon robe with a grey sash. the old fish-seller: a short round kindly man of about 65 with warm olive-brown skin, a chubby cheerful face, a fluffy white beard and twinkling eyes; wears a white skullcap, a plain beige robe with rolled sleeves and a brown leather apron.\nMood/lighting: warm late-afternoon sunlight with a soft golden storybook glow, gentle wonder.\nModest medieval Arabian Nights clothing (every woman and girl in a loose long-sleeved ankle-length gown with a headscarf or veil fully covering her hair and neck; men in long-sleeved tunics, robes and sashes with long trousers, turbans or caps, never shirtless), a clear respectful distance between men and women who are not married, culturally respectful and Islamic in spirit, no violence shown, no blood, no wounds, no injuries, no corpses, no person lying on the ground, no swords, no daggers, no weapons, no idols, no statues of gods, no religious symbols of other faiths, no alcohol, no wine, no smoking, no text, no letters, no numbers, no writing, no Arabic script, no logos, no watermark, classic hand-drawn 2D animated feature film style.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.429,
+    "halo": true
+   },
+   "focus": {
+    "x_pct": 50.0,
+    "y_pct": 40.0,
+    "face_detected": false
+   }
+  },
+  {
+   "id": "beat_018",
+   "startMs": 443732,
+   "endMs": 471313,
+   "new_image_reason": "time jump: that midnight he returns home with the flask",
+   "characters": [
+    "old_man_mule_young"
+   ],
+   "location": "a dim richly furnished room of a town house at midnight lit by one small brass oil lamp: violet silk curtains, a Persian rug, a tall clay water jar in the corner, an arched window with its curtain blowing outward into the night",
+   "location_key": "room_night",
+   "mood": "midnight, a single small amber oil-lamp glow against deep violet shadows, tense and eerie",
+   "visual": "the young trader in his maroon robe and blue cap standing in the dim room at midnight, his face grim and resolute in the amber lamplight, holding up the uncorked little flask and flinging a glittering golden arc of water towards a dim covered shape far back in the violet shadows; only a heap of dark blankets is seen there, no person visible",
+   "camera": "medium shot from the side, eye level, the rug as a calm lower third",
+   "image": "images/beat_018.png",
+   "reuse_of": null,
+   "transition_in": "black",
+   "sensitive": "other",
+   "safe_substitution": "the sleeping wife is never shown in a bed: only a dark covered heap far in the shadows; magic as golden sparkles",
+   "ambience": "stone_house_night",
+   "shots": [
+    {
+     "id": "shot_051",
+     "startMs": 443732,
+     "endMs": 453253,
+     "narration_dhivehi": "އަދި ބޭނުން ޖަނަވާރެއްގެ ނަން ކިޔާފައި އެ ސިފައަށް ބަދަލުވުމަށް އަމުރުކުރާށެވެ.' \"'އަހަރެން އެފެންފުޅި ފޮރުވައިގެން، ސިއްރުން ގޮސް މަގޭ ގެއަށް ވަނީމެވެ.",
+     "narration_english": "Then name whatever animal you wish and command her to turn into that shape.' I hid the flask and went secretly into my house.",
+     "crop": "full",
+     "motion": "pan up",
+     "sfx": [
+      {
+       "name": "door_open",
+       "atMs": 452153,
+       "gainDb": -22,
+       "word": "ވަނީމެވެ."
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_052",
+     "startMs": 453253,
+     "endMs": 462333,
+     "narration_dhivehi": "އޭރު މެންދަމުގެ ވަގުތެވެ. މަގޭ އަނބިމީހާ އޮތީ ގަދަ ނިދީގައެވެ. އަހަރެން އޭނާގެ ކައިރިއަށް ގޮސް، ފެންފުޅި އުނގުރި ނަގާފައި އޭނާގެ މޫނަށް ފެންތައް ޖެހީމެވެ.",
+     "narration_english": "It was midnight. My wife lay fast asleep. I went near her, pulled the stopper from the flask and threw the water on her face.",
+     "crop": "tight",
+     "motion": "slow pull-out",
+     "sfx": [
+      {
+       "name": "water_splash_small",
+       "atMs": 461933,
+       "gainDb": -18,
+       "word": "ޖެހީމެވެ."
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      20.3,
+      4.8,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_053",
+     "startMs": 462333,
+     "endMs": 471313,
+     "narration_dhivehi": "އަދި ބާރަށް ގޮވައިލީމެވެ: 'ކަލޭ ތިޔަ އިންސާނެއްގެ ސިފައިން ނުކުމެ، ވަގުތުން ބަޣަލަކަށް ބަދަލުވާށެވެ!' \"'އެވަގުތު އޭނާ ހޭލައިގެން ހަޅޭއްލަވައިގަތެވެ.",
+     "narration_english": "And I cried out loudly: 'Leave your human form and become a mule at once!' At that moment she woke and screamed.",
+     "crop": "full",
+     "motion": "pan down",
+     "sfx": [
+      {
+       "name": "magic_shimmer",
+       "atMs": 467913,
+       "gainDb": -18,
+       "word": "ބަދަލުވާށެވެ!'"
+      },
+      {
+       "name": "gasp",
+       "atMs": 470213,
+       "gainDb": -20,
+       "word": "ހަޅޭއްލަވައިގަތެވެ."
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is the Third Old Man), create a new scene: Classic hand-drawn 2D animated fairy-tale feature film look, like the golden-age American animated princess musicals of the late 1980s and 1990s: smooth clean ink outlines, soft cel shading with gentle gradient highlights, graceful elegant characters with large expressive almond-shaped eyes, long lashes, small noses, expressive arched eyebrows and warm brown skin, flowing silk fabrics that drape and sway, richly detailed painterly gouache-style backgrounds, magical glowing light with soft sparkles and glints, a warm jewel-tone palette of sapphire blue, gold, ruby red, emerald and turquoise; set in a medieval Arabian Nights kingdom of the old Persian and Arabian lands (white and sand-coloured palaces with onion domes and slender towers, arched windows with carved lattice screens, silk curtains, brass lanterns, Persian carpets, cushioned divans, fountains and courtyard gardens with date palms, busy bazaars, desert dunes, caravans, the sea with old wooden sailing ships), emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (carpet, marble floor, sand, water, soft shadow) for captions and a logo; daytime scenes glow with golden sunlight and turquoise skies, evenings are rose and amber, night scenes are deep midnight blue with a big moon and warm amber lantern light, and tales-within-the-tale or memories have a soft dreamy storybook glow.\nScene: the young trader in his maroon robe and blue cap standing in the dim room at midnight, his face grim and resolute in the amber lamplight, holding up the uncorked little flask and flinging a glittering golden arc of water towards a dim covered shape far back in the violet shadows; only a heap of dark blankets is seen there, no person visible. Location: a dim richly furnished room of a town house at midnight lit by one small brass oil lamp: violet silk curtains, a Persian rug, a tall clay water jar in the corner, an arched window with its curtain blowing outward into the night. Camera: medium shot from the side, eye level, the rug as a calm lower third.\nCharacters: the young trader (the Third Old Man in his youth): a slim young man of about 32 with warm olive-brown skin, a long narrow face, a short pointed black beard and lively dark eyes; wears a small dark-blue cap wrapped with a grey cloth and a long maroon robe with a grey sash.\nMood/lighting: midnight, a single small amber oil-lamp glow against deep violet shadows, tense and eerie.\nModest medieval Arabian Nights clothing (every woman and girl in a loose long-sleeved ankle-length gown with a headscarf or veil fully covering her hair and neck; men in long-sleeved tunics, robes and sashes with long trousers, turbans or caps, never shirtless), a clear respectful distance between men and women who are not married, culturally respectful and Islamic in spirit, no violence shown, no blood, no wounds, no injuries, no corpses, no person lying on the ground, no swords, no daggers, no weapons, no idols, no statues of gods, no religious symbols of other faiths, no alcohol, no wine, no smoking, no text, no letters, no numbers, no writing, no Arabic script, no logos, no watermark, classic hand-drawn 2D animated feature film style.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.153,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 50.0,
+    "y_pct": 40.0,
+    "face_detected": false
+   }
+  },
+  {
+   "id": "beat_019",
+   "startMs": 471313,
+   "endMs": 480633,
+   "new_image_reason": "action change: the wife has become a mule",
+   "characters": [],
+   "location": "a dim richly furnished room of a town house at midnight lit by one small brass oil lamp: violet silk curtains, a Persian rug, a tall clay water jar in the corner, an arched window with its curtain blowing outward into the night",
+   "location_key": "room_night",
+   "mood": "midnight, a single small amber oil-lamp glow against deep violet shadows, tense and eerie",
+   "visual": "a plain grey mule standing in the dim room among swirling golden-and-violet sparkles that fade away, its ears back, a dark-violet scarf slipping off its neck onto the rug; amber lamplight",
+   "camera": "medium wide shot, eye level, the rug as a calm lower third",
+   "image": "images/beat_019.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": "other",
+   "safe_substitution": "transformation shown only as the finished animal amid fading sparkles",
+   "ambience": "stone_house_night",
+   "shots": [
+    {
+     "id": "shot_054",
+     "startMs": 471313,
+     "endMs": 480633,
+     "narration_dhivehi": "ނަމަވެސް އޭނާގެ އަޑު ބަދަލުވެ، ހަށިގަނޑު ބޮޑުވެ، ކަށިތައް އެތުރި، ކުޑަ ހިނދުކޮޅެއްގެ ތެރޭގައި އޭނާ ބަޣަލަކަށް ބަދަލުވެއްޖެއެވެ!",
+     "narration_english": "But her voice changed, her body grew bigger, her bones swelled, and in a short moment she had turned into a mule!",
+     "crop": "full",
+     "motion": "static drift",
+     "sfx": [
+      {
+       "name": "magic_shimmer",
+       "atMs": 479233,
+       "gainDb": -18,
+       "word": "ބަދަލުވެއްޖެއެވެ!"
+      }
+     ],
+     "hum": true,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Classic hand-drawn 2D animated fairy-tale feature film look, like the golden-age American animated princess musicals of the late 1980s and 1990s: smooth clean ink outlines, soft cel shading with gentle gradient highlights, graceful elegant characters with large expressive almond-shaped eyes, long lashes, small noses, expressive arched eyebrows and warm brown skin, flowing silk fabrics that drape and sway, richly detailed painterly gouache-style backgrounds, magical glowing light with soft sparkles and glints, a warm jewel-tone palette of sapphire blue, gold, ruby red, emerald and turquoise; set in a medieval Arabian Nights kingdom of the old Persian and Arabian lands (white and sand-coloured palaces with onion domes and slender towers, arched windows with carved lattice screens, silk curtains, brass lanterns, Persian carpets, cushioned divans, fountains and courtyard gardens with date palms, busy bazaars, desert dunes, caravans, the sea with old wooden sailing ships), emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (carpet, marble floor, sand, water, soft shadow) for captions and a logo; daytime scenes glow with golden sunlight and turquoise skies, evenings are rose and amber, night scenes are deep midnight blue with a big moon and warm amber lantern light, and tales-within-the-tale or memories have a soft dreamy storybook glow.\nScene: a plain grey mule standing in the dim room among swirling golden-and-violet sparkles that fade away, its ears back, a dark-violet scarf slipping off its neck onto the rug; amber lamplight. Location: a dim richly furnished room of a town house at midnight lit by one small brass oil lamp: violet silk curtains, a Persian rug, a tall clay water jar in the corner, an arched window with its curtain blowing outward into the night. Camera: medium wide shot, eye level, the rug as a calm lower third.\nMood/lighting: midnight, a single small amber oil-lamp glow against deep violet shadows, tense and eerie.\nModest medieval Arabian Nights clothing (every woman and girl in a loose long-sleeved ankle-length gown with a headscarf or veil fully covering her hair and neck; men in long-sleeved tunics, robes and sashes with long trousers, turbans or caps, never shirtless), a clear respectful distance between men and women who are not married, culturally respectful and Islamic in spirit, no violence shown, no blood, no wounds, no injuries, no corpses, no person lying on the ground, no swords, no daggers, no weapons, no idols, no statues of gods, no religious symbols of other faiths, no alcohol, no wine, no smoking, no text, no letters, no numbers, no writing, no Arabic script, no logos, no watermark, classic hand-drawn 2D animated feature film style.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.138,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 50.0,
+    "y_pct": 40.0,
+    "face_detected": false
+   }
+  },
+  {
+   "id": "beat_020",
+   "startMs": 480633,
+   "endMs": 497884,
+   "new_image_reason": "story level change back to the tale: the old man presents the mule to the jinni",
+   "characters": [
+    "old_man_mule",
+    "merchant_jinni"
+   ],
+   "location": "a wide open sea of golden sand dunes beside a lone leafy tree and a small spring of clear water, distant blue mountains on the horizon, wind-rippled sand",
+   "location_key": "desert",
+   "mood": "bright golden afternoon sunlight, turquoise sky, long shadows on the dunes, wonder and suspense",
+   "visual": "the thin old man in his maroon robe and blue cap standing beside the grey mule in the golden sand, one open hand presenting the mule, his other hand raised in a questioning gesture, a sly confident smile; the towering smoky jinni in his dark-red robe leans down over them, empty-handed, eyebrows raised in fascination",
+   "camera": "low angle medium wide shot, the jinni in the upper frame, the sand as a calm lower third",
+   "image": "images/beat_020.png",
+   "reuse_of": null,
+   "transition_in": "dissolve",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "desert_day",
+   "shots": [
+    {
+     "id": "shot_055",
+     "startMs": 480633,
+     "endMs": 487624,
+     "narration_dhivehi": "އޭ ބާރުގަދަ ޖިންނިއެވެ! މިތާ އަހަރެންގެ ކައިރީގައި މި އޮތީ ހަމަ އެ ބަޣަލެވެ. މިއީ އަހަރެންގެ ނުބައި އަނބިމީހާއެވެ.",
+     "narration_english": "O mighty jinni! This standing here beside me is that very mule. This is my wicked wife.",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_056",
+     "startMs": 487624,
+     "endMs": 497884,
+     "narration_dhivehi": "މިއީ އަހަރެންނާއި މީނާއާ ދެމެދު ހިނގާފައިވާ ވާހަކައެވެ. މިއީ ކުރީގެ ދެ މުސްކުޅިންގެ ވާހަކައަށްވުރެވެސް މާ ޢަޖައިބުކުރުވަނިވި ވާހަކައެއް ނޫންތޯއެވެ؟' \"އެ ބިޔަ،",
+     "narration_english": "This is the story of what happened between her and me. Is it not far more wondrous than the two earlier old men's stories?' The huge,",
+     "crop": "tight",
+     "motion": "pan left",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      20.3,
+      4.8,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is the Third Old Man; reference image 2 is the Jinni), create a new scene: Classic hand-drawn 2D animated fairy-tale feature film look, like the golden-age American animated princess musicals of the late 1980s and 1990s: smooth clean ink outlines, soft cel shading with gentle gradient highlights, graceful elegant characters with large expressive almond-shaped eyes, long lashes, small noses, expressive arched eyebrows and warm brown skin, flowing silk fabrics that drape and sway, richly detailed painterly gouache-style backgrounds, magical glowing light with soft sparkles and glints, a warm jewel-tone palette of sapphire blue, gold, ruby red, emerald and turquoise; set in a medieval Arabian Nights kingdom of the old Persian and Arabian lands (white and sand-coloured palaces with onion domes and slender towers, arched windows with carved lattice screens, silk curtains, brass lanterns, Persian carpets, cushioned divans, fountains and courtyard gardens with date palms, busy bazaars, desert dunes, caravans, the sea with old wooden sailing ships), emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (carpet, marble floor, sand, water, soft shadow) for captions and a logo; daytime scenes glow with golden sunlight and turquoise skies, evenings are rose and amber, night scenes are deep midnight blue with a big moon and warm amber lantern light, and tales-within-the-tale or memories have a soft dreamy storybook glow.\nScene: the thin old man in his maroon robe and blue cap standing beside the grey mule in the golden sand, one open hand presenting the mule, his other hand raised in a questioning gesture, a sly confident smile; the towering smoky jinni in his dark-red robe leans down over them, empty-handed, eyebrows raised in fascination. Location: a wide open sea of golden sand dunes beside a lone leafy tree and a small spring of clear water, distant blue mountains on the horizon, wind-rippled sand. Camera: low angle medium wide shot, the jinni in the upper frame, the sand as a calm lower third.\nCharacters: the Third Old Man: a thin wiry old man of about 60 with warm olive-brown skin, a long narrow face, a grey pointed beard and sharp lively eyes; wears a small dark-blue cap wrapped with a grey cloth and a long maroon robe with a grey sash. the giant jinni: a towering fearsome jinni whose lower body is a swirling column of charcoal-grey smoke, with a massive upper body of dark ash-grey skin fully covered by a long-sleeved smoky dark-red robe, a dark-red turban, a thick black beard, pointed ears and glowing ember-orange eyes; his hands are empty, no weapon.\nMood/lighting: bright golden afternoon sunlight, turquoise sky, long shadows on the dunes, wonder and suspense.\nModest medieval Arabian Nights clothing (every woman and girl in a loose long-sleeved ankle-length gown with a headscarf or veil fully covering her hair and neck; men in long-sleeved tunics, robes and sashes with long trousers, turbans or caps, never shirtless), a clear respectful distance between men and women who are not married, culturally respectful and Islamic in spirit, no violence shown, no blood, no wounds, no injuries, no corpses, no person lying on the ground, no swords, no daggers, no weapons, no idols, no statues of gods, no religious symbols of other faiths, no alcohol, no wine, no smoking, no text, no letters, no numbers, no writing, no Arabic script, no logos, no watermark, classic hand-drawn 2D animated feature film style.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.522,
+    "halo": true
+   },
+   "focus": {
+    "x_pct": 50.0,
+    "y_pct": 40.0,
+    "face_detected": false
+   }
+  },
+  {
+   "id": "beat_021",
+   "startMs": 497884,
+   "endMs": 540565,
+   "new_image_reason": "action change: the delighted jinni claps and frees the merchant entirely",
+   "characters": [
+    "merchant_jinni",
+    "merchant",
+    "old_man_mule",
+    "old_man_dogs"
+   ],
+   "location": "a wide open sea of golden sand dunes beside a lone leafy tree and a small spring of clear water, distant blue mountains on the horizon, wind-rippled sand",
+   "location_key": "desert",
+   "mood": "bright golden afternoon sunlight, turquoise sky, long shadows on the dunes, wonder and suspense",
+   "visual": "the towering jinni rising high on his smoke column, throwing back his head and clapping his huge empty hands in delight, laughing, his ember eyes bright; golden sand swirling around him; below, the merchant in his white travelling robe on his knees raising both hands in joy and disbelief; the old man with the grey mule and the second old man in brown beside two black dogs sitting calmly on leashes look up smiling",
+   "camera": "dramatic low angle wide shot, the jinni filling the upper frame, the sand as a calm lower third",
+   "image": "images/beat_021.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": "violence",
+   "safe_substitution": "the jinni's sword is never drawn: his hands are empty, clapping",
+   "ambience": "desert_day",
+   "shots": [
+    {
+     "id": "shot_057",
+     "startMs": 497884,
+     "endMs": 507754,
+     "narration_dhivehi": "ބިރުވެރި ޖިންނި އޭގެ ބޮޑު ކަނޑި އެއްލައިލައި، އުފަލުން ގޮސް އަތްޖަހައިލިއެވެ. އޭގެ އަޑު މުޅި ސަހަރާގައި ގުގުމައިލިއެވެ. \"'އާނއެކެވެ! އާނއެކެވެ!' ޖިންނި ގޮވައިލިއެވެ.",
+     "narration_english": "fearsome jinni threw down his big sword and clapped his hands in joy. The sound echoed across the whole desert. 'Yes! Yes!' the jinni cried.",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [
+      {
+       "name": "soft_thud",
+       "atMs": 499854,
+       "gainDb": -20,
+       "word": "އެއްލައިލައި،"
+      },
+      {
+       "name": "thunder",
+       "atMs": 504094,
+       "gainDb": -22,
+       "word": "ގުގުމައިލިއެވެ."
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_058",
+     "startMs": 507754,
+     "endMs": 521555,
+     "narration_dhivehi": "'ތިއީ ހަމަ ގައިމުވެސް ވަރަށް ޢަޖައިބުކުރުވަނިވި، އަދި ޢިބުރަތުން ފުރިގެންވާ ވާހަކައެކެވެ. ކަލޭމެން ތިން މުސްކުޅިން އަހަރެންނަށް ކިޔައިދިން ތިން ވާހަކައަކީވެސް އަހަރެންގެ ޙަޔާތުގައިވެސް އަޑުނާހާ ފަދަ މޮޅު ވާހަކަތަކެކެވެ.",
+     "narration_english": "'That is truly a most wondrous story, full of lessons. The three stories you three old men have told me are wonderful tales such as I have never heard in all my life.",
+     "crop": "tight",
+     "motion": "pan right",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      2.7,
+      29.6,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_059",
+     "startMs": 521555,
+     "endMs": 531355,
+     "narration_dhivehi": "އެހެންކަމުން، ތިންވަނަ މުސްކުޅިޔާގެ ވާހަކައަށްޓަކައި، އަހަރެން މި ވިޔަފާރިވެރިޔާގެ ފުރާނައިގެ ބާކީ އޮތް ތިންބައިކުޅަ އެއްބައިވެސް މަޢާފުކޮށްދީފީމެވެ.",
+     "narration_english": "Therefore, for the third old man's story, I pardon the remaining third of this merchant's life as well.",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_060",
+     "startMs": 531355,
+     "endMs": 540565,
+     "narration_dhivehi": "މީނާ މިހާރު މިނިވަންވެއްޖެއެވެ. މީނާއަށް ބޭނުންތަނަކަށް ދިއުމުގެ ހުއްދަ އަހަރެން ދީފީމެވެ!' \"މިހެން ބުނުމަށްފަހު، އެ ބިޔަ ޖިންނި އަނެއްކާވެސް ބޮޑު،",
+     "narration_english": "He is free now. I give him leave to go wherever he wishes!' Having said this, the huge jinni once again turned into a great,",
+     "crop": "medium",
+     "motion": "pan up",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      0.0,
+      15.3,
+      71.5,
+      84.7
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is the Jinni; reference image 2 is the Merchant; reference image 3 is the Third Old Man; reference image 4 is the Second Old Man), create a new scene: Classic hand-drawn 2D animated fairy-tale feature film look, like the golden-age American animated princess musicals of the late 1980s and 1990s: smooth clean ink outlines, soft cel shading with gentle gradient highlights, graceful elegant characters with large expressive almond-shaped eyes, long lashes, small noses, expressive arched eyebrows and warm brown skin, flowing silk fabrics that drape and sway, richly detailed painterly gouache-style backgrounds, magical glowing light with soft sparkles and glints, a warm jewel-tone palette of sapphire blue, gold, ruby red, emerald and turquoise; set in a medieval Arabian Nights kingdom of the old Persian and Arabian lands (white and sand-coloured palaces with onion domes and slender towers, arched windows with carved lattice screens, silk curtains, brass lanterns, Persian carpets, cushioned divans, fountains and courtyard gardens with date palms, busy bazaars, desert dunes, caravans, the sea with old wooden sailing ships), emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (carpet, marble floor, sand, water, soft shadow) for captions and a logo; daytime scenes glow with golden sunlight and turquoise skies, evenings are rose and amber, night scenes are deep midnight blue with a big moon and warm amber lantern light, and tales-within-the-tale or memories have a soft dreamy storybook glow.\nScene: the towering jinni rising high on his smoke column, throwing back his head and clapping his huge empty hands in delight, laughing, his ember eyes bright; golden sand swirling around him; below, the merchant in his white travelling robe on his knees raising both hands in joy and disbelief; the old man with the grey mule and the second old man in brown beside two black dogs sitting calmly on leashes look up smiling. Location: a wide open sea of golden sand dunes beside a lone leafy tree and a small spring of clear water, distant blue mountains on the horizon, wind-rippled sand. Camera: dramatic low angle wide shot, the jinni filling the upper frame, the sand as a calm lower third.\nCharacters: the giant jinni: a towering fearsome jinni whose lower body is a swirling column of charcoal-grey smoke, with a massive upper body of dark ash-grey skin fully covered by a long-sleeved smoky dark-red robe, a dark-red turban, a thick black beard, pointed ears and glowing ember-orange eyes; his hands are empty, no weapon. the Merchant: a sturdy man of about 45 with warm olive-brown skin, a round honest face, a trimmed black beard with grey streaks and anxious dark eyes; wears a white turban, a long brown-and-cream striped robe over a white tunic, a wide red sash and a dusty travelling cloak. the Third Old Man: a thin wiry old man of about 60 with warm olive-brown skin, a long narrow face, a grey pointed beard and sharp lively eyes; wears a small dark-blue cap wrapped with a grey cloth and a long maroon robe with a grey sash. the Second Old Man: a sturdy old man of about 60 with warm olive-brown skin, a square weathered face, a short grey beard and steady dark eyes; wears a brown turban and a long dark chocolate-brown robe with a cream sash.\nMood/lighting: bright golden afternoon sunlight, turquoise sky, long shadows on the dunes, wonder and suspense.\nModest medieval Arabian Nights clothing (every woman and girl in a loose long-sleeved ankle-length gown with a headscarf or veil fully covering her hair and neck; men in long-sleeved tunics, robes and sashes with long trousers, turbans or caps, never shirtless), a clear respectful distance between men and women who are not married, culturally respectful and Islamic in spirit, no violence shown, no blood, no wounds, no injuries, no corpses, no person lying on the ground, no swords, no daggers, no weapons, no idols, no statues of gods, no religious symbols of other faiths, no alcohol, no wine, no smoking, no text, no letters, no numbers, no writing, no Arabic script, no logos, no watermark, classic hand-drawn 2D animated feature film style.",
+   "logo": {
+    "color": "black",
+    "bg_luminance": 0.616,
+    "halo": true
+   },
+   "focus": {
+    "x_pct": 32.4,
+    "y_pct": 85.9,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_022",
+   "startMs": 540565,
+   "endMs": 550766,
+   "new_image_reason": "action change: the jinni turns to black smoke and sinks into the earth",
+   "characters": [
+    "merchant"
+   ],
+   "location": "a wide open sea of golden sand dunes beside a lone leafy tree and a small spring of clear water, distant blue mountains on the horizon, wind-rippled sand",
+   "location_key": "desert",
+   "mood": "bright golden afternoon sunlight, turquoise sky, long shadows on the dunes, wonder and suspense",
+   "visual": "a huge column of swirling charcoal-black smoke spiralling down into a glowing crack in the golden sand and vanishing, sand grains flying; the merchant in his white travelling robe kneels in the foreground with his hands on his chest, weeping with relief, looking at the place where the jinni disappeared",
+   "camera": "wide shot, eye level, the smoke spiral in the upper half, smooth sand as a calm lower third",
+   "image": "images/beat_022.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "desert_day",
+   "shots": [
+    {
+     "id": "shot_061",
+     "startMs": 540565,
+     "endMs": 550766,
+     "narration_dhivehi": "ކަޅު ދުންގަނޑަކަށް ބަދަލުވެ، ބިންގަނޑު ފަޅާފައި އަޑިއަށް ވަދެ ގެއްލިއްޖެއެވެ. \"ވިޔަފާރިވެރިޔާއަށް ހީވީ އޭނާ އަލުން އުފަންވި ހެންނެވެ. އޭނާ އުފަލުން ގޮސް ރޮމުން،",
+     "narration_english": "black cloud of smoke, split the ground, sank down into it and vanished. The merchant felt as if he had been born again. Weeping with joy,",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [
+      {
+       "name": "smoke_whoosh",
+       "atMs": 541255,
+       "gainDb": -16,
+       "word": "ދުންގަނޑަކަށް"
+      },
+      {
+       "name": "stone_scrape",
+       "atMs": 543375,
+       "gainDb": -18,
+       "word": "ފަޅާފައި"
+      },
+      {
+       "name": "sob_breath",
+       "atMs": 550196,
+       "gainDb": -24,
+       "word": "ރޮމުން،"
+      }
+     ],
+     "hum": true,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is the Merchant), create a new scene: Classic hand-drawn 2D animated fairy-tale feature film look, like the golden-age American animated princess musicals of the late 1980s and 1990s: smooth clean ink outlines, soft cel shading with gentle gradient highlights, graceful elegant characters with large expressive almond-shaped eyes, long lashes, small noses, expressive arched eyebrows and warm brown skin, flowing silk fabrics that drape and sway, richly detailed painterly gouache-style backgrounds, magical glowing light with soft sparkles and glints, a warm jewel-tone palette of sapphire blue, gold, ruby red, emerald and turquoise; set in a medieval Arabian Nights kingdom of the old Persian and Arabian lands (white and sand-coloured palaces with onion domes and slender towers, arched windows with carved lattice screens, silk curtains, brass lanterns, Persian carpets, cushioned divans, fountains and courtyard gardens with date palms, busy bazaars, desert dunes, caravans, the sea with old wooden sailing ships), emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (carpet, marble floor, sand, water, soft shadow) for captions and a logo; daytime scenes glow with golden sunlight and turquoise skies, evenings are rose and amber, night scenes are deep midnight blue with a big moon and warm amber lantern light, and tales-within-the-tale or memories have a soft dreamy storybook glow.\nScene: a huge column of swirling charcoal-black smoke spiralling down into a glowing crack in the golden sand and vanishing, sand grains flying; the merchant in his white travelling robe kneels in the foreground with his hands on his chest, weeping with relief, looking at the place where the jinni disappeared. Location: a wide open sea of golden sand dunes beside a lone leafy tree and a small spring of clear water, distant blue mountains on the horizon, wind-rippled sand. Camera: wide shot, eye level, the smoke spiral in the upper half, smooth sand as a calm lower third.\nCharacters: the Merchant: a sturdy man of about 45 with warm olive-brown skin, a round honest face, a trimmed black beard with grey streaks and anxious dark eyes; wears a white turban, a long brown-and-cream striped robe over a white tunic, a wide red sash and a dusty travelling cloak.\nMood/lighting: bright golden afternoon sunlight, turquoise sky, long shadows on the dunes, wonder and suspense.\nModest medieval Arabian Nights clothing (every woman and girl in a loose long-sleeved ankle-length gown with a headscarf or veil fully covering her hair and neck; men in long-sleeved tunics, robes and sashes with long trousers, turbans or caps, never shirtless), a clear respectful distance between men and women who are not married, culturally respectful and Islamic in spirit, no violence shown, no blood, no wounds, no injuries, no corpses, no person lying on the ground, no swords, no daggers, no weapons, no idols, no statues of gods, no religious symbols of other faiths, no alcohol, no wine, no smoking, no text, no letters, no numbers, no writing, no Arabic script, no logos, no watermark, classic hand-drawn 2D animated feature film style.",
+   "logo": {
+    "color": "black",
+    "bg_luminance": 0.63,
+    "halo": true
+   },
+   "focus": {
+    "x_pct": 50.0,
+    "y_pct": 40.0,
+    "face_detected": false
+   }
+  },
+  {
+   "id": "beat_023",
+   "startMs": 550766,
+   "endMs": 574396,
+   "new_image_reason": "action change: the merchant thanks the three old men, who leave with their animals",
+   "characters": [
+    "merchant",
+    "old_man_gazelle",
+    "old_man_dogs",
+    "old_man_mule"
+   ],
+   "location": "a wide open sea of golden sand dunes beside a lone leafy tree and a small spring of clear water, distant blue mountains on the horizon, wind-rippled sand",
+   "location_key": "desert",
+   "mood": "bright golden afternoon sunlight, turquoise sky, long shadows on the dunes, wonder and suspense",
+   "visual": "the merchant in his white travelling robe joyfully clasping the hands of the three old men by the lone tree, tears of joy on his face; the white-bearded first old man with his staff and the gazelle on a golden cord, the second old man in brown with two black dogs sitting calmly on leashes at a little distance, the thin third old man in maroon holding the grey mule's halter; a sunset glow over the dunes behind",
+   "camera": "wide shot, eye level, the figures in the middle band, the sand as a calm lower third",
+   "image": "images/beat_023.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "desert_day",
+   "shots": [
+    {
+     "id": "shot_062",
+     "startMs": 550766,
+     "endMs": 561016,
+     "narration_dhivehi": "އެ ތިން މުސްކުޅިންގެ ގައިގައި ބައްދައި، އެމީހުންނަށް ފަށްފަށުން ޝުކުރު އަދާކުރިއެވެ. 'ކަލޭމެންނަކީ މަގޭ ފުރާނަ ސަލާމަތްކޮށްދިން މަލާއިކަތުންނެވެ!' އޭނާ ބުންޏެވެ.",
+     "narration_english": "he embraced the three old men and thanked them again and again. 'You are the angels who saved my life!' he said.",
+     "crop": "full",
+     "motion": "pan down",
+     "sfx": [],
+     "hum": true,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_063",
+     "startMs": 561016,
+     "endMs": 574396,
+     "narration_dhivehi": "އެއަށްފަހު، އެ ތިން މުސްކުޅިން އެމީހުންގެ ޖަނަވާރުތައް ގޮވައިގެން އެމީހުންގެ މަގުން ހިނގައްޖެއެވެ. އަދި ވިޔަފާރިވެރިޔާ އޭނާގެ ލޯބިވާ އަނބިދަރިންގެ ކައިރިއަށް، އޭނާގެ ރަށަށް އުފާވެރިކަމާއެކު އެނބުރި ހިނގައްޖެއެވެ.",
+     "narration_english": "After that, the three old men went on their way with their animals. And the merchant returned joyfully to his island, to his beloved wife and children.",
+     "crop": "tight",
+     "motion": "static drift",
+     "sfx": [
+      {
+       "name": "footsteps_sand",
+       "atMs": 566276,
+       "gainDb": -24,
+       "word": "ހިނގައްޖެއެވެ."
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      20.3,
+      4.8,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is the Merchant; reference image 2 is the First Old Man; reference image 3 is the Second Old Man; reference image 4 is the Third Old Man), create a new scene: Classic hand-drawn 2D animated fairy-tale feature film look, like the golden-age American animated princess musicals of the late 1980s and 1990s: smooth clean ink outlines, soft cel shading with gentle gradient highlights, graceful elegant characters with large expressive almond-shaped eyes, long lashes, small noses, expressive arched eyebrows and warm brown skin, flowing silk fabrics that drape and sway, richly detailed painterly gouache-style backgrounds, magical glowing light with soft sparkles and glints, a warm jewel-tone palette of sapphire blue, gold, ruby red, emerald and turquoise; set in a medieval Arabian Nights kingdom of the old Persian and Arabian lands (white and sand-coloured palaces with onion domes and slender towers, arched windows with carved lattice screens, silk curtains, brass lanterns, Persian carpets, cushioned divans, fountains and courtyard gardens with date palms, busy bazaars, desert dunes, caravans, the sea with old wooden sailing ships), emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (carpet, marble floor, sand, water, soft shadow) for captions and a logo; daytime scenes glow with golden sunlight and turquoise skies, evenings are rose and amber, night scenes are deep midnight blue with a big moon and warm amber lantern light, and tales-within-the-tale or memories have a soft dreamy storybook glow.\nScene: the merchant in his white travelling robe joyfully clasping the hands of the three old men by the lone tree, tears of joy on his face; the white-bearded first old man with his staff and the gazelle on a golden cord, the second old man in brown with two black dogs sitting calmly on leashes at a little distance, the thin third old man in maroon holding the grey mule's halter; a sunset glow over the dunes behind. Location: a wide open sea of golden sand dunes beside a lone leafy tree and a small spring of clear water, distant blue mountains on the horizon, wind-rippled sand. Camera: wide shot, eye level, the figures in the middle band, the sand as a calm lower third.\nCharacters: the Merchant: a sturdy man of about 45 with warm olive-brown skin, a round honest face, a trimmed black beard with grey streaks and anxious dark eyes; wears a white turban, a long brown-and-cream striped robe over a white tunic, a wide red sash and a dusty travelling cloak. the First Old Man: a gentle old man of about 65 with warm olive-brown skin, a lined kind face, a long snow-white beard and bushy white eyebrows; wears a white turban, a long pale sage-green robe and leans on a wooden walking staff. the Second Old Man: a sturdy old man of about 60 with warm olive-brown skin, a square weathered face, a short grey beard and steady dark eyes; wears a brown turban and a long dark chocolate-brown robe with a cream sash. the Third Old Man: a thin wiry old man of about 60 with warm olive-brown skin, a long narrow face, a grey pointed beard and sharp lively eyes; wears a small dark-blue cap wrapped with a grey cloth and a long maroon robe with a grey sash.\nMood/lighting: bright golden afternoon sunlight, turquoise sky, long shadows on the dunes, wonder and suspense.\nModest medieval Arabian Nights clothing (every woman and girl in a loose long-sleeved ankle-length gown with a headscarf or veil fully covering her hair and neck; men in long-sleeved tunics, robes and sashes with long trousers, turbans or caps, never shirtless), a clear respectful distance between men and women who are not married, culturally respectful and Islamic in spirit, no violence shown, no blood, no wounds, no injuries, no corpses, no person lying on the ground, no swords, no daggers, no weapons, no idols, no statues of gods, no religious symbols of other faiths, no alcohol, no wine, no smoking, no text, no letters, no numbers, no writing, no Arabic script, no logos, no watermark, classic hand-drawn 2D animated feature film style.",
+   "logo": {
+    "color": "black",
+    "bg_luminance": 0.627,
+    "halo": true
+   },
+   "focus": {
+    "x_pct": 50.0,
+    "y_pct": 40.0,
+    "face_detected": false
+   }
+  },
+  {
+   "id": "beat_024",
+   "startMs": 574396,
+   "endMs": 602427,
+   "new_image_reason": "story level change back to the frame: the tale ends, the king sighs with relief",
+   "characters": [
+    "shahryar",
+    "shahrazad",
+    "dunyazad"
+   ],
+   "location": "King Shahryar's palace bedchamber at night: a large Persian carpet in deep red and blue, a low cushioned divan with silk bolsters, brass lanterns hanging on chains, an arched window with a carved lattice screen opening on a moonlit city of white onion domes and slender towers under a huge moon",
+   "location_key": "chamber_night",
+   "mood": "deep midnight-blue night with warm amber lantern light and a big silver moon through the lattice window, intimate and suspenseful",
+   "visual": "King Shahryar alone on the divan on the right, leaning back against the bolsters with a deep sigh of relief, eyes half-closed and a faint satisfied smile, one empty hand resting on his knee; on the left, down on the carpet well apart from the divan (more than an arm's length away), Shahrazad kneels on a floor cushion with a modest confident smile, hands folded in her lap, and little Dunyazad sits on the carpet beside her smiling happily; nobody else sits on the divan; lanterns glowing, the moonlit domes in the lattice window between them",
+   "camera": "medium wide shot, eye level, the carpet as a calm lower third",
+   "image": "images/beat_024.png",
+   "reuse_of": null,
+   "transition_in": "dissolve",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "palace_night",
+   "shots": [
+    {
+     "id": "shot_064",
+     "startMs": 574396,
+     "endMs": 583546,
+     "narration_dhivehi": "ވިޔަފާރިވެރިޔާއާއި ޖިންނިގެ ވާހަކަ މިހިސާބުން ނިމުނީއެވެ.\" ޝަހްރަޒާދު ވާހަކަ ނިންމައިލުމާއެކު، ޝަހްރިޔާރު ރަސްގެފާނު ފުން ނޭވާއެއް ދޫކޮށްލެއްވިއެވެ.",
+     "narration_english": "Here ends the tale of the merchant and the jinni.\" As Shahrazad finished the story, King Shahryar let out a deep breath.",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [
+      {
+       "name": "sigh",
+       "atMs": 581616,
+       "gainDb": -18,
+       "word": "ނޭވާއެއް"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_065",
+     "startMs": 583546,
+     "endMs": 593687,
+     "narration_dhivehi": "އެމަނިކުފާނުގެ ހިތްޕުޅަށް ބޮޑު ހަމަޖެހުމެއް ލިބިގެން ދިޔައެވެ. ނަމަވެސް އެމަނިކުފާނު ވިދާޅުވިއެވެ. \"ތިއީ ހަމަ ޙަޤީޤަތުގައިވެސް ވަރަށް ރީތި، ޢަޖައިބުކުރުވަނިވި ވާހަކައެކެވެ.\"",
+     "narration_english": "A great calm came over his heart. But he said: \"That is truly a very beautiful, wondrous story.\"",
+     "crop": "tight",
+     "motion": "pan left",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      20.3,
+      4.8,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_066",
+     "startMs": 593687,
+     "endMs": 602427,
+     "narration_dhivehi": "ޝަހްރަޒާދު ވަރަށް މަޑުމައިތިރިކަމާއެކު، ނަމަވެސް ޔަޤީންކަމާއެކު ބުންޏެވެ. \"އޭ މާތް ރަސްގެފާނެވެ. މި ވާހަކަ ނިމުނީއެވެ. ނަމަވެސް މިއީ،",
+     "narration_english": "Shahrazad said, very gently but with confidence: \"O noble king. This story is finished. But it is",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is King Shahryar; reference image 2 is Shahrazad; reference image 3 is Dunyazad), create a new scene: Classic hand-drawn 2D animated fairy-tale feature film look, like the golden-age American animated princess musicals of the late 1980s and 1990s: smooth clean ink outlines, soft cel shading with gentle gradient highlights, graceful elegant characters with large expressive almond-shaped eyes, long lashes, small noses, expressive arched eyebrows and warm brown skin, flowing silk fabrics that drape and sway, richly detailed painterly gouache-style backgrounds, magical glowing light with soft sparkles and glints, a warm jewel-tone palette of sapphire blue, gold, ruby red, emerald and turquoise; set in a medieval Arabian Nights kingdom of the old Persian and Arabian lands (white and sand-coloured palaces with onion domes and slender towers, arched windows with carved lattice screens, silk curtains, brass lanterns, Persian carpets, cushioned divans, fountains and courtyard gardens with date palms, busy bazaars, desert dunes, caravans, the sea with old wooden sailing ships), emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (carpet, marble floor, sand, water, soft shadow) for captions and a logo; daytime scenes glow with golden sunlight and turquoise skies, evenings are rose and amber, night scenes are deep midnight blue with a big moon and warm amber lantern light, and tales-within-the-tale or memories have a soft dreamy storybook glow.\nScene: King Shahryar alone on the divan on the right, leaning back against the bolsters with a deep sigh of relief, eyes half-closed and a faint satisfied smile, one empty hand resting on his knee; on the left, down on the carpet well apart from the divan (more than an arm's length away), Shahrazad kneels on a floor cushion with a modest confident smile, hands folded in her lap, and little Dunyazad sits on the carpet beside her smiling happily; nobody else sits on the divan; lanterns glowing, the moonlit domes in the lattice window between them. Location: King Shahryar's palace bedchamber at night: a large Persian carpet in deep red and blue, a low cushioned divan with silk bolsters, brass lanterns hanging on chains, an arched window with a carved lattice screen opening on a moonlit city of white onion domes and slender towers under a huge moon. Camera: medium wide shot, eye level, the carpet as a calm lower third.\nCharacters: King Shahryar: a tall broad-shouldered king in his late 30s with warm olive-brown skin, a strong square jaw, a short neat black beard, thick dark eyebrows and stern brooding dark eyes; wears a large crimson-and-gold turban with a white plume and a ruby jewel, a long dark bronze-brown brocade coat with gold patterns over a cream tunic, a gold sash, loose trousers and pointed brown boots; no weapon. Shahrazad: a graceful young woman of about 20 with warm olive-brown skin, a soft oval face, very large expressive dark almond eyes with long lashes, elegant arched eyebrows and a calm clever smile; wears a flowing long-sleeved ankle-length gown of rich saffron-gold silk with deep ruby-red embroidered borders and a gold sash, and a soft ivory silk headscarf with a fine gold trim wrapped snugly and fully covering her hair and neck, a small teardrop ruby on a thin gold band over the scarf at her forehead. Dunyazad: a small slim girl of about 12 with warm olive-brown skin, a round youthful face, big bright curious dark eyes and a sweet eager smile; wears a loose long-sleeved ankle-length gown of soft lavender silk with silver embroidery and a pale rose-pink headscarf fully covering her hair and neck.\nMood/lighting: deep midnight-blue night with warm amber lantern light and a big silver moon through the lattice window, intimate and suspenseful.\nModest medieval Arabian Nights clothing (every woman and girl in a loose long-sleeved ankle-length gown with a headscarf or veil fully covering her hair and neck; men in long-sleeved tunics, robes and sashes with long trousers, turbans or caps, never shirtless), a clear respectful distance between men and women who are not married, culturally respectful and Islamic in spirit, no violence shown, no blood, no wounds, no injuries, no corpses, no person lying on the ground, no swords, no daggers, no weapons, no idols, no statues of gods, no religious symbols of other faiths, no alcohol, no wine, no smoking, no text, no letters, no numbers, no writing, no Arabic script, no logos, no watermark, classic hand-drawn 2D animated feature film style.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.269,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 50.0,
+    "y_pct": 40.0,
+    "face_detected": false
+   }
+  },
+  {
+   "id": "beat_025",
+   "startMs": 602427,
+   "endMs": 631708,
+   "new_image_reason": "Shahrazad's teaser of the next tale: a vision of the poor fisherman's net with a golden jar",
+   "characters": [
+    "fisherman"
+   ],
+   "location": "a lonely beach at dawn beside a calm sea, a poor fisherman's small wooden boat drawn up on the sand, a cast net in the shallow water",
+   "location_key": "sea_vision",
+   "mood": "misty dawn with a dreamy soft golden glow, mysterious and enticing",
+   "visual": "dreamy soft golden glow like a vision; the thin old fisherman in his patched blue tunic standing knee-deep in the calm dawn sea, hauling in his cast net with an astonished face; tangled in the net a large gleaming golden-brass jar with a sealed lid glows mysteriously, a faint thread of dark smoke curling from its lid",
+   "camera": "medium wide shot, eye level, the still water as a calm lower third",
+   "image": "images/beat_025.png",
+   "reuse_of": null,
+   "transition_in": "dissolve",
+   "sensitive": "other",
+   "safe_substitution": "the terrifying thing from the jar is not shown — only a faint thread of smoke; the seal is a plain lid with no symbols",
+   "ambience": "dream_glow",
+   "shots": [
+    {
+     "id": "shot_067",
+     "startMs": 602427,
+     "endMs": 609907,
+     "narration_dhivehi": "ދެން އަޅުގަނޑު ކިޔައިދޭން އުޅޭ 'މަސްވެރިޔާއާއި ޖިންނި' ގެ ވާހަކައާ އަޅައިބަލާއިރު އެއްވެސް އެއްޗެއް ނޫނެވެ.",
+     "narration_english": "nothing at all compared with the story I mean to tell next, the tale of 'The Fisherman and the Jinni'.",
+     "crop": "full",
+     "motion": "pan right",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_068",
+     "startMs": 609907,
+     "endMs": 617767,
+     "narration_dhivehi": "އެ ވާހަކައަކީ މިއަށްވުރެ އެތައް ގުނައެއް މާ ޢަޖައިބުކުރުވަނިވި، މާ ބިރުވެރި، އަދި މާ ޝައުޤުވެރި ވާހަކައެކެވެ. ފަޤީރު،",
+     "narration_english": "That story is many times more wondrous, more frightening and more thrilling than this one. If you were to hear the story of the poor",
+     "crop": "tight",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      20.3,
+      4.8,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_069",
+     "startMs": 617767,
+     "endMs": 624488,
+     "narration_dhivehi": "މުސްކުޅި މަސްވެރިޔަކު އޭނާގެ ދާ ކަނޑަށް އެއްލި ދުވަހު، އޭނާގެ ދަލުގައި ޖެހުނު ބޮޑު، ރަން ފުޅިއާއި،",
+     "narration_english": "old fisherman who, on the day he cast his net into the sea, found a big golden flask caught in it,",
+     "crop": "full",
+     "motion": "pan up",
+     "sfx": [
+      {
+       "name": "net_cast",
+       "atMs": 620438,
+       "gainDb": -20,
+       "word": "އެއްލި"
+      },
+      {
+       "name": "splash",
+       "atMs": 621818,
+       "gainDb": -22,
+       "word": "ދަލުގައި"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_070",
+     "startMs": 624488,
+     "endMs": 631708,
+     "narration_dhivehi": "އެ ފުޅީގެ ތެރެއިން ނުކުތް ބިރުވެރި އެއްޗެއްގެ ވާހަކަ ރަސްގެފާނު އައްސަވައިފިނަމަ، ޙައިރާންވެވަޑައިގަންނަވާނެއެވެ.\"",
+     "narration_english": "and of the fearsome thing that came out of that flask, Your Majesty would be astonished.\"",
+     "crop": "medium",
+     "motion": "slow pull-out",
+     "sfx": [
+      {
+       "name": "smoke_whoosh",
+       "atMs": 625778,
+       "gainDb": -22,
+       "word": "ނުކުތް"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      14.2,
+      0.0,
+      71.5,
+      84.7
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is the Fisherman), create a new scene: Classic hand-drawn 2D animated fairy-tale feature film look, like the golden-age American animated princess musicals of the late 1980s and 1990s: smooth clean ink outlines, soft cel shading with gentle gradient highlights, graceful elegant characters with large expressive almond-shaped eyes, long lashes, small noses, expressive arched eyebrows and warm brown skin, flowing silk fabrics that drape and sway, richly detailed painterly gouache-style backgrounds, magical glowing light with soft sparkles and glints, a warm jewel-tone palette of sapphire blue, gold, ruby red, emerald and turquoise; set in a medieval Arabian Nights kingdom of the old Persian and Arabian lands (white and sand-coloured palaces with onion domes and slender towers, arched windows with carved lattice screens, silk curtains, brass lanterns, Persian carpets, cushioned divans, fountains and courtyard gardens with date palms, busy bazaars, desert dunes, caravans, the sea with old wooden sailing ships), emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (carpet, marble floor, sand, water, soft shadow) for captions and a logo; daytime scenes glow with golden sunlight and turquoise skies, evenings are rose and amber, night scenes are deep midnight blue with a big moon and warm amber lantern light, and tales-within-the-tale or memories have a soft dreamy storybook glow.\nScene: dreamy soft golden glow like a vision; the thin old fisherman in his patched blue tunic standing knee-deep in the calm dawn sea, hauling in his cast net with an astonished face; tangled in the net a large gleaming golden-brass jar with a sealed lid glows mysteriously, a faint thread of dark smoke curling from its lid. Location: a lonely beach at dawn beside a calm sea, a poor fisherman's small wooden boat drawn up on the sand, a cast net in the shallow water. Camera: medium wide shot, eye level, the still water as a calm lower third.\nCharacters: the Fisherman: a thin wiry old fisherman of about 60 with sun-darkened olive-brown skin, a lean lined face, a scruffy grey beard and bright clever eyes; wears a white skullcap, a faded patched blue long-sleeved tunic, a rough beige cloth wrapped as a long skirt to his shins with a rope belt, and carries a folded cast net over his shoulder; bare feet.\nMood/lighting: misty dawn with a dreamy soft golden glow, mysterious and enticing.\nModest medieval Arabian Nights clothing (every woman and girl in a loose long-sleeved ankle-length gown with a headscarf or veil fully covering her hair and neck; men in long-sleeved tunics, robes and sashes with long trousers, turbans or caps, never shirtless), a clear respectful distance between men and women who are not married, culturally respectful and Islamic in spirit, no violence shown, no blood, no wounds, no injuries, no corpses, no person lying on the ground, no swords, no daggers, no weapons, no idols, no statues of gods, no religious symbols of other faiths, no alcohol, no wine, no smoking, no text, no letters, no numbers, no writing, no Arabic script, no logos, no watermark, classic hand-drawn 2D animated feature film style.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.518,
+    "halo": true
+   },
+   "focus": {
+    "x_pct": 50.0,
+    "y_pct": 40.0,
+    "face_detected": false
+   }
+  },
+  {
+   "id": "beat_026",
+   "startMs": 631708,
+   "endMs": 650048,
+   "new_image_reason": "return to the frame: the king's eyes widen with new curiosity",
+   "characters": [],
+   "location": "King Shahryar's palace bedchamber at night: a large Persian carpet in deep red and blue, a low cushioned divan with silk bolsters, brass lanterns hanging on chains, an arched window with a carved lattice screen opening on a moonlit city of white onion domes and slender towers under a huge moon",
+   "location_key": "chamber_night",
+   "mood": "deep midnight-blue night with warm amber lantern light and a big silver moon through the lattice window, intimate and suspenseful",
+   "visual": "(reuse of beat_001)",
+   "camera": "medium shot, eye level",
+   "image": "images/beat_001.png",
+   "reuse_of": "beat_001",
+   "transition_in": "dissolve",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "palace_night",
+   "shots": [
+    {
+     "id": "shot_071",
+     "startMs": 631708,
+     "endMs": 640058,
+     "narration_dhivehi": "ޝަހްރިޔާރު ރަސްގެފާނުގެ ދެލޯފުޅު ބޮޑުވިއެވެ. އެމަނިކުފާނުގެ ހިތްޕުޅުގައި އާ ޝައުޤުވެރިކަމެއްގެ ބޮޑު އަލިފާންގަނޑެއް ރޯވިއެވެ.",
+     "narration_english": "King Shahryar's eyes grew wide. A great fire of new curiosity was kindled in his heart.",
+     "crop": "tight",
+     "motion": "pan down",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      14.8,
+      9.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_072",
+     "startMs": 640058,
+     "endMs": 650048,
+     "narration_dhivehi": "އެ ފަޤީރު މަސްވެރިޔާއަށް ދިމާވި ގޮތެއް އެނގިވަޑައިގަންނަވަން އެމަނިކުފާނު އިންތިހާއަށް ބޭނުންފުޅުވިއެވެ. ބަރާބަރު އެ ވަގުތު، ފަތިހުގެ ރީތި ރަން އަލިކަން އުދަރެހުން ފާޅުވެ،",
+     "narration_english": "He longed intensely to know what had happened to that poor fisherman. At that very moment, the beautiful golden light of dawn appeared in the east,",
+     "crop": "full",
+     "motion": "static drift",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [],
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.208,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 44.5,
+    "y_pct": 44.2,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_027",
+   "startMs": 650048,
+   "endMs": 686660,
+   "new_image_reason": "time change: dawn breaks — Shahrazad falls silent, the king spares her another day and rises for court",
+   "characters": [
+    "shahryar",
+    "shahrazad",
+    "dunyazad"
+   ],
+   "location": "King Shahryar's palace bedchamber at the break of dawn: the Persian carpet, the cushioned divan, brass lanterns burning low, the arched carved-lattice window now glowing with golden dawn light over the city of domes, a distant slender minaret silhouetted against the pale gold sky",
+   "location_key": "chamber_dawn",
+   "mood": "break of dawn, soft rose and golden light pouring through the lattice window, the lanterns burning low, hushed relief",
+   "visual": "golden dawn light pouring through the arched lattice window, a distant slender minaret silhouetted against the pale gold sky; King Shahryar rising from the divan, fully dressed, turning towards the door with a thoughtful look back over his shoulder; Shahrazad sitting quietly on her cushion with lowered eyes and a hidden relieved smile, Dunyazad leaning against her sister's shoulder, the lanterns burning low",
+   "camera": "wide shot, eye level, the window light in the upper frame, the carpet as a calm lower third",
+   "image": "images/beat_027.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "palace_dawn",
+   "shots": [
+    {
+     "id": "shot_073",
+     "startMs": 650048,
+     "endMs": 659189,
+     "narration_dhivehi": "ފަތިސް ނަމާދުގެ ބަންގީގެ އަޑު މުޅި ވެރިރަށަށް ފެތުރިގެން ދިޔައެވެ. ޝަހްރަޒާދު ވަގުތުން ހިމޭންވިއެވެ. ރަސްގެފާނު އަމިއްލަ ނަފްސާ ވާހަކަދެއްކެވިއެވެ.",
+     "narration_english": "and the call to the dawn prayer spread across the whole capital. Shahrazad fell silent at once. The king spoke to himself.",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_074",
+     "startMs": 659189,
+     "endMs": 669619,
+     "narration_dhivehi": "\"މިއަދުވެސް މީނާ މަރައެއް ނުލާނަމެވެ. މިރޭ އެ މަސްވެރިޔާގެ ވާހަކަ އަޑުއެހުމަށްފަހު، މާދަމާ ހެނދުނު މީނާ މަރައިލާނީއެވެ.\" އެހެންކަމުން، ރަސްގެފާނު ތެދުވެވަޑައިގެން،",
+     "narration_english": "\"I will not kill her today either. Tonight, after hearing that fisherman's story, I will kill her tomorrow morning.\" And so the king rose,",
+     "crop": "tight",
+     "motion": "pan left",
+     "sfx": [
+      {
+       "name": "cloth_rustle",
+       "atMs": 668499,
+       "gainDb": -22,
+       "word": "ތެދުވެވަޑައިގެން،"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      40.6,
+      0.0,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_075",
+     "startMs": 669619,
+     "endMs": 679449,
+     "narration_dhivehi": "ވެރިކަން ހިންގެވުމަށްޓަކައި ދަރުބާރަށް ވަޑައިގަތެވެ. ފަސްވަނަ ރޭ ނިމުނީއެވެ. ޝަހްރަޒާދުގެ ޙިކުމަތްތެރިކަމާއި، ވާހަކަކިޔައިދިނުމުގެ މޮޅު ހުނަރުގެ ސަބަބުން،",
+     "narration_english": "and went to the court to govern. The fifth night was over. Through Shahrazad's wisdom and her great skill at storytelling,",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [
+      {
+       "name": "footsteps_pavement",
+       "atMs": 671859,
+       "gainDb": -24,
+       "word": "ވަޑައިގަތެވެ."
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_076",
+     "startMs": 679449,
+     "endMs": 686660,
+     "narration_dhivehi": "އޭނާގެ ފުރާނަ އަނެއްކާވެސް އެއްދުވަހަށް ސަލާމަތްވީއެވެ. ދެން އޮތީ މަސްވެރިޔާގެ ބޮޑު ސިއްރު ހާމަވާނެ ހަވަނަ ރެޔެވެ.",
+     "narration_english": "her life was saved for one more day. Next comes the sixth night, when the fisherman's great secret will be revealed.",
+     "crop": "medium",
+     "motion": "pan right",
+     "sfx": [
+      {
+       "name": "breath",
+       "atMs": 681939,
+       "gainDb": -22,
+       "word": "ސަލާމަތްވީއެވެ."
+      }
+     ],
+     "hum": true,
+     "crop_rect_pct": [
+      28.5,
+      0.0,
+      71.5,
+      84.7
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is King Shahryar; reference image 2 is Shahrazad; reference image 3 is Dunyazad), create a new scene: Classic hand-drawn 2D animated fairy-tale feature film look, like the golden-age American animated princess musicals of the late 1980s and 1990s: smooth clean ink outlines, soft cel shading with gentle gradient highlights, graceful elegant characters with large expressive almond-shaped eyes, long lashes, small noses, expressive arched eyebrows and warm brown skin, flowing silk fabrics that drape and sway, richly detailed painterly gouache-style backgrounds, magical glowing light with soft sparkles and glints, a warm jewel-tone palette of sapphire blue, gold, ruby red, emerald and turquoise; set in a medieval Arabian Nights kingdom of the old Persian and Arabian lands (white and sand-coloured palaces with onion domes and slender towers, arched windows with carved lattice screens, silk curtains, brass lanterns, Persian carpets, cushioned divans, fountains and courtyard gardens with date palms, busy bazaars, desert dunes, caravans, the sea with old wooden sailing ships), emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (carpet, marble floor, sand, water, soft shadow) for captions and a logo; daytime scenes glow with golden sunlight and turquoise skies, evenings are rose and amber, night scenes are deep midnight blue with a big moon and warm amber lantern light, and tales-within-the-tale or memories have a soft dreamy storybook glow.\nScene: golden dawn light pouring through the arched lattice window, a distant slender minaret silhouetted against the pale gold sky; King Shahryar rising from the divan, fully dressed, turning towards the door with a thoughtful look back over his shoulder; Shahrazad sitting quietly on her cushion with lowered eyes and a hidden relieved smile, Dunyazad leaning against her sister's shoulder, the lanterns burning low. Location: King Shahryar's palace bedchamber at the break of dawn: the Persian carpet, the cushioned divan, brass lanterns burning low, the arched carved-lattice window now glowing with golden dawn light over the city of domes, a distant slender minaret silhouetted against the pale gold sky. Camera: wide shot, eye level, the window light in the upper frame, the carpet as a calm lower third.\nCharacters: King Shahryar: a tall broad-shouldered king in his late 30s with warm olive-brown skin, a strong square jaw, a short neat black beard, thick dark eyebrows and stern brooding dark eyes; wears a large crimson-and-gold turban with a white plume and a ruby jewel, a long dark bronze-brown brocade coat with gold patterns over a cream tunic, a gold sash, loose trousers and pointed brown boots; no weapon. Shahrazad: a graceful young woman of about 20 with warm olive-brown skin, a soft oval face, very large expressive dark almond eyes with long lashes, elegant arched eyebrows and a calm clever smile; wears a flowing long-sleeved ankle-length gown of rich saffron-gold silk with deep ruby-red embroidered borders and a gold sash, and a soft ivory silk headscarf with a fine gold trim wrapped snugly and fully covering her hair and neck, a small teardrop ruby on a thin gold band over the scarf at her forehead. Dunyazad: a small slim girl of about 12 with warm olive-brown skin, a round youthful face, big bright curious dark eyes and a sweet eager smile; wears a loose long-sleeved ankle-length gown of soft lavender silk with silver embroidery and a pale rose-pink headscarf fully covering her hair and neck.\nMood/lighting: break of dawn, soft rose and golden light pouring through the lattice window, the lanterns burning low, hushed relief.\nModest medieval Arabian Nights clothing (every woman and girl in a loose long-sleeved ankle-length gown with a headscarf or veil fully covering her hair and neck; men in long-sleeved tunics, robes and sashes with long trousers, turbans or caps, never shirtless), a clear respectful distance between men and women who are not married, culturally respectful and Islamic in spirit, no violence shown, no blood, no wounds, no injuries, no corpses, no person lying on the ground, no swords, no daggers, no weapons, no idols, no statues of gods, no religious symbols of other faiths, no alcohol, no wine, no smoking, no text, no letters, no numbers, no writing, no Arabic script, no logos, no watermark, classic hand-drawn 2D animated feature film style.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.304,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 76.1,
+    "y_pct": 13.0,
+    "face_detected": true
+   }
+  }
+ ]
+}
