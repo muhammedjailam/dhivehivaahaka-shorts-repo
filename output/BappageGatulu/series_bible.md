@@ -233,3 +233,55 @@ a briefcase); the household maid (527); Fareed's IT man (536); the telecom sourc
     showing a man resembling Asim at a podium (no text, no logos). Put `asim` in `chars` only if he is visibly drawn.
 11. Faces in the upper two-thirds, calm lower third. Never use the words knife, stab, blood, kill, dead, body, corpse,
     murder, gun, cigarette in a `visual` — describe only the safe substitute.
+
+## Episodes 586 and 603 (added 2026-10-13; full synopses in `episode-<N>/work/reader_notes.txt`)
+Arc order is now **520 → 521 → 522 → 527 → 529 → 536 → 586 → 603** (603 = series FINALE, ends "ނިމުނީ").
+- **586** — Raaya takes Asim's red backup drive from a hidden compartment in his office bookshelf; four masked thugs
+  sent by Asim and Sameer raid Iyaan's flat at night — he defeats them in the dark with night-vision goggles (fight
+  NEVER shown); next morning he texts Asim from their phones that the job is done; in the studio Raaya hands over the
+  drive; at Asim's live-televised rally (8 pm) Iyaan hijacks the hall's screens and the TV feed with the evidence and
+  Asim's recorded order, then walks in with Raaya: "I am Ahmed Zahir's son"; Raaya calls her father a killer; police
+  storm the hall.
+- **603** — same hall, continuous: the Assistant Commissioner reads out a court order arresting Asim, Sameer and
+  Fareed; Fareed tries to run and is caught, Sameer gives up quietly; Asim grabs a guard's pistol and threatens Iyaan
+  (NEVER shown — see rule 12); Raaya begs and kneels sobbing; Iyaan overpowers him; Asim is led away; Iyaan thanks
+  Raaya. Next morning: Iyaan prays at his father's grave in Malé's Aasahara cemetery with Aminath behind him; he cries
+  for the first time in fifteen years; drizzle; peace. ނިމުނީ.
+
+### Shared continuity for 586 / 603 (both agents use these exact strings)
+- **Rally hall** (LOC key `rally_hall`, amb `hall_crowd`): "a huge indoor convention-centre hall in Malé at night (8 pm),
+  packed with seated and standing supporters, a wide raised stage with a podium and microphones, two giant LED screens
+  behind the stage glowing with abstract images, plain teal-and-white drapes and flags with no symbols, TV cameras on
+  tripods on a riser at the back, bright white stage lights and cold teal shadows over the crowd, no text, no logos".
+  The rally exterior at sunset (586) uses amb `city_day`/`hall_crowd`. The hall's control room = a dark room with
+  mixing desks and monitors (abstract glows).
+- **Iyaan in the hall (586 end + all of 603's hall)**: "a black suit jacket and black trousers over a plain black
+  crew-neck top, no tie" — write "NOT the plain black t-shirt of the reference; reference used for face only".
+- **Raaya in the hall**: default white dress + light-grey hijab, carrying a thick plain closed folder (586).
+- **Asim at the rally**: his card outfit (white shirt, black trousers, gold watch).
+- **Cemetery (603)**: amb `cemetery_dawn` (drizzle segments: `rain_day`): "Malé's Aasahara cemetery the next morning:
+  white sand ground, rows of low plain white Maldivian headstones with no inscriptions, tall shady trees, a low white
+  boundary wall, overcast pale-grey morning light". Iyaan: "a plain white long-sleeved shirt and dark trousers" (NOT the
+  black t-shirt); Aminath in her card outfit with a white hijab.
+- `asst_commissioner` card (new, 603): dark-navy police dress uniform + peaked cap, no holster; the court order = a
+  plain white folded document (no text). Other police officers: "Maldivian police officers in dark-navy uniforms and
+  caps, NO weapons, NO shields, NO handcuffs" — visual only.
+- The four thugs (586): only dark silhouettes in black hoods and face masks, seen from behind / in darkness / as a green
+  night-vision image — never faces, never weapons; the morning after = four dark figures sitting slumped against a wall
+  in a shadowed corner seen from far, hands out of sight (never shown tied up).
+
+### Extra content rules (BINDING, 586 / 603)
+12. **The pistol scene (603) is never depicted**: no gun, no pointing arm with anything in the hand. Show face close-ups
+    (Asim's crazed face, Iyaan's calm defiant face, Raaya's terror), Asim's arm/hand out of frame, the crowd ducking,
+    plaster dust drifting down from the ceiling under the stage lights for the shot; the struggle = Iyaan's hand gripping
+    Asim's wrist (both hands empty) or Asim sitting on the stage floor afterwards. SFX for the shot: a muffled
+    `soft_thud` (−20 dB) + `crowd_gasp`; no gunshot sound.
+13. **The fight in Iyaan's flat (586) is never depicted**: darkness, a green night-vision view of empty rooms / dark
+    shapes, a door, Iyaan's goggled face; no strikes, no baton, no electric sparks on anyone. Muffled `soft_thud` only.
+14. **No handcuffs** anywhere (no `cuffs_click` SFX); an arrest = officers walking either side of the man, a hand on his
+    upper arm, his hands behind his back out of sight. Fareed caught = stopped by officers, kneeling/standing, never on
+    the floor face down. Nobody lies on the floor.
+15. Raaya kneeling (603) = kneeling upright, hands over her face; Iyaan never touches her (he offers a hand-on-chest
+    nod / stands at arm's length while she rises by herself).
+16. Crowds throw nothing; anger = raised voices, pointing hands, standing up.
+17. LED screens / TV / phone screens show abstract glows, waveforms, blurred photo shapes — never readable text.
