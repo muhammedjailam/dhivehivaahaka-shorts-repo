@@ -1,0 +1,2363 @@
+{
+ "series": "Yaraa",
+ "episode": 582,
+ "beats": [
+  {
+   "id": "beat_001",
+   "startMs": 0,
+   "endMs": 21120,
+   "new_image_reason": "episode opening: the black cloud arrives with a thunderclap as Mifzaal and Naveen walk inland",
+   "characters": [
+    "mifzaal",
+    "naveen"
+   ],
+   "location": "a narrow white coral-sand path winding through the dense overgrown jungle of a deserted Maldivian island: tall leaning coconut palms, screw-pines with stilt roots, tangled magoo shrubs and undergrowth closing in on both sides, the canopy opening to the sky above the path",
+   "location_key": "jungle_path",
+   "mood": "darkening early afternoon, an enormous shapeless black cloud rising over the jungle canopy, the green jungle shade turning gloomy, an ominous stillness before the storm",
+   "visual": "Mifzaal and Naveen seen from behind and slightly to the side, walking fast along the narrow sand path into the dense jungle, small in the frame; Mifzaal in his white linen shirt glancing up anxiously; above the palm canopy an enormous shapeless black storm cloud billows up, a faint flash of lightning inside it; palm fronds stirring; the cloud is only cloud, no faces or figures in it",
+   "camera": "wide shot from behind, low angle, the black cloud and canopy filling the upper two-thirds, the pale sand path as a calm lower third",
+   "image": "images/beat_001.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": "other",
+   "safe_substitution": "the ominous 'warning' is shown only as a black storm cloud over the jungle",
+   "ambience": "jungle_eerie",
+   "shots": [
+    {
+     "id": "shot_001",
+     "startMs": 0,
+     "endMs": 11120,
+     "narration_dhivehi": "ބޯމަތި ކުރަމުން އައި ކަޅު ބޯ ވިލާގަނޑު އެ މީހުންނަށް މަރުހަބާ ކީ ބާރު އަޑުފައްގަނޑަކާ އެކު. ހިތްތަކަށް ބިރުވެރިކަން އިހުސާސްކޮށްދޭނެ ހޮނު ގުގުރިއެއްގެ އަޑު.",
+     "narration_english": "The black storm cloud that came looming overhead welcomed them with a loud crack of sound. The sound of a thunder rumble that makes hearts feel fear.",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [
+      {
+       "name": "thunder",
+       "atMs": 4880,
+       "gainDb": -14,
+       "word": "އަޑުފައްގަނޑަކާ"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_002",
+     "startMs": 11120,
+     "endMs": 21120,
+     "narration_dhivehi": "އެއީ ކަމެއް ގޯސްވާން އުޅޭތީ ފިތުރަތުން ދިން އިއުލާނެއް ކަމަށް ވެސް ވެދާނެ. ނަމަވެސް މިފްޒާލް އާއި ނަވީންގެ ހިނގުމަކަށް ވަކި ބަދަލެއް ނާދޭ.",
+     "narration_english": "Perhaps it was even nature's warning that something was about to go wrong. But there was no change at all in Mifzaal and Naveen's pace.",
+     "crop": "tight",
+     "motion": "pan left",
+     "sfx": [
+      {
+       "name": "footsteps_sand",
+       "atMs": 19320,
+       "gainDb": -22,
+       "word": "ހިނގުމަކަށް"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      20.3,
+      4.8,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Mifzaal; reference image 2 is Naveen), create a new scene: Cinematic semi-realistic digital painting in the look of a moody romantic-thriller book cover: soft painterly brushwork, glowing rim light and warm golden highlights on faces and fabric, deep teal-blue shadows, gentle haze and atmospheric depth, subtle film grain, shallow depth of field, rich saturated reds against cool blues; set in the Maldives (turquoise lagoons, white coral-sand beaches, dense tropical jungle of coconut palms, screw-pines and magoo shrubs, coral-stone walls, Male's dense lanes and jetties), Maldivian characters with warm brown skin; emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (sand, water, path, floor, soft shadow) for captions and a logo; bright scenes are sunlit and warm with turquoise and gold, the jungle is green-shadowed and quietly unsettling, storms are dark slate-grey with silver rain, and night scenes in Male are deep blue with warm amber street lamps like the cover.\nScene: Mifzaal and Naveen seen from behind and slightly to the side, walking fast along the narrow sand path into the dense jungle, small in the frame; Mifzaal in his white linen shirt glancing up anxiously; above the palm canopy an enormous shapeless black storm cloud billows up, a faint flash of lightning inside it; palm fronds stirring; the cloud is only cloud, no faces or figures in it. Location: a narrow white coral-sand path winding through the dense overgrown jungle of a deserted Maldivian island: tall leaning coconut palms, screw-pines with stilt roots, tangled magoo shrubs and undergrowth closing in on both sides, the canopy opening to the sky above the path. Camera: wide shot from behind, low angle, the black cloud and canopy filling the upper two-thirds, the pale sand path as a calm lower third.\nCharacters: Mifzaal: a tall athletic Maldivian man of about 29 with warm brown skin, a handsome lean face, warm dark-brown eyes, strong straight eyebrows, a neatly trimmed short black beard and moustache and short neat black hair swept back; wears a loose white linen long-sleeved shirt with the sleeves rolled to the forearm, beige chino trousers, brown leather sandals and a plain steel wristwatch. Naveen: a stocky Maldivian man of about 32 with warm brown skin, a broad round friendly face, smiling dark eyes, thick eyebrows, a full short black beard and short cropped black hair; wears a navy-blue polo shirt, long grey cargo trousers and black rubber sandals.\nMood/lighting: darkening early afternoon, an enormous shapeless black cloud rising over the jungle canopy, the green jungle shade turning gloomy, an ominous stillness before the storm.\nModest Maldivian clothing (every woman in a loose long-sleeved ankle-length dress with a hijab fully covering her hair and neck, also on the beach and in the boat; men in shirts or t-shirts with long trousers, never shirtless, no swimwear on anyone), married couples only side by side or holding hands with no embracing or kissing, culturally respectful and Islamic in spirit, no ghosts, no monsters, no faces in the shadows, no violence shown, no blood, no wounds, no weapons, no alcohol, no smoking, no religious symbols of other faiths, no text, no letters, no numbers, no writing, no readable phone screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.394,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 50.0,
+    "y_pct": 40.0,
+    "face_detected": false
+   }
+  },
+  {
+   "id": "beat_002",
+   "startMs": 21120,
+   "endMs": 49670,
+   "new_image_reason": "scene change: they reach the jungle pond and shout their wives' names; no reply, no footprints",
+   "characters": [
+    "mifzaal",
+    "naveen"
+   ],
+   "location": "an inland jungle pond (kulhi) on the deserted island: still dark-green water ringed with reeds and soft pale muddy sand banks, an old overgrown taro field (kandoofa) of big heart-shaped taro leaves on one side, thick tall grass clumps, a dense wall of coconut palms and screw-pines all around",
+   "location_key": "pond",
+   "mood": "green jungle shade under a darkening sky, the huge black cloud overhead, muted and unsettling, a cold stillness",
+   "visual": "Mifzaal and Naveen standing on the muddy bank of the still dark-green jungle pond, both calling out loudly with hands cupped round their mouths, faces strained and anxious; Naveen in his navy polo, Mifzaal in his white linen shirt; the smooth pale mud of the bank in front of them completely untouched, no footprints anywhere; the taro field and tall grass beyond; the black cloud above the palms",
+   "camera": "medium wide, eye level, the two men in the upper two-thirds, the smooth untouched mud bank and pond water as a calm lower third",
+   "image": "images/beat_002.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "pond_jungle",
+   "shots": [
+    {
+     "id": "shot_003",
+     "startMs": 21120,
+     "endMs": 31040,
+     "narration_dhivehi": "ދެ މީހުންގެ ލޯބިވާ އަނބިމީހާގެ ގާތަށް ދާން ތިބީ ކެތްމަދުވެފައިވާ ހާލުގައޭ ބުންޏަސް ދޮގަކަށް ނުވާނެ. އިސާހިތަކު ކުޅިއާ ހަމައަށް އާދެވިއްޖެ.",
+     "narration_english": "It would be no lie to say the two were impatient to reach their beloved wives. In a moment they had reached the pond.",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [
+      {
+       "name": "footsteps_sand",
+       "atMs": 30360,
+       "gainDb": -24,
+       "word": "އާދެވިއްޖެ."
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_004",
+     "startMs": 31040,
+     "endMs": 41020,
+     "narration_dhivehi": "އަޑުގެ ނެތްކޮޅަށް ދެ މީހުން ވެސް އެ މީހެއްގެ ބައިވެރިޔާގެ ނަމުން ބާރަށް ގޮވަން ފެށި. އެހެނަސް އެ ތަނަކުން އެއްވެސް މީހެއްގެ ހިލަމެއް ނުވި.",
+     "narration_english": "At the top of their voices, both began calling loudly by their partners' names. But from that place there was not the slightest stir of anyone.",
+     "crop": "tight",
+     "motion": "pan right",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      40.6,
+      29.6,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_005",
+     "startMs": 41020,
+     "endMs": 49670,
+     "narration_dhivehi": "ނުވިތާކަށް އެ މީހުން ހިނގާފައި ހުރި ފިޔަވަޅު ވެސް ފެންނާކަށް ނެތް. ރޭންޖް ނުލިބޭތީ ފޯނަކަށް ގުޅޭނެ އެއްވެސް ގޮތެއް ނެތް.",
+     "narration_english": "Strangely, not even the footprints of where they had walked could be seen. With no range, there was no way to call any phone.",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Mifzaal; reference image 2 is Naveen), create a new scene: Cinematic semi-realistic digital painting in the look of a moody romantic-thriller book cover: soft painterly brushwork, glowing rim light and warm golden highlights on faces and fabric, deep teal-blue shadows, gentle haze and atmospheric depth, subtle film grain, shallow depth of field, rich saturated reds against cool blues; set in the Maldives (turquoise lagoons, white coral-sand beaches, dense tropical jungle of coconut palms, screw-pines and magoo shrubs, coral-stone walls, Male's dense lanes and jetties), Maldivian characters with warm brown skin; emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (sand, water, path, floor, soft shadow) for captions and a logo; bright scenes are sunlit and warm with turquoise and gold, the jungle is green-shadowed and quietly unsettling, storms are dark slate-grey with silver rain, and night scenes in Male are deep blue with warm amber street lamps like the cover.\nScene: Mifzaal and Naveen standing on the muddy bank of the still dark-green jungle pond, both calling out loudly with hands cupped round their mouths, faces strained and anxious; Naveen in his navy polo, Mifzaal in his white linen shirt; the smooth pale mud of the bank in front of them completely untouched, no footprints anywhere; the taro field and tall grass beyond; the black cloud above the palms. Location: an inland jungle pond (kulhi) on the deserted island: still dark-green water ringed with reeds and soft pale muddy sand banks, an old overgrown taro field (kandoofa) of big heart-shaped taro leaves on one side, thick tall grass clumps, a dense wall of coconut palms and screw-pines all around. Camera: medium wide, eye level, the two men in the upper two-thirds, the smooth untouched mud bank and pond water as a calm lower third.\nCharacters: Mifzaal: a tall athletic Maldivian man of about 29 with warm brown skin, a handsome lean face, warm dark-brown eyes, strong straight eyebrows, a neatly trimmed short black beard and moustache and short neat black hair swept back; wears a loose white linen long-sleeved shirt with the sleeves rolled to the forearm, beige chino trousers, brown leather sandals and a plain steel wristwatch. Naveen: a stocky Maldivian man of about 32 with warm brown skin, a broad round friendly face, smiling dark eyes, thick eyebrows, a full short black beard and short cropped black hair; wears a navy-blue polo shirt, long grey cargo trousers and black rubber sandals.\nMood/lighting: green jungle shade under a darkening sky, the huge black cloud overhead, muted and unsettling, a cold stillness.\nModest Maldivian clothing (every woman in a loose long-sleeved ankle-length dress with a hijab fully covering her hair and neck, also on the beach and in the boat; men in shirts or t-shirts with long trousers, never shirtless, no swimwear on anyone), married couples only side by side or holding hands with no embracing or kissing, culturally respectful and Islamic in spirit, no ghosts, no monsters, no faces in the shadows, no violence shown, no blood, no wounds, no weapons, no alcohol, no smoking, no religious symbols of other faiths, no text, no letters, no numbers, no writing, no readable phone screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.202,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 76.4,
+    "y_pct": 86.1,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_003",
+   "startMs": 49670,
+   "endMs": 68931,
+   "new_image_reason": "action change: Mifzaal points at the taro field and speaks (speaker focus)",
+   "characters": [
+    "mifzaal",
+    "naveen"
+   ],
+   "location": "an inland jungle pond (kulhi) on the deserted island: still dark-green water ringed with reeds and soft pale muddy sand banks, an old overgrown taro field (kandoofa) of big heart-shaped taro leaves on one side, thick tall grass clumps, a dense wall of coconut palms and screw-pines all around",
+   "location_key": "pond",
+   "mood": "green jungle shade under a darkening sky, the huge black cloud overhead, muted and unsettling, a cold stillness",
+   "visual": "Mifzaal, centred and in sharp focus, face three-quarter to camera, pointing with his arm outstretched towards the old taro field of big heart-shaped leaves beside the pond, speaking urgently with a flicker of hope in his anxious eyes; Naveen softer at the side, turning to look where he points",
+   "camera": "medium shot, eye level, Mifzaal's face in the upper third, the pond edge as the lower third",
+   "image": "images/beat_003.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "pond_jungle",
+   "shots": [
+    {
+     "id": "shot_006",
+     "startMs": 49670,
+     "endMs": 58261,
+     "narration_dhivehi": "ހާސްވެފައި ހުރެ ކުޅީގެ އެއްފަރާތުގައި ހެދިފައިވާ ކަނޑޫފަލާ ދިމާއަށް އިޝާރާތްކޮށް މިފްޒާލް ބުނެލި. އޭ ވެދާނެ ދެ މީހުން ގޮސް ކަނޑޫފައަށް ވަނީ ކަމަށް.",
+     "narration_english": "Anxiously, Mifzaal pointed toward the taro field made on one side of the pond and said: \"Hey, maybe the two went into the taro field.",
+     "crop": "full",
+     "motion": "pan up",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_007",
+     "startMs": 58261,
+     "endMs": 68931,
+     "narration_dhivehi": "ޔާރާ ވަރަށް ފޯރި ހުންނާނެ ދިވެހިންގެ ކުރީގެ އުޅުންތައް ދަސްކުރަން. އަޅެ ހިނގާބަލަ އެ ތަން ބަލައިލަން. މިހެން ބުނުމަށްފަހު ދެ މީހުން ގޮސް އެ ތަނުގައި އެކި ނަންނަމުން އެ މީހުން ފެނޭތޯ ގޮވާ ހެދި.",
+     "narration_english": "Yaraa is so keen to learn how Maldivians lived in the old days. Come on, let's go and check there.\" With that the two went there and called out every name, hoping to find them.",
+     "crop": "tight",
+     "motion": "slow pull-out",
+     "sfx": [
+      {
+       "name": "footsteps_sand",
+       "atMs": 64761,
+       "gainDb": -22,
+       "word": "ގޮސް"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      12.5,
+      0.0,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Mifzaal; reference image 2 is Naveen), create a new scene: Cinematic semi-realistic digital painting in the look of a moody romantic-thriller book cover: soft painterly brushwork, glowing rim light and warm golden highlights on faces and fabric, deep teal-blue shadows, gentle haze and atmospheric depth, subtle film grain, shallow depth of field, rich saturated reds against cool blues; set in the Maldives (turquoise lagoons, white coral-sand beaches, dense tropical jungle of coconut palms, screw-pines and magoo shrubs, coral-stone walls, Male's dense lanes and jetties), Maldivian characters with warm brown skin; emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (sand, water, path, floor, soft shadow) for captions and a logo; bright scenes are sunlit and warm with turquoise and gold, the jungle is green-shadowed and quietly unsettling, storms are dark slate-grey with silver rain, and night scenes in Male are deep blue with warm amber street lamps like the cover.\nScene: Mifzaal, centred and in sharp focus, face three-quarter to camera, pointing with his arm outstretched towards the old taro field of big heart-shaped leaves beside the pond, speaking urgently with a flicker of hope in his anxious eyes; Naveen softer at the side, turning to look where he points. Location: an inland jungle pond (kulhi) on the deserted island: still dark-green water ringed with reeds and soft pale muddy sand banks, an old overgrown taro field (kandoofa) of big heart-shaped taro leaves on one side, thick tall grass clumps, a dense wall of coconut palms and screw-pines all around. Camera: medium shot, eye level, Mifzaal's face in the upper third, the pond edge as the lower third.\nCharacters: Mifzaal: a tall athletic Maldivian man of about 29 with warm brown skin, a handsome lean face, warm dark-brown eyes, strong straight eyebrows, a neatly trimmed short black beard and moustache and short neat black hair swept back; wears a loose white linen long-sleeved shirt with the sleeves rolled to the forearm, beige chino trousers, brown leather sandals and a plain steel wristwatch. Naveen: a stocky Maldivian man of about 32 with warm brown skin, a broad round friendly face, smiling dark eyes, thick eyebrows, a full short black beard and short cropped black hair; wears a navy-blue polo shirt, long grey cargo trousers and black rubber sandals.\nMood/lighting: green jungle shade under a darkening sky, the huge black cloud overhead, muted and unsettling, a cold stillness.\nModest Maldivian clothing (every woman in a loose long-sleeved ankle-length dress with a hijab fully covering her hair and neck, also on the beach and in the boat; men in shirts or t-shirts with long trousers, never shirtless, no swimwear on anyone), married couples only side by side or holding hands with no embracing or kissing, culturally respectful and Islamic in spirit, no ghosts, no monsters, no faces in the shadows, no violence shown, no blood, no wounds, no weapons, no alcohol, no smoking, no religious symbols of other faiths, no text, no letters, no numbers, no writing, no readable phone screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.382,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 42.2,
+    "y_pct": 26.5,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_004",
+   "startMs": 68931,
+   "endMs": 89851,
+   "new_image_reason": "action change: searching the taro field — only rustling leaves and spider webs; they dare not enter the deep jungle",
+   "characters": [
+    "mifzaal",
+    "naveen"
+   ],
+   "location": "the old overgrown taro field beside the jungle pond: rows of tall taro plants with huge heart-shaped leaves, thick tall grass clumps draped with silvery spider webs, the dark mouth of the deep jungle beyond, empty sand paths disappearing between the trees",
+   "location_key": "taro_field",
+   "mood": "gloomy green jungle shade, dim grey light filtering down, silvery webs catching the light, quietly unsettling and lonely",
+   "visual": "in the foreground thick tall grass clumps strung with many silvery spider webs and huge taro leaves stirred by the wind; in the middle distance Mifzaal and Naveen seen from behind, standing still at the edge of the taro field, hesitating before the dark mouth of the deep jungle where an empty sand path disappears between the trees; nobody else anywhere",
+   "camera": "medium wide from behind, the webs in sharp focus in the foreground, the two men and the dark jungle in the upper two-thirds, the trampled grass as the lower third",
+   "image": "images/beat_004.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": "other",
+   "safe_substitution": "horror built only with atmosphere: webs, rustling leaves, an empty dark path; nothing in the jungle",
+   "ambience": "jungle_eerie",
+   "shots": [
+    {
+     "id": "shot_008",
+     "startMs": 68931,
+     "endMs": 80321,
+     "narration_dhivehi": "ނަމަވެސް ގަހަކުން ފަތެއް ހެލިލާ އަޑު ނޫން އިތުރު އަޑެއް އިވޭ ކަމަކަށް ނުވި. އަދި އެއް ފަރާތުގައި ހެދިފައިވާ ބޯ ވިނަގަނޑުތަކުގައި ވެސް އަތްފުނާއެޅީ މަދަކުން ނޫން.",
+     "narration_english": "But no sound could be heard except a leaf rustling on a tree. And in the big grass clumps on one side, spider webs were strung in no small number.",
+     "crop": "full",
+     "motion": "pan down",
+     "sfx": [
+      {
+       "name": "leaves_rustle",
+       "atMs": 70561,
+       "gainDb": -20,
+       "word": "ހެލިލާ"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_009",
+     "startMs": 80321,
+     "endMs": 89851,
+     "narration_dhivehi": "ކޮންމެ ގޮތެއް ވިޔަސް ޔަގީންވާން އޮތް ހަމައެކަނި ހަގީގަތަކީ އެތަނުން އެކަކުގެ އަނބަކަށް ވެސް އެ ބޮޑު ޖަންގަލީގެ ތެރެއަށް ވަންނަން ނުކެރޭނެކަން.",
+     "narration_english": "Whatever the case, the only certain truth was that neither of them would dare to go alone into that big jungle.",
+     "crop": "tight",
+     "motion": "static drift",
+     "sfx": [],
+     "hum": true,
+     "crop_rect_pct": [
+      0.0,
+      0.0,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Mifzaal; reference image 2 is Naveen), create a new scene: Cinematic semi-realistic digital painting in the look of a moody romantic-thriller book cover: soft painterly brushwork, glowing rim light and warm golden highlights on faces and fabric, deep teal-blue shadows, gentle haze and atmospheric depth, subtle film grain, shallow depth of field, rich saturated reds against cool blues; set in the Maldives (turquoise lagoons, white coral-sand beaches, dense tropical jungle of coconut palms, screw-pines and magoo shrubs, coral-stone walls, Male's dense lanes and jetties), Maldivian characters with warm brown skin; emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (sand, water, path, floor, soft shadow) for captions and a logo; bright scenes are sunlit and warm with turquoise and gold, the jungle is green-shadowed and quietly unsettling, storms are dark slate-grey with silver rain, and night scenes in Male are deep blue with warm amber street lamps like the cover.\nScene: in the foreground thick tall grass clumps strung with many silvery spider webs and huge taro leaves stirred by the wind; in the middle distance Mifzaal and Naveen seen from behind, standing still at the edge of the taro field, hesitating before the dark mouth of the deep jungle where an empty sand path disappears between the trees; nobody else anywhere. Location: the old overgrown taro field beside the jungle pond: rows of tall taro plants with huge heart-shaped leaves, thick tall grass clumps draped with silvery spider webs, the dark mouth of the deep jungle beyond, empty sand paths disappearing between the trees. Camera: medium wide from behind, the webs in sharp focus in the foreground, the two men and the dark jungle in the upper two-thirds, the trampled grass as the lower third.\nCharacters: Mifzaal: a tall athletic Maldivian man of about 29 with warm brown skin, a handsome lean face, warm dark-brown eyes, strong straight eyebrows, a neatly trimmed short black beard and moustache and short neat black hair swept back; wears a loose white linen long-sleeved shirt with the sleeves rolled to the forearm, beige chino trousers, brown leather sandals and a plain steel wristwatch. Naveen: a stocky Maldivian man of about 32 with warm brown skin, a broad round friendly face, smiling dark eyes, thick eyebrows, a full short black beard and short cropped black hair; wears a navy-blue polo shirt, long grey cargo trousers and black rubber sandals.\nMood/lighting: gloomy green jungle shade, dim grey light filtering down, silvery webs catching the light, quietly unsettling and lonely.\nModest Maldivian clothing (every woman in a loose long-sleeved ankle-length dress with a hijab fully covering her hair and neck, also on the beach and in the boat; men in shirts or t-shirts with long trousers, never shirtless, no swimwear on anyone), married couples only side by side or holding hands with no embracing or kissing, culturally respectful and Islamic in spirit, no ghosts, no monsters, no faces in the shadows, no violence shown, no blood, no wounds, no weapons, no alcohol, no smoking, no religious symbols of other faiths, no text, no letters, no numbers, no writing, no readable phone screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.234,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 29.7,
+    "y_pct": 29.0,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_005",
+   "startMs": 89851,
+   "endMs": 111621,
+   "new_image_reason": "emotional turning point: despair on both faces as time passes and questions pile up",
+   "characters": [
+    "mifzaal",
+    "naveen"
+   ],
+   "location": "an inland jungle pond (kulhi) on the deserted island: still dark-green water ringed with reeds and soft pale muddy sand banks, an old overgrown taro field (kandoofa) of big heart-shaped taro leaves on one side, thick tall grass clumps, a dense wall of coconut palms and screw-pines all around",
+   "location_key": "pond",
+   "mood": "green jungle shade under a darkening sky, the huge black cloud overhead, muted and unsettling, a cold stillness",
+   "visual": "close two-shot of Mifzaal and Naveen standing side by side by the pond, sweat on their foreheads, both faces drawn with despair and confusion; Mifzaal staring into the jungle with worried eyes, Naveen rubbing his brow; dim green light under the black sky",
+   "camera": "medium close-up, eye level, both faces in the upper half, their shirts and the dark water as the lower third",
+   "image": "images/beat_005.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "pond_jungle",
+   "shots": [
+    {
+     "id": "shot_010",
+     "startMs": 89851,
+     "endMs": 102271,
+     "narration_dhivehi": "އެއަށްވުރެ އެ މީހުންގެ ހިތް މާ ބަލިވާނެކަން. ވަގުތުތައް ފާއިތުވި ވަރަކަށް މިފްޒާލް އާއި ނަވީންގެ މޫނުމަތިން ދިޔައީ މާޔޫސްކަމުގެ މައްޗަށް މާޔޫސްކަން އިންތިހާއަށް ފާޅުވަމުން.",
+     "narration_english": "Their hearts would grow far weaker than that. As time passed, despair upon despair showed ever more plainly on Mifzaal and Naveen's faces.",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_011",
+     "startMs": 102271,
+     "endMs": 111621,
+     "narration_dhivehi": "ހިތުގައި އުފެދިފައިވާ ސުވާލުތައް ވެސް ވަކި މަދެއް ނޫން. ނުބުނެ އަޅެ އެ ދިޔައީ ކޮންތާކަށް ބާ؟ އަނެއްކާ ބަޔަކު އެ މީހުންނަށް ކަމެއް ކުރީބާ؟",
+     "narration_english": "Nor were the questions rising in their hearts few. Where did they go without telling us? Or did someone do something to them?",
+     "crop": "tight",
+     "motion": "pan left",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      3.3,
+      0.0,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Mifzaal; reference image 2 is Naveen), create a new scene: Cinematic semi-realistic digital painting in the look of a moody romantic-thriller book cover: soft painterly brushwork, glowing rim light and warm golden highlights on faces and fabric, deep teal-blue shadows, gentle haze and atmospheric depth, subtle film grain, shallow depth of field, rich saturated reds against cool blues; set in the Maldives (turquoise lagoons, white coral-sand beaches, dense tropical jungle of coconut palms, screw-pines and magoo shrubs, coral-stone walls, Male's dense lanes and jetties), Maldivian characters with warm brown skin; emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (sand, water, path, floor, soft shadow) for captions and a logo; bright scenes are sunlit and warm with turquoise and gold, the jungle is green-shadowed and quietly unsettling, storms are dark slate-grey with silver rain, and night scenes in Male are deep blue with warm amber street lamps like the cover.\nScene: close two-shot of Mifzaal and Naveen standing side by side by the pond, sweat on their foreheads, both faces drawn with despair and confusion; Mifzaal staring into the jungle with worried eyes, Naveen rubbing his brow; dim green light under the black sky. Location: an inland jungle pond (kulhi) on the deserted island: still dark-green water ringed with reeds and soft pale muddy sand banks, an old overgrown taro field (kandoofa) of big heart-shaped taro leaves on one side, thick tall grass clumps, a dense wall of coconut palms and screw-pines all around. Camera: medium close-up, eye level, both faces in the upper half, their shirts and the dark water as the lower third.\nCharacters: Mifzaal: a tall athletic Maldivian man of about 29 with warm brown skin, a handsome lean face, warm dark-brown eyes, strong straight eyebrows, a neatly trimmed short black beard and moustache and short neat black hair swept back; wears a loose white linen long-sleeved shirt with the sleeves rolled to the forearm, beige chino trousers, brown leather sandals and a plain steel wristwatch. Naveen: a stocky Maldivian man of about 32 with warm brown skin, a broad round friendly face, smiling dark eyes, thick eyebrows, a full short black beard and short cropped black hair; wears a navy-blue polo shirt, long grey cargo trousers and black rubber sandals.\nMood/lighting: green jungle shade under a darkening sky, the huge black cloud overhead, muted and unsettling, a cold stillness.\nModest Maldivian clothing (every woman in a loose long-sleeved ankle-length dress with a hijab fully covering her hair and neck, also on the beach and in the boat; men in shirts or t-shirts with long trousers, never shirtless, no swimwear on anyone), married couples only side by side or holding hands with no embracing or kissing, culturally respectful and Islamic in spirit, no ghosts, no monsters, no faces in the shadows, no violence shown, no blood, no wounds, no weapons, no alcohol, no smoking, no religious symbols of other faiths, no text, no letters, no numbers, no writing, no readable phone screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.404,
+    "halo": true
+   },
+   "focus": {
+    "x_pct": 33.0,
+    "y_pct": 25.8,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_006",
+   "startMs": 111621,
+   "endMs": 138692,
+   "new_image_reason": "scene change in framing: they are alone on a deserted island cut off from all communication",
+   "characters": [
+    "mifzaal",
+    "naveen"
+   ],
+   "location": "a high wide view over the small deserted jungle island: an unbroken green canopy of palms, a tiny glinting pond in a clearing, a thin ring of white beach and a dark grey-green sea stretching empty to the horizon in every direction",
+   "location_key": "island_aerial",
+   "mood": "a vast shapeless black storm cloud spreading over the island, slate-grey light, small and utterly alone",
+   "visual": "a high wide view looking down over the deserted jungle island: Mifzaal and Naveen two tiny figures standing in the small clearing by the glinting pond, swallowed by the endless green canopy; a vast shapeless black cloud spreading over the island; an empty dark sea in every direction, no boats, no other island near; no faces or shapes in the clouds",
+   "camera": "extreme wide high-angle shot, the black sky in the upper third, the island in the middle, dark sea as the lower third",
+   "image": "images/beat_006.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "island_wild",
+   "shots": [
+    {
+     "id": "shot_012",
+     "startMs": 111621,
+     "endMs": 121872,
+     "narration_dhivehi": "ނޫނީ އަހަރެމެން ބިރުގަންނުވަން ފިލާ ތިބީ ބާ؟ މި ސުވާލުތައް ތަކުރާރު ކުރިޔަސް ވަކި ޖަވާބެއް ދޭން މީހަކު އަންނާނެ ހެއްޔެވެ؟ ނޫނެކެވެ.",
+     "narration_english": "Or are they hiding to scare us? However often these questions are repeated, will anyone come to answer them? No.",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_013",
+     "startMs": 121872,
+     "endMs": 128982,
+     "narration_dhivehi": "ނާންނާނެ. ހަމަ އެކަކުވެސް ނާންނާނެ. އެންމެ ކުޑަމިނުން މީހަކަށް ވެގެން އުޅޭ ގޮތް އަންގާނީ ވެސް ކިހިނެއް ހެއްޔެވެ؟",
+     "narration_english": "No one will come. Not a single one. How would they even let anyone know, at the very least, what was happening?",
+     "crop": "tight",
+     "motion": "pan right",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      20.3,
+      4.8,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_014",
+     "startMs": 128982,
+     "endMs": 138692,
+     "narration_dhivehi": "މުއާސަލާތީ ހުރިހާ ހިދުމަތެއް ކެނޑިފައިވާ މި ފަޅު ރަށުގައި އަހަރެމެންނަށް އެހީއެއް ވާން ކީއްކުރަން، ހާލު ބަލައިލާނެ މީހަކު ވެސް ނުހުންނާނެ.",
+     "narration_english": "On this deserted island cut off from every communication service, what's the use — there will be no one even to check on us.",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [
+      {
+       "name": "wind_gust",
+       "atMs": 132282,
+       "gainDb": -22,
+       "word": "ފަޅު"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Mifzaal; reference image 2 is Naveen), create a new scene: Cinematic semi-realistic digital painting in the look of a moody romantic-thriller book cover: soft painterly brushwork, glowing rim light and warm golden highlights on faces and fabric, deep teal-blue shadows, gentle haze and atmospheric depth, subtle film grain, shallow depth of field, rich saturated reds against cool blues; set in the Maldives (turquoise lagoons, white coral-sand beaches, dense tropical jungle of coconut palms, screw-pines and magoo shrubs, coral-stone walls, Male's dense lanes and jetties), Maldivian characters with warm brown skin; emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (sand, water, path, floor, soft shadow) for captions and a logo; bright scenes are sunlit and warm with turquoise and gold, the jungle is green-shadowed and quietly unsettling, storms are dark slate-grey with silver rain, and night scenes in Male are deep blue with warm amber street lamps like the cover.\nScene: a high wide view looking down over the deserted jungle island: Mifzaal and Naveen two tiny figures standing in the small clearing by the glinting pond, swallowed by the endless green canopy; a vast shapeless black cloud spreading over the island; an empty dark sea in every direction, no boats, no other island near; no faces or shapes in the clouds. Location: a high wide view over the small deserted jungle island: an unbroken green canopy of palms, a tiny glinting pond in a clearing, a thin ring of white beach and a dark grey-green sea stretching empty to the horizon in every direction. Camera: extreme wide high-angle shot, the black sky in the upper third, the island in the middle, dark sea as the lower third.\nCharacters: Mifzaal: a tall athletic Maldivian man of about 29 with warm brown skin, a handsome lean face, warm dark-brown eyes, strong straight eyebrows, a neatly trimmed short black beard and moustache and short neat black hair swept back; wears a loose white linen long-sleeved shirt with the sleeves rolled to the forearm, beige chino trousers, brown leather sandals and a plain steel wristwatch. Naveen: a stocky Maldivian man of about 32 with warm brown skin, a broad round friendly face, smiling dark eyes, thick eyebrows, a full short black beard and short cropped black hair; wears a navy-blue polo shirt, long grey cargo trousers and black rubber sandals.\nMood/lighting: a vast shapeless black storm cloud spreading over the island, slate-grey light, small and utterly alone.\nModest Maldivian clothing (every woman in a loose long-sleeved ankle-length dress with a hijab fully covering her hair and neck, also on the beach and in the boat; men in shirts or t-shirts with long trousers, never shirtless, no swimwear on anyone), married couples only side by side or holding hands with no embracing or kissing, culturally respectful and Islamic in spirit, no ghosts, no monsters, no faces in the shadows, no violence shown, no blood, no wounds, no weapons, no alcohol, no smoking, no religious symbols of other faiths, no text, no letters, no numbers, no writing, no readable phone screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.098,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 50.0,
+    "y_pct": 40.0,
+    "face_detected": false
+   }
+  },
+  {
+   "id": "beat_007",
+   "startMs": 138692,
+   "endMs": 158782,
+   "new_image_reason": "action change: the strange voice spins in Mifzaal's head, his hands tremble; Naveen frozen",
+   "characters": [
+    "mifzaal",
+    "naveen"
+   ],
+   "location": "an inland jungle pond (kulhi) on the deserted island: still dark-green water ringed with reeds and soft pale muddy sand banks, an old overgrown taro field (kandoofa) of big heart-shaped taro leaves on one side, thick tall grass clumps, a dense wall of coconut palms and screw-pines all around",
+   "location_key": "pond",
+   "mood": "green jungle shade under a darkening sky, the huge black cloud overhead, muted and unsettling, a cold stillness",
+   "visual": "Mifzaal in the foreground holding up his trembling hands and staring at them, then glancing back over his shoulder with frightened wide eyes towards an empty sand path vanishing into the dark trees; the path is completely empty; behind him, softer, Naveen stands frozen with one hand on his head; leaves swaying, long palm shadows",
+   "camera": "medium close-up on Mifzaal, eye level, his face in the upper third, the empty path behind him, the muddy bank as the lower third",
+   "image": "images/beat_007.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": "other",
+   "safe_substitution": "the hoarse voice is never shown; only Mifzaal's fear and an empty path",
+   "ambience": "jungle_eerie",
+   "shots": [
+    {
+     "id": "shot_015",
+     "startMs": 138692,
+     "endMs": 149292,
+     "narration_dhivehi": "އެ ވަގުތު މިފްޒާލްގެ ހިތް ކޮންމެވެސް ވަރަކަށް ތެޅިގަތް. އޭނާގެ މުޅި ބޮލުތެރޭގައި އެ ވަގުތު އެނބުރެމުން ދިޔައީ އެއްކަލަ ގޮތް ނޭނގޭ އަޑުން އޭނާއަށް ގޮވާލި އަޑު.",
+     "narration_english": "At that moment Mifzaal's heart jolted. Spinning through his whole head at that moment was the voice that had called to him in that strange, unknown way.",
+     "crop": "full",
+     "motion": "pan up",
+     "sfx": [
+      {
+       "name": "heartbeat",
+       "atMs": 141822,
+       "gainDb": -20,
+       "word": "ތެޅިގަތް."
+      },
+      {
+       "name": "low_growl",
+       "atMs": 148062,
+       "gainDb": -24,
+       "word": "ގޮވާލި"
+      }
+     ],
+     "hum": true,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_016",
+     "startMs": 149292,
+     "endMs": 158782,
+     "narration_dhivehi": "މުޅި މީހާގެ އަތާއި ފައި ވަނީ ތުރުތުރު އަޅާ ހާލުގައި. ނަވީން ވެސް ބޮލުގައި އަތް އެޅި ގޮތަށް ހުރިތަނުން ގުޑާލަން ވެސް ހުރީ ނުކުޅެދިފަ.",
+     "narration_english": "His whole body, hands and feet, was trembling. Naveen too stood with his hand on his head, unable even to move from the spot.",
+     "crop": "tight",
+     "motion": "slow pull-out",
+     "sfx": [
+      {
+       "name": "breath_heavy",
+       "atMs": 151342,
+       "gainDb": -22,
+       "word": "ތުރުތުރު"
+      }
+     ],
+     "hum": true,
+     "crop_rect_pct": [
+      3.8,
+      0.0,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Mifzaal; reference image 2 is Naveen), create a new scene: Cinematic semi-realistic digital painting in the look of a moody romantic-thriller book cover: soft painterly brushwork, glowing rim light and warm golden highlights on faces and fabric, deep teal-blue shadows, gentle haze and atmospheric depth, subtle film grain, shallow depth of field, rich saturated reds against cool blues; set in the Maldives (turquoise lagoons, white coral-sand beaches, dense tropical jungle of coconut palms, screw-pines and magoo shrubs, coral-stone walls, Male's dense lanes and jetties), Maldivian characters with warm brown skin; emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (sand, water, path, floor, soft shadow) for captions and a logo; bright scenes are sunlit and warm with turquoise and gold, the jungle is green-shadowed and quietly unsettling, storms are dark slate-grey with silver rain, and night scenes in Male are deep blue with warm amber street lamps like the cover.\nScene: Mifzaal in the foreground holding up his trembling hands and staring at them, then glancing back over his shoulder with frightened wide eyes towards an empty sand path vanishing into the dark trees; the path is completely empty; behind him, softer, Naveen stands frozen with one hand on his head; leaves swaying, long palm shadows. Location: an inland jungle pond (kulhi) on the deserted island: still dark-green water ringed with reeds and soft pale muddy sand banks, an old overgrown taro field (kandoofa) of big heart-shaped taro leaves on one side, thick tall grass clumps, a dense wall of coconut palms and screw-pines all around. Camera: medium close-up on Mifzaal, eye level, his face in the upper third, the empty path behind him, the muddy bank as the lower third.\nCharacters: Mifzaal: a tall athletic Maldivian man of about 29 with warm brown skin, a handsome lean face, warm dark-brown eyes, strong straight eyebrows, a neatly trimmed short black beard and moustache and short neat black hair swept back; wears a loose white linen long-sleeved shirt with the sleeves rolled to the forearm, beige chino trousers, brown leather sandals and a plain steel wristwatch. Naveen: a stocky Maldivian man of about 32 with warm brown skin, a broad round friendly face, smiling dark eyes, thick eyebrows, a full short black beard and short cropped black hair; wears a navy-blue polo shirt, long grey cargo trousers and black rubber sandals.\nMood/lighting: green jungle shade under a darkening sky, the huge black cloud overhead, muted and unsettling, a cold stillness.\nModest Maldivian clothing (every woman in a loose long-sleeved ankle-length dress with a hijab fully covering her hair and neck, also on the beach and in the boat; men in shirts or t-shirts with long trousers, never shirtless, no swimwear on anyone), married couples only side by side or holding hands with no embracing or kissing, culturally respectful and Islamic in spirit, no ghosts, no monsters, no faces in the shadows, no violence shown, no blood, no wounds, no weapons, no alcohol, no smoking, no religious symbols of other faiths, no text, no letters, no numbers, no writing, no readable phone screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.379,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 33.5,
+    "y_pct": 29.2,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_008",
+   "startMs": 158782,
+   "endMs": 179473,
+   "new_image_reason": "speaker change: Naveen breaks down — has Shifza left him like their baby did? (speaker focus)",
+   "characters": [
+    "naveen"
+   ],
+   "location": "an inland jungle pond (kulhi) on the deserted island: still dark-green water ringed with reeds and soft pale muddy sand banks, an old overgrown taro field (kandoofa) of big heart-shaped taro leaves on one side, thick tall grass clumps, a dense wall of coconut palms and screw-pines all around",
+   "location_key": "pond",
+   "mood": "green jungle shade under a darkening sky, the huge black cloud overhead, muted and unsettling, a cold stillness",
+   "visual": "Naveen, centred and in sharp focus, standing with one hand pressed on top of his head, his broad face crumpling with grief, wet eyes lifted to the black sky, mouth open as he speaks broken words; the pond and the dark jungle blurred behind him",
+   "camera": "medium close-up, slightly low angle, Naveen's face in the upper half, the dark sky above",
+   "image": "images/beat_008.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": "other",
+   "safe_substitution": "the lost baby is never shown; only Naveen's grieving face and the sky",
+   "ambience": "pond_jungle",
+   "shots": [
+    {
+     "id": "shot_017",
+     "startMs": 158782,
+     "endMs": 168922,
+     "narration_dhivehi": "ނަވީންގެ އަރު ތެރެއިން އެ ވަގުތު ނިކުތީ އެހާމެ އަސަރުން ފުރިފައިވާ ބަސްތަކެއް. އަހަރެންގެ ލޯބިވާ ދަރިފުޅު ވެސް މި ދުނިޔެއާ",
+     "narration_english": "From Naveen's throat at that moment came words just as full of feeling: \"My beloved baby too bade this world",
+     "crop": "full",
+     "motion": "pan down",
+     "sfx": [
+      {
+       "name": "sob_breath",
+       "atMs": 159062,
+       "gainDb": -22,
+       "word": "ނަވީންގެ"
+      }
+     ],
+     "hum": true,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_018",
+     "startMs": 168922,
+     "endMs": 179473,
+     "narration_dhivehi": "އަލްވަދާއު ކީ ހަމަ ވީ އެއްވެސް ގޮތެއް ނޭނގި. އަނެއްކާ އަހަރެންގެ ލޯބިވާ އަނބިމީހާ ޝިފްޒާ ވެސް",
+     "narration_english": "farewell without any warning. Has my beloved wife Shifza too",
+     "crop": "tight",
+     "motion": "static drift",
+     "sfx": [],
+     "hum": true,
+     "crop_rect_pct": [
+      23.7,
+      0.0,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Naveen), create a new scene: Cinematic semi-realistic digital painting in the look of a moody romantic-thriller book cover: soft painterly brushwork, glowing rim light and warm golden highlights on faces and fabric, deep teal-blue shadows, gentle haze and atmospheric depth, subtle film grain, shallow depth of field, rich saturated reds against cool blues; set in the Maldives (turquoise lagoons, white coral-sand beaches, dense tropical jungle of coconut palms, screw-pines and magoo shrubs, coral-stone walls, Male's dense lanes and jetties), Maldivian characters with warm brown skin; emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (sand, water, path, floor, soft shadow) for captions and a logo; bright scenes are sunlit and warm with turquoise and gold, the jungle is green-shadowed and quietly unsettling, storms are dark slate-grey with silver rain, and night scenes in Male are deep blue with warm amber street lamps like the cover.\nScene: Naveen, centred and in sharp focus, standing with one hand pressed on top of his head, his broad face crumpling with grief, wet eyes lifted to the black sky, mouth open as he speaks broken words; the pond and the dark jungle blurred behind him. Location: an inland jungle pond (kulhi) on the deserted island: still dark-green water ringed with reeds and soft pale muddy sand banks, an old overgrown taro field (kandoofa) of big heart-shaped taro leaves on one side, thick tall grass clumps, a dense wall of coconut palms and screw-pines all around. Camera: medium close-up, slightly low angle, Naveen's face in the upper half, the dark sky above.\nCharacters: Naveen: a stocky Maldivian man of about 32 with warm brown skin, a broad round friendly face, smiling dark eyes, thick eyebrows, a full short black beard and short cropped black hair; wears a navy-blue polo shirt, long grey cargo trousers and black rubber sandals.\nMood/lighting: green jungle shade under a darkening sky, the huge black cloud overhead, muted and unsettling, a cold stillness.\nModest Maldivian clothing (every woman in a loose long-sleeved ankle-length dress with a hijab fully covering her hair and neck, also on the beach and in the boat; men in shirts or t-shirts with long trousers, never shirtless, no swimwear on anyone), married couples only side by side or holding hands with no embracing or kissing, culturally respectful and Islamic in spirit, no ghosts, no monsters, no faces in the shadows, no violence shown, no blood, no wounds, no weapons, no alcohol, no smoking, no religious symbols of other faiths, no text, no letters, no numbers, no writing, no readable phone screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.186,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 53.4,
+    "y_pct": 23.4,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_009",
+   "startMs": 179473,
+   "endMs": 202553,
+   "new_image_reason": "action change: Mifzaal lays a hand on Naveen's shoulder and speaks of a father's feelings (speaker focus)",
+   "characters": [
+    "mifzaal",
+    "naveen"
+   ],
+   "location": "an inland jungle pond (kulhi) on the deserted island: still dark-green water ringed with reeds and soft pale muddy sand banks, an old overgrown taro field (kandoofa) of big heart-shaped taro leaves on one side, thick tall grass clumps, a dense wall of coconut palms and screw-pines all around",
+   "location_key": "pond",
+   "mood": "green jungle shade under a darkening sky, the huge black cloud overhead, muted and unsettling, a cold stillness",
+   "visual": "Mifzaal, centred and in sharp focus facing the camera, laying his hand gently on Naveen's shoulder, speaking softly with a deep, strangely knowing sadness in his eyes; Naveen in three-quarter view from behind at the side, head bowed; the dim pond behind",
+   "camera": "medium shot over Naveen's shoulder, eye level, Mifzaal's face in the upper third",
+   "image": "images/beat_009.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": "other",
+   "safe_substitution": "men comforting each other (hand on shoulder); no child shown",
+   "ambience": "pond_jungle",
+   "shots": [
+    {
+     "id": "shot_019",
+     "startMs": 179473,
+     "endMs": 192613,
+     "narration_dhivehi": "ހަމަ އެ ގޮތަށް އަހަރެން ދޫކޮށް ދިޔައީބާ؟ ނަވީންގެ ހިތުގައި އަޅަމުން ދިޔަ ވޭނަށް ތަސައްލީއެއް ހޯދައި ދިނުމުގެ ގޮތުން މިފްޒާލް އޭނާގެ ކޮނޑުގައި އޯގާތެރިކަމާ އެކު ފިރުމާލަމުން ބުނެލި.",
+     "narration_english": "left me in just the same way?\" To bring some comfort to the pain aching in Naveen's heart, Mifzaal stroked his shoulder tenderly and said:",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [
+      {
+       "name": "cloth_rustle",
+       "atMs": 191103,
+       "gainDb": -24,
+       "word": "ފިރުމާލަމުން"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_020",
+     "startMs": 192613,
+     "endMs": 202553,
+     "narration_dhivehi": "ނަވީން، އަހަރެންނަށް ވެސް އެނގޭ އެންމެ ލޯބިވާ ދަރިފުޅު ގޮތް ނޭނގޭ ގޮތަކަށް އަލްވަދާއު ކީމަ ބައްޕައަކަށް ކުރެވޭނެ އިހުސާސް.",
+     "narration_english": "\"Naveen, I too know the feeling a father has when his most beloved child bids farewell in some unknown way.\"",
+     "crop": "tight",
+     "motion": "pan left",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      17.0,
+      0.0,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Mifzaal; reference image 2 is Naveen), create a new scene: Cinematic semi-realistic digital painting in the look of a moody romantic-thriller book cover: soft painterly brushwork, glowing rim light and warm golden highlights on faces and fabric, deep teal-blue shadows, gentle haze and atmospheric depth, subtle film grain, shallow depth of field, rich saturated reds against cool blues; set in the Maldives (turquoise lagoons, white coral-sand beaches, dense tropical jungle of coconut palms, screw-pines and magoo shrubs, coral-stone walls, Male's dense lanes and jetties), Maldivian characters with warm brown skin; emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (sand, water, path, floor, soft shadow) for captions and a logo; bright scenes are sunlit and warm with turquoise and gold, the jungle is green-shadowed and quietly unsettling, storms are dark slate-grey with silver rain, and night scenes in Male are deep blue with warm amber street lamps like the cover.\nScene: Mifzaal, centred and in sharp focus facing the camera, laying his hand gently on Naveen's shoulder, speaking softly with a deep, strangely knowing sadness in his eyes; Naveen in three-quarter view from behind at the side, head bowed; the dim pond behind. Location: an inland jungle pond (kulhi) on the deserted island: still dark-green water ringed with reeds and soft pale muddy sand banks, an old overgrown taro field (kandoofa) of big heart-shaped taro leaves on one side, thick tall grass clumps, a dense wall of coconut palms and screw-pines all around. Camera: medium shot over Naveen's shoulder, eye level, Mifzaal's face in the upper third.\nCharacters: Mifzaal: a tall athletic Maldivian man of about 29 with warm brown skin, a handsome lean face, warm dark-brown eyes, strong straight eyebrows, a neatly trimmed short black beard and moustache and short neat black hair swept back; wears a loose white linen long-sleeved shirt with the sleeves rolled to the forearm, beige chino trousers, brown leather sandals and a plain steel wristwatch. Naveen: a stocky Maldivian man of about 32 with warm brown skin, a broad round friendly face, smiling dark eyes, thick eyebrows, a full short black beard and short cropped black hair; wears a navy-blue polo shirt, long grey cargo trousers and black rubber sandals.\nMood/lighting: green jungle shade under a darkening sky, the huge black cloud overhead, muted and unsettling, a cold stillness.\nModest Maldivian clothing (every woman in a loose long-sleeved ankle-length dress with a hijab fully covering her hair and neck, also on the beach and in the boat; men in shirts or t-shirts with long trousers, never shirtless, no swimwear on anyone), married couples only side by side or holding hands with no embracing or kissing, culturally respectful and Islamic in spirit, no ghosts, no monsters, no faces in the shadows, no violence shown, no blood, no wounds, no weapons, no alcohol, no smoking, no religious symbols of other faiths, no text, no letters, no numbers, no writing, no readable phone screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.324,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 46.7,
+    "y_pct": 34.3,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_010",
+   "startMs": 202553,
+   "endMs": 213253,
+   "new_image_reason": "return to Naveen's framing: he asks how a newlywed could know a father's feelings (shot / reverse-shot)",
+   "characters": [],
+   "location": "an inland jungle pond (kulhi) on the deserted island: still dark-green water ringed with reeds and soft pale muddy sand banks, an old overgrown taro field (kandoofa) of big heart-shaped taro leaves on one side, thick tall grass clumps, a dense wall of coconut palms and screw-pines all around",
+   "location_key": "pond",
+   "mood": "green jungle shade under a darkening sky, the huge black cloud overhead, muted and unsettling, a cold stillness",
+   "visual": "(reuse of beat_008)",
+   "camera": "medium shot, eye level",
+   "image": "images/beat_008.png",
+   "reuse_of": "beat_008",
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "pond_jungle",
+   "shots": [
+    {
+     "id": "shot_021",
+     "startMs": 202553,
+     "endMs": 213253,
+     "narration_dhivehi": "މިފްޒާލްގެ މި ބުނުމާ އެކު ނަވީންގެ ހިތުގައި އުފެދުނީ އިތުރު ސުވާލެއް. މިފްޒާލް، އެކަމަކު އަދި ކިރިޔާއެއްނު ތި ކައިވެންޏެއް ވެސް ކުރީ.",
+     "narration_english": "With Mifzaal's words another question arose in Naveen's heart. \"Mifzaal, but you only just got married, didn't you?",
+     "crop": "medium",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      17.7,
+      0.0,
+      71.5,
+      84.7
+     ]
+    }
+   ],
+   "prompt_attempts": [],
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.191,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 53.4,
+    "y_pct": 23.4,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_011",
+   "startMs": 213253,
+   "endMs": 224423,
+   "new_image_reason": "emotional turning point: Mifzaal stunned as if struck by thirty-two bolts of lightning",
+   "characters": [
+    "mifzaal"
+   ],
+   "location": "an inland jungle pond (kulhi) on the deserted island: still dark-green water ringed with reeds and soft pale muddy sand banks, an old overgrown taro field (kandoofa) of big heart-shaped taro leaves on one side, thick tall grass clumps, a dense wall of coconut palms and screw-pines all around",
+   "location_key": "pond",
+   "mood": "green jungle shade under a darkening sky, the huge black cloud overhead, muted and unsettling, a cold stillness",
+   "visual": "close-up of Mifzaal frozen in shock, eyes wide and unblinking, lips parted, the colour drained from his face; behind him a jagged silver lightning bolt splits the black sky over the palms, a cold white flash rim-lighting his face",
+   "camera": "close-up, eye level, his face in the upper half, his white shirt collar and the dark background as the lower third",
+   "image": "images/beat_011.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": "other",
+   "safe_substitution": "his secret is not invented or shown; only his shocked face",
+   "ambience": "pond_jungle",
+   "shots": [
+    {
+     "id": "shot_022",
+     "startMs": 213253,
+     "endMs": 224423,
+     "narration_dhivehi": "ދެން ކީއްވެ ބައްޕައެއްގެ އިހުސާސްތައް އެނގޭ ވާހަކަ ތި ބުނީ؟ ނަވީންގެ މި ސުވާލާ އެކު މިފްޒާލްގެ ހަށިގަނޑަށް ހީވީ އެއްފަހަރާ ބައްތިރީސް ފުޅި ތޮށިގަނޑު ހަރާލި ހެން.",
+     "narration_english": "Then why did you say you know a father's feelings?\" At Naveen's question, Mifzaal's body felt as if thirty-two bolts of lightning had struck at once.",
+     "crop": "full",
+     "motion": "pan right",
+     "sfx": [
+      {
+       "name": "thunder",
+       "atMs": 223083,
+       "gainDb": -16,
+       "word": "ތޮށިގަނޑު"
+      },
+      {
+       "name": "gasp",
+       "atMs": 219923,
+       "gainDb": -20,
+       "word": "ހަށިގަނޑަށް"
+      }
+     ],
+     "hum": true,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Mifzaal), create a new scene: Cinematic semi-realistic digital painting in the look of a moody romantic-thriller book cover: soft painterly brushwork, glowing rim light and warm golden highlights on faces and fabric, deep teal-blue shadows, gentle haze and atmospheric depth, subtle film grain, shallow depth of field, rich saturated reds against cool blues; set in the Maldives (turquoise lagoons, white coral-sand beaches, dense tropical jungle of coconut palms, screw-pines and magoo shrubs, coral-stone walls, Male's dense lanes and jetties), Maldivian characters with warm brown skin; emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (sand, water, path, floor, soft shadow) for captions and a logo; bright scenes are sunlit and warm with turquoise and gold, the jungle is green-shadowed and quietly unsettling, storms are dark slate-grey with silver rain, and night scenes in Male are deep blue with warm amber street lamps like the cover.\nScene: close-up of Mifzaal frozen in shock, eyes wide and unblinking, lips parted, the colour drained from his face; behind him a jagged silver lightning bolt splits the black sky over the palms, a cold white flash rim-lighting his face. Location: an inland jungle pond (kulhi) on the deserted island: still dark-green water ringed with reeds and soft pale muddy sand banks, an old overgrown taro field (kandoofa) of big heart-shaped taro leaves on one side, thick tall grass clumps, a dense wall of coconut palms and screw-pines all around. Camera: close-up, eye level, his face in the upper half, his white shirt collar and the dark background as the lower third.\nCharacters: Mifzaal: a tall athletic Maldivian man of about 29 with warm brown skin, a handsome lean face, warm dark-brown eyes, strong straight eyebrows, a neatly trimmed short black beard and moustache and short neat black hair swept back; wears a loose white linen long-sleeved shirt with the sleeves rolled to the forearm, beige chino trousers, brown leather sandals and a plain steel wristwatch.\nMood/lighting: green jungle shade under a darkening sky, the huge black cloud overhead, muted and unsettling, a cold stillness.\nModest Maldivian clothing (every woman in a loose long-sleeved ankle-length dress with a hijab fully covering her hair and neck, also on the beach and in the boat; men in shirts or t-shirts with long trousers, never shirtless, no swimwear on anyone), married couples only side by side or holding hands with no embracing or kissing, culturally respectful and Islamic in spirit, no ghosts, no monsters, no faces in the shadows, no violence shown, no blood, no wounds, no weapons, no alcohol, no smoking, no religious symbols of other faiths, no text, no letters, no numbers, no writing, no readable phone screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.185,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 42.1,
+    "y_pct": 26.7,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_012",
+   "startMs": 224423,
+   "endMs": 247164,
+   "new_image_reason": "scene change: Mifzaal goes to the shoreline and calls the coast guard",
+   "characters": [
+    "mifzaal"
+   ],
+   "location": "the deserted island's white sand shoreline at the jungle edge: the waterline with small choppy grey waves, coconut palms leaning over the beach, the open empty sea beyond",
+   "location_key": "shoreline",
+   "mood": "slate-grey storm light building, black clouds over a dark grey-green sea, wind rising",
+   "visual": "Mifzaal standing alone at the waterline of the white beach, his phone pressed to his ear (screen facing away, no readable screen), his other hand on his hip, talking urgently; choppy grey waves at his feet; black clouds rolling over the empty sea; no boats and no people in sight",
+   "camera": "medium wide, eye level, Mifzaal in the upper two-thirds, the wet sand and foam as the lower third",
+   "image": "images/beat_012.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": "other",
+   "safe_substitution": "the coast guard is only a phone call; no officers shown",
+   "ambience": "island_wild",
+   "shots": [
+    {
+     "id": "shot_023",
+     "startMs": 224423,
+     "endMs": 238244,
+     "narration_dhivehi": "ނަމަވެސް ނަވީންގެ މި ސުވާލަށް ޖަވާބު ދިނުމުގެ ހިތްވަރެއް މި ނާޒުކު ވަގުތުގައި މިފްޒާލްގެ ގަޔަކު ނެތް. އެހެންވެ ކުއްލިއަކަށް ފޯނަށް ސިގްނަލް ލިބިއްޖެޔޭ ބުނުމަށްފަހު ތެދުވެ ރާޅުފަށާ ގާތްވެލި.",
+     "narration_english": "But at this delicate moment Mifzaal had no courage in him to answer Naveen's question. So, suddenly saying the phone had got a signal, he got up and went close to the shoreline.",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [
+      {
+       "name": "footsteps_sand",
+       "atMs": 236444,
+       "gainDb": -22,
+       "word": "ތެދުވެ"
+      },
+      {
+       "name": "wave_crash",
+       "atMs": 236844,
+       "gainDb": -22,
+       "word": "ރާޅުފަށާ"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_024",
+     "startMs": 238244,
+     "endMs": 247164,
+     "narration_dhivehi": "އަދި އަވަސްއަވަހަށް ކޯސްޓްގާޑަށް ގުޅާ އެ މީހުންގެ ހާލަތު ކިޔައިދިން. އަދި ސަލާމަތް ކުރަން ވަރަށް އަވަހަށް އަންނާނެޔޭ ބުނުމުން ފޯނު ކަނޑާލި.",
+     "narration_english": "And he quickly called the coast guard and explained their situation. When they said they would come very quickly to rescue them, he hung up.",
+     "crop": "tight",
+     "motion": "pan up",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      36.5,
+      29.6,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Mifzaal), create a new scene: Cinematic semi-realistic digital painting in the look of a moody romantic-thriller book cover: soft painterly brushwork, glowing rim light and warm golden highlights on faces and fabric, deep teal-blue shadows, gentle haze and atmospheric depth, subtle film grain, shallow depth of field, rich saturated reds against cool blues; set in the Maldives (turquoise lagoons, white coral-sand beaches, dense tropical jungle of coconut palms, screw-pines and magoo shrubs, coral-stone walls, Male's dense lanes and jetties), Maldivian characters with warm brown skin; emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (sand, water, path, floor, soft shadow) for captions and a logo; bright scenes are sunlit and warm with turquoise and gold, the jungle is green-shadowed and quietly unsettling, storms are dark slate-grey with silver rain, and night scenes in Male are deep blue with warm amber street lamps like the cover.\nScene: Mifzaal standing alone at the waterline of the white beach, his phone pressed to his ear (screen facing away, no readable screen), his other hand on his hip, talking urgently; choppy grey waves at his feet; black clouds rolling over the empty sea; no boats and no people in sight. Location: the deserted island's white sand shoreline at the jungle edge: the waterline with small choppy grey waves, coconut palms leaning over the beach, the open empty sea beyond. Camera: medium wide, eye level, Mifzaal in the upper two-thirds, the wet sand and foam as the lower third.\nCharacters: Mifzaal: a tall athletic Maldivian man of about 29 with warm brown skin, a handsome lean face, warm dark-brown eyes, strong straight eyebrows, a neatly trimmed short black beard and moustache and short neat black hair swept back; wears a loose white linen long-sleeved shirt with the sleeves rolled to the forearm, beige chino trousers, brown leather sandals and a plain steel wristwatch.\nMood/lighting: slate-grey storm light building, black clouds over a dark grey-green sea, wind rising.\nModest Maldivian clothing (every woman in a loose long-sleeved ankle-length dress with a hijab fully covering her hair and neck, also on the beach and in the boat; men in shirts or t-shirts with long trousers, never shirtless, no swimwear on anyone), married couples only side by side or holding hands with no embracing or kissing, culturally respectful and Islamic in spirit, no ghosts, no monsters, no faces in the shadows, no violence shown, no blood, no wounds, no weapons, no alcohol, no smoking, no religious symbols of other faiths, no text, no letters, no numbers, no writing, no readable phone screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.473,
+    "halo": true
+   },
+   "focus": {
+    "x_pct": 66.2,
+    "y_pct": 88.7,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_013",
+   "startMs": 247164,
+   "endMs": 272804,
+   "new_image_reason": "action change: a little relief — the two men sit in the shade of the beach ridge waiting",
+   "characters": [
+    "naveen",
+    "mifzaal"
+   ],
+   "location": "the shady beach ridge of the deserted island where the bags were left: low leafy trees and magoo shrubs over white sand, a couple of bags and a cooler box in the shade, the beach and the sea beyond",
+   "location_key": "beach_ridge",
+   "mood": "slate-grey overcast afternoon, a fragile calm before the storm, soft diffused light",
+   "visual": "Mifzaal and Naveen sitting on the white sand in the shade of the beach-ridge trees beside the bags, gazing out at the grey sea; tired faces with a small fragile relief, but still heavy with grief; Naveen's elbows on his knees, Mifzaal leaning back on one hand",
+   "camera": "medium wide, eye level, the two in the upper two-thirds, the white sand as the lower third",
+   "image": "images/beat_013.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "beach_day",
+   "shots": [
+    {
+     "id": "shot_025",
+     "startMs": 247164,
+     "endMs": 262634,
+     "narration_dhivehi": "މި ހަބަރާ އެކު މިފްޒާލް އާއި ނަވީންގެ ހިތަށް ކޮންމެވެސް ވަރެއްގެ ހަމަޖެހުމެއް ލިބިގެން ދިޔަ. ކުޑަ ހިނދުކޮޅަކަށް އުފާވެރި ހަބަރެއް ލިބުނު ކަމުގައި ވިޔަސް މި ހުރިހާ ކަމެއްގެ މެދުވެރިއެއް ވާނެކަން އެ ދެ މީހުން ވެސް ގަބޫލުކުރޭ.",
+     "narration_english": "With this news Mifzaal and Naveen's hearts found some measure of calm. Though it was happy news for only a short while, both believed it would be the way through all of this.",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [
+      {
+       "name": "sigh",
+       "atMs": 251964,
+       "gainDb": -22,
+       "word": "ހަމަޖެހުމެއް"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_026",
+     "startMs": 262634,
+     "endMs": 272804,
+     "narration_dhivehi": "ނަމަވެސް ގޮތް ނޭނގޭ ގޮތަކަށް ދެ އަންހެނުން، މީހުން ދިރިނޫޅޭ ފަޅު ރަށެއްގައި ގެއްލުމަކީ އާދައިގެ ކުޑަ ކަމެއް ނޫން. އޭގެ ހިތާމައިގެ ލަކުނު، އެ ކަމާ ހިތާމަކުރާ ކޮންމެ",
+     "narration_english": "Yet two women vanishing in some unknown way on a deserted island where no one lives is no small, ordinary thing. The scar of that grief, in the heart of everyone",
+     "crop": "tight",
+     "motion": "pan down",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      0.8,
+      0.0,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Naveen; reference image 2 is Mifzaal), create a new scene: Cinematic semi-realistic digital painting in the look of a moody romantic-thriller book cover: soft painterly brushwork, glowing rim light and warm golden highlights on faces and fabric, deep teal-blue shadows, gentle haze and atmospheric depth, subtle film grain, shallow depth of field, rich saturated reds against cool blues; set in the Maldives (turquoise lagoons, white coral-sand beaches, dense tropical jungle of coconut palms, screw-pines and magoo shrubs, coral-stone walls, Male's dense lanes and jetties), Maldivian characters with warm brown skin; emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (sand, water, path, floor, soft shadow) for captions and a logo; bright scenes are sunlit and warm with turquoise and gold, the jungle is green-shadowed and quietly unsettling, storms are dark slate-grey with silver rain, and night scenes in Male are deep blue with warm amber street lamps like the cover.\nScene: Mifzaal and Naveen sitting on the white sand in the shade of the beach-ridge trees beside the bags, gazing out at the grey sea; tired faces with a small fragile relief, but still heavy with grief; Naveen's elbows on his knees, Mifzaal leaning back on one hand. Location: the shady beach ridge of the deserted island where the bags were left: low leafy trees and magoo shrubs over white sand, a couple of bags and a cooler box in the shade, the beach and the sea beyond. Camera: medium wide, eye level, the two in the upper two-thirds, the white sand as the lower third.\nCharacters: Naveen: a stocky Maldivian man of about 32 with warm brown skin, a broad round friendly face, smiling dark eyes, thick eyebrows, a full short black beard and short cropped black hair; wears a navy-blue polo shirt, long grey cargo trousers and black rubber sandals. Mifzaal: a tall athletic Maldivian man of about 29 with warm brown skin, a handsome lean face, warm dark-brown eyes, strong straight eyebrows, a neatly trimmed short black beard and moustache and short neat black hair swept back; wears a loose white linen long-sleeved shirt with the sleeves rolled to the forearm, beige chino trousers, brown leather sandals and a plain steel wristwatch.\nMood/lighting: slate-grey overcast afternoon, a fragile calm before the storm, soft diffused light.\nModest Maldivian clothing (every woman in a loose long-sleeved ankle-length dress with a hijab fully covering her hair and neck, also on the beach and in the boat; men in shirts or t-shirts with long trousers, never shirtless, no swimwear on anyone), married couples only side by side or holding hands with no embracing or kissing, culturally respectful and Islamic in spirit, no ghosts, no monsters, no faces in the shadows, no violence shown, no blood, no wounds, no weapons, no alcohol, no smoking, no religious symbols of other faiths, no text, no letters, no numbers, no writing, no readable phone screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.406,
+    "halo": true
+   },
+   "focus": {
+    "x_pct": 30.5,
+    "y_pct": 26.8,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_014",
+   "startMs": 272804,
+   "endMs": 299425,
+   "new_image_reason": "weather change: strong wind and heavy rain; they huddle under a small blue tarpaulin shelter; a message tone",
+   "characters": [
+    "mifzaal",
+    "naveen"
+   ],
+   "location": "a tiny makeshift shelter on the beach ridge of the deserted island: a small blue tarpaulin tied between two leaning coconut palms over a patch of sand, bags beneath it, the beach and the heaving grey sea beyond",
+   "location_key": "tarp_shelter",
+   "mood": "slate-grey storm, heavy silver rain slanting in strong wind, palms bending, the blue tarpaulin glistening, cold, lonely and tense",
+   "visual": "the small blue tarpaulin shelter tied between two bending coconut palms on the beach ridge, heavy silver rain slanting across in the strong wind; Mifzaal and Naveen huddled underneath sitting on the sand, damp clothes clinging loosely but opaque, hugging their knees, looking out at the storm; the grey sea churning beyond; Mifzaal reaching for the phone in his pocket",
+   "camera": "medium wide, eye level, the shelter and the men in the upper two-thirds, the rain-pocked sand as the lower third",
+   "image": "images/beat_014.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "island_storm_day",
+   "shots": [
+    {
+     "id": "shot_027",
+     "startMs": 272804,
+     "endMs": 282674,
+     "narration_dhivehi": "މީހެއްގެ ހިތުގައި ވެސް ލުމަކީ ނުވެ ނުދާނެ ކަމެއް. ކިހާ ދެރަ، އެހެން ނޫންތަ؟ އިސާހިތަކު ގަދަވަޔާ އެކު ބޯކޮށް ވާރޭ ވެހެން ފަށައިފި.",
+     "narration_english": "who grieves for it, is something that will never heal. How sad, isn't it? In a moment, with a strong wind, heavy rain began to pour.",
+     "crop": "full",
+     "motion": "static drift",
+     "sfx": [
+      {
+       "name": "wind_gust",
+       "atMs": 279944,
+       "gainDb": -16,
+       "word": "ގަދަވަޔާ"
+      },
+      {
+       "name": "rain_start",
+       "atMs": 281244,
+       "gainDb": -16,
+       "word": "ވާރޭ"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_028",
+     "startMs": 282674,
+     "endMs": 291035,
+     "narration_dhivehi": "އެ ރަށުގައި އެ މީހުން ސަތަރިން ހެދި ކުޑަކުޑަ ހިޔާކޮޅުގެ ނިވަލުގައި ތިބީ އެހީވާނެ އަތެއް ދިއްކޮށްލާނެ މީހެއްގެ އިންތިޒާރުގައި.",
+     "narration_english": "On that island they sat in the cover of a tiny shelter made of a tarpaulin, waiting for someone to reach out a helping hand.",
+     "crop": "tight",
+     "motion": "slow push-in",
+     "sfx": [
+      {
+       "name": "cloth_rustle",
+       "atMs": 284144,
+       "gainDb": -22,
+       "word": "ސަތަރިން"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      29.6,
+      0.8,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_029",
+     "startMs": 291035,
+     "endMs": 299425,
+     "narration_dhivehi": "ޔާރާ އާއި ޝިފްޒާ ވާރެއިން ހިޔާވާން އަންނާނެ ނަމަ ކިހާ ރަނގަޅު ހެއްޔެވެ. ކުއްލިއަކަށް މިފްޒާލްގެ ފޯނުން މެސެޖެއްގެ އަޑު އިވިގެން ދިޔަ.",
+     "narration_english": "How good it would be if Yaraa and Shifza came to shelter from the rain. Suddenly the sound of a message came from Mifzaal's phone.",
+     "crop": "full",
+     "motion": "pan left",
+     "sfx": [
+      {
+       "name": "phone_buzz",
+       "atMs": 297845,
+       "gainDb": -16,
+       "word": "މެސެޖެއްގެ"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Mifzaal; reference image 2 is Naveen), create a new scene: Cinematic semi-realistic digital painting in the look of a moody romantic-thriller book cover: soft painterly brushwork, glowing rim light and warm golden highlights on faces and fabric, deep teal-blue shadows, gentle haze and atmospheric depth, subtle film grain, shallow depth of field, rich saturated reds against cool blues; set in the Maldives (turquoise lagoons, white coral-sand beaches, dense tropical jungle of coconut palms, screw-pines and magoo shrubs, coral-stone walls, Male's dense lanes and jetties), Maldivian characters with warm brown skin; emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (sand, water, path, floor, soft shadow) for captions and a logo; bright scenes are sunlit and warm with turquoise and gold, the jungle is green-shadowed and quietly unsettling, storms are dark slate-grey with silver rain, and night scenes in Male are deep blue with warm amber street lamps like the cover.\nScene: the small blue tarpaulin shelter tied between two bending coconut palms on the beach ridge, heavy silver rain slanting across in the strong wind; Mifzaal and Naveen huddled underneath sitting on the sand, damp clothes clinging loosely but opaque, hugging their knees, looking out at the storm; the grey sea churning beyond; Mifzaal reaching for the phone in his pocket. Location: a tiny makeshift shelter on the beach ridge of the deserted island: a small blue tarpaulin tied between two leaning coconut palms over a patch of sand, bags beneath it, the beach and the heaving grey sea beyond. Camera: medium wide, eye level, the shelter and the men in the upper two-thirds, the rain-pocked sand as the lower third.\nCharacters: Mifzaal: a tall athletic Maldivian man of about 29 with warm brown skin, a handsome lean face, warm dark-brown eyes, strong straight eyebrows, a neatly trimmed short black beard and moustache and short neat black hair swept back; wears a loose white linen long-sleeved shirt with the sleeves rolled to the forearm, beige chino trousers, brown leather sandals and a plain steel wristwatch. Naveen: a stocky Maldivian man of about 32 with warm brown skin, a broad round friendly face, smiling dark eyes, thick eyebrows, a full short black beard and short cropped black hair; wears a navy-blue polo shirt, long grey cargo trousers and black rubber sandals.\nMood/lighting: slate-grey storm, heavy silver rain slanting in strong wind, palms bending, the blue tarpaulin glistening, cold, lonely and tense.\nModest Maldivian clothing (every woman in a loose long-sleeved ankle-length dress with a hijab fully covering her hair and neck, also on the beach and in the boat; men in shirts or t-shirts with long trousers, never shirtless, no swimwear on anyone), married couples only side by side or holding hands with no embracing or kissing, culturally respectful and Islamic in spirit, no ghosts, no monsters, no faces in the shadows, no violence shown, no blood, no wounds, no weapons, no alcohol, no smoking, no religious symbols of other faiths, no text, no letters, no numbers, no writing, no readable phone screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.3,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 59.3,
+    "y_pct": 36.1,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_015",
+   "startMs": 299425,
+   "endMs": 322825,
+   "new_image_reason": "emotional turning point: a message from Yaraa's phone — Mifzaal reads it",
+   "characters": [
+    "mifzaal"
+   ],
+   "location": "a tiny makeshift shelter on the beach ridge of the deserted island: a small blue tarpaulin tied between two leaning coconut palms over a patch of sand, bags beneath it, the beach and the heaving grey sea beyond",
+   "location_key": "tarp_shelter",
+   "mood": "slate-grey storm, heavy silver rain slanting in strong wind, palms bending, the blue tarpaulin glistening, cold, lonely and tense",
+   "visual": "close-up of Mifzaal under the blue tarpaulin, rain dripping from its edge, his face softly lit from below by the pale glow of the phone he holds (screen facing away from the camera, nothing readable); his eyes wide, searching, lips trembling; the grey storm blurred behind",
+   "camera": "close-up, eye level, his face in the upper half, the glowing phone back and his hands in the lower part",
+   "image": "images/beat_015.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": "other",
+   "safe_substitution": "phone screen never readable, only its glow on his face",
+   "ambience": "rain_day",
+   "shots": [
+    {
+     "id": "shot_030",
+     "startMs": 299425,
+     "endMs": 308105,
+     "narration_dhivehi": "އެއީ ޔާރާގެ ފޯނުން ކުރި މެސެޖެއް. އަވަހަށް މެސެޖް ހުޅުވާ ކިޔަން ފެށި. ޔާރާގެ މެސެޖުގައި ލިޔެފައި އޮތް.",
+     "narration_english": "It was a message sent from Yaraa's phone. He quickly opened the message and began to read. Written in Yaraa's message was:",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_031",
+     "startMs": 308105,
+     "endMs": 322825,
+     "narration_dhivehi": "މިފްޒާލް، އަހަރެން މިފްޒާލް ދެކެ އިންތިހާއަށް ލޯބިވިން. އަދި ހަމަ މި ހިތުގައި މިފްޒާލްގެ ލޯބި ވަނީ އަބަދުގެ އަބަދަށް ބިންވަޅު ނެގިފަ.",
+     "narration_english": "\"Mifzaal, I love you, Mifzaal, beyond all limits. And in this very heart your love has laid its foundations forever and ever.",
+     "crop": "tight",
+     "motion": "pan right",
+     "sfx": [],
+     "hum": true,
+     "crop_rect_pct": [
+      2.1,
+      0.0,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Mifzaal), create a new scene: Cinematic semi-realistic digital painting in the look of a moody romantic-thriller book cover: soft painterly brushwork, glowing rim light and warm golden highlights on faces and fabric, deep teal-blue shadows, gentle haze and atmospheric depth, subtle film grain, shallow depth of field, rich saturated reds against cool blues; set in the Maldives (turquoise lagoons, white coral-sand beaches, dense tropical jungle of coconut palms, screw-pines and magoo shrubs, coral-stone walls, Male's dense lanes and jetties), Maldivian characters with warm brown skin; emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (sand, water, path, floor, soft shadow) for captions and a logo; bright scenes are sunlit and warm with turquoise and gold, the jungle is green-shadowed and quietly unsettling, storms are dark slate-grey with silver rain, and night scenes in Male are deep blue with warm amber street lamps like the cover.\nScene: close-up of Mifzaal under the blue tarpaulin, rain dripping from its edge, his face softly lit from below by the pale glow of the phone he holds (screen facing away from the camera, nothing readable); his eyes wide, searching, lips trembling; the grey storm blurred behind. Location: a tiny makeshift shelter on the beach ridge of the deserted island: a small blue tarpaulin tied between two leaning coconut palms over a patch of sand, bags beneath it, the beach and the heaving grey sea beyond. Camera: close-up, eye level, his face in the upper half, the glowing phone back and his hands in the lower part.\nCharacters: Mifzaal: a tall athletic Maldivian man of about 29 with warm brown skin, a handsome lean face, warm dark-brown eyes, strong straight eyebrows, a neatly trimmed short black beard and moustache and short neat black hair swept back; wears a loose white linen long-sleeved shirt with the sleeves rolled to the forearm, beige chino trousers, brown leather sandals and a plain steel wristwatch.\nMood/lighting: slate-grey storm, heavy silver rain slanting in strong wind, palms bending, the blue tarpaulin glistening, cold, lonely and tense.\nModest Maldivian clothing (every woman in a loose long-sleeved ankle-length dress with a hijab fully covering her hair and neck, also on the beach and in the boat; men in shirts or t-shirts with long trousers, never shirtless, no swimwear on anyone), married couples only side by side or holding hands with no embracing or kissing, culturally respectful and Islamic in spirit, no ghosts, no monsters, no faces in the shadows, no violence shown, no blood, no wounds, no weapons, no alcohol, no smoking, no religious symbols of other faiths, no text, no letters, no numbers, no writing, no readable phone screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.242,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 31.8,
+    "y_pct": 30.8,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_016",
+   "startMs": 322825,
+   "endMs": 342266,
+   "new_image_reason": "memory (dissolve): Yaraa on the beach with him that morning; she left promising to come right back",
+   "characters": [
+    "yaraa"
+   ],
+   "location": "the dazzling white sand beach of the island in the morning, remembered: a turquoise lagoon, coconut palms, the long sand spit at the island's tip",
+   "location_key": "memory_beach",
+   "mood": "warm hazy memory glow: golden morning sunlight with a soft dreamy bloom and faded edges, tender and nostalgic",
+   "visual": "a soft dreamlike memory: Yaraa standing barefoot on the dazzling white beach in her loose crimson long dress and black hijab fully covering her hair and neck, turning back over her shoulder with a radiant warm smile and a little wave of her hand, the loose end of her hijab fluttering in the breeze; turquoise lagoon and palms behind; hazy golden bloom",
+   "camera": "medium shot, eye level, her face in the upper third, the white sand as the lower third",
+   "image": "images/beat_016.png",
+   "reuse_of": null,
+   "transition_in": "dissolve",
+   "sensitive": "other",
+   "safe_substitution": "Yaraa only in a happy memory of that morning, never in the present, no hint of harm; hijab fully covering",
+   "ambience": "memory",
+   "shots": [
+    {
+     "id": "shot_032",
+     "startMs": 322825,
+     "endMs": 333185,
+     "narration_dhivehi": "މީގެ ކުޑަ އިރުކޮޅެއް ކުރިން މިފްޒާލް ގާތުގައި ގޮނޑުދޮށުގައި އަހަރެން ވަގުތު ވޭތު ކުރިކަން ހަމަ ރަނގަޅަށް ވެސް މިފްޒާލްއަށް އެނގޭނެ.",
+     "narration_english": "You will know very well that only a little while ago I spent time with you on the beach.",
+     "crop": "full",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_033",
+     "startMs": 333185,
+     "endMs": 342266,
+     "narration_dhivehi": "އަހަރެން މިފްޒާލް ކައިރީ އެބަ އަންނަމޭ ބުނެ ދިޔައީ އެނބުރި އައުމުގެ ވެސް ފޮނި އުއްމީދުގައި.",
+     "narration_english": "When I left saying I'd be right back with you, it was in the sweet hope of returning,",
+     "crop": "tight",
+     "motion": "pan up",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      0.0,
+      0.0,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Yaraa), create a new scene: Cinematic semi-realistic digital painting in the look of a moody romantic-thriller book cover: soft painterly brushwork, glowing rim light and warm golden highlights on faces and fabric, deep teal-blue shadows, gentle haze and atmospheric depth, subtle film grain, shallow depth of field, rich saturated reds against cool blues; set in the Maldives (turquoise lagoons, white coral-sand beaches, dense tropical jungle of coconut palms, screw-pines and magoo shrubs, coral-stone walls, Male's dense lanes and jetties), Maldivian characters with warm brown skin; emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (sand, water, path, floor, soft shadow) for captions and a logo; bright scenes are sunlit and warm with turquoise and gold, the jungle is green-shadowed and quietly unsettling, storms are dark slate-grey with silver rain, and night scenes in Male are deep blue with warm amber street lamps like the cover.\nScene: a soft dreamlike memory: Yaraa standing barefoot on the dazzling white beach in her loose crimson long dress and black hijab fully covering her hair and neck, turning back over her shoulder with a radiant warm smile and a little wave of her hand, the loose end of her hijab fluttering in the breeze; turquoise lagoon and palms behind; hazy golden bloom. Location: the dazzling white sand beach of the island in the morning, remembered: a turquoise lagoon, coconut palms, the long sand spit at the island's tip. Camera: medium shot, eye level, her face in the upper third, the white sand as the lower third.\nCharacters: Yaraa: a slim young Maldivian woman of about 24 with warm brown skin, a delicate oval face with high cheekbones, large dark expressive eyes, softly arched eyebrows, a small straight nose and full lips with a natural rosy tint; wears a loose long-sleeved ankle-length deep crimson-red dress with a soft flowing skirt and a gathered waist sash, and a soft black chiffon hijab wrapped snugly and fully covering her hair and neck.\nMood/lighting: warm hazy memory glow: golden morning sunlight with a soft dreamy bloom and faded edges, tender and nostalgic.\nModest Maldivian clothing (every woman in a loose long-sleeved ankle-length dress with a hijab fully covering her hair and neck, also on the beach and in the boat; men in shirts or t-shirts with long trousers, never shirtless, no swimwear on anyone), married couples only side by side or holding hands with no embracing or kissing, culturally respectful and Islamic in spirit, no ghosts, no monsters, no faces in the shadows, no violence shown, no blood, no wounds, no weapons, no alcohol, no smoking, no religious symbols of other faiths, no text, no letters, no numbers, no writing, no readable phone screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.421,
+    "halo": true
+   },
+   "focus": {
+    "x_pct": 9.6,
+    "y_pct": 12.6,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_017",
+   "startMs": 342266,
+   "endMs": 353156,
+   "new_image_reason": "memory detail: 'your gentle hands' — their hands held together in the dinghy",
+   "characters": [
+    "yaraa",
+    "mifzaal"
+   ],
+   "location": "a small white dinghy with an outboard engine gliding over a calm turquoise sea in the morning, remembered, the green island on the horizon",
+   "location_key": "memory_dinghy",
+   "mood": "warm hazy memory glow: soft golden light on turquoise water, dreamy bloom and faded edges, tender and nostalgic",
+   "visual": "a soft dreamlike memory close-up: Mifzaal and Yaraa sitting side by side on the back seat of the dinghy, only their two hands shown clasped together on the seat between them, her crimson long sleeve and his rolled white linen sleeve and steel wristwatch, sparkling turquoise water rushing past; warm golden haze",
+   "camera": "close-up of the clasped hands in the upper half, the boat seat and water as the lower third",
+   "image": "images/beat_017.png",
+   "reuse_of": null,
+   "transition_in": "dissolve",
+   "sensitive": "intimacy",
+   "safe_substitution": "married couple: only holding hands, side by side",
+   "ambience": "memory",
+   "shots": [
+    {
+     "id": "shot_034",
+     "startMs": 342266,
+     "endMs": 353156,
+     "narration_dhivehi": "އަދި ތިޔަ މައުސޫމް ދެ އަތުން އަހަރެންގެ ގައިގައި އަލުން ފިރުމާލާނެ ވަގުތަކަށް އެދިއެދި ހުރި ހާލުގައި.",
+     "narration_english": "longing and longing for the moment those innocent hands of yours would stroke me again.",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Yaraa; reference image 2 is Mifzaal), create a new scene: Cinematic semi-realistic digital painting in the look of a moody romantic-thriller book cover: soft painterly brushwork, glowing rim light and warm golden highlights on faces and fabric, deep teal-blue shadows, gentle haze and atmospheric depth, subtle film grain, shallow depth of field, rich saturated reds against cool blues; set in the Maldives (turquoise lagoons, white coral-sand beaches, dense tropical jungle of coconut palms, screw-pines and magoo shrubs, coral-stone walls, Male's dense lanes and jetties), Maldivian characters with warm brown skin; emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (sand, water, path, floor, soft shadow) for captions and a logo; bright scenes are sunlit and warm with turquoise and gold, the jungle is green-shadowed and quietly unsettling, storms are dark slate-grey with silver rain, and night scenes in Male are deep blue with warm amber street lamps like the cover.\nScene: a soft dreamlike memory close-up: Mifzaal and Yaraa sitting side by side on the back seat of the dinghy, only their two hands shown clasped together on the seat between them, her crimson long sleeve and his rolled white linen sleeve and steel wristwatch, sparkling turquoise water rushing past; warm golden haze. Location: a small white dinghy with an outboard engine gliding over a calm turquoise sea in the morning, remembered, the green island on the horizon. Camera: close-up of the clasped hands in the upper half, the boat seat and water as the lower third.\nCharacters: Yaraa: a slim young Maldivian woman of about 24 with warm brown skin, a delicate oval face with high cheekbones, large dark expressive eyes, softly arched eyebrows, a small straight nose and full lips with a natural rosy tint; wears a loose long-sleeved ankle-length deep crimson-red dress with a soft flowing skirt and a gathered waist sash, and a soft black chiffon hijab wrapped snugly and fully covering her hair and neck. Mifzaal: a tall athletic Maldivian man of about 29 with warm brown skin, a handsome lean face, warm dark-brown eyes, strong straight eyebrows, a neatly trimmed short black beard and moustache and short neat black hair swept back; wears a loose white linen long-sleeved shirt with the sleeves rolled to the forearm, beige chino trousers, brown leather sandals and a plain steel wristwatch.\nMood/lighting: warm hazy memory glow: soft golden light on turquoise water, dreamy bloom and faded edges, tender and nostalgic.\nModest Maldivian clothing (every woman in a loose long-sleeved ankle-length dress with a hijab fully covering her hair and neck, also on the beach and in the boat; men in shirts or t-shirts with long trousers, never shirtless, no swimwear on anyone), married couples only side by side or holding hands with no embracing or kissing, culturally respectful and Islamic in spirit, no ghosts, no monsters, no faces in the shadows, no violence shown, no blood, no wounds, no weapons, no alcohol, no smoking, no religious symbols of other faiths, no text, no letters, no numbers, no writing, no readable phone screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.515,
+    "halo": true
+   },
+   "focus": {
+    "x_pct": 50.0,
+    "y_pct": 40.0,
+    "face_detected": false
+   }
+  },
+  {
+   "id": "beat_018",
+   "startMs": 353156,
+   "endMs": 364946,
+   "new_image_reason": "return to the present (dissolve): 'what was to happen has happened'",
+   "characters": [],
+   "location": "a tiny makeshift shelter on the beach ridge of the deserted island: a small blue tarpaulin tied between two leaning coconut palms over a patch of sand, bags beneath it, the beach and the heaving grey sea beyond",
+   "location_key": "tarp_shelter",
+   "mood": "slate-grey storm, heavy silver rain slanting in strong wind, palms bending, the blue tarpaulin glistening, cold, lonely and tense",
+   "visual": "(reuse of beat_015)",
+   "camera": "medium shot, eye level",
+   "image": "images/beat_015.png",
+   "reuse_of": "beat_015",
+   "transition_in": "dissolve",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "rain_day",
+   "shots": [
+    {
+     "id": "shot_035",
+     "startMs": 353156,
+     "endMs": 364946,
+     "narration_dhivehi": "އެހެނަސް މިހާރު މިއޮތީ ވާނެ ގޮތް ވެ ނިމިފަ. ނަމަވެސް އަހަރެންގެ ހަނދާން ތި ހިތުން ފޮހެނުލާތި.",
+     "narration_english": "But now what was to happen has happened. Still, don't wipe my memory from your heart.",
+     "crop": "medium",
+     "motion": "pan down",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      0.0,
+      0.0,
+      71.5,
+      84.7
+     ]
+    }
+   ],
+   "prompt_attempts": [],
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.202,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 31.8,
+    "y_pct": 30.8,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_019",
+   "startMs": 364946,
+   "endMs": 384136,
+   "new_image_reason": "memory (dissolve): their resolve to make room for a little child, married only three days — the shy moment under the magoo",
+   "characters": [
+    "yaraa",
+    "mifzaal"
+   ],
+   "location": "the shade of a magoo bush on the island's beach ridge in the morning, remembered: a woven coconut-leaf mat on white sand, the turquoise lagoon glittering beyond",
+   "location_key": "memory_magoo",
+   "mood": "warm hazy memory glow: dappled golden light through leaves, soft dreamy bloom and faded edges, shy happiness",
+   "visual": "a soft dreamlike memory: Mifzaal and Yaraa sitting side by side on a woven mat in the dappled shade of a magoo bush, leaning back against the trunk, holding hands; Yaraa in her crimson dress and black hijab fully covering her hair and neck, looking down with a shy joyful smile, Mifzaal smiling tenderly at the glittering lagoon; hazy golden bloom",
+   "camera": "medium shot, eye level, their faces in the upper third, the mat and sand as the lower third",
+   "image": "images/beat_019.png",
+   "reuse_of": null,
+   "transition_in": "dissolve",
+   "sensitive": "intimacy",
+   "safe_substitution": "married couple sitting side by side holding hands only; the hoped-for child is never shown",
+   "ambience": "memory",
+   "shots": [
+    {
+     "id": "shot_036",
+     "startMs": 364946,
+     "endMs": 374846,
+     "narration_dhivehi": "ދިރިއުޅުމަށްޓަކައި އަދި ތުއްތު ތުއްތު ކުއްޖަކަށް އަހަރެމެންގެ ހަޔާތުން ޖާގައެއް ދިނުމަށް ކަނޑައެޅި ވަރުގަދަ އަޒުމް",
+     "narration_english": "And the strong resolve we made for our life, to give room in our lives to a tiny little child —",
+     "crop": "full",
+     "motion": "static drift",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_037",
+     "startMs": 374846,
+     "endMs": 384136,
+     "narration_dhivehi": "ހަނދާން ނައްތާނުލާތި. ކައިވެންޏަށް އަދި މިވީ އެންމެ ތިން ދުވަސްކަން އަހަރެންނަށް ވެސް އެނގޭ،",
+     "narration_english": "don't forget it. I know too that it has been only three days since our marriage,",
+     "crop": "tight",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      4.1,
+      0.0,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Yaraa; reference image 2 is Mifzaal), create a new scene: Cinematic semi-realistic digital painting in the look of a moody romantic-thriller book cover: soft painterly brushwork, glowing rim light and warm golden highlights on faces and fabric, deep teal-blue shadows, gentle haze and atmospheric depth, subtle film grain, shallow depth of field, rich saturated reds against cool blues; set in the Maldives (turquoise lagoons, white coral-sand beaches, dense tropical jungle of coconut palms, screw-pines and magoo shrubs, coral-stone walls, Male's dense lanes and jetties), Maldivian characters with warm brown skin; emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (sand, water, path, floor, soft shadow) for captions and a logo; bright scenes are sunlit and warm with turquoise and gold, the jungle is green-shadowed and quietly unsettling, storms are dark slate-grey with silver rain, and night scenes in Male are deep blue with warm amber street lamps like the cover.\nScene: a soft dreamlike memory: Mifzaal and Yaraa sitting side by side on a woven mat in the dappled shade of a magoo bush, leaning back against the trunk, holding hands; Yaraa in her crimson dress and black hijab fully covering her hair and neck, looking down with a shy joyful smile, Mifzaal smiling tenderly at the glittering lagoon; hazy golden bloom. Location: the shade of a magoo bush on the island's beach ridge in the morning, remembered: a woven coconut-leaf mat on white sand, the turquoise lagoon glittering beyond. Camera: medium shot, eye level, their faces in the upper third, the mat and sand as the lower third.\nCharacters: Yaraa: a slim young Maldivian woman of about 24 with warm brown skin, a delicate oval face with high cheekbones, large dark expressive eyes, softly arched eyebrows, a small straight nose and full lips with a natural rosy tint; wears a loose long-sleeved ankle-length deep crimson-red dress with a soft flowing skirt and a gathered waist sash, and a soft black chiffon hijab wrapped snugly and fully covering her hair and neck. Mifzaal: a tall athletic Maldivian man of about 29 with warm brown skin, a handsome lean face, warm dark-brown eyes, strong straight eyebrows, a neatly trimmed short black beard and moustache and short neat black hair swept back; wears a loose white linen long-sleeved shirt with the sleeves rolled to the forearm, beige chino trousers, brown leather sandals and a plain steel wristwatch.\nMood/lighting: warm hazy memory glow: dappled golden light through leaves, soft dreamy bloom and faded edges, shy happiness.\nModest Maldivian clothing (every woman in a loose long-sleeved ankle-length dress with a hijab fully covering her hair and neck, also on the beach and in the boat; men in shirts or t-shirts with long trousers, never shirtless, no swimwear on anyone), married couples only side by side or holding hands with no embracing or kissing, culturally respectful and Islamic in spirit, no ghosts, no monsters, no faces in the shadows, no violence shown, no blood, no wounds, no weapons, no alcohol, no smoking, no religious symbols of other faiths, no text, no letters, no numbers, no writing, no readable phone screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.462,
+    "halo": true
+   },
+   "focus": {
+    "x_pct": 33.8,
+    "y_pct": 25.8,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_020",
+   "startMs": 384136,
+   "endMs": 397786,
+   "new_image_reason": "return to the present (dissolve): 'little hope I can come back to you'",
+   "characters": [],
+   "location": "a tiny makeshift shelter on the beach ridge of the deserted island: a small blue tarpaulin tied between two leaning coconut palms over a patch of sand, bags beneath it, the beach and the heaving grey sea beyond",
+   "location_key": "tarp_shelter",
+   "mood": "slate-grey storm, heavy silver rain slanting in strong wind, palms bending, the blue tarpaulin glistening, cold, lonely and tense",
+   "visual": "(reuse of beat_015)",
+   "camera": "medium shot, eye level",
+   "image": "images/beat_015.png",
+   "reuse_of": "beat_015",
+   "transition_in": "dissolve",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "rain_day",
+   "shots": [
+    {
+     "id": "shot_038",
+     "startMs": 384136,
+     "endMs": 397786,
+     "narration_dhivehi": "މިފްޒާލްއަށް ވެސް އެކަން އެނގޭނެކަން އަހަރެން ގަބޫލުކުރަން. އެހެނަސް ދެން އަހަރެންނަށް މިފްޒާލްގެ ގާތަށް އެނބުރި އައުމުގެ އޮތީ ވަރަށް ކުޑަ އުއްމީދެއް.",
+     "narration_english": "and I believe you know it too. But now there is very little hope of my coming back to you.",
+     "crop": "medium",
+     "motion": "pan left",
+     "sfx": [],
+     "hum": true,
+     "crop_rect_pct": [
+      0.0,
+      0.0,
+      71.5,
+      84.7
+     ]
+    }
+   ],
+   "prompt_attempts": [],
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.204,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 31.8,
+    "y_pct": 30.8,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_021",
+   "startMs": 397786,
+   "endMs": 407087,
+   "new_image_reason": "return to the shelter: 'don't stay on this island; tell Naveen Shifu is fine'",
+   "characters": [],
+   "location": "a tiny makeshift shelter on the beach ridge of the deserted island: a small blue tarpaulin tied between two leaning coconut palms over a patch of sand, bags beneath it, the beach and the heaving grey sea beyond",
+   "location_key": "tarp_shelter",
+   "mood": "slate-grey storm, heavy silver rain slanting in strong wind, palms bending, the blue tarpaulin glistening, cold, lonely and tense",
+   "visual": "(reuse of beat_014)",
+   "camera": "medium shot, eye level",
+   "image": "images/beat_014.png",
+   "reuse_of": "beat_014",
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "island_storm_day",
+   "shots": [
+    {
+     "id": "shot_039",
+     "startMs": 397786,
+     "endMs": 407087,
+     "narration_dhivehi": "ދެން މި ފަޅު ރަށުގައި މަޑުނުކޮށް މާލެ ދޭ. އަދި ޝިފޫގެ ހާލު ވެސް ރަނގަޅުކަން ނަވީންއަށް އަންގާތި.",
+     "narration_english": "So don't stay on this deserted island — go to Malé. And tell Naveen that Shifu is fine too.",
+     "crop": "medium",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      23.5,
+      0.0,
+      71.5,
+      84.7
+     ]
+    }
+   ],
+   "prompt_attempts": [],
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.497,
+    "halo": true
+   },
+   "focus": {
+    "x_pct": 59.3,
+    "y_pct": 36.1,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_022",
+   "startMs": 407087,
+   "endMs": 423267,
+   "new_image_reason": "memory (dissolve): her last words — Yaraa beside him in the dinghy",
+   "characters": [
+    "yaraa",
+    "mifzaal"
+   ],
+   "location": "a small white dinghy with an outboard engine gliding over a calm turquoise sea in the morning, remembered, the green island on the horizon",
+   "location_key": "memory_dinghy",
+   "mood": "warm hazy memory glow: soft golden light on turquoise water, dreamy bloom and faded edges, tender and nostalgic",
+   "visual": "a soft dreamlike memory: Yaraa sitting side by side with Mifzaal on the back seat of the small white dinghy, her hand on his arm, turning her face to him with a loving radiant smile; crimson dress, black hijab fully covering her hair and neck, its loose end fluttering in the sea breeze; Mifzaal softer at the side; calm turquoise sea and the green island behind; warm golden haze",
+   "camera": "medium close-up, eye level, Yaraa's face centred in the upper third, the boat and sea as the lower third",
+   "image": "images/beat_022.png",
+   "reuse_of": null,
+   "transition_in": "dissolve",
+   "sensitive": "intimacy",
+   "safe_substitution": "married couple side by side, her hand on his arm only; Yaraa only in memory",
+   "ambience": "memory",
+   "shots": [
+    {
+     "id": "shot_040",
+     "startMs": 407087,
+     "endMs": 416097,
+     "narration_dhivehi": "އަހަރެންގެ އެންމެ ފަހު ބަހަކަށް އަދި މިފްޒާލްގެ ލޯބިވާ އަނބިމީހާ ޔާރާގެ ހައިސިއްޔަތުން",
+     "narration_english": "As my very last word, and as Mifzaal's beloved wife Yaraa,",
+     "crop": "full",
+     "motion": "pan right",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_041",
+     "startMs": 416097,
+     "endMs": 423267,
+     "narration_dhivehi": "އެންމެ ފަހު ބަހަކަށް ބުނެލަން އޮތީ... އަބަދުވެސް އަހަރެން މިފްޒާލް ދެކެ ލޯބިވާނަން.",
+     "narration_english": "the very last word I have to say is... I will always love you, Mifzaal.",
+     "crop": "tight",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": true,
+     "crop_rect_pct": [
+      27.8,
+      0.0,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Yaraa; reference image 2 is Mifzaal), create a new scene: Cinematic semi-realistic digital painting in the look of a moody romantic-thriller book cover: soft painterly brushwork, glowing rim light and warm golden highlights on faces and fabric, deep teal-blue shadows, gentle haze and atmospheric depth, subtle film grain, shallow depth of field, rich saturated reds against cool blues; set in the Maldives (turquoise lagoons, white coral-sand beaches, dense tropical jungle of coconut palms, screw-pines and magoo shrubs, coral-stone walls, Male's dense lanes and jetties), Maldivian characters with warm brown skin; emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (sand, water, path, floor, soft shadow) for captions and a logo; bright scenes are sunlit and warm with turquoise and gold, the jungle is green-shadowed and quietly unsettling, storms are dark slate-grey with silver rain, and night scenes in Male are deep blue with warm amber street lamps like the cover.\nScene: a soft dreamlike memory: Yaraa sitting side by side with Mifzaal on the back seat of the small white dinghy, her hand on his arm, turning her face to him with a loving radiant smile; crimson dress, black hijab fully covering her hair and neck, its loose end fluttering in the sea breeze; Mifzaal softer at the side; calm turquoise sea and the green island behind; warm golden haze. Location: a small white dinghy with an outboard engine gliding over a calm turquoise sea in the morning, remembered, the green island on the horizon. Camera: medium close-up, eye level, Yaraa's face centred in the upper third, the boat and sea as the lower third.\nCharacters: Yaraa: a slim young Maldivian woman of about 24 with warm brown skin, a delicate oval face with high cheekbones, large dark expressive eyes, softly arched eyebrows, a small straight nose and full lips with a natural rosy tint; wears a loose long-sleeved ankle-length deep crimson-red dress with a soft flowing skirt and a gathered waist sash, and a soft black chiffon hijab wrapped snugly and fully covering her hair and neck. Mifzaal: a tall athletic Maldivian man of about 29 with warm brown skin, a handsome lean face, warm dark-brown eyes, strong straight eyebrows, a neatly trimmed short black beard and moustache and short neat black hair swept back; wears a loose white linen long-sleeved shirt with the sleeves rolled to the forearm, beige chino trousers, brown leather sandals and a plain steel wristwatch.\nMood/lighting: warm hazy memory glow: soft golden light on turquoise water, dreamy bloom and faded edges, tender and nostalgic.\nModest Maldivian clothing (every woman in a loose long-sleeved ankle-length dress with a hijab fully covering her hair and neck, also on the beach and in the boat; men in shirts or t-shirts with long trousers, never shirtless, no swimwear on anyone), married couples only side by side or holding hands with no embracing or kissing, culturally respectful and Islamic in spirit, no ghosts, no monsters, no faces in the shadows, no violence shown, no blood, no wounds, no weapons, no alcohol, no smoking, no religious symbols of other faiths, no text, no letters, no numbers, no writing, no readable phone screens, no logos, no watermark.",
+   "logo": {
+    "color": "black",
+    "bg_luminance": 0.59,
+    "halo": true
+   },
+   "focus": {
+    "x_pct": 57.5,
+    "y_pct": 26.4,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_023",
+   "startMs": 423267,
+   "endMs": 440297,
+   "new_image_reason": "return to the present (dissolve): tears run from Mifzaal's eyes — yet relief that they are alive",
+   "characters": [
+    "mifzaal"
+   ],
+   "location": "a tiny makeshift shelter on the beach ridge of the deserted island: a small blue tarpaulin tied between two leaning coconut palms over a patch of sand, bags beneath it, the beach and the heaving grey sea beyond",
+   "location_key": "tarp_shelter",
+   "mood": "slate-grey storm, heavy silver rain slanting in strong wind, palms bending, the blue tarpaulin glistening, cold, lonely and tense",
+   "visual": "Mifzaal under the blue tarpaulin with tears streaming down his cheeks mixed with rain, the phone lowered against his chest (screen hidden), a trembling half-smile of relief through his grief, eyes closed and lifted; silver rain behind",
+   "camera": "close-up, slightly low angle, his face in the upper half, his damp white shirt as the lower third",
+   "image": "images/beat_023.png",
+   "reuse_of": null,
+   "transition_in": "dissolve",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "rain_day",
+   "shots": [
+    {
+     "id": "shot_042",
+     "startMs": 423267,
+     "endMs": 433367,
+     "narration_dhivehi": "ވަރަށް ވަރަށް ލޯބިވޭ މިފްޒާލް. ޔާރާގެ މި ބަސްތަކާ އެކު މިފްޒާލްގެ ދެ ލޮލުން ކަރުނަ ފާއްދާލި. ނުވިތާކަށް އިންތިހާއަށް އުފާ ވެސް ވި.",
+     "narration_english": "I love you so, so much, Mifzaal.\" At Yaraa's words, tears poured from both of Mifzaal's eyes. Strangely, he was also overjoyed,",
+     "crop": "full",
+     "motion": "pan up",
+     "sfx": [
+      {
+       "name": "sob_breath",
+       "atMs": 429867,
+       "gainDb": -22,
+       "word": "ކަރުނަ"
+      }
+     ],
+     "hum": true,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_043",
+     "startMs": 433367,
+     "endMs": 440297,
+     "narration_dhivehi": "އެއީ ޔާރާ އާއި ޝިފްޒާ ސަލާމަތުން ތިބިކަން ޔަގީންވީމަ. ނަމަވެސް ތިބީ ކޮންތާކު ކަމެއް އެކަކަށް ވެސް ނޭނގެ.",
+     "narration_english": "because now it was certain that Yaraa and Shifza were safe. But where they were, no one knew.",
+     "crop": "tight",
+     "motion": "slow pull-out",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      8.5,
+      0.0,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Mifzaal), create a new scene: Cinematic semi-realistic digital painting in the look of a moody romantic-thriller book cover: soft painterly brushwork, glowing rim light and warm golden highlights on faces and fabric, deep teal-blue shadows, gentle haze and atmospheric depth, subtle film grain, shallow depth of field, rich saturated reds against cool blues; set in the Maldives (turquoise lagoons, white coral-sand beaches, dense tropical jungle of coconut palms, screw-pines and magoo shrubs, coral-stone walls, Male's dense lanes and jetties), Maldivian characters with warm brown skin; emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (sand, water, path, floor, soft shadow) for captions and a logo; bright scenes are sunlit and warm with turquoise and gold, the jungle is green-shadowed and quietly unsettling, storms are dark slate-grey with silver rain, and night scenes in Male are deep blue with warm amber street lamps like the cover.\nScene: Mifzaal under the blue tarpaulin with tears streaming down his cheeks mixed with rain, the phone lowered against his chest (screen hidden), a trembling half-smile of relief through his grief, eyes closed and lifted; silver rain behind. Location: a tiny makeshift shelter on the beach ridge of the deserted island: a small blue tarpaulin tied between two leaning coconut palms over a patch of sand, bags beneath it, the beach and the heaving grey sea beyond. Camera: close-up, slightly low angle, his face in the upper half, his damp white shirt as the lower third.\nCharacters: Mifzaal: a tall athletic Maldivian man of about 29 with warm brown skin, a handsome lean face, warm dark-brown eyes, strong straight eyebrows, a neatly trimmed short black beard and moustache and short neat black hair swept back; wears a loose white linen long-sleeved shirt with the sleeves rolled to the forearm, beige chino trousers, brown leather sandals and a plain steel wristwatch.\nMood/lighting: slate-grey storm, heavy silver rain slanting in strong wind, palms bending, the blue tarpaulin glistening, cold, lonely and tense.\nModest Maldivian clothing (every woman in a loose long-sleeved ankle-length dress with a hijab fully covering her hair and neck, also on the beach and in the boat; men in shirts or t-shirts with long trousers, never shirtless, no swimwear on anyone), married couples only side by side or holding hands with no embracing or kissing, culturally respectful and Islamic in spirit, no ghosts, no monsters, no faces in the shadows, no violence shown, no blood, no wounds, no weapons, no alcohol, no smoking, no religious symbols of other faiths, no text, no letters, no numbers, no writing, no readable phone screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.393,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 38.2,
+    "y_pct": 29.2,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_024",
+   "startMs": 440297,
+   "endMs": 459668,
+   "new_image_reason": "return to the shelter: little comfort; the message tells them there is no use staying",
+   "characters": [],
+   "location": "a tiny makeshift shelter on the beach ridge of the deserted island: a small blue tarpaulin tied between two leaning coconut palms over a patch of sand, bags beneath it, the beach and the heaving grey sea beyond",
+   "location_key": "tarp_shelter",
+   "mood": "slate-grey storm, heavy silver rain slanting in strong wind, palms bending, the blue tarpaulin glistening, cold, lonely and tense",
+   "visual": "(reuse of beat_014)",
+   "camera": "medium shot, eye level",
+   "image": "images/beat_014.png",
+   "reuse_of": "beat_014",
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "island_storm_day",
+   "shots": [
+    {
+     "id": "shot_044",
+     "startMs": 440297,
+     "endMs": 448117,
+     "narration_dhivehi": "ކުޑަ ނަމަވެސް ތަސައްލީއެއް މިފްޒާލް އާއި ނަވީންގެ މާޔޫސީ ހިތަށް ލިބުނު ކަމުގައި ވިޔަސް އޭގައި އެއްވެސް މާނައެއް ނެތް.",
+     "narration_english": "Though a little comfort reached Mifzaal and Naveen's despairing hearts, there was no real meaning in it.",
+     "crop": "tight",
+     "motion": "pan down",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      29.6,
+      0.8,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_045",
+     "startMs": 448117,
+     "endMs": 459668,
+     "narration_dhivehi": "އެހެނަސް ގެއްލުނު ދެ މީހުން ތިބީ ސަލާމަތުންކަން އެނގޭ. އެކަމަކު މި ރަށުގައި ތިބެގެން ވަކި ވާނެ ފައިދާއެއް ނެތްކަން ޔާރާގެ މެސެޖުން ދެ މީހުންނަށް ވަރަށް ރަނގަޅަށް އެނގިގެން ދިޔަ.",
+     "narration_english": "Still, they knew the two who were lost were safe. And from Yaraa's message both understood very well that staying on this island would serve no purpose.",
+     "crop": "full",
+     "motion": "static drift",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [],
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.249,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 59.3,
+    "y_pct": 36.1,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_025",
+   "startMs": 459668,
+   "endMs": 477888,
+   "new_image_reason": "return to the shoreline call: they cancel the coast guard request",
+   "characters": [],
+   "location": "the deserted island's white sand shoreline at the jungle edge: the waterline with small choppy grey waves, coconut palms leaning over the beach, the open empty sea beyond",
+   "location_key": "shoreline",
+   "mood": "slate-grey storm light building, black clouds over a dark grey-green sea, wind rising",
+   "visual": "(reuse of beat_012)",
+   "camera": "medium shot, eye level",
+   "image": "images/beat_012.png",
+   "reuse_of": "beat_012",
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "island_storm_day",
+   "shots": [
+    {
+     "id": "shot_046",
+     "startMs": 459668,
+     "endMs": 469558,
+     "narration_dhivehi": "މިހެންވެ ކޯސްޓްގާޑަށް ގުޅާ އެހީގެ އެދުން ބާތިލްކޮށްލި. އެއީ މި ދެ މީހުން ބޭނުންވަނީ ޔާރާ އާއި ޝިފްޒާ ހޯދުމުގެ މަސައްކަތް އަމިއްލައަށް ކުރަން.",
+     "narration_english": "So they called the coast guard and cancelled the request for help, because the two wanted to carry out the search for Yaraa and Shifza themselves.",
+     "crop": "tight",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      36.5,
+      29.6,
+      59.4,
+      70.4
+     ]
+    },
+    {
+     "id": "shot_047",
+     "startMs": 469558,
+     "endMs": 477888,
+     "narration_dhivehi": "ނަމަވެސް މި ނިންމުން މިފްޒާލްމެން ނިންމީ ދެން ވާނެ ގޮތަކާ މެދު އެއްވެސް ވިސްނާލުމެއް ނެތި. ވާނީ ވެސް ވަކި ކިހިނެއް ހެއްޔެވެ؟",
+     "narration_english": "But Mifzaal and Naveen made this decision without any thought for what would happen next. What could happen, after all?",
+     "crop": "full",
+     "motion": "pan left",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [],
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.471,
+    "halo": true
+   },
+   "focus": {
+    "x_pct": 66.2,
+    "y_pct": 88.7,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_026",
+   "startMs": 477888,
+   "endMs": 485758,
+   "new_image_reason": "scene change: crossing the huge waves back to Male",
+   "characters": [
+    "mifzaal",
+    "naveen"
+   ],
+   "location": "the open sea between the island and Male: big rough grey-blue waves with white crests, a wide stormy sky, the faint low skyline of Male far on the horizon",
+   "location_key": "open_sea",
+   "mood": "late grey dusk over a heaving sea, salt spray, the last cold light, the first faint lights of Male far away",
+   "visual": "the small white dinghy climbing a big rough grey-blue wave, spray flying; Naveen at the outboard in the stern, Mifzaal in front gripping the side, both grim and drenched, clothes opaque; a vast grey dusk sky, faint lights of Male far on the horizon; no markings on the boat",
+   "camera": "wide shot, slightly low angle from the water, the boat and sky in the upper two-thirds, dark water as the lower third",
+   "image": "images/beat_026.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "sea_rough",
+   "shots": [
+    {
+     "id": "shot_048",
+     "startMs": 477888,
+     "endMs": 485758,
+     "narration_dhivehi": "ނުރުހުންވެ ހުރެ މާކަނޑުގެ ބިޔަ ރާޅުތައް ހުރަސްކޮށް އެ މީހުންނަށް މާލެ އާދެވުނު އިރު އިރުއޮއްސި ހަތެއް ޖަހަނީ.",
+     "narration_english": "Reluctantly, crossing the huge waves of the ocean, they reached Malé as it was striking seven after sunset.",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [
+      {
+       "name": "boat_engine",
+       "atMs": 481148,
+       "gainDb": -18,
+       "word": "ހުރަސްކޮށް"
+      },
+      {
+       "name": "wave_crash",
+       "atMs": 480648,
+       "gainDb": -20,
+       "word": "ރާޅުތައް"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Mifzaal; reference image 2 is Naveen), create a new scene: Cinematic semi-realistic digital painting in the look of a moody romantic-thriller book cover: soft painterly brushwork, glowing rim light and warm golden highlights on faces and fabric, deep teal-blue shadows, gentle haze and atmospheric depth, subtle film grain, shallow depth of field, rich saturated reds against cool blues; set in the Maldives (turquoise lagoons, white coral-sand beaches, dense tropical jungle of coconut palms, screw-pines and magoo shrubs, coral-stone walls, Male's dense lanes and jetties), Maldivian characters with warm brown skin; emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (sand, water, path, floor, soft shadow) for captions and a logo; bright scenes are sunlit and warm with turquoise and gold, the jungle is green-shadowed and quietly unsettling, storms are dark slate-grey with silver rain, and night scenes in Male are deep blue with warm amber street lamps like the cover.\nScene: the small white dinghy climbing a big rough grey-blue wave, spray flying; Naveen at the outboard in the stern, Mifzaal in front gripping the side, both grim and drenched, clothes opaque; a vast grey dusk sky, faint lights of Male far on the horizon; no markings on the boat. Location: the open sea between the island and Male: big rough grey-blue waves with white crests, a wide stormy sky, the faint low skyline of Male far on the horizon. Camera: wide shot, slightly low angle from the water, the boat and sky in the upper two-thirds, dark water as the lower third.\nCharacters: Mifzaal: a tall athletic Maldivian man of about 29 with warm brown skin, a handsome lean face, warm dark-brown eyes, strong straight eyebrows, a neatly trimmed short black beard and moustache and short neat black hair swept back; wears a loose white linen long-sleeved shirt with the sleeves rolled to the forearm, beige chino trousers, brown leather sandals and a plain steel wristwatch. Naveen: a stocky Maldivian man of about 32 with warm brown skin, a broad round friendly face, smiling dark eyes, thick eyebrows, a full short black beard and short cropped black hair; wears a navy-blue polo shirt, long grey cargo trousers and black rubber sandals.\nMood/lighting: late grey dusk over a heaving sea, salt spray, the last cold light, the first faint lights of Male far away.\nModest Maldivian clothing (every woman in a loose long-sleeved ankle-length dress with a hijab fully covering her hair and neck, also on the beach and in the boat; men in shirts or t-shirts with long trousers, never shirtless, no swimwear on anyone), married couples only side by side or holding hands with no embracing or kissing, culturally respectful and Islamic in spirit, no ghosts, no monsters, no faces in the shadows, no violence shown, no blood, no wounds, no weapons, no alcohol, no smoking, no religious symbols of other faiths, no text, no letters, no numbers, no writing, no readable phone screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.14,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 58.7,
+    "y_pct": 21.7,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_027",
+   "startMs": 485758,
+   "endMs": 506668,
+   "new_image_reason": "time jump: arrival in Male at about 7 pm; the hoarse voice again in his ear",
+   "characters": [
+    "mifzaal"
+   ],
+   "location": "a Male jetty at dusk: a concrete quay with mooring bollards, small dinghies and wooden dhonis moored alongside, tall amber lamp posts, the dense skyline of Male buildings behind, the harbour water reflecting the lamps",
+   "location_key": "male_jetty",
+   "mood": "blue dusk with warm amber lamps, the sky deep blue with a last glow on the horizon, lamp reflections on the dark harbour water, uneasy calm",
+   "visual": "Mifzaal standing on the concrete jetty at blue dusk beside a mooring bollard, his face turned sharply to one side as if listening, eyes wide with dread, one hand half-raised near his ear; amber lamps glowing behind him, the moored dinghy below; the quay behind him empty, nobody there",
+   "camera": "medium close-up, eye level, his face in the upper third, the quay as the lower third",
+   "image": "images/beat_027.png",
+   "reuse_of": null,
+   "transition_in": "black",
+   "sensitive": "other",
+   "safe_substitution": "the voice is never shown; only Mifzaal listening in fear on an empty quay",
+   "ambience": "male_jetty_dusk",
+   "shots": [
+    {
+     "id": "shot_049",
+     "startMs": 485758,
+     "endMs": 494938,
+     "narration_dhivehi": "އޭރު ވެސް މިފްޒާލްގެ ކަންފަތްދޮށުގައި ހީވަނީ އެއްކަލަ މުސްކުޅި ކުރެހިފައިވާ މީހާ އޭނާގެ ނަމުން ގޮވާހެން. އޭ މިފްޒާލް،",
+     "narration_english": "Even then it seemed to Mifzaal that, right by his ear, someone with that strange hoarse, scratchy voice was calling his name: \"Ey Mifzaal,",
+     "crop": "full",
+     "motion": "pan right",
+     "sfx": [
+      {
+       "name": "low_growl",
+       "atMs": 488988,
+       "gainDb": -24,
+       "word": "މުސްކުޅި"
+      },
+      {
+       "name": "heartbeat",
+       "atMs": 491448,
+       "gainDb": -20,
+       "word": "ގޮވާހެން."
+      }
+     ],
+     "hum": true,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_050",
+     "startMs": 494938,
+     "endMs": 506668,
+     "narration_dhivehi": "އަދި މިއީ އާ ފެށުމެއް. ޔާރާގެ ހިމާޔަތުގައި އަދި ނިކުންނަން ޖެހޭނެކަން ހަނދާނުގައި ބަހައްޓާތި.",
+     "narration_english": "this is a new beginning. Keep in mind that you must still come out under Yaraa's protection.\"",
+     "crop": "tight",
+     "motion": "slow push-in",
+     "sfx": [],
+     "hum": true,
+     "crop_rect_pct": [
+      28.4,
+      0.0,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Mifzaal), create a new scene: Cinematic semi-realistic digital painting in the look of a moody romantic-thriller book cover: soft painterly brushwork, glowing rim light and warm golden highlights on faces and fabric, deep teal-blue shadows, gentle haze and atmospheric depth, subtle film grain, shallow depth of field, rich saturated reds against cool blues; set in the Maldives (turquoise lagoons, white coral-sand beaches, dense tropical jungle of coconut palms, screw-pines and magoo shrubs, coral-stone walls, Male's dense lanes and jetties), Maldivian characters with warm brown skin; emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (sand, water, path, floor, soft shadow) for captions and a logo; bright scenes are sunlit and warm with turquoise and gold, the jungle is green-shadowed and quietly unsettling, storms are dark slate-grey with silver rain, and night scenes in Male are deep blue with warm amber street lamps like the cover.\nScene: Mifzaal standing on the concrete jetty at blue dusk beside a mooring bollard, his face turned sharply to one side as if listening, eyes wide with dread, one hand half-raised near his ear; amber lamps glowing behind him, the moored dinghy below; the quay behind him empty, nobody there. Location: a Male jetty at dusk: a concrete quay with mooring bollards, small dinghies and wooden dhonis moored alongside, tall amber lamp posts, the dense skyline of Male buildings behind, the harbour water reflecting the lamps. Camera: medium close-up, eye level, his face in the upper third, the quay as the lower third.\nCharacters: Mifzaal: a tall athletic Maldivian man of about 29 with warm brown skin, a handsome lean face, warm dark-brown eyes, strong straight eyebrows, a neatly trimmed short black beard and moustache and short neat black hair swept back; wears a loose white linen long-sleeved shirt with the sleeves rolled to the forearm, beige chino trousers, brown leather sandals and a plain steel wristwatch.\nMood/lighting: blue dusk with warm amber lamps, the sky deep blue with a last glow on the horizon, lamp reflections on the dark harbour water, uneasy calm.\nModest Maldivian clothing (every woman in a loose long-sleeved ankle-length dress with a hijab fully covering her hair and neck, also on the beach and in the boat; men in shirts or t-shirts with long trousers, never shirtless, no swimwear on anyone), married couples only side by side or holding hands with no embracing or kissing, culturally respectful and Islamic in spirit, no ghosts, no monsters, no faces in the shadows, no violence shown, no blood, no wounds, no weapons, no alcohol, no smoking, no religious symbols of other faiths, no text, no letters, no numbers, no writing, no readable phone screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.495,
+    "halo": true
+   },
+   "focus": {
+    "x_pct": 58.1,
+    "y_pct": 23.3,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_028",
+   "startMs": 506668,
+   "endMs": 517369,
+   "new_image_reason": "action change: Mifzaal sits in deep thought — was the voice behind the disappearance?",
+   "characters": [
+    "mifzaal"
+   ],
+   "location": "a Male jetty at dusk: a concrete quay with mooring bollards, small dinghies and wooden dhonis moored alongside, tall amber lamp posts, the dense skyline of Male buildings behind, the harbour water reflecting the lamps",
+   "location_key": "male_jetty",
+   "mood": "blue dusk with warm amber lamps, the sky deep blue with a last glow on the horizon, lamp reflections on the dark harbour water, uneasy calm",
+   "visual": "Mifzaal sitting alone on the edge of the jetty bench under an amber lamp post, elbows on his knees, hands clasped at his mouth, staring into the dark harbour water in deep troubled thought; lamp reflections rippling",
+   "camera": "medium wide, eye level, Mifzaal in the upper two-thirds, the dark water and quay as the lower third",
+   "image": "images/beat_028.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "male_jetty_dusk",
+   "shots": [
+    {
+     "id": "shot_051",
+     "startMs": 506668,
+     "endMs": 517369,
+     "narration_dhivehi": "މި ލަފްޒުތަކުގެ ސަބަބުން މިފްޒާލްއަށް ކޮންމެވެސް އިތުރު އެއްޗެއް ހިތަށް އަރުވާލެވުނު. އަނެއްކާ ޔާރާމެން ގެއްލުމުގެ އަސްލަކީ އެ މީހަކު ބާ؟",
+     "narration_english": "Because of these words something more crept into Mifzaal's mind. Could that one be the real reason Yaraa and Shifza disappeared?",
+     "crop": "full",
+     "motion": "pan up",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Mifzaal), create a new scene: Cinematic semi-realistic digital painting in the look of a moody romantic-thriller book cover: soft painterly brushwork, glowing rim light and warm golden highlights on faces and fabric, deep teal-blue shadows, gentle haze and atmospheric depth, subtle film grain, shallow depth of field, rich saturated reds against cool blues; set in the Maldives (turquoise lagoons, white coral-sand beaches, dense tropical jungle of coconut palms, screw-pines and magoo shrubs, coral-stone walls, Male's dense lanes and jetties), Maldivian characters with warm brown skin; emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (sand, water, path, floor, soft shadow) for captions and a logo; bright scenes are sunlit and warm with turquoise and gold, the jungle is green-shadowed and quietly unsettling, storms are dark slate-grey with silver rain, and night scenes in Male are deep blue with warm amber street lamps like the cover.\nScene: Mifzaal sitting alone on the edge of the jetty bench under an amber lamp post, elbows on his knees, hands clasped at his mouth, staring into the dark harbour water in deep troubled thought; lamp reflections rippling. Location: a Male jetty at dusk: a concrete quay with mooring bollards, small dinghies and wooden dhonis moored alongside, tall amber lamp posts, the dense skyline of Male buildings behind, the harbour water reflecting the lamps. Camera: medium wide, eye level, Mifzaal in the upper two-thirds, the dark water and quay as the lower third.\nCharacters: Mifzaal: a tall athletic Maldivian man of about 29 with warm brown skin, a handsome lean face, warm dark-brown eyes, strong straight eyebrows, a neatly trimmed short black beard and moustache and short neat black hair swept back; wears a loose white linen long-sleeved shirt with the sleeves rolled to the forearm, beige chino trousers, brown leather sandals and a plain steel wristwatch.\nMood/lighting: blue dusk with warm amber lamps, the sky deep blue with a last glow on the horizon, lamp reflections on the dark harbour water, uneasy calm.\nModest Maldivian clothing (every woman in a loose long-sleeved ankle-length dress with a hijab fully covering her hair and neck, also on the beach and in the boat; men in shirts or t-shirts with long trousers, never shirtless, no swimwear on anyone), married couples only side by side or holding hands with no embracing or kissing, culturally respectful and Islamic in spirit, no ghosts, no monsters, no faces in the shadows, no violence shown, no blood, no wounds, no weapons, no alcohol, no smoking, no religious symbols of other faiths, no text, no letters, no numbers, no writing, no readable phone screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.212,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 43.2,
+    "y_pct": 25.0,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_029",
+   "startMs": 517369,
+   "endMs": 537169,
+   "new_image_reason": "character enters and speaks: Naveen pats his shoulder — let's go home tonight (speaker focus)",
+   "characters": [
+    "naveen",
+    "mifzaal"
+   ],
+   "location": "a Male jetty at dusk: a concrete quay with mooring bollards, small dinghies and wooden dhonis moored alongside, tall amber lamp posts, the dense skyline of Male buildings behind, the harbour water reflecting the lamps",
+   "location_key": "male_jetty",
+   "mood": "blue dusk with warm amber lamps, the sky deep blue with a last glow on the horizon, lamp reflections on the dark harbour water, uneasy calm",
+   "visual": "Naveen, centred and in sharp focus, standing beside the jetty bench with his hand patting the shoulder of the seated Mifzaal, speaking with a tired, kind, reassuring face; Mifzaal softer in the foreground looking up at him; amber lamps and blue dusk behind",
+   "camera": "medium shot, eye level, Naveen's face in the upper third",
+   "image": "images/beat_029.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": null,
+   "safe_substitution": null,
+   "ambience": "male_jetty_dusk",
+   "shots": [
+    {
+     "id": "shot_052",
+     "startMs": 517369,
+     "endMs": 527089,
+     "narration_dhivehi": "ނޫނީ މިއީ އަހަރެންނަށް ކުރެވެމުންދާ ކުށްހީއެއް ބާ؟ ފުން ވިސްނުމެއްގައި އިން މިފްޒާލްގެ ކޮނޑުގައި އަތް ޖަހާލަމުން ނަވީން ބުނި. ކޮބާ",
+     "narration_english": "Or is this a false suspicion of mine? Patting the shoulder of Mifzaal, who sat deep in thought, Naveen said: \"Come on,",
+     "crop": "full",
+     "motion": "slow pull-out",
+     "sfx": [
+      {
+       "name": "soft_thud",
+       "atMs": 524189,
+       "gainDb": -22,
+       "word": "ޖަހާލަމުން"
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_053",
+     "startMs": 527089,
+     "endMs": 537169,
+     "narration_dhivehi": "ހިނގާ ދެން މިރޭ ގެއަށް ދާން. ޔާރާމެންގެ ހާލު ވެސް މިހާރު އެނގިއްޖެއެއްނު. މާދަން ދެން އިތުރު ހަބަރެއް ވޭތޯ ބަލާނީ.",
+     "narration_english": "let's go home tonight. We know now that Yaraa and Shifza are all right, don't we? Tomorrow we'll see whether there's any more news.\"",
+     "crop": "tight",
+     "motion": "pan down",
+     "sfx": [],
+     "hum": false,
+     "crop_rect_pct": [
+      18.1,
+      0.0,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Naveen; reference image 2 is Mifzaal), create a new scene: Cinematic semi-realistic digital painting in the look of a moody romantic-thriller book cover: soft painterly brushwork, glowing rim light and warm golden highlights on faces and fabric, deep teal-blue shadows, gentle haze and atmospheric depth, subtle film grain, shallow depth of field, rich saturated reds against cool blues; set in the Maldives (turquoise lagoons, white coral-sand beaches, dense tropical jungle of coconut palms, screw-pines and magoo shrubs, coral-stone walls, Male's dense lanes and jetties), Maldivian characters with warm brown skin; emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (sand, water, path, floor, soft shadow) for captions and a logo; bright scenes are sunlit and warm with turquoise and gold, the jungle is green-shadowed and quietly unsettling, storms are dark slate-grey with silver rain, and night scenes in Male are deep blue with warm amber street lamps like the cover.\nScene: Naveen, centred and in sharp focus, standing beside the jetty bench with his hand patting the shoulder of the seated Mifzaal, speaking with a tired, kind, reassuring face; Mifzaal softer in the foreground looking up at him; amber lamps and blue dusk behind. Location: a Male jetty at dusk: a concrete quay with mooring bollards, small dinghies and wooden dhonis moored alongside, tall amber lamp posts, the dense skyline of Male buildings behind, the harbour water reflecting the lamps. Camera: medium shot, eye level, Naveen's face in the upper third.\nCharacters: Naveen: a stocky Maldivian man of about 32 with warm brown skin, a broad round friendly face, smiling dark eyes, thick eyebrows, a full short black beard and short cropped black hair; wears a navy-blue polo shirt, long grey cargo trousers and black rubber sandals. Mifzaal: a tall athletic Maldivian man of about 29 with warm brown skin, a handsome lean face, warm dark-brown eyes, strong straight eyebrows, a neatly trimmed short black beard and moustache and short neat black hair swept back; wears a loose white linen long-sleeved shirt with the sleeves rolled to the forearm, beige chino trousers, brown leather sandals and a plain steel wristwatch.\nMood/lighting: blue dusk with warm amber lamps, the sky deep blue with a last glow on the horizon, lamp reflections on the dark harbour water, uneasy calm.\nModest Maldivian clothing (every woman in a loose long-sleeved ankle-length dress with a hijab fully covering her hair and neck, also on the beach and in the boat; men in shirts or t-shirts with long trousers, never shirtless, no swimwear on anyone), married couples only side by side or holding hands with no embracing or kissing, culturally respectful and Islamic in spirit, no ghosts, no monsters, no faces in the shadows, no violence shown, no blood, no wounds, no weapons, no alcohol, no smoking, no religious symbols of other faiths, no text, no letters, no numbers, no writing, no readable phone screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.314,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 47.9,
+    "y_pct": 16.9,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_030",
+   "startMs": 537169,
+   "endMs": 559229,
+   "new_image_reason": "scene change: Naveen on his motorbike in a lamp-lit lane; Mifzaal tells him about the voice; Naveen's eyes widen",
+   "characters": [
+    "naveen",
+    "mifzaal"
+   ],
+   "location": "a narrow lamp-lit Male lane at night: tall apartment buildings close on both sides with dim balconies, a few parked motorbikes, warm amber street lamps on the walls, a soft fog hanging in the lane, no signs",
+   "location_key": "male_lane",
+   "mood": "foggy teal night exactly like the cover: deep teal-blue haze, warm amber street lamps with glowing halos, golden rim light, mysterious and tense",
+   "visual": "Naveen sitting astride his motorbike in the foggy lamp-lit Male lane, a plain dark helmet in his hand, his eyes suddenly wide in shock as he stares at Mifzaal; Mifzaal standing beside the bike in three-quarter view, leaning in, speaking in a low urgent voice; warm amber street lamps and teal haze; no plates, no signs",
+   "camera": "medium shot, eye level, Naveen's widened eyes in the upper third, the wet lane as the lower third",
+   "image": "images/beat_030.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": "other",
+   "safe_substitution": "no readable plates or signs",
+   "ambience": "street_night",
+   "shots": [
+    {
+     "id": "shot_054",
+     "startMs": 537169,
+     "endMs": 551279,
+     "narration_dhivehi": "މިހެން ބުނުމަށްފަހު ނަވީން ގޮސް އެރީ ސައިކަލަށް. ނަމަވެސް އެ މުސްކުޅި އަޑުގެ ވާހަކަ ނަވީންއަށް ކިޔައިދިނުމަކީ މި ދަނޑިވަޅުގައި އެންމެ ރަނގަޅު ގޮތް ކަމަށް ބަލާ، އެ ވާހަކަތައް ނަވީންއަށް ކިޔައިދިން.",
+     "narration_english": "With that, Naveen went and got on his motorbike. But thinking that telling Naveen about that hoarse voice was the best thing to do at this point, Mifzaal told him all of it.",
+     "crop": "full",
+     "motion": "static drift",
+     "sfx": [
+      {
+       "name": "engine_rev",
+       "atMs": 539849,
+       "gainDb": -22,
+       "word": "ސައިކަލަށް."
+      }
+     ],
+     "hum": false,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    },
+    {
+     "id": "shot_055",
+     "startMs": 551279,
+     "endMs": 559229,
+     "narration_dhivehi": "ނަވީންގެ ދެ ލޯ ދިޔައީ ކުއްލިއަކަށް ބޮޑުވެގެން. އަދި އެ ވަގުތު އެހެން މީހަކު ފަހަތުން މިފްޒާލްގެ ނަމުން ގޮވާލި.",
+     "narration_english": "Naveen's eyes suddenly went wide. And at that very moment someone else called Mifzaal's name from behind.",
+     "crop": "tight",
+     "motion": "slow push-in",
+     "sfx": [
+      {
+       "name": "gasp",
+       "atMs": 554029,
+       "gainDb": -20,
+       "word": "ބޮޑުވެގެން."
+      },
+      {
+       "name": "heartbeat",
+       "atMs": 558669,
+       "gainDb": -18,
+       "word": "ގޮވާލި."
+      }
+     ],
+     "hum": true,
+     "crop_rect_pct": [
+      40.6,
+      29.6,
+      59.4,
+      70.4
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Naveen; reference image 2 is Mifzaal), create a new scene: Cinematic semi-realistic digital painting in the look of a moody romantic-thriller book cover: soft painterly brushwork, glowing rim light and warm golden highlights on faces and fabric, deep teal-blue shadows, gentle haze and atmospheric depth, subtle film grain, shallow depth of field, rich saturated reds against cool blues; set in the Maldives (turquoise lagoons, white coral-sand beaches, dense tropical jungle of coconut palms, screw-pines and magoo shrubs, coral-stone walls, Male's dense lanes and jetties), Maldivian characters with warm brown skin; emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (sand, water, path, floor, soft shadow) for captions and a logo; bright scenes are sunlit and warm with turquoise and gold, the jungle is green-shadowed and quietly unsettling, storms are dark slate-grey with silver rain, and night scenes in Male are deep blue with warm amber street lamps like the cover.\nScene: Naveen sitting astride his motorbike in the foggy lamp-lit Male lane, a plain dark helmet in his hand, his eyes suddenly wide in shock as he stares at Mifzaal; Mifzaal standing beside the bike in three-quarter view, leaning in, speaking in a low urgent voice; warm amber street lamps and teal haze; no plates, no signs. Location: a narrow lamp-lit Male lane at night: tall apartment buildings close on both sides with dim balconies, a few parked motorbikes, warm amber street lamps on the walls, a soft fog hanging in the lane, no signs. Camera: medium shot, eye level, Naveen's widened eyes in the upper third, the wet lane as the lower third.\nCharacters: Naveen: a stocky Maldivian man of about 32 with warm brown skin, a broad round friendly face, smiling dark eyes, thick eyebrows, a full short black beard and short cropped black hair; wears a navy-blue polo shirt, long grey cargo trousers and black rubber sandals. Mifzaal: a tall athletic Maldivian man of about 29 with warm brown skin, a handsome lean face, warm dark-brown eyes, strong straight eyebrows, a neatly trimmed short black beard and moustache and short neat black hair swept back; wears a loose white linen long-sleeved shirt with the sleeves rolled to the forearm, beige chino trousers, brown leather sandals and a plain steel wristwatch.\nMood/lighting: foggy teal night exactly like the cover: deep teal-blue haze, warm amber street lamps with glowing halos, golden rim light, mysterious and tense.\nModest Maldivian clothing (every woman in a loose long-sleeved ankle-length dress with a hijab fully covering her hair and neck, also on the beach and in the boat; men in shirts or t-shirts with long trousers, never shirtless, no swimwear on anyone), married couples only side by side or holding hands with no embracing or kissing, culturally respectful and Islamic in spirit, no ghosts, no monsters, no faces in the shadows, no violence shown, no blood, no wounds, no weapons, no alcohol, no smoking, no religious symbols of other faiths, no text, no letters, no numbers, no writing, no readable phone screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.187,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 84.3,
+    "y_pct": 68.5,
+    "face_detected": true
+   }
+  },
+  {
+   "id": "beat_031",
+   "startMs": 559229,
+   "endMs": 568830,
+   "new_image_reason": "final turning point: someone behind calls his name — Mifzaal turns around (cliffhanger)",
+   "characters": [
+    "mifzaal"
+   ],
+   "location": "a narrow lamp-lit Male lane at night: tall apartment buildings close on both sides with dim balconies, a few parked motorbikes, warm amber street lamps on the walls, a soft fog hanging in the lane, no signs",
+   "location_key": "male_lane",
+   "mood": "foggy teal night exactly like the cover: deep teal-blue haze, warm amber street lamps with glowing halos, golden rim light, mysterious and tense",
+   "visual": "Mifzaal in the middle of the foggy teal night lane turning around over his shoulder towards the camera, eyes wide, face rim-lit in warm gold by the amber street lamps; the lane behind him stretching away empty and out of focus into teal fog, glowing lamp halos; nobody else visible anywhere",
+   "camera": "medium close-up, eye level, his face in the upper third, the misty lane as the lower third",
+   "image": "images/beat_031.png",
+   "reuse_of": null,
+   "transition_in": "xfade",
+   "sensitive": "other",
+   "safe_substitution": "the person calling his name is never shown; the lane stays empty",
+   "ambience": "night_lane",
+   "shots": [
+    {
+     "id": "shot_056",
+     "startMs": 559229,
+     "endMs": 568830,
+     "narration_dhivehi": "އަދި ކާކުތޯ ބަލައިލަން ފަހަތަށް އެނބުރިލި. އަދި ހައިރާންވެ ހުރެ ނަވީން މިފްޒާލްއަށް އަމާޒުކުރީ އިތުރު ސުވާލުތަކެއް.",
+     "narration_english": "And he turned around to see who it was. And, bewildered, Naveen fired more questions at Mifzaal.",
+     "crop": "full",
+     "motion": "pan left",
+     "sfx": [
+      {
+       "name": "footsteps_pavement",
+       "atMs": 561589,
+       "gainDb": -22,
+       "word": "އެނބުރިލި."
+      }
+     ],
+     "hum": true,
+     "crop_rect_pct": [
+      7.8,
+      0.0,
+      84.4,
+      100.0
+     ]
+    }
+   ],
+   "prompt_attempts": [
+    {
+     "attempt": 1,
+     "result": "ok",
+     "rewrite_reason": null
+    }
+   ],
+   "final_prompt": "Using the reference images for the characters' faces and clothing (reference image 1 is Mifzaal), create a new scene: Cinematic semi-realistic digital painting in the look of a moody romantic-thriller book cover: soft painterly brushwork, glowing rim light and warm golden highlights on faces and fabric, deep teal-blue shadows, gentle haze and atmospheric depth, subtle film grain, shallow depth of field, rich saturated reds against cool blues; set in the Maldives (turquoise lagoons, white coral-sand beaches, dense tropical jungle of coconut palms, screw-pines and magoo shrubs, coral-stone walls, Male's dense lanes and jetties), Maldivian characters with warm brown skin; emotional storytelling composition, vertical 9:16 framing with the main subject and faces in the upper two-thirds and a calm, uncluttered lower third (sand, water, path, floor, soft shadow) for captions and a logo; bright scenes are sunlit and warm with turquoise and gold, the jungle is green-shadowed and quietly unsettling, storms are dark slate-grey with silver rain, and night scenes in Male are deep blue with warm amber street lamps like the cover.\nScene: Mifzaal in the middle of the foggy teal night lane turning around over his shoulder towards the camera, eyes wide, face rim-lit in warm gold by the amber street lamps; the lane behind him stretching away empty and out of focus into teal fog, glowing lamp halos; nobody else visible anywhere. Location: a narrow lamp-lit Male lane at night: tall apartment buildings close on both sides with dim balconies, a few parked motorbikes, warm amber street lamps on the walls, a soft fog hanging in the lane, no signs. Camera: medium close-up, eye level, his face in the upper third, the misty lane as the lower third.\nCharacters: Mifzaal: a tall athletic Maldivian man of about 29 with warm brown skin, a handsome lean face, warm dark-brown eyes, strong straight eyebrows, a neatly trimmed short black beard and moustache and short neat black hair swept back; wears a loose white linen long-sleeved shirt with the sleeves rolled to the forearm, beige chino trousers, brown leather sandals and a plain steel wristwatch.\nMood/lighting: foggy teal night exactly like the cover: deep teal-blue haze, warm amber street lamps with glowing halos, golden rim light, mysterious and tense.\nModest Maldivian clothing (every woman in a loose long-sleeved ankle-length dress with a hijab fully covering her hair and neck, also on the beach and in the boat; men in shirts or t-shirts with long trousers, never shirtless, no swimwear on anyone), married couples only side by side or holding hands with no embracing or kissing, culturally respectful and Islamic in spirit, no ghosts, no monsters, no faces in the shadows, no violence shown, no blood, no wounds, no weapons, no alcohol, no smoking, no religious symbols of other faiths, no text, no letters, no numbers, no writing, no readable phone screens, no logos, no watermark.",
+   "logo": {
+    "color": "white",
+    "bg_luminance": 0.203,
+    "halo": false
+   },
+   "focus": {
+    "x_pct": 42.1,
+    "y_pct": 26.8,
+    "face_detected": true
+   }
+  }
+ ]
+}
