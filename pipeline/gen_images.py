@@ -171,9 +171,14 @@ def beat_jobs():
             vps.append(cards[cid]["visual_prompt"])
             names.append(cards[cid]["name"].split(" (")[0])
         mood = s.get("mood") or MOOD[s["location_key"]]
+        spk = s.get("speaker")   # dialogue beat (spec 5.4): frame the image on the speaker
+        if spk and os.path.exists(os.path.join(series_dir, "characters", spk, "card.json")):
+            spk = json.load(open(os.path.join(series_dir, "characters", spk, "card.json"), encoding="utf-8"))["name"].split(" (")[0]
+        focus = (f"Focus: {spk} is speaking — centred in the frame, in sharp focus, face clearly visible; other "
+                 f"characters softer or at the side.\n") if spk else ""
         core = (f"Scene: {s['visual']}. Location: {s['location']}. Camera: {s['camera']}.\n"
                 + (f"Characters: {' '.join(vps)}\n" if vps else "")
-                + f"Mood/lighting: {mood}.\n{TAIL}")
+                + focus + f"Mood/lighting: {mood}.\n{TAIL}")
         if refs:
             mapping = "; ".join(f"reference image {i + 1} is {n}" for i, n in enumerate(names))
             p1 = (f"Using the reference images for the characters' faces and clothing ({mapping}), "
@@ -184,7 +189,7 @@ def beat_jobs():
         neutral_visual = re.sub(TRIGGERS, "", s["visual"], flags=re.I)
         neutral_visual = re.sub(r"\s{2,}", " ", neutral_visual).strip(" ,;")
         core2 = (f"Scene: {neutral_visual}, calm and emotional. Location: {s['location']}. Camera: {s['camera']}.\n"
-                 + (f"Characters: {' '.join(vps)}\n" if vps else "") + f"Mood/lighting: {mood}.\n{TAIL}")
+                 + (f"Characters: {' '.join(vps)}\n" if vps else "") + focus + f"Mood/lighting: {mood}.\n{TAIL}")
         p2 = (f"Using the reference images for the characters' faces and clothing, create a new scene: {STYLE}\n{core2}"
               if refs else f"{STYLE}\n{core2}")
         # attempt 3: symbolism

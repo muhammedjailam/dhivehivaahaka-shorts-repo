@@ -10,7 +10,7 @@ import numpy as np
 from PIL import Image, ImageFilter
 
 W, H, FPS = 1080, 1920, 30
-XF = {"xfade": 0.6, "dissolve": 1.0, "black": 1.0}
+XF = {"xfade": 0.6, "dissolve": 1.0, "black": 1.0, "cut": 0.16}
 COVER_SEC = 2.5
 LOGO_W, LOGO_BOTTOM, LOGO_OPACITY = 360, 140, 0.88
 CRF = 19
@@ -59,6 +59,14 @@ def focus_point(im):
     return im.width / 2, im.height * 0.40, False
 
 
+def shot_focus(sh, src, default):
+    """Per-shot focus point (spec 5.4: centre the speaker) given as [x%, y%] of the image; a 3-tuple marks it explicit
+    so that even a 'full' crop is shifted towards it."""
+    f = sh.get("focus_pct")
+    if f: return (src.width * f[0] / 100, src.height * f[1] / 100, True)
+    return default
+
+
 def motion_params(motion, u):
     """(zoom multiplier, dx, dy) in output pixels for progress u in [0,1]."""
     if motion == "slow push-in":  return 1.0 + 0.08 * u, 0, 0
@@ -74,8 +82,8 @@ def frame(src, s0, crop, focus, motion, u):
     """Render one 1080x1920 frame: crop zoom z0 centred on `focus` (or image centre for full), plus motion."""
     zm, dx, dy = motion_params(motion, u)
     z0 = CROP_ZOOM[crop]; s = s0 * z0 * zm
-    if crop == "full": cx, cy = src.width / 2, src.height / 2
-    else: cx, cy = focus
+    if crop == "full" and not (isinstance(focus, tuple) and len(focus) == 3): cx, cy = src.width / 2, src.height / 2
+    else: cx, cy = focus[:2]
     cx += dx / s; cy += dy / s
     hw, hh = W / 2 / s, H / 2 / s                       # half window in source pixels
     cx = min(max(cx, hw), src.width - hw); cy = min(max(cy, hh), src.height - hh)
@@ -86,7 +94,7 @@ def frame(src, s0, crop, focus, motion, u):
 def crop_rect(src, s0, crop, focus):
     """Crop window (mid-motion ignored) as x,y,w,h in % of the image, for scenes.json."""
     s = s0 * CROP_ZOOM[crop]
-    cx, cy = (src.width / 2, src.height / 2) if crop == "full" else focus
+    cx, cy = (src.width / 2, src.height / 2) if crop == "full" and len(focus) == 2 else focus[:2]
     hw, hh = W / 2 / s, H / 2 / s
     cx = min(max(cx, hw), src.width - hw); cy = min(max(cy, hh), src.height - hh)
     return [round(100 * (cx - hw) / src.width, 1), round(100 * (cy - hh) / src.height, 1),
@@ -142,13 +150,13 @@ def prep(k):
     fx, fy, found = focus_point(src)
     lums = []
     for sh in b["shots"]:
-        lums.append(region_lum(frame(src, s0, sh["crop"], (fx, fy), sh["motion"], 0.5)))
+        lums.append(region_lum(frame(src, s0, sh["crop"], shot_focus(sh, src, (fx, fy)), sh["motion"], 0.5)))
     lum = float(np.mean(lums)); color, weak = logo_from_lum(lum)
     shots = []
     for j, sh in enumerate(b["shots"]):
         a = sh["startMs"] / 1000 - (XFI[k] / 2 if j == 0 else 0)
         e = sh["endMs"] / 1000 + (XFI[k + 1] / 2 if j == len(b["shots"]) - 1 and k + 1 < len(beats) else 0)
-        shots.append((a, e, sh["crop"], sh["motion"]))
+        shots.append((a, e, sh["crop"], sh["motion"], shot_focus(sh, src, (fx, fy))))
     _prep[k] = dict(src=src, s0=s0, focus=(fx, fy), face=found, shots=shots,
                     logo=(load_logo(color), weak), color=color, weak=weak, lum=lum)
     return _prep[k]
@@ -158,9 +166,9 @@ def render_beat(k, t):
     p = prep(k)
     sh = next((s for s in p["shots"] if t < s[1]), p["shots"][-1])
     if t < p["shots"][0][0]: sh = p["shots"][0]
-    a, e, crop, motion = sh
+    a, e, crop, motion, focus = sh
     u = min(1, max(0, (t - a) / (e - a)))
-    fr = frame(p["src"], p["s0"], crop, p["focus"], motion, u)
+    fr = frame(p["src"], p["s0"], crop, focus, motion, u)
     apply_logo(fr, *p["logo"])
     return fr
 
@@ -231,7 +239,7 @@ def report():
                               "halo": pr["weak"]},
                         focus={"x_pct": round(100 * pr["focus"][0] / pr["src"].width, 1),
                                "y_pct": round(100 * pr["focus"][1] / pr["src"].height, 1), "face_detected": pr["face"]},
-                        crops=[crop_rect(pr["src"], pr["s0"], sh["crop"], pr["focus"]) for sh in b["shots"]]))
+                        crops=[crop_rect(pr["src"], pr["s0"], sh["crop"], shot_focus(sh, pr["src"], pr["focus"])) for sh in b["shots"]]))
     return rep
 
 
@@ -250,7 +258,7 @@ if __name__ == "__main__":
         subprocess.run(["ffmpeg", "-y", "-v", "error", "-f", "concat", "-safe", "0", "-i", lst, "-c", "copy", video_only], check=True)
         final = os.path.join(ep_dir, f"{series}_Episode{n}_TikTok.mp4")
         subprocess.run(["ffmpeg", "-y", "-v", "error", "-i", video_only, "-i", os.path.join(ep_dir, "audio", "final_mix.wav"),
-                        "-map", "0:v", "-map", "1:a", "-c:v", "copy", "-af", "volume=-0.3dB", "-c:a", "aac", "-b:a", "192k", "-ar", "48000", "-ac", "2",
+                        "-map", "0:v", "-map", "1:a", "-c:v", "copy", "-af", "aresample=192000,alimiter=limit=0.72:level=false,aresample=48000", "-c:a", "aac", "-b:a", "192k", "-ar", "48000", "-ac", "2",
                         "-movflags", "+faststart", final], check=True)
         print("done:", final)
     rep = report()

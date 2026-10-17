@@ -108,10 +108,21 @@ CARDS = [
          distinguishing_features="navy pinstripe suit, thin moustache, glossy slicked hair",
          personality_cues="greedy, suspicious, quick-tempered",
          visual_prompt="Fareed: a tall thin Maldivian man of about 55 with warm brown skin, a long lean face with hollow cheeks, sharp nervous dark eyes, a thin black moustache and glossy black hair combed straight back; wears a navy pinstripe suit, a long-sleeved light-blue shirt and a silver tie."),
+    dict(id="asst_commissioner", name="Assistant Commissioner of Police", name_dhivehi="އެސިސްޓަންޓް ކޮމިޝަނަރު",
+         role="PRESENT (about 50); the senior police officer who leads the unit that arrests Asim, Sameer and Fareed with a court order (603)",
+         gender="male", age="about 50",
+         ethnicity_look=MV,
+         face="square stern face, calm steady dark eyes, a short neat greying black beard, firm mouth",
+         hair="short greying black hair, neatly cut",
+         build="broad-shouldered, upright, medium-tall",
+         default_outfit="a dark-navy police dress uniform with a long-sleeved tunic, plain shoulder boards, a dark-navy peaked cap, black belt with no holster, dark trousers, polished black shoes; carries a plain white folded document",
+         distinguishing_features="dark-navy dress uniform and peaked cap, greying short beard, upright bearing; never any weapon or holster",
+         personality_cues="calm authority, measured voice, unshakeable",
+         visual_prompt="the Assistant Commissioner: a broad-shouldered upright Maldivian police officer of about 50 with warm brown skin, a square stern face, calm steady dark eyes, a short neat greying black beard and short greying hair under a dark-navy peaked cap; wears a dark-navy long-sleeved police dress uniform tunic with plain shoulder boards, a black belt with no holster and dark trousers; no weapon of any kind."),
 ]
 
 FIRST = dict(iyaan=520, iyaan_young=520, zahir=520, aminath_young=520, aminath=520, asim=521, raaya=522,
-             sameer=529, fareed=529)
+             sameer=529, fareed=529, asst_commissioner=603)
 
 if __name__ == "__main__":
     series_dir, episode = sys.argv[1], int(sys.argv[2])

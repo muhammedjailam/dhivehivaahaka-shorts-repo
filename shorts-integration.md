@@ -1,6 +1,7 @@
 # Shorts Upload Integration (for video rendering services)
 
-Lets an external service (e.g. a video rendering pipeline) push a short video for an episode. The server
+Lets an external service (e.g. a video rendering pipeline) find a story's episodes, download each episode's
+audio with captions, and push a short video for an episode. The server
 sends the file on to Bunny Stream; once Bunny finishes encoding, the short appears in the mobile app automatically
 (shorts are not shown on the public website; admins manage them in the admin portal).
 
@@ -8,7 +9,9 @@ sends the file on to Bunny Stream; once Bunny finishes encoding, the short appea
 
 | Method | Path | Purpose |
 | :--- | :--- | :--- |
-| `GET` | `/episodes/{episode_id}/shorts` | Check whether the episode already has a short |
+| `GET` | `/books/{book_id}/episodes` | List every episode of a story |
+| `GET` | `/episodes/{episode_id}/audio-bundle` | Download the episode's audio, captions and cover (zip) |
+| `GET` | `/episodes/{episode_id}/shorts` | List the episode's shorts / check whether it already has one |
 | `POST` | `/shorts/uploads` | Start a chunked upload (any size) |
 | `PUT` | `/shorts/uploads/{upload_id}/chunks/{index}` | Send one chunk |
 | `GET` | `/shorts/uploads/{upload_id}` | Upload progress / missing chunks |
@@ -16,6 +19,7 @@ sends the file on to Bunny Stream; once Bunny finishes encoding, the short appea
 | `DELETE` | `/shorts/uploads/{upload_id}` | Cancel an upload |
 | `POST` | `/shorts` | Single-request upload (small files only) |
 | `GET` | `/shorts/{id}` | Poll the processing status of an upload |
+| `DELETE` | `/shorts/{id}` | Delete a short |
 
 ---
 
@@ -44,7 +48,7 @@ Accept: application/json
 
 ---
 
-## 2. Check whether an episode already has a short
+## 2. List an episode's shorts (does it already have one?)
 
 ```
 GET /episodes/{episode_id}/shorts
@@ -236,11 +240,90 @@ A ready short can still be hidden by an admin (`is_active: false`).
 
 ---
 
-## 5. Suggested flow
+## 5. List a story's episodes
 
-1. `GET /episodes/{id}/shorts`. If `has_short` is true, decide: skip, or upload with `replace=1`.
-2. `POST /shorts/uploads` (with `replace=1` if replacing), `PUT` every chunk, then `POST …/complete`. Keep `short.id`.
-3. Poll `GET /shorts/{id}` until `status` is `ready` (done) or `failed` (retry the upload).
+```
+GET /books/{book_id}/episodes
+```
+
+Every episode of the story, in reading order (`order`), whatever its status — shorts can be made for
+unpublished episodes too.
+
+**200 OK**
+```json
+{
+  "book": { "id": 12, "title": "ހިތުގެ ވިންދު", "slug": "hithuge-vindhu", "status": "published" },
+  "episodes": [
+    {
+      "id": 45, "title": "3 ވަނަ ބައި", "slug": "3-vana-bai", "order": 3, "status": "published",
+      "published_at": "2026-10-01T08:00:00.000000Z",
+      "has_audio": true, "has_captions": true, "audio_duration": 412000,
+      "has_audio_bundle": true,
+      "has_short": true, "has_ready_short": false, "shorts_count": 1
+    }
+  ]
+}
+```
+
+* **`has_audio_bundle`** — the audio bundle (section 6) can be downloaded: the episode has finished audio and
+  word-level captions.
+* `audio_duration` is in milliseconds (`null` without audio).
+* `has_short` / `has_ready_short` mean the same as in section 2; `shorts_count` includes failed shorts. Use
+  `GET /episodes/{id}/shorts` for the shorts themselves.
+* `404` — no book with that id.
+
+---
+
+## 6. Download an episode's audio bundle
+
+```
+GET /episodes/{episode_id}/audio-bundle
+```
+
+```bash
+curl -fL -o episode-45-audio.zip https://dhivehivaahaka.com/api/v1/integrations/episodes/45/audio-bundle   -H "X-Client-Id: $CLIENT_ID" -H "X-Client-Secret: $CLIENT_SECRET" -H "Accept: application/json"
+```
+
+**200 OK** — `Content-Type: application/zip`, file name `episode-{id}-audio.zip`, containing:
+
+| File | Contents |
+| :--- | :--- |
+| `episode-{id}.{ext}` | The narration audio (usually `.wav`, or the format it was generated in) |
+| `episode-{id}-captions.json` | Word-level captions: a list of sentences, each `{ "text", "words": [{ "word", "startMs", "endMs" }] }` |
+| `episode-{id}-cover.{ext}` | The book's original cover — **only when the book has one** |
+
+**404** when the episode does not exist, or has no audio with captions yet:
+```json
+{ "message": "This episode has no audio with captions yet.", "has_audio": true, "has_captions": false }
+```
+
+---
+
+## 7. Delete a short
+
+```
+DELETE /shorts/{id}
+```
+
+Deletes the short (and its video on Bunny Stream). Any short can be deleted, including ones uploaded by
+admins. To swap a short for a new one, prefer uploading with `replace=1` (3.5): that keeps the old short live
+until the new one is ready.
+
+**200 OK** → `{ "message": "Short deleted.", "id": 7 }`
+
+* `409` — the short is still being sent to Bunny Stream (`status: "uploading"`); try again in a minute.
+* `404` — no short with that id (e.g. already deleted).
+
+---
+
+## 8. Suggested flow
+
+1. `GET /books/{id}/episodes`. Pick the episodes with `has_audio_bundle: true` (and `has_short: false`, unless
+   you are replacing).
+2. `GET /episodes/{id}/audio-bundle` and render the video from the audio, captions and cover.
+3. `GET /episodes/{id}/shorts`. If `has_short` is true, decide: skip, or upload with `replace=1`.
+4. `POST /shorts/uploads` (with `replace=1` if replacing), `PUT` every chunk, then `POST …/complete`. Keep `short.id`.
+5. Poll `GET /shorts/{id}` until `status` is `ready` (done) or `failed` (retry the upload).
 
 Lost track of an upload? `GET /shorts/uploads/{upload_id}` shows what is missing; `complete` can be called again
-safely. A finished earlier upload is also listed by step 1 (`source: "api"`).
+safely. A finished earlier upload is also listed by step 3 (`source: "api"`).

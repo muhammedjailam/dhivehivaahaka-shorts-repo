@@ -1,4 +1,5 @@
-"""Beat/shot plan for Project Phenix episode 320 (used by plan_beats.py)."""
+"""Beat/shot plan for Project Phenix episode 320 — v2 re-cut on the new audio (used by plan_beats.py).
+v1 images are reused via v1="beat_###"; new images mainly for spec 5.4 (speaker centred and sharp)."""
 
 LOC = {
     "cargo_boat": "a weathered wooden-and-steel cargo supply boat travelling south across the open Maldivian sea, an open deck stacked with lashed wooden crates and sacks, a small wheelhouse, the low skyline of Malé's north harbour fading behind",
@@ -42,7 +43,8 @@ RW = ("Dr. Raniya WITHOUT her white coat: a loose long-sleeved ankle-length dust
       "covering her hair and neck, soaked dark by rain and spray but fully opaque")
 LOW = "faces in the upper two-thirds, a calm dark lower third"
 
-BEATS = [
+# ---- the v1 beats (text unchanged, documentation; their old `to` values are overridden below)
+_V1 = [
     # ---------------- CARGO BOAT SOUTH
     dict(to=3, reason="episode opening: dawn, a cargo boat leaving Malé's north harbour with Ashham and Habeeb as secret passengers",
          chars=["ashham", "habeeb"], loc="cargo_boat",
@@ -169,144 +171,312 @@ BEATS = [
          amb="beach_night", hum=True),
 ]
 
+
+def V(k, to, **o):
+    """A beat that keeps the v1 image of old beat_k (old visual/camera/chars/loc/amb/sens/safe kept as documentation)."""
+    d = dict(_V1[k - 1]); d.pop("to", None); d.pop("hum", None)
+    d.update(to=to, v1=f"beat_{k:03d}"); d.update(o); return d
+
+
+def RU(new_id, base, to, **o):
+    """In-episode reuse of the image already shown by beat `new_id` (NEW numbering)."""
+    d = dict(base); d.pop("v1", None); d.pop("hum", None)
+    d.update(to=to, reuse=new_id); d.update(o); return d
+
+
+# ---- NEW v2 images (spec 5.4 speaker framing + one outfit fix)
+N_RAN_DESK = dict(reason="5.4 dialogue: Raniya speaks ('Who are you? Get out!') - in the v1 image she stands at the far left edge; new image framed on her",
+    chars=["raniya", "ashham", "habeeb"], loc="raniya_office", speaker="raniya",
+    visual=f"{R} half-rising from the chair behind her desk with stacked files and a lit desk lamp, startled and frightened, speaking sharply, one hand raised in front of her, her face clearly visible and centred in the frame; in the soft blurred foreground at the lower left and lower right edges the backs of the shoulders of {A} and {H} standing near the door, out of focus; a wide gap between her and the men",
+    camera=f"medium close-up over the two men's shoulders, eye level, Raniya centred in the upper half and sharp, {LOW} (desk top)",
+    amb="hospital_room")
+N_RAN_CHAIR = dict(reason="5.4 dialogue: Raniya, sunk into her chair in tears, speaks ('You... you know everything?', 'They killed Naail...') - the v1 image hid her face in her hands",
+    chars=["raniya"], loc="raniya_office", speaker="raniya",
+    visual=f"{R} sunk into the chair behind her desk, her legs given way, tears running down her cheeks, looking up with a broken, pleading face, lips parted as she speaks, her hands resting limp on the files, her face clearly visible and centred; the warm desk lamp beside her, the dark rainy window behind her soft",
+    camera=f"medium close-up, eye level, Raniya centred in the upper half and sharp, {LOW} (desk top with files)",
+    amb="hospital_room", transition="cut")
+N_HAB_OFFICE = dict(reason="5.4 dialogue: Habeeb answers ('Yes, we have Naail's call recording') - in the v1 image he is at the right edge looking down; reverse shot over Raniya's shoulder",
+    chars=["habeeb", "raniya"], loc="raniya_office", speaker="habeeb",
+    visual=f"{H} standing on the other side of the desk, leaning slightly forward, speaking gently and seriously, his face clearly visible, centred and in sharp focus in the warm lamp light; in the soft blurred foreground at the lower edge the navy hijab and white-coated shoulder of Dr. Raniya seen from behind as she sits at the desk; nobody else in the frame",
+    camera=f"medium close-up over Raniya's shoulder (reverse shot), eye level, Habeeb centred in the upper half, {LOW} (desk top)",
+    amb="hospital_room", transition="cut")
+N_ASH_LEAN = dict(reason="5.4 dialogue: Ashham leans forward and asks who the mastermind in Malé is - the v1 close-up shows only the back of his head; reverse shot",
+    chars=["ashham", "raniya"], loc="raniya_office", speaker="ashham",
+    visual=f"{A} leaning forward across the desk toward the viewer, both hands flat on the desk, asking an urgent question, intense eyes, his face clearly visible, centred and sharp in the warm lamp light; in the soft blurred foreground at the lower edge the navy hijab and white-coated shoulder of Dr. Raniya seen from behind; rain on the dark window behind him",
+    camera=f"medium close-up over Raniya's shoulder (reverse shot), eye level, Ashham centred in the upper half, {LOW} (desk top)",
+    amb="hospital_room", transition="cut")
+N_HAB_DARK = dict(reason="5.4 dialogue: in the blackout Habeeb cries out that the backup power is cut too - in the v1 dark-office image he is a profile at the left edge",
+    chars=["habeeb", "raniya"], loc="office_dark", speaker="habeeb",
+    visual=f"the office in sudden total darkness: {H} by the rain-streaked window, turning toward the viewer in alarm and calling out, his face lit by the faint cold light from the window, clearly visible, centred and sharp, glasses glinting; behind him in the dark, soft and out of focus, Dr. Raniya in her white coat and navy hijab pressed back against a filing cabinet, hands clasped at her own chest",
+    camera=f"medium close-up, eye level, Habeeb centred in the upper half, {LOW} (dark floor)",
+    amb="hospital_night", transition="cut")
+N_ASH_DOOR = dict(reason="5.4 dialogue: Ashham, holding the door shut, shouts 'Habeeb, open the window!' - in the v1 image he is at the right edge",
+    chars=["ashham"], loc="office_dark", speaker="ashham",
+    visual=f"{A} braced with his shoulder against the closed wooden door of the dark office, one hand gripping the door handle, turning his head toward the viewer and shouting an order, his face clearly visible in a thin cold light, centred and sharp; thin white lines of flashlight light glowing under the door; his other hand open and empty",
+    camera=f"medium close-up, eye level, Ashham centred in the upper half, {LOW} (dark floor)",
+    amb="hospital_night", transition="cut")
+N_RAN_JETTY = dict(reason="5.4 dialogue: at the jetty Raniya speaks at length (what now, the hidden dinghy, her father) - in the v1 jetty image she stands at the far left edge",
+    chars=["raniya", "ashham", "habeeb"], loc="old_jetty", speaker="raniya",
+    visual=f"{RW} standing on the old wet jetty in the rain, trembling, arms wrapped around herself, speaking in panic, her frightened face clearly visible, centred and in sharp focus; behind her, soft and out of focus at a distance on both sides, {AD} scanning the shoreline and {H} catching his breath; clear gaps between her and the men; rain, black water",
+    camera=f"medium close-up, eye level, Raniya centred in the upper half, {LOW} (dark wet planks)",
+    amb="rain_night", transition="cut")
+N_DINGHY = dict(reason="action change: they drag the hidden dinghy into the sea (v2 fix: the v1 image showed Raniya still wearing her white doctor's coat after the escape)",
+    chars=["ashham", "habeeb", "raniya"], loc="old_jetty",
+    visual=f"{AD} and {H} dragging a small white fibreglass dinghy with a small outboard engine out of the dark bushes into the shallow black water beside the old jetty; {RW} - she wears NO white coat and NO lab coat at all, only the soaked dark dusty-blue dress and the navy hijab - standing a few steps apart on the shore pointing toward the bushes; rain; clear gaps between her and the men",
+    camera=f"medium wide shot, eye level, {LOW} (black shallow water)", amb="rain_night")
+N_ASH_HELM = dict(reason="5.4 dialogue: Ashham decides 'No time - Kandu-huttaa' and asks Raniya for the code while starting the engine - in the v1 dinghy image he is at the left edge",
+    chars=["ashham", "habeeb", "raniya"], loc="old_jetty", speaker="ashham",
+    visual=f"{AD} sitting at the stern of the small white fibreglass dinghy beside the old jetty, one hand on the small outboard engine, looking toward the viewer and speaking firmly, decisive, his face clearly visible, centred and sharp; in the soft blurred foreground the backs of Habeeb (grey zip jacket) and Raniya (navy hijab, dusty-blue dress, no white coat) sitting in the dinghy, out of focus, apart from each other; huge black storm clouds above, choppy black water, rain",
+    camera=f"medium close-up from the bow (reverse shot), eye level, Ashham centred in the upper half, {LOW} (choppy black water)",
+    amb="rain_night", transition="cut")
+N_RAN_DINGHY = dict(reason="5.4 dialogue: in the dinghy Raniya speaks ('armed guards inside', later 'They've seen us!') - in the v1 boat images she is at the right edge",
+    chars=["raniya"], loc="storm_sea", speaker="raniya",
+    visual=f"{RW} crouched low in the small white fibreglass dinghy, gripping its side with both hands, drenched by spray, speaking out in fear toward the viewer, her face clearly visible, centred and sharp; behind her, soft, black waves with white crests and dark storm clouds",
+    camera=f"medium close-up, eye level, Raniya centred in the upper half, {LOW} (dark foaming water)",
+    amb="rain_night", transition="cut")
+N_RAN_BEACH = dict(reason="5.4 dialogue: on the beach Raniya says 'We've only reached the field of death... under this island is hell' - in the v1 beach image she is a small figure at the right edge",
+    chars=["raniya"], loc="kandu_beach", speaker="raniya",
+    visual=f"{RW} standing on the white sand beach at night, exhausted and soaked, looking at the pitch-black jungle and speaking in a low, dread-filled voice, her face clearly visible in three-quarter view, centred and sharp; behind her the dense black jungle of screwpine and palms; the beached dinghy small and soft in the background",
+    camera=f"medium close-up, eye level, Raniya centred in the upper half, {LOW} (white sand)",
+    amb="beach_night")
+N_ASH_BUSH = dict(reason="5.4 dialogue: crouched in the bushes Ashham whispers 'They're guarding the bunker... Habeeb, wait here with Raniya' - in the v1 image he is seen from behind",
+    chars=["ashham", "habeeb", "raniya"], loc="kandu_jungle", speaker="ashham",
+    visual=f"{AD} crouched in the dark bushes, turned toward the viewer, whispering an instruction, one open empty hand raised flat in a 'wait here' gesture, his face clearly visible in faint moonlight, centred and sharp; in the soft blurred foreground at the lower edges the backs of the heads of Habeeb (glasses, dark-grey zip jacket) and Raniya (navy hijab and a soaked dark dusty-blue dress - she wears NO white coat, nothing white at all) crouching, out of focus, apart from each other; far behind him through the leaves the faint white glow of two flashlights near the bunker door",
+    camera=f"medium close-up (reverse shot), eye level, Ashham centred in the upper half, {LOW} (dark undergrowth)",
+    amb="jungle_night", transition="cut")
+
+BEATS = [
+    V(1, 2),                                                             # beat_001 cargo boat deck
+    V(2, 7),                                                             # beat_002 cabin: Habeeb (3-4), Ashham (5-6) by crop
+    V(3, 10),                                                            # beat_003 next night, lane to hospital (black)
+    V(4, 11),                                                            # beat_004 knock ('Come in' = unseen voice)
+    dict(N_RAN_DESK, to=13),                                             # beat_005 NEW Raniya: 'Who are you?'
+    V(5, 16, transition="cut"),                                          # beat_006 Ashham shows card (crop on Ashham)
+    dict(N_RAN_CHAIR, to=17),                                            # beat_007 NEW Raniya in tears
+    dict(N_HAB_OFFICE, to=18),                                           # beat_008 NEW Habeeb: the recording
+    RU("beat_007", N_RAN_CHAIR, 20, transition="cut"),                    # beat_009 Raniya: 'They killed Naail'
+    V(7, 24),                                                            # beat_010 Raniya explains the lab (crop on her)
+    dict(N_ASH_LEAN, to=25),                                             # beat_011 NEW Ashham asks; lights out
+    dict(N_HAB_DARK, to=26),                                             # beat_012 NEW Habeeb: backup cut
+    V(8, 27),                                                            # beat_013 boots in the corridor
+    dict(N_ASH_DOOR, to=28),                                             # beat_014 NEW Ashham: 'open the window!'
+    V(9, 30, transition="cut"),                                          # beat_015 masked men in the doorway
+    V(10, 32),                                                           # beat_016 Raniya and Habeeb at the wall
+    RU("beat_015", _V1[8], 33, transition="cut",
+      reason="5.4 dialogue: the masked man in front orders Ashham to move - return to the masked figures, centred on the middle one (identity hidden)"),
+    V(11, 37),                                                           # beat_018 Ashham spots the file holder; 'Habeeb, out!'
+    V(12, 39),                                                           # beat_019 corridor run
+    V(13, 42),                                                           # beat_020 back garden
+    V(14, 43),                                                           # beat_021 jetty arrival
+    dict(N_RAN_JETTY, to=47),                                            # beat_022 NEW Raniya speaks at the jetty
+    dict(N_DINGHY, to=48),                                               # beat_023 NEW (fix) dragging the dinghy
+    V(16, 50),                                                           # beat_024 Habeeb: dangerous trip (crop on him)
+    dict(N_ASH_HELM, to=53),                                             # beat_025 NEW Ashham at the helm
+    dict(N_RAN_DINGHY, to=54),                                           # beat_026 NEW Raniya in the dinghy
+    RU("beat_024", _V1[15], 55, transition="cut",
+      reason="return: the dinghy heads out of the lagoon into the waves"),
+    V(17, 58, hum=None),                                                 # beat_028 storm; Habeeb: 'a launch!'
+    V(18, 59),                                                           # beat_029 Ashham looks back at the searchlight
+    RU("beat_026", N_RAN_DINGHY, 60, amb="storm_night", transition="cut",
+      reason="5.4 dialogue: Raniya screams 'They've seen us!' - return to her framing"),
+    RU("beat_029", _V1[17], 61, transition="cut",
+      reason="5.4 dialogue: Ashham shouts 'Zayaan! Hold on!' and swings the helm - return to his framing"),
+    V(19, 62),                                                           # beat_032 launches, spray
+    RU("beat_028", _V1[16], 63, transition="cut",
+      reason="5.4 dialogue: Habeeb shouts 'Sir, we're going to die!' - return to the storm dinghy framed on him"),
+    V(20, 67),                                                           # beat_034 searchlight shot out
+    V(21, 69),                                                           # beat_035 beached dinghy
+    dict(N_RAN_BEACH, to=71),                                            # beat_036 NEW Raniya: 'field of death'
+    V(22, 75),                                                           # beat_037 laptop: Ashham / Habeeb by crop
+    V(23, 76),                                                           # beat_038 bunker door with two guards
+    dict(N_ASH_BUSH, to=78),                                             # beat_039 NEW Ashham whispers the plan
+    RU("beat_038", _V1[22], 79, transition="cut",
+      reason="return: the stone is thrown, a guard goes to look"),
+    V(24, 82),                                                           # beat_041 guards gone; 'Come quickly!'
+    V(25, 83),                                                           # beat_042 keypad
+    V(26, 85),                                                           # beat_043 the door opens; 'only the beginning'
+    V(27, 87),                                                           # beat_044 launch enters the lagoon
+]
+for _b in BEATS:
+    _b.pop("hum", None)
+
 S = {}
 def sh(i, en, sfx=(), **opt): S[i] = (en, list(sfx), opt)
 
+# focus points [x%, y%] read off work/grid (v1 sheets for v1 images, grid/new for the new ones)
 sh(1, "In the dim light of dawn, Ashham and Habeeb were aboard a cargo boat that had left Malé's north harbour.",
    [("boat_engine", "ބޯޓެއްގެ", -20)])
-sh(2, "This boat carries goods to the southern atolls. Because the boat's captain was an old friend of Ashham's,")
-sh(3, "they boarded the boat as secret passengers. Habeeb sat using his satellite modem to follow Dr. Raniya's movements. \"Sir,",
-   [("keyboard_typing", "މޮޑެމް", -24)])
-sh(4, "Raniya is on duty at the hospital now. Her phone's location shows it's there. But there are many calls from unknown numbers around her too.\"",
-   [("phone_buzz", "ކޯލްތަކެއް", -24)])
-sh(5, "\"Those are their guards,\" Ashham said, looking out of the window. \"Raniya is inside a locked cage.")
-sh(6, "Unless she's saved, we won't learn the truth.\" The rest of the voyage passed in silence.")
-sh(7, "Yet both of them knew that behind that silence lay the secret of a great storm. Reaching the island: the next night at nine,",
+sh(2, "This boat carries goods to the southern atolls. Because the boat's captain was an old friend of Ashham's, they boarded as secret passengers.")
+sh(3, "Habeeb sat using his satellite modem to follow Dr. Raniya's movements. Sir, Raniya is on duty at the hospital right now.",
+   [("keyboard_typing", "މޮޑެމް", -24)], speaker="habeeb", crop="tight", focus=[30, 44])
+sh(4, "Her phone's location shows she's there. But there are lots of calls from unknown numbers around her too.",
+   [("phone_buzz", "ކޯލްތަކެއް", -24)], speaker="habeeb", crop="tight", focus=[30, 44])
+sh(5, "Those are their guards. Ashham looked out of the small window. Raniya is",
+   speaker="ashham", crop="tight", focus=[59, 35])
+sh(6, "inside a locked cage. Unless she's rescued, there's no way to learn the truth.",
+   speaker="ashham", crop="tight", focus=[59, 35])
+sh(7, "The rest of the voyage passed in silence. Yet both of them knew that behind that silence lay the secret of a great storm.",
    [("thunder", "ތޫފާނެއްގެ", -22)], hum=True)
-sh(8, "the boat came alongside GA. Villingili harbour. The harbour lay under a few dim lamps. Dressed like ordinary people, Ashham and Habeeb",
-   [("boat_engine", "ކައިރިކުރިއެވެ", -22)])
-sh(9, "got off the boat and walked through the dark lanes toward the hospital. The island's hospital is a two-storey building.",
+sh(8, "Reaching the island. The next night at nine o'clock, the boat came alongside Villingili harbour in Gaafu Alifu.",
+   [("boat_engine", "ކައިރިކުރި", -22)])
+sh(9, "The island's harbour lay under a few dim lamps. Dressed like ordinary people, Ashham and Habeeb got off the boat and walked through the dark lanes toward the hospital.",
    [("footsteps_sand", "ހިނގާފައި", -22)])
-sh(10, "At that hour the hospital was very quiet. Entering through the emergency door, Ashham headed toward where the doctors' rooms were.",
+sh(10, "The island's hospital is a two-storey building. At that hour the hospital was very quiet. Entering through the emergency door, Ashham headed toward the doctors' rooms.",
    [("door_open", "ވަދެ", -22)])
-sh(11, "While Habeeb kept watch, Ashham went and knocked on the door of the room bearing Dr. Raniya's name. \"Come in,\" came a woman's voice from inside.",
-   [("knock", "ޓަކިޖަހާލިއެވެ", -16)])
-sh(12, "Ashham went in, closed the door and locked it. Raniya sat at her desk looking through files. As she raised her head,",
-   [("door_close", "ލައްޕާ", -20), ("lock_click", "ތަޅުލިއެވެ", -20)])
-sh(13, "seeing two strangers before her she took fright. \"Who are you? Get out of here!\" Raniya stood up. \"Dr. Raniya, stay calm,\" Ashham said, showing his police card.",
-   [("gasp", "ބިރުގަތެވެ", -22)])
-sh(14, "\"I'm Ashham, police Serious Crimes. We came about Naail's death. And to save your father.\"")
-sh(15, "At the names of Naail and her father, tears spilled from Raniya's eyes. Her legs gave way and she sank onto the chair. \"You...",
-   [("sob_breath", "ކަރުނަ", -24), ("cloth_rustle", "ތިރިވެވުނެވެ", -24)], hum=True)
-sh(16, "you know everything?\" \"Yes, we have the recording of Naail's phone call,\" said Habeeb.")
-sh(17, "Raniya put her hands over her face and began to cry. \"They killed Naail. I told him not to get involved in this.",
-   [("sob_breath", "ރޯން", -22)], hum=True)
-sh(18, "They are not people with any mercy.\" Locked in: once she had calmed down, Raniya began to talk.")
-sh(19, "\"On Kandu-huttaa there is a secret lab of a foreign pharmaceutical company. They are developing a new master drug there.")
-sh(20, "To test that drug they use foreigners smuggled into the Maldives in secret. There is a great deal of human trafficking in this.")
-sh(21, "Naail found out because their shipments came in through his father's company.\" \"Who is the mastermind in Malé?\"")
-sh(22, "Ashham asked, leaning forward. Just as Raniya opened her mouth to say something, suddenly every light in the hospital went out.",
-   [("power_down", "ނިވުނެވެ", -16)], hum=True)
-sh(23, "The whole place sank into darkness. \"Sir! The backup power has been cut too!\" Habeeb said in alarm.",
-   [("breath_heavy", "ހާސްވެފައި", -24)])
-sh(24, "At that moment, from the corridor came the sound of heavy boots and of guns being loaded. They were coming into the hospital. \"They're here!\"",
+sh(11, "While Habeeb kept watch, Ashham went and knocked on the door of the room bearing Dr. Raniya's name. Come in.",
+   [("knock", "ޓަކިޖަހާލި", -16)])
+sh(12, "A woman's voice came from inside. Ashham went in, shut the door and locked it. Raniya sat at her desk looking through files.",
+   [("door_close", "ލައްޕާ", -20), ("lock_click", "ތަޅުލި", -20)])
+sh(13, "As she raised her head and looked up, she saw two strangers in front of her and took fright. Who are you? Get out of here!",
+   [("gasp", "ބިރުގަތް", -22)], speaker="raniya")
+sh(14, "Dr. Raniya, stay calm. Raniya stood up. Ashham showed her his police card.",
+   speaker="ashham", crop="tight", focus=[69, 35])
+sh(15, "I'm Ashham, from police Serious Crimes. We came about Naail's death.",
+   speaker="ashham", crop="tight", focus=[69, 35])
+sh(16, "And to save your father. At the names of Naail and her father, tears rolled from Raniya's eyes.",
+   [("sob_breath", "ކަރުނަ", -24)], hum=True, speaker="ashham", crop="tight", focus=[69, 35])
+sh(17, "Her legs gave way and she sank onto the chair. You... you know everything?",
+   [("cloth_rustle", "ތިރިވެވުނު", -24)], hum=True, speaker="raniya")
+sh(18, "Yes, we have the recording of Naail's phone call, Habeeb said. Raniya put her hands over her face and began to cry.",
+   [("sob_breath", "ރޯން", -22)], hum=True, speaker="habeeb")
+sh(19, "They've killed Naail. I told him", speaker="raniya")
+sh(20, "not to get into this. They're not people with any mercy. Locked in.", speaker="raniya")
+sh(21, "Once she had calmed down, Raniya began to talk. On Kandu-huttaa there is a secret lab of a foreign pharmaceutical company.",
+   speaker="raniya", crop="medium", focus=[40, 42])
+sh(22, "What they're making there is a new master drug. To test that drug, they use",
+   speaker="raniya", crop="tight", focus=[40, 35])
+sh(23, "foreigners smuggled secretly into the Maldives. There's a huge amount of human trafficking in this.",
+   speaker="raniya", crop="medium", focus=[42, 42])
+sh(24, "Naail found out because their shipments came in through his father's company. Who's the mastermind in Malé?",
+   speaker="raniya", crop="tight", focus=[40, 35])
+sh(25, "Ashham asked, leaning forward. Just as Raniya opened her mouth to say something, suddenly every light in the hospital went out.",
+   [("power_down", "ނިވުނު", -16)], hum=True, speaker="ashham")
+sh(26, "The whole place sank into darkness. Sir! The backup power's been cut too! Habeeb said in alarm.",
+   [("breath_heavy", "ހާސްވެފައި", -24)], speaker="habeeb")
+sh(27, "At that moment, from the corridor came the sound of heavy boots and of guns being loaded. They were coming into the hospital.",
    [("boots_march", "ބޫޓުތަކެއްގެ", -18), ("lock_click", "ލޯޑްކުރާ", -22)], hum=True)
-sh(25, "Raniya cried out in fear. \"Habeeb, open the window! We have to get out of here!\" Ashham said, grabbing the door and holding it shut.",
-   [("gasp", "ހަޅޭއްލަވައިގަތެވެ", -18)])
-sh(26, "At that moment the door was flung open with a loud bang, and three armed men in black masks came in.",
+sh(28, "They're here! Raniya screamed in fear. Habeeb, open the window! We have to get out of here!",
+   [("gasp", "ހަޅޭއްލަވައިގަތް", -18)], speaker="ashham")
+sh(29, "Ashham said, holding the door shut. At that moment the door was flung open with a loud bang, and three armed men in black masks came in.",
    [("door_slam", "ހުޅުވާލާފައި", -14)], hum=True)
-sh(27, "The butt of one man's gun struck Ashham on the forehead. Escape from the hospital:",
-   [("soft_thud", "ޖެހިއެވެ", -23)])
-sh(28, "In the pitch darkness that filled the room, Ashham fell. One of the men in black masks held him by the collar.",
-   [("cloth_rustle", "ހިފެހެއްޓިއެވެ", -22)])
-sh(29, "The man's breathing could be heard close by. Raniya was beside Habeeb; in fear she gripped Habeeb's arm tightly. \"Move, forward, without a sound!\"",
+sh(30, "The butt of one man's gun struck Ashham on the forehead. Escaping the hospital attack.",
+   [("soft_thud", "ޖެހި", -23)])
+sh(31, "In the pitch darkness that filled the room, Ashham fell. One of the men in black masks held him by the collar.",
+   [("cloth_rustle", "ހިފެހެއްޓި", -22)])
+sh(32, "The man's breathing could be heard close by. Raniya was next to Habeeb. In fear she gripped Habeeb's arm tightly. Move,",
    [("breath_heavy", "ނޭވާގެ", -20)])
-sh(30, "the man in front ordered Ashham in a heavy voice. Ashham is an experienced officer who has faced many dangerous situations like this.")
-sh(31, "As his eyes got used to the dark, he noticed the heavy metal file holder lying on the desk. Suddenly,",
-   [("heartbeat", "ފާހަގަކުރިއެވެ", -20)], hum=True)
-sh(32, "without any warning, Ashham ducked down and swung the holder at the head of the man in front.",
-   [("soft_thud", "ވީއްލާލިއެވެ", -22)])
-sh(33, "With that, the gun fell from his hand to the floor. \"Habeeb! Out the door!\" Ashham shouted, and grabbing the second man hard, brought him to the floor.",
-   [("metal_clang", "ވެއްޓުނެވެ", -22), ("soft_thud", "ވައްޓާލިއެވެ", -24)])
-sh(34, "Habeeb took Raniya by the hand and ran out of the room's door. At that moment the third man began firing after them. \"Tishun..",
-   [("footsteps_pavement", "ދުއްވައިގަތެވެ", -20)], hum=True)
-sh(35, "tishun\" - the bullets struck the corridor wall. Cement flew off the hospital wall. From all around, the sound of people screaming and crying echoed.",
+sh(33, "forward, without a sound! the criminal in front ordered Ashham in a heavy voice.",
+   speaker="masked_man", crop="tight", focus=[31, 35])
+sh(34, "Ashham is an experienced officer who has faced many dangerous situations like this.")
+sh(35, "As his eyes got used to the dark, he spotted the heavy metal file holder on the desk. Suddenly, without any warning, Ashham ducked down and swung the holder at the head of the man in front.",
+   [("heartbeat", "ފާހަގަކުރި", -20), ("soft_thud", "ވީއްލާލި", -22)], hum=True)
+sh(36, "With that, the gun slipped from his hand and fell to the floor. Habeeb! Get out the door!",
+   [("metal_clang", "ވެއްޓުނު", -22)], speaker="ashham", crop="tight", focus=[54, 35])
+sh(37, "Ashham shouted, and grabbing the second man hard round the body, brought him to the floor.",
+   [("soft_thud", "ވައްޓާލި", -24)])
+sh(38, "Habeeb took Raniya by the hand and ran out of the room's door. At that moment the third man started firing after them. Tishun...",
+   [("footsteps_pavement", "ދުއްވައިގަތް", -20)], hum=True)
+sh(39, "Tishun - the bullets hit the corridor wall. Cement crumbled off the hospital wall. Screams and crying echoed from all over.",
    [("crash_clatter", "ބުރައިގެން", -22)])
-sh(36, "Lying on the floor, Ashham attacked them with their own guns and brought two of them down. The third man lay unconscious from the hard blow to his head.")
-sh(37, "Taking the rounds left in their guns, Ashham ran after Habeeb and the others and came out through the hospital's back door.",
+sh(40, "Lying on the floor, Ashham turned their own guns on them and brought two of them down. The third man lay unconscious from the hard blow to his head.")
+sh(41, "Taking the rounds left in their guns, Ashham ran after Habeeb and the others and came out through the hospital's back door.",
    [("door_open", "ދޮރުން", -20)])
-sh(38, "They came out through the hospital's back garden and vanished into the island's dark lanes. It was still raining.",
+sh(42, "They came out through the hospital's back garden and vanished into the island's dark lanes. It was still raining.",
    [("rain_start", "ވާރޭ", -18)])
-sh(39, "When they reached the abandoned old jetty on the island's west shore, they were all out of breath. Raniya's clothes were soaked.",
-   [("breath_heavy", "މާނޭވާލެވިފައެވެ", -18)])
-sh(40, "She was trembling with fear. \"What do we do now? They'll search the whole island for us,\" Raniya said in a voice full of panic.",
-   [("breath", "ތުރުތުރު", -22)])
-sh(41, "\"There should be a small dinghy I hid here,\" Raniya said slowly. \"It's something I prepared to escape from the island.")
-sh(42, "I tried to escape so many times. But with my father in their hands, and afraid of what they'd do, I never dared.\" They pulled out a small fibreglass dinghy hidden among the bushes and put it in the sea.",
+sh(43, "When they reached the abandoned old jetty on the island's west shore, they were all out of breath.",
+   [("breath_heavy", "މާނޭވާލެވިފައި", -18)])
+sh(44, "Raniya's clothes were soaked. She was trembling with fear. What do we do now? They'll search the whole island for us.",
+   [("breath", "ތުރުތުރު", -22)], speaker="raniya")
+sh(45, "Raniya said in a voice full of panic. There should be a small dinghy I hid here.", speaker="raniya")
+sh(46, "It's something I got ready so I could escape from the island. I tried to escape so many times.", speaker="raniya")
+sh(47, "But with my father in their hands, and scared of what they'd do, I never dared. Raniya said slowly.", speaker="raniya")
+sh(48, "They pulled out a small fibreglass dinghy hidden among the bushes and put it in the sea. It had a small outboard engine.",
    [("leaves_rustle", "ގަސްތަކުގެ", -18), ("splash", "މޫދަށް", -18)])
-sh(43, "It had a small outboard engine. Habeeb got into it at once, trying to keep his laptop safe. \"Sir,")
-sh(44, "this will be a very dangerous trip. The sea is very rough,\" Zayaan said, looking up at the sky. Black clouds covered the whole sky.",
-   [("wind_gust", "ކަޅުވިލާތަކުން", -18)])
-sh(45, "\"The only option we have is to go to another island near here.\" \"No, there's no time. We have to go to Kandu-huttaa.")
-sh(46, "If we can get there and into that bunker, we'll learn all their secrets,\" Ashham said, starting the dinghy's engine.",
-   [("boat_engine", "ސްޓާޓްކޮށްލަމުން", -16)])
-sh(47, "\"Raniya, do you have the bunker code?\" \"Yes, it's on my phone. But there'll be armed guards inside,\"")
-sh(48, "Raniya said, gripping the side of the dinghy. The dinghy left the island's lagoon and headed into the sea's huge waves.",
+sh(49, "Habeeb got into it at once, trying to keep his laptop safe. Sir, this is going to be a very dangerous trip. The sea is really rough.",
+   speaker="habeeb", crop="tight", focus=[44, 39])
+sh(50, "The only option we have is to go to another island near here. Zayaan said, looking up at the sky.",
+   speaker="habeeb", crop="medium", focus=[44, 42])
+sh(51, "Black clouds covered the whole sky. No, there's no time. We have to go to Kandu-huttaa.",
+   [("wind_gust", "ކަޅުވިލާތަކުން", -18)], speaker="ashham")
+sh(52, "If we can get there and into that bunker, we'll learn all their secrets. Ashham said, starting the dinghy's engine.",
+   [("boat_engine", "ސްޓާޓްކޮށްލަމުން", -16)], speaker="ashham")
+sh(53, "Raniya, do you have the bunker code? Yes, it's on my phone. But", speaker="ashham")
+sh(54, "there'll be armed guards inside. Raniya said, gripping the side of the dinghy.", speaker="raniya")
+sh(55, "The dinghy left the island's lagoon and headed into the sea's huge waves. Storm at sea.",
    [("wave_crash", "ރާޅުތަކުގެ", -18)])
-sh(49, "Storm at sea: as soon as they were out on the open sea, the storm showed its true strength. Waves like mountains crashed down on the dinghy.",
+sh(56, "As soon as they were out on the open sea, the storm showed its real strength. Huge waves like mountains kept crashing down on the dinghy.",
    [("wind_howl", "ތޫފާނުގެ", -18), ("wave_crash", "ރާޅުތައް", -14)], hum=True)
-sh(50, "The salt spray made it hard even to open their eyes. Habeeb sat bailing water out of the dinghy. His laptop was in its waterproof bag,",
-   [("splash", "ދިޔަހިއްކާށެވެ", -20)])
-sh(51, "wrapped in another plastic bag, slung round his neck and tied to his body with a strap. \"Sir! A big launch is coming from the other side!\"",
-   [("engine_rev", "ލޯންޗެއް", -18)])
-sh(52, "Habeeb shouted. Ashham looked back. In the distance, the light of a powerful searchlight was coming toward them over the sea spray.")
-sh(53, "It was two powerful launches of the criminals. Their speed was far greater. \"They've seen us!\"",
-   [("engine_rev", "ލޯންޗެވެ", -16)])
-sh(54, "Raniya cried out in fear. \"Zayaan! Hold on!\" Ashham swung the dinghy's helm and drove it into the waves.",
-   [("wave_crash", "ރާޅުތަކުގެ", -16)])
-sh(55, "From the launch behind they began to fire. The bullets hit the sea spray with a \"pop, pop\".",
+sh(57, "The salt spray made it hard even to open their eyes. Habeeb sat bailing water out of the dinghy. His laptop was in its waterproof bag,",
+   [("splash", "ދިޔަހިއްކަން", -20)])
+sh(58, "wrapped in another plastic bag, hung round his neck and strapped to his body. Sir! A big launch is coming from the other side!",
+   [("engine_rev", "ލޯންޗެއް", -18)], speaker="habeeb", crop="tight", focus=[33, 35])
+sh(59, "Habeeb shouted. Ashham looked back. In the distance, the light of a powerful searchlight was coming toward them over the sea spray.")
+sh(60, "It was the criminals' two powerful launches. Their speed was far greater. They've seen us! Raniya screamed in fear.",
+   [("engine_rev", "ލޯންޗު", -16)], speaker="raniya")
+sh(61, "Zayaan! Hold on! Ashham swung the dinghy's helm and drove it into the waves. From the launch behind, they started firing.",
+   [("wave_crash", "ރާޅުތަކުގެ", -16)], speaker="ashham", crop="tight", focus=[34, 35])
+sh(62, "The bullets hit the sea spray with a pop, pop. Because the waves were so strong, they kept losing their aim. Even so, they kept getting closer.",
    [("splash", "ޕޮޕް", -22)], hum=True)
-sh(56, "Because the waves were so strong, they kept losing their aim. Even so, they kept coming closer.")
-sh(57, "It was as if the big launch would come and ram the dinghy's side and crush it. \"Sir, we're going to die!\" Habeeb shouted.",
-   [("engine_rev", "ލޯންޗު", -14)], hum=True)
-sh(58, "Ashham took the gun he had seized at the hospital and aimed behind. But taking aim on such a heavy wave was impossible.",
-   [("heartbeat", "އަމާޒުކުރިއެވެ", -20)])
-sh(59, "After a moment's thought he changed his aim to the big searchlight on the front of the launch. \"Bang!\"",
+sh(63, "It was as if the big launch would come and ram the dinghy's side and smash it to pieces. Sir, we're going to die!",
+   [("engine_rev", "ލޯންޗު", -14)], hum=True, speaker="habeeb", crop="tight", focus=[33, 35])
+sh(64, "Habeeb shouted. Ashham took the gun he had seized at the hospital and aimed behind. But taking aim on such heavy waves was impossible.",
+   [("heartbeat", "އަމާޒުކުރި", -20)])
+sh(65, "After a moment's thought, he switched his aim to the big searchlight on the front of the launch. Bang!",
    [("soft_thud", "ބޭންގް", -22)], hum=True)
-sh(60, "With a single round the searchlight burst, and the whole area was dark again. At that moment a huge wave came and crashed between the two launches.",
+sh(66, "With a single round the searchlight burst, and the whole area went dark again. At that moment a huge wave came and crashed between the two launches.",
    [("glass_break", "ގޮވައި", -14), ("wave_crash", "ރާޅެއް", -14)])
-sh(61, "With that, the criminals' launch was pushed far away. By then they were nearly at Kandu-huttaa. Seizing the chance, Ashham",
-   [("engine_rev", "ލޯންޗު", -22)])
-sh(62, "steered the dinghy in through a narrow channel near the island's reef. A small hope settled as they entered Kandu-huttaa's lagoon.",
-   [("wave_crash", "ފަރުކައިރީގައި", -20)])
-sh(63, "But smoke began to rise from the dinghy's engine. Water got into the engine and it stopped completely. The dinghy drifted slowly onto the island's white sand.",
-   [("steam_hiss", "ދުން", -20), ("power_down", "ހުއްޓުނީއެވެ", -22)])
-sh(64, "The three got off the dinghy and climbed onto the island's beach. They were utterly exhausted and spent. \"We've only reached the field of death,\"",
-   [("footsteps_sand", "އެރިއެވެ", -18)])
-sh(65, "Raniya said, looking at the pitch-dark trees around them. \"Under this island's ground is hell.\" \"Habeeb, does your equipment work?\"",
-   [("leaves_rustle", "ގަސްތަކަށް", -22)], hum=True)
-sh(66, "Ashham asked. Zayaan took out his laptop and opened it. The battery was at fifteen percent. \"Sir, there's a satellite signal.",
-   [("computer_beep", "ހުޅުވާލިއެވެ", -22)])
-sh(67, "But because of a jammer coming from this island's bunker, no message can be sent to Malé. We have to get inside the bunker and switch off the main power.\"")
-sh(68, "\"Let's go,\" Ashham said. \"Raniya, stay behind me. Walk without making a sound.\"")
-sh(69, "They moved forward through the trees to find the big concrete bunker door Ashham had seen before. At the bunker's door:",
-   [("leaves_rustle", "ގަސްތަކުގެ", -20)])
-sh(70, "Searching through the thick trees, they found that heavy steel door. This time two guards with weapons stood beside the door.",
+sh(67, "With that, the criminals' launch was pushed far away. By then they were almost at Kandu-huttaa. Seizing the chance, Ashham steered the dinghy in through a narrow channel near the island's reef.",
+   [("engine_rev", "ލޯންޗު", -22), ("wave_crash", "ފަރުކައިރީގައި", -20)])
+sh(68, "A small hope. Entering Kandu-huttaa's lagoon, things calmed down. But smoke started to rise from the dinghy's engine.",
+   [("steam_hiss", "ދުން", -20)])
+sh(69, "Water got into the engine and it stopped completely. The dinghy drifted slowly onto the island's white sand. The three got off the dinghy and climbed onto the beach.",
+   [("power_down", "ހުއްޓުނީ", -22), ("footsteps_sand", "އެރި", -18)])
+sh(70, "They were utterly exhausted and worn out. We've only just reached the field of death.", speaker="raniya")
+sh(71, "Under this island's ground is hell. Raniya said, looking at the pitch-dark trees around them.",
+   [("leaves_rustle", "ގަސްތަކަށް", -22)], hum=True, speaker="raniya")
+sh(72, "Habeeb, is your equipment working? Ashham asked. Zayaan took out his laptop and opened it. The battery was at fifteen percent.",
+   [("computer_beep", "ހުޅުވާލި", -22)], speaker="ashham", crop="tight", focus=[63, 35])
+sh(73, "Sir, there's a satellite signal. But because of a jammer coming from this island's bunker, no message can be sent to Malé.",
+   speaker="habeeb", crop="tight", focus=[41, 44])
+sh(74, "We have to get inside the bunker and switch off the main switch. Let's go. Raniya, you stay behind me.",
+   speaker="habeeb", crop="medium", focus=[42, 44])
+sh(75, "Walk without making a sound. Ashham said. They moved forward through the trees to find the big concrete bunker door Ashham had seen before.",
+   [("leaves_rustle", "ގަސްތަކުގެ", -20)], speaker="ashham", crop="tight", focus=[63, 35])
+sh(76, "At the bunker's door. Searching through the thick trees, they found that heavy steel door.",
    [("leaves_rustle", "ގަސްތަކުގެ", -22)])
-sh(71, "They were very alert. \"They're guarding the bunker,\" Ashham said quietly. \"I have to take those two out.", hum=True)
-sh(72, "Habeeb, wait here with Raniya.\" Ashham picked up a big stone from the ground and threw it far off. \"Thud!\"",
-   [("soft_thud", "ތްލަޑް", -18)])
-sh(73, "At the sound of the stone one guard went to look. Ashham came up behind him, clamped one hand over his mouth and nose, gripped him with the other arm and brought him down unconscious.",
-   [("footsteps_sand", "ދިޔައެވެ", -22), ("soft_thud", "ވައްޓާލައި", -24)])
-sh(74, "Just as the other guard, startled, raised his gun, Ashham ran at him, struck him in the chest and brought him to the ground.")
-sh(75, "After a short struggle both guards lay on the ground. \"Come quickly!\" Ashham called. Raniya and Zayaan ran to the door.",
-   [("footsteps_sand", "ދުވެފައި", -18)])
-sh(76, "With her trembling hand, Raniya began typing the secret code into the bunker's electronic keypad. \"4... 8... 9... 1... 0...\"",
+sh(77, "This time two guards with weapons stood beside the door. They were very alert. They're guarding the bunker.",
+   hum=True, speaker="ashham")
+sh(78, "I have to take those two out. Habeeb, you wait here with Raniya.", speaker="ashham")
+sh(79, "Ashham said quietly. Ashham picked up a big stone from the ground and threw it far off. Thud! At the sound of the stone, one guard went to look.",
+   [("soft_thud", "ތްލަޑް", -18), ("footsteps_sand", "ދިޔަ", -22)])
+sh(80, "Ashham came up from behind, clamped one hand over his mouth and nose, wrapped the other arm round his chest, brought him down and knocked him out.",
+   [("soft_thud", "ވައްޓާލައި", -24)])
+sh(81, "With that, just as the other guard, startled, raised his gun, Ashham ran at him, kicked him in the chest and brought him to the ground.")
+sh(82, "After a short struggle both guards were down on the ground. Come quickly! Ashham called. Raniya and Zayaan ran to the door.",
+   [("footsteps_sand", "ދުވެފައި", -18)], speaker="ashham", crop="tight", focus=[33, 35])
+sh(83, "With her trembling hand, Raniya began typing the secret code into the bunker's electronic keypad. Four... eight...",
    [("computer_beep", "ކީޕޭޑްގައި", -20)], hum=True)
-sh(77, "\"Beep!\" With a loud noise the steel door began to open. Out came cold air carrying a chemical smell. \"This is only the beginning; be careful,\" Ashham said.",
-   [("computer_beep", "ބީޕް", -14), ("metal_door", "ހުޅުވެން", -14), ("wind_gust", "ވައިރޯޅިއެކެވެ", -22)])
-sh(78, "\"Let's go in.\" As they went into the bunker and shut the door, the sound of a big launch entering the island's lagoon was heard outside.",
+sh(84, "Nine... one... zero... Beep! With a loud noise the steel door began to open.",
+   [("computer_beep", "ބީޕް", -14), ("metal_door", "ހުޅުވެން", -14)])
+sh(85, "Out came cold air carrying a chemical smell. This is only the beginning, be careful. Let's go in.",
+   [("wind_gust", "ވައިރޯޅިއެއް", -22)], speaker="ashham", crop="tight", focus=[55, 35])
+sh(86, "Ashham said. As they went into the bunker and shut the door, the sound of a big launch entering the island's lagoon was heard outside.",
    [("metal_door", "ލެއްޕުމާއެކު", -14), ("engine_rev", "ލޯންޗެއް", -16)])
-sh(79, "The criminals' main group had come to the island. Ashham and the others were now locked inside the bunker. - To be continued -",
-   [("heartbeat", "ބަންދުވެފައެވެ", -18)], hum=True)
+sh(87, "The criminals' main group had come to the island. Ashham and the others were now locked inside the bunker. To be continued.",
+   [("heartbeat", "ބަންދުވެފަ", -18)], hum=True)
+# 5.4 framing on the NEW v2 images (focus read off work/grid/new_##.jpg after generation)
+FOC = {13: ("medium", [45, 42]),                       # beat_005 Raniya: 'Who are you?'
+       17: ("medium", [46, 42]),                       # beat_007 Raniya in tears
+       18: ("medium", [47, 42]),                       # beat_008 Habeeb
+       19: ("tight", [46, 35]), 20: ("medium", [46, 42]),          # beat_009 = beat_007
+       25: ("medium", [47, 42]),                       # beat_011 Ashham leans in
+       26: ("medium", [36, 42]),                       # beat_012 Habeeb in the dark
+       28: ("medium", [56, 42]),                       # beat_014 Ashham at the door
+       44: ("medium", [46, 42]), 45: ("tight", [46, 35]), 46: ("medium", [46, 42]), 47: ("tight", [46, 35]),  # beat_022
+       51: ("medium", [46, 42]), 52: ("tight", [46, 35]), 53: ("medium", [46, 42]),  # beat_025 Ashham at the helm
+       54: ("medium", [45, 42]), 60: ("tight", [45, 35]),          # beat_026 / beat_030 Raniya in the dinghy
+       70: ("medium", [46, 42]), 71: ("tight", [46, 35]),          # beat_036 Raniya on the beach
+       77: ("medium", [45, 42]), 78: ("tight", [45, 35])}          # beat_039 Ashham whispers
+for _i, (_c, _f) in FOC.items():
+    S[_i][2].update(crop=_c, focus=_f)
 SHOTS = S

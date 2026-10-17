@@ -6,8 +6,11 @@ The plan module defines:
   MOOD  = {key: mood/lighting text}
   BEATS = [dict(to=<last shot number>, reason=..., chars=[...], loc=key, visual=..., camera=...,
                 amb=<ambience key>, sens=None, safe=None, reuse=None | "beat_007" | "ep272:shot_091",
-                transition="xfade" | "black" | "dissolve")]
-  SHOTS = {n: (english, [(sfx_name, dhivehi_word_substring, gainDb)], {optional: hum, crop, motion})}
+                v1=None | "beat_005" (copy that image from <series>/v1/episode-<N>/images/, no API call),
+                speaker=None | card id or name (dialogue beat: the image is framed on this speaker, spec 5.4),
+                transition="xfade" | "black" | "dissolve" | "cut")]
+  SHOTS = {n: (english, [(sfx_name, dhivehi_word_substring, gainDb)],
+               {optional: hum, crop, motion, speaker (who talks in this shot), focus ([x%, y%] of the image to centre)})}
 A beat covers the shots after the previous beat's `to` up to its own `to`.
 """
 import importlib.util, json, os, shutil, sys
@@ -29,11 +32,19 @@ CROPS = ["full", "tight", "full", "medium", "tight"]
 os.makedirs(f"{ep_dir}/images", exist_ok=True)
 
 beats, first, mi = [], 1, 0
+V1J = f"{ep_dir}/work/v1_copied.json"            # beat ids whose image file is a copy of a v1 image
+v1_prev = set(json.load(open(V1J))) if os.path.exists(V1J) else set()
+v1_copied = set()
 for bi, b in enumerate(P.BEATS, 1):
     bid = f"beat_{bi:03d}"
     rng = range(first, b["to"] + 1); first = b["to"] + 1
     reuse = b.get("reuse")
-    if reuse and reuse.startswith("ep"):          # image from an earlier episode of the series (no API call)
+    if b.get("v1"):                                 # image from the previous (v1) render of this episode
+        src = os.path.join(series_dir, "v1", f"episode-{n}", "images", f"{b['v1']}.png")
+        shutil.copyfile(src, f"{ep_dir}/images/{bid}.png")   # always refresh: beat numbering may have shifted
+        v1_copied.add(bid)
+        image, reuse = f"images/{bid}.png", f"v1:{b['v1']}"
+    elif reuse and reuse.startswith("ep"):          # image from an earlier episode of the series (no API call)
         ep, shot = reuse[2:].split(":")
         src = os.path.join(series_dir, f"episode-{ep}", "images", f"{shot}.png")
         dst = f"{ep_dir}/images/{bid}.png"
@@ -43,6 +54,8 @@ for bi, b in enumerate(P.BEATS, 1):
         image = next(x["image"] for x in beats if x["id"] == reuse)
     else:
         image = f"images/{bid}.png"
+        stale = f"{ep_dir}/{image}"              # a v1 copy left from an earlier plan run must not pass as a new image
+        if bid in v1_prev and os.path.exists(stale): os.remove(stale)
     shots = []
     for k, si in enumerate(rng):
         seg = segs[si - 1]
@@ -53,23 +66,26 @@ for bi, b in enumerate(P.BEATS, 1):
             hit = next((w for w in words[seg["w0"]:seg["w1"] + 1] if key in w["word"]), None)
             assert hit, (seg["id"], key)
             sfx_out.append({"name": name, "atMs": hit["startMs"], "gainDb": g, "word": hit["word"]})
-        crop = opt.get("crop") or (("medium" if reuse else "full") if len(rng) == 1 else
-                                   CROPS[(k + (1 if reuse else 0)) % len(CROPS)])
+        rz = bool(reuse) and not reuse.startswith("v1:")   # a v1 copy is shown fresh, not as a repeat
+        crop = opt.get("crop") or (("medium" if rz else "full") if len(rng) == 1 else
+                                   CROPS[(k + (1 if rz else 0)) % len(CROPS)])
         shots.append({"id": seg["id"], "startMs": seg["startMs"], "endMs": seg["endMs"],
                       "narration_dhivehi": seg["narration_dhivehi"], "narration_english": en,
                       "crop": crop, "motion": opt.get("motion") or MOTIONS[mi % len(MOTIONS)],
-                      "sfx": sfx_out, "hum": bool(opt.get("hum"))})
+                      "sfx": sfx_out, "hum": bool(opt.get("hum")), "speaker": opt.get("speaker"),
+                      "focus_pct": opt.get("focus")})
         mi += 1
     beats.append({
         "id": bid, "startMs": shots[0]["startMs"], "endMs": shots[-1]["endMs"],
         "new_image_reason": b["reason"], "characters": b.get("chars", []),
         "location": P.LOC[b["loc"]], "location_key": b["loc"], "mood": P.MOOD[b["loc"]],
-        "visual": b["visual"], "camera": b.get("camera", "medium shot, eye level"),
+        "speaker": b.get("speaker"), "visual": b["visual"], "camera": b.get("camera", "medium shot, eye level"),
         "image": image, "reuse_of": reuse, "transition_in": b.get("transition", "xfade"),
         "sensitive": b.get("sens"), "safe_substitution": b.get("safe"),
         "ambience": b["amb"], "shots": shots, "prompt_attempts": [],
     })
 
+if v1_copied or v1_prev: json.dump(sorted(v1_copied), open(V1J, "w"))
 old = f"{ep_dir}/scenes.json"
 if os.path.exists(old):   # keep the logged prompt attempts of images already generated
     prev = {b["id"]: b for b in json.load(open(old, encoding="utf-8")).get("beats", [])}
@@ -82,7 +98,7 @@ new = [b for b in beats if not b["reuse_of"]]
 nshots = sum(len(b["shots"]) for b in beats)
 dur = beats[-1]["endMs"] / 1000
 print(f"{len(beats)} beats, {nshots} shots, {len(new)} new images, {len(beats) - len(new)} reused; "
-      f"{dur / len(new):.1f} s audio per new image")
+      f"{dur / max(1, len(new)):.1f} s audio per new image")
 for b in beats:
     print(f'{b["id"]} {b["startMs"]/1000:7.1f}-{b["endMs"]/1000:7.1f} ({(b["endMs"]-b["startMs"])/1000:5.1f}s, '
           f'{len(b["shots"])} shots) {b["reuse_of"] or "NEW"}  {b["visual"][:70]}')

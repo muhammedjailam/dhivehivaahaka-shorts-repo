@@ -11,9 +11,18 @@ with slow camera motion or relevant transitions in between,
 paced to the narration, with the website logo at the bottom of every frame.
 
 You do all of the work yourself: unpack the input, understand the story, plan
-the scenes, generate the images through the OpenAI API, design the sound, and
-render the final MP4 with ffmpeg. Work without stopping for confirmation unless
-a step is blocked (missing key, missing input, failing tool).
+the scenes, generate the images through the OpenAI API, design the sound
+(ambience and SFX generated with ElevenLabs), render the final MP4 with ffmpeg,
+and — when the run was started from a story ID — upload the short to the site.
+Work without stopping for confirmation unless a step is blocked (missing key,
+missing input, failing tool).
+
+A run starts in one of two ways:
+  a) ZIP MODE: you are given an episode zip (section 1.1). Make the video.
+  b) STORY-ID MODE: you are given a story (book) ID on dhivehivaahaka.com and
+     asked to either make shorts for NEW episodes or REPLACE existing shorts.
+     Fetch the episodes and shorts from the site API first (section 13),
+     download the audio bundles, make the videos, then upload them.
 
 
 -------------------------------------------------------------------------------
@@ -21,12 +30,18 @@ a step is blocked (missing key, missing input, failing tool).
 -------------------------------------------------------------------------------
 1.1  Episode zip, e.g. `Hayaath/episode-272-audio.zip`. The series name is the
      parent folder (`Hayaath`), the episode number comes from the file name
-     (`episode-<N>-audio.zip`). The zip contains:
+     (`episode-<N>-audio.zip`). <N> is the site's episode id (also the id used
+     for the upload). In story-ID mode the zip is the episode's audio bundle,
+     downloaded from the site (section 13.2) — same contents. The zip contains:
 
      - `episode-<N>.wav`             Narration. Mono, 24 kHz. This is the master
                                      timeline: the video must be exactly as long
-                                     as this audio.
-     - `episode-<N>-captions.json`   Transcript with word timings. Schema:
+                                     as this audio. (Bundles from the site are
+                                     usually .wav but may be another format —
+                                     convert with ffmpeg; the rules are the same.)
+     - `episode-<N>-captions.json`   Transcript with word timings. A list of one
+                                     or more sentence entries — concatenate the
+                                     `words` of all entries in order. Schema:
                                        [ { "text": "<full transcript>",
                                            "startMs": 200, "endMs": 838369,
                                            "words": [ { "word": "...",
@@ -45,8 +60,21 @@ a step is blocked (missing key, missing input, failing tool).
      `env.txt` (KEY=VALUE lines). Never print, log, or write the key anywhere.
      If no OpenAI key is found, stop and ask for it.
 
+1.3a ElevenLabs API access (sound effects / ambience, section 8). Read
+     `ElevenLabs_API_key` from `env.txt` (also accept `ELEVENLABS_API_KEY` from
+     the environment). Same rule: never print, log, or write the key. If it is
+     missing or rejected, fall back to the procedural sounds (section 8.4)
+     and say so in the report.
+
+1.3b Site API access (story-ID mode, section 13). `SHORTS_CLIENT_ID` /
+     `SHORTS_CLIENT_SECRET` (and optional `SITE_URL`) from `env.txt`, sent as
+     `X-Client-Id` / `X-Client-Secret` headers. Full API reference:
+     `shorts-integration.md` in the project root. Never print the secret.
+
 1.4  Tools available: Python 3, ffmpeg/ffprobe (full build, includes librsvg
-     and libass), the `openai` Python package (install with pip if missing).
+     and libass), the `openai` and `requests` Python packages (install with
+     pip if missing). `pipeline/` holds the existing scripts (planning,
+     image generation, sound.py, render, qc, upload_shorts.py) — reuse them.
 
 1.5 Character cards used in previous episodes for the same story.
 
@@ -165,10 +193,13 @@ The plan has two layers:
     lying on the bed crying → she gets up and walks to the door; a
     wheelchair comes in; they sit down to eat);
   - a strong emotional turning point that needs a different framing (e.g.
-    the reveal of a face, a shocking piece of news).
+    the reveal of a face, a shocking piece of news);
+  - a character starts speaking who cannot be shown centred and in focus
+    using a crop of the current image (see 5.4).
   Do NOT create a new image just because a sentence ended, a new paragraph
   started, or the narrator is reflecting/asking questions. Inner monologue,
-  descriptions, and dialogue in the same place stay on the current image.
+  descriptions, and dialogue in the same place stay on the current image, as
+  long as the speaker can be framed per 5.4.
 
 5.2 Holding an image:
   - Hold one image for as long as the scene/action is unchanged, varying it
@@ -192,6 +223,31 @@ The plan has two layers:
     2-3 s (fit it into 9:16, blurred-background fill if the aspect differs),
     then crossfade into the first beat.
 
+5.4 Dialogue: the speaker is the focus
+  - Whenever a character is speaking (quoted dialogue, "X said / asked /
+    shouted ...", or a line clearly in a character's voice), that character
+    must be the visual focus of the shot: sharp focus, face clearly visible
+    (front or three-quarter view), placed at or near the horizontal centre of
+    the frame and in the upper half (above the caption area). Listeners may
+    be softer, smaller, at the side, or seen from behind (over-the-shoulder).
+  - First try to do this with shots on the current image: a crop / push-in on
+    the speaker's face (`crop: "face_<character_id>"`), or a pan that ends
+    with the speaker centred. Cut to the new framing at the sentence boundary
+    where the speaker changes.
+  - If the current image cannot give a centred, in-focus view of the speaker
+    (they are not in it, too small, at the edge, turned away, or blurred),
+    create a new image framed on the speaker (allowed by 5.1): medium
+    close-up or over-the-shoulder, speaker centred and sharp, the listener
+    blurred in the foreground or at the side.
+  - Back-and-forth conversations: plan one image per speaker up front
+    (shot / reverse-shot) and alternate between them with "reuse:<beat_id>"
+    instead of generating a new image for every line.
+  - Narration that is not dialogue can use any framing.
+  - Section 6 still wins: if showing the speaker's face would break a rule,
+    or a character's identity is deliberately hidden by the story (silhouette,
+    mystery figure), keep the safe/hidden framing but still centre that
+    figure in the shot.
+
 scenes.json structure:
   {
     "beats": [
@@ -207,11 +263,17 @@ scenes.json structure:
         "image": "images/beat_006.png"  (or "reuse:beat_003"),
         "sensitive": null | "violence" | "intimacy" | "clothing" | "other",
         "safe_substitution": "what you showed instead and why (if sensitive)",
-        "ambience": "night_room_tone",
+        "ambience": "night_room_tone",   (or a list of layered keys, e.g.
+                                          ["rain_tin_roof_night",
+                                           "ceiling_fan_room"]; keys from
+                                          sfx/elevenlabs/index.jsonl, 8.2)
         "shots": [
           { "id": "shot_014", "startMs": 101240, "endMs": 109880,
             "narration_dhivehi": "<the words in this window>",
             "narration_english": "<your translation>",
+            "speaker": "aunt_zareena" | null,   (character speaking in this
+                                                  shot; must be centred and
+                                                  in focus, see 5.4)
             "crop": "full" | "face_hayaathu" | "<x,y,w,h in % of image>",
             "motion": "slow push-in" | "slow pull-out" | "pan left"
                       | "pan right" | "pan up" | "pan down" | "static drift",
@@ -292,6 +354,9 @@ Prompt template for each beat image:
   <STYLE>
   Scene: <visual>. Location: <location>. Camera: <camera>.
   Characters: <visual_prompt of each character in the beat>.
+  Focus (dialogue beats only): <speaker> is speaking — centred in the frame,
+  in sharp focus, face clearly visible; other characters softer or at the
+  side.
   Mood/lighting: <...>.
   Modest Maldivian clothing, culturally respectful, no violence shown,
   no text, no letters, no watermark.
@@ -344,6 +409,12 @@ Record each rewrite and the reason in the log and in scenes.json. Never try to
 -------------------------------------------------------------------------------
 NO BACKGROUND MUSIC. No melodies, instruments, beats or songs of any kind.
 
+Goal: the viewer should feel they are IN the place — rain on the roof, waves
+on the beach, palms in the wind, traffic outside the window — under the
+narration and dialogue, never on top of it. Every beat gets a fitting
+ambience bed (no beat is silent underneath the narration unless silence is
+the point), and the actions the narration mentions get spot SFX.
+
 Allowed and wanted:
   a) Ambience beds (continuous, very low, matched to the location of each
      shot, crossfaded 1-2 s at location changes):
@@ -363,17 +434,89 @@ Allowed and wanted:
      clock ticking, wind gust, slap/impact sound only as a muffled offscreen
      thud (the visual still shows no violence).
 
-Sourcing: use a local `sfx/` library if one exists (CC0/royalty-free files,
-licences noted). If a needed sound is missing, synthesise it procedurally with
-Python/numpy or ffmpeg (filtered noise for wind/rain/waves, sines for hums and
-drones, short enveloped noise bursts for thuds/knocks). Do not download
-files from the internet without asking.
+  Layer beds when the scene calls for it (e.g. rain + distant thunder +
+  ceiling-fan room tone; waves + wind through palms + far-off dhoni engine).
+  In scenes.json a beat's `ambience` may be one key or a list of keys.
 
-Mixing:
+8.1 Sourcing — ElevenLabs sound effects (primary)
+  Generate ambience beds and spot SFX with the ElevenLabs text-to-sound API:
+
+    POST https://api.elevenlabs.io/v1/sound-generation
+         ?output_format=mp3_44100_128
+    headers: xi-api-key: <key from env.txt>, Content-Type: application/json
+    body:    { "text": "<prompt>",
+               "model_id": "eleven_text_to_sound_v2",
+               "duration_seconds": 0.5-30,      (null = model picks)
+               "prompt_influence": 0.3-0.6,
+               "loop": true }                    (beds only; seamless loop)
+    → 200 with the MP3 bytes. 422 = bad field (read `detail`).
+    429/5xx → retry with exponential backoff (max 5 tries), 2-3 requests in
+    parallel at most.
+
+  Prompts: concrete and physical, describing the place and the distance of
+  the sound, e.g. "steady tropical rain on a corrugated tin roof heard from
+  inside a small coral-stone house at night, ceiling fan hum, soft and
+  even", "gentle waves lapping on a white-sand island beach at dusk, light
+  wind through coconut palms, far away", "busy narrow Malé street outside a
+  closed window, motorbikes passing, distant horns, muffled",
+  "single wooden door creaks open slowly, close".
+  Always append: "no music, no melody, no singing, no speech, no voices"
+  (for crowds/markets: "indistinct murmur, no intelligible words" — any
+  audible English/foreign speech would clash with the Dhivehi narration).
+  Beds: 20-30 s with "loop": true, then loop/crossfade them to the beat
+  length. Spot SFX: 0.5-5 s, "loop": false, trimmed and faded.
+  Never generate religious audio (call to prayer, Quran recitation, dua) with
+  AI. A faint far-away call to prayer may only come from the local `sfx/`
+  library, if a suitable real recording exists; otherwise leave it out.
+
+8.2 Sound library and cache (never pay twice)
+  - Save every generated sound in a series-independent library:
+      sfx/elevenlabs/<category>/<key>.mp3     (e.g. ambience/rain_tin_roof_night,
+                                               sfx/door_creak_open)
+    and append one line per sound to `sfx/elevenlabs/index.jsonl`:
+      { "key", "category", "prompt", "duration_seconds", "loop",
+        "prompt_influence", "model_id", "file", "created", "used_in": [...] }
+    (no API key). Before generating, look the need up in the index and reuse
+    any sound that fits — most episodes should only need a few new sounds.
+  - Generate 2 variations only for beds used a lot (main locations of a
+    series) so long scenes don't sound like a short loop; listen to/inspect
+    each new file once (duration, no music, no voices) before using it.
+  - Record in scenes.json which library key each beat ambience / SFX uses,
+    and list the new sounds generated (and the credits used, if the API
+    reports them) in story_notes.md and the final report.
+
+8.3 Placing the sounds
+  - Ambience follows the beat's location and time of day and changes with
+    the story: rain starts when the narration says it starts, thunder lands
+    on the word "thunder" (or the flash), traffic fades when a door closes.
+  - Spot SFX sit on the exact word time (`atMs` from the captions) of the
+    action they belong to.
+  - Interior scenes still get the outside world faintly (rain on the roof,
+    distant waves, a passing motorbike) — that is what makes it immersive.
+  - Emotional peaks may thin the ambience down to room tone + a drone; let
+    the bed swell back in after the moment.
+
+8.4 Fallback: procedural sounds
+  If ElevenLabs is unavailable (no key, quota used up, repeated errors) or a
+  generated sound is unusable after one retry, use the local `sfx/` library
+  (CC0/royalty-free files, licences noted) or synthesise it procedurally with
+  `pipeline/sound.py` / Python+numpy / ffmpeg (filtered noise for
+  wind/rain/waves, sines for hums and drones, short enveloped noise bursts
+  for thuds/knocks). Hums/drones (b) stay procedural. Do not download files
+  from the internet without asking.
+
+8.5 Mixing:
   - Narration is king: resample the WAV to 48 kHz stereo, leave it
     untouched otherwise; it must always be clearly intelligible.
-  - Ambience around -28 to -34 dB relative to narration; SFX -12 to -22 dB;
-    sidechain-duck ambience/SFX under speech (ffmpeg `sidechaincompress`).
+  - Ambience beds around -22 to -30 dB relative to narration (audible and
+    present in pauses, clearly underneath speech); SFX -12 to -22 dB;
+    sidechain-duck ambience/SFX under speech (ffmpeg `sidechaincompress`,
+    about 6-8 dB of reduction while words are spoken, fast attack, ~300 ms
+    release) so the beds rise gently in the gaps between sentences.
+  - Resample ElevenLabs MP3s to 48 kHz stereo; give beds a 1-2 s fade in/out
+    and loop them with a 1-2 s crossfade; light high-pass (~60 Hz) on beds
+    so they don't muddy the voice; pan spot SFX slightly to match where the
+    action is in the image.
   - Short fades on every SFX (5-20 ms) to avoid clicks; no SFX longer than
     the shot it belongs to unless it is an ambience.
   - Final loudness normalise to -14 LUFS (`loudnorm`), true peak -1.5 dBTP.
@@ -477,7 +620,9 @@ the word currently being spoken highlighted.
   then downscale, to avoid jitter). Alternate motion directions.
 - Transitions between beats (different images): 0.4-0.8 s crossfade, or a
   transition that fits the story (fade through black for time jumps, a soft
-  dissolve for memories/flashbacks). 1 s fade from/to black only at the very
+  dissolve for memories/flashbacks). Between shot / reverse-shot dialogue
+  beats (5.4) use a clean cut or a very short dissolve (≤ 0.2 s) so the
+  focus snaps to the new speaker. 1 s fade from/to black only at the very
   start and end. Keep total length equal to the narration; account for
   crossfade overlap when computing segment durations.
 - Layer order (bottom → top): moving image → captions → logo. The logo and
@@ -508,24 +653,129 @@ the word currently being spoken highlighted.
         intimacy, no prohibited items, no text artefacts);
       - characters look consistent with their cards;
       - images match what the narration is saying at that moment;
+      - every dialogue shot shows its speaker centred and in focus (5.4);
       - logo present, centred, readable on every frame.
       Regenerate any failing beat image (counts toward the image budget;
       log it).
-  [ ] Listen to/measure the audio: no music, narration clearly on top, no
-      clipping, loudness ≈ -14 LUFS, SFX land on the right words.
+  [ ] Listen to/measure the audio: no music, no AI voices/speech in the
+      beds, narration clearly on top, every beat has a fitting ambience, no
+      audible loop seams, no clipping, loudness ≈ -14 LUFS, SFX land on the
+      right words.
   [ ] scenes.json, captions.ass, characters, logs, story_notes.md all written.
 
 Report at the end: output path, duration, number of beats and shots, number of
 images generated (new vs reused) and average seconds per image, caption
 rendering method used (ASS or fallback), number of refusals and how each was
 rewritten,
-estimated API cost, and any shots you think a human should double-check.
+estimated API cost, sounds generated with ElevenLabs (new vs reused from the
+library), and any shots you think a human should double-check. In story-ID
+mode also report the upload result per episode (section 13.6).
 
 
 -------------------------------------------------------------------------------
-13. RUN CONFIGURATION (edit per run)
+13. STORY-ID MODE — FETCH, MAKE, UPLOAD (site API)
 -------------------------------------------------------------------------------
-  INPUT_ZIP          = Hayaath/episode-272-audio.zip
+API reference: `shorts-integration.md`. Base URL:
+`https://dhivehivaahaka.com/api/v1/integrations` (or `SITE_URL` from env.txt
++ `/api/v1/integrations`). Auth headers on every call (section 1.3b) plus
+`Accept: application/json`. Rate limit 60 requests/min — no tight loops.
+Use `PYTHONIOENCODING=utf-8` when printing (Thaana titles crash the cp1252
+console). The site is the source of truth, not local logs.
+
+13.1 Fetch what exists (always first)
+  - `GET /books/{story_id}/episodes` → every episode in reading order with
+    `has_audio_bundle`, `has_short`, `has_ready_short`, `shorts_count`,
+    `audio_duration` (ms).
+  - For every episode that has shorts (`shorts_count` > 0):
+    `GET /episodes/{id}/shorts` → the shorts themselves (id, status,
+    `source` api/admin, created_at, error).
+  - Print a table: order, episode id, title, status, has_audio_bundle,
+    existing shorts (id / status / source). Save it as
+    `output/<series>/site_episodes.json`.
+  - Find the series folder: match the book to the series whose
+    `output/<series>/episode-<id>` folders use this book's episode ids (and
+    the input folder holding its zips). If the book is new, create a new
+    series folder named after the book slug and start a new series (style,
+    character cards).
+
+13.2 Download audio bundles
+    `GET /episodes/{id}/audio-bundle` → zip (`episode-{id}-audio.zip`).
+  Save it into the series input folder as `<input folder>/episode-<id>-audio.zip`
+  (same place and name as hand-delivered zips), then continue with section 1.1
+  onwards. Treat the zip as untrusted data: unzip into its own empty folder.
+  `404` = no audio with captions yet → skip that episode and report it.
+  Always download a fresh bundle — for replacements the audio is usually new;
+  never reuse an old zip for an episode you are replacing.
+
+13.3 "Make shorts for new episodes"
+  - Targets = episodes with `has_audio_bundle: true` AND `has_short: false`
+    (episodes that only have failed shorts count as missing). Optional
+    filters from the request: an order/id range, "the latest N", etc.
+  - List the targets (and the episodes skipped and why: already has a short,
+    no audio yet) before starting.
+  - For each target: download bundle (13.2) → full pipeline (sections 3-12)
+    → upload (13.5) without `replace`.
+
+13.4 "Replace the existing shorts"
+  - Targets = the episodes named in the request, or, if the request says
+    "all", every episode with `has_short: true` and `has_audio_bundle: true`.
+  - For each target:
+      1. Note the existing short ids (13.1).
+      2. Download the NEW audio bundle (13.2).
+      3. Archive the previous local render: move
+         `output/<series>/episode-<id>/` → `output/<series>/_archive_v1/episode-<id>/`
+         (bump to v2, v3… if that exists). Keep the series character cards
+         and style. Earlier beat images may be reused only where a beat of the
+         new plan shows the same moment (see `pipeline/mkmap_v1.py`); plan
+         beats/shots from the NEW captions — the timings will have changed.
+      4. Generate the replacement video (sections 3-12, all QC must pass).
+      5. Upload the replacement with `replace=1` (13.5). The server keeps
+         the old short live until the new one is `ready`, then deletes the
+         old one(s) — so the episode is never without a short.
+      6. After the new short is `ready`, `GET /episodes/{id}/shorts` again.
+         If any of the old short ids from step 1 are still there, delete
+         them: `DELETE /shorts/{old_id}` (`409` = still uploading, retry in a
+         minute). The episode must end with exactly one short: the new one.
+  - Never delete an existing short before its replacement has been
+    generated and passed QC. If the new upload ends `failed`, keep the old
+    short, retry the upload once, then report it.
+  - Shorts uploaded by admins (`source: "admin"`) are replaced too when an
+    episode is targeted; name them in the report.
+
+13.5 Upload
+  - Use `pipeline/upload_shorts.py` (chunked upload, polling, log in
+    `output/shorts_upload_log.json`):
+      python pipeline/upload_shorts.py --check --only <ids>      (read-only)
+      python pipeline/upload_shorts.py --only <ids>              (new episodes)
+      python pipeline/upload_shorts.py --only <ids> --replace    (replacements)
+      python pipeline/upload_shorts.py --poll
+    It uploads `output/<Series>/episode-<N>/<Series>_Episode<N>_TikTok.mp4`
+    as the short for episode id N.
+  - Never run two uploader processes at once (they overwrite each other's
+    log). Upload episodes one after another as they finish rendering, or in
+    one run at the end.
+  - Files over the server cap (500 MB, `SHORTS_MAX_UPLOAD_MB`) must be
+    re-encoded at a lower video bitrate first (keep the original as
+    `_orig.mp4.bak`).
+  - Title defaults to the episode title — don't send one unless asked.
+  - `409` on start = the episode already has a short and `replace` was not
+    sent → stop for that episode and report it (do not add `replace` on
+    your own in "new episodes" mode).
+  - Poll `GET /shorts/{id}` every 15-30 s until `ready` or `failed`.
+
+13.6 Report (per episode)
+  episode id / order / title, action (new / replaced / skipped + reason),
+  old short ids deleted, new short id and final status, video duration and
+  size, plus the normal section-12 report for each video.
+
+
+-------------------------------------------------------------------------------
+14. RUN CONFIGURATION (edit per run)
+-------------------------------------------------------------------------------
+  MODE               = zip | story_new | story_replace
+  STORY_ID           = <book id on dhivehivaahaka.com>   (story modes)
+  EPISODES           = all | <ids / order range>        (story modes)
+  INPUT_ZIP          = Hayaath/episode-272-audio.zip     (zip mode)
   LOGO               = logo.svg
   IMAGE_MODEL        = gpt-image-2.5-flare
   IMAGE_QUALITY      = low
@@ -533,10 +783,16 @@ estimated API cost, and any shots you think a human should double-check.
   NEW_IMAGE_POLICY   = only on scene / time / character / action change (5.1)
   TARGET_SEC_PER_IMG = 20-40   (soft max ~45 images per 14 min)
   TARGET_SHOT_SEC    = 6-12
+  DIALOGUE_FOCUS     = speaker centred + in focus; crop first, new image
+                       only if a crop can't do it (5.4)
   CAPTIONS           = on, word-level highlight (section 10)
   CAPTION_FONT       = MV Waheed or Faruma (fonts/ folder), fallback: an
                        installed Thaana font
   CAPTION_COLOURS    = text #FFFFFF, highlight #FFD400, outline #000000
   CAPTION_WORDS      = 3-6 per page, max 2 lines
+  SOUND_FX           = ElevenLabs eleven_text_to_sound_v2, cached in
+                       sfx/elevenlabs/ (fallback: procedural, section 8.4)
+  AMBIENCE_LEVEL     = -22 to -30 dB under narration, ducked under speech
+  UPLOAD             = on in story modes (pipeline/upload_shorts.py)
   OUTPUT_DIR         = output/
 ===============================================================================

@@ -1,6 +1,14 @@
-"""Procedural sound design + mix. No music: ambience beds, non-melodic drones, SFX only.
-Usage: python sound.py <episode_dir> <episode_number>
+"""Sound design + mix. No music: ambience beds, non-melodic drones, SFX only.
+Usage: python sound.py <episode_dir> <episode_number> [--no-library]
 Writes audio/narration_48k.wav, audio/ambience.wav, audio/sfx.wav, audio/drone.wav, audio/final_mix.wav
+
+A beat's `ambience` is one key or a list of layers; each layer is a key or {"key", "gainDb"}. Keys found in the
+ElevenLabs library (sfx/elevenlabs/index.jsonl, see sfx_elevenlabs.py; "category/key" also accepted) play that
+file (48 kHz stereo, 60 Hz high-pass, looped with a 1.5 s crossfade, variations <key>_v2.. alternate); other keys
+use the procedural generators below. Optional beat `ambienceDb` sets the bed level (dB under speech RMS; default
+-31 for procedural-only beds, -26 when a library layer is used). SFX entries {"name", "atMs", "gainDb", "pan"?}:
+`name` (or `key`) is looked up in the library first, then the procedural sfx_* generators. --no-library forces
+procedural sounds only.
 """
 import json, os, subprocess, sys
 import numpy as np
@@ -8,12 +16,14 @@ from scipy import signal
 from scipy.io import wavfile
 
 SR = 48000
-ep_dir, n = sys.argv[1], sys.argv[2]
+argv = [a for a in sys.argv[1:] if not a.startswith("--")]
+USE_LIB = "--no-library" not in sys.argv
+ep_dir, n = argv[0], argv[1]
 A = os.path.join(ep_dir, "audio"); os.makedirs(A, exist_ok=True)
 rng = np.random.default_rng(int(n))
 doc = json.load(open(os.path.join(ep_dir, "scenes.json"), encoding="utf-8"))
 # flatten beats -> shots (ambience is per beat, SFX and hums per shot)
-scenes = [dict(sh, ambience=b["ambience"]) for b in doc["beats"] for sh in b["shots"]] if isinstance(doc, dict) else doc
+scenes = [dict(sh, ambience=b["ambience"], ambienceDb=b.get("ambienceDb")) for b in doc["beats"] for sh in b["shots"]] if isinstance(doc, dict) else doc
 
 # ---------------------------------------------------------------- narration
 narr_path = os.path.join(A, "narration_48k.wav")
@@ -916,26 +926,231 @@ AMB.update({
     "dream_glow": lambda s: lp(room_tone(s), 400) * 0.6 + wind(s, 0.15) * 0.3,
 })
 
+# ---------------------------------------------------------------- Aliflaila (Arabian Nights palaces, desert, sea, lake)
+def fountain_bed(sec):
+    x = bp(noise(sec), 800, 6000) * smooth_rand(sec, 6, 0.6, 1) * 0.5 + drips(sec, 1.2)[:, 0] * 0.4
+    return np.stack([x, np.roll(x, 900)], 1)
+def lantern_hall(sec): return lp(room_tone(sec), 600) * 0.8 + fire_bed(sec) * 0.08
+def sfx_horse_hooves():
+    sec = 3.0; out = np.zeros(int(sec * SR))
+    for k in range(10):
+        s = int((0.1 + k * 0.27 + (0.06 if k % 2 else 0)) * SR); L = int(0.12 * SR); tt = np.arange(L) / SR
+        out[s:s + L] += (np.sin(2 * np.pi * 160 * tt) * np.exp(-tt * 45) + bp(noise(0.12), 600, 3000) * np.exp(-tt * 50) * 0.5)
+    return fade(out, 0.01, 0.3)
+def sfx_smoke_whoosh():
+    sec = 2.5; t = t_(sec); env = np.sin(np.pi * t / sec) ** 2
+    x = lp(brown(sec), 400) * env + bp(noise(sec), 300, 2000) * env * 0.5
+    return np.stack([x, np.roll(x, 3000)], 1)
+def sfx_magic_shimmer():
+    sec = 2.2; t = t_(sec); env = np.sin(np.pi * t / sec) ** 2
+    x = hp(noise(sec), 5000) * smooth_rand(sec, 30, 0, 1) ** 3 * env
+    return np.stack([x, np.roll(x, 700)], 1)
+def sfx_sandstorm_gust():
+    sec = 4.0; t = t_(sec); env = np.sin(np.pi * t / sec) ** 1.5
+    x = bp(noise(sec), 400, 4000) * env * smooth_rand(sec, 8, 0.5, 1) + lp(brown(sec), 250) * env
+    return np.stack([x, np.roll(x, 2000)], 1)
+def sfx_metal_lid():
+    sec = 0.8; tt = t_(sec)
+    x = (np.sin(2 * np.pi * 420 * tt) * 0.5 + np.sin(2 * np.pi * 690 * tt) * 0.3) * np.exp(-tt * 9) + bp(noise(sec), 500, 4000) * np.exp(-tt * 60)
+    return fade(x, 0.002, 0.1)
+def sfx_net_cast(): return sfx_splash()
+AMB.update({
+    "palace_night": lambda s: lantern_hall(s) + crickets(s, 0.35) * 0.35 + wind(s, 0.2) * 0.3,
+    "palace_dawn": lambda s: lantern_hall(s) * 0.8 + birds(s, 0.7) * 0.4 + wind(s, 0.2) * 0.3,
+    "palace_day": lambda s: lp(room_tone(s), 700) * 0.7 + birds(s, 0.4) * 0.3 + fountain_bed(s) * 0.15,
+    "throne_hall": lambda s: lp(room_tone(s), 500) * 0.8 + murmur(s, 8) * 0.25,
+    "palace_garden_day": lambda s: fountain_bed(s) * 0.5 + birds(s, 0.9) * 0.5 + wind(s, 0.3) * 0.4,
+    "palace_garden_night": lambda s: fountain_bed(s) * 0.4 + crickets(s, 0.8) * 0.6 + wind(s, 0.3) * 0.4,
+    "palace_kitchen": lambda s: lp(room_tone(s), 700) * 0.7 + fire_bed(s) * 0.5 + murmur(s, 2) * 0.1,
+    "bazaar_day": lambda s: murmur(s, 16) * 0.7 + wind(s, 0.3) * 0.4 + birds(s, 0.2) * 0.2,
+    "desert_day": lambda s: wind(s, 0.8) + hollow_wind(s) * 0.2,
+    "sandstorm": lambda s: wind(s, 1.4) * 1.2 + bp(noise(s), 500, 4000)[:, None].repeat(2, 1) * 0.15 * smooth_rand(s, 3, 0.4, 1)[:, None],
+    "oasis_day": lambda s: wind(s, 0.5) + birds(s, 0.6) * 0.4 + fountain_bed(s) * 0.25,
+    "seashore_dawn": lambda s: waves(s) + wind(s, 0.5) * 0.6 + birds(s, 0.4) * 0.3,
+    "seashore_day": lambda s: waves(s) + wind(s, 0.6) * 0.6 + birds(s, 0.3) * 0.2,
+    "lake_mountains": lambda s: lp(waves(s).T, 700).T * 0.4 + wind(s, 0.5) + birds(s, 0.3) * 0.3,
+    "mountain_night": lambda s: wind(s, 0.7) + crickets(s, 0.5) * 0.4 + hollow_wind(s) * 0.25,
+    "empty_castle": lambda s: hollow_wind(s) * 0.8 + fountain_bed(s) * 0.2 + lp(room_tone(s), 400) * 0.4,
+    "caravan_road": lambda s: wind(s, 0.7) + murmur(s, 3) * 0.12 + birds(s, 0.2) * 0.2,
+    "polo_field": lambda s: wind(s, 0.5) + murmur(s, 10) * 0.4 + birds(s, 0.3) * 0.2,
+    "island_wild": lambda s: waves(s) * 0.8 + wind(s, 0.7) + birds(s, 0.5) * 0.3,
+    "city_lanes_night": lambda s: crickets(s, 0.6) + wind(s, 0.5) + hollow_wind(s) * 0.15,
+})
+# ---- Yaraa (deserted jungle island, eerie voice, storm, return to Male)
+AMB.update({
+    "jungle_day": lambda s: wind(s, 0.6) * 0.8 + birds(s, 0.35) * 0.35 + waves(s) * 0.15,
+    "jungle_eerie": lambda s: wind(s, 0.5) * 0.7 + hollow_wind(s) * 0.35 + crickets(s, 0.25) * 0.2 + waves(s) * 0.1,
+    "pond_jungle": lambda s: wind(s, 0.5) * 0.6 + hollow_wind(s) * 0.25 + birds(s, 0.15) * 0.15 + crickets(s, 0.2) * 0.2,
+    "island_storm_day": lambda s: rain(s) * 1.1 + wind(s, 1.1) + waves(s) * 0.5 + thunder_bed(s) * 0.8,
+    "sea_rough": lambda s: waves(s) * 1.1 + wind(s, 1.0) * 0.8 + np.stack([lp(sfx_boat_engine(s), 500)] * 2, 1) * 0.45,
+    "male_jetty_dusk": lambda s: waves(s) * 0.5 + distant_boats(s) * 0.5 + murmur(s, 6) * 0.25 + wind(s, 0.4) * 0.4,
+})
+
+
+def heart_monitor_bed(sec, bpm=78):
+    """Steady soft heart-monitor beeps (hospital delivery room)."""
+    out = np.zeros(int(round(sec * SR))); L = int(0.09 * SR); tt = np.arange(L) / SR
+    beep = np.sin(2 * np.pi * 1000 * tt) * np.sin(np.pi * tt / 0.09) * 0.5
+    step = int(60 / bpm * SR)
+    for s in range(int(0.3 * SR), len(out) - L, step):
+        out[s:s + L] += beep
+    return stereo(out, 0)
+def sfx_heart_monitor():
+    return fade(heart_monitor_bed(4.0)[:, 0], 0.01, 0.3)
+
+
+AMB.update({
+    "delivery_room": lambda s: ac_hum(s) + heart_monitor_bed(s) * 0.35,
+    "library_day": lambda s: room_tone(s) + ac_hum(s) * 0.4 + birds(s, 0.15) * 0.1,
+})
+
+
+# ---- Handi Kujaa (picnic island, storm night, tent, jungle, crows)
+def canvas_flap_bed(sec):
+    """Irregular low thumps of a tent canvas snapping in gusts."""
+    out = np.zeros(int(round(sec * SR))); t = rng.uniform(0.5, 2.0)
+    while t < sec - 0.5:
+        L = int(rng.uniform(0.08, 0.2) * SR); s0 = int(t * SR)
+        if s0 + L >= len(out): break
+        out[s0:s0 + L] += lp(noise(L / SR), 600) * np.exp(-np.arange(L) / (0.04 * SR)) * rng.uniform(0.4, 1.0)
+        t += rng.uniform(0.6, 3.5)
+    return stereo(out, 0)
+def sfx_wings_flap():
+    """A flock of large birds taking off: dense fluttering bursts."""
+    sec = 3.0; out = np.zeros(int(round(sec * SR))); t = 0.0
+    while t < sec - 0.2:
+        L = int(0.05 * SR); s0 = int(t * SR)
+        out[s0:s0 + L] += bp(noise(0.05), 300, 2500) * np.hanning(L) * rng.uniform(0.3, 1.0)
+        t += rng.uniform(0.02, 0.07)
+    return fade(out * np.linspace(1, 0.3, len(out)), 0.05, 0.6)
+def sfx_fabric_tear():
+    sec = 1.2; x = hp(bp(noise(sec), 800, 6000), 600) * smooth_rand(sec, 40, 0.2, 1) * np.linspace(1, 0.2, int(round(sec * SR)))
+    return fade(x, 0.01, 0.2)
+
+
+AMB.update({
+    "tent_storm": lambda s: lp(rain(s).T, 1800).T * 1.1 + wind(s, 1.0) * 0.8 + canvas_flap_bed(s) * 0.5 + thunder_bed(s) * 0.6,
+    "beach_storm_night": lambda s: waves(s) * 1.2 + rain(s) + wind(s, 1.2) + thunder_bed(s),
+    "jungle_storm_night": lambda s: rain(s) + wind(s, 1.1) + hollow_wind(s) * 0.3 + thunder_bed(s) * 0.8,
+})
+# InssafugeMagu (New York / Boston crime thriller: rainy Manhattan tower office, Amtrak at dawn, Cambridge library)
+def rail_bed(sec):
+    """Train interior: low rumble plus the double clack of wheels over rail joints."""
+    n_ = int(round(sec * SR))
+    out = np.stack([lp(brown(sec), 140)] * 2, 1) * 0.9 + np.stack([bp(noise(sec), 300, 1200)] * 2, 1) * 0.05
+    t = rng.uniform(0.2, 1.0)
+    while t < sec - 0.5:
+        for dt in (0.0, 0.11):
+            s0 = int((t + dt) * SR); L = int(0.06 * SR)
+            if s0 + L < n_:
+                out[s0:s0 + L] += stereo(lp(noise(0.06), 700) * np.exp(-np.arange(L) / (0.012 * SR)) * 0.6, rng.uniform(-0.3, 0.3))
+        t += rng.uniform(1.05, 1.25)
+    return out
+def sfx_fax_print():
+    """Old fax machine: motor whir with a stepping buzz, ~4 s."""
+    sec = 4.0; t = t_(sec)
+    motor = bp(noise(sec), 400, 2500) * (0.6 + 0.4 * (np.sin(2 * np.pi * 9 * t) > 0))
+    step = signal.square(2 * np.pi * 120 * t) * 0.15
+    return fade(lp(motor + step, 4000), 0.05, 0.3)
+def sfx_coin_clink():
+    """A heavy metal coin set down: short ringing partials."""
+    sec = 0.9; t = t_(sec)
+    x = sum(np.sin(2 * np.pi * f * t) * a for f, a in ((2350, 1), (3810, 0.6), (5230, 0.35)))
+    return fade(x * np.exp(-t / 0.18) + hp(noise(sec), 3000) * np.exp(-t / 0.01) * 0.5, 0.002, 0.1)
+def sfx_dial_tone():
+    """The flat continuous tone of a dropped phone line (a single steady tone, no melody), ~3 s."""
+    sec = 3.0; t = t_(sec)
+    return fade(np.sin(2 * np.pi * 425 * t) * 0.5, 0.02, 0.4)
+
+
+AMB.update({
+    "train_dawn": lambda s: rail_bed(s) + wind(s, 0.3) * 0.3,
+    "city_rain_night": lambda s: rain(s) + traffic(s, False) * 0.6 + thunder_bed(s) * 0.4,
+    "library_rain_day": lambda s: room_tone(s) + window_rain(s) * 0.6 + clock_bed(s) * 0.3,
+    "smoke_room": lambda s: room_tone(s) * 0.6 + window_rain(s) * 0.9 + wind(s, 0.7) + dread(s) * 0.3,
+})
 SFX ={k[4:]: v for k, v in globals().items() if k.startswith("sfx_") and callable(v)}
 
 
 def to_st(x): return x if x.ndim == 2 else stereo(x, 0)
 
 
+# ---------------------------------------------------------------- ElevenLabs library sounds (sfx/elevenlabs)
+LIB_AMB_LEVEL = -26  # dB under speech RMS for beds that use a library layer (section 8.5: -22 to -30)
+try:
+    import sfx_elevenlabs as lib
+except ImportError:
+    lib = None; USE_LIB = False
+_decoded = {}
+lib_used = set()
+
+
+def lib_entry(key, category):
+    if not USE_LIB or not isinstance(key, str): return None
+    e = lib.lookup(key)
+    return e if e and (category is None or e["category"] == category or "/" in key) else None
+def decode(e, highpass):
+    """Library file -> float (n, 2) at 48 kHz (soxr), optional 60 Hz high-pass for beds."""
+    ck = (e["file"], highpass)
+    if ck not in _decoded:
+        af = "aresample=48000:resampler=soxr" + (",highpass=f=60:poles=2" if highpass else "")
+        r = subprocess.run(["ffmpeg", "-v", "error", "-i", os.path.join(lib.ROOT, e["file"]), "-af", af,
+                            "-ac", "2", "-ar", "48000", "-f", "f32le", "-"], capture_output=True, check=True)
+        _decoded[ck] = np.frombuffer(r.stdout, np.float32).reshape(-1, 2).astype(np.float64)
+    return _decoded[ck]
+def lib_bed(key, sec, xf_sec=1.5):
+    """Loop a library bed (alternating its variations) to `sec` with equal-power crossfades."""
+    vs = lib.variants(key.split("/", 1)[-1]) or [lib.lookup(key)]
+    clips = [decode(e, True) for e in vs]; lib_used.update(e["key"] for e in vs)
+    L = int(round(sec * SR)); out = clips[0][:L].copy(); i = 1
+    while len(out) < L:
+        c = clips[i % len(clips)]; i += 1
+        xf = min(int(xf_sec * SR), len(c) // 3, len(out) // 3)
+        if xf < 1: out = np.concatenate([out, c]); continue
+        w = np.linspace(0, np.pi / 2, xf)[:, None]
+        out = np.concatenate([out[:-xf], out[-xf:] * np.cos(w) + c[:xf] * np.sin(w), c[xf:]])
+    return out[:L]
+def lib_sfx(e):
+    """Library spot SFX: 48 kHz stereo with leading silence trimmed so it lands on the word time."""
+    x = decode(e, False); lib_used.add(e["key"])
+    a = np.abs(x).max(1); on = np.nonzero(a > a.max() * db(-40))[0]
+    return x[max(0, on[0] - int(0.01 * SR)):] if len(on) else x
+def pan_st(x, pan):
+    """Pan a stereo signal: balance -1 (left) .. 1 (right), equal-power."""
+    return x * np.array([np.cos((pan + 1) * np.pi / 4), np.sin((pan + 1) * np.pi / 4)]) * 1.4142
+def layers(amb):
+    """Normalise a beat ambience to [(key, gainDb)]."""
+    items = amb if isinstance(amb, list) else [amb]
+    return [(it["key"], it.get("gainDb", 0)) if isinstance(it, dict) else (it, 0) for it in items]
+def make_bed(amb, L, amb_db):
+    """Bed of L samples for one ambience run, RMS-normalised, at amb_db under speech RMS (None = default)."""
+    ls = layers(amb); sec = L / SR + 0.01
+    if len(ls) == 1 and ls[0][1] == 0 and not lib_entry(ls[0][0], "ambience"):  # plain procedural key
+        return rmsnorm(AMB[ls[0][0]](sec)[:L]) * (speech_rms * db(AMB_LEVEL if amb_db is None else amb_db))
+    bed = np.zeros((L, 2)); uses_lib = False
+    for key, g in ls:
+        if lib_entry(key, "ambience"): x = lib_bed(key, sec); uses_lib = True
+        elif key in AMB: x = AMB[key](sec)
+        else: raise KeyError(f"ambience '{key}' is neither in sfx/elevenlabs/index.jsonl nor a procedural bed")
+        bed += rmsnorm(x[:L]) * db(g)
+    lvl = amb_db if amb_db is not None else (LIB_AMB_LEVEL if uses_lib else AMB_LEVEL)
+    return rmsnorm(bed) * (speech_rms * db(lvl))
+
+
 # ---------------------------------------------------------------- build stems
 def build():
     amb = np.zeros((N, 2)); sfx = np.zeros((N, 2)); drone = np.zeros((N, 2))
-    amb_lvl = speech_rms * db(AMB_LEVEL)
     XF = int(1.5 * SR)
     # ambience: group consecutive shots with the same bed
     runs = []
     for s in scenes:
         a, b = int(s["startMs"] * SR / 1000), int(s["endMs"] * SR / 1000)
-        if runs and runs[-1][0] == s["ambience"]: runs[-1][2] = b
-        else: runs.append([s["ambience"], a, b])
-    for k, (name, a, b) in enumerate(runs):
+        bed_id = (s["ambience"], s.get("ambienceDb"))
+        if runs and runs[-1][0] == bed_id: runs[-1][2] = b
+        else: runs.append([bed_id, a, b])
+    for k, ((name, amb_db), a, b) in enumerate(runs):
         a0 = max(0, a - XF // 2); b0 = min(N, b + XF // 2)
-        bed = rmsnorm(AMB[name]((b0 - a0) / SR + 0.01)[: b0 - a0]) * amb_lvl
+        bed = make_bed(name, b0 - a0, amb_db)
         env = np.ones(b0 - a0)
         fi = XF if k else int(2.5 * SR); fo = XF if k < len(runs) - 1 else int(2.0 * SR)
         env[:fi] *= np.linspace(0, 1, fi); env[-fo:] *= np.linspace(1, 0, fo)
@@ -945,7 +1160,11 @@ def build():
     for s in scenes:
         end = int(s["endMs"] * SR / 1000)
         for c in s["sfx"]:
-            x = to_st(SFX[c["name"]]())
+            e = lib_entry(c.get("key") or c["name"], None)
+            if e: x = lib_sfx(e)
+            elif c["name"] in SFX: x = to_st(SFX[c["name"]]())
+            else: raise KeyError(f"sfx '{c['name']}' is neither in sfx/elevenlabs/index.jsonl nor a procedural sfx_")
+            if c.get("pan") is not None: x = pan_st(x, float(c["pan"]))
             x = x / (np.sqrt(np.mean(x[np.abs(x).max(1) > np.abs(x).max() * 0.05] ** 2)) + 1e-9)
             pos = int(c["atMs"] * SR / 1000)
             L = min(len(x), end - pos, N - pos)
@@ -980,6 +1199,13 @@ wr(os.path.join(A, "ambience.wav"), amb); wr(os.path.join(A, "sfx.wav"), sfx); w
 wr(os.path.join(A, "fx_bed.wav"), amb + sfx + drone)
 json.dump(cues, open(os.path.join(A, "sfx_cues.json"), "w"), indent=0)
 print(f"{len(cues)} sfx cues placed")
+if lib_used:
+    label = f"{os.path.basename(os.path.dirname(os.path.abspath(ep_dir)))}/{os.path.basename(os.path.abspath(ep_dir))}"
+    lib.mark_used(sorted(lib_used), label)
+    json.dump(sorted(lib_used), open(os.path.join(A, "library_sounds.json"), "w"), indent=0)
+    print(f"{len(lib_used)} ElevenLabs library sounds used: {', '.join(sorted(lib_used))}")
+elif os.path.exists(os.path.join(A, "library_sounds.json")):
+    os.remove(os.path.join(A, "library_sounds.json"))
 
 # ---------------------------------------------------------------- mix: duck fx under narration, loudnorm -14 LUFS / -1.5 dBTP
 pre = os.path.join(A, "premix.wav")
